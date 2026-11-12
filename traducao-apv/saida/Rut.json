@@ -184,12 +184,22 @@
    ],
    "notas": [
     {
-     "tipo": "literal",
-     "texto": "Lit. “E aconteceu, nos dias do julgar dos juízes, e houve fome na terra”."
+     "tipo": "tn",
+     "ancora": "Nos dias em que os juízes governavam",
+     "termo": "בִּימֵי שְׁפֹט הַשֹּׁפְטִים (bîmê šəpōṭ haššōpəṭîm)",
+     "titulo": "“nos dias em que os juízes governavam”",
+     "texto": "O hebraico diz “nos dias do julgar dos juízes”. Šāpaṭ, no livro de Juízes, é governar e libertar, não só decidir causas; por isso “governavam” e não “julgavam”. O wayhî inicial (“e aconteceu”) é fórmula de abertura narrativa e não precisa de palavra própria em português.",
+     "marca": "tn 1.1",
+     "pos": 36
     },
     {
-     "tipo": "tradução",
-     "texto": "“Morar como estrangeiro” traduz gur: residir em terra alheia sem direitos de cidadão."
+     "tipo": "tn",
+     "ancora": "morar como estrangeiro",
+     "termo": "לָגוּר (lāgûr)",
+     "titulo": "“morar como estrangeiro”",
+     "texto": "Gûr é residir em terra alheia como gēr, sem os direitos do natural da terra. “Morar” sozinho apagaria essa condição frágil, que é o pano de fundo do livro; “peregrinar” (ARC) hoje sugere viagem religiosa.",
+     "marca": "tn 1.1b",
+     "pos": 111
     }
    ],
    "aparato": []
@@ -381,8 +391,13 @@
    ],
    "notas": [
     {
-     "tipo": "contexto",
-     "texto": "Efrateus: o clã de Efrata, antigo nome da região de Belém (Gn 35:19; Mq 5:2)."
+     "tipo": "sn",
+     "ancora": "efrateus",
+     "termo": "אֶפְרָתִים (’eprātîm)",
+     "titulo": "“efrateus”",
+     "texto": "Gentílico do clã de Efrata, antigo nome de Belém ou da região (Gn 35:19; 1Sm 17:12; Mq 5:2). Mantido como nome próprio, sem trocar por “de Efrata”, porque o texto insiste na identidade judaíta da família.",
+     "marca": "sn 1.2",
+     "pos": 100
     }
    ],
    "aparato": []
@@ -466,8 +481,13 @@
    ],
    "notas": [
     {
-     "tipo": "literal",
-     "texto": "Lit. “e restou ela e seus dois filhos”."
+     "tipo": "tn",
+     "ancora": "ficou sozinha com os dois filhos",
+     "termo": "וַתִּשָּׁאֵר הִיא וּשְׁנֵי בָנֶיהָ (wattiššā’ēr hî’ ûšənê bānêhā)",
+     "titulo": "“ficou sozinha com”",
+     "texto": "Lit. “e ficou ela e seus dois filhos”. Šā’ar (nifal) é “restar, sobrar”: a palavra prepara o v. 5, quando ela “resta” sem ninguém. “Sozinha com” guarda o sentido de perda sem acrescentar ideia nova.",
+     "marca": "tn 1.3",
+     "pos": 80
     }
    ],
    "aparato": []
@@ -605,8 +625,13 @@
    ],
    "notas": [
     {
-     "tipo": "literal",
-     "texto": "Lit. “tomaram para si mulheres moabitas”."
+     "tipo": "tn",
+     "ancora": "se casaram com",
+     "termo": "וַיִּשְׂאוּ לָהֶם נָשִׁים (wayyiś’û lāhem nāšîm)",
+     "titulo": "“se casaram com”",
+     "texto": "Lit. “tomaram para si mulheres”. Nāśā’ ’iššāh é expressão tardia para casar (Ed 10:44; 2Cr 11:21), diferente do mais comum lāqaḥ ’iššāh. A tradução usa o equivalente natural em português.",
+     "marca": "tn 1.4",
+     "pos": 19
     }
    ],
    "aparato": []
@@ -708,8 +733,13 @@
    ],
    "notas": [
     {
-     "tipo": "tradução",
-     "texto": "O texto usa yeled (“menino, criança”) para os filhos já adultos, palavra que ecoa no fim do livro (4:16), quando Noemi recebe outra criança."
+     "tipo": "tn",
+     "ancora": "seus dois filhos",
+     "termo": "שְׁנֵי יְלָדֶיהָ (šənê yəlādêhā)",
+     "titulo": "“filhos” (yəlādîm)",
+     "texto": "Aqui o termo não é bānîm (v. 3), mas yəlādîm, “meninos, crianças”, usado para os filhos já adultos. É o único uso do termo para adultos casados no AT e prepara 4:16, quando Noemi recebe outro yeled no colo. Em português “filhos” é a única escolha natural; a nota preserva o eco (Campbell).",
+     "marca": "tn 1.5",
+     "pos": 82
     }
    ],
    "aparato": []
@@ -883,12 +913,22 @@
    ],
    "notas": [
     {
-     "tipo": "tradução",
-     "texto": "SENHOR, em versaletes, representa o nome divino YHWH, seguindo a tradição judaica de leitura e a das Bíblias em português."
+     "tipo": "tn",
+     "ancora": "SENHOR",
+     "termo": "יְהוָה (YHWH)",
+     "titulo": "SENHOR em versaletes",
+     "texto": "O nome próprio de Deus, YHWH, é traduzido “SENHOR” em versaletes, como na tradição judaica de leitura (Adonai), na Septuaginta (Kyrios) e nas Bíblias em português. Alternativas como “Javé” ou “Jeová” foram descartadas: a primeira é reconstrução acadêmica da pronúncia, a segunda mistura consoantes e vogais de palavras diferentes.",
+     "marca": "tn 1.6",
+     "pos": 115
     },
     {
-     "tipo": "tradução",
-     "texto": "“Visitado” (paqad): intervir com cuidado e providência. Há jogo de palavras: Belém significa “casa do pão”."
+     "tipo": "tn",
+     "ancora": "visitado",
+     "termo": "פָקַד (pāqad)",
+     "titulo": "“visitado”",
+     "texto": "Pāqad é intervir pessoalmente, para socorrer ou para punir (Gn 21:1; 50:24). “Visitado” é a tradução clássica e guarda as duas direções; “socorrido” estreitaria o termo. Há jogo de palavras com lāḥem (“pão”) e Bêt-leḥem, “casa do pão”: a fome acabou na casa do pão.",
+     "marca": "tn 1.6b",
+     "pos": 130
     }
    ],
    "aparato": []
@@ -1205,12 +1245,22 @@
    ],
    "notas": [
     {
-     "tipo": "tradução",
-     "texto": "“Seja bondoso” traduz “faça hesed”. Hesed é a bondade leal da aliança: amor que se mantém fiel por compromisso. É palavra-chave do livro (1:8; 2:20; 3:10)."
+     "tipo": "tn",
+     "ancora": "seja bondoso",
+     "termo": "יַעַשׂ ... חֶסֶד (ya‘aś ... ḥesed)",
+     "titulo": "ḥesed: “seja bondoso”",
+     "texto": "Lit. “faça bondade leal”. Ḥesed é o amor que cumpre compromisso além do que se exige, palavra-chave do livro (1:8; 2:20; 3:10). Nenhuma palavra portuguesa cobre o termo: “misericórdia” (ARC) puxa para piedade, “benevolência” perde a lealdade. Aqui, com verbo, “seja bondoso”; quando o substantivo pede destaque (2:20; 3:10), “bondade leal”.",
+     "marca": "tn 1.8",
+     "pos": 98
     },
     {
-     "tipo": "texto",
-     "texto": "O Ketiv traz uma forma longa do verbo (ya‘aseh); o Qere, seguido aqui, lê ya‘as. O sentido é o mesmo."
+     "tipo": "tc",
+     "ancora": "seja bondoso",
+     "termo": "יַעַשׂ / Ketiv יעשה",
+     "titulo": "Ketiv e Qere",
+     "texto": "O Ketiv escreve a forma longa ya‘ăśeh; os massoretas mandam ler ya‘aś (Qere), jussivo de desejo. A APV segue o Qere, como em todo o AT; o sentido não muda.",
+     "marca": "tc 1.8",
+     "pos": 98
     }
    ],
    "aparato": [
@@ -1344,12 +1394,22 @@
    ],
    "notas": [
     {
-     "tipo": "literal",
-     "texto": "Lit. “e elas ergueram a voz e choraram”."
+     "tipo": "tn",
+     "ancora": "descanso",
+     "termo": "מְנוּחָה (mənûḥāh)",
+     "titulo": "“descanso”",
+     "texto": "Mənûḥāh é lugar de repouso e segurança, aqui a vida estável de casada. Mantém-se “descanso” (e não “lar”) para preservar o eco com 3:1, onde Noemi busca para Rute um mānôaḥ, da mesma raiz.",
+     "marca": "tn 1.9",
+     "pos": 56
     },
     {
-     "tipo": "tradução",
-     "texto": "“Descanso” (menuḥah): segurança e lar estável. O tema volta em 3:1."
+     "tipo": "tn",
+     "ancora": "choraram em alta voz",
+     "termo": "וַתִּשֶּׂאנָה קוֹלָן וַתִּבְכֶּינָה (wattissenāh qôlān wattibkênāh)",
+     "titulo": "“choraram em alta voz”",
+     "texto": "Lit. “ergueram a sua voz e choraram”, hendíadis hebraica para pranto alto. Duas orações seriam literais mas pesadas; “em alta voz” guarda o sentido.",
+     "marca": "tn 1.9b",
+     "pos": 122
     }
    ],
    "aparato": []
@@ -1415,8 +1475,13 @@
    ],
    "notas": [
     {
-     "tipo": "literal",
-     "texto": "O hebraico usa kî com valor adversativo forte: “antes, com você voltaremos”."
+     "tipo": "tn",
+     "ancora": "Não!",
+     "termo": "כִּי (kî)",
+     "titulo": "“Não!”",
+     "texto": "Depois de uma ordem, kî tem valor adversativo forte: “antes, com você voltaremos”. O “Não!” explícita a recusa que o kî expressa.",
+     "marca": "tn 1.10",
+     "pos": 21
     }
    ],
    "aparato": []
@@ -1939,13 +2004,23 @@
    ],
    "notas": [
     {
-     "tipo": "raridade",
-     "texto": "“ficariam sem se casar” traduz ‘agan, hápax (única ocorrência na Bíblia hebraica). O sentido “reter-se, permanecer presa” vem do hebraico pós-bíblico (agunah). Também lāhēn (“por causa deles/por isso”) é raro.",
-     "revisar": true
+     "tipo": "tn",
+     "ancora": "Ficariam por causa deles sem se casar?",
+     "termo": "הֲלָהֵן תֵּעָגֵנָה (hălāhēn tē‘āgēnāh)",
+     "titulo": "‘āgan, hápax",
+     "texto": "‘Āgan só aparece aqui na Bíblia. O sentido “reter-se, ficar presa (sem marido)” vem do hebraico rabínico (‘agunah, mulher que não pode casar de novo) e do contexto. Lāhēn (“por causa deles” ou “por isso”) também é raro e pode ser aramaísmo. A tradução segue a leitura de Hubbard e Bush.",
+     "revisar": true,
+     "marca": "tn 1.13",
+     "pos": 75
     },
     {
-     "tipo": "literal",
-     "texto": "A última frase pode ser lida de duas formas: “é mais amargo para mim do que para vocês” ou “é muito amargo para mim por causa de vocês”. A primeira se encaixa melhor no argumento de Noemi."
+     "tipo": "tn",
+     "ancora": "A minha amargura é muito maior que a de vocês",
+     "termo": "כִּי־מַר־לִי מְאֹד מִכֶּם (kî-mar-lî mə’ōd mikkem)",
+     "titulo": "comparação ou causa",
+     "texto": "Mikkem pode ser comparativo (“mais amargo para mim do que para vocês”) ou causal (“amargo para mim por causa de vocês”). A comparação foi escolhida porque é o argumento de Noemi: as noras ainda têm futuro, ela não. A leitura causal é defendida por Campbell.",
+     "marca": "tn 1.13b",
+     "pos": 141
     }
    ],
    "aparato": []
@@ -2047,8 +2122,13 @@
    ],
    "notas": [
     {
-     "tipo": "tradução",
-     "texto": "“Apegou-se” (dabaq) é o mesmo verbo de Gn 2:24 (“unir-se à sua mulher”): adesão firme e pactual."
+     "tipo": "tn",
+     "ancora": "se apegou",
+     "termo": "דָּבְקָה (dābqāh)",
+     "titulo": "“se apegou”",
+     "texto": "Dābaq é o verbo de Gn 2:24 (“se unirá à sua mulher”) e de Dt 10:20 (“ao SENHOR te apegarás”): adesão leal de aliança. “Apegou-se” é mais forte que “ficou com” e mantém o eco em 2:8, 21, 23.",
+     "marca": "tn 1.14",
+     "pos": 75
     }
    ],
    "aparato": []
@@ -2159,8 +2239,13 @@
    ],
    "notas": [
     {
-     "tipo": "tradução",
-     "texto": "Elohim aqui é plural de fato (“deuses”), pois se refere aos deuses de Moabe, como Camos."
+     "tipo": "tn",
+     "ancora": "deuses",
+     "termo": "אֱלֹהֶיהָ (’ĕlōhêhā)",
+     "titulo": "’ĕlōhîm: “deuses” ou “deus”",
+     "texto": "’Ĕlōhîm é plural de forma. Para o Deus de Israel tem sentido singular; aqui, falando de Moabe, pode ser “seus deuses” ou “seu deus” (Camos, Nm 21:29). O plural foi escolhido por ser a leitura mais natural na boca de uma israelita e porque a Septuaginta também traz o plural.",
+     "marca": "tn 1.15",
+     "pos": 76
     }
    ],
    "aparato": []
@@ -2352,8 +2437,22 @@
    ],
    "notas": [
     {
-     "tipo": "literal",
-     "texto": "Lit. “Não me pressione a te deixar, a voltar de seguir-te”. As frases finais são nominais: “teu povo, meu povo; teu Deus, meu Deus”."
+     "tipo": "tn",
+     "ancora": "Não insista comigo",
+     "termo": "אַל־תִּפְגְּעִי־בִי (’al-tipgə‘î-bî)",
+     "titulo": "“não insista comigo”",
+     "texto": "Pāga‘ bə- é pressionar, investir contra alguém. “Não me rogues” (ARC) soa arcaico; “não insista” é o equivalente natural.",
+     "marca": "tn 1.16",
+     "pos": 43
+    },
+    {
+     "tipo": "tn",
+     "ancora": "O seu povo será o meu povo, e o seu Deus será o meu Deus",
+     "termo": "עַמֵּךְ עַמִּי וֵאלֹהַיִךְ אֱלֹהָי (‘ammēk ‘ammî wē’lōhayik ’ĕlōhāy)",
+     "titulo": "frases nominais",
+     "texto": "O hebraico não tem verbo: “teu povo, meu povo; teu Deus, meu Deus”. “Será” explicita a promessa, como fazem quase todas as versões. Uma tradução sem verbo seria possível em poesia, mas soaria truncada na fala.",
+     "marca": "tn 1.16b",
+     "pos": 198
     }
    ],
    "aparato": []
@@ -2509,8 +2608,13 @@
    ],
    "notas": [
     {
-     "tipo": "literal",
-     "texto": "Fórmula de juramento: “Assim me faça o SENHOR e assim acrescente, se [algo além de] a morte separar entre mim e ti”. Rute jura pelo nome de YHWH, o Deus de Israel."
+     "tipo": "tn",
+     "ancora": "Que o SENHOR me castigue com todo rigor",
+     "termo": "כֹּה יַעֲשֶׂה יְהוָה לִי וְכֹה יֹסִיף (kōh ya‘ăśeh YHWH lî wəkōh yōsîp)",
+     "titulo": "fórmula de juramento",
+     "texto": "Lit. “assim me faça o SENHOR, e assim acrescente”. Fórmula de autoimprecação (1Sm 3:17; 2Sm 3:9) acompanhada, na origem, de um gesto. Traduzida pelo sentido, porque o literal não comunica nada ao leitor de hoje. Rute jura pelo nome de YHWH, sinal de que adotou o Deus de Israel.",
+     "marca": "tn 1.17",
+     "pos": 93
     }
    ],
    "aparato": []
@@ -2603,8 +2707,13 @@
    ],
    "notas": [
     {
-     "tipo": "literal",
-     "texto": "Lit. “que ela se fortalecia para ir com ela, e cessou de falar a ela”."
+     "tipo": "tn",
+     "ancora": "estava decidida",
+     "termo": "מִתְאַמֶּצֶת (mit’ammeṣet)",
+     "titulo": "“decidida”",
+     "texto": "Hitpael de ’āmaṣ, “fortalecer-se, firmar-se”. “Decidida” traduz a firmeza de vontade; “obstinada” teria tom negativo, ausente do texto.",
+     "marca": "tn 1.18",
+     "pos": 35
     }
    ],
    "aparato": []
@@ -2769,8 +2878,13 @@
    ],
    "notas": [
     {
-     "tipo": "tradução",
-     "texto": "O verbo “diziam” é feminino plural no hebraico: as mulheres da cidade."
+     "tipo": "tn",
+     "ancora": "as mulheres diziam",
+     "termo": "וַתֹּאמַרְנָה (wattō’marnāh)",
+     "titulo": "sujeito feminino",
+     "texto": "O verbo está no feminino plural: são as mulheres da cidade que falam. A tradução explicita o sujeito que o hebraico indica pela forma verbal.",
+     "marca": "tn 1.19",
+     "pos": 136
     }
    ],
    "aparato": []
@@ -2908,12 +3022,22 @@
    ],
    "notas": [
     {
-     "tipo": "tradução",
-     "texto": "Noemi significa “agradável, minha delícia”; Mara, “amarga”. A grafia mārā’ (com álef, forma aramaizante) é hápax."
+     "tipo": "tn",
+     "ancora": "Mara",
+     "termo": "מָרָא (mārā’)",
+     "titulo": "Noemi e Mara",
+     "texto": "Noemi (no‘ŏmî) significa “minha delícia, agradável”; Mara, “amarga”. A grafia com álef final (mārā’) é forma aramaizante e única. Os nomes ficam transliterados, e o sentido vai em nota, para não quebrar a cena.",
+     "marca": "tn 1.20",
+     "pos": 60
     },
     {
-     "tipo": "tradução",
-     "texto": "“Todo-Poderoso” traduz Shaddai, título divino antigo (Gn 17:1). A etimologia é incerta; a tradução segue a tradição grega e latina (Pantokratōr, Omnipotens)."
+     "tipo": "tn",
+     "ancora": "Todo-Poderoso",
+     "termo": "שַׁדַּי (šadday)",
+     "titulo": "Šadday",
+     "texto": "Título antigo de Deus (Gn 17:1; Êx 6:3; frequente em Jó). A etimologia é incerta (“o da montanha”? “o suficiente”?). Segue-se a tradição da Septuaginta (pantokratōr, em Jó) e da Vulgata (Omnipotens), já fixada no português.",
+     "marca": "tn 1.20b",
+     "pos": 82
     }
    ],
    "aparato": []
@@ -3069,8 +3193,13 @@
    ],
    "notas": [
     {
-     "tipo": "texto",
-     "texto": "“Testemunhou contra mim” segue o TM (‘anah be-, termo jurídico). A Septuaginta e a Vulgata leem ‘innah (“humilhou-me”), com as mesmas consoantes e outra vocalização."
+     "tipo": "tc",
+     "ancora": "testemunhou contra mim",
+     "termo": "עָנָה בִי (‘ānāh bî)",
+     "titulo": "TM e Septuaginta",
+     "texto": "O TM lê ‘ānāh bî, expressão jurídica: “depôs contra mim” (Êx 20:16). A Septuaginta, a Siríaca e a Vulgata leem as mesmas consoantes como ‘innāh (“humilhou-me”). A APV segue o TM, que faz sentido e combina com a linguagem de tribunal do v. 21.",
+     "marca": "tc 1.21",
+     "pos": 109
     }
    ],
    "aparato": []
@@ -3226,8 +3355,13 @@
    ],
    "notas": [
     {
-     "tipo": "contexto",
-     "texto": "A colheita da cevada acontecia por volta de abril, perto da Páscoa."
+     "tipo": "sn",
+     "ancora": "colheita da cevada",
+     "termo": "קְצִיר שְׂעֹרִים (qəṣîr śə‘ōrîm)",
+     "titulo": "época do ano",
+     "texto": "A cevada era colhida por volta de abril, perto da Páscoa; o trigo vinha algumas semanas depois (2:23). O dado prepara os capítulos 2 e 3.",
+     "marca": "sn 1.22",
+     "pos": 143
     }
    ],
    "aparato": []
@@ -3329,12 +3463,22 @@
    ],
    "notas": [
     {
-     "tipo": "tradução",
-     "texto": "“Homem de grande valor” (gibbôr ḥayil) pode indicar riqueza, posição e caráter. Rute recebe o título correspondente em 3:11 (’ēshet ḥayil)."
+     "tipo": "tc",
+     "ancora": "parente",
+     "termo": "מוֹדַע (môda‘), Ketiv מידע",
+     "titulo": "Ketiv e Qere",
+     "texto": "O Ketiv (myd‘) pode ser lido meyuddā‘, “conhecido”; o Qere lê môda‘, “parente”. A APV segue o Qere, que combina com 3:2 (môda‘at) e com o resto da história.",
+     "marca": "tc 2.1",
+     "pos": 22
     },
     {
-     "tipo": "texto",
-     "texto": "O Ketiv lê meyudda‘ (“conhecido”); o Qere, seguido aqui, lê môda‘ (“parente”), palavra rara."
+     "tipo": "tn",
+     "ancora": "homem de grande valor",
+     "termo": "אִישׁ גִּבּוֹר חַיִל (’îš gibbôr ḥayil)",
+     "titulo": "gibbôr ḥayil",
+     "texto": "Em contexto militar é “guerreiro valente” (Jz 6:12); em contexto civil, homem de posses, posição e caráter (1Sm 9:1; 2Rs 15:20). “De grande valor” cobre os três sentidos e prepara 3:11, onde Rute é ’ēšet ḥayil, “mulher de valor”.",
+     "marca": "tn 2.1",
+     "pos": 65
     }
    ],
    "aparato": [
@@ -3522,12 +3666,22 @@
    ],
    "notas": [
     {
-     "tipo": "literal",
-     "texto": "Lit. “atrás daquele em cujos olhos eu achar graça”."
+     "tipo": "tn",
+     "ancora": "alguém que me olhe com bondade",
+     "termo": "אֲשֶׁר אֶמְצָא־חֵן בְּעֵינָיו (’ăšer ’emṣā’-ḥēn bə‘ênāyw)",
+     "titulo": "“achar graça aos olhos”",
+     "texto": "Lit. “aquele a cujos olhos eu achar graça”. A expressão idiomática foi trocada pelo seu sentido, porque “achar graça” em português hoje significa “achar engraçado”.",
+     "marca": "tn 2.2",
+     "pos": 115
     },
     {
-     "tipo": "contexto",
-     "texto": "A Lei mandava deixar as sobras da colheita para o pobre, o estrangeiro, o órfão e a viúva (Lv 19:9-10; Dt 24:19)."
+     "tipo": "sn",
+     "ancora": "recolher espigas",
+     "termo": "וַאֲלַקֳטָה בַשִּׁבֳּלִים (wa’ălaqŏṭāh baššibbŏlîm)",
+     "titulo": "direito de respiga",
+     "texto": "A Lei mandava deixar para o pobre, o estrangeiro, o órfão e a viúva o que sobrava da colheita (Lv 19:9-10; 23:22; Dt 24:19). Rute é as três coisas.",
+     "marca": "sn 2.2",
+     "pos": 75
     }
    ],
    "aparato": []
@@ -3665,8 +3819,13 @@
    ],
    "notas": [
     {
-     "tipo": "literal",
-     "texto": "Lit. “e o seu acaso acasou”. O narrador fala em “acaso” com ironia: o leitor percebe a mão da providência."
+     "tipo": "tn",
+     "ancora": "E aconteceu que caiu justamente",
+     "termo": "וַיִּקֶר מִקְרֶהָ (wayyiqer miqrehā)",
+     "titulo": "“o seu acaso acasou”",
+     "texto": "Jogo de raiz (qrh): “e o seu acaso aconteceu”. O narrador fala em “acaso” com ironia, porque o leitor sabe que Deus governa a história (1:6; 4:13). “Justamente” tenta passar o tom de coincidência suspeita sem pôr no texto uma interpretação.",
+     "marca": "tn 2.3",
+     "pos": 98
     }
    ],
    "aparato": []
@@ -3884,8 +4043,13 @@
    ],
    "notas": [
     {
-     "tipo": "tradução",
-     "texto": "A pergunta “de quem é” busca a quem ela pertence (família, senhor), não apenas o nome."
+     "tipo": "tn",
+     "ancora": "De quem é aquela moça?",
+     "termo": "לְמִי הַנַּעֲרָה הַזֹּאת (ləmî hanna‘ărāh hazzō’t)",
+     "titulo": "“de quem é”",
+     "texto": "Boaz não pergunta o nome, mas a quem ela pertence (família, marido, senhor). A tradução literal guarda essa nuance social.",
+     "marca": "tn 2.5",
+     "pos": 74
     }
    ],
    "aparato": []
@@ -4184,13 +4348,23 @@
    ],
    "notas": [
     {
-     "tipo": "texto",
-     "texto": "Final de difícil leitura no TM: lit. “isto o seu sentar a casa pouco”. A tradução entende “casa” como abrigo no campo. A Septuaginta diz “não descansou no campo nem um pouco”.",
-     "revisar": true
+     "tipo": "tc",
+     "ancora": "só descansou um pouco no abrigo",
+     "termo": "זֶה שִׁבְתָּהּ הַבַּיִת מְעָט (zeh šibtāh habbayit mə‘āṭ)",
+     "titulo": "fim de difícil leitura",
+     "texto": "O TM diz, lit., “isto o seu sentar a casa pouco”. Há três saídas: (1) “casa” = abrigo no campo, como aqui (Hubbard); (2) “ela mal parou em casa”; (3) seguir a Septuaginta, “não descansou no campo nem um pouco”. A primeira exige menos mudança no texto. A passagem continua incerta.",
+     "revisar": true,
+     "marca": "tc 2.7",
+     "pos": 160
     },
     {
-     "tipo": "tradução",
-     "texto": "“Entre os feixes” traduz ba-‘omarim; também possível “recolher em feixes”."
+     "tipo": "tn",
+     "ancora": "entre os feixes",
+     "termo": "בָעֳמָרִים (bā‘ŏmārîm)",
+     "titulo": "“entre os feixes”",
+     "texto": "Pode ser “entre os feixes” (lugar) ou “em feixes” (modo). Escolheu-se o lugar porque em 2:15 Boaz autoriza exatamente isso como favor especial.",
+     "marca": "tn 2.7",
+     "pos": 55
     }
    ],
    "aparato": []
@@ -4382,12 +4556,22 @@
    ],
    "notas": [
     {
-     "tipo": "literal",
-     "texto": "Lit. “Não ouviste, minha filha?”, expressão retórica para chamar atenção."
+     "tipo": "tn",
+     "ancora": "Escute, minha filha",
+     "termo": "הֲלוֹא שָׁמַעַתְּ בִּתִּי (hălô’ šāma‘at bittî)",
+     "titulo": "pergunta retórica",
+     "texto": "Lit. “Não ouviste, minha filha?”. É forma de chamar atenção, não pergunta real; por isso “Escute”.",
+     "marca": "tn 2.8",
+     "pos": 39
     },
     {
-     "tipo": "tradução",
-     "texto": "“Fique junto” traduz de novo dabaq (cf. 1:14)."
+     "tipo": "tn",
+     "ancora": "fique aqui junto com",
+     "termo": "תִדְבָּקִין (tidbāqîn)",
+     "titulo": "dābaq de novo",
+     "texto": "O mesmo verbo de 1:14 (“se apegou”). Aqui o sentido é concreto, “ficar junto”, mas o leitor atento ouve o eco.",
+     "marca": "tn 2.8b",
+     "pos": 108
     }
    ],
    "aparato": []
@@ -4579,8 +4763,13 @@
    ],
    "notas": [
     {
-     "tipo": "literal",
-     "texto": "Lit. “Teus olhos no campo que ceifarem”."
+     "tipo": "tn",
+     "ancora": "Fique de olho no campo",
+     "termo": "עֵינַיִךְ בַּשָּׂדֶה (‘ênayik baśśādeh)",
+     "titulo": "“teus olhos no campo”",
+     "texto": "Frase nominal sem verbo. “Fique de olho” é a expressão portuguesa mais próxima e conserva a palavra “olho”.",
+     "marca": "tn 2.9",
+     "pos": 22
     }
    ],
    "aparato": []
@@ -4718,8 +4907,13 @@
    ],
    "notas": [
     {
-     "tipo": "tradução",
-     "texto": "Há jogo de palavras entre lehakkirenî (“reparar em mim, reconhecer-me”) e nokriyyah (“estrangeira”), da mesma raiz nkr."
+     "tipo": "tn",
+     "ancora": "reparar em mim, sendo eu estrangeira",
+     "termo": "לְהַכִּירֵנִי וְאָנֹכִי נָכְרִיָּה (ləhakkîrēnî wə’ānōkî nokriyyāh)",
+     "titulo": "jogo de palavras nkr",
+     "texto": "Hikkîr (“reparar, reconhecer”) e nokriyyāh (“estrangeira”) vêm da mesma raiz. O jogo não passa para o português; a nota registra: a estrangeira é “reconhecida”.",
+     "marca": "tn 2.10",
+     "pos": 147
     }
    ],
    "aparato": []
@@ -4983,12 +5177,31 @@
    ],
    "notas": [
     {
-     "tipo": "literal",
-     "texto": "Lit. “foi bem contado a mim” (infinitivo absoluto de reforço) e “que não conhecias ontem e anteontem”."
+     "tipo": "tn",
+     "ancora": "Contaram-me tudo",
+     "termo": "הֻגֵּד הֻגַּד לִי (huggēd huggad lî)",
+     "titulo": "infinitivo absoluto",
+     "texto": "O infinitivo absoluto reforça o verbo: “foi-me plenamente contado”. “Tudo” transfere o reforço.",
+     "marca": "tn 2.11",
+     "pos": 33
     },
     {
-     "tipo": "contexto",
-     "texto": "A linguagem lembra o chamado de Abraão (Gn 12:1)."
+     "tipo": "tn",
+     "ancora": "que antes você não conhecia",
+     "termo": "תְּמוֹל שִׁלְשׁוֹם (təmôl šilšôm)",
+     "titulo": "“ontem e anteontem”",
+     "texto": "Idiomatismo para “antes, no passado”. O literal confundiria o leitor.",
+     "marca": "tn 2.11b",
+     "pos": 194
+    },
+    {
+     "tipo": "sn",
+     "ancora": "deixou seu pai, sua mãe e a terra onde nasceu",
+     "termo": "וַתַּעַזְבִי אָבִיךְ וְאִמֵּךְ וְאֶרֶץ מוֹלַדְתֵּךְ",
+     "titulo": "eco de Abraão",
+     "texto": "A linguagem lembra o chamado de Abraão (Gn 12:1: “da tua terra, da tua parentela”). Rute faz o mesmo caminho sem ter recebido promessa.",
+     "marca": "sn 2.11",
+     "pos": 145
     }
    ],
    "aparato": []
@@ -5135,8 +5348,13 @@
    ],
    "notas": [
     {
-     "tipo": "tradução",
-     "texto": "“Asas” (kenafayim) volta em 3:9, onde Rute pede a Boaz que estenda a “aba” (kanaf) do manto sobre ela: ele mesmo se torna resposta à oração que fez."
+     "tipo": "tn",
+     "ancora": "sob cujas asas",
+     "termo": "תַּחַת־כְּנָפָיו (taḥat-kənāpāyw)",
+     "titulo": "kānāp: “asas”",
+     "texto": "Kānāp é “asa” e também “aba, borda do manto”. Aqui o sentido é “asas” (proteção de Deus, Sl 36:7; 91:4). Em 3:9 a mesma palavra volta como “aba do manto”: Boaz se torna a resposta da própria oração. Por isso a APV mantém a imagem e não a troca por “proteção”.",
+     "marca": "tn 2.12",
+     "pos": 116
     }
    ],
    "aparato": []
@@ -5301,12 +5519,22 @@
    ],
    "notas": [
     {
-     "tipo": "literal",
-     "texto": "“Falar ao coração”: falar com ternura, encorajar (cf. Gn 34:3; Is 40:2)."
+     "tipo": "tn",
+     "ancora": "falou ao coração",
+     "termo": "דִבַּרְתָּ עַל־לֵב (dibbartā ‘al-lēb)",
+     "titulo": "“falar ao coração”",
+     "texto": "Expressão de ternura e encorajamento (Gn 34:3; Is 40:2; Os 2:14). Foi mantida porque também é compreensível em português.",
+     "marca": "tn 2.13",
+     "pos": 114
     },
     {
-     "tipo": "tradução",
-     "texto": "Shifḥah (“serva”) é termo de condição humilde; em 3:9 Rute usará ’amah (ver nota ali)."
+     "tipo": "tn",
+     "ancora": "serva",
+     "termo": "שִׁפְחָה (šipḥāh)",
+     "titulo": "šipḥāh",
+     "texto": "Termo para serva de condição humilde. Em 3:9 Rute usará ’āmāh (ver nota ali).",
+     "marca": "tn 2.13b",
+     "pos": 127
     }
    ],
    "aparato": []
@@ -5516,13 +5744,23 @@
    ],
    "notas": [
     {
-     "tipo": "raridade",
-     "texto": "“ofereceu” traduz ṣabaṭ, hápax; o sentido vem do contexto e de cognatos (estender, passar com a mão).",
-     "revisar": true
+     "tipo": "tn",
+     "ancora": "ofereceu",
+     "termo": "וַיִּצְבָּט (wayyiṣbāṭ)",
+     "titulo": "ṣābaṭ, hápax",
+     "texto": "Única ocorrência na Bíblia. O sentido “estender, passar (comida)” vem do contexto e do hebraico pós-bíblico. “Ofereceu” é o termo neutro que não acrescenta detalhe que o texto não dá.",
+     "revisar": true,
+     "marca": "tn 2.14",
+     "pos": 149
     },
     {
-     "tipo": "tradução",
-     "texto": "“Vinagre” (ḥomeṣ): bebida ou molho fermentado e ácido, usado para refrescar."
+     "tipo": "tn",
+     "ancora": "vinagre",
+     "termo": "חֹמֶץ (ḥōmeṣ)",
+     "titulo": "ḥōmeṣ",
+     "texto": "Líquido fermentado e ácido, de vinho ou cevada, usado para refrescar e temperar o pão (Nm 6:3). “Molho” seria mais moderno; “vinagre” é exato e reconhecível.",
+     "marca": "tn 2.14b",
+     "pos": 91
     }
    ],
    "aparato": []
@@ -5758,9 +5996,24 @@
    ],
    "notas": [
     {
-     "tipo": "raridade",
-     "texto": "Ṣevatim (“feixes, punhados”) é hápax; shalal (“puxar, deixar cair”) é raro. A construção com infinitivo absoluto (“puxar, puxai”) indica ação intencional.",
-     "revisar": true
+     "tipo": "tn",
+     "ancora": "Tirem também, de propósito",
+     "termo": "וְגַם שֹׁל־תָּשֹׁלּוּ (wəgam šōl-tāšōllû)",
+     "titulo": "šālal com infinitivo absoluto",
+     "texto": "Šālal (“puxar, deixar cair”) é raro neste sentido, e o infinitivo absoluto reforça a ação: é deliberado. Wəgam é aditivo (“também”), por isso não “ao contrário”.",
+     "revisar": true,
+     "marca": "tn 2.16",
+     "pos": 26
+    },
+    {
+     "tipo": "tn",
+     "ancora": "dos feixes",
+     "termo": "מִן־הַצְּבָתִים (min-haṣṣəbātîm)",
+     "titulo": "ṣəbātîm, hápax",
+     "texto": "Única ocorrência. Provavelmente “punhados” de espigas já cortadas, antes de serem amarrados. “Feixes” é a aproximação mais segura.",
+     "revisar": true,
+     "marca": "tn 2.16b",
+     "pos": 54
     }
    ],
    "aparato": []
@@ -5871,8 +6124,13 @@
    ],
    "notas": [
     {
-     "tipo": "contexto",
-     "texto": "Uma efa equivalia a algo entre 13 e 22 litros, quantidade grande para um dia de respiga."
+     "tipo": "sn",
+     "ancora": "uma efa",
+     "termo": "כְּאֵיפָה (kə’êpāh)",
+     "titulo": "efa",
+     "texto": "Medida de sólidos, entre 13 e 22 litros segundo as estimativas. Manteve-se o nome da medida, com equivalência em nota, para não fixar um valor incerto no texto. Era quantidade grande para um dia de respiga.",
+     "marca": "sn 2.17",
+     "pos": 102
     }
    ],
    "aparato": []
@@ -6017,7 +6275,17 @@
      "cod": "HR/Ncmsc/Sp3fs"
     }
    ],
-   "notas": [],
+   "notas": [
+    {
+     "tipo": "tn",
+     "ancora": "Ela carregou o grão",
+     "termo": "וַתִּשָּׂא (wattiśśā’)",
+     "titulo": "objeto subentendido",
+     "texto": "O hebraico diz só “e levantou”. O objeto, o grão debulhado do v. 17, foi explicitado para evitar um pronome sem antecedente claro.",
+     "marca": "tn 2.18",
+     "pos": 19
+    }
+   ],
    "aparato": []
   },
   {
@@ -6458,12 +6726,22 @@
    ],
    "notas": [
     {
-     "tipo": "teologia",
-     "texto": "O sujeito de “não deixou” é ambíguo: pode ser o SENHOR ou Boaz. A sintaxe (cf. Gn 24:27) favorece o SENHOR, que age por meio de Boaz. Mantém-se a ambiguidade do original."
+     "tipo": "tn",
+     "ancora": "que não deixou de mostrar a sua bondade leal",
+     "termo": "אֲשֶׁר לֹא־עָזַב חַסְדּוֹ (’ăšer lō’-‘āzab ḥasdô)",
+     "titulo": "quem não deixou?",
+     "texto": "O sujeito pode ser o SENHOR ou Boaz. A construção “bendito seja ... pelo SENHOR, que...” aparece em Gn 24:27 com Deus como sujeito, e “aos vivos e aos mortos” combina mais com Deus. A tradução mantém a ambiguidade da ordem hebraica para não decidir pelo leitor (Hubbard prefere o SENHOR; Campbell deixa aberto).",
+     "marca": "tn 2.20",
+     "pos": 95
     },
     {
-     "tipo": "tradução",
-     "texto": "“Resgatador” traduz go’el: o parente com dever de resgatar terra, pessoa ou nome da família (Lv 25:25-55; Dt 25:5-10). A palavra é aplicada a Deus como Redentor (Jó 19:25; Is 41:14)."
+     "tipo": "tn",
+     "ancora": "resgatadores",
+     "termo": "מִגֹּאֲלֵנוּ (miggō’ălēnû)",
+     "titulo": "gō’ēl",
+     "texto": "O parente que tinha o dever de resgatar terra vendida (Lv 25:25), libertar um parente escravizado (Lv 25:47-49) e vingar sangue (Nm 35:19). “Remidor” (ARC) é arcaico; “parente próximo” perde a função jurídica. “Resgatador” une as duas coisas. A palavra é usada para Deus como Redentor (Jó 19:25; Is 41:14).",
+     "marca": "tn 2.20b",
+     "pos": 213
     }
    ],
    "aparato": []
@@ -6655,8 +6933,13 @@
    ],
    "notas": [
     {
-     "tipo": "tradução",
-     "texto": "Boaz falou das “servas” (2:8); Rute diz “servos” (masculino genérico). Noemi, no versículo seguinte, volta a dizer “servas”."
+     "tipo": "tn",
+     "ancora": "meus servos",
+     "termo": "הַנְּעָרִים (hannə‘ārîm)",
+     "titulo": "servos ou servas",
+     "texto": "Boaz tinha dito “servas” (2:8); Rute repete “servos” (masculino, que pode incluir ambos). Noemi, no v. 22, volta a dizer “servas”. A tradução reproduz a diferença em vez de harmonizar.",
+     "marca": "tn 2.21",
+     "pos": 73
     }
    ],
    "aparato": []
@@ -6937,8 +7220,13 @@
    ],
    "notas": [
     {
-     "tipo": "contexto",
-     "texto": "As duas colheitas duravam cerca de sete semanas, da Páscoa a Pentecostes."
+     "tipo": "sn",
+     "ancora": "colheita da cevada e da colheita do trigo",
+     "termo": "קְצִיר־הַשְּׂעֹרִים וּקְצִיר הַחִטִּים",
+     "titulo": "duração",
+     "texto": "As duas colheitas iam da Páscoa a Pentecostes, cerca de sete semanas. Rute passou esse tempo protegida no campo de Boaz.",
+     "marca": "sn 2.23",
+     "pos": 110
     }
    ],
    "aparato": []
@@ -7058,8 +7346,13 @@
    ],
    "notas": [
     {
-     "tipo": "tradução",
-     "texto": "“Lar” traduz manôaḥ, “lugar de descanso” (cf. 1:9)."
+     "tipo": "tn",
+     "ancora": "um lar",
+     "termo": "מָנוֹחַ (mānôaḥ)",
+     "titulo": "mānôaḥ",
+     "texto": "Lit. “lugar de descanso”, da mesma raiz de mənûḥāh (1:9). “Lar” comunica o sentido (casamento e segurança); o eco é preservado pela nota.",
+     "marca": "tn 3.1",
+     "pos": 77
     }
    ],
    "aparato": []
@@ -7206,12 +7499,22 @@
    ],
    "notas": [
     {
-     "tipo": "raridade",
-     "texto": "Mōda‘at (“parente”) é hápax, variante de môda‘ (2:1)."
+     "tipo": "tn",
+     "ancora": "nosso parente",
+     "termo": "מֹדַעְתָּנוּ (mōda‘tānû)",
+     "titulo": "mōda‘at, hápax",
+     "texto": "Forma feminina abstrata de môda‘ (2:1), única na Bíblia: “nosso parentesco”, isto é, nosso parente.",
+     "marca": "tn 3.2",
+     "pos": 60
     },
     {
-     "tipo": "contexto",
-     "texto": "Padejar: lançar o grão debulhado ao ar para que o vento leve a palha. Fazia-se à tarde e à noite, com a brisa."
+     "tipo": "sn",
+     "ancora": "padejar a cevada",
+     "termo": "זֹרֶה אֶת־גֹּרֶן הַשְּׂעֹרִים (zōreh ’et-gōren haśśə‘ōrîm)",
+     "titulo": "padejar",
+     "texto": "Lançar ao ar o grão debulhado, com forcado ou pá, para o vento levar a palha. Fazia-se no fim da tarde e à noite, com a brisa. Os donos dormiam na eira para guardar a colheita.",
+     "marca": "sn 3.2",
+     "pos": 97
     }
    ],
    "aparato": []
@@ -7349,12 +7652,22 @@
    ],
    "notas": [
     {
-     "tipo": "texto",
-     "texto": "No Ketiv, “roupa” está no singular, e “descerá” tem a terminação -tî, que pode ser 1ª pessoa (“e eu descerei”) ou forma arcaica da 2ª pessoa feminina. O Qere, seguido aqui, lê o plural e a 2ª pessoa feminina comum."
+     "tipo": "tc",
+     "ancora": "vista as suas roupas e desça",
+     "termo": "שִׂמְלֹתַיִךְ ... וְיָרַדְתְּ (Ketiv: שמלתך, וירדתי)",
+     "titulo": "Ketiv e Qere",
+     "texto": "No Ketiv, “roupa” está no singular, e “descerá” tem a terminação -tî, que pode ser 1ª pessoa (“e eu descerei”) ou forma arcaica da 2ª feminina. A APV segue o Qere: plural e 2ª pessoa feminina comum.",
+     "marca": "tc 3.3",
+     "pos": 49
     },
     {
-     "tipo": "literal",
-     "texto": "Lit. “unja-se” e “ponha suas vestes sobre você”. Talvez indique deixar as roupas de luto."
+     "tipo": "tn",
+     "ancora": "perfume-se",
+     "termo": "וָסַכְתְּ (wāsakt)",
+     "titulo": "sûk: “ungir-se”",
+     "texto": "Sûk é ungir-se com óleo perfumado, gesto de quem deixa o luto (2Sm 12:20; 14:2). “Perfume-se” comunica o efeito sem a ideia religiosa que “ungir” traria.",
+     "marca": "tn 3.3",
+     "pos": 19
     }
    ],
    "aparato": [
@@ -7537,8 +7850,13 @@
    ],
    "notas": [
     {
-     "tipo": "tradução",
-     "texto": "Margelôt designa o lugar dos pés, os pés. A cena é delicada e o texto não descreve relação sexual; Rute faz um pedido formal de casamento (3:9)."
+     "tipo": "tn",
+     "ancora": "descubra os pés dele",
+     "termo": "וְגִלִּית מַרְגְּלֹתָיו (wəgillît margəlōtāyw)",
+     "titulo": "margəlôt",
+     "texto": "Margəlôt é “o lugar dos pés” (Dn 10:6). Alguns veem eufemismo sexual, mas o texto usa a palavra rara margəlôt e não regel; a cena é de pedido formal de casamento (3:9) e não de relação (Bush; Block). A tradução fica com o sentido concreto, sem atenuar nem acentuar.",
+     "marca": "tn 3.4",
+     "pos": 87
     }
    ],
    "aparato": []
@@ -7604,8 +7922,13 @@
    ],
    "notas": [
     {
-     "tipo": "texto",
-     "texto": "O Qere acrescenta “a mim” (’elay), palavra lida mas não escrita; segue-se aqui o Qere."
+     "tipo": "tc",
+     "ancora": "você me diz",
+     "termo": "תֹּאמְרִי [אֵלַי] (tō’mrî [’ēlay])",
+     "titulo": "Qere sem Ketiv",
+     "texto": "“A mim” (’ēlay) é palavra que se lê mas não está escrita (Qere sem Ketiv). Seguida, como em 3:17.",
+     "marca": "tc 3.5",
+     "pos": 45
     }
    ],
    "aparato": [
@@ -7819,8 +8142,13 @@
    ],
    "notas": [
     {
-     "tipo": "literal",
-     "texto": "Lit. “o seu coração ficou bem”."
+     "tipo": "tn",
+     "ancora": "ficou de bom humor",
+     "termo": "וַיִּיטַב לִבּוֹ (wayyîṭab libbô)",
+     "titulo": "“o seu coração ficou bem”",
+     "texto": "Expressão de contentamento depois de comer e beber (Jz 19:6; 1Rs 21:7), não necessariamente de embriaguez. “De bom humor” evita os dois exageros.",
+     "marca": "tn 3.7",
+     "pos": 38
     }
    ],
    "aparato": []
@@ -7922,9 +8250,14 @@
    ],
    "notas": [
     {
-     "tipo": "raridade",
-     "texto": "Lāfat (3x na Bíblia) pode significar “virar-se” ou “apalpar, inclinar-se”.",
-     "revisar": true
+     "tipo": "tn",
+     "ancora": "virou-se",
+     "termo": "וַיִּלָּפֵת (wayyillāpēt)",
+     "titulo": "lāpat, raro",
+     "texto": "Três ocorrências (Jz 16:29; Jó 6:18). Pode ser “virar-se” ou “inclinar-se, apalpar”. “Virou-se” é o sentido mais documentado.",
+     "revisar": true,
+     "marca": "tn 3.8",
+     "pos": 51
     }
    ],
    "aparato": []
@@ -8062,12 +8395,22 @@
    ],
    "notas": [
     {
-     "tipo": "tradução",
-     "texto": "“Estender a aba (kanaf) sobre” é expressão de casamento (Ez 16:8). Ecoa 2:12: as “asas” do SENHOR."
+     "tipo": "tn",
+     "ancora": "Estenda a aba do seu manto",
+     "termo": "וּפָרַשְׂתָּ כְנָפֶךָ (ûpāraśtā kənāpekā)",
+     "titulo": "kānāp: “aba do manto”",
+     "texto": "Estender o kānāp sobre uma mulher é gesto de casamento (Ez 16:8; Dt 23:1). A tradução escolhe “aba do manto” para o sentido ficar claro, e a nota liga a 2:12 (“sob cujas asas”): mesma palavra hebraica.",
+     "marca": "tn 3.9",
+     "pos": 93
     },
     {
-     "tipo": "tradução",
-     "texto": "“Serva” traduz ’amah. Rute usava antes shifḥah (2:13). Os termos são próximos e a distinção é debatida; muitos veem em ’amah uma serva que pode tornar-se esposa."
+     "tipo": "tn",
+     "ancora": "sua serva",
+     "termo": "אֲמָתֶךָ (’ămātekā)",
+     "titulo": "’āmāh e šipḥāh",
+     "texto": "Antes Rute usou šipḥāh (2:13). Os termos são próximos; muitos estudiosos veem em ’āmāh a serva que pode tornar-se esposa, mas a distinção é debatida. A APV traduz ambos por “serva” e marca a troca em nota.",
+     "marca": "tn 3.9b",
+     "pos": 65
     }
    ],
    "aparato": []
@@ -8241,8 +8584,13 @@
    ],
    "notas": [
     {
-     "tipo": "tradução",
-     "texto": "A “primeira bondade” é a lealdade a Noemi; a “última” é buscar casamento dentro da família, para preservar o nome de Elimeleque."
+     "tipo": "tn",
+     "ancora": "Esta sua última bondade é maior que a primeira",
+     "termo": "הֵיטַבְתְּ חַסְדֵּךְ הָאַחֲרוֹן מִן־הָרִאשׁוֹן",
+     "titulo": "a primeira e a última ḥesed",
+     "texto": "A primeira bondade é a lealdade a Noemi; a última é procurar casamento dentro da família, para preservar o nome de Elimeleque. Aqui o substantivo ḥesed é traduzido por “bondade” e o adjetivo “leal” fica implícito pelo contexto.",
+     "marca": "tn 3.10",
+     "pos": 96
     }
    ],
    "aparato": []
@@ -8416,12 +8764,22 @@
    ],
    "notas": [
     {
-     "tipo": "literal",
-     "texto": "Lit. “toda a porta do meu povo sabe”: a porta era o lugar da assembleia e do tribunal da cidade."
+     "tipo": "tn",
+     "ancora": "toda a cidade sabe",
+     "termo": "יוֹדֵעַ כָּל־שַׁעַר עַמִּי (yôdēa‘ kol-ša‘ar ‘ammî)",
+     "titulo": "“toda a porta do meu povo”",
+     "texto": "A porta era a praça pública, onde ficavam os anciãos e o tribunal (cf. 4:1). Metonímia para a comunidade; “cidade” transfere o sentido.",
+     "marca": "tn 3.11",
+     "pos": 95
     },
     {
-     "tipo": "tradução",
-     "texto": "’Ēshet ḥayil, “mulher de valor”, é a mesma expressão de Pv 31:10. No cânon hebraico, Rute vem logo depois de Provérbios."
+     "tipo": "tn",
+     "ancora": "mulher de valor",
+     "termo": "אֵשֶׁת חַיִל (’ēšet ḥayil)",
+     "titulo": "’ēšet ḥayil",
+     "texto": "Mesma expressão de Pv 31:10, e par exato de gibbôr ḥayil de Boaz (2:1). “Virtuosa” (ARC) estreita para a moral; “de valor” mantém o par. Na Bíblia hebraica, Rute vem logo depois de Provérbios.",
+     "marca": "tn 3.11b",
+     "pos": 126
     }
    ],
    "aparato": []
@@ -8541,8 +8899,13 @@
    ],
    "notas": [
     {
-     "tipo": "texto",
-     "texto": "O TM escreve ’im (“se”) depois de kî, mas os massoretas mandam não lê-lo (Ketiv sem Qere). A tradução segue a leitura massorética."
+     "tipo": "tc",
+     "ancora": "É verdade que sou resgatador",
+     "termo": "כִּי אָמְנָם כִּי [אם] גֹאֵל אָנֹכִי",
+     "titulo": "Ketiv sem Qere",
+     "texto": "O TM escreve ’im depois do segundo kî, mas os massoretas mandam não lê-lo. Seguida a leitura massorética.",
+     "marca": "tc 3.12",
+     "pos": 28
     }
    ],
    "aparato": [
@@ -8730,8 +9093,22 @@
    ],
    "notas": [
     {
-     "tipo": "literal",
-     "texto": "Lit. “se te resgatar, bom, que resgate”."
+     "tipo": "tn",
+     "ancora": "ótimo, que resgate",
+     "termo": "טוֹב יִגְאָל (ṭôb yig’āl)",
+     "titulo": "“bom, que resgate”",
+     "texto": "Ṭôb aqui é exclamação de concordância. Alguns entendem “Tob” como nome do outro parente, leitura antiga mas improvável.",
+     "marca": "tn 3.13",
+     "pos": 74
+    },
+    {
+     "tipo": "tn",
+     "ancora": "tão certo como vive o SENHOR",
+     "termo": "חַי־יְהוָה (ḥay-YHWH)",
+     "titulo": "fórmula de juramento",
+     "texto": "Fórmula comum de juramento (Jz 8:19; 1Sm 14:39). Mantida por ser compreensível.",
+     "marca": "tn 3.13b",
+     "pos": 145
     }
    ],
    "aparato": []
@@ -8896,8 +9273,13 @@
    ],
    "notas": [
     {
-     "tipo": "texto",
-     "texto": "Ketiv margelôtô (“seu pé”); Qere margelôtāyw (“seus pés”), seguido aqui. Ketiv biṭrôm, Qere beṭerem (“antes”), sem diferença de sentido."
+     "tipo": "tc",
+     "ancora": "aos pés dele",
+     "termo": "מַרְגְּלוֹתָיו (Ketiv מרגלתו)",
+     "titulo": "Ketiv e Qere",
+     "texto": "Ketiv margəlōtô (“seu pé”, sing.); Qere margəlōtāyw (“seus pés”), seguido aqui. Também “antes” tem duas grafias (biṭrôm / bəṭerem), sem diferença de sentido.",
+     "marca": "tc 3.14",
+     "pos": 30
     }
    ],
    "aparato": [
@@ -9062,12 +9444,22 @@
    ],
    "notas": [
     {
-     "tipo": "texto",
-     "texto": "O TM lê “ele foi” (wayyabo’); muitos manuscritos hebraicos, a Siríaca e a Vulgata leem “ela foi”. A tradução segue o TM."
+     "tipo": "tc",
+     "ancora": "Então ele foi para a cidade",
+     "termo": "וַיָּבֹא הָעִיר (wayyābō’ hā‘îr)",
+     "titulo": "“ele foi” ou “ela foi”",
+     "texto": "O TM traz o masculino (“ele foi”); muitos manuscritos hebraicos, a Siríaca e a Vulgata trazem “ela foi”. A APV segue o TM: Boaz vai à cidade para tratar do caso na porta (4:1).",
+     "marca": "tc 3.15",
+     "pos": 159
     },
     {
-     "tipo": "tradução",
-     "texto": "“Seis medidas”: o texto não diz a unidade. Provavelmente seis porções de uma medida pequena, que ela pudesse carregar."
+     "tipo": "tn",
+     "ancora": "seis medidas",
+     "termo": "שֵׁשׁ־שְׂעֹרִים (šēš-śə‘ōrîm)",
+     "titulo": "unidade não dita",
+     "texto": "O hebraico diz só “seis de cevada”. Seis efas seriam pesadas demais; provavelmente seis porções de uma medida menor. “Medidas” não fixa valor que o texto não fixa.",
+     "marca": "tn 3.15",
+     "pos": 101
     }
    ],
    "aparato": []
@@ -9214,8 +9606,13 @@
    ],
    "notas": [
     {
-     "tipo": "literal",
-     "texto": "Lit. “Quem és tu, minha filha?”, pergunta idiomática sobre a situação dela."
+     "tipo": "tn",
+     "ancora": "Como foi, minha filha?",
+     "termo": "מִי־אַתְּ בִּתִּי (mî-’at bittî)",
+     "titulo": "“Quem és tu?”",
+     "texto": "Lit. “Quem és tu, minha filha?”. Não é pedido de identificação; é pergunta idiomática pela situação (“Em que pé você está?”).",
+     "marca": "tn 3.16",
+     "pos": 79
     }
    ],
    "aparato": []
@@ -9344,12 +9741,22 @@
    ],
    "notas": [
     {
-     "tipo": "texto",
-     "texto": "O Qere acrescenta “a mim” (’elay), palavra lida mas não escrita; segue-se o Qere."
+     "tipo": "tn",
+     "ancora": "de mãos vazias",
+     "termo": "רֵיקָם (rêqām)",
+     "titulo": "rêqām",
+     "texto": "Mesma palavra de 1:21 (“o SENHOR me fez voltar vazia”). A tradução usa “de mãos vazias” por naturalidade; a nota mantém a ligação: Noemi começa a ser cheia.",
+     "marca": "tn 3.17",
+     "pos": 91
     },
     {
-     "tipo": "tradução",
-     "texto": "“De mãos vazias” (rêqam) retoma 1:21: Noemi voltou “vazia”, e agora começa a ser cheia."
+     "tipo": "tc",
+     "ancora": "Ele me deu estas seis medidas",
+     "termo": "אָמַר [אֵלַי] (’āmar [’ēlay])",
+     "titulo": "Qere sem Ketiv",
+     "texto": "Também aqui “a mim” é lido mas não escrito. Seguido o Qere.",
+     "marca": "tc 3.17",
+     "pos": 45
     }
    ],
    "aparato": [
@@ -9528,8 +9935,13 @@
    ],
    "notas": [
     {
-     "tipo": "literal",
-     "texto": "Lit. “até que saibas como a coisa cairá”."
+     "tipo": "tn",
+     "ancora": "como a questão vai terminar",
+     "termo": "אֵיךְ יִפֹּל דָּבָר (’êk yippōl dābār)",
+     "titulo": "“como a coisa cairá”",
+     "texto": "Imagem da sorte lançada: como o resultado vai “cair”. Traduzido pelo sentido.",
+     "marca": "tn 3.18",
+     "pos": 77
     }
    ],
    "aparato": []
@@ -9712,8 +10124,22 @@
    ],
    "notas": [
     {
-     "tipo": "tradução",
-     "texto": "“Amigo” traduz peloni ’almoni, expressão para alguém cujo nome não se diz (“fulano de tal”). O narrador não dá o nome dele; talvez haja ironia, pois ele recusa preservar o nome do falecido (v. 6)."
+     "tipo": "tn",
+     "ancora": "amigo",
+     "termo": "פְּלֹנִי אַלְמֹנִי (pəlōnî ’almōnî)",
+     "titulo": "pəlōnî ’almōnî",
+     "texto": "Expressão para alguém cujo nome não se diz (1Sm 21:2; 2Rs 6:8), como “fulano de tal”. Boaz certamente sabia o nome; quem o omite é o narrador. Talvez haja ironia: ele recusa preservar o nome do falecido (v. 6). “Amigo” é o vocativo natural em português.",
+     "marca": "tn 4.1",
+     "pos": 136
+    },
+    {
+     "tipo": "sn",
+     "ancora": "porta da cidade",
+     "termo": "הַשַּׁעַר (hašša‘ar)",
+     "titulo": "a porta",
+     "texto": "Lugar de reunião, comércio e julgamento das cidades antigas, onde ficavam os anciãos (Dt 21:19; 25:7).",
+     "marca": "sn 4.1",
+     "pos": 28
     }
    ],
    "aparato": []
@@ -9922,8 +10348,22 @@
    ],
    "notas": [
     {
-     "tipo": "tradução",
-     "texto": "O perfeito makhrah pode indicar decisão tomada (“resolveu vender”) e não venda já concluída. “Irmão” é usado no sentido de parente do mesmo clã."
+     "tipo": "tn",
+     "ancora": "está vendendo",
+     "termo": "מָכְרָה (mākrāh)",
+     "titulo": "perfeito de decisão",
+     "texto": "O perfeito pode indicar decisão tomada (“resolveu vender”) e não venda já feita; senão não haveria o que resgatar. “Está vendendo” deixa a ação em andamento.",
+     "marca": "tn 4.3",
+     "pos": 80
+    },
+    {
+     "tipo": "tn",
+     "ancora": "irmão",
+     "termo": "לְאָחִינוּ (lə’āḥînû)",
+     "titulo": "’āḥ: parente",
+     "texto": "Usado no sentido amplo de parente do mesmo clã. Mantido para não apagar a solidariedade familiar que o termo carrega.",
+     "marca": "tn 4.3b",
+     "pos": 126
     }
    ],
    "aparato": []
@@ -10196,13 +10636,23 @@
    ],
    "notas": [
     {
-     "tipo": "literal",
-     "texto": "Lit. “descobrirei o teu ouvido”, isto é, informarei você."
+     "tipo": "tn",
+     "ancora": "Resolvi informá-lo",
+     "termo": "אֶגְלֶה אָזְנְךָ (’egleh ’oznəkā)",
+     "titulo": "“descobrir o ouvido”",
+     "texto": "Idiomatismo: revelar algo a alguém (1Sm 9:15; 20:2). Traduzido pelo sentido.",
+     "marca": "tn 4.4",
+     "pos": 18
     },
     {
-     "tipo": "texto",
-     "texto": "“Se ele não a resgatar” segue o TM (3ª pessoa): Boaz talvez se volte por um instante às testemunhas. Muitos manuscritos hebraicos, a Septuaginta, a Siríaca e a Vulgata leem a 2ª pessoa (“se você não quer”), que várias traduções adotam.",
-     "revisar": true
+     "tipo": "tc",
+     "ancora": "se ele não a resgatar",
+     "termo": "וְאִם־לֹא יִגְאַל (wə’im-lō’ yig’al)",
+     "titulo": "3ª ou 2ª pessoa",
+     "texto": "O TM traz a 3ª pessoa: Boaz talvez se volte por um instante às testemunhas. Muitos manuscritos hebraicos, a Septuaginta, a Siríaca e a Vulgata leem a 2ª pessoa (“se você não quer”), que várias versões adotam. A APV segue o TM e registra a alternativa.",
+     "revisar": true,
+     "marca": "tc 4.4",
+     "pos": 166
     }
    ],
    "aparato": [
@@ -10381,12 +10831,22 @@
    ],
    "notas": [
     {
-     "tipo": "texto",
-     "texto": "O Ketiv lê qanîtî (“eu adquiro”); o Qere, seguido aqui, lê qanîtah (“tu adquires”). Pela leitura do Ketiv, Boaz diria que ele mesmo tomaria Rute. Também “e de Rute” (ume’et) é lido por muitos como “também Rute” (wegam ’et), como em 4:10."
+     "tipo": "tc",
+     "ancora": "também adquirirá Rute",
+     "termo": "וּמֵאֵת רוּת ... קָנִיתָה (Ketiv קניתי)",
+     "titulo": "Ketiv e Qere",
+     "texto": "O Ketiv lê qānîtî (“eu adquiro”); o Qere, seguido aqui, qānîtāh (“você adquire”). Com o Ketiv, Boaz anunciaria que ele mesmo se casaria com Rute, e o outro desistiria por isso. Além disso, ûmē’ēt (“e da parte de”) é corrigido por muitos para wəgam ’et (“também”), como em 4:10. As duas leituras levam ao mesmo desfecho.",
+     "marca": "tc 4.5",
+     "pos": 90
     },
     {
-     "tipo": "contexto",
-     "texto": "A combinação de resgate da terra (Lv 25) com o dever de dar descendência ao falecido (levirato, Dt 25:5-10) é o ponto central da negociação."
+     "tipo": "sn",
+     "ancora": "para manter o nome do morto",
+     "termo": "לְהָקִים שֵׁם־הַמֵּת (ləhāqîm šēm-hammēt)",
+     "titulo": "resgate e levirato",
+     "texto": "Boaz junta dois institutos: o resgate da terra (Lv 25) e o dever de dar descendência ao parente morto (levirato, Dt 25:5-10). A expressão “levantar o nome” vem de Dt 25:7.",
+     "marca": "sn 4.5",
+     "pos": 149
     }
    ],
    "aparato": [
@@ -10744,8 +11204,13 @@
    ],
    "notas": [
     {
-     "tipo": "raridade",
-     "texto": "Te‘udah (“atestação”) é rara (cf. Is 8:16,20); temurah (“troca”) aparece também em Lv 27:10,33."
+     "tipo": "tn",
+     "ancora": "confirmação",
+     "termo": "הַתְּעוּדָה (hattə‘ûdāh)",
+     "titulo": "tə‘ûdāh",
+     "texto": "Tə‘ûdāh (“atestação, confirmação”) é rara (Is 8:16, 20); temûrāh (“troca”) aparece também em Lv 27:10, 33. O narrador explica um costume que já era antigo para seus leitores.",
+     "marca": "tn 4.7",
+     "pos": 157
     }
    ],
    "aparato": []
@@ -10820,8 +11285,13 @@
    ],
    "notas": [
     {
-     "tipo": "texto",
-     "texto": "A Septuaginta acrescenta “e deu a ele”; o TM, seguido aqui, não traz essas palavras."
+     "tipo": "tc",
+     "ancora": "E tirou a sandália",
+     "termo": "וַיִּשְׁלֹף נַעֲלוֹ (wayyišlōp na‘ălô)",
+     "titulo": "acréscimo da Septuaginta",
+     "texto": "A Septuaginta acrescenta “e deu a ele”, completando o gesto descrito no v. 7. O TM é mais curto e foi seguido.",
+     "marca": "tc 4.8",
+     "pos": 69
     }
    ],
    "aparato": []
@@ -11255,8 +11725,13 @@
    ],
    "notas": [
     {
-     "tipo": "literal",
-     "texto": "“Da porta do seu lugar”: do conselho público da sua cidade natal."
+     "tipo": "tn",
+     "ancora": "nem da porta da sua cidade",
+     "termo": "וּמִשַּׁעַר מְקוֹמוֹ (ûmišša‘ar məqômô)",
+     "titulo": "“porta do seu lugar”",
+     "texto": "Lit. “da porta do seu lugar”: do conselho público da sua cidade natal.",
+     "marca": "tn 4.10",
+     "pos": 196
     }
    ],
    "aparato": []
@@ -11529,12 +12004,22 @@
    ],
    "notas": [
     {
-     "tipo": "literal",
-     "texto": "Lit. “faze valor (ḥayil) em Efrata e proclama um nome em Belém”."
+     "tipo": "tn",
+     "ancora": "edificaram a casa de Israel",
+     "termo": "בָּנוּ ... אֶת־בֵּית יִשְׂרָאֵל (bānû ... ’et-bêt yiśrā’ēl)",
+     "titulo": "bānāh e bēn",
+     "texto": "“Edificar” (bānāh) soa como bēn, “filho”: edificar a casa é dar-lhe filhos (Gn 16:2; 30:3). O verbo foi mantido por ser a imagem do texto.",
+     "marca": "tn 4.11",
+     "pos": 195
     },
     {
-     "tipo": "tradução",
-     "texto": "“Edificaram” (banah) faz jogo com ben, “filho”: edificar a casa é dar-lhe filhos."
+     "tipo": "tn",
+     "ancora": "Seja você próspero em Efrata e tenha renome em Belém",
+     "termo": "וַעֲשֵׂה־חַיִל בְּאֶפְרָתָה וּקְרָא־שֵׁם (wa‘ăśēh-ḥayil ... ûqərā’-šēm)",
+     "titulo": "“faze valor”, “proclama um nome”",
+     "texto": "Lit. “faze ḥayil em Efrata e proclama um nome em Belém”. Ḥayil inclui prosperidade e descendência; “próspero” e “renome” são o sentido mais provável.",
+     "marca": "tn 4.11b",
+     "pos": 249
     }
    ],
    "aparato": []
@@ -11699,8 +12184,13 @@
    ],
    "notas": [
     {
-     "tipo": "contexto",
-     "texto": "Tamar, também ligada ao levirato (Gn 38), deu continuidade à linhagem de Judá. Perez é antepassado de Boaz (4:18-21)."
+     "tipo": "sn",
+     "ancora": "Perez, que Tamar deu à luz a Judá",
+     "termo": "פֶּרֶץ אֲשֶׁר־יָלְדָה תָמָר לִיהוּדָה",
+     "titulo": "Tamar",
+     "texto": "Tamar, cananeia, também garantiu descendência a um morto por meio do levirato (Gn 38). Perez é o antepassado do clã de Boaz (4:18-21).",
+     "marca": "sn 4.12",
+     "pos": 121
     }
    ],
    "aparato": []
@@ -11847,8 +12337,13 @@
    ],
    "notas": [
     {
-     "tipo": "teologia",
-     "texto": "É a única vez no livro em que o narrador diz que o SENHOR agiu diretamente (cf. 1:6). Em dez anos de casamento com Malom não houve filhos (1:4-5)."
+     "tipo": "sn",
+     "ancora": "o SENHOR lhe concedeu que concebesse",
+     "termo": "וַיִּתֵּן יְהוָה לָהּ הֵרָיוֹן (wayyittēn YHWH lāh hērāyôn)",
+     "titulo": "Deus age",
+     "texto": "Uma das duas únicas vezes em que o narrador atribui uma ação direta ao SENHOR (com 1:6). Em dez anos de casamento com Malom não houve filhos (1:4-5). Hērāyôn (“concepção”) é raro (Gn 3:16; Os 9:11).",
+     "marca": "sn 4.13",
+     "pos": 109
     }
    ],
    "aparato": []
@@ -11995,8 +12490,13 @@
    ],
    "notas": [
     {
-     "tipo": "tradução",
-     "texto": "O resgatador aqui é o menino recém-nascido, que garantirá o futuro da família."
+     "tipo": "tn",
+     "ancora": "sem resgatador",
+     "termo": "גֹּאֵל (gō’ēl)",
+     "titulo": "quem é o resgatador?",
+     "texto": "Aqui o resgatador é o menino recém-nascido, que vai garantir o futuro de Noemi e da família (v. 15).",
+     "marca": "tn 4.14",
+     "pos": 96
     }
    ],
    "aparato": []
@@ -12170,8 +12670,13 @@
    ],
    "notas": [
     {
-     "tipo": "literal",
-     "texto": "Lit. “será para ti restaurador de alma”."
+     "tipo": "tn",
+     "ancora": "restaurará a sua vida",
+     "termo": "לְמֵשִׁיב נֶפֶשׁ (ləmēšîb nepeš)",
+     "titulo": "“restaurador de alma”",
+     "texto": "Lit. “restaurador de alma”, a mesma expressão de Sl 19:7 e Lm 1:11. Nepeš aqui é a vida, o vigor. “Restaurará a sua vida” evita o sentido apenas espiritual que “alma” teria em português.",
+     "marca": "tn 4.15",
+     "pos": 25
     }
    ],
    "aparato": []
@@ -12264,8 +12769,13 @@
    ],
    "notas": [
     {
-     "tipo": "tradução",
-     "texto": "’Omenet: ama, cuidadora (cf. Nm 11:12). Não implica adoção formal."
+     "tipo": "tn",
+     "ancora": "passou a cuidar dele",
+     "termo": "וַתְּהִי־לוֹ לְאֹמֶנֶת (wattəhî-lô lə’ōmenet)",
+     "titulo": "’ōmenet",
+     "texto": "’Ōmenet é ama, cuidadora (2Sm 4:4; Nm 11:12). Não indica adoção formal; por isso “cuidar” e não “adotou”.",
+     "marca": "tn 4.16",
+     "pos": 62
     }
    ],
    "aparato": []
@@ -12421,12 +12931,22 @@
    ],
    "notas": [
     {
-     "tipo": "tradução",
-     "texto": "Obede significa “servo” ou “aquele que serve”."
+     "tipo": "tn",
+     "ancora": "Obede",
+     "termo": "עוֹבֵד (‘ôbēd)",
+     "titulo": "Obede",
+     "texto": "O nome significa “servo” ou “aquele que serve” (talvez forma curta de Obadias, “servo do SENHOR”).",
+     "marca": "tn 4.17",
+     "pos": 88
     },
     {
-     "tipo": "teologia",
-     "texto": "O livro termina apontando para Davi e, pela genealogia de Mt 1:5-6, para Cristo, o Filho de Davi, em cuja linhagem foi incluída uma moabita."
+     "tipo": "sn",
+     "ancora": "pai de Davi",
+     "termo": "אֲבִי דָוִד (’ăbî dāwid)",
+     "titulo": "de Rute a Cristo",
+     "texto": "O livro termina em Davi. Mt 1:5-6 inclui Rute na genealogia de Jesus: a moabita que buscou refúgio sob as asas do SENHOR entra na linhagem do Messias.",
+     "marca": "sn 4.17",
+     "pos": 123
     }
    ],
    "aparato": []
@@ -12499,7 +13019,17 @@
      "cod": "HNpm"
     }
    ],
-   "notas": [],
+   "notas": [
+    {
+     "tipo": "tn",
+     "ancora": "genealogia",
+     "termo": "תּוֹלְדוֹת (tôlədôt)",
+     "titulo": "tôlədôt",
+     "texto": "A palavra que estrutura Gênesis (“estas são as gerações de...”). A lista final liga a história de Rute à de Judá e de Davi.",
+     "marca": "tn 4.18",
+     "pos": 19
+    }
+   ],
    "aparato": []
   },
   {
@@ -12661,8 +13191,13 @@
    ],
    "notas": [
     {
-     "tipo": "texto",
-     "texto": "O TM escreve Salmah aqui e Salmon em 4:21. A tradução unifica como Salmom, forma usada em Mt 1:4-5 e Lc 3:32."
+     "tipo": "tc",
+     "ancora": "Salmom",
+     "termo": "שַׂלְמָה / שַׂלְמוֹן (śalmāh / śalmôn)",
+     "titulo": "duas grafias",
+     "texto": "O TM escreve Salmah aqui e Salmon no v. 21. A APV unifica como Salmom, forma também usada em Mt 1:4-5 e Lc 3:32.",
+     "marca": "tc 4.20",
+     "pos": 45
     }
    ],
    "aparato": []
@@ -12826,8 +13361,13 @@
    ],
    "notas": [
     {
-     "tipo": "tradução",
-     "texto": "“Gerar” (hôlîd) em genealogias pode indicar descendência e não só paternidade imediata; a lista é seletiva (dez gerações)."
+     "tipo": "tn",
+     "ancora": "gerou",
+     "termo": "הוֹלִיד (hôlîd)",
+     "titulo": "hôlîd em genealogias",
+     "texto": "Pode indicar descendência, não só paternidade imediata. A lista tem dez gerações de Perez a Davi e é seletiva (compare 1Cr 2:5-15).",
+     "marca": "tn 4.22",
+     "pos": 11
     }
    ],
    "aparato": []

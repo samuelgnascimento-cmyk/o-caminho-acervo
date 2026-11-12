@@ -34,6 +34,11 @@ main{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,420px);gap:32px;m
 .v:hover{background:var(--sel)}
 .v.ativo{background:var(--gold-soft)}
 .v sup{font:600 11px var(--sans);color:var(--gold);margin-right:3px;vertical-align:.45em}
+.v sup.mk,.mk{font:600 9.5px var(--sans);color:var(--gold);margin:0 0 0 1px;vertical-align:.6em;cursor:pointer;letter-spacing:.02em}
+.mk.tc{color:var(--navy)} .mk.sn{color:var(--muted)}
+.termo{color:var(--muted);font-size:12.5px}
+.tri{font:600 10px var(--sans);color:var(--gold);text-transform:uppercase;letter-spacing:.06em}
+ul.notas li.foco{background:var(--sel);outline:4px solid var(--sel);border-radius:2px}
 .v .nn{font:500 10px var(--sans);color:var(--muted);vertical-align:.55em;margin-left:1px}
 aside{position:sticky;top:calc(env(safe-area-inset-top,0px) + 16px);max-height:calc(100vh - 32px);overflow:auto;min-width:0}
 .painel{background:var(--page);border:1px solid var(--line);border-radius:6px;padding:20px}
@@ -70,7 +75,7 @@ footer{margin-top:28px;font-size:12.5px;color:var(--muted);max-width:80ch}
   <nav id="livros" aria-label="Livros"></nav>
 </header>
 <div class="caps" id="caps" aria-label="Capítulos"></div>
-<p class="aviso">Rascunho do piloto, produzido com IA e revisado por um segundo modelo. Aguarda revisão humana. Toque em um versículo para ver o original, a análise de cada palavra e as notas.</p>
+<p class="aviso">Rascunho do piloto, produzido com IA e revisado por um segundo modelo. Aguarda revisão humana. Toque em um versículo para ver o original e a análise de cada palavra. As marcas tn, tc e sn no texto abrem a nota daquela palavra: tradução, crítica textual e estudo.</p>
 <main>
   <section class="texto" id="texto"></section>
   <aside><div class="painel" id="painel"></div></aside>
@@ -83,6 +88,13 @@ let livro = Object.keys(DADOS)[0], cap = '1', ativo = null;
 const $ = id => document.getElementById(id);
 const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const sc = s => esc(s).replace(/SENHOR/g, '<span class="sc">Senhor</span>');
+function comMarcas(v){
+  let t = v.texto, partes = [], ult = 0;
+  const ns = [...v.notas].sort((a,b) => a.pos - b.pos);
+  for (const x of ns){ partes.push(sc(t.slice(ult, x.pos))); partes.push(`<sup class="mk ${x.tipo}" data-m="${esc(x.marca)}">${esc(x.marca.split(' ')[0])}</sup>`); ult = x.pos; }
+  partes.push(sc(t.slice(ult)));
+  return partes.join('');
+}
 function caps(){ return [...new Set(DADOS[livro].versiculos.map(v => v.ref.split('.')[1]))]; }
 function render(){
   $('livros').innerHTML = Object.entries(DADOS).map(([k,d]) => `<button aria-pressed="${k===livro}" data-l="${k}">${esc(d.livro.nome)}</button>`).join('');
@@ -90,7 +102,7 @@ function render(){
   const vs = DADOS[livro].versiculos.filter(v => v.ref.split('.')[1] === cap);
   $('texto').innerHTML = `<h2>${esc(DADOS[livro].livro.nome)} ${cap}</h2><p>` + vs.map(v => {
     const n = v.ref.split('.')[2];
-    return `<span class="v${v.ref===ativo?' ativo':''}" tabindex="0" role="button" data-r="${v.ref}"><sup>${n}</sup>${sc(v.texto)}${v.notas.length?`<span class="nn">[${v.notas.length}]</span>`:''}</span> `;
+    return `<span class="v${v.ref===ativo?' ativo':''}" tabindex="0" role="button" data-r="${v.ref}"><sup>${n}</sup>${comMarcas(v)}</span> `;
   }).join('') + '</p>';
   painel();
 }
@@ -100,16 +112,18 @@ function painel(){
   const heb = livro !== 'Php' && /[֐-׿]/.test(v.espelho.map(e=>e.orig).join(''));
   const [ , c, n] = v.ref.split('.');
   $('painel').innerHTML = `<div class="ref">${esc(DADOS[livro].livro.nome)} ${c}:${n}</div>
-  <p class="vt">${sc(v.texto)}</p>
+  <p class="vt">${comMarcas(v)}</p>
   <h3>Original</h3><p class="orig" dir="${heb?'rtl':'ltr'}" lang="${heb?'he':'grc'}">${v.espelho.map(e=>esc(e.orig)).join(' ')}</p>
   <h3>Espelho palavra por palavra</h3><div class="tab"><table><tbody>${v.espelho.map(e=>`<tr><td class="w ${heb?'h':'g'}" dir="${heb?'rtl':'ltr'}">${esc(e.orig)}<span class="tr" dir="ltr">${esc(e.translit)}</span></td><td><span class="gl">${esc(e.glosa)}</span><span class="mf">${esc(e.lema)} · ${esc(e.strong)} · ${esc(e.morf)}</span></td></tr>`).join('')}</tbody></table></div>
-  <h3>Notas</h3>${v.notas.length?`<ul class="notas">${v.notas.map(x=>`<li><span class="tipo ${esc(x.tipo)}">${esc(x.tipo)}</span>${esc(x.texto)}</li>`).join('')}</ul>`:'<p class="vazio">Sem notas neste versículo.</p>'}
+  <h3>Notas de estudo</h3>${v.notas.length?`<ul class="notas">${v.notas.map(x=>`<li id="n-${esc(x.marca.replace(/[ .]/g,'-'))}"><span class="tipo ${esc(x.tipo)}">${esc(x.marca)}</span><b>${sc(x.titulo)}</b> <span class="termo">${esc(x.termo)}</span><br>${sc(x.texto)}${x.revisar?' <span class="tri">em triagem</span>':''}</li>`).join('')}</ul>`:'<p class="vazio">Sem notas neste versículo.</p>'}
   ${v.aparato.length?`<details><summary>Aparato automático (${v.aparato.length})</summary><ul class="notas">${v.aparato.map(x=>`<li>${esc(x.texto)}</li>`).join('')}</ul></details>`:''}`;
 }
 document.addEventListener('click', e => {
   const b = e.target.closest('[data-l]'); if (b){ livro=b.dataset.l; cap='1'; ativo=null; render(); return; }
   const c = e.target.closest('[data-c]'); if (c){ cap=c.dataset.c; ativo=null; render(); return; }
-  const v = e.target.closest('[data-r]'); if (v){ ativo=v.dataset.r; render(); if (innerWidth<=860) $('painel').scrollIntoView({behavior:'smooth',block:'start'}); }
+  const mk = e.target.closest('[data-m]');
+  const v = e.target.closest('[data-r]'); if (v){ ativo=v.dataset.r; render();
+    if (mk){ const li = document.getElementById('n-'+mk.dataset.m.replace(/[ .]/g,'-')); if (li){ li.classList.add('foco'); li.scrollIntoView({block:'nearest'}); } } if (innerWidth<=860) $('painel').scrollIntoView({behavior:'smooth',block:'start'}); }
 });
 document.addEventListener('keydown', e => { if ((e.key==='Enter'||e.key===' ') && e.target.dataset && e.target.dataset.r){ e.preventDefault(); e.target.click(); }});
 ativo = livro + '.1.1';

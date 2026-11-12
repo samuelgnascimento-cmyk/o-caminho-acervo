@@ -11,7 +11,7 @@ Pontos que um revisor com hebraico/grego deve conferir antes de o texto ser cons
 - Php.1.17: palavra rara ἁγνῶς (ἁγνῶς, G0055): hapax
 - Php.1.17: palavra rara οἰόμενοι (οἴομαι, G3633): raro (3x)
 - Php.1.19: palavra rara ἐπιχορηγίας (ἐπιχορηγία, G2024): raro (2x)
-- Php.1.19: “Libertação” traduz sōtēria. Paulo repete palavra por palavra uma frase de Jó 13:16 (LXX), onde Jó espera ser vindicado diante de Deus. Pode significar a soltura da prisão ou a vindicação e salvação final (cf. vv. 20-21). “Salvação” também é defensável.
+- Php.1.19: sōtēria: “libertação” ou “salvação”: Paulo repete palavra por palavra uma frase de Jó 13:16 (LXX), onde Jó espera ser vindicado diante de Deus. Sōtēria pode ser a soltura da prisão ou a vindicação e salvação final (vv. 20-21). “Libertação” foi escolhida porque o contexto imediato fala do julgamento e da volta aos filipenses (vv. 25-26); “salvação” também é defensável (Fee; O'Brien).
 - Php.1.20: palavra rara ἀποκαραδοκίαν (ἀποκαραδοκία, G0603): raro (2x)
 - Php.1.21: palavra rara κέρδος. (κέρδος, G2771): raro (3x)
 - Php.1.22: palavra rara αἱρήσομαι (αἱρέω, G0138): raro (3x)
@@ -26,7 +26,7 @@ Pontos que um revisor com hebraico/grego deve conferir antes de o texto ser cons
 - Php.2.3: palavra rara κενοδοξίαν (κενοδοξία, G2754): hapax
 - Php.2.6: palavra rara μορφῇ (μορφή, G3444): raro (2x)
 - Php.2.6: palavra rara ἁρπαγμὸν (ἁρπαγμός, G0725): hapax
-- Php.2.6: Harpagmos é hápax no NT. As principais leituras: “algo a ser usurpado” (res rapienda), “algo a ser retido” (res retinenda) ou, como aqui, “algo a ser explorado em proveito próprio”. A última é defendida por R. W. Hoover (Harvard Theological Review 64, 1971, pp. 95-119) e N. T. Wright (The Climax of the Covenant, 1991) e combina com o v. 7: Cristo já possuía a igualdade com Deus.
+- Php.2.6: harpagmos, hápax: As principais leituras: (1) “algo a ser usurpado” (res rapienda), que suporia que Cristo não tinha a igualdade; (2) “algo a ser retido” (res retinenda); (3) “algo a ser explorado em proveito próprio”. A APV segue a terceira, defendida por R. W. Hoover (1971) e N. T. Wright (1991), porque o v. 6 já afirma que Cristo existia na forma de Deus: a questão não é obter a igualdade, mas como usá-la.
 - Php.2.7: palavra rara μορφὴν (μορφή, G3444): raro (2x)
 - Php.2.7: palavra rara σχήματι (σχῆμα, G4976): raro (2x)
 - Php.2.8: palavra rara ὑπήκοος (ὑπήκοος, G5255): raro (3x)
@@ -51,6 +51,7 @@ Pontos que um revisor com hebraico/grego deve conferir antes de o texto ser cons
 - Php.3.5: palavra rara ὀκταήμερος, (ὀκταήμερος, G3637): hapax
 - Php.3.7: palavra rara κέρδη, (κέρδος, G2771): raro (3x)
 - Php.3.8: palavra rara σκύβαλα (σκύβαλον, G4657): hapax
+- Php.3.9: pistis Christou: Pode ser genitivo objetivo (“fé em Cristo”) ou subjetivo (“fidelidade de Cristo”). A APV segue o objetivo, com a tradição da Reforma, porque o fim do versículo (“se baseia na fé”) fala da fé do crente. O subjetivo é defendido por R. B. Hays; J. D. G. Dunn defende o objetivo.
 - Php.3.10: palavra rara συμμορφιζόμενος (συμμορφόομαι, G4833): hapax
 - Php.3.11: palavra rara ἐξανάστασιν (ἐξανάστασις, G1815): hapax
 - Php.3.13: palavra rara ἐπεκτεινόμενος, (ἐπεκτείνομαι, G1901): hapax

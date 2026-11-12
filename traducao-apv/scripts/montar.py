@@ -48,7 +48,7 @@ for ref, ws in vs.items():
                         'lema': w.get('lema_heb') or w.get('lema_grc'), 'strong': w['lema'], 'glosa': g or '?',
                         'morf': grego(w['morf']) if NT else hebraico(w['morf']), 'cod': w['morf']})
     t = trad[ref]
-    revisar = [n['texto'] for n in t['n'] if n.get('revisar')]
+    revisar = [f"{n['titulo']}: {n['texto']}" for n in t['n'] if n.get('revisar')]
     for a in auto[ref]['alertas']:
         triagem.append(f'- {ref}: palavra rara {a}')
     for r in revisar:
@@ -56,22 +56,47 @@ for ref, ws in vs.items():
     saida['versiculos'].append({'ref': ref, 'texto': t['t'], 'espelho': espelho, 'notas': t['n'],
                                 'aparato': auto[ref]['notas']})
 
+def marcar(v):
+    """Dá a cada nota uma marca no padrão NET (tn 1.2, tc 1.2, tn 1.2b) e a posição da âncora no texto."""
+    _, c, n = v['ref'].split('.')
+    vistos = {}
+    for nota in v['notas']:
+        k = nota['tipo']; vistos[k] = vistos.get(k, 0) + 1
+        suf = '' if vistos[k] == 1 else chr(ord('a') + vistos[k] - 1)
+        nota['marca'] = f"{k} {c}.{n}{suf}"
+        pos = v['texto'].find(nota['ancora'])
+        nota['pos'] = pos + len(nota['ancora']) if pos >= 0 else len(v['texto'])
+
+def com_marcas(v, fmt):
+    t, extra = v['texto'], 0
+    for nota in sorted(v['notas'], key=lambda x: x['pos']):
+        m = fmt(nota); t = t[:nota['pos'] + extra] + m + t[nota['pos'] + extra:]; extra += len(m)
+    return t
+
+for v in saida['versiculos']: marcar(v)
 os.makedirs(os.path.join(RAIZ, 'saida'), exist_ok=True)
 json.dump(saida, open(os.path.join(RAIZ, 'saida', f'{livro}.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
 
-md, cap_atual, nota_n, rodape = [f"# {meta['nome']}\n", f"*Ancient Paths Version (APV), tradução em português. Base: {meta['base']}. Estado: {meta['estado']}.*\n"], None, 0, []
-for v in saida['versiculos']:
-    _, c, n = v['ref'].split('.')
-    if c != cap_atual:
-        if rodape: md += ['', *rodape]; rodape = []
-        md.append(f'\n## {meta["nome"]} {c}\n'); cap_atual = c
-    marcas = ''
-    for nota in v['notas']:
-        nota_n += 1
-        marcas += f'[^{nota_n}]'
-        rodape.append(f'[^{nota_n}]: {c}:{n} ({nota["tipo"]}) {nota["texto"]}')
-    md.append(f'<sup>{n}</sup> {v["texto"]}{marcas}')
-md += ['', *rodape]
+NOMES = {'tn': 'nota de tradução', 'tc': 'crítica textual', 'sn': 'nota de estudo'}
+md = [f"# {meta['nome']} — Ancient Paths Version (APV)\n",
+      f"**Texto-base:** {meta['base']}. **Estado:** {meta['estado']}.\n",
+      "| Sigla | Significado |", "| :--- | :--- |",
+      "| **[tn]** | Nota de tradução: por que esta palavra ou frase foi traduzida assim, e as alternativas |",
+      "| **[tc]** | Crítica textual: variantes entre manuscritos e edições, e qual leitura foi seguida |",
+      "| **[sn]** | Nota de estudo: contexto histórico, eco bíblico ou ponto teológico |",
+      "| **TM / LXX** | Texto Massorético / Septuaginta |",
+      "| **TR / Byz / NA28 / SBLGNT** | Textus Receptus / Texto Bizantino (Majoritário) / Nestle-Aland 28 / SBL Greek New Testament |", "\n---"]
+caps = {}
+for v in saida['versiculos']: caps.setdefault(v['ref'].split('.')[1], []).append(v)
+for c, vs in caps.items():
+    md.append(f"\n## {meta['nome']} {c}\n\n### Texto\n")
+    for v in vs:
+        md.append(f"**{v['ref'].split('.')[2]}** " + com_marcas(v, lambda x: f" **[{x['marca']}]**").replace('  ', ' ') + '  ')
+    md.append(f"\n### Notas ({meta['nome']} {c})\n")
+    for v in vs:
+        for x in v['notas']:
+            md.append(f"- **[{x['marca']}] {x['titulo']}** ({x['termo']}): {x['texto']}" + (' *(em triagem)*' if x.get('revisar') else ''))
+    md.append('\n---')
 open(os.path.join(RAIZ, 'saida', f'{livro}.md'), 'w', encoding='utf-8').write('\n'.join(md) + '\n')
 open(os.path.join(RAIZ, 'saida', f'{livro}.triagem.md'), 'w', encoding='utf-8').write(
     f'# Triagem para revisão humana: {meta["nome"]}\n\nPontos que um revisor com hebraico/grego deve conferir antes de o texto ser considerado final.\n\n'

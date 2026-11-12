@@ -18,7 +18,7 @@ O texto é um rascunho produzido com IA dentro do pipeline abaixo. Não é final
 
 1. **Texto principal** (`traducao/<Livro>.json`, campo `t`): equivalência ótima. Literal sempre que a clareza permite; idiomático só onde a forma literal esconderia o sentido. Português do Brasil contemporâneo.
 2. **Espelho formal-morfológico** (gerado em `saida/<Livro>.json`, campo `espelho`): cada palavra do original com transliteração, lema, número Strong estendido, glosa em português (`glossario/*.tsv`) e análise morfológica por extenso (`scripts/morfologia.py`).
-3. **Aparato de notas** (campo `n`, mais o campo `aparato` gerado): notas de tradução, forma literal, crítica textual, contexto e teologia, no estilo da NET Bible. O `aparato` lista mecanicamente toda diferença entre edições registrada no STEPBible.
+3. **Aparato de notas de estudo** (`notas/<Livro>.py`, aplicado ao campo `n` por `scripts/aplicar_notas.py`): cada nota fica ancorada na palavra ou frase exata do texto e leva uma marca no padrão da NET Bible: **[tn]** nota de tradução (por que esta escolha, quais as alternativas), **[tc]** crítica textual (variantes e leitura seguida), **[sn]** nota de estudo (contexto, eco bíblico, teologia). Cada nota tem âncora, termo original com transliteração, título e explicação. O campo `aparato` lista mecanicamente toda diferença entre edições registrada no STEPBible.
 
 ## Texto-base
 

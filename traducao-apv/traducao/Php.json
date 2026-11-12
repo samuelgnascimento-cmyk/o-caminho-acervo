@@ -1,1092 +1,1585 @@
 {
-"_livro": {
-"id": "Php",
-"nome": "Filipenses",
-"base": "SBL Greek New Testament (via TAGNT/STEPBible), com aparato de NA28, THGNT, Textus Receptus e Texto Bizantino",
-"estado": "rascunho revisado; aguarda revisão humana"
-},
-"Php.1.1": {
-"t": "Paulo e Timóteo, servos de Cristo Jesus, a todos os santos em Cristo Jesus que estão em Filipos, com os supervisores e diáconos:",
-"n": [
-{
-"tipo": "tradução",
-"texto": "“Servos” traduz douloi, literalmente “escravos”: pertencem inteiramente a Cristo. A palavra também evoca os “servos do SENHOR” do Antigo Testamento (Moisés, Davi)."
-},
-{
-"tipo": "tradução",
-"texto": "“Supervisores” traduz episkopoi (de onde vem “bispos”); “diáconos” traduz diakonoi (“servidores”). Em At 20:17,28 e Tt 1:5-7, episkopos e presbyteros parecem intercambiáveis; as tradições (episcopal, presbiteriana, congregacional) divergem sobre a relação entre os ofícios."
-}
-]
-},
-"Php.1.2": {
-"t": "Graça e paz a vocês da parte de Deus, nosso Pai, e do Senhor Jesus Cristo.",
-"n": [
-{
-"tipo": "teologia",
-"texto": "Uma só preposição (apo) rege “Deus nosso Pai” e “Senhor Jesus Cristo”: o Filho é posto ao lado do Pai como fonte de graça."
-}
-]
-},
-"Php.1.3": {
-"t": "Dou graças ao meu Deus todas as vezes que me lembro de vocês.",
-"n": [
-{
-"tipo": "literal",
-"texto": "Lit. “sobre toda a lembrança de vocês”. Também possível: “por toda a lembrança que vocês têm de mim”, isto é, pela ajuda enviada."
-}
-]
-},
-"Php.1.4": {
-"t": "Sempre, em todas as minhas orações por todos vocês, oro com alegria,",
-"n": [
-{
-"tipo": "literal",
-"texto": "Lit. “fazendo a súplica com alegria”. A alegria (chara) é tema que atravessa toda a carta."
-}
-]
-},
-"Php.1.5": {
-"t": "por causa da participação de vocês no evangelho, desde o primeiro dia até agora.",
-"n": [
-{
-"tipo": "tradução",
-"texto": "Koinōnia: comunhão, parceria. Inclui o apoio financeiro e pessoal à missão (4:15)."
-}
-]
-},
-"Php.1.6": {
-"t": "Tenho plena certeza de que aquele que começou boa obra em vocês a completará até o dia de Cristo Jesus.",
-"n": [
-{
-"tipo": "literal",
-"texto": "Lit. “estando persuadido disto mesmo”."
-},
-{
-"tipo": "teologia",
-"texto": "“Aquele que começou” é Deus. Alguns comentaristas notam que enarchomai e epiteleō aparecem em contextos de início e conclusão de rituais; aqui indicam que Deus leva até o fim o que começou."
-}
-]
-},
-"Php.1.7": {
-"t": "É justo que eu pense assim a respeito de todos vocês, porque os tenho no coração. Todos vocês são participantes comigo da graça, tanto nas minhas prisões como na defesa e confirmação do evangelho.",
-"n": [
-{
-"tipo": "tradução",
-"texto": "O grego permite também “porque vocês me têm no coração”. A ordem das palavras favorece “eu tenho vocês”."
-},
-{
-"tipo": "tradução",
-"texto": "“Defesa” (apologia) e “confirmação” (bebaiōsis) são termos jurídicos: Paulo aguarda julgamento."
-}
-]
-},
-"Php.1.8": {
-"t": "Deus é minha testemunha de como tenho saudade de todos vocês com o afeto de Cristo Jesus.",
-"n": [
-{
-"tipo": "literal",
-"texto": "Lit. “nas entranhas de Cristo Jesus”: o centro das emoções, na expressão antiga."
-},
-{
-"tipo": "texto",
-"texto": "O Textus Receptus e o Texto Bizantino acrescentam estin (“é”), sem mudar o sentido."
-}
-]
-},
-"Php.1.9": {
-"t": "E esta é a minha oração: que o amor de vocês transborde cada vez mais em conhecimento e em todo discernimento,",
-"n": [
-{
-"tipo": "raridade",
-"texto": "Aisthēsis (“discernimento, percepção moral”) é hápax no NT."
-}
-]
-},
-"Php.1.10": {
-"t": "para que vocês saibam distinguir o que é excelente e sejam puros e irrepreensíveis até o dia de Cristo,",
-"n": [
-{
-"tipo": "literal",
-"texto": "Lit. “para aprovarem as coisas que diferem”, isto é, as que realmente importam."
-},
-{
-"tipo": "tradução",
-"texto": "Eilikrinēs: sem mistura, sincero. Aproskopos: sem tropeçar ou sem fazer tropeçar."
-}
-]
-},
-"Php.1.11": {
-"t": "cheios do fruto de justiça que vem por meio de Jesus Cristo, para a glória e o louvor de Deus.",
-"n": [
-{
-"tipo": "texto",
-"texto": "O texto crítico traz o singular karpon ton (“o fruto que”); o Textus Receptus e o Texto Bizantino trazem o plural karpōn (“frutos”)."
-}
-]
-},
-"Php.1.12": {
-"t": "Quero que vocês saibam, irmãos, que o que aconteceu comigo serviu, na verdade, para o progresso do evangelho.",
-"n": [
-{
-"tipo": "tradução",
-"texto": "“Irmãos” (adelphoi) inclui irmãs: é o termo para toda a família da fé."
-}
-]
-},
-"Php.1.13": {
-"t": "Assim, ficou claro a toda a guarda pretoriana e a todos os demais que estou preso por causa de Cristo.",
-"n": [
-{
-"tipo": "literal",
-"texto": "Lit. “de modo que as minhas cadeias se tornaram manifestas em Cristo em todo o pretório”."
-},
-{
-"tipo": "contexto",
-"texto": "Praitōrion pode ser a guarda imperial (em Roma) ou a sede do governo provincial (Éfeso, Cesareia). O lugar da prisão é debatido."
-}
-]
-},
-"Php.1.14": {
-"t": "E a maioria dos irmãos, encorajados no Senhor pelas minhas prisões, ousam cada vez mais anunciar a palavra sem medo.",
-"n": [
-{
-"tipo": "texto",
-"texto": "Westcott-Hort e Tregelles acrescentam “de Deus” (“a palavra de Deus”), leitura de manuscritos antigos como ℵ, A e B. O SBLGNT e o Textus Receptus não trazem."
-},
-{
-"tipo": "tradução",
-"texto": "“No Senhor” pode ligar-se a “irmãos” (“irmãos no Senhor”) ou a “encorajados”."
-}
-]
-},
-"Php.1.15": {
-"t": "É verdade que alguns pregam Cristo por inveja e rivalidade, mas outros o fazem de boa vontade.",
-"n": []
-},
-"Php.1.16": {
-"t": "Estes o fazem por amor, sabendo que estou aqui para a defesa do evangelho.",
-"n": [
-{
-"tipo": "texto",
-"texto": "O Textus Receptus e o Texto Bizantino trocam os vv. 16 e 17 (o v. 16 deles corresponde ao nosso 17). No texto crítico, seguido aqui, os vv. 16-17 (amor, ambição) retomam o v. 15 (inveja, boa vontade) em ordem inversa, formando um quiasmo."
-},
-{
-"tipo": "literal",
-"texto": "Keimai: “estou posto”, designado."
-}
-]
-},
-"Php.1.17": {
-"t": "Aqueles anunciam Cristo por ambição egoísta, não com sinceridade, pensando que podem aumentar o meu sofrimento nas prisões.",
-"n": [
-{
-"tipo": "tradução",
-"texto": "Eritheia: ambição interesseira, espírito de partido."
-},
-{
-"tipo": "texto",
-"texto": "O texto crítico traz egeirein (“levantar, suscitar”); o Textus Receptus traz epipherein (“acrescentar”). O sentido é próximo."
-}
-]
-},
-"Php.1.18": {
-"t": "Mas que importa? O importante é que, de qualquer modo, seja por pretexto, seja de verdade, Cristo está sendo anunciado. Com isso me alegro, e continuarei a me alegrar.",
-"n": [
-{
-"tipo": "literal",
-"texto": "Lit. “Pois quê?”."
-}
-]
-},
-"Php.1.19": {
-"t": "Pois sei que isto resultará na minha libertação, pelas orações de vocês e pelo socorro do Espírito de Jesus Cristo.",
-"n": [
-{
-"tipo": "tradução",
-"texto": "“Libertação” traduz sōtēria. Paulo repete palavra por palavra uma frase de Jó 13:16 (LXX), onde Jó espera ser vindicado diante de Deus. Pode significar a soltura da prisão ou a vindicação e salvação final (cf. vv. 20-21). “Salvação” também é defensável.",
-"revisar": true
-},
-{
-"tipo": "teologia",
-"texto": "O “Espírito de Jesus Cristo” é o Espírito Santo, chamado em Rm 8:9 tanto “Espírito de Deus” quanto “Espírito de Cristo”."
-}
-]
-},
-"Php.1.20": {
-"t": "Aguardo ansiosamente e espero que em nada serei envergonhado; pelo contrário, com toda a coragem, como sempre, também agora Cristo será engrandecido no meu corpo, quer pela vida, quer pela morte.",
-"n": [
-{
-"tipo": "raridade",
-"texto": "Apokaradokia (“expectativa ansiosa”, lit. “esticar a cabeça para ver”) ocorre só aqui e em Rm 8:19."
-}
-]
-},
-"Php.1.21": {
-"t": "Porque para mim o viver é Cristo, e o morrer é lucro.",
-"n": []
-},
-"Php.1.22": {
-"t": "Mas, se continuar vivendo no corpo, isso significará trabalho frutífero para mim. E já não sei o que escolher.",
-"n": [
-{
-"tipo": "literal",
-"texto": "Lit. “Mas se o viver na carne, isto para mim [é] fruto de obra; e o que escolherei, não dou a conhecer”. A frase é elíptica; gnōrizō pode ser “não digo” ou “não sei”."
-},
-{
-"tipo": "tradução",
-"texto": "“No corpo” traduz en sarki (“na carne”), aqui no sentido de vida física, sem conotação moral negativa."
-}
-]
-},
-"Php.1.23": {
-"t": "Estou pressionado pelos dois lados: desejo partir e estar com Cristo, o que é muito melhor;",
-"n": [
-{
-"tipo": "tradução",
-"texto": "Analyō: desatar, levantar acampamento, soltar amarras. Metáfora de partida pela morte."
-},
-{
-"tipo": "teologia",
-"texto": "A maioria entende que Paulo espera estar com Cristo logo após a morte, antes da ressurreição (estado intermediário; cf. 2Co 5:8). Outros leem a frase do ponto de vista de quem morre, para quem a ressurreição parece imediata."
-}
-]
-},
-"Php.1.24": {
-"t": "mas, por causa de vocês, é mais necessário que eu continue vivendo.",
-"n": [
-{
-"tipo": "literal",
-"texto": "Lit. “permanecer na carne”."
-}
-]
-},
-"Php.1.25": {
-"t": "Convencido disso, sei que vou ficar e continuar com todos vocês, para o progresso e a alegria de vocês na fé,",
-"n": [
-{
-"tipo": "texto",
-"texto": "O texto crítico traz paramenō (“permanecer junto”); o Textus Receptus e o Texto Bizantino trazem symparamenō (“permanecer com”). Sem diferença de sentido."
-}
-]
-},
-"Php.1.26": {
-"t": "para que, com a minha volta para junto de vocês, transborde por minha causa o motivo que vocês têm de se gloriar em Cristo Jesus.",
-"n": []
-},
-"Php.1.27": {
-"t": "Somente vivam como cidadãos de modo digno do evangelho de Cristo, para que, quer eu vá e os veja, quer esteja ausente, ouça a respeito de vocês que estão firmes num só espírito, lutando juntos, com uma só alma, pela fé do evangelho,",
-"n": [
-{
-"tipo": "tradução",
-"texto": "Politeuomai: viver como cidadão. Filipos era colônia romana, e seus moradores se orgulhavam da cidadania; Paulo aponta para a cidadania celestial (3:20)."
-},
-{
-"tipo": "tradução",
-"texto": "“Num só espírito” pode referir-se ao Espírito Santo ou à unidade de ânimo da igreja."
-}
-]
-},
-"Php.1.28": {
-"t": "sem se deixarem intimidar em nada pelos adversários. Isso é para eles sinal de destruição, mas para vocês, de salvação, e isso vem de Deus.",
-"n": [
-{
-"tipo": "raridade",
-"texto": "Pturomai (hápax): usado para cavalos que se espantam. “Intimidar-se, assustar-se”."
-},
-{
-"tipo": "texto",
-"texto": "O texto crítico traz hymōn (“de vocês”); o Textus Receptus e o Texto Bizantino trazem hymin (“para vocês”). Sentido equivalente."
-}
-]
-},
-"Php.1.29": {
-"t": "Pois a vocês foi concedido, por amor de Cristo, não apenas crer nele, mas também sofrer por ele,",
-"n": [
-{
-"tipo": "teologia",
-"texto": "Echaristhē, “foi concedido como graça”: tanto o crer quanto o sofrer por Cristo são dons de Deus."
-}
-]
-},
-"Php.1.30": {
-"t": "travando o mesmo combate que vocês viram em mim e que agora ouvem que ainda enfrento.",
-"n": [
-{
-"tipo": "contexto",
-"texto": "Em Filipos, Paulo e Silas foram açoitados e presos (At 16:19-40)."
-}
-]
-},
-"Php.2.1": {
-"t": "Portanto, se há algum encorajamento em Cristo, algum consolo do amor, alguma comunhão do Espírito, alguma ternura e compaixão,",
-"n": [
-{
-"tipo": "tradução",
-"texto": "Os “se” não expressam dúvida: equivalem a “visto que há”."
-},
-{
-"tipo": "tradução",
-"texto": "“Comunhão do Espírito” (koinōnia pneumatos): comunhão produzida pelo Espírito Santo ou participação no Espírito."
-}
-]
-},
-"Php.2.2": {
-"t": "completem a minha alegria tendo o mesmo modo de pensar, o mesmo amor, sendo unidos de alma e de propósito.",
-"n": [
-{
-"tipo": "literal",
-"texto": "Lit. “para que pensem o mesmo, tendo o mesmo amor, de alma unida, pensando a uma coisa”."
-},
-{
-"tipo": "tradução",
-"texto": "Phroneō (“pensar, ter uma atitude”) é verbo-chave da carta (10 vezes). Não indica só raciocínio, mas disposição de mente e coração."
-}
-]
-},
-"Php.2.3": {
-"t": "Não façam nada por ambição egoísta ou por vaidade, mas com humildade considerem os outros superiores a si mesmos.",
-"n": [
-{
-"tipo": "raridade",
-"texto": "Kenodoxia (hápax): “glória vazia”, vaidade."
-},
-{
-"tipo": "tradução",
-"texto": "Tapeinophrosynē (“humildade”) era vista como fraqueza servil na cultura greco-romana; o evangelho a torna virtude."
-}
-]
-},
-"Php.2.4": {
-"t": "Cada um não procure apenas os próprios interesses, mas também os interesses dos outros.",
-"n": [
-{
-"tipo": "texto",
-"texto": "O SBLGNT traz só hekastoi (plural) no fim. O NA28 e o THGNT trazem também hekastos (singular) depois de “seus próprios”. O Textus Receptus e o Texto Bizantino trazem o singular e o imperativo skopeite (“olhem”). O sentido não muda."
-}
-]
-},
-"Php.2.5": {
-"t": "Tenham entre vocês a mesma atitude que houve também em Cristo Jesus:",
-"n": [
-{
-"tipo": "literal",
-"texto": "Lit. “Pensem isto em vocês, o que também em Cristo Jesus”. O verbo da segunda parte está oculto; pode ser “o que houve em Cristo Jesus” ou “o que convém a quem está em Cristo Jesus”. A primeira leitura é a mais antiga e natural."
-},
-{
-"tipo": "texto",
-"texto": "O texto crítico traz phroneite (“pensem”); o Textus Receptus e o Texto Bizantino trazem phroneisthō (“seja pensado”), com gar (“pois”)."
-}
-]
-},
-"Php.2.6": {
-"t": "ele, que existia na forma de Deus, não considerou o ser igual a Deus como algo a que devesse se apegar,",
-"n": [
-{
-"tipo": "teologia",
-"texto": "“Forma de Deus” (morphē theou): não aparência externa, mas a realidade que expressa o ser. O particípio presente hyparchōn descreve a condição de Cristo antes de esvaziar-se; a tradição ortodoxa vê aí a preexistência divina do Filho."
-},
-{
-"tipo": "raridade",
-"texto": "Harpagmos é hápax no NT. As principais leituras: “algo a ser usurpado” (res rapienda), “algo a ser retido” (res retinenda) ou, como aqui, “algo a ser explorado em proveito próprio”. A última é defendida por R. W. Hoover (Harvard Theological Review 64, 1971, pp. 95-119) e N. T. Wright (The Climax of the Covenant, 1991) e combina com o v. 7: Cristo já possuía a igualdade com Deus.",
-"revisar": true
-},
-{
-"tipo": "literal",
-"texto": "Muitos estudiosos leem 2:6-11 como um hino cristão primitivo, citado ou composto por Paulo."
-}
-]
-},
-"Php.2.7": {
-"t": "mas esvaziou a si mesmo, assumindo a forma de servo, tornando-se semelhante aos homens. E, reconhecido em aparência como homem,",
-"n": [
-{
-"tipo": "teologia",
-"texto": "“Esvaziou a si mesmo” (heauton ekenōsen) é explicado pelos particípios: não abandonando a natureza divina, mas “assumindo” (labōn) a forma de servo. A ortodoxia (Calcedônia, 451) confessa: duas naturezas, sem confusão nem separação. Nota-se a teoria quenótica, que diz que Cristo abandonou atributos divinos, como interpretação minoritária."
-},
-{
-"tipo": "tradução",
-"texto": "“Semelhante aos homens” (en homoiōmati anthrōpōn): verdadeira humanidade, não aparência ilusória. “Homens” = seres humanos (anthrōpoi)."
-}
-]
-},
-"Php.2.8": {
-"t": "humilhou a si mesmo, tornando-se obediente até a morte, e morte de cruz!",
-"n": [
-{
-"tipo": "contexto",
-"texto": "A crucificação era a execução mais vergonhosa do mundo romano, reservada a escravos e rebeldes; cidadãos romanos como os de Filipos estavam isentos dela."
-}
-]
-},
-"Php.2.9": {
-"t": "Por isso também Deus o exaltou acima de tudo e lhe deu o nome que está acima de todo nome,",
-"n": [
-{
-"tipo": "raridade",
-"texto": "Hyperypsoō (hápax): “exaltou sobremaneira”."
-},
-{
-"tipo": "teologia",
-"texto": "O nome é mais comumente entendido como “Senhor” (Kyrios, v. 11), título usado pela Septuaginta para o nome divino YHWH. Alguns o entendem como “Jesus” (v. 10)."
-},
-{
-"tipo": "texto",
-"texto": "O texto crítico traz o artigo (to onoma, “o nome”); o Textus Receptus e o Texto Bizantino omitem (“um nome”)."
-}
-]
-},
-"Php.2.10": {
-"t": "para que ao nome de Jesus se dobre todo joelho, nos céus, na terra e debaixo da terra,",
-"n": [
-{
-"tipo": "teologia",
-"texto": "Os vv. 10-11 aplicam a Jesus Is 45:23, onde YHWH diz: “Diante de mim se dobrará todo joelho, e jurará toda língua”. Paulo atribui a Jesus a honra exclusiva do Deus único de Israel."
-},
-{
-"tipo": "raridade",
-"texto": "Katachthonios (hápax): “subterrâneo”, os do mundo dos mortos."
-}
-]
-},
-"Php.2.11": {
-"t": "e toda língua confesse que Jesus Cristo é Senhor, para a glória de Deus Pai.",
-"n": [
-{
-"tipo": "tradução",
-"texto": "“Jesus Cristo é Senhor” (Kyrios Iēsous Christos) era a confissão batismal primitiva (Rm 10:9; 1Co 12:3)."
-}
-]
-},
-"Php.2.12": {
-"t": "Assim, meus amados, como vocês sempre obedeceram, não só na minha presença, mas muito mais agora na minha ausência, ponham em prática a salvação de vocês com temor e tremor,",
-"n": [
-{
-"tipo": "teologia",
-"texto": "Katergazesthe: “desenvolvam, levem a efeito”. Não é obter a salvação por obras: o v. 13 dá o fundamento, Deus é quem opera. O plural (“de vocês”) também aponta para a vida comum da igreja."
-}
-]
-},
-"Php.2.13": {
-"t": "pois é Deus quem efetua em vocês tanto o querer como o realizar, segundo a sua boa vontade.",
-"n": [
-{
-"tipo": "tradução",
-"texto": "“Sua boa vontade” (eudokia) é a de Deus; o grego diz apenas “pela boa vontade”."
-},
-{
-"tipo": "texto",
-"texto": "O Textus Receptus e o Texto Bizantino trazem o artigo (ho theos), sem mudar o sentido."
-}
-]
-},
-"Php.2.14": {
-"t": "Façam tudo sem murmurações nem discussões,",
-"n": [
-{
-"tipo": "contexto",
-"texto": "“Murmurações” ecoa Israel no deserto (Êx 16; Nm 14)."
-}
-]
-},
-"Php.2.15": {
-"t": "para que sejam irrepreensíveis e puros, filhos de Deus sem mancha no meio de uma geração corrompida e perversa, na qual vocês brilham como astros no mundo,",
-"n": [
-{
-"tipo": "contexto",
-"texto": "Cita Dt 32:5 (LXX), onde Israel é a geração perversa; aqui, os filhos de Deus contrastam com ela. “Brilham como astros” ecoa Dn 12:3."
-},
-{
-"tipo": "texto",
-"texto": "O texto crítico traz amōma meson (“sem mancha, no meio de”); o Textus Receptus e o Texto Bizantino trazem amōmēta en mesō, de mesmo sentido."
-}
-]
-},
-"Php.2.16": {
-"t": "retendo firmemente a palavra da vida. Assim, no dia de Cristo, terei motivo para me gloriar de que não corri nem trabalhei em vão.",
-"n": [
-{
-"tipo": "tradução",
-"texto": "Epechō pode significar “reter firmemente” ou “oferecer, apresentar”. A primeira leitura combina com o contexto de perseverança."
-}
-]
-},
-"Php.2.17": {
-"t": "E, ainda que eu seja derramado como oferta sobre o sacrifício e o serviço da fé de vocês, alegro-me e me alegro com todos vocês.",
-"n": [
-{
-"tipo": "tradução",
-"texto": "Spendomai: ser derramado como libação, a oferta de vinho derramada sobre o sacrifício (Nm 28:7). Paulo fala de sua possível morte."
-}
-]
-},
-"Php.2.18": {
-"t": "Do mesmo modo, alegrem-se vocês também e alegrem-se comigo.",
-"n": []
-},
-"Php.2.19": {
-"t": "Espero no Senhor Jesus enviar Timóteo a vocês em breve, para que eu também me anime ao ter notícias de vocês.",
-"n": [
-{
-"tipo": "raridade",
-"texto": "Eupsycheō (hápax): ter bom ânimo."
-}
-]
-},
-"Php.2.20": {
-"t": "Não tenho ninguém como ele, que se preocupe sinceramente com o bem-estar de vocês.",
-"n": [
-{
-"tipo": "raridade",
-"texto": "Isopsychos (hápax): “de igual alma”. Pode ser “ninguém igual a ele” ou “ninguém que pense como eu”."
-}
-]
-},
-"Php.2.21": {
-"t": "Pois todos buscam os próprios interesses, e não os de Jesus Cristo.",
-"n": [
-{
-"tipo": "texto",
-"texto": "O Textus Receptus inverte para “Cristo Jesus” (tou Christou Iēsou)."
-}
-]
-},
-"Php.2.22": {
-"t": "Mas vocês sabem que ele deu provas do seu valor: como filho ao lado do pai, serviu comigo no evangelho.",
-"n": [
-{
-"tipo": "literal",
-"texto": "Lit. “como filho a um pai, comigo serviu como escravo para o evangelho”. Paulo começa a imagem (filho que serve o pai) e a corrige: Timóteo serviu com ele, não a ele."
-}
-]
-},
-"Php.2.23": {
-"t": "Espero, portanto, enviá-lo logo que eu veja como ficam as coisas comigo.",
-"n": [
-{
-"tipo": "texto",
-"texto": "O texto crítico traz aphidō; o Textus Receptus, apidō. São grafias do mesmo verbo (“ver claramente”). Exautēs: “logo, sem demora”."
-}
-]
-},
-"Php.2.24": {
-"t": "E confio no Senhor que eu mesmo também irei em breve.",
-"n": []
-},
-"Php.2.25": {
-"t": "Contudo, julguei necessário enviar de volta a vocês Epafrodito, meu irmão, cooperador e companheiro de lutas, que vocês enviaram para me socorrer nas minhas necessidades.",
-"n": [
-{
-"tipo": "literal",
-"texto": "Lit. “e vosso apóstolo e ministro da minha necessidade”. Apostolos aqui tem o sentido comum de “enviado, mensageiro” da igreja, não o ofício dos Doze. Leitourgos evoca serviço sagrado."
-}
-]
-},
-"Php.2.26": {
-"t": "Pois ele tem saudade de todos vocês e está angustiado porque vocês ouviram que ele esteve doente.",
-"n": [
-{
-"tipo": "texto",
-"texto": "Westcott-Hort, com alguns manuscritos antigos (ℵ*, A, C), acrescenta idein: “saudade de ver todos vocês”."
-},
-{
-"tipo": "tradução",
-"texto": "Adēmoneō: angústia profunda, o mesmo verbo usado para Jesus no Getsêmani (Mt 26:37)."
-}
-]
-},
-"Php.2.27": {
-"t": "De fato, ele esteve doente, quase morreu. Mas Deus teve misericórdia dele, e não só dele, mas também de mim, para que eu não tivesse tristeza sobre tristeza.",
-"n": [
-{
-"tipo": "teologia",
-"texto": "Paulo não atribui a cura a um dom de cura dele mesmo, mas à misericórdia de Deus. A doença de um cooperador fiel não é tratada como falta de fé."
-}
-]
-},
-"Php.2.28": {
-"t": "Por isso tenho mais pressa em enviá-lo, para que, vendo-o de novo, vocês se alegrem e eu fique menos triste.",
-"n": [
-{
-"tipo": "tradução",
-"texto": "Epempsa é aoristo epistolar: “envio” do ponto de vista de quem lê a carta, que provavelmente chegou pelas mãos de Epafrodito."
-}
-]
-},
-"Php.2.29": {
-"t": "Recebam-no no Senhor com toda a alegria e honrem homens como ele,",
-"n": []
-},
-"Php.2.30": {
-"t": "porque, pela obra de Cristo, chegou perto da morte, arriscando a vida para suprir o serviço que vocês não podiam me prestar.",
-"n": [
-{
-"tipo": "literal",
-"texto": "Lit. “para completar a vossa falta do serviço para comigo”: não uma falha deles, mas a distância que os impedia de servir pessoalmente."
-},
-{
-"tipo": "texto",
-"texto": "O texto crítico traz paraboleusamenos (“arriscando”); o Textus Receptus e o Texto Bizantino, parabouleusamenos (“não levando em conta”). Também há variação entre “obra de Cristo” e “obra do Senhor” em alguns manuscritos."
-}
-]
-},
-"Php.3.1": {
-"t": "Finalmente, meus irmãos, alegrem-se no Senhor. Escrever-lhes as mesmas coisas não é cansativo para mim, e para vocês é segurança.",
-"n": [
-{
-"tipo": "tradução",
-"texto": "To loipon pode ser “finalmente” ou “quanto ao mais”. Não indica que a carta acaba aqui."
-}
-]
-},
-"Php.3.2": {
-"t": "Cuidado com os cães! Cuidado com os maus obreiros! Cuidado com a mutilação!",
-"n": [
-{
-"tipo": "contexto",
-"texto": "“Cães” era insulto judaico para gentios impuros; Paulo o volta contra os que exigiam a circuncisão dos gentios."
-},
-{
-"tipo": "raridade",
-"texto": "Katatomē (hápax): “corte, mutilação”, jogo de palavras com peritomē (“circuncisão”, v. 3)."
-}
-]
-},
-"Php.3.3": {
-"t": "Pois a circuncisão somos nós, que servimos a Deus pelo Espírito de Deus, nos gloriamos em Cristo Jesus e não confiamos na carne,",
-"n": [
-{
-"tipo": "texto",
-"texto": "O texto crítico e o Texto Bizantino trazem pneumati theou latreuontes (“servimos pelo Espírito de Deus”); o Textus Receptus, pneumati theō (“servimos a Deus em espírito”), com apoio de poucos manuscritos."
-},
-{
-"tipo": "tradução",
-"texto": "“Carne” (sarx) aqui é a confiança em credenciais humanas e religiosas."
-}
-]
-},
-"Php.3.4": {
-"t": "embora eu mesmo tivesse motivos para confiar também na carne. Se alguém pensa que tem razões para confiar na carne, eu ainda mais:",
-"n": []
-},
-"Php.3.5": {
-"t": "circuncidado no oitavo dia, da nação de Israel, da tribo de Benjamim, hebreu de hebreus; quanto à lei, fariseu;",
-"n": [
-{
-"tipo": "tradução",
-"texto": "“Hebreu de hebreus”: de pais hebreus, que mantinha a língua e os costumes, ao contrário de muitos judeus helenizados."
-}
-]
-},
-"Php.3.6": {
-"t": "quanto ao zelo, perseguidor da igreja; quanto à justiça que há na lei, irrepreensível.",
-"n": [
-{
-"tipo": "teologia",
-"texto": "“Irrepreensível” refere-se à observância externa, segundo o padrão farisaico, e não à ausência de pecado diante de Deus (cf. Rm 7)."
-},
-{
-"tipo": "texto",
-"texto": "O texto crítico traz zēlos (neutro); o Textus Receptus e o Texto Bizantino, zēlon (masculino), forma mais clássica."
-}
-]
-},
-"Php.3.7": {
-"t": "Mas o que para mim era lucro, passei a considerar perda por causa de Cristo.",
-"n": [
-{
-"tipo": "tradução",
-"texto": "Linguagem de contabilidade: “lucros” (plural) passam para a coluna de “perda” (singular)."
-}
-]
-},
-"Php.3.8": {
-"t": "Mais do que isso, considero tudo como perda, comparado com a grandeza insuperável de conhecer Cristo Jesus, meu Senhor. Por causa dele perdi todas as coisas e as considero esterco, para ganhar Cristo",
-"n": [
-{
-"tipo": "raridade",
-"texto": "Skybalon (hápax): refugo, lixo, esterco. Termo forte e intencionalmente chocante."
-},
-{
-"tipo": "texto",
-"texto": "O Textus Receptus e o Texto Bizantino acrescentam einai (“serem”) depois do segundo “considero”."
-}
-]
-},
-"Php.3.9": {
-"t": "e ser achado nele, não tendo a minha própria justiça, que vem da lei, mas a que vem pela fé em Cristo, a justiça que vem de Deus e se baseia na fé.",
-"n": [
-{
-"tipo": "teologia",
-"texto": "Pisteōs Christou: genitivo objetivo (“fé em Cristo”), seguido aqui com a tradição da Reforma, ou subjetivo (“fidelidade de Cristo”). O contexto (“baseia-se na fé”) favorece a fé do crente em Cristo, mas o debate é sério; ver as obras de R. B. Hays e J. D. G. Dunn."
-},
-{
-"tipo": "teologia",
-"texto": "Justiça recebida “de Deus” (ek theou), não produzida pelo homem: base do ensino sobre justificação pela fé."
-}
-]
-},
-"Php.3.10": {
-"t": "Quero conhecer Cristo, o poder da sua ressurreição e a participação nos seus sofrimentos, tornando-me semelhante a ele na sua morte,",
-"n": [
-{
-"tipo": "literal",
-"texto": "Lit. “para conhecê-lo”, dependente do v. 9."
-},
-{
-"tipo": "texto",
-"texto": "O SBLGNT omite os artigos antes de “participação” e “sofrimentos”; NA28, Textus Receptus e Texto Bizantino os trazem. Sem mudança de sentido."
-}
-]
-},
-"Php.3.11": {
-"t": "para, de algum modo, alcançar a ressurreição dentre os mortos.",
-"n": [
-{
-"tipo": "teologia",
-"texto": "“De algum modo” (ei pōs) expressa humildade e dependência, não dúvida sobre a salvação (cf. 1:6). Exanastasis (hápax) é forma enfática: “ressurreição para fora de entre os mortos”."
-},
-{
-"tipo": "texto",
-"texto": "O texto crítico traz tēn ek nekrōn; o Textus Receptus e o Texto Bizantino, tōn nekrōn (“dos mortos”)."
-}
-]
-},
-"Php.3.12": {
-"t": "Não que eu já tenha alcançado isso ou já tenha chegado à perfeição, mas prossigo para ver se consigo alcançá-lo, pois para isso também fui alcançado por Cristo.",
-"n": [
-{
-"tipo": "texto",
-"texto": "O SBLGNT omite “Jesus” depois de “Cristo”; NA28, THGNT, Westcott-Hort, Textus Receptus e Texto Bizantino trazem “Cristo Jesus”."
-},
-{
-"tipo": "tradução",
-"texto": "Jogo entre katalambanō (“alcançar, agarrar”) na voz ativa e passiva: Paulo corre para agarrar aquilo para o qual Cristo o agarrou. Eph’ hō também pode significar “porque”."
-}
-]
-},
-"Php.3.13": {
-"t": "Irmãos, não penso que eu mesmo já o tenha alcançado. Mas uma coisa faço: esquecendo o que fica para trás e avançando para o que está adiante,",
-"n": [
-{
-"tipo": "texto",
-"texto": "O texto crítico traz ou (“não”); o Textus Receptus e outros manuscritos, oupō (“ainda não”)."
-},
-{
-"tipo": "tradução",
-"texto": "“Faço” é acrescentado para completar a frase elíptica do grego (“mas uma coisa”)."
-}
-]
-},
-"Php.3.14": {
-"t": "prossigo para o alvo, para o prêmio do chamado celestial de Deus em Cristo Jesus.",
-"n": [
-{
-"tipo": "literal",
-"texto": "Lit. “do chamado para o alto”. A imagem é a da corrida: o vencedor era chamado para receber o prêmio."
-}
-]
-},
-"Php.3.15": {
-"t": "Todos nós que somos maduros, tenhamos essa atitude. E se em algum ponto vocês pensam de outro modo, também isso Deus lhes esclarecerá.",
-"n": [
-{
-"tipo": "tradução",
-"texto": "Teleioi: “maduros, adultos na fé”, diferente do teteleiōmai do v. 12 (“chegar à perfeição final”). Paulo usa a ironia contra quem se dizia já perfeito."
-}
-]
-},
-"Php.3.16": {
-"t": "De qualquer modo, sigamos adiante segundo o mesmo padrão que já alcançamos.",
-"n": [
-{
-"tipo": "texto",
-"texto": "O Textus Receptus e o Texto Bizantino acrescentam “kanoni, to auto phronein” (“pela mesma regra, pensemos o mesmo”), expansão provavelmente baseada em Gl 6:16 e Fp 2:2. O texto mais curto vem de 𝔓16, 𝔓46, ℵ e B."
-},
-{
-"tipo": "literal",
-"texto": "Lit. “contudo, no que chegamos, pelo mesmo [caminho] andar em fila”. Stoicheō é marchar em ordem."
-}
-]
-},
-"Php.3.17": {
-"t": "Irmãos, sejam juntos imitadores meus e observem os que vivem de acordo com o exemplo que vocês têm em nós.",
-"n": [
-{
-"tipo": "raridade",
-"texto": "Symmimētēs (hápax): “coimitador”, imitar junto com outros."
-},
-{
-"tipo": "tradução",
-"texto": "“Vivem” traduz peripateō, “andar”, metáfora hebraica para a conduta."
-}
-]
-},
-"Php.3.18": {
-"t": "Pois, como já lhes disse muitas vezes e agora repito com lágrimas, há muitos que vivem como inimigos da cruz de Cristo.",
-"n": []
-},
-"Php.3.19": {
-"t": "O fim deles é a destruição; o deus deles é o ventre, e a glória deles está naquilo de que deveriam se envergonhar. Só pensam nas coisas terrenas.",
-"n": [
-{
-"tipo": "tradução",
-"texto": "“O ventre” (koilia): apetites físicos e, possivelmente, as leis alimentares tratadas como meio de salvação. As duas leituras têm defensores."
-},
-{
-"tipo": "literal",
-"texto": "Lit. “a glória na vergonha deles”."
-}
-]
-},
-"Php.3.20": {
-"t": "A nossa cidadania, porém, está nos céus, de onde também aguardamos ansiosamente um Salvador, o Senhor Jesus Cristo.",
-"n": [
-{
-"tipo": "tradução",
-"texto": "Politeuma: cidadania, comunidade de cidadãos. Filipos era colônia romana, e muitos de seus moradores tinham cidadania romana e se orgulhavam dela."
-},
-{
-"tipo": "tradução",
-"texto": "O grego diz “nossa” com ênfase: “Mas a nossa cidadania...”."
-}
-]
-},
-"Php.3.21": {
-"t": "Ele transformará o nosso corpo de humilhação, tornando-o semelhante ao seu corpo glorioso, pelo poder com que é capaz de sujeitar a si todas as coisas.",
-"n": [
-{
-"tipo": "texto",
-"texto": "O Textus Receptus e o Texto Bizantino acrescentam “eis to genesthai auto” (“para que seja”). Para “a si”, o SBLGNT e Westcott-Hort leem hautō, e o NA28, o THGNT e Tregelles leem autō; o sentido é o mesmo."
-},
-{
-"tipo": "literal",
-"texto": "Lit. “o corpo da nossa humilhação... ao corpo da sua glória”: o corpo mortal e frágil, não um corpo mau."
-}
-]
-},
-"Php.4.1": {
-"t": "Portanto, meus irmãos, amados e queridos, minha alegria e coroa, permaneçam assim firmes no Senhor, amados.",
-"n": [
-{
-"tipo": "tradução",
-"texto": "Stephanos: coroa de louros dada ao vencedor ou ao convidado de honra, não coroa real."
-}
-]
-},
-"Php.4.2": {
-"t": "Peço a Evódia e peço a Síntique que pensem de modo concorde no Senhor.",
-"n": [
-{
-"tipo": "contexto",
-"texto": "Duas mulheres com papel ativo na missão (v. 3). A repetição de “peço” trata as duas com igual respeito."
-}
-]
-},
-"Php.4.3": {
-"t": "Sim, e peço também a você, fiel companheiro de jugo, que ajude essas mulheres, que lutaram comigo pelo evangelho, junto com Clemente e meus demais cooperadores, cujos nomes estão no livro da vida.",
-"n": [
-{
-"tipo": "tradução",
-"texto": "Gnēsie syzyge: “fiel companheiro de jugo”. Alguns entendem Syzygos como nome próprio (“Sízigo, fiel ao nome”). A identidade é desconhecida."
-},
-{
-"tipo": "texto",
-"texto": "O Textus Receptus traz kai (“e”) em lugar de nai (“sim”)."
-}
-]
-},
-"Php.4.4": {
-"t": "Alegrem-se sempre no Senhor. Repito: alegrem-se!",
-"n": [
-{
-"tipo": "tradução",
-"texto": "Chairete pode ser também “adeus”, mas aqui o “sempre” exige o sentido pleno de “alegrem-se”."
-}
-]
-},
-"Php.4.5": {
-"t": "Que a amabilidade de vocês seja conhecida por todos. O Senhor está perto.",
-"n": [
-{
-"tipo": "tradução",
-"texto": "To epieikes: amabilidade, moderação, disposição de ceder. Difícil de traduzir com uma só palavra."
-},
-{
-"tipo": "teologia",
-"texto": "“O Senhor está perto” pode ser temporal (a volta de Cristo) ou espacial (presença; cf. Sl 145:18). As duas ideias cabem."
-}
-]
-},
-"Php.4.6": {
-"t": "Não andem ansiosos por coisa alguma; em tudo, porém, apresentem seus pedidos a Deus em oração e súplica, com ação de graças.",
-"n": [
-{
-"tipo": "literal",
-"texto": "Lit. “os vossos pedidos sejam dados a conhecer diante de Deus”."
-}
-]
-},
-"Php.4.7": {
-"t": "E a paz de Deus, que excede todo entendimento, guardará o coração e a mente de vocês em Cristo Jesus.",
-"n": [
-{
-"tipo": "tradução",
-"texto": "Phroureō é termo militar: a paz de Deus monta guarda como a guarnição romana de Filipos."
-},
-{
-"tipo": "tradução",
-"texto": "Hyperechousa pan noun: excede toda compreensão, ou é superior a todo plano humano."
-}
-]
-},
-"Php.4.8": {
-"t": "Finalmente, irmãos, tudo o que é verdadeiro, tudo o que é respeitável, tudo o que é justo, tudo o que é puro, tudo o que é amável, tudo o que é de boa fama, se há alguma virtude e se há algo digno de louvor, nisso pensem.",
-"n": [
-{
-"tipo": "contexto",
-"texto": "Paulo usa vocabulário da ética grega (aretē, “virtude”, só aqui em Paulo), mostrando que o crente reconhece o bem onde ele se encontra, à luz de Cristo."
-},
-{
-"tipo": "raridade",
-"texto": "Prosphilēs (“amável”) e euphēmos (“de boa fama”) são hápax no NT."
-}
-]
-},
-"Php.4.9": {
-"t": "Ponham em prática o que vocês aprenderam, receberam, ouviram e viram em mim. E o Deus da paz estará com vocês.",
-"n": [
-{
-"tipo": "tradução",
-"texto": "Paralambanō: receber uma tradição transmitida, termo técnico do ensino apostólico (1Co 15:3)."
-}
-]
-},
-"Php.4.10": {
-"t": "Alegrei-me muito no Senhor, porque finalmente vocês renovaram o seu cuidado por mim. Na verdade, vocês já se preocupavam, mas lhes faltava oportunidade.",
-"n": [
-{
-"tipo": "raridade",
-"texto": "Anathallō (hápax): “reflorescer”, como planta que brota de novo. Akaireomai (hápax): “não ter ocasião”."
-}
-]
-},
-"Php.4.11": {
-"t": "Não digo isso por estar passando necessidade, pois aprendi a estar contente em qualquer situação.",
-"n": [
-{
-"tipo": "tradução",
-"texto": "Autarkēs: termo estoico para “autossuficiente”. Paulo o redefine: sua suficiência vem de Cristo (v. 13)."
-}
-]
-},
-"Php.4.12": {
-"t": "Sei passar necessidade e sei ter fartura. Em todas e em cada uma das circunstâncias aprendi o segredo de estar saciado e de ter fome, de ter fartura e de passar falta.",
-"n": [
-{
-"tipo": "raridade",
-"texto": "Myeō (hápax): “ser iniciado”, termo das religiões de mistério. Paulo o usa com ironia: seu “segredo” é Cristo."
-}
-]
-},
-"Php.4.13": {
-"t": "Tudo posso naquele que me fortalece.",
-"n": [
-{
-"tipo": "texto",
-"texto": "O Textus Receptus e o Texto Bizantino acrescentam Christō (“em Cristo que me fortalece”). Os manuscritos mais antigos (ℵ*, A, B) não trazem. O sentido é o mesmo: “aquele” é Cristo."
-},
-{
-"tipo": "teologia",
-"texto": "“Tudo” refere-se ao contexto: suportar fartura e falta. Não é promessa de sucesso em qualquer empreendimento."
-}
-]
-},
-"Php.4.14": {
-"t": "Contudo, vocês fizeram bem em participar da minha aflição.",
-"n": []
-},
-"Php.4.15": {
-"t": "E vocês mesmos, filipenses, sabem que, no começo do evangelho, quando parti da Macedônia, nenhuma igreja se associou comigo em dar e receber, a não ser vocês somente.",
-"n": [
-{
-"tipo": "literal",
-"texto": "Lit. “nenhuma igreja teve comunhão comigo na conta de dar e receber”: linguagem de contabilidade."
-}
-]
-},
-"Php.4.16": {
-"t": "Pois, mesmo quando eu estava em Tessalônica, vocês me mandaram ajuda mais de uma vez, para as minhas necessidades.",
-"n": [
-{
-"tipo": "literal",
-"texto": "Lit. “tanto uma vez como duas”, isto é, repetidamente."
-}
-]
-},
-"Php.4.17": {
-"t": "Não que eu esteja procurando presentes, mas procuro o fruto que aumenta o crédito na conta de vocês.",
-"n": [
-{
-"tipo": "tradução",
-"texto": "A imagem financeira continua: a oferta é investimento que rende “juros” para os doadores diante de Deus."
-}
-]
-},
-"Php.4.18": {
-"t": "Recebi tudo e tenho de sobra. Estou plenamente suprido, agora que recebi de Epafrodito o que vocês enviaram: um aroma suave, um sacrifício aceitável e agradável a Deus.",
-"n": [
-{
-"tipo": "tradução",
-"texto": "Apechō era a fórmula de recibo comercial: “recebido, pago integralmente”."
-},
-{
-"tipo": "contexto",
-"texto": "“Aroma suave” é linguagem sacrificial do AT (Gn 8:21; Êx 29:18)."
-}
-]
-},
-"Php.4.19": {
-"t": "E o meu Deus suprirá todas as necessidades de vocês, segundo a sua riqueza em glória, em Cristo Jesus.",
-"n": [
-{
-"tipo": "texto",
-"texto": "O texto crítico traz to ploutos (neutro); o Textus Receptus e o Texto Bizantino, ton plouton (masculino). Sem mudança de sentido."
-},
-{
-"tipo": "teologia",
-"texto": "A promessa, no contexto, é feita a uma igreja que deu com sacrifício para a obra do evangelho."
-}
-]
-},
-"Php.4.20": {
-"t": "Ao nosso Deus e Pai seja a glória para todo o sempre. Amém.",
-"n": [
-{
-"tipo": "literal",
-"texto": "Lit. “pelos séculos dos séculos”."
-}
-]
-},
-"Php.4.21": {
-"t": "Saúdem cada um dos santos em Cristo Jesus. Os irmãos que estão comigo enviam saudações.",
-"n": []
-},
-"Php.4.22": {
-"t": "Todos os santos enviam saudações, especialmente os da casa de César.",
-"n": [
-{
-"tipo": "contexto",
-"texto": "“Casa de César” designa escravos e libertos a serviço do imperador, presentes em Roma e nas províncias."
-}
-]
-},
-"Php.4.23": {
-"t": "A graça do Senhor Jesus Cristo esteja com o espírito de vocês.",
-"n": [
-{
-"tipo": "texto",
-"texto": "O SBLGNT termina sem “Amém”, que aparece no THGNT, no Textus Receptus e no Texto Bizantino. O Textus Receptus e o Texto Bizantino trazem “com todos vocês” em vez de “com o espírito de vocês”, e “nosso Senhor”. O Textus Receptus acrescenta a subscrição “Escrita aos filipenses, de Roma, por Epafrodito”, nota tardia que não faz parte da carta."
-}
-]
-}
+ "_livro": {
+  "id": "Php",
+  "nome": "Filipenses",
+  "base": "SBL Greek New Testament (via TAGNT/STEPBible), com aparato de NA28, THGNT, Textus Receptus e Texto Bizantino",
+  "estado": "rascunho revisado; aguarda revisão humana"
+ },
+ "Php.1.1": {
+  "t": "Paulo e Timóteo, servos de Cristo Jesus, a todos os santos em Cristo Jesus que estão em Filipos, com os supervisores e diáconos:",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "servos",
+    "termo": "δοῦλοι (douloi)",
+    "titulo": "douloi: “servos” ou “escravos”",
+    "texto": "Doulos é o escravo, que pertence a outro. “Escravos” seria o literal, mas no Brasil a palavra evoca de imediato a escravidão africana e esconde o eco bíblico: na Septuaginta, Moisés, Josué e Davi são douloi do SENHOR. “Servos” mantém o eco; a nota mantém a força: pertencem inteiramente a Cristo."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "supervisores",
+    "termo": "ἐπισκόποις (episkopois)",
+    "titulo": "episkopoi: “supervisores” ou “bispos”",
+    "texto": "Episkopos é “quem supervisiona”. “Bispos” é a palavra que dele deriva, mas hoje designa um ofício hierárquico que a carta não descreve. Em At 20:17, 28 e Tt 1:5-7, episkopos e presbyteros parecem intercambiáveis; as tradições (episcopal, presbiteriana, congregacional) divergem sobre a relação entre os ofícios. “Supervisores” descreve a função sem decidir a questão."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "diáconos",
+    "termo": "διακόνοις (diakonois)",
+    "titulo": "diakonoi",
+    "texto": "Lit. “servidores”. Como aparece ao lado de episkopoi, já designa um grupo reconhecido; por isso “diáconos”, e não “servidores”."
+   }
+  ]
+ },
+ "Php.1.2": {
+  "t": "Graça e paz a vocês da parte de Deus, nosso Pai, e do Senhor Jesus Cristo.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "da parte de Deus, nosso Pai, e do Senhor Jesus Cristo",
+    "termo": "ἀπὸ θεοῦ πατρὸς ἡμῶν καὶ κυρίου Ἰησοῦ Χριστοῦ",
+    "titulo": "uma só preposição",
+    "texto": "Uma só preposição (apo) rege “Deus nosso Pai” e “Senhor Jesus Cristo”: o Filho é posto ao lado do Pai como fonte da mesma graça. A tradução repete “de” por clareza em português, sem separar as duas fontes."
+   }
+  ]
+ },
+ "Php.1.3": {
+  "t": "Dou graças ao meu Deus todas as vezes que me lembro de vocês.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "todas as vezes que me lembro de vocês",
+    "termo": "ἐπὶ πάσῃ τῇ μνείᾳ ὑμῶν (epi pasē tē mneia hymōn)",
+    "titulo": "genitivo objetivo ou subjetivo",
+    "texto": "Lit. “sobre toda a lembrança de vocês”. Pode ser a lembrança que Paulo tem deles (genitivo objetivo) ou a que eles tiveram dele ao enviar ajuda (subjetivo; O'Brien). A primeira é a leitura mais natural e a das versões em geral; a outra combina com 4:10-18."
+   }
+  ]
+ },
+ "Php.1.4": {
+  "t": "Sempre, em todas as minhas orações por todos vocês, oro com alegria,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "oro com alegria",
+    "termo": "μετὰ χαρᾶς τὴν δέησιν ποιούμενος",
+    "titulo": "“fazendo a súplica com alegria”",
+    "texto": "O particípio foi transformado em verbo finito para evitar uma frase arrastada. Chara (“alegria”) e chairō (“alegrar-se”) aparecem 16 vezes na carta."
+   }
+  ]
+ },
+ "Php.1.5": {
+  "t": "por causa da participação de vocês no evangelho, desde o primeiro dia até agora.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "participação",
+    "termo": "κοινωνίᾳ (koinōnia)",
+    "titulo": "koinōnia",
+    "texto": "Comunhão, parceria. “Comunhão” (ARC) hoje sugere sentimento; aqui Paulo fala de participação ativa, que inclui o sustento financeiro (4:15). “Participação no evangelho” traduz a preposição eis (para, em favor de)."
+   }
+  ]
+ },
+ "Php.1.6": {
+  "t": "Tenho plena certeza de que aquele que começou boa obra em vocês a completará até o dia de Cristo Jesus.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Tenho plena certeza",
+    "termo": "πεποιθὼς αὐτὸ τοῦτο (pepoithōs auto touto)",
+    "titulo": "“persuadido disto mesmo”",
+    "texto": "O perfeito de peithō indica convicção estabelecida. “Plena certeza” transmite o perfeito e o reforço auto touto."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "aquele que começou boa obra",
+    "termo": "ὁ ἐναρξάμενος ... ἐπιτελέσει",
+    "titulo": "Deus termina o que começa",
+    "texto": "O sujeito é Deus. Alguns comentaristas notam que enarchomai e epiteleō aparecem em contextos de início e conclusão de rituais; aqui indicam que Deus leva até o fim o que começou."
+   }
+  ]
+ },
+ "Php.1.7": {
+  "t": "É justo que eu pense assim a respeito de todos vocês, porque os tenho no coração. Todos vocês são participantes comigo da graça, tanto nas minhas prisões como na defesa e confirmação do evangelho.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "porque os tenho no coração",
+    "termo": "διὰ τὸ ἔχειν με ἐν τῇ καρδίᾳ ὑμᾶς",
+    "titulo": "quem tem quem?",
+    "texto": "Com dois acusativos (me e hymas) junto do infinitivo, o grego permite “eu tenho vocês no coração” ou “vocês me têm no coração”. A ordem das palavras e o v. 8 favorecem a primeira."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "defesa e confirmação",
+    "termo": "ἀπολογίᾳ καὶ βεβαιώσει (apologia kai bebaiōsei)",
+    "titulo": "termos jurídicos",
+    "texto": "Apologia é a defesa no tribunal; bebaiōsis, a confirmação legal. Paulo espera julgamento. Um só artigo para os dois termos: uma única ação de defender e firmar o evangelho."
+   }
+  ]
+ },
+ "Php.1.8": {
+  "t": "Deus é minha testemunha de como tenho saudade de todos vocês com o afeto de Cristo Jesus.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "afeto",
+    "termo": "σπλάγχνοις (splanchnois)",
+    "titulo": "splanchna: “entranhas”",
+    "texto": "As “entranhas” eram, para os antigos, a sede das emoções. “Afeto” transmite o sentido; “entranhas” (ARC) soa físico demais em português."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Deus é minha testemunha",
+    "termo": "μάρτυς γάρ μου ὁ θεός",
+    "titulo": "estin",
+    "texto": "O Textus Receptus e o Texto Bizantino acrescentam estin (“é”). Sem efeito na tradução."
+   }
+  ]
+ },
+ "Php.1.9": {
+  "t": "E esta é a minha oração: que o amor de vocês transborde cada vez mais em conhecimento e em todo discernimento,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "discernimento",
+    "termo": "αἰσθήσει (aisthēsei)",
+    "titulo": "aisthēsis, hápax",
+    "texto": "Única ocorrência no NT. Na Septuaginta de Provérbios é percepção moral prática (Pv 1:4, 7). “Discernimento” é mais preciso que “percepção”, que soaria sensorial."
+   }
+  ]
+ },
+ "Php.1.10": {
+  "t": "para que vocês saibam distinguir o que é excelente e sejam puros e irrepreensíveis até o dia de Cristo,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "saibam distinguir o que é excelente",
+    "termo": "δοκιμάζειν ... τὰ διαφέροντα (dokimazein ta diapheronta)",
+    "titulo": "“aprovar as coisas que diferem”",
+    "texto": "Dokimazō é testar e aprovar; ta diapheronta, “as coisas que diferem”, isto é, as que importam (Rm 2:18). “Distinguir o que é excelente” une as duas ideias."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "puros e irrepreensíveis",
+    "termo": "εἰλικρινεῖς καὶ ἀπρόσκοποι (eilikrineis kai aproskopoi)",
+    "titulo": "dois adjetivos raros",
+    "texto": "Eilikrinēs é “sem mistura”; aproskopos pode ser “sem tropeçar” ou “sem fazer tropeçar”. “Irrepreensíveis” cobre as duas direções."
+   }
+  ]
+ },
+ "Php.1.11": {
+  "t": "cheios do fruto de justiça que vem por meio de Jesus Cristo, para a glória e o louvor de Deus.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "do fruto de justiça",
+    "termo": "καρπὸν δικαιοσύνης τὸν (karpon ... ton)",
+    "titulo": "singular ou plural",
+    "texto": "O texto crítico traz o singular karpon ... ton (“o fruto ... que”); o Textus Receptus e o Texto Bizantino, o plural karpōn (“frutos”). O singular tem apoio mais antigo (𝔓46, ℵ, A, B) e é o uso de Paulo (Gl 5:22)."
+   }
+  ]
+ },
+ "Php.1.12": {
+  "t": "Quero que vocês saibam, irmãos, que o que aconteceu comigo serviu, na verdade, para o progresso do evangelho.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "irmãos",
+    "termo": "ἀδελφοί (adelphoi)",
+    "titulo": "adelphoi",
+    "texto": "O plural masculino inclui as irmãs, como mostram Evódia e Síntique (4:2). Mantido “irmãos”, forma usada nas igrejas, com esta nota."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "o que aconteceu comigo",
+    "termo": "τὰ κατ᾽ ἐμέ (ta kat’ eme)",
+    "titulo": "“as coisas a meu respeito”",
+    "texto": "Expressão idiomática para a situação pessoal (Cl 4:7). Traduzida pelo sentido."
+   }
+  ]
+ },
+ "Php.1.13": {
+  "t": "Assim, ficou claro a toda a guarda pretoriana e a todos os demais que estou preso por causa de Cristo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "guarda pretoriana",
+    "termo": "πραιτωρίῳ (praitōriō)",
+    "titulo": "praitōrion",
+    "texto": "Pode ser a guarda imperial em Roma ou a sede do governador numa província (Mt 27:27; At 23:35). Com “a todos os demais” logo depois, o sentido mais provável é de pessoas, não de prédio; por isso “guarda pretoriana”. O lugar da prisão (Roma, Éfeso ou Cesareia) é debatido."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "que estou preso por causa de Cristo",
+    "termo": "τοὺς δεσμούς μου φανεροὺς ἐν Χριστῷ γενέσθαι",
+    "titulo": "“minhas cadeias manifestas em Cristo”",
+    "texto": "Lit. “minhas cadeias se tornaram manifestas em Cristo”: ficou claro que a prisão era por Cristo, e não por crime. Traduzido pelo sentido."
+   }
+  ]
+ },
+ "Php.1.14": {
+  "t": "E a maioria dos irmãos, encorajados no Senhor pelas minhas prisões, ousam cada vez mais anunciar a palavra sem medo.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "a palavra",
+    "termo": "τὸν λόγον (+ τοῦ θεοῦ)",
+    "titulo": "“a palavra” ou “a palavra de Deus”",
+    "texto": "Westcott-Hort e Tregelles acrescentam “de Deus”, com ℵ, A e B; outros manuscritos leem “do Senhor”. O SBLGNT e o Textus Receptus têm só “a palavra”. A variedade de acréscimos sugere que o texto curto é o original (Metzger)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "encorajados no Senhor",
+    "termo": "ἐν κυρίῳ πεποιθότας (en kyriō pepoithotas)",
+    "titulo": "a que se liga “no Senhor”?",
+    "texto": "Pode ligar-se a “irmãos” (“irmãos no Senhor”) ou a “encorajados”. “Irmãos no Senhor” seria expressão única em Paulo; por isso a ligação com o verbo."
+   }
+  ]
+ },
+ "Php.1.15": {
+  "t": "É verdade que alguns pregam Cristo por inveja e rivalidade, mas outros o fazem de boa vontade.",
+  "n": []
+ },
+ "Php.1.16": {
+  "t": "Estes o fazem por amor, sabendo que estou aqui para a defesa do evangelho.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "Estes o fazem por amor",
+    "termo": "οἱ μὲν ἐξ ἀγάπης",
+    "titulo": "ordem dos vv. 16 e 17",
+    "texto": "O Textus Receptus e o Texto Bizantino trocam os vv. 16 e 17. No texto crítico, seguido aqui com apoio de 𝔓46, ℵ, A e B, os vv. 16-17 (amor, ambição) retomam o v. 15 (inveja, boa vontade) em ordem inversa, formando um quiasmo. A troca bizantina parece querer seguir a ordem do v. 15."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "estou aqui",
+    "termo": "κεῖμαι (keimai)",
+    "titulo": "keimai",
+    "texto": "“Estou posto, designado” (Lc 2:34). “Estou aqui para” mantém a ideia de missão recebida."
+   }
+  ]
+ },
+ "Php.1.17": {
+  "t": "Aqueles anunciam Cristo por ambição egoísta, não com sinceridade, pensando que podem aumentar o meu sofrimento nas prisões.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "ambição egoísta",
+    "termo": "ἐριθείας (eritheias)",
+    "titulo": "eritheia",
+    "texto": "Fora do NT descreve quem busca cargo por interesse. “Ambição egoísta” é mais preciso que “contenda” (ARC), que confunde com eris (v. 15)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "aumentar o meu sofrimento",
+    "termo": "θλῖψιν ἐγείρειν (thlipsin egeirein)",
+    "titulo": "egeirein ou epipherein",
+    "texto": "O texto crítico traz egeirein (“suscitar”); o Textus Receptus, epipherein (“acrescentar”). Sentido muito próximo."
+   }
+  ]
+ },
+ "Php.1.18": {
+  "t": "Mas que importa? O importante é que, de qualquer modo, seja por pretexto, seja de verdade, Cristo está sendo anunciado. Com isso me alegro, e continuarei a me alegrar.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Mas que importa?",
+    "termo": "τί γάρ; (ti gar?)",
+    "titulo": "“Pois quê?”",
+    "texto": "Expressão elíptica de quem descarta uma objeção. Traduzida pelo sentido."
+   }
+  ]
+ },
+ "Php.1.19": {
+  "t": "Pois sei que isto resultará na minha libertação, pelas orações de vocês e pelo socorro do Espírito de Jesus Cristo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "libertação",
+    "termo": "σωτηρίαν (sōtērian)",
+    "titulo": "sōtēria: “libertação” ou “salvação”",
+    "texto": "Paulo repete palavra por palavra uma frase de Jó 13:16 (LXX), onde Jó espera ser vindicado diante de Deus. Sōtēria pode ser a soltura da prisão ou a vindicação e salvação final (vv. 20-21). “Libertação” foi escolhida porque o contexto imediato fala do julgamento e da volta aos filipenses (vv. 25-26); “salvação” também é defensável (Fee; O'Brien).",
+    "revisar": true
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Espírito de Jesus Cristo",
+    "termo": "τοῦ πνεύματος Ἰησοῦ Χριστοῦ",
+    "titulo": "o Espírito de Cristo",
+    "texto": "É o Espírito Santo, chamado em Rm 8:9 tanto “Espírito de Deus” quanto “Espírito de Cristo”. “Socorro” traduz epichorēgia, provisão generosa."
+   }
+  ]
+ },
+ "Php.1.20": {
+  "t": "Aguardo ansiosamente e espero que em nada serei envergonhado; pelo contrário, com toda a coragem, como sempre, também agora Cristo será engrandecido no meu corpo, quer pela vida, quer pela morte.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Aguardo ansiosamente",
+    "termo": "ἀποκαραδοκίαν (apokaradokian)",
+    "titulo": "apokaradokia",
+    "texto": "Só aqui e em Rm 8:19. A imagem é de quem estica a cabeça para ver o que vem. “Aguardo ansiosamente e espero” traduz os dois substantivos com verbos, mais natural em português."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "coragem",
+    "termo": "παρρησίᾳ (parrēsia)",
+    "titulo": "parrēsia",
+    "texto": "Franqueza pública, ousadia de falar. “Coragem” é o equivalente mais próximo nesta frase."
+   }
+  ]
+ },
+ "Php.1.21": {
+  "t": "Porque para mim o viver é Cristo, e o morrer é lucro.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "o viver é Cristo, e o morrer é lucro",
+    "termo": "τὸ ζῆν Χριστὸς καὶ τὸ ἀποθανεῖν κέρδος",
+    "titulo": "infinitivos com artigo",
+    "texto": "Os infinitivos com artigo foram mantidos (“o viver”, “o morrer”) para conservar a concisão do original, que é uma das frases mais citadas da carta."
+   }
+  ]
+ },
+ "Php.1.22": {
+  "t": "Mas, se continuar vivendo no corpo, isso significará trabalho frutífero para mim. E já não sei o que escolher.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "no corpo",
+    "termo": "ἐν σαρκί (en sarki)",
+    "titulo": "sarx: “carne” ou “corpo”",
+    "texto": "Aqui sarx é a vida física, sem o sentido moral negativo de Gl 5. “Na carne” levaria o leitor a pensar em pecado; por isso “no corpo”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "E já não sei o que escolher",
+    "termo": "καὶ τί αἱρήσομαι οὐ γνωρίζω",
+    "titulo": "gnōrizō",
+    "texto": "A frase toda é elíptica. Gnōrizō no NT é “dar a conhecer”, e alguns traduzem “não digo”. Escolheu-se “não sei”, sentido que o verbo tem no grego clássico e que combina com o v. 23."
+   }
+  ]
+ },
+ "Php.1.23": {
+  "t": "Estou pressionado pelos dois lados: desejo partir e estar com Cristo, o que é muito melhor;",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Estou pressionado pelos dois lados",
+    "termo": "συνέχομαι δὲ ἐκ τῶν δύο",
+    "titulo": "synechomai",
+    "texto": "Imagem de quem é apertado de dois lados. “Pressionado” guarda a imagem."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "partir",
+    "termo": "ἀναλῦσαι (analysai)",
+    "titulo": "analyō",
+    "texto": "Desatar, levantar acampamento, soltar amarras do navio. Eufemismo para a morte (2Tm 4:6). “Partir” é a imagem comum às duas línguas."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "estar com Cristo",
+    "termo": "σὺν Χριστῷ εἶναι",
+    "titulo": "estado intermediário",
+    "texto": "A maioria entende que Paulo espera estar com Cristo logo após a morte, antes da ressurreição (cf. 2Co 5:8). Outros leem do ponto de vista de quem morre, para quem a ressurreição parece imediata."
+   }
+  ]
+ },
+ "Php.1.24": {
+  "t": "mas, por causa de vocês, é mais necessário que eu continue vivendo.",
+  "n": []
+ },
+ "Php.1.25": {
+  "t": "Convencido disso, sei que vou ficar e continuar com todos vocês, para o progresso e a alegria de vocês na fé,",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "continuar com todos vocês",
+    "termo": "παραμενῶ (paramenō)",
+    "titulo": "paramenō ou symparamenō",
+    "texto": "O Textus Receptus e o Texto Bizantino trazem symparamenō (“permanecer junto com”). Sem efeito no sentido."
+   }
+  ]
+ },
+ "Php.1.26": {
+  "t": "para que, com a minha volta para junto de vocês, transborde por minha causa o motivo que vocês têm de se gloriar em Cristo Jesus.",
+  "n": []
+ },
+ "Php.1.27": {
+  "t": "Somente vivam como cidadãos de modo digno do evangelho de Cristo, para que, quer eu vá e os veja, quer esteja ausente, ouça a respeito de vocês que estão firmes num só espírito, lutando juntos, com uma só alma, pela fé do evangelho,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "vivam como cidadãos",
+    "termo": "πολιτεύεσθε (politeuesthe)",
+    "titulo": "politeuomai",
+    "texto": "Paulo não usa o verbo comum para “viver” (peripateō), mas politeuomai, “viver como cidadão”. Filipos era colônia romana e se orgulhava disso; Paulo aponta para outra cidadania (3:20). “Portai-vos” (ARC) apaga a imagem."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "num só espírito",
+    "termo": "ἐν ἑνὶ πνεύματι (en heni pneumati)",
+    "titulo": "espírito ou Espírito",
+    "texto": "Pode ser o Espírito Santo (Ef 2:18) ou a unidade de ânimo, em paralelo com “uma só alma”. Minúscula, porque o paralelo favorece a unidade da igreja; a outra leitura é defendida por Fee."
+   }
+  ]
+ },
+ "Php.1.28": {
+  "t": "sem se deixarem intimidar em nada pelos adversários. Isso é para eles sinal de destruição, mas para vocês, de salvação, e isso vem de Deus.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "sem se deixarem intimidar",
+    "termo": "μὴ πτυρόμενοι (mē ptyromenoi)",
+    "titulo": "ptyromai, hápax",
+    "texto": "Usado para cavalos que se assustam e disparam. “Intimidar” transmite o susto que paralisa."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "para vocês, de salvação",
+    "termo": "ὑμῶν δὲ σωτηρίας",
+    "titulo": "hymōn ou hymin",
+    "texto": "O texto crítico traz hymōn (“de vocês”); o Textus Receptus e o Texto Bizantino, hymin (“para vocês”). Sentido equivalente."
+   }
+  ]
+ },
+ "Php.1.29": {
+  "t": "Pois a vocês foi concedido, por amor de Cristo, não apenas crer nele, mas também sofrer por ele,",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "foi concedido",
+    "termo": "ἐχαρίσθη (echaristhē)",
+    "titulo": "charizomai",
+    "texto": "Da mesma raiz de charis (“graça”): foi dado como favor. Crer e sofrer por Cristo são apresentados como dons."
+   }
+  ]
+ },
+ "Php.1.30": {
+  "t": "travando o mesmo combate que vocês viram em mim e que agora ouvem que ainda enfrento.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "o mesmo combate que vocês viram em mim",
+    "termo": "τὸν αὐτὸν ἀγῶνα ... οἷον εἴδετε ἐν ἐμοί",
+    "titulo": "lembrança de Filipos",
+    "texto": "Em Filipos, Paulo e Silas foram açoitados e presos (At 16:19-40). Agōn é a luta do atleta (1Tm 6:12)."
+   }
+  ]
+ },
+ "Php.2.1": {
+  "t": "Portanto, se há algum encorajamento em Cristo, algum consolo do amor, alguma comunhão do Espírito, alguma ternura e compaixão,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "se há algum encorajamento",
+    "termo": "εἴ τις οὖν παράκλησις",
+    "titulo": "condicionais reais",
+    "texto": "Os quatro “se” são condicionais de realidade: equivalem a “visto que há”. A tradução literal foi mantida porque o português também usa o “se” retórico, e a força do argumento depende dele."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "comunhão do Espírito",
+    "termo": "κοινωνία πνεύματος (koinōnia pneumatos)",
+    "titulo": "genitivo",
+    "texto": "Pode ser a comunhão que o Espírito produz ou a participação no Espírito (2Co 13:13). A tradução literal deixa as duas leituras abertas."
+   }
+  ]
+ },
+ "Php.2.2": {
+  "t": "completem a minha alegria tendo o mesmo modo de pensar, o mesmo amor, sendo unidos de alma e de propósito.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "o mesmo modo de pensar",
+    "termo": "τὸ αὐτὸ φρονῆτε (to auto phronēte)",
+    "titulo": "phroneō",
+    "texto": "Phroneō aparece 10 vezes na carta e não é só raciocinar: é ter uma disposição de mente e de coração. Por isso “modo de pensar” e, em 2:5, “atitude”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "unidos de alma",
+    "termo": "σύμψυχοι (sympsychoi)",
+    "titulo": "sympsychos, hápax",
+    "texto": "Única ocorrência: “de alma unida”. Mantida a palavra “alma” para guardar o composto."
+   }
+  ]
+ },
+ "Php.2.3": {
+  "t": "Não façam nada por ambição egoísta ou por vaidade, mas com humildade considerem os outros superiores a si mesmos.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "vaidade",
+    "termo": "κενοδοξίαν (kenodoxian)",
+    "titulo": "kenodoxia, hápax",
+    "texto": "“Glória vazia”. Há jogo com ekenōsen (“esvaziou”) em 2:7: o contrário da vanglória é o esvaziamento de Cristo."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "humildade",
+    "termo": "ταπεινοφροσύνῃ (tapeinophrosynē)",
+    "titulo": "tapeinophrosynē",
+    "texto": "Na cultura greco-romana, tapeinos era qualidade de escravo. O evangelho fez da humildade uma virtude, a partir do exemplo de Cristo (vv. 6-8)."
+   }
+  ]
+ },
+ "Php.2.4": {
+  "t": "Cada um não procure apenas os próprios interesses, mas também os interesses dos outros.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "Cada um",
+    "termo": "ἕκαστος / ἕκαστοι",
+    "titulo": "singular e plural",
+    "texto": "O SBLGNT traz só hekastoi (plural) no fim. O NA28 e o THGNT trazem também hekastos (singular) depois de “seus próprios”. O Textus Receptus e o Texto Bizantino trazem o singular e o imperativo skopeite (“olhem”). O sentido não muda."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "apenas",
+    "termo": "ἀλλὰ καὶ (alla kai)",
+    "titulo": "“mas também”",
+    "texto": "O kai (“também”) mostra que Paulo não proíbe cuidar dos próprios interesses; por isso “apenas”, implícito no grego."
+   }
+  ]
+ },
+ "Php.2.5": {
+  "t": "Tenham entre vocês a mesma atitude que houve também em Cristo Jesus:",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "a mesma atitude que houve também em Cristo Jesus",
+    "termo": "τοῦτο φρονεῖτε ἐν ὑμῖν ὃ καὶ ἐν Χριστῷ Ἰησοῦ",
+    "titulo": "verbo oculto",
+    "texto": "Lit. “Pensem isto em vocês, o que também em Cristo Jesus”. Falta um verbo na segunda parte. As duas leituras: (1) “a atitude que houve em Cristo Jesus” (exemplo ético); (2) “a atitude que convém a quem está em Cristo Jesus” (vida na comunidade). A primeira é a mais antiga e se encaixa no hino que segue; a segunda é defendida por E. Käsemann."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Tenham",
+    "termo": "φρονεῖτε (phroneite)",
+    "titulo": "phroneite ou phroneisthō",
+    "texto": "O texto crítico traz phroneite (“pensem”); o Textus Receptus e o Texto Bizantino, phroneisthō (“seja pensado”), com gar. O imperativo ativo tem apoio mais antigo."
+   }
+  ]
+ },
+ "Php.2.6": {
+  "t": "ele, que existia na forma de Deus, não considerou o ser igual a Deus como algo a que devesse se apegar,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "existia na forma de Deus",
+    "termo": "ἐν μορφῇ θεοῦ ὑπάρχων (en morphē theou hyparchōn)",
+    "titulo": "morphē e hyparchōn",
+    "texto": "Morphē não é aparência externa (para isso Paulo usa schēma, v. 7), mas a forma que expressa o que algo realmente é. O particípio presente hyparchōn descreve a condição de Cristo antes de esvaziar-se; a tradição ortodoxa vê aí a preexistência divina do Filho. “Existia” traduz o verbo melhor que “sendo”, que soaria fraco."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "algo a que devesse se apegar",
+    "termo": "ἁρπαγμόν (harpagmon)",
+    "titulo": "harpagmos, hápax",
+    "texto": "As principais leituras: (1) “algo a ser usurpado” (res rapienda), que suporia que Cristo não tinha a igualdade; (2) “algo a ser retido” (res retinenda); (3) “algo a ser explorado em proveito próprio”. A APV segue a terceira, defendida por R. W. Hoover (1971) e N. T. Wright (1991), porque o v. 6 já afirma que Cristo existia na forma de Deus: a questão não é obter a igualdade, mas como usá-la.",
+    "revisar": true
+   }
+  ]
+ },
+ "Php.2.7": {
+  "t": "mas esvaziou a si mesmo, assumindo a forma de servo, tornando-se semelhante aos homens. E, reconhecido em aparência como homem,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "esvaziou a si mesmo",
+    "termo": "ἑαυτὸν ἐκένωσεν (heauton ekenōsen)",
+    "titulo": "kenoō",
+    "texto": "Tradução literal, sem trocar por “aniquilou-se” (ARC) ou “fez-se nada”, porque o verbo é o centro do debate. Os particípios que seguem explicam o esvaziamento: “assumindo a forma de servo”. Cristo não deixou de ser Deus; acrescentou a humanidade (Calcedônia, 451). A teoria quenótica, que fala em abandono de atributos divinos, é posição minoritária."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "semelhante aos homens",
+    "termo": "ἐν ὁμοιώματι ἀνθρώπων (en homoiōmati anthrōpōn)",
+    "titulo": "homoiōma",
+    "texto": "Semelhança real, não aparência ilusória (contra o docetismo). Anthrōpoi são “seres humanos”; “homens” mantém o paralelo com o v. 8."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "reconhecido em aparência como homem",
+    "termo": "σχήματι εὑρεθεὶς ὡς ἄνθρωπος (schēmati heuretheis)",
+    "titulo": "schēma",
+    "texto": "Schēma é a aparência exterior que os outros veem, em contraste com morphē (v. 6). “Reconhecido” traduz heuretheis, “sendo achado”."
+   }
+  ]
+ },
+ "Php.2.8": {
+  "t": "humilhou a si mesmo, tornando-se obediente até a morte, e morte de cruz!",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "e morte de cruz!",
+    "termo": "θανάτου δὲ σταυροῦ",
+    "titulo": "a cruz",
+    "texto": "A crucificação era a morte mais vergonhosa do mundo romano, reservada a escravos e rebeldes; cidadãos romanos, como muitos em Filipos, eram isentos. A exclamação reproduz a quebra do ritmo no grego."
+   }
+  ]
+ },
+ "Php.2.9": {
+  "t": "Por isso também Deus o exaltou acima de tudo e lhe deu o nome que está acima de todo nome,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "exaltou acima de tudo",
+    "termo": "ὑπερύψωσεν (hyperypsōsen)",
+    "titulo": "hyperypsoō, hápax",
+    "texto": "“Exaltou acima de todos, sobremaneira”. O prefixo hyper- foi traduzido por “acima de tudo”."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "o nome que está acima de todo nome",
+    "termo": "τὸ ὄνομα τὸ ὑπὲρ πᾶν ὄνομα",
+    "titulo": "que nome?",
+    "texto": "O nome é mais comumente entendido como “Senhor” (Kyrios, v. 11), título usado pela Septuaginta para o nome divino YHWH. Alguns o entendem como “Jesus” (v. 10)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "o nome",
+    "termo": "τὸ ὄνομα",
+    "titulo": "artigo",
+    "texto": "O texto crítico traz o artigo (“o nome”); o Textus Receptus e o Texto Bizantino omitem (“um nome”)."
+   }
+  ]
+ },
+ "Php.2.10": {
+  "t": "para que ao nome de Jesus se dobre todo joelho, nos céus, na terra e debaixo da terra,",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "se dobre todo joelho",
+    "termo": "πᾶν γόνυ κάμψῃ",
+    "titulo": "Isaías 45:23",
+    "texto": "Os vv. 10-11 aplicam a Jesus Is 45:23, onde YHWH diz: “Diante de mim se dobrará todo joelho, e jurará toda língua”. Paulo atribui a Jesus a honra que o texto reserva ao Deus único."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "debaixo da terra",
+    "termo": "καταχθονίων (katachthoniōn)",
+    "titulo": "katachthonios, hápax",
+    "texto": "Os que estão no mundo dos mortos. Traduzido pelo sentido local, sem decidir se são mortos humanos ou poderes espirituais."
+   }
+  ]
+ },
+ "Php.2.11": {
+  "t": "e toda língua confesse que Jesus Cristo é Senhor, para a glória de Deus Pai.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Jesus Cristo é Senhor",
+    "termo": "κύριος Ἰησοῦς Χριστός",
+    "titulo": "ordem das palavras",
+    "texto": "No grego, “Senhor” vem primeiro, em posição de destaque: era a confissão batismal primitiva (Rm 10:9; 1Co 12:3). Em português a ordem natural é “Jesus Cristo é Senhor”."
+   }
+  ]
+ },
+ "Php.2.12": {
+  "t": "Assim, meus amados, como vocês sempre obedeceram, não só na minha presença, mas muito mais agora na minha ausência, ponham em prática a salvação de vocês com temor e tremor,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "ponham em prática a salvação de vocês",
+    "termo": "τὴν ἑαυτῶν σωτηρίαν κατεργάζεσθε (katergazesthe)",
+    "titulo": "katergazomai",
+    "texto": "“Desenvolvam, levem a efeito”, não “conquistem”. A base vem no v. 13: é Deus quem opera. O plural (“de vocês”) aponta também para a vida comum da igreja. “Operai a vossa salvação” (ARC) é literal mas pode sugerir salvação por obras."
+   }
+  ]
+ },
+ "Php.2.13": {
+  "t": "pois é Deus quem efetua em vocês tanto o querer como o realizar, segundo a sua boa vontade.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "segundo a sua boa vontade",
+    "termo": "ὑπὲρ τῆς εὐδοκίας (hyper tēs eudokias)",
+    "titulo": "de quem é a boa vontade?",
+    "texto": "O grego diz só “pela boa vontade”. O mais provável é a de Deus (Ef 1:5, 9); alguns entendem a boa vontade entre os irmãos. O possessivo “sua” acompanha a leitura mais comum."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "é Deus quem",
+    "termo": "θεὸς γάρ ἐστιν (+ ὁ)",
+    "titulo": "artigo",
+    "texto": "O Textus Receptus e o Texto Bizantino trazem o artigo (ho theos). Sem efeito no sentido."
+   }
+  ]
+ },
+ "Php.2.14": {
+  "t": "Façam tudo sem murmurações nem discussões,",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "murmurações",
+    "termo": "γογγυσμῶν (gongysmōn)",
+    "titulo": "eco do deserto",
+    "texto": "A palavra lembra Israel no deserto (Êx 16:7-12; Nm 14:27), assim como o v. 15 cita Dt 32:5."
+   }
+  ]
+ },
+ "Php.2.15": {
+  "t": "para que sejam irrepreensíveis e puros, filhos de Deus sem mancha no meio de uma geração corrompida e perversa, na qual vocês brilham como astros no mundo,",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "geração corrompida e perversa",
+    "termo": "γενεᾶς σκολιᾶς καὶ διεστραμμένης",
+    "titulo": "Deuteronômio 32:5",
+    "texto": "Citação de Dt 32:5 (LXX), onde a geração perversa é Israel infiel. Aqui, os filhos de Deus contrastam com ela. “Brilham como astros” lembra Dn 12:3."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "sem mancha no meio de",
+    "termo": "ἄμωμα μέσον (amōma meson)",
+    "titulo": "forma das palavras",
+    "texto": "O Textus Receptus e o Texto Bizantino trazem amōmēta en mesō, de mesmo sentido."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "brilham",
+    "termo": "φαίνεσθε (phainesthe)",
+    "titulo": "indicativo ou imperativo",
+    "texto": "A forma pode ser indicativo (“vocês brilham”) ou imperativo (“brilhem”). O relativo “na qual” favorece o indicativo: é descrição do que já são."
+   }
+  ]
+ },
+ "Php.2.16": {
+  "t": "retendo firmemente a palavra da vida. Assim, no dia de Cristo, terei motivo para me gloriar de que não corri nem trabalhei em vão.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "retendo firmemente",
+    "termo": "ἐπέχοντες (epechontes)",
+    "titulo": "epechō",
+    "texto": "Pode ser “reter firmemente” ou “oferecer, apresentar”. A primeira combina com a ênfase na perseverança e com o “não corri em vão”."
+   }
+  ]
+ },
+ "Php.2.17": {
+  "t": "E, ainda que eu seja derramado como oferta sobre o sacrifício e o serviço da fé de vocês, alegro-me e me alegro com todos vocês.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "derramado como oferta",
+    "termo": "σπένδομαι (spendomai)",
+    "titulo": "spendō",
+    "texto": "Ser derramado como libação: o vinho que se derramava sobre o sacrifício (Nm 28:7). “Como oferta” explica a imagem que “derramado” sozinho não daria. Paulo fala da sua possível morte (2Tm 4:6)."
+   }
+  ]
+ },
+ "Php.2.18": {
+  "t": "Do mesmo modo, alegrem-se vocês também e alegrem-se comigo.",
+  "n": []
+ },
+ "Php.2.19": {
+  "t": "Espero no Senhor Jesus enviar Timóteo a vocês em breve, para que eu também me anime ao ter notícias de vocês.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "me anime",
+    "termo": "εὐψυχῶ (eupsychō)",
+    "titulo": "eupsycheō, hápax",
+    "texto": "“Ter bom ânimo”. Kagō (“eu também”) supõe que os filipenses também se animarão com notícias de Paulo."
+   }
+  ]
+ },
+ "Php.2.20": {
+  "t": "Não tenho ninguém como ele, que se preocupe sinceramente com o bem-estar de vocês.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "ninguém como ele",
+    "termo": "οὐδένα ... ἰσόψυχον (oudena ... isopsychon)",
+    "titulo": "isopsychos, hápax",
+    "texto": "“De igual alma”. Pode ser “ninguém igual a ele” ou “ninguém que pense como eu”. A primeira leitura é a mais natural no contexto, que elogia Timóteo."
+   }
+  ]
+ },
+ "Php.2.21": {
+  "t": "Pois todos buscam os próprios interesses, e não os de Jesus Cristo.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "Jesus Cristo",
+    "termo": "Ἰησοῦ Χριστοῦ",
+    "titulo": "ordem dos nomes",
+    "texto": "O Textus Receptus traz “Cristo Jesus” (tou Christou Iēsou). Sem efeito no sentido."
+   }
+  ]
+ },
+ "Php.2.22": {
+  "t": "Mas vocês sabem que ele deu provas do seu valor: como filho ao lado do pai, serviu comigo no evangelho.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "como filho ao lado do pai, serviu comigo",
+    "termo": "ὡς πατρὶ τέκνον σὺν ἐμοὶ ἐδούλευσεν",
+    "titulo": "imagem corrigida",
+    "texto": "Lit. “como filho a um pai, comigo serviu como escravo”. Paulo começa a imagem do filho que serve o pai e a corrige: Timóteo serviu com ele, não a ele. A tradução conserva a correção."
+   }
+  ]
+ },
+ "Php.2.23": {
+  "t": "Espero, portanto, enviá-lo logo que eu veja como ficam as coisas comigo.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "logo que eu veja",
+    "termo": "ἀφίδω ... ἐξαυτῆς (aphidō ... exautēs)",
+    "titulo": "grafia",
+    "texto": "O texto crítico traz aphidō; o Textus Receptus, apidō: grafias do mesmo verbo (“ver claramente”). Exautēs (“logo, sem demora”) foi traduzido por “logo que”."
+   }
+  ]
+ },
+ "Php.2.24": {
+  "t": "E confio no Senhor que eu mesmo também irei em breve.",
+  "n": []
+ },
+ "Php.2.25": {
+  "t": "Contudo, julguei necessário enviar de volta a vocês Epafrodito, meu irmão, cooperador e companheiro de lutas, que vocês enviaram para me socorrer nas minhas necessidades.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "que vocês enviaram para me socorrer",
+    "termo": "ὑμῶν δὲ ἀπόστολον καὶ λειτουργὸν τῆς χρείας μου",
+    "titulo": "apostolos e leitourgos",
+    "texto": "Lit. “vosso apóstolo e ministro da minha necessidade”. Apostolos aqui é “enviado, mensageiro” da igreja (2Co 8:23), não o ofício dos Doze; por isso foi desfeito em verbo (“vocês enviaram”). Leitourgos evoca serviço sagrado (cf. 2:17, 30)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "companheiro de lutas",
+    "termo": "συστρατιώτην (systratiōtēn)",
+    "titulo": "systratiōtēs",
+    "texto": "Lit. “companheiro de armas”. “De lutas” mantém a imagem militar em linguagem comum."
+   }
+  ]
+ },
+ "Php.2.26": {
+  "t": "Pois ele tem saudade de todos vocês e está angustiado porque vocês ouviram que ele esteve doente.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "tem saudade de todos vocês",
+    "termo": "ἐπιποθῶν ἦν πάντας ὑμᾶς (+ ἰδεῖν)",
+    "titulo": "idein",
+    "texto": "Westcott-Hort, com ℵ*, A e C, acrescenta idein (“ver”): “saudade de ver todos vocês”. Os demais textos-base não trazem. Sem efeito no sentido."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "angustiado",
+    "termo": "ἀδημονῶν (adēmonōn)",
+    "titulo": "adēmoneō",
+    "texto": "Angústia profunda: o mesmo verbo usado para Jesus no Getsêmani (Mt 26:37). “Angustiado” é mais forte que “preocupado”, de propósito."
+   }
+  ]
+ },
+ "Php.2.27": {
+  "t": "De fato, ele esteve doente, quase morreu. Mas Deus teve misericórdia dele, e não só dele, mas também de mim, para que eu não tivesse tristeza sobre tristeza.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Deus teve misericórdia dele",
+    "termo": "ὁ θεὸς ἠλέησεν αὐτόν",
+    "titulo": "a cura",
+    "texto": "Paulo atribui a recuperação à misericórdia de Deus, não a um dom de cura próprio, e não trata a doença de um cooperador fiel como falta de fé."
+   }
+  ]
+ },
+ "Php.2.28": {
+  "t": "Por isso tenho mais pressa em enviá-lo, para que, vendo-o de novo, vocês se alegrem e eu fique menos triste.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "tenho mais pressa em enviá-lo",
+    "termo": "σπουδαιοτέρως οὖν ἔπεμψα αὐτόν",
+    "titulo": "aoristo epistolar",
+    "texto": "Epempsa (“enviei”) é aoristo epistolar: do ponto de vista de quem lê, o envio já aconteceu, porque a carta chegou pelas mãos de Epafrodito. Em português se usa o presente."
+   }
+  ]
+ },
+ "Php.2.29": {
+  "t": "Recebam-no no Senhor com toda a alegria e honrem homens como ele,",
+  "n": []
+ },
+ "Php.2.30": {
+  "t": "porque, pela obra de Cristo, chegou perto da morte, arriscando a vida para suprir o serviço que vocês não podiam me prestar.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "pela obra de Cristo",
+    "termo": "διὰ τὸ ἔργον Χριστοῦ",
+    "titulo": "“de Cristo” ou “do Senhor”",
+    "texto": "Há manuscritos com “do Senhor” e outros sem complemento. O SBLGNT e o NA28 trazem “de Cristo”."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "arriscando a vida",
+    "termo": "παραβολευσάμενος (paraboleusamenos)",
+    "titulo": "paraboleuomai",
+    "texto": "O texto crítico traz paraboleusamenos (“arriscando, apostando”); o Textus Receptus e o Texto Bizantino, parabouleusamenos (“não levando em conta”). A primeira é a mais antiga e a mais difícil, e explica a segunda."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "o serviço que vocês não podiam me prestar",
+    "termo": "τὸ ὑμῶν ὑστέρημα τῆς πρός με λειτουργίας",
+    "titulo": "“vossa falta”",
+    "texto": "Lit. “a vossa falta do serviço para comigo”. Não é falha deles, mas a distância que os impedia de servir pessoalmente. Traduzido para evitar que pareça censura."
+   }
+  ]
+ },
+ "Php.3.1": {
+  "t": "Finalmente, meus irmãos, alegrem-se no Senhor. Escrever-lhes as mesmas coisas não é cansativo para mim, e para vocês é segurança.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Finalmente",
+    "termo": "τὸ λοιπόν (to loipon)",
+    "titulo": "to loipon",
+    "texto": "Pode ser “finalmente” ou “quanto ao mais”. Não indica que a carta termina aqui (cf. 4:8)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "segurança",
+    "termo": "ἀσφαλές (asphales)",
+    "titulo": "asphalēs",
+    "texto": "“Seguro, que protege”. Repetir é uma proteção para eles."
+   }
+  ]
+ },
+ "Php.3.2": {
+  "t": "Cuidado com os cães! Cuidado com os maus obreiros! Cuidado com a mutilação!",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Cuidado com",
+    "termo": "βλέπετε (blepete)",
+    "titulo": "blepete",
+    "texto": "Lit. “vejam”. Repetido três vezes; aqui é “estejam atentos a”. Alguns traduzem “considerem”, mas o tom polêmico favorece o alerta."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "mutilação",
+    "termo": "κατατομήν (katatomēn)",
+    "titulo": "katatomē, hápax",
+    "texto": "Jogo de palavras com peritomē (“circuncisão”, v. 3): os que impõem a circuncisão aos gentios só estão “cortando”. “Mutilação” preserva a ironia."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "os cães",
+    "termo": "τοὺς κύνας",
+    "titulo": "o insulto",
+    "texto": "Era insulto judaico para gentios impuros. Paulo o volta contra os que exigiam a circuncisão."
+   }
+  ]
+ },
+ "Php.3.3": {
+  "t": "Pois a circuncisão somos nós, que servimos a Deus pelo Espírito de Deus, nos gloriamos em Cristo Jesus e não confiamos na carne,",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "servimos a Deus pelo Espírito de Deus",
+    "termo": "πνεύματι θεοῦ λατρεύοντες",
+    "titulo": "theou ou theō",
+    "texto": "O texto crítico e o Texto Bizantino trazem pneumati theou (“pelo Espírito de Deus”); o Textus Receptus, pneumati theō (“servimos a Deus em espírito”), com poucos manuscritos. “A Deus” foi acrescentado porque latreuō pede objeto em português."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "carne",
+    "termo": "σαρκί (sarki)",
+    "titulo": "sarx",
+    "texto": "Aqui sarx é a confiança em credenciais humanas e religiosas (vv. 4-6). Mantido “carne” porque o contraste com “Espírito” depende da palavra."
+   }
+  ]
+ },
+ "Php.3.4": {
+  "t": "embora eu mesmo tivesse motivos para confiar também na carne. Se alguém pensa que tem razões para confiar na carne, eu ainda mais:",
+  "n": []
+ },
+ "Php.3.5": {
+  "t": "circuncidado no oitavo dia, da nação de Israel, da tribo de Benjamim, hebreu de hebreus; quanto à lei, fariseu;",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "hebreu de hebreus",
+    "termo": "Ἑβραῖος ἐξ Ἑβραίων",
+    "titulo": "expressão",
+    "texto": "Filho de pais hebreus, que mantinha a língua e os costumes, ao contrário de muitos judeus helenizados. Mantida a forma literal, que é compreensível."
+   }
+  ]
+ },
+ "Php.3.6": {
+  "t": "quanto ao zelo, perseguidor da igreja; quanto à justiça que há na lei, irrepreensível.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "quanto ao zelo",
+    "termo": "κατὰ ζῆλος (zēlos)",
+    "titulo": "gênero",
+    "texto": "O texto crítico traz zēlos (neutro); o Textus Receptus e o Texto Bizantino, zēlon (masculino, mais clássico). Sem efeito na tradução."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "irrepreensível",
+    "termo": "ἄμεμπτος (amemptos)",
+    "titulo": "em que sentido?",
+    "texto": "Refere-se à observância visível da lei segundo o padrão farisaico, não à ausência de pecado diante de Deus."
+   }
+  ]
+ },
+ "Php.3.7": {
+  "t": "Mas o que para mim era lucro, passei a considerar perda por causa de Cristo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "lucro",
+    "termo": "κέρδη ... ζημίαν (kerdē ... zēmian)",
+    "titulo": "linguagem contábil",
+    "texto": "“Lucros” (plural) passam para a coluna de “perda” (singular). A tradução usa o singular nos dois para soar natural, e a nota registra a nuance."
+   }
+  ]
+ },
+ "Php.3.8": {
+  "t": "Mais do que isso, considero tudo como perda, comparado com a grandeza insuperável de conhecer Cristo Jesus, meu Senhor. Por causa dele perdi todas as coisas e as considero esterco, para ganhar Cristo",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "esterco",
+    "termo": "σκύβαλα (skybala)",
+    "titulo": "skybalon, hápax",
+    "texto": "Refugo, lixo, excremento. Palavra forte e chocante de propósito. “Esterco” guarda o choque sem vulgaridade; “refugo” suavizaria demais."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "considero tudo como perda",
+    "termo": "ἡγοῦμαι πάντα ζημίαν εἶναι",
+    "titulo": "einai",
+    "texto": "O Textus Receptus e o Texto Bizantino acrescentam einai (“ser”) depois do segundo “considero”."
+   }
+  ]
+ },
+ "Php.3.9": {
+  "t": "e ser achado nele, não tendo a minha própria justiça, que vem da lei, mas a que vem pela fé em Cristo, a justiça que vem de Deus e se baseia na fé.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "pela fé em Cristo",
+    "termo": "διὰ πίστεως Χριστοῦ (dia pisteōs Christou)",
+    "titulo": "pistis Christou",
+    "texto": "Pode ser genitivo objetivo (“fé em Cristo”) ou subjetivo (“fidelidade de Cristo”). A APV segue o objetivo, com a tradição da Reforma, porque o fim do versículo (“se baseia na fé”) fala da fé do crente. O subjetivo é defendido por R. B. Hays; J. D. G. Dunn defende o objetivo.",
+    "revisar": true
+   },
+   {
+    "tipo": "sn",
+    "ancora": "a justiça que vem de Deus",
+    "termo": "τὴν ἐκ θεοῦ δικαιοσύνην",
+    "titulo": "justiça recebida",
+    "texto": "Justiça que vem de Deus (ek theou), recebida e não produzida: base do ensino sobre a justificação pela fé (Rm 3:21-22)."
+   }
+  ]
+ },
+ "Php.3.10": {
+  "t": "Quero conhecer Cristo, o poder da sua ressurreição e a participação nos seus sofrimentos, tornando-me semelhante a ele na sua morte,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Quero conhecer Cristo",
+    "termo": "τοῦ γνῶναι αὐτόν (tou gnōnai auton)",
+    "titulo": "infinitivo de propósito",
+    "texto": "O infinitivo depende do v. 9 (“para conhecê-lo”). Uma nova frase com “Quero” evita um período longo demais."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "a participação nos seus sofrimentos",
+    "termo": "κοινωνίαν παθημάτων αὐτοῦ",
+    "titulo": "artigos",
+    "texto": "O SBLGNT omite os artigos antes de “participação” e “sofrimentos”; NA28, Textus Receptus e Texto Bizantino os trazem. Sem efeito na tradução."
+   }
+  ]
+ },
+ "Php.3.11": {
+  "t": "para, de algum modo, alcançar a ressurreição dentre os mortos.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "de algum modo",
+    "termo": "εἴ πως (ei pōs)",
+    "titulo": "ei pōs",
+    "texto": "Expressa humildade e dependência, não dúvida sobre a salvação (1:6)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "a ressurreição dentre os mortos",
+    "termo": "τὴν ἐξανάστασιν τὴν ἐκ νεκρῶν",
+    "titulo": "exanastasis",
+    "texto": "Exanastasis (hápax) é forma enfática: “ressurreição para fora de entre os mortos”. O Textus Receptus e o Texto Bizantino leem tōn nekrōn (“dos mortos”)."
+   }
+  ]
+ },
+ "Php.3.12": {
+  "t": "Não que eu já tenha alcançado isso ou já tenha chegado à perfeição, mas prossigo para ver se consigo alcançá-lo, pois para isso também fui alcançado por Cristo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "fui alcançado",
+    "termo": "κατελήμφθην (katelēmphthēn)",
+    "titulo": "katalambanō",
+    "texto": "Jogo da voz ativa e passiva: Paulo corre para alcançar aquilo para o qual Cristo o alcançou. Por isso o mesmo verbo (“alcançar”) nas duas pontas. Eph’ hō também pode ser “porque”."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "por Cristo",
+    "termo": "ὑπὸ Χριστοῦ (+ Ἰησοῦ)",
+    "titulo": "“Cristo” ou “Cristo Jesus”",
+    "texto": "O SBLGNT omite “Jesus”, com B e D; NA28, THGNT, Westcott-Hort, Textus Receptus e Texto Bizantino trazem “Cristo Jesus”."
+   }
+  ]
+ },
+ "Php.3.13": {
+  "t": "Irmãos, não penso que eu mesmo já o tenha alcançado. Mas uma coisa faço: esquecendo o que fica para trás e avançando para o que está adiante,",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "não penso que eu mesmo já o tenha alcançado",
+    "termo": "οὐ λογίζομαι (ou / οὔπω)",
+    "titulo": "ou ou oupō",
+    "texto": "O texto crítico traz ou (“não”); o Textus Receptus e outros manuscritos, oupō (“ainda não”). O “já” da tradução vem do perfeito katelēphenai."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "faço",
+    "termo": "ἓν δέ (hen de)",
+    "titulo": "verbo acrescentado",
+    "texto": "O grego diz só “mas uma coisa”. “Faço” completa a frase elíptica."
+   }
+  ]
+ },
+ "Php.3.14": {
+  "t": "prossigo para o alvo, para o prêmio do chamado celestial de Deus em Cristo Jesus.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "chamado celestial",
+    "termo": "τῆς ἄνω κλήσεως (tēs anō klēseōs)",
+    "titulo": "“chamado para o alto”",
+    "texto": "Na corrida, o vencedor era chamado a subir para receber o prêmio. “Celestial” perde um pouco da imagem, mas “chamado para cima” soaria estranho."
+   }
+  ]
+ },
+ "Php.3.15": {
+  "t": "Todos nós que somos maduros, tenhamos essa atitude. E se em algum ponto vocês pensam de outro modo, também isso Deus lhes esclarecerá.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "maduros",
+    "termo": "τέλειοι (teleioi)",
+    "titulo": "teleios",
+    "texto": "“Maduros, adultos na fé”, diferente de teteleiōmai no v. 12 (“chegar à perfeição final”). Paulo provavelmente usa com ironia o termo de quem se dizia já perfeito. “Perfeitos” aqui contradiria o v. 12."
+   }
+  ]
+ },
+ "Php.3.16": {
+  "t": "De qualquer modo, sigamos adiante segundo o mesmo padrão que já alcançamos.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "segundo o mesmo padrão",
+    "termo": "τῷ αὐτῷ στοιχεῖν",
+    "titulo": "acréscimo do TR",
+    "texto": "O Textus Receptus e o Texto Bizantino acrescentam “kanoni, to auto phronein” (“pela mesma regra, pensemos o mesmo”), expansão baseada em Gl 6:16 e Fp 2:2. O texto curto tem 𝔓16, 𝔓46, ℵ e B (Metzger)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "sigamos adiante",
+    "termo": "στοιχεῖν (stoichein)",
+    "titulo": "stoicheō",
+    "texto": "Andar em fila, marchar em ordem. O infinitivo tem valor de exortação."
+   }
+  ]
+ },
+ "Php.3.17": {
+  "t": "Irmãos, sejam juntos imitadores meus e observem os que vivem de acordo com o exemplo que vocês têm em nós.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "sejam juntos imitadores meus",
+    "termo": "συμμιμηταί μου γίνεσθε",
+    "titulo": "symmimētēs, hápax",
+    "texto": "“Coimitadores”: imitem-me juntos, como comunidade."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "vivem",
+    "termo": "περιπατοῦντας (peripatountas)",
+    "titulo": "peripateō",
+    "texto": "Lit. “andar”, metáfora hebraica para a conduta. “Vivem” é o equivalente comum."
+   }
+  ]
+ },
+ "Php.3.18": {
+  "t": "Pois, como já lhes disse muitas vezes e agora repito com lágrimas, há muitos que vivem como inimigos da cruz de Cristo.",
+  "n": []
+ },
+ "Php.3.19": {
+  "t": "O fim deles é a destruição; o deus deles é o ventre, e a glória deles está naquilo de que deveriam se envergonhar. Só pensam nas coisas terrenas.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "o deus deles é o ventre",
+    "termo": "ὧν ὁ θεὸς ἡ κοιλία",
+    "titulo": "koilia",
+    "texto": "Pode ser o apetite em geral ou a observância das leis alimentares como meio de salvação. O literal foi mantido para não decidir entre as duas leituras."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "naquilo de que deveriam se envergonhar",
+    "termo": "ἐν τῇ αἰσχύνῃ αὐτῶν",
+    "titulo": "“na vergonha deles”",
+    "texto": "Lit. “a glória na vergonha deles”. Expandido para ficar claro."
+   }
+  ]
+ },
+ "Php.3.20": {
+  "t": "A nossa cidadania, porém, está nos céus, de onde também aguardamos ansiosamente um Salvador, o Senhor Jesus Cristo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "cidadania",
+    "termo": "πολίτευμα (politeuma)",
+    "titulo": "politeuma",
+    "texto": "Cidadania, comunidade de cidadãos. Filipos era colônia romana, e muitos de seus moradores tinham cidadania romana. Retoma 1:27. “Pátria” (ARA) é bonito mas perde o vínculo jurídico."
+   }
+  ]
+ },
+ "Php.3.21": {
+  "t": "Ele transformará o nosso corpo de humilhação, tornando-o semelhante ao seu corpo glorioso, pelo poder com que é capaz de sujeitar a si todas as coisas.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "corpo de humilhação",
+    "termo": "τὸ σῶμα τῆς ταπεινώσεως ἡμῶν",
+    "titulo": "genitivos hebraizantes",
+    "texto": "Lit. “o corpo da nossa humilhação ... o corpo da sua glória”. O corpo mortal e frágil, não um corpo mau. “Vil” (ARC) dá a ideia errada."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "sujeitar a si",
+    "termo": "ὑποτάξαι αὑτῷ τὰ πάντα",
+    "titulo": "pronome e acréscimo",
+    "texto": "Para “a si”, o SBLGNT e Westcott-Hort leem hautō, e o NA28, o THGNT e Tregelles, autō; mesmo sentido. O Textus Receptus e o Texto Bizantino acrescentam no início “eis to genesthai auto” (“para que seja”)."
+   }
+  ]
+ },
+ "Php.4.1": {
+  "t": "Portanto, meus irmãos, amados e queridos, minha alegria e coroa, permaneçam assim firmes no Senhor, amados.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "coroa",
+    "termo": "στέφανος (stephanos)",
+    "titulo": "stephanos",
+    "texto": "Coroa de folhas dada ao vencedor ou ao convidado de honra, não a coroa real (diadēma)."
+   }
+  ]
+ },
+ "Php.4.2": {
+  "t": "Peço a Evódia e peço a Síntique que pensem de modo concorde no Senhor.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "pensem de modo concorde",
+    "termo": "τὸ αὐτὸ φρονεῖν (to auto phronein)",
+    "titulo": "a mesma expressão de 2:2",
+    "texto": "Mesma expressão de 2:2. A tradução varia um pouco (“mesmo modo de pensar” / “de modo concorde”) para soar natural; o grego é idêntico. A repetição de “peço” trata as duas com igual respeito."
+   }
+  ]
+ },
+ "Php.4.3": {
+  "t": "Sim, e peço também a você, fiel companheiro de jugo, que ajude essas mulheres, que lutaram comigo pelo evangelho, junto com Clemente e meus demais cooperadores, cujos nomes estão no livro da vida.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "fiel companheiro de jugo",
+    "termo": "γνήσιε σύζυγε (gnēsie syzyge)",
+    "titulo": "Syzygos: nome ou título?",
+    "texto": "Alguns entendem Syzygos como nome próprio (“Sízigo, fiel ao nome”), mas o nome não aparece em outros documentos. A identidade é desconhecida; a tradução fica com o sentido comum."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Sim",
+    "termo": "ναί (nai)",
+    "titulo": "nai ou kai",
+    "texto": "O Textus Receptus traz kai (“e”) em vez de nai (“sim”)."
+   }
+  ]
+ },
+ "Php.4.4": {
+  "t": "Alegrem-se sempre no Senhor. Repito: alegrem-se!",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Alegrem-se",
+    "termo": "χαίρετε (chairete)",
+    "titulo": "chairete",
+    "texto": "Pode significar também “adeus”, mas “sempre” exige o sentido pleno."
+   }
+  ]
+ },
+ "Php.4.5": {
+  "t": "Que a amabilidade de vocês seja conhecida por todos. O Senhor está perto.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "amabilidade",
+    "termo": "τὸ ἐπιεικές (to epieikes)",
+    "titulo": "epieikēs",
+    "texto": "Amabilidade, moderação, disposição de ceder. “Moderação” (ARC) sugere temperança; “amabilidade” é mais próxima do uso grego."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "O Senhor está perto",
+    "termo": "ὁ κύριος ἐγγύς",
+    "titulo": "tempo ou presença",
+    "texto": "Pode ser a proximidade da volta de Cristo ou a presença do Senhor (Sl 145:18). As duas ideias cabem, e a tradução não escolhe."
+   }
+  ]
+ },
+ "Php.4.6": {
+  "t": "Não andem ansiosos por coisa alguma; em tudo, porém, apresentem seus pedidos a Deus em oração e súplica, com ação de graças.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "apresentem seus pedidos a Deus",
+    "termo": "τὰ αἰτήματα ὑμῶν γνωριζέσθω πρὸς τὸν θεόν",
+    "titulo": "imperativo passivo",
+    "texto": "Lit. “os pedidos de vocês sejam dados a conhecer diante de Deus”. A voz ativa é mais natural."
+   }
+  ]
+ },
+ "Php.4.7": {
+  "t": "E a paz de Deus, que excede todo entendimento, guardará o coração e a mente de vocês em Cristo Jesus.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "guardará",
+    "termo": "φρουρήσει (phrourēsei)",
+    "titulo": "phroureō",
+    "texto": "Termo militar: montar guarda. Em Filipos havia guarnição romana; a imagem seria clara para os leitores."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "que excede todo entendimento",
+    "termo": "ἡ ὑπερέχουσα πάντα νοῦν",
+    "titulo": "duas leituras",
+    "texto": "Pode ser “que ultrapassa toda compreensão” ou “que é melhor que todo plano humano”. A primeira é a tradicional e a mais provável."
+   }
+  ]
+ },
+ "Php.4.8": {
+  "t": "Finalmente, irmãos, tudo o que é verdadeiro, tudo o que é respeitável, tudo o que é justo, tudo o que é puro, tudo o que é amável, tudo o que é de boa fama, se há alguma virtude e se há algo digno de louvor, nisso pensem.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "amável",
+    "termo": "προσφιλῆ ... εὔφημα (prosphilē ... euphēma)",
+    "titulo": "hápax",
+    "texto": "Prosphilēs e euphēmos só aparecem aqui no NT. Paulo usa vocabulário da ética grega, como aretē (“virtude”), única vez em Paulo."
+   }
+  ]
+ },
+ "Php.4.9": {
+  "t": "Ponham em prática o que vocês aprenderam, receberam, ouviram e viram em mim. E o Deus da paz estará com vocês.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "receberam",
+    "termo": "παρελάβετε (parelabete)",
+    "titulo": "paralambanō",
+    "texto": "Termo técnico para receber uma tradição transmitida (1Co 15:3). “Receberam” mantém a precisão."
+   }
+  ]
+ },
+ "Php.4.10": {
+  "t": "Alegrei-me muito no Senhor, porque finalmente vocês renovaram o seu cuidado por mim. Na verdade, vocês já se preocupavam, mas lhes faltava oportunidade.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "renovaram",
+    "termo": "ἀνεθάλετε (anethalete)",
+    "titulo": "anathallō, hápax",
+    "texto": "“Reflorescer”, como planta que brota de novo. “Renovaram” é o sentido; a imagem fica na nota."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "lhes faltava oportunidade",
+    "termo": "ἠκαιρεῖσθε (ēkaireisthe)",
+    "titulo": "akaireomai, hápax",
+    "texto": "“Não ter ocasião”."
+   }
+  ]
+ },
+ "Php.4.11": {
+  "t": "Não digo isso por estar passando necessidade, pois aprendi a estar contente em qualquer situação.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "contente",
+    "termo": "αὐτάρκης (autarkēs)",
+    "titulo": "autarkēs",
+    "texto": "Termo estoico: “autossuficiente”. Paulo o redefine, pois sua suficiência vem de Cristo (v. 13). “Contente” evita a ideia de independência."
+   }
+  ]
+ },
+ "Php.4.12": {
+  "t": "Sei passar necessidade e sei ter fartura. Em todas e em cada uma das circunstâncias aprendi o segredo de estar saciado e de ter fome, de ter fartura e de passar falta.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "aprendi o segredo",
+    "termo": "μεμύημαι (memyēmai)",
+    "titulo": "myeō, hápax",
+    "texto": "“Ser iniciado”, termo das religiões de mistério. Paulo o usa com ironia: o seu segredo é Cristo."
+   }
+  ]
+ },
+ "Php.4.13": {
+  "t": "Tudo posso naquele que me fortalece.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "naquele que me fortalece",
+    "termo": "ἐν τῷ ἐνδυναμοῦντί με (+ Χριστῷ)",
+    "titulo": "acréscimo de “Cristo”",
+    "texto": "O Textus Receptus e o Texto Bizantino acrescentam Christō (“em Cristo que me fortalece”). Os manuscritos mais antigos (ℵ*, A, B) não trazem. O sentido é o mesmo: “aquele” é Cristo."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Tudo posso",
+    "termo": "πάντα ἰσχύω",
+    "titulo": "o contexto",
+    "texto": "“Tudo” é o que vem antes: suportar fartura e falta. Não é promessa de sucesso em qualquer projeto."
+   }
+  ]
+ },
+ "Php.4.14": {
+  "t": "Contudo, vocês fizeram bem em participar da minha aflição.",
+  "n": []
+ },
+ "Php.4.15": {
+  "t": "E vocês mesmos, filipenses, sabem que, no começo do evangelho, quando parti da Macedônia, nenhuma igreja se associou comigo em dar e receber, a não ser vocês somente.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "em dar e receber",
+    "termo": "εἰς λόγον δόσεως καὶ λήμψεως",
+    "titulo": "linguagem contábil",
+    "texto": "Lit. “na conta de dar e receber”, termo de contabilidade."
+   }
+  ]
+ },
+ "Php.4.16": {
+  "t": "Pois, mesmo quando eu estava em Tessalônica, vocês me mandaram ajuda mais de uma vez, para as minhas necessidades.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "mais de uma vez",
+    "termo": "καὶ ἅπαξ καὶ δίς",
+    "titulo": "“uma e duas vezes”",
+    "texto": "Idiomatismo para “repetidamente”."
+   }
+  ]
+ },
+ "Php.4.17": {
+  "t": "Não que eu esteja procurando presentes, mas procuro o fruto que aumenta o crédito na conta de vocês.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "aumenta o crédito na conta de vocês",
+    "termo": "τὸν πλεονάζοντα εἰς λόγον ὑμῶν",
+    "titulo": "juros",
+    "texto": "A imagem financeira continua: a oferta rende “juros” para quem dá. A tradução preserva a imagem."
+   }
+  ]
+ },
+ "Php.4.18": {
+  "t": "Recebi tudo e tenho de sobra. Estou plenamente suprido, agora que recebi de Epafrodito o que vocês enviaram: um aroma suave, um sacrifício aceitável e agradável a Deus.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Recebi tudo",
+    "termo": "ἀπέχω δὲ πάντα (apechō)",
+    "titulo": "apechō",
+    "texto": "Fórmula de recibo comercial: “recebido, pago integralmente”."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "aroma suave",
+    "termo": "ὀσμὴν εὐωδίας",
+    "titulo": "linguagem sacrificial",
+    "texto": "Linguagem dos sacrifícios do AT (Gn 8:21; Êx 29:18). A oferta dos filipenses é culto a Deus."
+   }
+  ]
+ },
+ "Php.4.19": {
+  "t": "E o meu Deus suprirá todas as necessidades de vocês, segundo a sua riqueza em glória, em Cristo Jesus.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "a sua riqueza",
+    "termo": "τὸ πλοῦτος (to ploutos)",
+    "titulo": "gênero",
+    "texto": "O texto crítico traz to ploutos (neutro); o Textus Receptus e o Texto Bizantino, ton plouton (masculino). Sem efeito na tradução."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "suprirá todas as necessidades",
+    "termo": "πληρώσει πᾶσαν χρείαν ὑμῶν",
+    "titulo": "a quem é a promessa",
+    "texto": "Dita a uma igreja que deu com sacrifício para a obra do evangelho (vv. 15-18)."
+   }
+  ]
+ },
+ "Php.4.20": {
+  "t": "Ao nosso Deus e Pai seja a glória para todo o sempre. Amém.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "para todo o sempre",
+    "termo": "εἰς τοὺς αἰῶνας τῶν αἰώνων",
+    "titulo": "“pelos séculos dos séculos”",
+    "texto": "Fórmula hebraizante de eternidade. Traduzida pelo equivalente comum em português."
+   }
+  ]
+ },
+ "Php.4.21": {
+  "t": "Saúdem cada um dos santos em Cristo Jesus. Os irmãos que estão comigo enviam saudações.",
+  "n": []
+ },
+ "Php.4.22": {
+  "t": "Todos os santos enviam saudações, especialmente os da casa de César.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "casa de César",
+    "termo": "τῆς Καίσαρος οἰκίας",
+    "titulo": "quem eram",
+    "texto": "Escravos e libertos a serviço do imperador, em Roma e nas províncias. Não indica parentes de César."
+   }
+  ]
+ },
+ "Php.4.23": {
+  "t": "A graça do Senhor Jesus Cristo esteja com o espírito de vocês.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "esteja com o espírito de vocês",
+    "termo": "μετὰ τοῦ πνεύματος ὑμῶν",
+    "titulo": "final da carta",
+    "texto": "O SBLGNT termina sem “Amém”, que aparece no THGNT, no Textus Receptus e no Texto Bizantino. O Textus Receptus e o Texto Bizantino trazem “com todos vocês” em vez de “com o espírito de vocês”, e “nosso Senhor”. O Textus Receptus acrescenta a subscrição “escrita aos filipenses, de Roma, por Epafrodito”, nota tardia que não faz parte da carta."
+   }
+  ]
+ }
 }
