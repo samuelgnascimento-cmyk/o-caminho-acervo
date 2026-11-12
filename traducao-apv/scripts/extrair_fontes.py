@@ -27,7 +27,7 @@ for f in sorted(glob.glob(os.path.join(src, 'TAHOT*.txt'))):
         lema = strongs_principal(c[4])
         lexico = re.search(r'\{' + re.escape(lema) + r'=([^=]*)=', c[11]) if lema else None
         p = {'n': int(n), 'tipo': tipo, 'orig': c[1], 'translit': c[2], 'strong': c[4],
-             'lema': lema, 'lema_heb': lexico.group(1) if lexico else '', 'morf': c[5],
+             'lema': lema, 'lema_heb': lexico.group(1) if lexico else '', 'morf': c[5], 'en': c[3],
              'var_sentido': c[6], 'var_grafia': c[7]}
         livros.setdefault(livro, collections.OrderedDict()).setdefault(ref, []).append(p)
         if tipo.startswith('L') or 'L' in tipo: freq[lema] += 1
@@ -44,7 +44,7 @@ for f in sorted(glob.glob(os.path.join(src, 'TAGNT*.txt'))):
         lema_grc, _, _ = c[4].partition('=')
         p = {'n': int(n), 'tipo': tipo, 'orig': g.group(1) if g else c[1], 'translit': g.group(2) if g else '',
              'strong': strong, 'lema': re.sub(r'[A-Z]$', '', strong) if strong.startswith('G') else strong,
-             'lema_grc': lema_grc, 'morf': morf, 'edicoes': c[5], 'var_sentido': c[6], 'var_grafia': c[7]}
+             'lema_grc': lema_grc, 'morf': morf, 'en': c[2], 'edicoes': c[5], 'var_sentido': c[6], 'var_grafia': c[7]}
         livros.setdefault(livro, collections.OrderedDict()).setdefault(ref, []).append(p)
         if 'SBL' in c[5]: freq[p['lema']] += 1
 
