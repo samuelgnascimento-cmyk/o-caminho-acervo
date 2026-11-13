@@ -150,7 +150,7 @@
     "ancora": "Ele lhe disse",
     "termo": "καὶ λέγει αὐτῷ",
     "titulo": "“Jesus”",
-    "texto": "Tregelles, o Textus Receptus e o Texto Bizantino trazem “Jesus” como sujeito; o SBLGNT e o NA28 não. Sem efeito no sentido."
+    "texto": "Tregelles, o Textus Receptus e o Texto Bizantino trazem “Jesus” como sujeito; o SBLGNT, o NA28, o THGNT e Westcott-Hort não. Sem efeito no sentido."
    }
   ]
  },
@@ -181,7 +181,7 @@
     "ancora": "servo",
     "termo": "δούλῳ (doulō)",
     "titulo": "doulos: “servo” ou “escravo”",
-    "texto": "Primeira ocorrência de doulos em Mateus. A palavra designa o escravo, que pertence a outro e não dispõe de si. A APV traduz por “servo” em todo o NT, porque “escravo”, no Brasil, evoca de imediato a escravidão africana e esconde o eco bíblico (Moisés e Davi são “servos” de Deus). O leitor deve lembrar que a relação era de propriedade. Note que o doente do v. 6 é chamado pais, palavra diferente."
+    "texto": "Primeira ocorrência de doulos em Mateus. A palavra designa o escravo, que pertence a outro e não dispõe de si. A APV traduz por “servo” quando o texto não põe em foco a condição de escravo, porque “escravo”, no Brasil, evoca de imediato a escravidão africana e esconde o eco bíblico (Moisés e Davi são “servos” de Deus). Quando o texto contrasta o escravo com o livre ou com o seu senhor, como condição social ou como figura, a APV usa “escravo” (cf. 10:24-25). O leitor deve lembrar que a relação era de propriedade. Note que o doente do v. 6 é chamado pais, palavra diferente."
    },
    {
     "tipo": "sn",
@@ -214,7 +214,7 @@
     "ancora": "Jesus ficou admirado",
     "termo": "ὁ Ἰησοῦς ἐθαύμασεν",
     "titulo": "a admiração de Jesus",
-    "texto": "Só duas vezes os Evangelhos dizem que Jesus se admirou: aqui, com a fé de um gentio, e em Mc 6:6, com a incredulidade da sua própria terra."
+    "texto": "Os Evangelhos raramente dizem que Jesus se admirou: aqui e no paralelo de Lc 7:9, com a fé de um gentio, e em Mc 6:6, com a incredulidade da sua própria terra."
    }
   ]
  },
@@ -504,14 +504,14 @@
   ]
  },
  "Mat.8.26": {
-  "t": "Ele lhes disse: “Por que vocês estão com tanto medo, homens de pouca fé?” Então se levantou, repreendeu os ventos e o mar, e fez-se grande calmaria.",
+  "t": "Ele lhes disse: “Por que vocês estão com tanto medo, gente de pouca fé?” Então se levantou, repreendeu os ventos e o mar, e fez-se grande calmaria.",
   "n": [
    {
     "tipo": "tn",
-    "ancora": "homens de pouca fé",
+    "ancora": "gente de pouca fé",
     "termo": "ὀλιγόπιστοι (oligopistoi)",
     "titulo": "oligopistos",
-    "texto": "Uma só palavra: “de-pouca-fé”. Mateus a usa só para os discípulos (6:30; 14:31; 16:8; cf. 17:20). “Homens” foi acrescentado porque o português pede um substantivo. Os discípulos têm fé, mas pequena diante do perigo; não são chamados de incrédulos."
+    "texto": "Uma só palavra: “de-pouca-fé”. Mateus a usa só para os discípulos (6:30; 14:31; 16:8; cf. 17:20). “Gente” foi acrescentado porque o português pede um substantivo; a palavra não restringe o grupo nem acrescenta sentido. Os discípulos têm fé, mas pequena diante do perigo; não são chamados de incrédulos."
    },
    {
     "tipo": "tn",
@@ -530,14 +530,14 @@
   ]
  },
  "Mat.8.27": {
-  "t": "Os homens ficaram admirados e diziam: “Que tipo de homem é este, que até os ventos e o mar lhe obedecem?”",
+  "t": "Os homens ficaram admirados e diziam: “Quem é este, que até os ventos e o mar lhe obedecem?”",
   "n": [
    {
     "tipo": "tn",
-    "ancora": "Que tipo de homem é este",
+    "ancora": "Quem é este",
     "termo": "ποταπός ἐστιν οὗτος (potapos estin houtos)",
     "titulo": "potapos",
-    "texto": "Lit. “de que espécie é este?”. O grego não diz “homem”; a pergunta é exatamente sobre o que ele é. “Que tipo de homem” é a forma natural em português e deixa a pergunta aberta, como no original."
+    "texto": "Lit. “de que espécie é este?”. O grego não diz “homem”; a pergunta é sobre o que ele é. “Que tipo de homem” acrescentaria uma palavra que o texto deixa de fora; “Quem é este” mantém a pergunta aberta, e a nota guarda o matiz de “que espécie”."
    },
    {
     "tipo": "tn",
@@ -924,7 +924,7 @@
     "ancora": "Vão e aprendam",
     "termo": "πορευθέντες δὲ μάθετε",
     "titulo": "fórmula de ensino",
-    "texto": "Lit. “indo, aprendam”. Expressão usada pelos mestres judeus para mandar o aluno estudar um texto. Há ironia: Jesus manda os fariseus, mestres da Lei, aprenderem um texto que já conheciam."
+    "texto": "Lit. “indo, aprendam”. Lembra a fórmula rabínica “vá e aprenda”, atestada em fontes judaicas posteriores, com que se mandava estudar um texto. Há ironia: Jesus manda os fariseus, mestres da Lei, aprenderem um texto que já conheciam."
    },
    {
     "tipo": "tc",
@@ -950,7 +950,7 @@
     "ancora": "jejuamos muito",
     "termo": "νηστεύομεν πολλά (nēsteuomen polla)",
     "titulo": "polla",
-    "texto": "Westcott-Hort omite polla (“muito”), com manuscritos antigos importantes; outros manuscritos trazem pykna (“com frequência”), como Lc 5:33. O SBLGNT, o NA28 e os demais trazem polla. O sentido da pergunta não muda."
+    "texto": "Westcott-Hort omite polla (“muito”); o SBLGNT, o NA28, o THGNT, Tregelles, o Textus Receptus e o Texto Bizantino o trazem. O sentido da pergunta não muda."
    },
    {
     "tipo": "sn",
@@ -983,7 +983,7 @@
     "ancora": "lhes será tirado",
     "termo": "ἀπαρθῇ (aparthē)",
     "titulo": "apairō, raro",
-    "texto": "“Ser levado embora, arrancado” (só aqui e nos paralelos, Mc 2:20; Lc 5:35). É a primeira alusão, ainda velada, à morte violenta de Jesus. Depois dela, o jejum volta a ter lugar entre os discípulos (6:16-18)."
+    "texto": "“Ser levado embora, arrancado” (só aqui e nos paralelos, Mc 2:20; Lc 5:35). É a primeira alusão, ainda velada, à morte violenta de Jesus. Depois dela, o jejum volta a ter lugar entre os discípulos, como mostra a igreja de Atos (At 13:2-3; 14:23); o Sermão do Monte já supunha essa prática (6:16-18)."
    }
   ]
  },
@@ -1461,15 +1461,14 @@
   ]
  },
  "Mat.10.4": {
-  "t": "Simão, o zelote, e Judas Iscariotes, aquele que também o entregou.",
+  "t": "Simão, o Zelote, e Judas Iscariotes, aquele que também o entregou.",
   "n": [
    {
     "tipo": "tn",
-    "ancora": "o zelote",
+    "ancora": "o Zelote",
     "termo": "ὁ Καναναῖος (ho Kananaios)",
     "titulo": "Kananaios",
-    "texto": "Não quer dizer “de Caná” nem “de Canaã”, mas vem do aramaico qan’an, “zeloso”. Lucas traduz por zēlōtēs (Lc 6:15; At 1:13). Pode indicar ligação com o movimento nacionalista dos zelotes ou apenas zelo religioso. “Zelote” dá o sentido; “cananeu” (ARC) leva o leitor a pensar num estrangeiro. O Textus Receptus e o Texto Bizantino trazem a forma Kananitēs.",
-    "revisar": true
+    "texto": "Não quer dizer “de Caná” nem “de Canaã”, mas vem do aramaico qan’an, “zeloso”. Lucas traduz por zēlōtēs (Lc 6:15; At 1:13). Pode indicar ligação com o movimento nacionalista dos zelotes ou apenas zelo religioso. A APV escreve “o Zelote”, com maiúscula, como sobrenome, segundo a regra comum da tradução; “cananeu” (ARC) leva o leitor a pensar num habitante de Canaã. O Textus Receptus e o Texto Bizantino trazem a grafia Kananitēs, de mesmo sentido."
    },
    {
     "tipo": "tn",
@@ -1810,24 +1809,31 @@
     "ancora": "fujam para outra",
     "termo": "φεύγετε εἰς τὴν ἑτέραν",
     "titulo": "heteran ou allēn",
-    "texto": "O texto crítico traz tēn heteran; o Textus Receptus e o Texto Bizantino, tēn allēn. As duas significam “outra”. Alguns manuscritos ocidentais acrescentam uma frase sobre fugir de novo se forem perseguidos na outra."
+    "texto": "O texto crítico traz tēn heteran; o Textus Receptus e o Texto Bizantino, tēn allēn. As duas significam “outra”, e nenhum dos textos-base traz frase a mais aqui. Alguns manuscritos acrescentam uma frase sobre fugir de novo se forem perseguidos na outra cidade; ela não está em nenhuma das edições."
    }
   ]
  },
  "Mat.10.24": {
-  "t": "O discípulo não está acima do seu mestre, nem o servo acima do seu senhor.",
+  "t": "O discípulo não está acima do seu mestre, nem o escravo acima do seu senhor.",
   "n": [
+   {
+    "tipo": "tn",
+    "ancora": "escravo",
+    "termo": "δοῦλος (doulos)",
+    "titulo": "doulos: aqui “escravo”",
+    "texto": "A APV usa “servo” para doulos (ver nota em 8:9), mas “escravo” quando o texto põe o doulos diante do seu senhor como figura da relação de dono e propriedade. Aqui a comparação depende exatamente disso: o escravo não tem posição acima do dono e partilha a sorte da casa (v. 25)."
+   },
    {
     "tipo": "tn",
     "ancora": "senhor",
     "termo": "κύριον (kyrion)",
     "titulo": "kyrios",
-    "texto": "Aqui kyrios é o dono do servo, e por isso a minúscula. A aplicação a Jesus é clara (v. 25)."
+    "texto": "Aqui kyrios é o dono do escravo, e por isso a minúscula. A aplicação a Jesus é clara (v. 25)."
    }
   ]
  },
  "Mat.10.25": {
-  "t": "Basta ao discípulo ser como o seu mestre, e ao servo, como o seu senhor. Se chamaram de Belzebu o dono da casa, quanto mais os membros da casa dele!",
+  "t": "Basta ao discípulo ser como o seu mestre, e ao escravo, como o seu senhor. Se chamaram de Belzebu o dono da casa, quanto mais os membros da casa dele!",
   "n": [
    {
     "tipo": "tn",
@@ -1910,7 +1916,7 @@
   ]
  },
  "Mat.10.29": {
-  "t": "Não se vendem dois pardais por um asse? E, no entanto, nenhum deles cai no chão sem o consentimento do Pai de vocês.",
+  "t": "Não se vendem dois pardais por um asse? E, no entanto, nenhum deles cai no chão sem o Pai de vocês.",
   "n": [
    {
     "tipo": "tn",
@@ -1921,11 +1927,10 @@
    },
    {
     "tipo": "tn",
-    "ancora": "sem o consentimento do Pai de vocês",
+    "ancora": "sem o Pai de vocês",
     "termo": "ἄνευ τοῦ πατρὸς ὑμῶν",
-    "titulo": "“sem o vosso Pai”",
-    "texto": "Lit. “sem o Pai de vocês”. O grego não diz “conhecimento” nem “vontade”; a ideia é que nada acontece fora do governo do Pai. “Consentimento” foi escolhido como meio-termo; alguns traduzem “sem que o Pai saiba”, outros “à parte da vontade do Pai”.",
-    "revisar": true
+    "titulo": "“sem o Pai”",
+    "texto": "Tradução literal. O grego não diz “conhecimento” nem “vontade”; a ideia é que nada acontece à parte do Pai. Alguns traduzem “sem que o Pai saiba” (cf. Lc 12:6, “nenhum deles é esquecido diante de Deus”), outros “sem a vontade do Pai”. A forma literal não acrescenta nenhuma das duas interpretações."
    },
    {
     "tipo": "tn",
@@ -1987,7 +1992,7 @@
     "ancora": "quem me negar",
     "termo": "ὅστις ... ἀρνήσηταί με",
     "titulo": "Pedro",
-    "texto": "O mesmo verbo descreve a negação de Pedro (26:34, 70-75). A restauração de Pedro (Jo 21:15-19) mostra que a advertência se refere a uma rejeição definitiva, não a uma queda da qual há arrependimento."
+    "texto": "O mesmo verbo descreve a negação de Pedro (26:34, 70-75). Muitos intérpretes entendem que a advertência visa a negação definitiva, a apostasia de quem abandona a fé e não volta, e apontam a restauração de Pedro (Jo 21:15-19) como prova de que uma queda seguida de arrependimento não está em vista. Outros leem a frase como advertência que alcança toda negação, inclusive as passageiras, e que deve levar ao arrependimento, como aconteceu com Pedro. O texto não faz essa distinção."
    }
   ]
  },
@@ -2025,7 +2030,7 @@
     "ancora": "o homem com o seu pai, a filha com a sua mãe",
     "termo": "ἄνθρωπον κατὰ τοῦ πατρὸς αὐτοῦ καὶ θυγατέρα κατὰ τῆς μητρὸς αὐτῆς",
     "titulo": "Miqueias 7:6",
-    "texto": "Citação livre de Mq 7:6, sem fórmula de introdução. Mateus está mais perto do hebraico que da Septuaginta, mas adapta a construção à frase."
+    "texto": "Citação livre de Mq 7:6, sem fórmula de introdução. Mateus adapta a construção à frase (com o verbo dichazō e a preposição kata) e não segue literalmente nem o hebraico nem a Septuaginta."
    }
   ]
  },
@@ -2116,7 +2121,7 @@
   ]
  },
  "Mat.10.42": {
-  "t": "E quem der de beber, ainda que seja só um copo de água fresca, a um destes pequeninos por ser meu discípulo, em verdade lhes digo: de modo nenhum perderá a sua recompensa.”",
+  "t": "E quem der de beber, ainda que seja só um copo de água fresca, a um destes pequeninos por ser discípulo, em verdade lhes digo: de modo nenhum perderá a sua recompensa.”",
   "n": [
    {
     "tipo": "tn",
@@ -2134,10 +2139,10 @@
    },
    {
     "tipo": "tn",
-    "ancora": "por ser meu discípulo",
+    "ancora": "por ser discípulo",
     "termo": "εἰς ὄνομα μαθητοῦ (eis onoma mathētou)",
     "titulo": "“em nome de discípulo”",
-    "texto": "Ver nota no v. 41. O “meu” foi acrescentado porque, no contexto, o discípulo é de Jesus."
+    "texto": "Ver nota no v. 41. A forma é a mesma de “por ser profeta” e “por ser justo”. No contexto, trata-se de discípulo de Jesus."
    }
   ]
  },
@@ -2313,14 +2318,14 @@
   ]
  },
  "Mat.11.10": {
-  "t": "Este é aquele de quem está escrito: ‘Eis que eu envio o meu mensageiro à sua frente; ele preparará o seu caminho diante de você’.",
+  "t": "Este é aquele de quem está escrito: ‘Eis que eu envio o meu mensageiro à tua frente; ele preparará o teu caminho diante de ti’.",
   "n": [
    {
     "tipo": "sn",
-    "ancora": "Eis que eu envio o meu mensageiro à sua frente",
+    "ancora": "Eis que eu envio o meu mensageiro à tua frente",
     "termo": "ἰδοὺ ἐγὼ ἀποστέλλω τὸν ἄγγελόν μου πρὸ προσώπου σου",
     "titulo": "Malaquias 3:1 e Êxodo 23:20",
-    "texto": "A primeira parte segue a Septuaginta de Êx 23:20 (o anjo que vai à frente de Israel no deserto); a segunda, Ml 3:1. Em Malaquias, Deus diz que o mensageiro preparará o caminho “diante de mim”; aqui o texto diz “diante de você”. Se o mensageiro prepara o caminho de Deus, e o caminho preparado é o de Jesus, a vinda de Jesus é a vinda de Deus."
+    "texto": "A primeira parte segue a Septuaginta de Êx 23:20 (o anjo que vai à frente de Israel no deserto); a segunda, Ml 3:1. Em Malaquias, Deus diz que o mensageiro preparará o caminho “diante de mim”; aqui o texto diz “diante de ti”. Se o mensageiro prepara o caminho de Deus, e o caminho preparado é o de Jesus, a vinda de Jesus é a vinda de Deus."
    },
    {
     "tipo": "tn",
@@ -2331,10 +2336,10 @@
    },
    {
     "tipo": "tn",
-    "ancora": "à sua frente",
+    "ancora": "à tua frente",
     "termo": "πρὸ προσώπου σου (pro prosōpou sou)",
     "titulo": "“diante da tua face”",
-    "texto": "Lit. “diante da tua face”, expressão hebraica para “à frente de alguém”."
+    "texto": "Lit. “diante da tua face”, expressão hebraica para “à frente de alguém”. Na citação, Deus fala àquele cujo caminho é preparado, isto é, a Jesus; por isso “tu”, como nas outras palavras do Pai ao Filho."
    }
   ]
  },
@@ -2812,7 +2817,7 @@
     "ancora": "eles comeram",
     "termo": "ἔφαγον (ephagon)",
     "titulo": "“comeram” ou “comeu”",
-    "texto": "O SBLGNT, o NA28 e Westcott-Hort trazem ephagon (“comeram”); Tregelles, o Textus Receptus e o Texto Bizantino, ephagen (“comeu”, só Davi), como em Mc 2:26. No texto crítico, o pronome seguinte é neutro (ho, “o que”), e no Textus Receptus, plural (hous, “os quais”). O sentido geral não muda."
+    "texto": "O SBLGNT, o NA28 e Westcott-Hort trazem ephagon (“comeram”); o THGNT, Tregelles, o Textus Receptus e o Texto Bizantino, ephagen (“comeu”, só Davi), como em Mc 2:26. No texto crítico, o pronome seguinte é neutro (ho, “o que”), e no Textus Receptus, plural (hous, “os quais”). O sentido geral não muda."
    },
    {
     "tipo": "tn",
@@ -2995,7 +3000,7 @@
     "ancora": "para matá-lo",
     "termo": "ὅπως αὐτὸν ἀπολέσωσιν",
     "titulo": "a ironia",
-    "texto": "Primeira menção, em Mateus, de um plano para matar Jesus. A ironia é clara: Jesus faz o bem no sábado, e os seus acusadores, no mesmo dia, planejam a morte (cf. Mc 3:4). Apollymi é “destruir”."
+    "texto": "Primeira vez em Mateus em que os adversários judeus planejam matar Jesus; antes, só Herodes procurou matar o menino (2:13, com o mesmo verbo apollymi). A ironia é clara: Jesus faz o bem no sábado, e os seus acusadores, no mesmo dia, planejam a morte (cf. Mc 3:4). Apollymi é “destruir”."
    }
   ]
  },
@@ -3007,7 +3012,7 @@
     "ancora": "Muitos o seguiram",
     "termo": "ἠκολούθησαν αὐτῷ πολλοί (+ ὄχλοι)",
     "titulo": "“muitos” ou “muitas multidões”",
-    "texto": "O SBLGNT e Westcott-Hort trazem só polloi (“muitos”), com manuscritos antigos como ℵ e B. O NA28, o THGNT, Tregelles, o Textus Receptus e o Texto Bizantino acrescentam ochloi (“muitas multidões”). Sem diferença importante de sentido."
+    "texto": "O SBLGNT e Westcott-Hort trazem só polloi (“muitos”), com parte dos manuscritos mais antigos. O NA28, o THGNT, Tregelles, o Textus Receptus e o Texto Bizantino acrescentam ochloi (“muitas multidões”). Sem diferença importante de sentido."
    },
    {
     "tipo": "sn",
@@ -3342,14 +3347,14 @@
   ]
  },
  "Mat.12.33": {
-  "t": "Ou vocês consideram boa a árvore e bom o seu fruto, ou consideram ruim a árvore e ruim o seu fruto, pois pelo fruto se conhece a árvore.",
+  "t": "Ou façam boa a árvore e bom o seu fruto, ou façam ruim a árvore e ruim o seu fruto, pois pelo fruto se conhece a árvore.",
   "n": [
    {
     "tipo": "tn",
-    "ancora": "vocês consideram",
+    "ancora": "façam boa a árvore",
     "termo": "ποιήσατε (poiēsate)",
     "titulo": "“façam”",
-    "texto": "Lit. “façam a árvore boa e o seu fruto bom”. O imperativo tem aqui o sentido de “suponham, declarem”: sejam coerentes no julgamento. Se o fruto (a libertação do endemoninhado) é bom, a árvore (Jesus) também é. Alguns entendem como chamado à conversão: “tornem boa a árvore”. A primeira leitura combina melhor com o debate."
+    "texto": "Tradução literal do imperativo. Aqui “fazer” tem provavelmente o sentido de “considerar, declarar”: sejam coerentes no julgamento. Se o fruto (a libertação do endemoninhado) é bom, a árvore (Jesus) também é. Alguns entendem como chamado à conversão: “tornem boa a árvore”. A primeira leitura combina melhor com o debate."
    },
    {
     "tipo": "tn",

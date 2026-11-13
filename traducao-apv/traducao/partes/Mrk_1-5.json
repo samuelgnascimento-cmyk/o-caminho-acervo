@@ -41,14 +41,14 @@
     "ancora": "Eis que envio o meu mensageiro adiante de ti",
     "termo": "ἰδοὺ ἀποστέλλω τὸν ἄγγελόν μου πρὸ προσώπου σου",
     "titulo": "citação combinada",
-    "texto": "Esta primeira linha não é de Isaías: junta Êx 23:20 (Septuaginta, palavra por palavra no início) com Ml 3:1, onde o hebraico diz “diante de mim”. Marcos troca para “diante de ti”, de modo que o Senhor fala ao Messias. O v. 3 é que vem de Is 40:3. Marcos atribui o conjunto a Isaías, o profeta principal, cuja promessa de um novo êxodo enquadra a citação. Ml 3:1 e 4:5 identificam o mensageiro com Elias; o v. 6 vai mostrar João vestido como Elias."
+    "texto": "Esta primeira linha não é de Isaías: junta Êx 23:20 (Septuaginta, palavra por palavra no início) com Ml 3:1, onde o hebraico diz “diante de mim”. Marcos troca para “diante de ti”, de modo que o Senhor fala ao Messias. O v. 3 é que vem de Is 40:3. Marcos atribui o conjunto a Isaías, o profeta principal, cuja promessa de um novo êxodo enquadra a citação. Ml 3:1 anuncia o mensageiro, e Ml 4:5 (3:23 no hebraico) o identifica como Elias; o v. 6 vai mostrar João vestido como Elias."
    },
    {
     "tipo": "tc",
     "ancora": "no profeta Isaías",
     "termo": "ἐν τῷ Ἠσαΐᾳ τῷ προφήτῃ",
     "titulo": "“em Isaías” ou “nos profetas”",
-    "texto": "O texto crítico traz “no profeta Isaías”, com os manuscritos mais antigos. O Textus Receptus e o Texto Bizantino leem “nos profetas” (en tois prophētais), o que resolve a dificuldade de uma citação que começa com Êxodo e Malaquias. Exatamente por isso a leitura “Isaías” é considerada a original: é a mais difícil, e explica a outra. O Textus Receptus e o Texto Bizantino acrescentam ainda, no fim, “diante de ti”."
+    "texto": "O texto crítico traz “no profeta Isaías”, com os manuscritos mais antigos. O Textus Receptus e o Texto Bizantino não trazem “no profeta Isaías” e apresentam outra redação; a forma conhecida em muitos manuscritos é “nos profetas” (en tois prophētais), que resolve a dificuldade de uma citação que começa com Êxodo e Malaquias. Exatamente por isso a leitura “Isaías” é considerada a original: é a mais difícil, e explica a outra. O Textus Receptus e o Texto Bizantino acrescentam ainda, no fim, “diante de ti”."
    },
    {
     "tipo": "tn",
@@ -62,7 +62,7 @@
     "ancora": "adiante de ti",
     "termo": "πρὸ προσώπου σου (pro prosōpou sou)",
     "titulo": "“diante da tua face”",
-    "texto": "Lit. “diante da tua face”, expressão hebraica para “à tua frente”. Nas citações do AT em que Deus fala, a APV mantém “tu”, como na tradição das Bíblias em português."
+    "texto": "Lit. “diante da tua face”, expressão hebraica para “à tua frente”. Aqui Deus fala ao Messias, seu Filho; por isso “tu”, como na voz do céu em 1:11. Quando Deus fala a pessoas, a APV usa “você”."
    }
   ]
  },
@@ -185,7 +185,7 @@
     "ancora": "desamarrar a correia das suas sandálias",
     "termo": "λῦσαι τὸν ἱμάντα τῶν ὑποδημάτων αὐτοῦ",
     "titulo": "tarefa de escravo",
-    "texto": "Desamarrar e tirar as sandálias do senhor era serviço de escravo. João se coloca abaixo até disso. Kyptō (“abaixar-se”) acentua o gesto; no texto crítico só aparece aqui (também em Jo 8:6, 8, passagem de texto disputado)."
+    "texto": "Desamarrar e tirar as sandálias do senhor era serviço de escravo. João se coloca abaixo até disso. Kyptō (“abaixar-se”) acentua o gesto; só aparece aqui em Marcos e, fora dele, em Jo 8:6, 8 (passagem de texto disputado)."
    },
    {
     "tipo": "tn",
@@ -289,7 +289,7 @@
     "ancora": "em ti me agradei",
     "termo": "ἐν σοὶ εὐδόκησα (en soi eudokēsa)",
     "titulo": "aoristo e tratamento",
-    "texto": "O aoristo pode indicar uma escolha já feita (“em ti me agradei”, “a ti escolhi”) ou um estado intemporal (“em ti me agrado”). Manteve-se o passado, que sugere a eleição. A voz de Deus fala ao Filho com “tu”, como a APV faz nas palavras dirigidas a Deus e nas falas divinas citadas do AT."
+    "texto": "O aoristo pode indicar uma escolha já feita (“em ti me agradei”, “a ti escolhi”) ou um estado intemporal (“em ti me agrado”). Manteve-se o passado, que sugere a eleição. O Pai fala ao Filho com “tu”, tratamento que a APV reserva às palavras do Pai ao Filho e às orações dirigidas a Deus."
    }
   ]
  },
@@ -623,7 +623,7 @@
     "ancora": "dando um grande grito",
     "termo": "φωνῆσαν φωνῇ μεγάλῃ",
     "titulo": "kraxan",
-    "texto": "O Textus Receptus e o Texto Bizantino leem kraxan (“gritando”) em vez de phōnēsan (“chamando, bradando”). Sem efeito no sentido."
+    "texto": "O Textus Receptus e o Texto Bizantino não trazem phōnēsan (“bradando”) e usam outro verbo de gritar. Sem efeito no sentido."
    }
   ]
  },
@@ -855,7 +855,7 @@
     "ancora": "E foi",
     "termo": "ἦλθεν (ēlthen)",
     "titulo": "ēlthen ou ēn",
-    "texto": "O texto crítico traz ēlthen (“foi”); o Textus Receptus e o Texto Bizantino, ēn (“estava pregando”). Sem efeito importante."
+    "texto": "O texto crítico traz ēlthen (“foi”) ... eis tas synagōgas; o Textus Receptus e o Texto Bizantino não trazem essa forma e redigem a frase de outro modo. Sem efeito importante."
    },
    {
     "tipo": "tn",
@@ -1041,7 +1041,7 @@
     "ancora": "Chegaram então algumas pessoas",
     "termo": "ἔρχονται (erchontai)",
     "titulo": "plural impessoal",
-    "texto": "Lit. “vêm”: plural impessoal, comum em Marcos, equivalente a “chegaram alguns”. O presente histórico foi traduzido como passado. “Quatro homens” traduz o numeral tessarōn, que no grego é masculino."
+    "texto": "Lit. “vêm”: plural impessoal, comum em Marcos, equivalente a “chegaram alguns”. O presente histórico foi traduzido como passado. O grego diz só “por quatro”; “homens” é inferência do contexto."
    }
   ]
  },
@@ -1079,7 +1079,7 @@
     "ancora": "os seus pecados estão perdoados",
     "termo": "ἀφίενταί σου αἱ ἁμαρτίαι (aphientai sou hai hamartiai)",
     "titulo": "passiva divina",
-    "texto": "A voz passiva deixa Deus como agente implícito (“Deus perdoa os seus pecados”), modo judaico de falar de Deus sem nomeá-lo. Os escribas entendem que Jesus está declarando, com autoridade própria, o que só Deus faz (v. 7). O texto crítico traz o presente aphientai; o Textus Receptus e o Texto Bizantino, o perfeito apheōntai (“foram perdoados”), provavelmente vindo de Lc 5:20. O sentido é o mesmo."
+    "texto": "A voz passiva deixa Deus como agente implícito (“Deus perdoa os seus pecados”), modo judaico de falar de Deus sem nomeá-lo. Os escribas entendem que Jesus está declarando, com autoridade própria, o que só Deus faz (v. 7). O texto crítico traz o presente aphientai; o Textus Receptus e o Texto Bizantino trazem outra forma do verbo e acrescentam sou (“os teus pecados”). O sentido é o mesmo."
    },
    {
     "tipo": "tn",
@@ -1124,7 +1124,7 @@
     "ancora": "Ele está blasfemando!",
     "termo": "βλασφημεῖ (blasphēmei)",
     "titulo": "forma do TR",
-    "texto": "O Textus Receptus e o Texto Bizantino leem lalei blasphēmias: “Por que este fala assim blasfêmias?”. O texto crítico, com os manuscritos mais antigos, traz a exclamação separada: “Ele blasfema!”."
+    "texto": "O Textus Receptus e o Texto Bizantino não trazem a exclamação separada blasphēmei e unem a ideia de blasfêmia à pergunta. O texto crítico, com os manuscritos mais antigos, traz a exclamação separada: “Ele blasfema!”."
    }
   ]
  },
@@ -1364,26 +1364,26 @@
     "ancora": "naquele dia",
     "termo": "ἐν ἐκείνῃ τῇ ἡμέρᾳ",
     "titulo": "singular",
-    "texto": "A passagem do plural (“virão dias”) ao singular (“naquele dia”) talvez aponte para o dia da crucificação. O Textus Receptus e o Texto Bizantino trazem o plural “naqueles dias”."
+    "texto": "A passagem do plural (“virão dias”) ao singular (“naquele dia”) talvez aponte para o dia da crucificação. O Textus Receptus e o Texto Bizantino não trazem “naquele dia” no singular."
    }
   ]
  },
  "Mrk.2.21": {
-  "t": "Ninguém costura remendo de pano novo, ainda não encolhido, em roupa velha; do contrário, o remendo repuxa a roupa, o novo rasga o velho, e o rasgo fica pior.",
+  "t": "Ninguém costura remendo de pano novo, ainda não encolhido, em roupa velha; do contrário, o remendo novo arranca um pedaço da roupa velha, e o rasgo fica pior.",
   "n": [
    {
     "tipo": "tn",
     "ancora": "pano novo, ainda não encolhido",
     "termo": "ῥάκους ἀγνάφου (rhakous agnaphou)",
     "titulo": "agnaphos, raro",
-    "texto": "Agnaphos (só aqui e em Mt 9:16) é o tecido que ainda não passou pelo pisoeiro (gnapheus, 9:3), que lavava e encolhia o pano. Na primeira lavagem, o remendo encolhe, repuxa e rasga a roupa velha. Epiraptō (“costurar por cima”) é hápax."
+    "texto": "Agnaphos (só aqui e em Mt 9:16) é o tecido que ainda não passou pelo pisoeiro (gnapheus, 9:3), que lavava e encolhia o pano. Na primeira lavagem, o remendo encolhe e repuxa a roupa velha. Epiraptō (“costurar por cima”) é hápax."
    },
    {
     "tipo": "tn",
-    "ancora": "o remendo repuxa a roupa, o novo rasga o velho",
+    "ancora": "o remendo novo arranca um pedaço da roupa velha",
     "termo": "αἴρει τὸ πλήρωμα ἀπ᾽ αὐτοῦ τὸ καινὸν τοῦ παλαιοῦ",
     "titulo": "construção compacta",
-    "texto": "Lit. “o remendo tira (algo) dela, o novo do velho”. A tradução desdobra a frase compacta em duas ações para que a imagem fique clara em voz alta."
+    "texto": "Lit. “o remendo tira (algo) dela, o novo do velho”. Airō é “tirar, levar consigo”. A tradução junta as duas metades da frase compacta (“o remendo novo ... da roupa velha”) e diz “arranca um pedaço”, que é o sentido de “tira dela”."
    }
   ]
  },
@@ -1402,7 +1402,7 @@
     "ancora": "Vinho novo, em odres novos!",
     "termo": "ἀλλ᾽ οἶνον νέον εἰς ἀσκοὺς καινούς (+ βλητέον)",
     "titulo": "frase sem verbo",
-    "texto": "No SBLGNT a frase final não tem verbo: “Mas vinho novo em odres novos!”. Tregelles, o Textus Receptus e o Texto Bizantino acrescentam blēteon (“deve-se pôr”), e o Textus Receptus e o Texto Bizantino ainda trazem “o vinho novo rompe os odres, o vinho se derrama e os odres se perdem”. O sentido é o mesmo."
+    "texto": "No SBLGNT a frase final não tem verbo: “Mas vinho novo em odres novos!”. Tregelles, o Textus Receptus e o Texto Bizantino acrescentam blēteon (“deve-se pôr”), e o Textus Receptus e o Texto Bizantino ainda trazem “o vinho novo” no começo e o verbo apolountai (“se perderão”) para os odres. O sentido é o mesmo."
    },
    {
     "tipo": "sn",
@@ -1464,7 +1464,7 @@
     "ancora": "no tempo do sumo sacerdote Abiatar",
     "termo": "ἐπὶ Ἀβιαθὰρ ἀρχιερέως (epi Abiathar archiereōs)",
     "titulo": "Abiatar ou Aimeleque?",
-    "texto": "Em 1Sm 21:1-6, o sacerdote que dá os pães a Davi é Aimeleque, pai de Abiatar. Mateus e Lucas omitem o nome nos paralelos. As explicações principais: (1) epi com genitivo pode significar “na passagem sobre”, como em 12:26 (“na passagem da sarça”), e Abiatar seria o nome da seção das Escrituras, já que ele é o sacerdote mais conhecido da história de Davi; (2) “no tempo de” Abiatar, que estava presente (1Sm 22:20) e depois se tornou o sumo sacerdote mais célebre do reinado de Davi; (3) confusão de nomes, já presente no próprio AT (2Sm 8:17 e 1Cr 18:16 trocam pai e filho). A tradução mantém o sentido temporal, o mais natural, e deixa o debate na nota. Alguns manuscritos omitem a expressão, provavelmente para evitar a dificuldade.",
+    "texto": "Em 1Sm 21:1-6, o sacerdote que dá os pães a Davi é Aimeleque, pai de Abiatar. Mateus e Lucas omitem o nome nos paralelos. As explicações principais: (1) epi com genitivo pode significar “na passagem sobre”, como em 12:26 (“na passagem da sarça”), e Abiatar seria o nome da seção das Escrituras, já que ele é o sacerdote mais conhecido da história de Davi; (2) “no tempo de” Abiatar, filho de Aimeleque e sacerdote ligado a Davi depois do massacre de Nobe (1Sm 22:20-23), que se tornou o sumo sacerdote mais conhecido do reinado de Davi, mais que o pai; (3) confusão de nomes, já presente no próprio AT (2Sm 8:17 e 1Cr 18:16 trocam pai e filho). A tradução mantém o sentido temporal, o mais natural, e deixa o debate na nota. Alguns manuscritos omitem a expressão, provavelmente para evitar a dificuldade.",
     "revisar": true
    },
    {
@@ -1672,7 +1672,7 @@
     "ancora": "doenças",
     "termo": "μάστιγας (mastigas)",
     "titulo": "mastix: “açoites”",
-    "texto": "Lit. “açoites, flagelos”. A palavra é usada metaforicamente para doenças e sofrimentos, às vezes vistos como castigo (Sl 32:10 na Septuaginta). Marcos a usa outra vez para a mulher com hemorragia (5:29, 34). Traduzida pelo sentido, “doenças”, com a imagem na nota."
+    "texto": "Lit. “açoites, flagelos”. A palavra é usada metaforicamente para doenças e sofrimentos, às vezes vistos como castigo (Sl 32:10; 31:10 na numeração da Septuaginta). Marcos a usa outra vez para a mulher com hemorragia (5:29, 34). Traduzida pelo sentido, “doenças”, com a imagem na nota."
    }
   ]
  },
@@ -1803,14 +1803,14 @@
   ]
  },
  "Mrk.3.18": {
-  "t": "André, Filipe, Bartolomeu, Mateus, Tomé, Tiago, filho de Alfeu, Tadeu, Simão, o Cananeu,",
+  "t": "André, Filipe, Bartolomeu, Mateus, Tomé, Tiago, filho de Alfeu, Tadeu, Simão, o Zelote,",
   "n": [
    {
     "tipo": "tn",
-    "ancora": "o Cananeu",
+    "ancora": "o Zelote",
     "termo": "τὸν Καναναῖον (ton Kananaion)",
     "titulo": "Kananaios: “zelote”",
-    "texto": "Kananaios não indica origem em Canaã (que seria Chananaios) nem em Caná. Vem do aramaico qan’ana, “zeloso”, e Lucas o traduz por “o Zelote” (Lc 6:15; At 1:13). Pode indicar zelo religioso pela Lei ou ligação com o movimento de resistência a Roma, mais tarde chamado dos zelotes. Mantido o nome como apelido, com esta nota."
+    "texto": "Kananaios não indica origem em Canaã (que seria Chananaios) nem em Caná. Vem do aramaico qan’ana, “zeloso”, e Lucas o traduz por “o Zelote” (Lc 6:15; At 1:13). Pode indicar zelo religioso pela Lei ou ligação com o movimento de resistência a Roma, mais tarde chamado dos zelotes. A forma tradicional em português, “o Cananeu”, transcreve o grego, mas faz pensar em Canaã; por isso a APV traduz o sentido, como Lucas."
    },
    {
     "tipo": "sn",
@@ -1848,7 +1848,7 @@
     "ancora": "nem sequer conseguiam comer",
     "termo": "μὴ δύνασθαι αὐτοὺς μηδὲ ἄρτον φαγεῖν",
     "titulo": "“comer pão”",
-    "texto": "Lit. “nem sequer comer pão”, expressão semítica para fazer uma refeição. O Textus Receptus traz erchontai (“vão”), no plural; as demais edições, erchetai (“vai”), no singular."
+    "texto": "Lit. “nem sequer comer pão”, expressão semítica para fazer uma refeição. O verbo inicial está no singular (erchetai, “vai”, isto é, Jesus); o Textus Receptus não traz essa forma."
    },
    {
     "tipo": "sn",
@@ -2026,7 +2026,7 @@
     "ancora": "pecado eterno",
     "termo": "αἰωνίου ἁμαρτήματος (aiōniou hamartēmatos)",
     "titulo": "“juízo eterno”",
-    "texto": "O texto crítico traz hamartēmatos (“pecado”); o Textus Receptus e o Texto Bizantino, kriseōs (“juízo, condenação”): “é réu de juízo eterno”. A leitura “pecado eterno” é mais difícil e, por isso, provavelmente original."
+    "texto": "O texto crítico traz hamartēmatos (“pecado”); o Textus Receptus e o Texto Bizantino não trazem hamartēmatos; a leitura alternativa, conhecida de muitos manuscritos, é kriseōs (“juízo, condenação”): “é réu de juízo eterno”. A leitura “pecado eterno” é mais difícil e, por isso, provavelmente original."
    }
   ]
  },
@@ -2124,7 +2124,7 @@
     "ancora": "uma multidão tão grande",
     "termo": "ὄχλος πλεῖστος (ochlos pleistos)",
     "titulo": "superlativo",
-    "texto": "Pleistos é superlativo (“grandíssima”), usado no grego da época como elativo: “muito grande”. O Textus Receptus e o Texto Bizantino trazem polys (“grande”)."
+    "texto": "Pleistos é superlativo (“grandíssima”), usado no grego da época como elativo: “muito grande”. O Textus Receptus e o Texto Bizantino não trazem o superlativo."
    }
   ]
  },
@@ -2335,7 +2335,7 @@
   ]
  },
  "Mrk.4.15": {
-  "t": "Os que estão à beira do caminho, onde a palavra é semeada, são aqueles que, quando a ouvem, logo vem Satanás e tira a palavra que foi semeada neles.",
+  "t": "Os que estão à beira do caminho, onde a palavra é semeada, são estes: quando a ouvem, logo vem Satanás e tira a palavra que foi semeada neles.",
   "n": [
    {
     "tipo": "tn",
@@ -2756,7 +2756,7 @@
     "ancora": "gerasenos",
     "termo": "Γερασηνῶν (Gerasēnōn)",
     "titulo": "gerasenos, gadarenos ou gergesenos",
-    "texto": "O texto crítico traz “gerasenos”, com os manuscritos mais antigos. O Textus Receptus e o Texto Bizantino leem “gadarenos”, forma de Mt 8:28; outros manuscritos trazem “gergesenos”. A variedade reflete uma dificuldade geográfica: Gerasa (hoje Jerash) fica a uns 50 km do lago, Gadara a uns 10 km, e Gergesa seria um lugar à margem oriental. “Região dos gerasenos” pode designar o vasto território ligado à cidade, que chegaria ao lago, ou ser um nome regional usado de modo amplo. Orígenes já discutia o problema e preferia Gergesa."
+    "texto": "O texto crítico traz “gerasenos”, com os manuscritos mais antigos. O Textus Receptus e o Texto Bizantino não trazem “gerasenos”; muitos manuscritos leem “gadarenos”, forma de Mt 8:28, e outros, “gergesenos”. A variedade reflete uma dificuldade geográfica: Gerasa (hoje Jerash) fica a uns 50 km do lago, Gadara a uns 10 km, e Gergesa seria um lugar à margem oriental. “Região dos gerasenos” pode designar o vasto território ligado à cidade, que chegaria ao lago, ou ser um nome regional usado de modo amplo. Orígenes já discutia o problema e preferia Gergesa."
    },
    {
     "tipo": "sn",
@@ -2906,7 +2906,7 @@
     "ancora": "não os mandasse para fora",
     "termo": "μὴ αὐτὰ ἀποστείλῃ ἔξω τῆς χώρας",
     "titulo": "pronome neutro",
-    "texto": "“Os” traduz o neutro plural auta, que se refere aos espíritos (pneumata). O verbo “suplicava” está no singular. O Textus Receptus e o Texto Bizantino trazem autous (masculino). Lucas diz que pediam para não ir ao abismo (Lc 8:31)."
+    "texto": "“Os” traduz o neutro plural auta, que se refere aos espíritos (pneumata). O verbo “suplicava” está no singular. O Textus Receptus e o Texto Bizantino não trazem o neutro auta. Lucas diz que pediam para não ir ao abismo (Lc 8:31)."
    }
   ]
  },
@@ -2961,11 +2961,11 @@
   ]
  },
  "Mrk.5.14": {
-  "t": "Os que cuidavam dos porcos fugiram e contaram o que acontecera na cidade e nos campos. E as pessoas foram ver o que tinha acontecido.",
+  "t": "Os que cuidavam dos porcos fugiram e contaram na cidade e nos campos o que tinha acontecido. E as pessoas foram ver o que era aquilo.",
   "n": [
    {
     "tipo": "tn",
-    "ancora": "contaram o que acontecera",
+    "ancora": "contaram na cidade e nos campos",
     "termo": "ἀπήγγειλαν (apēngeilan)",
     "titulo": "objeto implícito",
     "texto": "O grego diz só “anunciaram na cidade e nos campos”; o objeto foi acrescentado. “As pessoas” traduz o sujeito implícito de “foram”. O Textus Receptus e o Texto Bizantino trazem “os que cuidavam dos porcos”, com o substantivo explícito."
@@ -3035,7 +3035,7 @@
     "ancora": "o Senhor",
     "termo": "ὁ κύριος (ho kyrios)",
     "titulo": "o Senhor e Jesus",
-    "texto": "Na boca de Jesus, “o Senhor” é Deus (o Kyrios da Septuaginta, que traduz YHWH). No v. 20, porém, o homem proclama “o que Jesus tinha feito”. Marcos deixa o leitor ligar as duas coisas: o que Deus fez, fez por meio de Jesus."
+    "texto": "Na boca de Jesus, “o Senhor” é Deus (o Kyrios da Septuaginta, que traduz YHWH). No v. 20, porém, o homem proclama “o que Jesus tinha feito”. Alguns intérpretes entendem kyrios aqui como o próprio Jesus; Lucas escreve “Deus” (Lc 8:39). A leitura mais natural na boca de Jesus é “Deus”, mas Marcos deixa o leitor ligar as duas coisas: o que Deus fez, fez por meio de Jesus."
    },
    {
     "tipo": "sn",
@@ -3397,7 +3397,7 @@
     "ancora": "Talitá cum",
     "termo": "κουμ / κοῦμι",
     "titulo": "koum ou koumi",
-    "texto": "O texto crítico traz koum; o Textus Receptus e o Texto Bizantino, koumi, que é a forma aramaica feminina mais correta. Mas na fala corrente da Galileia a forma masculina parece ter sido usada para os dois gêneros; a forma koumi pode ser correção de copistas. Sem efeito no sentido."
+    "texto": "O texto crítico traz koum; a maioria dos manuscritos traz koumi, que é a forma aramaica feminina mais correta. Mas na fala corrente da Galileia a forma masculina parece ter sido usada para os dois gêneros; a forma koumi pode ser correção de copistas. Sem efeito no sentido."
    },
    {
     "tipo": "sn",

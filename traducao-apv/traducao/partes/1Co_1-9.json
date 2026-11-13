@@ -59,7 +59,7 @@
   ]
  },
  "1Co.1.3": {
-  "t": "graça e paz a vocês da parte de Deus, nosso Pai, e do Senhor Jesus Cristo.",
+  "t": "Graça e paz a vocês da parte de Deus, nosso Pai, e do Senhor Jesus Cristo.",
   "n": []
  },
  "1Co.1.4": {
@@ -2047,7 +2047,7 @@
   ]
  },
  "1Co.5.13": {
-  "t": "Os de fora, Deus os julga. “Expulsem o perverso do meio de vocês.”",
+  "t": "Os de fora, Deus os julga. “Expulsem o perverso do meio de vocês”.",
   "n": [
    {
     "tipo": "tc",
@@ -3137,14 +3137,14 @@
   ]
  },
  "1Co.7.40": {
-  "t": "Mas, na minha opinião, ela será mais feliz se permanecer como está. E penso que também eu tenho o Espírito de Deus.",
+  "t": "Mas, na minha opinião, ela será mais bem-aventurada se permanecer como está. E penso que também eu tenho o Espírito de Deus.",
   "n": [
    {
     "tipo": "tn",
-    "ancora": "mais feliz",
+    "ancora": "mais bem-aventurada",
     "termo": "μακαριωτέρα (makariōtera)",
     "titulo": "makarios",
-    "texto": "Comparativo de makarios, a palavra das bem-aventuranças: “mais bem-aventurada, mais feliz”. Paulo pensa na liberdade para servir ao Senhor (vv. 32-35)."
+    "texto": "Comparativo de makarios, a palavra das bem-aventuranças (Mt 5:3-11). A APV traduz makarios sempre por “bem-aventurado”; aqui o sentido inclui “mais feliz”. Paulo pensa na liberdade para servir ao Senhor sem divisão (vv. 32-35)."
    },
    {
     "tipo": "tn",
@@ -3286,6 +3286,13 @@
   "n": [
    {
     "tipo": "tn",
+    "ancora": "nem perdemos nada se não comermos, nem ganhamos nada se comermos",
+    "termo": "οὔτε ἐὰν μὴ φάγωμεν ὑστερούμεθα, οὔτε ἐὰν φάγωμεν περισσεύομεν",
+    "titulo": "“ficar atrás” e “sobrar”",
+    "texto": "Lit. “nem, se não comermos, ficamos atrás; nem, se comermos, temos a mais”. Hystereō é ficar em falta (1:7); perisseuō, ter de sobra. Comer ou não comer não acrescenta nem tira nada diante de Deus."
+   },
+   {
+    "tipo": "tn",
     "ancora": "nos recomendará a Deus",
     "termo": "ἡμᾶς οὐ παραστήσει τῷ θεῷ",
     "titulo": "paristēmi",
@@ -3293,10 +3300,10 @@
    },
    {
     "tipo": "tc",
-    "ancora": "nem perdemos nada se não comermos, nem ganhamos nada se comermos",
-    "termo": "οὔτε ἐὰν μὴ φάγωμεν ὑστερούμεθα, οὔτε ἐὰν φάγωμεν περισσεύομεν",
-    "titulo": "ordem e tempo",
-    "texto": "Lit. “nem, se não comermos, ficamos atrás; nem, se comermos, temos a mais”. O Textus Receptus e o Texto Bizantino invertem as duas frases e trazem o verbo anterior no presente (paristēsi, “recomenda”). Sem diferença de sentido."
+    "ancora": "nos recomendará a Deus",
+    "termo": "παραστήσει / παρίστησι",
+    "titulo": "futuro ou presente",
+    "texto": "O Textus Receptus e o Texto Bizantino trazem o verbo no presente (paristēsi, “recomenda”) em vez do futuro. Sem diferença de sentido."
    }
   ]
  },
@@ -3385,6 +3392,485 @@
     "termo": "οὐ μὴ φάγω κρέα εἰς τὸν αἰῶνα",
     "titulo": "negação enfática",
     "texto": "Lit. “de modo nenhum comerei carnes para sempre”. Ou mē é a negação mais forte do grego. Kreas (raro: aqui e Rm 14:21) é carne em geral, não só a sacrificada. Paulo introduz assim o cap. 9: ele próprio abre mão de direitos legítimos por amor aos outros. Dioper (raro: aqui e 10:14) é “por isso mesmo”."
+   }
+  ]
+ },
+ "1Co.9.1": {
+  "t": "Não sou livre? Não sou apóstolo? Não vi Jesus, nosso Senhor? Não são vocês a minha obra no Senhor?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Não sou livre?",
+    "termo": "Οὐκ εἰμὶ ἐλεύθερος;",
+    "titulo": "perguntas retóricas",
+    "texto": "Todas as perguntas com ou (“não”) esperam resposta “sim”. O cap. 9 ilustra o princípio de 8:13: Paulo tem direitos legítimos, mas abre mão deles pelo bem dos outros. “Livre” retoma a liberdade (exousia) dos coríntios em 8:9."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Não vi Jesus, nosso Senhor?",
+    "termo": "οὐχὶ Ἰησοῦν τὸν κύριον ἡμῶν ἑόρακα;",
+    "titulo": "testemunha do Ressuscitado",
+    "texto": "Ter visto o Senhor ressuscitado era condição para ser apóstolo no sentido pleno (At 1:21-22). Paulo o viu no caminho de Damasco (15:8; At 9:3-6). O perfeito heoraka indica experiência com efeito permanente. O Textus Receptus e o Texto Bizantino trazem “Jesus Cristo, nosso Senhor”."
+   }
+  ]
+ },
+ "1Co.9.2": {
+  "t": "Se para outros não sou apóstolo, ao menos para vocês eu sou; pois vocês são o selo do meu apostolado no Senhor.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "o selo do meu apostolado",
+    "termo": "ἡ ... σφραγίς μου τῆς ἀποστολῆς",
+    "titulo": "sphragis",
+    "texto": "O selo autenticava documentos e garantia a origem e a propriedade de algo. A existência da igreja de Corinto é a prova pública de que Paulo foi enviado por Deus (2Co 3:2-3)."
+   }
+  ]
+ },
+ "1Co.9.3": {
+  "t": "Esta é a minha defesa diante dos que me julgam.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Esta é a minha defesa",
+    "termo": "ἡ ἐμὴ ἀπολογία ... ἐστιν αὕτη",
+    "titulo": "para trás ou para a frente?",
+    "texto": "Apologia é a defesa no tribunal, e anakrinō, o interrogatório (ver 2:14; 4:3). “Esta” pode apontar para os vv. 1-2 (a igreja é a prova) ou, mais provavelmente, para o que segue (vv. 4-23), em que Paulo explica por que não aceitava sustento. A pontuação deixa as duas leituras."
+   }
+  ]
+ },
+ "1Co.9.4": {
+  "t": "Será que não temos direito de comer e beber?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Será que não temos direito",
+    "termo": "μὴ οὐκ ἔχομεν ἐξουσίαν",
+    "titulo": "mē ouk",
+    "texto": "A combinação mē ouk forma uma pergunta que espera resposta afirmativa, com tom de indignação: “Será que não temos...? Claro que temos!”. “Comer e beber” é ser sustentado pelas igrejas, como os vv. 6-14 mostram, mas também retoma o tema da comida (cap. 8)."
+   }
+  ]
+ },
+ "1Co.9.5": {
+  "t": "Será que não temos direito de levar conosco uma irmã como esposa, como fazem também os demais apóstolos, os irmãos do Senhor e Cefas?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "uma irmã como esposa",
+    "termo": "ἀδελφὴν γυναῖκα (adelphēn gynaika)",
+    "titulo": "“uma irmã, uma mulher”",
+    "texto": "Lit. “uma irmã, mulher”: uma esposa que fosse cristã (“irmã”). Gynē pode significar “mulher” ou “esposa”; o contexto do sustento de casais em viagem missionária indica a esposa. A leitura posterior de “irmã” como auxiliar celibatária não se apoia no texto."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "os irmãos do Senhor",
+    "termo": "οἱ ἀδελφοὶ τοῦ κυρίου",
+    "titulo": "quem eram",
+    "texto": "Tiago, José, Simão e Judas (Mc 6:3; Gl 1:19). As tradições cristãs divergem sobre o parentesco: filhos de José e Maria nascidos depois de Jesus (posição de Helvídio e da maioria dos protestantes), filhos de José de um casamento anterior (Epifânio; tradição ortodoxa oriental) ou primos (Jerônimo; tradição católica romana). Este versículo mostra que eram casados e viajavam em missão."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Cefas",
+    "termo": "Κηφᾶς (Kēphas)",
+    "titulo": "Pedro era casado",
+    "texto": "Pedro tinha sogra (Mc 1:30) e, segundo este versículo, viajava com a esposa. Ver a nota em 1:12."
+   }
+  ]
+ },
+ "1Co.9.6": {
+  "t": "Ou somente eu e Barnabé não temos direito de deixar de trabalhar?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "deixar de trabalhar",
+    "termo": "μὴ ἐργάζεσθαι (mē ergazesthai)",
+    "titulo": "trabalho manual",
+    "texto": "Isto é, de deixar o trabalho manual com que se sustentavam (4:12; At 18:3; 1Ts 2:9). Barnabé, companheiro de Paulo na primeira viagem (At 13-14), seguia a mesma prática."
+   }
+  ]
+ },
+ "1Co.9.7": {
+  "t": "Quem jamais serve como soldado à própria custa? Quem planta uma vinha e não come do seu fruto? Quem apascenta um rebanho e não se alimenta do leite do rebanho?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "à própria custa",
+    "termo": "ἰδίοις ὀψωνίοις (idiois opsōniois)",
+    "titulo": "opsōnion",
+    "texto": "Opsōnion é o soldo ou a ração do soldado (Lc 3:14; Rm 6:23). Três imagens do cotidiano (soldado, vinhateiro, pastor) mostram que quem trabalha vive do seu trabalho."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Quem planta uma vinha",
+    "termo": "τίς φυτεύει ἀμπελῶνα",
+    "titulo": "pequenas diferenças",
+    "texto": "NA28 e outras edições trazem ē (“ou”) antes da última pergunta; o Textus Receptus e o Texto Bizantino trazem “do fruto” (ek tou karpou) em vez de “o fruto”. Sem efeito no sentido."
+   }
+  ]
+ },
+ "1Co.9.8": {
+  "t": "Será que digo isso apenas segundo critérios humanos? Ou a Lei também não diz o mesmo?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "segundo critérios humanos",
+    "termo": "κατὰ ἄνθρωπον (kata anthrōpon)",
+    "titulo": "“segundo o homem”",
+    "texto": "Lit. “segundo o homem” (ver 3:3): com argumentos apenas do senso comum. Paulo passa da experiência humana à Escritura."
+   }
+  ]
+ },
+ "1Co.9.9": {
+  "t": "Pois está escrito na Lei de Moisés: “Não amordace o boi quando ele estiver debulhando o grão”. Acaso é com os bois que Deus se preocupa?",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Não amordace o boi quando ele estiver debulhando o grão",
+    "termo": "οὐ κημώσεις βοῦν ἀλοῶντα",
+    "titulo": "Dt 25:4",
+    "texto": "Citação de Dt 25:4, segundo a Septuaginta. A APV traduz os mandamentos do AT dados na 2ª pessoa do singular com o imperativo e “você” (“Não amordace”); a forma tradicional é “Não amordaçarás o boi”. O boi andava em círculos sobre os feixes na eira, separando o grão da palha; a Lei proibia impedi-lo de comer enquanto trabalhava. Aloaō (“debulhar”, raro: aqui, v. 10 e 1Tm 5:18, onde Paulo cita o mesmo texto)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Acaso é com os bois que Deus se preocupa?",
+    "termo": "μὴ τῶν βοῶν μέλει τῷ θεῷ;",
+    "titulo": "Deus e os animais",
+    "texto": "A pergunta com mē espera “não”. Paulo não nega que Deus cuide dos animais (Sl 104:14, 27; Mt 6:26), mas afirma que o propósito principal da lei vai além deles: um princípio de justiça para todo trabalhador. Era um modo de raciocínio comum na interpretação judaica, do menor para o maior."
+   }
+  ]
+ },
+ "1Co.9.10": {
+  "t": "Ou não é certamente por nossa causa que ele o diz? Sim, foi escrito por nossa causa, porque quem ara deve arar com esperança, e quem debulha deve debulhar com a esperança de participar da colheita.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "certamente",
+    "termo": "πάντως (pantōs)",
+    "titulo": "pantōs",
+    "texto": "Pode ser “certamente” ou “inteiramente”. A primeira leitura é a mais natural: o texto foi escrito pensando também em “nós”, os que trabalham pelo evangelho, sem negar o sentido literal."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "de participar da colheita",
+    "termo": "τοῦ μετέχειν (tou metechein)",
+    "titulo": "“de participar”",
+    "texto": "Lit. “com a esperança de participar”. “Da colheita” foi suprido para clareza. O Textus Receptus e o Texto Bizantino trazem “com a esperança de participar da sua esperança”, forma mais pesada."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "quem ara",
+    "termo": "ὁ ἀροτριῶν (ho arotriōn)",
+    "titulo": "arotriaō, raro",
+    "texto": "Só três vezes no NT (aqui duas vezes e Lc 17:7). Lavrar a terra com arado."
+   }
+  ]
+ },
+ "1Co.9.11": {
+  "t": "Se nós semeamos entre vocês as coisas espirituais, será demais colhermos de vocês as coisas materiais?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "as coisas materiais",
+    "termo": "τὰ σαρκικά (ta sarkika)",
+    "titulo": "“as coisas carnais”",
+    "texto": "Lit. “as coisas carnais”, sem sentido moral negativo: os bens desta vida, como comida e dinheiro, em contraste com as “coisas espirituais” do evangelho (Rm 15:27)."
+   }
+  ]
+ },
+ "1Co.9.12": {
+  "t": "Se outros participam desse direito sobre vocês, não o teríamos nós ainda mais? Mas não usamos esse direito; ao contrário, suportamos tudo para não criar nenhum obstáculo ao evangelho de Cristo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "participam desse direito sobre vocês",
+    "termo": "τῆς ὑμῶν ἐξουσίας μετέχουσιν",
+    "titulo": "genitivo",
+    "texto": "Lit. “participam do direito de vocês”, isto é, do direito sobre vocês, de serem sustentados por vocês. Os “outros” são mestres que aceitavam o sustento dos coríntios, talvez Apolo ou Pedro."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "suportamos tudo",
+    "termo": "πάντα στέγομεν (panta stegomen)",
+    "titulo": "stegō",
+    "texto": "Suportar, aguentar, cobrir. É o verbo de 13:7 (“o amor tudo suporta”). Paulo aguentou privações para não ser acusado de pregar por dinheiro, como faziam muitos filósofos e oradores itinerantes."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "obstáculo",
+    "termo": "ἐγκοπὴν (enkopēn)",
+    "titulo": "enkopē, hápax",
+    "texto": "Única ocorrência no NT. Da raiz de enkoptō, “cortar, impedir”: um corte na estrada que impede a passagem."
+   }
+  ]
+ },
+ "1Co.9.13": {
+  "t": "Vocês não sabem que os que fazem o serviço do templo comem do que vem do templo, e que os que servem ao altar têm parte no que é oferecido no altar?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "os que fazem o serviço do templo",
+    "termo": "οἱ τὰ ἱερὰ ἐργαζόμενοι",
+    "titulo": "ta hiera, raro",
+    "texto": "Lit. “os que trabalham nas coisas sagradas”. Hieros (raro: aqui e 2Tm 3:15) é “sagrado”. Paulo pensa nos sacerdotes e levitas, que viviam de parte das ofertas (Nm 18:8-31; Dt 18:1-3), mas o princípio valia também nos templos pagãos."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "os que servem ao altar",
+    "termo": "οἱ τῷ θυσιαστηρίῳ παρεδρεύοντες",
+    "titulo": "paredreuō, hápax",
+    "texto": "Única ocorrência no NT: “sentar-se junto, estar continuamente a serviço de”. Também symmerizomai (hápax): “ter parte com”; os sacerdotes recebiam uma porção do que era sacrificado."
+   }
+  ]
+ },
+ "1Co.9.14": {
+  "t": "Da mesma forma, também o Senhor ordenou aos que anunciam o evangelho que vivam do evangelho.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "o Senhor ordenou",
+    "termo": "ὁ κύριος διέταξεν",
+    "titulo": "uma palavra de Jesus",
+    "texto": "Alude ao ensino de Jesus ao enviar os discípulos: “o trabalhador é digno do seu salário” (Lc 10:7; Mt 10:10; citado em 1Tm 5:18). Paulo, porém, trata a ordem como direito do pregador, não como dever de aceitar o sustento."
+   }
+  ]
+ },
+ "1Co.9.15": {
+  "t": "Eu, porém, não usei nenhum desses direitos. E não escrevo isso para que se faça assim comigo. Prefiro morrer a... Ninguém vai esvaziar o meu motivo de orgulho!",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "não escrevo isso para que se faça assim comigo",
+    "termo": "οὐκ ἔγραψα δὲ ταῦτα ἵνα οὕτως γένηται ἐν ἐμοί",
+    "titulo": "aoristo epistolar",
+    "texto": "Lit. “não escrevi”, aoristo epistolar, do ponto de vista dos leitores. Paulo não está pedindo dinheiro de modo indireto."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Prefiro morrer a... Ninguém vai esvaziar o meu motivo de orgulho!",
+    "termo": "καλὸν γάρ μοι μᾶλλον ἀποθανεῖν ἢ τὸ καύχημά μου οὐδεὶς κενώσει",
+    "titulo": "frase interrompida",
+    "texto": "Lit. “pois é melhor para mim morrer do que... o meu motivo de orgulho ninguém esvaziará”. A frase grega se quebra no meio (anacoluto), como na fala de quem se emociona. A tradução mantém a quebra. O Textus Receptus e o Texto Bizantino corrigem para “do que alguém esvaziar o meu motivo de orgulho”. O “orgulho” de Paulo (kauchēma) não é vaidade: é pregar de graça (v. 18)."
+   }
+  ]
+ },
+ "1Co.9.16": {
+  "t": "Pois, se anuncio o evangelho, isso não é para mim motivo de orgulho, porque me é imposta essa obrigação; e ai de mim se não anunciar o evangelho!",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "me é imposta essa obrigação; e ai de mim",
+    "termo": "ἀνάγκη γάρ μοι ἐπίκειται· οὐαὶ γάρ μοί ἐστιν",
+    "titulo": "a necessidade do profeta",
+    "texto": "Anankē é necessidade, coação. Paulo se vê como os profetas, que não podiam calar a palavra de Deus (Jr 20:9; Am 3:8). Pregar não é mérito de que se gabar: é obrigação recebida."
+   }
+  ]
+ },
+ "1Co.9.17": {
+  "t": "Se o faço por vontade própria, tenho recompensa; mas, se não é por vontade própria, é uma administração que me foi confiada.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "por vontade própria",
+    "termo": "ἑκὼν (hekōn)",
+    "titulo": "hekōn e akōn",
+    "texto": "Hekōn (raro: aqui e Rm 8:20) é “de livre vontade”; akōn (hápax), “sem querer, constrangido”. Versículo difícil. O mais provável: Paulo não prega por iniciativa própria, como um profissional que espera pagamento; prega como administrador (oikonomos, 4:1-2) a quem foi confiado um encargo, e escravo administrador não recebe salário. Sua “recompensa” é outra (v. 18).",
+    "revisar": true
+   },
+   {
+    "tipo": "tn",
+    "ancora": "é uma administração que me foi confiada",
+    "termo": "οἰκονομίαν πεπίστευμαι",
+    "titulo": "oikonomia",
+    "texto": "Lit. “estou encarregado de uma administração”. Ver 4:1-2 sobre o oikonomos, o administrador da casa, muitas vezes escravo."
+   }
+  ]
+ },
+ "1Co.9.18": {
+  "t": "Qual é, então, a minha recompensa? Que, ao anunciar o evangelho, eu o ofereça gratuitamente, sem fazer pleno uso do meu direito no evangelho.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "eu o ofereça gratuitamente",
+    "termo": "ἀδάπανον θήσω τὸ εὐαγγέλιον",
+    "titulo": "adapanos, hápax",
+    "texto": "Lit. “eu ponha o evangelho sem custo”. Adapanos (hápax no NT) é “sem despesa, gratuito”. A recompensa de Paulo é a própria liberdade de pregar de graça. O Textus Receptus e o Texto Bizantino trazem “o evangelho de Cristo”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "sem fazer pleno uso",
+    "termo": "εἰς τὸ μὴ καταχρήσασθαι",
+    "titulo": "katachraomai",
+    "texto": "O mesmo verbo de 7:31: “usar plenamente, até o fim”. Paulo não nega o direito; apenas não o exerce."
+   }
+  ]
+ },
+ "1Co.9.19": {
+  "t": "Pois, embora livre em relação a todos, fiz-me escravo de todos, para ganhar o maior número possível.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "fiz-me escravo de todos",
+    "termo": "πᾶσιν ἐμαυτὸν ἐδούλωσα",
+    "titulo": "douloō",
+    "texto": "Lit. “escravizei a mim mesmo a todos”. O contraste com “livre” é proposital, como em 7:21-22; por isso “escravo”, e não “servo”. É a lógica de Jesus, que veio para servir (Mc 10:44-45)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "para ganhar o maior número possível",
+    "termo": "ἵνα τοὺς πλείονας κερδήσω",
+    "titulo": "kerdainō",
+    "texto": "Lit. “para que eu ganhe os mais numerosos”. Kerdainō (“ganhar, lucrar”) é termo comercial, aplicado à conquista de pessoas para Cristo (Mt 18:15; 1Pe 3:1). Aparece cinco vezes nos vv. 19-22."
+   }
+  ]
+ },
+ "1Co.9.20": {
+  "t": "Para os judeus, tornei-me como judeu, para ganhar os judeus; para os que estão debaixo da Lei, como se estivesse debaixo da Lei, embora eu mesmo não esteja debaixo da Lei, para ganhar os que estão debaixo da Lei;",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "tornei-me como judeu",
+    "termo": "ἐγενόμην ... ὡς Ἰουδαῖος",
+    "titulo": "o judeu que se torna “como judeu”",
+    "texto": "Paulo era judeu de nascimento (Fp 3:5), mas em Cristo não depende da identidade judaica para estar diante de Deus. Por isso fala de “tornar-se como judeu”: observar costumes judaicos quando isso abre caminho ao evangelho (At 16:3; 21:20-26), sem impô-los como condição de salvação (Gl 2:11-14)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "embora eu mesmo não esteja debaixo da Lei",
+    "termo": "μὴ ὢν αὐτὸς ὑπὸ νόμον",
+    "titulo": "frase ausente",
+    "texto": "O Textus Receptus e o Texto Bizantino omitem esta frase, presente nos manuscritos mais antigos. A omissão se explica facilmente: o copista pulou de um “debaixo da Lei” para o seguinte."
+   }
+  ]
+ },
+ "1Co.9.21": {
+  "t": "para os que estão sem lei, como sem lei, embora não esteja sem lei diante de Deus, mas sob a lei de Cristo, para ganhar os que estão sem lei.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "os que estão sem lei",
+    "termo": "τοῖς ἀνόμοις (tois anomois)",
+    "titulo": "anomos",
+    "texto": "Aqui anomos não é “iníquo”, mas quem vive fora da Lei de Moisés: os gentios (Rm 2:12)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "sob a lei de Cristo",
+    "termo": "ἔννομος Χριστοῦ (ennomos Christou)",
+    "titulo": "ennomos, raro",
+    "texto": "Ennomos (raro: aqui e At 19:39) é “dentro da lei, sujeito à lei”. Lit. “dentro da lei de Cristo”. Paulo não vive sem norma: está ligado a Cristo e à sua vontade, resumida no amor (Gl 6:2; Rm 13:8-10)."
+   }
+  ]
+ },
+ "1Co.9.22": {
+  "t": "Para os fracos, tornei-me fraco, para ganhar os fracos. Tornei-me tudo para todos, para, de todo modo, salvar alguns.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Para os fracos, tornei-me fraco",
+    "termo": "ἐγενόμην τοῖς ἀσθενέσιν ἀσθενὴς",
+    "titulo": "os fracos",
+    "texto": "Retoma os “fracos” do cap. 8. Aqui Paulo não diz “como fraco”: assume de fato as limitações dos fracos, como em 8:13. O Textus Receptus e o Texto Bizantino acrescentam “como” (hōs) e trazem “tudo” com artigo; sem mudança de sentido."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "de todo modo",
+    "termo": "πάντως (pantōs)",
+    "titulo": "pantōs",
+    "texto": "“Por todos os meios” ou “de qualquer maneira”. Paulo adapta os costumes, não a mensagem: o conteúdo do evangelho permanece o mesmo (1:23; 2:2)."
+   }
+  ]
+ },
+ "1Co.9.23": {
+  "t": "Faço tudo por causa do evangelho, para ter parte nele com eles.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "para ter parte nele com eles",
+    "termo": "ἵνα συγκοινωνὸς αὐτοῦ γένωμαι",
+    "titulo": "synkoinōnos",
+    "texto": "Lit. “para tornar-me coparticipante dele”. O prefixo syn- (“com”) indica participar com os outros das bênçãos do evangelho; “com eles” foi suprido para explicitar o prefixo. Paulo não se coloca acima do evangelho, mas também precisa perseverar nele (vv. 24-27)."
+   }
+  ]
+ },
+ "1Co.9.24": {
+  "t": "Vocês não sabem que, no estádio, todos os que correm participam da corrida, mas só um recebe o prêmio? Corram de tal modo que o conquistem.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "no estádio",
+    "termo": "ἐν σταδίῳ (en stadiō)",
+    "titulo": "os Jogos Ístmicos",
+    "texto": "O stadion era a pista de corrida, de cerca de 190 metros. Perto de Corinto realizavam-se, de dois em dois anos, os Jogos Ístmicos, os mais importantes da Grécia depois dos Olímpicos. Os coríntios conheciam bem as imagens de corrida e de luta."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "o prêmio",
+    "termo": "τὸ βραβεῖον (to brabeion)",
+    "titulo": "brabeion, raro",
+    "texto": "Só aqui e em Fp 3:14: o prêmio dado ao vencedor. Paulo não ensina que só um crente será salvo; aplica a imagem ao empenho: corram como quem quer vencer."
+   }
+  ]
+ },
+ "1Co.9.25": {
+  "t": "Todo atleta se disciplina em tudo. Eles o fazem para receber uma coroa que se desfaz; nós, porém, uma que não se desfaz.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "se disciplina em tudo",
+    "termo": "πάντα ἐγκρατεύεται",
+    "titulo": "enkrateuomai, raro",
+    "texto": "O mesmo verbo de 7:9: dominar-se, abster-se. Os atletas dos jogos gregos treinavam por meses sob regras rígidas de alimentação e de conduta."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "uma coroa que se desfaz",
+    "termo": "φθαρτὸν στέφανον (phtharton stephanon)",
+    "titulo": "stephanos",
+    "texto": "O stephanos era a coroa de folhas dada ao vencedor dos jogos, que logo murchava. A coroa dos crentes é “que não se desfaz” (aphthartos), a vida eterna (2Tm 4:8; 1Pe 5:4)."
+   }
+  ]
+ },
+ "1Co.9.26": {
+  "t": "Assim, eu corro, mas não sem rumo; luto, mas não como quem dá socos no ar.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "não sem rumo",
+    "termo": "ὡς οὐκ ἀδήλως (hōs ouk adēlōs)",
+    "titulo": "adēlōs, hápax",
+    "texto": "Única ocorrência no NT: “de modo incerto”, sem alvo claro. Toinun (raro), no início do versículo, é “portanto, assim”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "luto, mas não como quem dá socos no ar",
+    "termo": "πυκτεύω ὡς οὐκ ἀέρα δέρων",
+    "titulo": "pykteuō, hápax",
+    "texto": "Pykteuō (hápax no NT) é “lutar boxe”. Dar socos no ar é o golpe que não acerta o adversário, ou o treino contra a sombra. Paulo luta a sério."
+   }
+  ]
+ },
+ "1Co.9.27": {
+  "t": "Ao contrário, castigo o meu corpo e o mantenho sob domínio, para que, depois de ter pregado a outros, eu mesmo não venha a ser reprovado.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "castigo o meu corpo",
+    "termo": "ὑπωπιάζω μου τὸ σῶμα",
+    "titulo": "hypōpiazō, raro",
+    "texto": "Lit. “dou um soco debaixo do olho”, deixar com o olho roxo (só aqui e em Lc 18:5, em sentido figurado). Continua a imagem do boxe: o adversário é o próprio corpo com seus desejos. Não é desprezo pelo corpo (6:13-20), mas disciplina."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "o mantenho sob domínio",
+    "termo": "δουλαγωγῶ (doulagōgō)",
+    "titulo": "doulagōgeō, hápax",
+    "texto": "Única ocorrência no NT: “levar como escravo”, como o vencedor leva o vencido. Lit. “escravizo-o”."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "eu mesmo não venha a ser reprovado",
+    "termo": "αὐτὸς ἀδόκιμος γένωμαι",
+    "titulo": "adokimos",
+    "texto": "Adokimos é o que não passa no teste, como a moeda falsa ou o atleta desclassificado. Discute-se se Paulo pensa na perda da salvação (o cap. 10 adverte com o exemplo de Israel, que pereceu no deserto) ou na perda da recompensa e da aprovação do seu ministério (cf. 3:15). A tradição arminiana tende à primeira leitura; a reformada, à segunda, ou entende a advertência como meio que Deus usa para preservar os seus. Em qualquer leitura, Paulo leva a sério o perigo e não presume a vitória sem perseverança."
    }
   ]
  }

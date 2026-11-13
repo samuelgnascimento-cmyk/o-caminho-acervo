@@ -14,7 +14,7 @@
     "ancora": "em Éfeso",
     "termo": "ἐν Ἐφέσῳ (en Ephesō)",
     "titulo": "ausente em manuscritos antigos",
-    "texto": "As palavras “em Éfeso” faltam em alguns dos manuscritos mais antigos (𝔓46 e, na forma original, os códices Sinaítico e Vaticano), e Orígenes e Basílio conheciam cópias sem elas. Marcião, no século II, chamava esta carta de “aos laodicenses”. Sem a expressão, o grego fica estranho (“aos santos que estão, e fiéis”), o que indica que algo estava escrito ali. Daí a hipótese de uma carta circular, enviada a várias igrejas da Ásia, com um espaço para o nome do destino; talvez seja a carta “de Laodiceia” de Cl 4:16. A grande maioria dos manuscritos traz “em Éfeso”, e as edições críticas (SBLGNT; o NA28 entre colchetes) mantêm as palavras. A APV as mantém, e esta nota registra a dúvida.",
+    "texto": "As palavras “em Éfeso” faltam em alguns dos manuscritos mais antigos (𝔓46 e, na forma original, os códices Sinaítico e Vaticano), e Orígenes e Basílio conheciam cópias sem elas. Marcião, no século II, chamava esta carta de “aos laodicenses”. Sem a expressão, o grego fica estranho (“aos santos que estão, e fiéis”), o que indica que algo estava escrito ali. Daí a hipótese de uma carta circular, enviada a várias igrejas da Ásia, com um espaço para o nome do destino; talvez seja a carta “de Laodiceia” de Cl 4:16. A grande maioria dos manuscritos traz “em Éfeso”, e todas as edições usadas pela APV mantêm as palavras no texto. A APV as mantém, e esta nota registra a dúvida.",
     "revisar": true
    },
    {
@@ -1091,6 +1091,1806 @@
     "termo": "ἐν πνεύματι (en pneumati)",
     "titulo": "Espírito",
     "texto": "Pode ser “pelo Espírito” (o agente) ou “no Espírito” (o modo da presença de Deus). As duas ideias se unem: Deus habita na igreja pela presença do seu Espírito."
+   }
+  ]
+ },
+ "Eph.3.1": {
+  "t": "Por esta razão eu, Paulo, o prisioneiro de Cristo Jesus em favor de vocês, os gentios...",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Por esta razão eu, Paulo",
+    "termo": "Τούτου χάριν ἐγὼ Παῦλος",
+    "titulo": "uma frase interrompida",
+    "texto": "Paulo começa uma oração, mas interrompe a frase para falar do seu ministério (vv. 2-13) e só a retoma no v. 14 com as mesmas palavras (“Por esta razão”). As reticências marcam essa interrupção. Alguns supõem um verbo implícito (“sou”), mas a retomada do v. 14 mostra que a frase ficou suspensa."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "o prisioneiro de Cristo Jesus",
+    "termo": "ὁ δέσμιος τοῦ Χριστοῦ Ἰησοῦ",
+    "titulo": "genitivo",
+    "texto": "Não é prisioneiro de Roma por crime, mas de Cristo: preso por causa dele e pertencente a ele. Paulo escreve da prisão (4:1; 6:20), provavelmente em Roma."
+   }
+  ]
+ },
+ "Eph.3.2": {
+  "t": "Certamente vocês ouviram falar da administração da graça de Deus que me foi dada em favor de vocês.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Certamente vocês ouviram falar",
+    "termo": "εἴ γε ἠκούσατε (ei ge ēkousate)",
+    "titulo": "“se é que ouviram”",
+    "texto": "Lit. “se é que ouviram”. Ei ge pode exprimir dúvida real ou certeza educada (“visto que, certamente”). A segunda leitura é a mais comum aqui, mas a forma indireta combina com leitores que não conheciam Paulo pessoalmente (1:15), como numa carta circular."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "administração",
+    "termo": "οἰκονομίαν (oikonomian)",
+    "titulo": "oikonomia",
+    "texto": "O encargo de um administrador de casa (Lc 16:2-4). Paulo recebeu de Deus a função de distribuir a graça aos gentios. A mesma palavra em 1:10 e 3:9 descreve o plano de Deus."
+   }
+  ]
+ },
+ "Eph.3.3": {
+  "t": "Por revelação me foi dado a conhecer o mistério, como acabei de escrever em poucas palavras.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "Por revelação me foi dado a conhecer",
+    "termo": "κατὰ ἀποκάλυψιν ἐγνωρίσθη μοι",
+    "titulo": "hoti",
+    "texto": "O SBLGNT não traz hoti (“que”) no início; o NA28, o THGNT, Westcott-Hort, Tregelles, o Textus Receptus e o Texto Bizantino o trazem (“que por revelação me foi dado...”), ligando o versículo ao anterior. O Textus Receptus e o Texto Bizantino trazem também a voz ativa egnōrise (“ele me deu a conhecer”). O sentido não muda."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "como acabei de escrever em poucas palavras",
+    "termo": "καθὼς προέγραψα ἐν ὀλίγῳ",
+    "titulo": "prographō",
+    "texto": "Lit. “como escrevi antes, em pouco”. Refere-se ao que já está nesta carta (1:9-10; 2:11-22), não a uma carta anterior perdida (cf. v. 4, “lendo isso”)."
+   }
+  ]
+ },
+ "Eph.3.4": {
+  "t": "Lendo isso, vocês podem perceber a minha compreensão do mistério de Cristo,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Lendo isso",
+    "termo": "πρὸς ὃ ... ἀναγινώσκοντες",
+    "titulo": "a leitura pública",
+    "texto": "Lit. “em vista do que, lendo”. A leitura das cartas era feita em voz alta na reunião da igreja (Cl 4:16; 1Ts 5:27)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "o mistério de Cristo",
+    "termo": "τῷ μυστηρίῳ τοῦ Χριστοῦ",
+    "titulo": "genitivo",
+    "texto": "O mistério que tem Cristo como conteúdo e centro: o plano de Deus, revelado nele, de unir judeus e gentios num só corpo (v. 6; cf. Cl 1:27)."
+   }
+  ]
+ },
+ "Eph.3.5": {
+  "t": "o qual, em outras gerações, não foi dado a conhecer aos filhos dos homens, como agora foi revelado pelo Espírito aos seus santos apóstolos e profetas:",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "como agora",
+    "termo": "ὡς νῦν (hōs nyn)",
+    "titulo": "diferença de grau ou de natureza?",
+    "texto": "Hōs pode indicar comparação de grau (“não com a clareza de agora”) ou contraste absoluto. Os profetas anunciaram a inclusão das nações (Gn 12:3; Is 49:6), mas não a forma que ela teria: gentios membros do mesmo corpo, em pé de igualdade, sem passar pela lei (v. 6). A leitura de grau é a mais provável."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "santos apóstolos e profetas",
+    "termo": "τοῖς ἁγίοις ἀποστόλοις αὐτοῦ καὶ προφήταις",
+    "titulo": "santos",
+    "texto": "“Santos” não é elogio pessoal, mas designação dos que Deus separou para si (1:1). Os profetas são os do NT, ao lado dos apóstolos, como em 2:20."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "filhos dos homens",
+    "termo": "τοῖς υἱοῖς τῶν ἀνθρώπων",
+    "titulo": "expressão hebraica",
+    "texto": "Expressão hebraica para “os seres humanos”. Mantida pela forma bíblica conhecida."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "pelo Espírito",
+    "termo": "ἐν πνεύματι (en pneumati)",
+    "titulo": "Espírito",
+    "texto": "É o Espírito Santo, que revela (1:17; 1Co 2:10). Pode ligar-se a “foi revelado” ou só a “profetas”; a tradução o liga ao verbo."
+   }
+  ]
+ },
+ "Eph.3.6": {
+  "t": "que os gentios são co-herdeiros, membros do mesmo corpo e coparticipantes da promessa em Cristo Jesus, por meio do evangelho.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "co-herdeiros, membros do mesmo corpo e coparticipantes",
+    "termo": "συγκληρονόμα καὶ σύσσωμα καὶ συμμέτοχα",
+    "titulo": "três palavras com syn-",
+    "texto": "As três palavras começam com syn- (“com”), insistindo na igualdade: herdeiros junto, corpo junto, participantes junto. Syssōmos é hápax, talvez criado por Paulo; symmetochos (raro) volta em 5:7. A tradução procura manter o “co-” repetido."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "da promessa em Cristo Jesus",
+    "termo": "τῆς ἐπαγγελίας ἐν Χριστῷ Ἰησοῦ",
+    "titulo": "acréscimos",
+    "texto": "O Textus Receptus e o Texto Bizantino trazem “da sua promessa em Cristo” (autou ... en tō Christō), sem “Jesus”. Sem efeito no sentido."
+   }
+  ]
+ },
+ "Eph.3.7": {
+  "t": "Desse evangelho eu me tornei ministro, segundo o dom da graça de Deus que me foi dada pela atuação do seu poder.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "ministro",
+    "termo": "διάκονος (diakonos)",
+    "titulo": "diakonos",
+    "texto": "“Servidor, agente”. Não é o ofício de diácono, mas o encargo de servir ao evangelho (Cl 1:23). “Ministro” é usado no sentido original de “quem serve”."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "eu me tornei",
+    "termo": "ἐγενήθην (egenēthēn)",
+    "titulo": "formas do verbo",
+    "texto": "O Textus Receptus e o Texto Bizantino trazem egenomēn (outra forma de “tornei-me”) e o acusativo tēn dotheisan, concordando com “dom”. Sem efeito na tradução."
+   }
+  ]
+ },
+ "Eph.3.8": {
+  "t": "A mim, o menor de todos os santos, foi dada esta graça de anunciar aos gentios a riqueza insondável de Cristo",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "o menor de todos os santos",
+    "termo": "τῷ ἐλαχιστοτέρῳ πάντων ἁγίων",
+    "titulo": "comparativo do superlativo",
+    "texto": "Elachistoteros é um comparativo formado sobre o superlativo elachistos (“mínimo”): “menor que o menor”. Paulo cria a forma para expressar humildade extrema, talvez lembrando que perseguiu a igreja (1Co 15:9)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "insondável",
+    "termo": "ἀνεξιχνίαστον (anexichniaston)",
+    "titulo": "anexichniastos, raro",
+    "texto": "Só aqui e em Rm 11:33. Lit. “sem rastro que se possa seguir”, que não se consegue rastrear até o fim. A riqueza de Cristo não se esgota pela investigação."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "aos gentios",
+    "termo": "τοῖς ἔθνεσιν (+ ἐν)",
+    "titulo": "en",
+    "texto": "O Textus Receptus e o Texto Bizantino trazem en tois ethnesin (“entre os gentios”) e o masculino ton ... plouton. Sem efeito no sentido."
+   }
+  ]
+ },
+ "Eph.3.9": {
+  "t": "e de trazer à luz, para todos, qual é a administração do mistério que, desde as eras, esteve oculto em Deus, que criou todas as coisas,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "trazer à luz",
+    "termo": "φωτίσαι (phōtisai)",
+    "titulo": "phōtizō",
+    "texto": "“Iluminar, esclarecer”. Paulo não só anuncia, mas faz ver o plano de Deus."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "para todos",
+    "termo": "πάντας (pantas)",
+    "titulo": "omissão",
+    "texto": "Alguns manuscritos antigos não trazem pantas, e a frase fica: “e de trazer à luz qual é a administração”. As edições críticas mantêm a palavra. Sem grande efeito no sentido."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "a administração do mistério",
+    "termo": "ἡ οἰκονομία τοῦ μυστηρίου",
+    "titulo": "acréscimos do TR",
+    "texto": "O Textus Receptus traz koinōnia (“comunhão”) em vez de oikonomia, e o Textus Receptus e o Texto Bizantino acrescentam no fim “por meio de Jesus Cristo” (dia Iēsou Christou). Os manuscritos mais antigos não trazem essas formas."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "desde as eras",
+    "termo": "ἀπὸ τῶν αἰώνων",
+    "titulo": "aiōnes",
+    "texto": "“Desde as eras”, isto é, desde sempre, através de todas as épocas. Alguns intérpretes leram aiōnes como seres espirituais (“escondido dos éons”), mas o paralelo com Cl 1:26 (“desde as eras e as gerações”) favorece o sentido temporal."
+   }
+  ]
+ },
+ "Eph.3.10": {
+  "t": "para que agora, por meio da igreja, a multiforme sabedoria de Deus seja dada a conhecer aos principados e às autoridades nas regiões celestiais,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "multiforme",
+    "termo": "πολυποίκιλος (polypoikilos)",
+    "titulo": "polypoikilos, hápax",
+    "texto": "“De muitas cores, ricamente variada”, como um bordado ou um tecido de muitos fios. A sabedoria de Deus se mostra na variedade de povos reunidos num só corpo."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "aos principados e às autoridades",
+    "termo": "ταῖς ἀρχαῖς καὶ ταῖς ἐξουσίαις",
+    "titulo": "a igreja diante dos poderes",
+    "texto": "Os mesmos poderes de 1:21 e 6:12. A própria existência da igreja, em que judeus e gentios vivem reconciliados, é uma proclamação aos seres espirituais, bons e maus, de que o plano de Deus triunfou."
+   }
+  ]
+ },
+ "Eph.3.11": {
+  "t": "segundo o propósito eterno que ele realizou em Cristo Jesus, nosso Senhor,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "o propósito eterno",
+    "termo": "πρόθεσιν τῶν αἰώνων",
+    "titulo": "“o propósito das eras”",
+    "texto": "Lit. “o propósito das eras”: o propósito que atravessa e governa todas as eras, ou que vem desde a eternidade."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "realizou",
+    "termo": "ἐποίησεν (epoiēsen)",
+    "titulo": "poieō",
+    "texto": "Pode ser “concebeu, formou” (o propósito estabelecido em Cristo antes do tempo) ou “executou” (o propósito cumprido na história de Cristo). “Realizou” favorece a segunda leitura, mais comum; a primeira também é possível."
+   }
+  ]
+ },
+ "Eph.3.12": {
+  "t": "em quem temos ousadia e acesso com confiança, por meio da fé nele.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "ousadia",
+    "termo": "παρρησίαν (parrēsian)",
+    "titulo": "parrēsia",
+    "texto": "Liberdade de falar, franqueza. Na corte, era o direito de falar diante do rei sem medo. Prosagōgē (“acesso”, raro) é a mesma palavra de 2:18."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "fé nele",
+    "termo": "τῆς πίστεως αὐτοῦ (tēs pisteōs autou)",
+    "titulo": "pistis Christou",
+    "texto": "Lit. “a fé dele”. Como em Gl 2:16, pode ser genitivo objetivo (“fé nele”) ou subjetivo (“a fidelidade dele”). A APV segue o objetivo, coerente com as outras passagens; os defensores do subjetivo observam que aqui a ideia de “acesso por meio da fidelidade de Cristo” também faz bom sentido."
+   }
+  ]
+ },
+ "Eph.3.13": {
+  "t": "Por isso peço que não desanimem por causa das minhas tribulações em favor de vocês, que são a glória de vocês.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "peço que não desanimem",
+    "termo": "αἰτοῦμαι μὴ ἐγκακεῖν",
+    "titulo": "quem não deve desanimar?",
+    "texto": "O infinitivo não tem sujeito expresso. Pode ser “peço que vocês não desanimem” ou “peço (a Deus) que eu não desanime”. O contexto (“em favor de vocês”, “glória de vocês”) favorece a primeira leitura."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "que são a glória de vocês",
+    "termo": "ἥτις ἐστὶν δόξα ὑμῶν",
+    "titulo": "o sofrimento como glória",
+    "texto": "O relativo singular concorda com “glória”, mas retoma as tribulações. O sofrimento de Paulo pelos gentios mostra o valor que eles têm para Deus; por isso é motivo de honra, não de vergonha."
+   }
+  ]
+ },
+ "Eph.3.14": {
+  "t": "Por esta razão, dobro os joelhos diante do Pai,",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "dobro os joelhos",
+    "termo": "κάμπτω τὰ γόνατά μου",
+    "titulo": "a postura",
+    "texto": "Os judeus oravam habitualmente de pé (Mc 11:25; Lc 18:11-13). Ajoelhar-se indicava intensidade e humildade especiais (1Rs 8:54; Dn 6:10; Lc 22:41; At 20:36). Retoma a frase interrompida no v. 1."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "diante do Pai",
+    "termo": "πρὸς τὸν πατέρα",
+    "titulo": "acréscimo do TR",
+    "texto": "O Textus Receptus e o Texto Bizantino acrescentam “de nosso Senhor Jesus Cristo”. Os manuscritos mais antigos não trazem."
+   }
+  ]
+ },
+ "Eph.3.15": {
+  "t": "de quem toda família nos céus e na terra recebe o nome,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "toda família",
+    "termo": "πᾶσα πατριὰ (pasa patria)",
+    "titulo": "patria, raro",
+    "texto": "Só aqui, em Lc 2:4 e At 3:25. Patria é “família, clã, linhagem” descendente de um mesmo pai. Há um jogo com patēr (“Pai”, v. 14) que o português não consegue reproduzir. A Vulgata traduziu paternitas (“paternidade”), e daí a leitura “toda paternidade”: toda paternidade vem de Deus, que é o Pai por excelência. Mas patria designa um grupo, não uma relação; por isso “família”. As famílias “nos céus” seriam os grupos de anjos."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "recebe o nome",
+    "termo": "ὀνομάζεται (onomazetai)",
+    "titulo": "dar nome",
+    "texto": "Dar nome era expressão de autoridade e origem (Gn 2:19-20; Sl 147:4). Toda família existe e se define a partir do Pai criador."
+   }
+  ]
+ },
+ "Eph.3.16": {
+  "t": "para que, segundo a riqueza da sua glória, ele lhes conceda serem fortalecidos com poder, por meio do seu Espírito, no homem interior,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "no homem interior",
+    "termo": "εἰς τὸν ἔσω ἄνθρωπον",
+    "titulo": "o homem interior",
+    "texto": "A pessoa no seu íntimo, que se renova dia a dia (2Co 4:16; Rm 7:22). Não é uma parte da pessoa em oposição ao corpo, mas a pessoa vista de dentro. “Homem” traduz anthrōpos, “ser humano”."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "lhes conceda",
+    "termo": "δῷ (dō)",
+    "titulo": "forma do verbo",
+    "texto": "O Textus Receptus e o Texto Bizantino trazem a forma dōē e o masculino ton plouton. Sem efeito na tradução."
+   }
+  ]
+ },
+ "Eph.3.17": {
+  "t": "para que Cristo habite, pela fé, no coração de vocês, e para que vocês, arraigados e alicerçados em amor,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "habite",
+    "termo": "κατοικῆσαι (katoikēsai)",
+    "titulo": "katoikeō",
+    "texto": "“Morar de modo permanente, estabelecer residência”, ao contrário de paroikeō (“morar como estrangeiro”). Cristo não é visitante, mas dono da casa."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "arraigados e alicerçados",
+    "termo": "ἐρριζωμένοι καὶ τεθεμελιωμένοι",
+    "titulo": "duas imagens",
+    "texto": "Uma imagem da agricultura (rhizoō, raro: também em Cl 2:7, “enraizar”) e outra da construção (themelioō, “pôr alicerce”). Os particípios no nominativo rompem a construção da frase, que segue no v. 18; a tradução liga os dois versículos com “para que vocês”."
+   }
+  ]
+ },
+ "Eph.3.18": {
+  "t": "possam compreender, com todos os santos, qual é a largura, o comprimento, a altura e a profundidade,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "possam",
+    "termo": "ἐξισχύσητε (exischysēte)",
+    "titulo": "exischyō, hápax",
+    "texto": "“Ser plenamente capaz, ter força suficiente”. Compreender isso exige um poder que vem de Deus (v. 16)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "a largura, o comprimento, a altura e a profundidade",
+    "termo": "τὸ πλάτος καὶ μῆκος καὶ ὕψος καὶ βάθος",
+    "titulo": "dimensões de quê?",
+    "texto": "Paulo não diz de quê. As propostas: o amor de Cristo (v. 19), que é a leitura mais comum; a sabedoria de Deus (Jó 11:5-9 usa dimensões semelhantes para ela); o mistério do plano de Deus; ou o novo templo (2:21), medido como a Jerusalém de Ez 40–48 e Ap 21:16. O texto deixa a ideia ampla de propósito. Mēkos (“comprimento”) é raro."
+   }
+  ]
+ },
+ "Eph.3.19": {
+  "t": "e conhecer o amor de Cristo, que excede todo conhecimento, para que vocês sejam cheios até toda a plenitude de Deus.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "conhecer o amor de Cristo, que excede todo conhecimento",
+    "termo": "γνῶναί τε τὴν ὑπερβάλλουσαν τῆς γνώσεως ἀγάπην τοῦ Χριστοῦ",
+    "titulo": "paradoxo",
+    "texto": "Conhecer o que excede o conhecimento: o paradoxo é intencional. Pode-se conhecer de verdade, por experiência, o amor de Cristo, sem jamais esgotá-lo."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "sejam cheios até toda a plenitude de Deus",
+    "termo": "πληρωθῆτε εἰς πᾶν τὸ πλήρωμα τοῦ θεοῦ",
+    "titulo": "eis",
+    "texto": "Eis pode indicar a medida (“até a medida da plenitude”) ou o conteúdo (“com toda a plenitude”). Não é uma divinização da pessoa, mas o enchimento pela presença de Deus (cf. 1:23; 4:13; 5:18). Alguns manuscritos antigos trazem “para que toda a plenitude de Deus se complete”, forma que as edições não adotam."
+   }
+  ]
+ },
+ "Eph.3.20": {
+  "t": "Àquele que é capaz de fazer infinitamente mais do que tudo o que pedimos ou pensamos, segundo o poder que atua em nós,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "infinitamente mais",
+    "termo": "ὑπερεκπερισσοῦ (hyperekperissou)",
+    "titulo": "um superlativo duplo",
+    "texto": "Palavra composta com duas preposições que intensificam (hyper, “acima”; ek, “para fora”) e perissos (“abundante”): “muitíssimo além de toda medida” (cf. 1Ts 3:10; 5:13). Precedida de hyper panta (“acima de tudo”), forma um acúmulo intencional."
+   }
+  ]
+ },
+ "Eph.3.21": {
+  "t": "a ele seja a glória na igreja e em Cristo Jesus, por todas as gerações, para todo o sempre. Amém.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "por todas as gerações, para todo o sempre",
+    "termo": "εἰς πάσας τὰς γενεὰς τοῦ αἰῶνος τῶν αἰώνων",
+    "titulo": "fórmula de eternidade",
+    "texto": "Lit. “para todas as gerações da era das eras”. A fórmula une a linguagem das gerações humanas com a da eternidade."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "na igreja e em Cristo Jesus",
+    "termo": "ἐν τῇ ἐκκλησίᾳ καὶ ἐν Χριστῷ Ἰησοῦ",
+    "titulo": "kai",
+    "texto": "O Textus Receptus e o Texto Bizantino omitem kai: “na igreja, em Cristo Jesus”. No texto crítico, a igreja e Cristo aparecem lado a lado como o lugar onde a glória de Deus se manifesta."
+   }
+  ]
+ },
+ "Eph.4.1": {
+  "t": "Por isso eu, o prisioneiro no Senhor, peço a vocês que vivam de modo digno do chamado que receberam,",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Por isso",
+    "termo": "οὖν (oun)",
+    "titulo": "da doutrina à prática",
+    "texto": "O oun (“portanto, por isso”) liga a segunda metade da carta (caps. 4–6, a conduta) à primeira (caps. 1–3, a obra de Deus). A vida cristã é resposta ao que Deus fez, não condição para recebê-lo."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "peço",
+    "termo": "Παρακαλῶ (Parakalō)",
+    "titulo": "parakaleō",
+    "texto": "“Exortar, rogar, encorajar”. Não é ordem seca, mas apelo insistente de quem tem autoridade e afeto."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "vivam",
+    "termo": "περιπατῆσαι (peripatēsai)",
+    "titulo": "peripateō",
+    "texto": "Lit. “andar”, metáfora hebraica para a conduta diária. O verbo é um fio condutor dos caps. 4–5 (4:17; 5:2, 8, 15)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "do chamado que receberam",
+    "termo": "τῆς κλήσεως ἧς ἐκλήθητε",
+    "titulo": "“o chamado com que foram chamados”",
+    "texto": "Lit. “do chamado com que foram chamados”. A repetição foi simplificada."
+   }
+  ]
+ },
+ "Eph.4.2": {
+  "t": "com toda humildade e mansidão, com paciência, suportando uns aos outros em amor,",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "humildade",
+    "termo": "ταπεινοφροσύνης (tapeinophrosynēs)",
+    "titulo": "uma virtude nova",
+    "texto": "Na cultura greco-romana, tapeinos descrevia o servil, o rebaixado. O cristianismo, a partir do exemplo de Cristo (Fp 2:3-8), fez da humildade uma virtude."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "suportando uns aos outros",
+    "termo": "ἀνεχόμενοι ἀλλήλων",
+    "titulo": "anechomai",
+    "texto": "“Aguentar, tolerar com paciência”. Supõe que haverá atritos reais; o amor não os nega, mas os suporta."
+   }
+  ]
+ },
+ "Eph.4.3": {
+  "t": "esforçando-se para manter a unidade do Espírito no vínculo da paz.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "manter a unidade do Espírito",
+    "termo": "τηρεῖν τὴν ἑνότητα τοῦ πνεύματος",
+    "titulo": "henotēs, raro",
+    "texto": "Henotēs (só aqui e no v. 13) é “unidade”. Os crentes não criam essa unidade, que é obra do Espírito; são chamados a guardá-la. “Esforçando-se” traduz spoudazō, “empenhar-se com diligência”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "vínculo",
+    "termo": "συνδέσμῳ (syndesmō)",
+    "titulo": "syndesmos",
+    "texto": "“Laço, ligamento” (Cl 2:19; 3:14). A paz é o que mantém a unidade amarrada."
+   }
+  ]
+ },
+ "Eph.4.4": {
+  "t": "Há um só corpo e um só Espírito, assim como também vocês foram chamados numa só esperança do seu chamado;",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "um só corpo e um só Espírito",
+    "termo": "ἓν σῶμα καὶ ἓν πνεῦμα",
+    "titulo": "sete vezes “um só”",
+    "texto": "Os vv. 4-6 enumeram sete realidades “únicas”, talvez a partir de uma confissão da igreja primitiva. Organizam-se em torno do Espírito (v. 4), do Senhor (v. 5) e do Pai (v. 6): a unidade da igreja reflete a unidade do Deus trino."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Há",
+    "termo": "ἓν σῶμα",
+    "titulo": "verbo acrescentado",
+    "texto": "O grego não tem verbo: “um só corpo e um só Espírito”. “Há” foi acrescentado para formar frase em português."
+   }
+  ]
+ },
+ "Eph.4.5": {
+  "t": "um só Senhor, uma só fé, um só batismo;",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "uma só fé",
+    "termo": "μία πίστις (mia pistis)",
+    "titulo": "fé crida ou fé que crê",
+    "texto": "Pode ser o conteúdo crido, comum a todos (como em 4:13), ou o ato de confiar no único Senhor. O paralelo com “um só Senhor” sugere a fé que tem nele o seu objeto, inseparável do conteúdo confessado."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "um só batismo",
+    "termo": "ἓν βάπτισμα (hen baptisma)",
+    "titulo": "qual batismo?",
+    "texto": "A maioria entende o batismo com água, rito de entrada comum a todos os crentes e ligado à confissão de “um só Senhor”. Alguns entendem o batismo no Espírito (1Co 12:13), que incorpora ao corpo. Os dois estão ligados no NT (At 2:38). A afirmação de que há “um só batismo” fala da unidade de todos em Cristo; não decide, por si, o debate sobre experiências posteriores de enchimento do Espírito (5:18)."
+   }
+  ]
+ },
+ "Eph.4.6": {
+  "t": "um só Deus e Pai de todos, que está acima de todos, por meio de todos e em todos.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "de todos",
+    "termo": "πάντων (pantōn)",
+    "titulo": "pessoas ou coisas",
+    "texto": "Pantōn pode ser masculino (“todas as pessoas”, isto é, os crentes) ou neutro (“todas as coisas”). Os três complementos (“acima de, por meio de, em”) descrevem a soberania, a ação e a presença de Deus. Não há panteísmo: Deus está “em” todos sem se confundir com eles."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "em todos",
+    "termo": "ἐν πᾶσιν (en pasin)",
+    "titulo": "acréscimo",
+    "texto": "O Textus Receptus acrescenta hymin (“em todos vocês”); outros manuscritos, hēmin (“em todos nós”). O texto mais antigo não traz pronome."
+   }
+  ]
+ },
+ "Eph.4.7": {
+  "t": "Mas a cada um de nós foi dada a graça, segundo a medida do dom de Cristo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "a graça",
+    "termo": "ἡ χάρις (hē charis)",
+    "titulo": "graça como dom",
+    "texto": "Aqui charis é a capacitação concreta que cada um recebe para servir, como em 3:7-8 e Rm 12:6. A unidade (vv. 4-6) não elimina a diversidade dos dons (vv. 7-11)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "segundo a medida do dom de Cristo",
+    "termo": "κατὰ τὸ μέτρον τῆς δωρεᾶς τοῦ Χριστοῦ",
+    "titulo": "genitivo",
+    "texto": "O dom que Cristo dá, na medida que ele decide (v. 8, “deu dons”)."
+   }
+  ]
+ },
+ "Eph.4.8": {
+  "t": "Por isso diz: “Subindo às alturas, levou cativo o cativeiro e deu dons aos homens”.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Subindo às alturas",
+    "termo": "ἀναβὰς εἰς ὕψος",
+    "titulo": "Salmo 68:18",
+    "texto": "Citação de Sl 68:18 (67:19 na LXX), que celebra Deus subindo ao seu monte depois da vitória. O hebraico e a Septuaginta dizem que ele “recebeu dons entre os homens”; Paulo diz “deu dons aos homens”. O Targum dos Salmos (paráfrase aramaica) também traz “deste dons”, aplicando o versículo a Moisés, que subiu ao Sinai e deu a lei ao povo; a Peshitta siríaca tem a mesma forma. Paulo pode seguir essa tradição interpretativa, ou entender que o vencedor recebe tributos para distribuí-los. Em todo caso, aplica a Cristo, ressuscitado e elevado, o que o salmo diz de Deus.",
+    "revisar": true
+   },
+   {
+    "tipo": "tn",
+    "ancora": "levou cativo o cativeiro",
+    "termo": "ᾐχμαλώτευσεν αἰχμαλωσίαν",
+    "titulo": "aichmalōteuō, hápax",
+    "texto": "Expressão hebraica, lit. “aprisionou um cativeiro”, isto é, “levou consigo prisioneiros”. Na imagem do triunfo, os cativos são os inimigos vencidos: os poderes de 1:21 e 6:12 (cf. Cl 2:15). Outros entendem os que eram cativos do pecado e agora seguem o vencedor. A forma literal guarda as duas leituras."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "diz",
+    "termo": "λέγει (legei)",
+    "titulo": "sujeito implícito",
+    "texto": "O sujeito não é expresso: “Deus diz” ou “a Escritura diz”. É a forma usual de introduzir uma citação."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "e deu dons",
+    "termo": "ἔδωκεν (+ καὶ)",
+    "titulo": "kai",
+    "texto": "Westcott-Hort, Tregelles, o Textus Receptus e o Texto Bizantino trazem kai antes de edōken (“e deu”). A tradução já usa “e”."
+   }
+  ]
+ },
+ "Eph.4.9": {
+  "t": "Ora, que significa “subiu”, senão que também desceu às regiões inferiores da terra?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "às regiões inferiores da terra",
+    "termo": "εἰς τὰ κατώτερα μέρη τῆς γῆς",
+    "titulo": "katōteros, hápax",
+    "texto": "Três leituras principais. (1) A descida ao mundo dos mortos entre a morte e a ressurreição, “as partes de baixo da terra” (cf. Sl 63:9; Rm 10:7; 1Pe 3:19), base de parte da tradição do artigo “desceu aos infernos” do Credo Apostólico. (2) A encarnação: “as regiões inferiores, isto é, a terra” (genitivo de aposição), em contraste com as “alturas”. (3) A descida de Cristo no Espírito, em Pentecostes, depois da ascensão, para dar os dons (defendida por G. B. Caird e W. H. Harris). A segunda é hoje a mais comum entre os comentaristas; a primeira é a mais antiga. A tradução literal deixa as três abertas.",
+    "revisar": true
+   },
+   {
+    "tipo": "tc",
+    "ancora": "também desceu",
+    "termo": "καὶ κατέβη",
+    "titulo": "prōton",
+    "texto": "O Textus Receptus e o Texto Bizantino acrescentam prōton (“primeiro desceu”), que favorece as leituras (1) e (2). Os manuscritos mais antigos não trazem."
+   }
+  ]
+ },
+ "Eph.4.10": {
+  "t": "Aquele que desceu é o mesmo que também subiu muito acima de todos os céus, para encher todas as coisas.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "para encher todas as coisas",
+    "termo": "ἵνα πληρώσῃ τὰ πάντα",
+    "titulo": "plēroō",
+    "texto": "Não é ocupar espaço, mas exercer sobre tudo o seu domínio e a sua presença (1:23). O que no AT se diz de Deus (Jr 23:24) se diz aqui de Cristo exaltado."
+   }
+  ]
+ },
+ "Eph.4.11": {
+  "t": "E ele mesmo deu uns como apóstolos, outros como profetas, outros como evangelistas, outros como pastores e mestres,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "pastores e mestres",
+    "termo": "τοὺς δὲ ποιμένας καὶ διδασκάλους",
+    "titulo": "um grupo ou dois?",
+    "texto": "Os quatro primeiros itens têm cada um o seu artigo (tous men ... tous de); os dois últimos estão sob um só artigo. Por isso muitos leem “pastores-mestres”, um único grupo com duas funções. Mas a regra gramatical que une termos sob um só artigo não se aplica com segurança a substantivos no plural; D. B. Wallace propõe que os grupos se sobrepõem: todo pastor ensina, mas nem todo mestre é pastor. A tradução “pastores e mestres” conserva a construção do grego e não decide. Poimēn (“pastor”, lit. “quem cuida de ovelhas”) só aqui designa líderes da igreja no NT; o verbo correspondente aparece para os presbíteros em At 20:28 e 1Pe 5:2.",
+    "revisar": true
+   },
+   {
+    "tipo": "tn",
+    "ancora": "deu",
+    "termo": "ἔδωκεν (edōken)",
+    "titulo": "os dons são pessoas",
+    "texto": "Retoma o “deu dons” do v. 8: os dons de Cristo à igreja são, aqui, as próprias pessoas que ele capacita e envia."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "apóstolos",
+    "termo": "ἀποστόλους ... προφήτας",
+    "titulo": "os ministérios continuam?",
+    "texto": "Os intérpretes divergem. Os cessacionistas entendem que apóstolos e profetas pertenciam à fase de fundamento da igreja (2:20; 3:5) e não continuam. Os continuístas, linha que a APV segue, observam que os dons são dados “até que todos cheguemos à unidade da fé” (v. 13) e que a profecia permanece na igreja (1Co 14), embora o papel dos apóstolos que viram o Ressuscitado e lançaram o fundamento seja único e não se repita."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "evangelistas",
+    "termo": "εὐαγγελιστάς (euangelistas)",
+    "titulo": "euangelistēs, raro",
+    "texto": "Só aqui, em At 21:8 (Filipe) e 2Tm 4:5 (Timóteo). Quem anuncia o evangelho onde ele ainda não chegou."
+   }
+  ]
+ },
+ "Eph.4.12": {
+  "t": "para equipar os santos para a obra do ministério, para a edificação do corpo de Cristo,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "para equipar os santos para a obra do ministério",
+    "termo": "πρὸς τὸν καταρτισμὸν τῶν ἁγίων εἰς ἔργον διακονίας",
+    "titulo": "uma vírgula decisiva",
+    "texto": "Lido como três finalidades paralelas (“para o aperfeiçoamento dos santos, para a obra do ministério, para a edificação”), o texto atribui o ministério aos líderes do v. 11. Lido como uma sequência, os líderes equipam os santos, e os santos fazem a obra do serviço. A troca de preposições (pros, depois eis, eis) e o v. 16 (“cada parte”) favorecem a segunda leitura, adotada aqui. A primeira tem defensores (T. D. Gordon, por exemplo), sobretudo pela ênfase no papel dos ministros da Palavra."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "equipar",
+    "termo": "καταρτισμὸν (katartismon)",
+    "titulo": "katartismos, hápax",
+    "texto": "Do verbo katartizō, “consertar redes”, “recolocar um osso no lugar”, “preparar, deixar em condições” (Gl 6:1; Hb 13:21). “Aperfeiçoar” (ARC) perde a ideia de preparação para o serviço."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "ministério",
+    "termo": "διακονίας (diakonias)",
+    "titulo": "diakonia",
+    "texto": "“Serviço”, em sentido amplo. Não designa só o trabalho dos líderes, mas todo serviço feito no corpo."
+   }
+  ]
+ },
+ "Eph.4.13": {
+  "t": "até que todos cheguemos à unidade da fé e do pleno conhecimento do Filho de Deus, à maturidade de um homem adulto, à medida da estatura da plenitude de Cristo,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "à maturidade de um homem adulto",
+    "termo": "εἰς ἄνδρα τέλειον",
+    "titulo": "anēr teleios",
+    "texto": "Lit. “a um homem perfeito”. Teleios é “completo, maduro, adulto”, em contraste com “crianças” (v. 14). O singular não descreve só indivíduos, mas a igreja como um todo, que cresce para a maturidade de Cristo."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "estatura",
+    "termo": "ἡλικίας (hēlikias)",
+    "titulo": "hēlikia",
+    "texto": "Pode ser “estatura” ou “idade”, “maturidade” (Lc 2:52). O contexto de crescimento favorece a estatura plena."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "unidade",
+    "termo": "ἑνότητα (henotēta)",
+    "titulo": "a unidade como meta",
+    "texto": "No v. 3 a unidade do Espírito já existe e deve ser guardada; aqui a unidade da fé e do conhecimento é meta a alcançar. As duas convivem."
+   }
+  ]
+ },
+ "Eph.4.14": {
+  "t": "para que não sejamos mais crianças, agitados pelas ondas e levados de um lado para outro por todo vento de doutrina, pela trapaça dos homens, pela astúcia que leva às ciladas do erro.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "agitados pelas ondas",
+    "termo": "κλυδωνιζόμενοι (klydōnizomenoi)",
+    "titulo": "klydōnizomai, hápax",
+    "texto": "“Ser jogado pelas ondas”, como um barco sem leme (cf. Tg 1:6). Peripherō (raro) é “ser levado de um lado para outro”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "trapaça",
+    "termo": "κυβείᾳ (kybeia)",
+    "titulo": "kybeia, hápax",
+    "texto": "Lit. “jogo de dados”, e daí a fraude do jogador que vicia os dados. Imagem de ensinadores que manipulam."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "às ciladas do erro",
+    "termo": "πρὸς τὴν μεθοδείαν τῆς πλάνης",
+    "titulo": "methodeia, raro",
+    "texto": "Só aqui e em 6:11 (“as ciladas do diabo”). É o plano astuto, o método calculado para enganar. Planē é o erro que desvia do caminho."
+   }
+  ]
+ },
+ "Eph.4.15": {
+  "t": "Antes, seguindo a verdade em amor, cresçamos em tudo para aquele que é a cabeça, Cristo,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "seguindo a verdade em amor",
+    "termo": "ἀληθεύοντες ... ἐν ἀγάπῃ",
+    "titulo": "alētheuō, raro",
+    "texto": "Só aqui e em Gl 4:16. Pode ser “falar a verdade” ou, mais amplamente, “ser fiel à verdade, viver na verdade”. Em contraste com o engano do v. 14, a ideia é apegar-se à verdade do evangelho e expressá-la em palavras e vida. “Seguindo a verdade” cobre o falar e o viver; “falando a verdade” também é tradução possível."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "cresçamos em tudo para aquele",
+    "termo": "αὐξήσωμεν εἰς αὐτὸν τὰ πάντα",
+    "titulo": "direção do crescimento",
+    "texto": "Cristo é a meta do crescimento (“para ele”) e, no v. 16, a sua fonte (“de quem”)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Cristo",
+    "termo": "Χριστός",
+    "titulo": "artigo",
+    "texto": "O Textus Receptus e o Texto Bizantino trazem o artigo (ho Christos). Sem efeito na tradução."
+   }
+  ]
+ },
+ "Eph.4.16": {
+  "t": "de quem todo o corpo, bem ajustado e unido por todas as juntas que o suprem, segundo a atuação proporcional de cada parte, realiza o seu crescimento para a sua própria edificação em amor.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "todas as juntas que o suprem",
+    "termo": "διὰ πάσης ἁφῆς τῆς ἐπιχορηγίας",
+    "titulo": "haphē e epichorēgia, raros",
+    "texto": "Lit. “por toda junta do suprimento”. Haphē (só aqui e em Cl 2:19) é “ligamento, articulação”; epichorēgia (também em Fp 1:19), “suprimento, provisão”. A imagem é fisiológica: as juntas transmitem ao corpo o que vem da cabeça. Alguns entendem que as “juntas” são os líderes do v. 11; outros, todos os membros."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "segundo a atuação proporcional de cada parte",
+    "termo": "κατ᾽ ἐνέργειαν ἐν μέτρῳ ἑνὸς ἑκάστου μέρους",
+    "titulo": "“na medida de cada parte”",
+    "texto": "Lit. “segundo a atuação, na medida de cada parte”. Cada membro contribui segundo o que recebeu (v. 7)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "bem ajustado e unido",
+    "termo": "συναρμολογούμενον καὶ συμβιβαζόμενον",
+    "titulo": "dois particípios",
+    "texto": "Synarmologeō (raro) é o mesmo verbo de 2:21, “ajustar com precisão”; symbibazō, “unir, juntar”. A imagem passa do edifício ao corpo. Auxēsis (“crescimento”) é raro (também em Cl 2:19)."
+   }
+  ]
+ },
+ "Eph.4.17": {
+  "t": "Isto, pois, eu digo e testemunho no Senhor: que vocês não vivam mais como vivem os gentios, na futilidade da sua mente,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "futilidade",
+    "termo": "ματαιότητι (mataiotēti)",
+    "titulo": "mataiotēs, raro",
+    "texto": "Só aqui, em Rm 8:20 e 2Pe 2:18. Na Septuaginta de Eclesiastes, é a “vaidade” (hebraico hebel, “vapor”). Uma mente que gira em torno do vazio, sem chegar a Deus."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "como vivem os gentios",
+    "termo": "καθὼς καὶ τὰ ἔθνη περιπατεῖ",
+    "titulo": "gentios",
+    "texto": "Os leitores são gentios de nascimento, mas Paulo fala dos “gentios” como os que estão fora do povo de Deus: na igreja, eles já não pertencem a esse grupo (2:11-19)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "os gentios",
+    "termo": "τὰ ἔθνη (+ λοιπὰ)",
+    "titulo": "acréscimo",
+    "texto": "O Textus Receptus e o Texto Bizantino trazem ta loipa ethnē (“os demais gentios”). Os manuscritos mais antigos não trazem loipa."
+   }
+  ]
+ },
+ "Eph.4.18": {
+  "t": "Eles têm o entendimento obscurecido e estão afastados da vida de Deus por causa da ignorância que há neles, por causa do endurecimento do seu coração.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "endurecimento",
+    "termo": "πώρωσιν (pōrōsin)",
+    "titulo": "pōrōsis, raro",
+    "texto": "Só aqui, em Mc 3:5 e Rm 11:25. Da palavra pōros, a calosidade ou a pedra: um coração que perdeu a sensibilidade. A ignorância não é inocente; vem de um coração fechado."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "afastados da vida de Deus",
+    "termo": "ἀπηλλοτριωμένοι τῆς ζωῆς τοῦ θεοῦ",
+    "titulo": "apallotrioō",
+    "texto": "O mesmo verbo de 2:12 (“excluídos da cidadania de Israel”). A vida que vem de Deus e que ele mesmo possui."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "têm o entendimento obscurecido",
+    "termo": "ἐσκοτωμένοι τῇ διανοίᾳ",
+    "titulo": "forma do verbo",
+    "texto": "O Textus Receptus e o Texto Bizantino trazem eskotismenoi, de skotizō, sinônimo de skotoō (raro). Sem efeito na tradução."
+   }
+  ]
+ },
+ "Eph.4.19": {
+  "t": "Tendo perdido toda a sensibilidade, entregaram-se à devassidão, para praticarem com avidez toda espécie de impureza.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Tendo perdido toda a sensibilidade",
+    "termo": "ἀπηλγηκότες (apēlgēkotes)",
+    "titulo": "apalgeō, hápax",
+    "texto": "“Deixar de sentir dor”: como a pele calejada que não sente mais nada. Moralmente, a consciência que já não reage. Retoma o “endurecimento” do v. 18."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "com avidez",
+    "termo": "ἐν πλεονεξίᾳ (en pleonexia)",
+    "titulo": "pleonexia",
+    "texto": "Lit. “com cobiça”: o desejo insaciável de ter mais. Pode ser o modo (“insaciavelmente”) ou um vício a mais, a ganância. A tradução fica com o modo, que se liga à impureza."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "devassidão",
+    "termo": "ἀσελγείᾳ (aselgeia)",
+    "titulo": "aselgeia",
+    "texto": "Comportamento desenfreado e sem vergonha (Gl 5:19). Paulo diz que eles “se entregaram”; em Rm 1:24 é Deus quem os entrega. As duas coisas acontecem juntas."
+   }
+  ]
+ },
+ "Eph.4.20": {
+  "t": "Mas não foi assim que vocês aprenderam Cristo,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "aprenderam Cristo",
+    "termo": "ἐμάθετε τὸν Χριστόν (emathete ton Christon)",
+    "titulo": "aprender uma pessoa",
+    "texto": "Construção incomum: não “aprenderam sobre Cristo”, mas “aprenderam Cristo”. O conteúdo do ensino é uma pessoa, e aprender é conhecê-la e seguir o seu caminho. A tradução mantém a forma literal."
+   }
+  ]
+ },
+ "Eph.4.21": {
+  "t": "se é que de fato ouviram falar dele e nele foram ensinados, conforme a verdade que está em Jesus:",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "ouviram falar dele",
+    "termo": "αὐτὸν ἠκούσατε",
+    "titulo": "ouvir a ele",
+    "texto": "Lit. “o ouviram”. Os leitores não ouviram Jesus em pessoa; ouviram-no na pregação, em que Cristo mesmo fala (2:17). “Ouviram falar dele” é mais natural, mas a nota guarda o sentido mais forte."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "conforme a verdade que está em Jesus",
+    "termo": "καθώς ἐστιν ἀλήθεια ἐν τῷ Ἰησοῦ",
+    "titulo": "Jesus",
+    "texto": "Única vez na carta em que o nome “Jesus” aparece sozinho. O acento recai sobre o Jesus histórico: a verdade cristã está ancorada na vida, morte e ressurreição dessa pessoa concreta."
+   }
+  ]
+ },
+ "Eph.4.22": {
+  "t": "que, quanto ao modo de vida anterior, vocês se despojem do velho homem, que se corrompe segundo os desejos enganosos,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "vocês se despojem",
+    "termo": "ἀποθέσθαι ὑμᾶς (apothesthai hymas)",
+    "titulo": "ordem ou fato?",
+    "texto": "Os infinitivos dos vv. 22-24 dependem de “foram ensinados” (v. 21). Podem expressar o conteúdo de uma ordem (“foram ensinados a se despojar”) ou um fato já realizado (“foram ensinados que se despojaram”, cf. Cl 3:9-10, onde é particípio passado). O tom exortativo do contexto favorece a leitura de ordem, mas o “velho homem” já foi crucificado com Cristo (Rm 6:6): os crentes devem viver o que já se tornaram."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "velho homem",
+    "termo": "τὸν παλαιὸν ἄνθρωπον",
+    "titulo": "anthrōpos",
+    "texto": "A pessoa como era antes de Cristo, ligada a Adão e à era velha. Não é uma “parte” da pessoa, mas o modo de existência anterior. Mantida a expressão tradicional, que volta em 4:24 (“novo homem”)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "os desejos enganosos",
+    "termo": "τὰς ἐπιθυμίας τῆς ἀπάτης",
+    "titulo": "“os desejos do engano”",
+    "texto": "Lit. “os desejos do engano”: desejos que enganam, prometendo vida e trazendo corrupção. Contrasta com “a verdade” (vv. 21, 24)."
+   }
+  ]
+ },
+ "Eph.4.23": {
+  "t": "e se renovem no espírito da mente de vocês,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "se renovem",
+    "termo": "ἀνανεοῦσθαι (ananeousthai)",
+    "titulo": "ananeoomai, hápax",
+    "texto": "Presente passivo: “ser renovado” de modo contínuo. A renovação é obra de Deus, mas os crentes são chamados a se abrir a ela."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "no espírito da mente de vocês",
+    "termo": "τῷ πνεύματι τοῦ νοὸς ὑμῶν",
+    "titulo": "espírito humano",
+    "texto": "O espírito humano, a disposição interior que orienta a mente. Alguns entendem o Espírito Santo (“pelo Espírito, na mente de vocês”), mas o genitivo “da mente de vocês” favorece o sentido humano. Por isso minúscula."
+   }
+  ]
+ },
+ "Eph.4.24": {
+  "t": "e se revistam do novo homem, criado segundo Deus em justiça e santidade da verdade.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "criado segundo Deus",
+    "termo": "τὸν κατὰ θεὸν κτισθέντα",
+    "titulo": "a imagem de Deus",
+    "texto": "“Segundo Deus”, isto é, à semelhança de Deus: eco de Gn 1:26-27. Cl 3:10 diz “segundo a imagem daquele que o criou”. O novo homem é a humanidade restaurada em Cristo, que é a imagem de Deus."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "santidade da verdade",
+    "termo": "ὁσιότητι τῆς ἀληθείας",
+    "titulo": "hosiotēs, raro",
+    "texto": "Hosiotēs (só aqui e em Lc 1:75) é a piedade, a santidade diante de Deus. “Da verdade” pode ser adjetivo (“verdadeira”), em contraste com “os desejos do engano” (v. 22). A tradução literal conserva o contraste."
+   }
+  ]
+ },
+ "Eph.4.25": {
+  "t": "Por isso, deixando a mentira, cada um fale a verdade com o seu próximo, pois somos membros uns dos outros.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "fale a verdade com o seu próximo",
+    "termo": "λαλεῖτε ἀλήθειαν ἕκαστος μετὰ τοῦ πλησίον αὐτοῦ",
+    "titulo": "Zacarias 8:16",
+    "texto": "Palavras de Zc 8:16 conforme a Septuaginta, onde “próximo” é o companheiro do povo da aliança. Aqui o motivo é a unidade do corpo: mentir ao irmão é como um membro enganar outro."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "deixando",
+    "termo": "ἀποθέμενοι (apothemenoi)",
+    "titulo": "apotithēmi",
+    "texto": "O mesmo verbo de 4:22 (“despojar-se”), a imagem de tirar uma roupa velha. “A mentira” (to pseudos) pode ser cada mentira ou a grande mentira da vida sem Deus (Rm 1:25)."
+   }
+  ]
+ },
+ "Eph.4.26": {
+  "t": "“Irem-se, e não pequem”; não se ponha o sol sobre a sua ira,",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Irem-se, e não pequem",
+    "termo": "ὀργίζεσθε καὶ μὴ ἁμαρτάνετε",
+    "titulo": "Salmo 4:4",
+    "texto": "Citação de Sl 4:4 (4:5 na LXX), segundo a Septuaginta; o hebraico diz “tremam e não pequem”. O primeiro imperativo é concessivo: não ordena a ira, mas reconhece que ela pode surgir, e manda que não se transforme em pecado."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "não se ponha o sol sobre a sua ira",
+    "termo": "ὁ ἥλιος μὴ ἐπιδυέτω ἐπὶ παροργισμῷ ὑμῶν",
+    "titulo": "epidyō e parorgismos, hápax",
+    "texto": "Epidyō é “pôr-se” (o sol); parorgismos, a irritação, a ira provocada. O dia judaico terminava ao pôr do sol: a ira não deve passar para o dia seguinte (cf. Dt 24:15)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "sobre a sua ira",
+    "termo": "ἐπὶ παροργισμῷ (+ τῷ)",
+    "titulo": "artigo",
+    "texto": "O NA28, o Textus Receptus e o Texto Bizantino trazem o artigo (tō parorgismō). Sem efeito na tradução."
+   }
+  ]
+ },
+ "Eph.4.27": {
+  "t": "nem deem lugar ao diabo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "lugar",
+    "termo": "τόπον (topon)",
+    "titulo": "topos",
+    "texto": "“Lugar, espaço, oportunidade” (Rm 12:19; Hb 12:17). A ira guardada abre uma brecha para o diabo agir na vida da pessoa e da comunidade."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "nem",
+    "termo": "μηδὲ (mēde)",
+    "titulo": "mēde ou mēte",
+    "texto": "O Textus Receptus traz mēte, de mesmo sentido."
+   }
+  ]
+ },
+ "Eph.4.28": {
+  "t": "Quem roubava não roube mais; antes, trabalhe com esforço, fazendo com as próprias mãos o que é bom, para que tenha o que repartir com quem passa necessidade.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Quem roubava",
+    "termo": "ὁ κλέπτων (ho kleptōn)",
+    "titulo": "particípio presente",
+    "texto": "Lit. “o que rouba”. O particípio presente funciona como substantivo (“o ladrão”), e o “não mais” indica que se trata de um hábito anterior. “Quem roubava” evita sugerir que haja ladrões ativos na igreja, mas a nota registra a forma do grego."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "para que tenha o que repartir",
+    "termo": "ἵνα ἔχῃ μεταδιδόναι",
+    "titulo": "o objetivo do trabalho",
+    "texto": "O objetivo do trabalho não é só o sustento próprio, mas a generosidade. O antigo ladrão, que tirava dos outros, passa a dar aos outros."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "com as próprias mãos",
+    "termo": "ταῖς ἰδίαις χερσὶν",
+    "titulo": "idiais",
+    "texto": "O Textus Receptus e o Texto Bizantino omitem idiais (“próprias”) e mudam a ordem. Sem efeito no sentido."
+   }
+  ]
+ },
+ "Eph.4.29": {
+  "t": "Nenhuma palavra podre saia da boca de vocês, mas apenas a que for boa para edificar, conforme a necessidade, para que transmita graça aos que a ouvem.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "podre",
+    "termo": "σαπρὸς (sapros)",
+    "titulo": "sapros",
+    "texto": "Usado para fruto ou peixe estragado (Mt 7:17; 13:48). Não só palavrões, mas toda fala que corrompe e destrói."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "conforme a necessidade",
+    "termo": "πρὸς οἰκοδομὴν τῆς χρείας",
+    "titulo": "“para edificação da necessidade”",
+    "texto": "Lit. “boa para edificação da necessidade”: a palavra que edifica de acordo com o que a situação e a pessoa precisam."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "transmita graça",
+    "termo": "δῷ χάριν (dō charin)",
+    "titulo": "charis",
+    "texto": "Pode ser “faça bem” (sentido comum de dar charis) ou “comunique graça” no sentido teológico. A palavra boa é meio pelo qual Deus abençoa quem ouve."
+   }
+  ]
+ },
+ "Eph.4.30": {
+  "t": "E não entristeçam o Espírito Santo de Deus, no qual vocês foram selados para o dia da redenção.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "não entristeçam o Espírito Santo",
+    "termo": "μὴ λυπεῖτε τὸ πνεῦμα τὸ ἅγιον",
+    "titulo": "Isaías 63:10",
+    "texto": "Eco de Is 63:10: “eles se rebelaram e entristeceram o seu Santo Espírito”. Só uma pessoa pode ser entristecida: o versículo é um dos textos que mostram o Espírito como pessoa, não como força impessoal. O contexto (vv. 25-32) liga a tristeza do Espírito aos pecados da língua que ferem a comunhão."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "no qual vocês foram selados",
+    "termo": "ἐν ᾧ ἐσφραγίσθητε",
+    "titulo": "o selo",
+    "texto": "Retoma 1:13. En hō pode ser “no qual” ou “pelo qual”. O selo garante que os crentes pertencem a Deus até a redenção final."
+   }
+  ]
+ },
+ "Eph.4.31": {
+  "t": "Toda amargura, cólera, ira, gritaria e insulto sejam afastados de vocês, com toda maldade.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "cólera, ira",
+    "termo": "θυμὸς καὶ ὀργὴ (thymos kai orgē)",
+    "titulo": "dois tipos de raiva",
+    "texto": "Thymos é a explosão de raiva; orgē, a ira mais duradoura. A lista vai da raiz interior (amargura) até a expressão exterior (gritaria, insulto)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "insulto",
+    "termo": "βλασφημία (blasphēmia)",
+    "titulo": "blasphēmia",
+    "texto": "Dirigida a Deus, é “blasfêmia”; dirigida a pessoas, como aqui, é difamação, ofensa verbal. Por isso “insulto”."
+   }
+  ]
+ },
+ "Eph.4.32": {
+  "t": "Sejam bondosos e compassivos uns com os outros, perdoando-se mutuamente, assim como também Deus os perdoou em Cristo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "perdoando-se",
+    "termo": "χαριζόμενοι (charizomenoi)",
+    "titulo": "charizomai",
+    "texto": "Da raiz de charis (“graça”): perdoar de graça, sem exigir pagamento. O perdão entre irmãos imita o perdão gratuito de Deus."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "compassivos",
+    "termo": "εὔσπλαγχνοι (eusplanchnoi)",
+    "titulo": "eusplanchnos, raro",
+    "texto": "Só aqui e em 1Pe 3:8. Lit. “de boas entranhas”, que para os antigos eram a sede dos sentimentos: de coração terno."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Sejam",
+    "termo": "γίνεσθε (+ δὲ)",
+    "titulo": "de; vocês ou nós",
+    "texto": "O NA28, o THGNT, Westcott-Hort, Tregelles, o Textus Receptus e o Texto Bizantino trazem de (“mas, e”) no início; o SBLGNT omite. O Texto Bizantino traz hēmin (“nos perdoou”) em vez de hymin (“os perdoou”). Sem grande efeito no sentido."
+   }
+  ]
+ },
+ "Eph.5.1": {
+  "t": "Portanto, sejam imitadores de Deus, como filhos amados,",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "imitadores de Deus",
+    "termo": "μιμηταὶ τοῦ θεοῦ",
+    "titulo": "imitar a Deus",
+    "texto": "Única vez no NT em que se fala de imitar diretamente a Deus (Paulo costuma falar em imitar a ele mesmo ou a Cristo: 1Co 11:1). O ponto de partida é 4:32: perdoar como Deus perdoou. Filhos imitam o pai que os ama."
+   }
+  ]
+ },
+ "Eph.5.2": {
+  "t": "e vivam em amor, assim como também Cristo nos amou e se entregou por nós como oferta e sacrifício a Deus, em aroma suave.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "em aroma suave",
+    "termo": "εἰς ὀσμὴν εὐωδίας (eis osmēn euōdias)",
+    "titulo": "linguagem do culto",
+    "texto": "Expressão dos sacrifícios do AT (Gn 8:21; Êx 29:18; Lv 1:9), dita da oferta que Deus aceita com agrado. Euōdia é raro no NT (também em 2Co 2:15 e Fp 4:18). A morte de Cristo é apresentada como o sacrifício perfeito, e o amor dos crentes deve seguir esse padrão."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "vivam",
+    "termo": "περιπατεῖτε (peripateite)",
+    "titulo": "peripateō",
+    "texto": "Lit. “andem”. A conduta diária é o lugar do amor."
+   }
+  ]
+ },
+ "Eph.5.3": {
+  "t": "Mas imoralidade sexual e toda impureza ou ganância nem sequer sejam mencionadas entre vocês, como convém a santos;",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "nem sequer sejam mencionadas",
+    "termo": "μηδὲ ὀνομαζέσθω",
+    "titulo": "onomazō",
+    "texto": "Lit. “nem seja nomeada”. Não proíbe falar desses pecados para ensinar ou corrigir, mas que haja motivo para associá-los à comunidade."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "ganância",
+    "termo": "πλεονεξία (pleonexia)",
+    "titulo": "pleonexia",
+    "texto": "O desejo insaciável de ter mais. Ao lado de pecados sexuais, alguns entendem a cobiça sexual; mas o v. 5 (“que é idólatra”) e Cl 3:5 indicam a ganância em geral, que põe o desejo no lugar de Deus."
+   }
+  ]
+ },
+ "Eph.5.4": {
+  "t": "nem obscenidade, nem conversa tola, nem gracejos grosseiros, que não convêm; antes, ação de graças.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "obscenidade, nem conversa tola, nem gracejos grosseiros",
+    "termo": "αἰσχρότης καὶ μωρολογία ἢ εὐτραπελία",
+    "titulo": "três hápax",
+    "texto": "Aischrotēs é o que é vergonhoso, a obscenidade; mōrologia, a conversa de tolo; eutrapelia, lit. “agilidade em virar as palavras”. Aristóteles (Ética a Nicômaco, livro IV) via a eutrapelia como virtude, a espirituosidade entre a grosseria e a palhaçada; mas a palavra também era usada para a piada maliciosa e de duplo sentido, que é o sentido aqui. Há jogo com eucharistia (“ação de graças”): em vez do gracejo (eu-trapelia), a gratidão (eu-charistia)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "que não convêm",
+    "termo": "ἃ οὐκ ἀνῆκεν",
+    "titulo": "anēkō, raro",
+    "texto": "Só aqui, em Cl 3:18 e Fm 8. “Ser apropriado”. O Textus Receptus e o Texto Bizantino trazem ta ouk anēkonta, de mesmo sentido."
+   }
+  ]
+ },
+ "Eph.5.5": {
+  "t": "Pois disto vocês podem ter certeza: nenhum imoral, impuro ou ganancioso, que é idólatra, tem herança no Reino de Cristo e de Deus.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "disto vocês podem ter certeza",
+    "termo": "τοῦτο γὰρ ἴστε γινώσκοντες",
+    "titulo": "dois verbos de saber",
+    "texto": "Lit. “isto sabeis, conhecendo”. A repetição dos verbos de saber, ao modo hebraico, dá ênfase. Iste pode ser indicativo (“vocês sabem”) ou imperativo (“saibam”)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "que é idólatra",
+    "termo": "ὅ ἐστιν εἰδωλολάτρης",
+    "titulo": "a ganância como idolatria",
+    "texto": "O ganancioso serve aos bens como a um deus (Cl 3:5; Mt 6:24). O pronome neutro (ho, “o que”) pode referir-se só ao ganancioso ou aos três."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "no Reino de Cristo e de Deus",
+    "termo": "ἐν τῇ βασιλείᾳ τοῦ Χριστοῦ καὶ θεοῦ",
+    "titulo": "um só artigo",
+    "texto": "Um único artigo une “Cristo” e “Deus”. Alguns veem aqui a afirmação de que Cristo é Deus (como em Tt 2:13), mas, com nomes próprios e títulos, a construção não exige isso. O mais provável é que se fale de um único Reino, que é ao mesmo tempo de Cristo e de Deus (1Co 15:24-28)."
+   }
+  ]
+ },
+ "Eph.5.6": {
+  "t": "Que ninguém os engane com palavras vazias, pois é por causa dessas coisas que a ira de Deus vem sobre os filhos da desobediência.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "vem",
+    "termo": "ἔρχεται (erchetai)",
+    "titulo": "presente",
+    "texto": "O presente pode indicar a ira que já se manifesta na história (Rm 1:18) ou o juízo futuro, certo como se já estivesse vindo (Cl 3:6). As duas ideias cabem."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "palavras vazias",
+    "termo": "κενοῖς λόγοις",
+    "titulo": "quem engana?",
+    "texto": "Provavelmente quem dizia que esses pecados não tinham importância para quem é salvo pela graça. Apataō (“enganar”) é raro (também em 1Tm 2:14 e Tg 1:26)."
+   }
+  ]
+ },
+ "Eph.5.7": {
+  "t": "Portanto, não se tornem participantes com eles.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "participantes",
+    "termo": "συμμέτοχοι (symmetochoi)",
+    "titulo": "symmetochos, raro",
+    "texto": "A mesma palavra de 3:6, onde os gentios são “coparticipantes da promessa”. Quem participa da promessa não deve participar da desobediência."
+   }
+  ]
+ },
+ "Eph.5.8": {
+  "t": "Pois antes vocês eram trevas, mas agora são luz no Senhor. Vivam como filhos da luz",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "vocês eram trevas",
+    "termo": "ἦτε γάρ ποτε σκότος",
+    "titulo": "não “nas trevas”",
+    "texto": "Paulo não diz que estavam nas trevas, mas que eram trevas, e agora são luz. A identidade mudou, e a conduta deve corresponder a ela."
+   }
+  ]
+ },
+ "Eph.5.9": {
+  "t": "— pois o fruto da luz está em toda bondade, justiça e verdade —",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "o fruto da luz",
+    "termo": "ὁ ... καρπὸς τοῦ φωτὸς",
+    "titulo": "luz ou Espírito",
+    "texto": "O Textus Receptus e o Texto Bizantino trazem “o fruto do Espírito”, por influência de Gl 5:22. Os manuscritos mais antigos trazem “da luz”, que continua a imagem do v. 8."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "— pois o fruto da luz",
+    "termo": "ὁ γὰρ καρπὸς",
+    "titulo": "um parêntese",
+    "texto": "O versículo interrompe a frase dos vv. 8 e 10 (“vivam ... procurando discernir”). Os travessões marcam o parêntese."
+   }
+  ]
+ },
+ "Eph.5.10": {
+  "t": "procurando discernir o que é agradável ao Senhor.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "procurando discernir",
+    "termo": "δοκιμάζοντες (dokimazontes)",
+    "titulo": "dokimazō",
+    "texto": "“Testar, examinar e aprovar”. A vida na luz não se guia só por regras fixas, mas pela busca ativa do que agrada ao Senhor (Rm 12:2)."
+   }
+  ]
+ },
+ "Eph.5.11": {
+  "t": "E não participem das obras infrutíferas das trevas; ao contrário, exponham-nas.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "exponham-nas",
+    "termo": "ἐλέγχετε (elenchete)",
+    "titulo": "elenchō",
+    "texto": "Pode ser “repreender” (com palavras) ou “expor, trazer à luz”. Os vv. 12-13 (“expostas pela luz”) favorecem “expor”, que inclui a repreensão e o exemplo de vida."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "não participem",
+    "termo": "μὴ συγκοινωνεῖτε (mē synkoinōneite)",
+    "titulo": "synkoinōneō, raro",
+    "texto": "Só aqui, em Fp 4:14 e Ap 18:4. “Ter parte junto com”. As obras das trevas são “infrutíferas”, em contraste com o “fruto da luz” (v. 9)."
+   }
+  ]
+ },
+ "Eph.5.12": {
+  "t": "Porque o que eles fazem em segredo é vergonhoso até mencionar.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "em segredo",
+    "termo": "κρυφῇ (kryphē)",
+    "titulo": "kryphē, hápax",
+    "texto": "“Às escondidas”. Paulo não descreve essas práticas; basta dizer que são vergonhosas. Por isso expor (v. 11) não significa ficar falando delas, mas deixar a luz agir."
+   }
+  ]
+ },
+ "Eph.5.13": {
+  "t": "Mas todas as coisas, quando expostas pela luz, se tornam manifestas;",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "quando expostas pela luz",
+    "termo": "ἐλεγχόμενα ὑπὸ τοῦ φωτὸς",
+    "titulo": "a ligação",
+    "texto": "“Pela luz” pode ligar-se a “expostas” ou a “se tornam manifestas”. O sentido é o mesmo: a luz mostra o que as coisas são."
+   }
+  ]
+ },
+ "Eph.5.14": {
+  "t": "pois tudo o que se torna manifesto é luz. Por isso se diz: “Desperte, você que dorme, levante-se dentre os mortos, e Cristo resplandecerá sobre você”.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "tudo o que se torna manifesto é luz",
+    "termo": "πᾶν γὰρ τὸ φανερούμενον φῶς ἐστιν",
+    "titulo": "uma frase difícil",
+    "texto": "O mais provável: o que a luz alcança passa ele mesmo a ser luz, isto é, quem é exposto pela luz pode ser transformado por ela (como os leitores, v. 8). Outros entendem: tudo o que se manifesta pertence à esfera da luz. A tradução literal mantém a densidade da frase."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Desperte, você que dorme",
+    "termo": "ἔγειρε ὁ καθεύδων",
+    "titulo": "origem da citação",
+    "texto": "A citação não corresponde exatamente a nenhum texto do AT, embora ecoe Is 26:19 e 60:1. Provavelmente é um hino cristão primitivo, talvez cantado no batismo, quando o convertido “despertava” da morte para a luz de Cristo. A fórmula “por isso diz” é a mesma de 4:8."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "resplandecerá sobre você",
+    "termo": "ἐπιφαύσει σοι (epiphausei soi)",
+    "titulo": "epiphauskō, hápax",
+    "texto": "“Brilhar sobre, iluminar”, como o sol que nasce. Cristo é a luz que desperta."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Desperte",
+    "termo": "ἔγειρε (egeire)",
+    "titulo": "forma do verbo",
+    "texto": "O Textus Receptus traz egeirai, outra forma do mesmo imperativo. Sem efeito na tradução."
+   }
+  ]
+ },
+ "Eph.5.15": {
+  "t": "Portanto, prestem muita atenção em como vocês vivem: não como insensatos, mas como sábios,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "insensatos",
+    "termo": "ἄσοφοι (asophoi)",
+    "titulo": "asophos, hápax",
+    "texto": "“Sem sabedoria”. A sabedoria bíblica é prática: saber viver diante de Deus (Pv 1:7)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "prestem muita atenção",
+    "termo": "βλέπετε ... ἀκριβῶς",
+    "titulo": "“vejam cuidadosamente”",
+    "texto": "Lit. “vejam cuidadosamente”. Akribōs é “com exatidão, com cuidado”."
+   }
+  ]
+ },
+ "Eph.5.16": {
+  "t": "aproveitando bem o tempo, porque os dias são maus.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "aproveitando bem o tempo",
+    "termo": "ἐξαγοραζόμενοι τὸν καιρόν",
+    "titulo": "“comprando a oportunidade”",
+    "texto": "Lit. “resgatando o tempo”, como quem compra no mercado tudo o que pode de uma mercadoria rara. Kairos é o tempo oportuno, a ocasião. A ideia é não desperdiçar as oportunidades (Cl 4:5)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "os dias são maus",
+    "termo": "αἱ ἡμέραι πονηραί εἰσιν",
+    "titulo": "dias maus",
+    "texto": "Os dias da era presente, dominada pelo mal (1:21; 2:2; 6:13). Justamente por isso cada oportunidade de fazer o bem é preciosa."
+   }
+  ]
+ },
+ "Eph.5.17": {
+  "t": "Por isso, não sejam imprudentes, mas entendam qual é a vontade do Senhor.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "entendam",
+    "termo": "συνίετε (syniete)",
+    "titulo": "imperativo ou particípio",
+    "texto": "O Textus Receptus e o Texto Bizantino trazem o particípio synientes (“entendendo”). Sem efeito no sentido."
+   }
+  ]
+ },
+ "Eph.5.18": {
+  "t": "E não se embriaguem com vinho, no qual há devassidão, mas deixem-se encher pelo Espírito,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "deixem-se encher pelo Espírito",
+    "termo": "πληροῦσθε ἐν πνεύματι (plērousthe en pneumati)",
+    "titulo": "plēroō",
+    "texto": "O imperativo presente passivo indica algo contínuo e recebido: não “encham-se” por esforço, mas “deixem-se encher”, e sempre de novo. En pneumati pode ser o meio (“pelo Espírito”), e então aquilo de que se é cheio é a plenitude de Deus e de Cristo (1:23; 3:19; 4:13), ou o conteúdo (“com o Espírito”). As duas leituras apontam para a ação do Espírito Santo; não é o espírito humano, como mostra o contraste com o vinho."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "não se embriaguem com vinho",
+    "termo": "μὴ μεθύσκεσθε οἴνῳ",
+    "titulo": "Provérbios 23:31",
+    "texto": "A frase segue de perto Pv 23:31 na Septuaginta. O contraste não é entre duas formas de euforia, mas entre dois domínios: o do vinho, que leva à devassidão, e o do Espírito, que leva ao louvor, à gratidão e à submissão mútua (vv. 19-21). Alguns veem também um contraste com o culto a Dioniso, comum na Ásia Menor, mas isso é incerto. A tradição pentecostal e carismática vê aqui o fundamento de experiências repetidas de plenitude do Espírito (cf. At 2:4; 4:31); outras tradições acentuam o controle contínuo do Espírito sobre a vida. O presente contínuo combina com as duas ênfases."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "devassidão",
+    "termo": "ἀσωτία (asōtia)",
+    "titulo": "asōtia, raro",
+    "texto": "Só aqui, em Tt 1:6 e 1Pe 4:4. A vida desregrada e esbanjadora; o advérbio correspondente descreve o filho pródigo (Lc 15:13)."
+   }
+  ]
+ },
+ "Eph.5.19": {
+  "t": "falando entre vocês com salmos, hinos e cânticos espirituais, cantando e louvando ao Senhor com o coração,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "salmos, hinos e cânticos espirituais",
+    "termo": "ψαλμοῖς καὶ ὕμνοις καὶ ᾠδαῖς πνευματικαῖς",
+    "titulo": "três tipos de canto",
+    "texto": "Não é possível distinguir com segurança os três. Salmos podem ser os do AT ou composições cristãs no mesmo estilo; hinos (hymnos, raro: também em Cl 3:16), cantos de louvor a Deus; cânticos, cantos em geral. “Espirituais” pode qualificar só o último ou os três: cantos inspirados pelo Espírito, que podiam incluir composições espontâneas (1Co 14:15, 26)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "cantando e louvando",
+    "termo": "ᾄδοντες καὶ ψάλλοντες",
+    "titulo": "psallō",
+    "texto": "Psallō era originalmente “tocar um instrumento de cordas”; no NT é “cantar louvores”. “Com o coração” pode indicar sinceridade interior ou o canto silencioso do coração; a primeira leitura é a mais comum."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "com o coração",
+    "termo": "τῇ καρδίᾳ (+ ἐν)",
+    "titulo": "en",
+    "texto": "Tregelles, o Textus Receptus e o Texto Bizantino trazem en tē kardia; o NA28 traz en também antes de “salmos”. Sem efeito na tradução."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "falando entre vocês",
+    "termo": "λαλοῦντες ἑαυτοῖς",
+    "titulo": "particípios",
+    "texto": "Os particípios dos vv. 19-21 (falando, cantando, dando graças, sujeitando-se) dependem de “deixem-se encher” (v. 18): descrevem os resultados da plenitude do Espírito na vida da comunidade."
+   }
+  ]
+ },
+ "Eph.5.20": {
+  "t": "dando sempre graças por tudo a Deus Pai, em nome do nosso Senhor Jesus Cristo,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "por tudo",
+    "termo": "ὑπὲρ πάντων (hyper pantōn)",
+    "titulo": "coisas ou pessoas",
+    "texto": "Pode ser neutro (“por todas as coisas”) ou masculino (“por todas as pessoas”). O neutro é o mais comum. Não significa agradecer pelo mal em si, mas confiar que Deus age em tudo (Rm 8:28)."
+   }
+  ]
+ },
+ "Eph.5.21": {
+  "t": "sujeitando-se uns aos outros no temor de Cristo:",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "sujeitando-se uns aos outros",
+    "termo": "ὑποτασσόμενοι ἀλλήλοις",
+    "titulo": "submissão mútua?",
+    "texto": "O particípio fecha a série que descreve a vida cheia do Espírito (vv. 18-21) e, ao mesmo tempo, abre as instruções para a casa (5:22–6:9): mulheres e maridos, filhos e pais, escravos e senhores. Há duas leituras principais. Uma entende uma submissão realmente mútua entre todos os crentes, que dá o tom às relações seguintes e as transforma. Outra entende “uns aos outros” como “cada um a quem lhe corresponde” (o pronome tem esse sentido distributivo em alguns textos, como Ap 6:4), de modo que o versículo introduz relações de autoridade específicas. As duas leituras são defendidas por estudiosos sérios; o texto, de todo modo, põe todas as relações sob o temor de Cristo e impõe deveres às duas partes, inclusive às que tinham poder na sociedade antiga.",
+    "revisar": true
+   },
+   {
+    "tipo": "tn",
+    "ancora": "no temor de Cristo",
+    "termo": "ἐν φόβῳ Χριστοῦ",
+    "titulo": "phobos",
+    "texto": "“Temor” no sentido bíblico: reverência diante de quem é Senhor e juiz (2Co 5:10-11). Não é pavor servil, mas também não é só “respeito”."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "no temor de Cristo",
+    "termo": "ἐν φόβῳ Χριστοῦ",
+    "titulo": "Cristo ou Deus",
+    "texto": "O Textus Receptus traz “no temor de Deus” (theou). Os manuscritos mais antigos trazem “de Cristo”, expressão única no NT."
+   }
+  ]
+ },
+ "Eph.5.22": {
+  "t": "as mulheres, ao próprio marido, como ao Senhor;",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "as mulheres, ao próprio marido",
+    "termo": "Αἱ γυναῖκες, τοῖς ἰδίοις ἀνδράσιν",
+    "titulo": "o verbo ausente",
+    "texto": "No SBLGNT e no NA28 este versículo não tem verbo: o sentido de “sujeitar-se” vem do particípio do v. 21. Essa forma curta tem o apoio de 𝔓46 e do códice Vaticano e explica as outras. O Textus Receptus e o Texto Bizantino acrescentam hypotassesthe (“sujeitem-se”), e outros manuscritos, hypotassesthōsan (“sujeitem-se elas”), porque o versículo passou a ser lido em separado, no início de uma nova seção. A APV segue o texto curto e conserva a dependência do v. 21 com dois-pontos no fim daquele versículo e a elipse aqui: o que se pede às mulheres é uma aplicação da sujeição que vale para todos."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "as mulheres",
+    "termo": "γυναῖκες ... ἀνδράσιν",
+    "titulo": "gynē e anēr",
+    "texto": "Gynē é “mulher” e também “esposa”; anēr, “homem” e “marido”. Aqui, com ἰδίοις (“próprios”), trata-se de esposas e maridos. As instruções não tratam da relação entre homens e mulheres em geral."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "como ao Senhor",
+    "termo": "ὡς τῷ κυρίῳ",
+    "titulo": "hōs",
+    "texto": "Indica motivação, não equivalência: a mulher cristã vive essa relação como parte do seu serviço ao Senhor. O marido não toma o lugar de Cristo."
+   }
+  ]
+ },
+ "Eph.5.23": {
+  "t": "pois o marido é cabeça da mulher, como também Cristo é cabeça da igreja, sendo ele mesmo o salvador do corpo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "cabeça",
+    "termo": "κεφαλὴ (kephalē)",
+    "titulo": "kephalē: autoridade ou fonte?",
+    "texto": "Kephalē em sentido figurado é debatido. Alguns (como W. Grudem) defendem que significa sobretudo “autoridade, quem governa”; outros (a partir de S. Bedale, 1954, e, com mais força, autores igualitários) acentuam o sentido de “fonte, origem” ou de “quem dá vida e sustento”. Em Efésios, Cristo é cabeça com autoridade (1:22) e também como fonte de crescimento do corpo (4:15-16); aqui a sua “chefia” se define pelo amor que se entrega (v. 25) e pelo cuidado (v. 29). A tradução “cabeça” mantém a metáfora do original sem fechá-la.",
+    "revisar": true
+   },
+   {
+    "tipo": "tn",
+    "ancora": "sendo ele mesmo o salvador do corpo",
+    "termo": "αὐτὸς σωτὴρ τοῦ σώματος",
+    "titulo": "uma diferença",
+    "texto": "A frase aponta para algo que só vale para Cristo: ele é o salvador do corpo. O marido não salva a mulher. A comparação tem limites."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "sendo ele mesmo",
+    "termo": "αὐτὸς (+ καὶ ... ἐστιν)",
+    "titulo": "acréscimos",
+    "texto": "O Textus Receptus traz o artigo antes de anēr, e o Textus Receptus e o Texto Bizantino acrescentam kai ... estin (“e ele mesmo é”). Sem efeito no sentido."
+   }
+  ]
+ },
+ "Eph.5.24": {
+  "t": "Mas, assim como a igreja está sujeita a Cristo, também as mulheres estejam sujeitas ao marido em tudo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "em tudo",
+    "termo": "ἐν παντί (en panti)",
+    "titulo": "o alcance",
+    "texto": "Dentro da comparação com Cristo e a igreja. Não inclui obedecer ao que contraria a vontade de Deus (At 5:29), nem aceitar abuso, que negaria o amor exigido do marido no v. 25."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "ao marido",
+    "termo": "τοῖς ἀνδράσιν (+ ἰδίοις)",
+    "titulo": "idiois",
+    "texto": "O Textus Receptus e o Texto Bizantino acrescentam idiois (“ao próprio marido”) e omitem hōs. Sem efeito na tradução."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "estejam sujeitas",
+    "termo": "οὕτως καὶ αἱ γυναῖκες",
+    "titulo": "verbo implícito",
+    "texto": "O grego repete só a comparação, sem verbo: “assim também as mulheres aos maridos”. O verbo vem da primeira metade do versículo."
+   }
+  ]
+ },
+ "Eph.5.25": {
+  "t": "Maridos, amem a sua mulher, assim como também Cristo amou a igreja e se entregou por ela,",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "amem a sua mulher, assim como também Cristo amou a igreja",
+    "termo": "ἀγαπᾶτε τὰς γυναῖκας καθὼς καὶ ὁ Χριστὸς ἠγάπησεν τὴν ἐκκλησίαν",
+    "titulo": "o padrão do marido",
+    "texto": "Os códigos domésticos greco-romanos instruíam o chefe da casa sobre como governar a mulher, os filhos e os escravos. Paulo não manda o marido governar, mas amar, e com o amor que leva à entrega da própria vida. O espaço dado a essa ordem (vv. 25-33) é bem maior que o dado às mulheres."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "a sua mulher",
+    "termo": "τὰς γυναῖκας (+ ἑαυτῶν)",
+    "titulo": "heautōn",
+    "texto": "O Textus Receptus e o Texto Bizantino acrescentam heautōn (“as suas próprias mulheres”). A tradução já usa o possessivo."
+   }
+  ]
+ },
+ "Eph.5.26": {
+  "t": "para santificá-la, tendo-a purificado pela lavagem da água com a palavra,",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "pela lavagem da água",
+    "termo": "τῷ λουτρῷ τοῦ ὕδατος",
+    "titulo": "batismo e banho nupcial",
+    "texto": "Loutron (raro: também em Tt 3:5) é o banho. Muitos veem alusão ao batismo; outros, ao banho da noiva antes do casamento, costume judaico e grego. Ez 16:8-14 descreve Deus lavando Jerusalém com água para fazer dela sua esposa. As duas imagens se combinam."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "com a palavra",
+    "termo": "ἐν ῥήματι (en rhēmati)",
+    "titulo": "rhēma",
+    "texto": "Rhēma é a palavra falada. Pode ser o evangelho anunciado e recebido, a confissão de fé no batismo ou a invocação do nome do Senhor. A palavra acompanha e dá sentido ao lavar."
+   }
+  ]
+ },
+ "Eph.5.27": {
+  "t": "para apresentá-la a si mesmo como igreja gloriosa, sem mancha nem ruga nem coisa semelhante, mas santa e irrepreensível.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "sem mancha nem ruga",
+    "termo": "μὴ ἔχουσαν σπίλον ἢ ῥυτίδα",
+    "titulo": "spilos e rhytis",
+    "texto": "Spilos (raro: também em 2Pe 2:13) é a mancha; rhytis (hápax), a ruga. A noiva aparece sem defeito e sem marca de velhice. “Santa e irrepreensível” retoma 1:4: o propósito da eleição se cumpre na igreja apresentada a Cristo."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "para apresentá-la a si mesmo",
+    "termo": "ἵνα παραστήσῃ αὐτὸς ἑαυτῷ",
+    "titulo": "a apresentação da noiva",
+    "texto": "No casamento antigo, a noiva era apresentada ao noivo por outro (cf. 2Co 11:2). Aqui Cristo mesmo prepara a noiva e a apresenta a si. O Textus Receptus e o Texto Bizantino não trazem autos (“ele mesmo”), sem efeito no sentido."
+   }
+  ]
+ },
+ "Eph.5.28": {
+  "t": "Assim também os maridos devem amar a própria mulher como ao próprio corpo. Quem ama a sua mulher ama a si mesmo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "como ao próprio corpo",
+    "termo": "ὡς τὰ ἑαυτῶν σώματα",
+    "titulo": "comparação ou identidade",
+    "texto": "Pode ser comparação (“assim como amam o próprio corpo”) ou identidade (“porque ela é o seu próprio corpo”), com base na “uma só carne” do v. 31. As duas leituras levam ao mesmo ponto: a mulher é parte do próprio marido."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "ama a si mesmo",
+    "termo": "ἑαυτὸν ἀγαπᾷ",
+    "titulo": "Levítico 19:18",
+    "texto": "Eco de Lv 19:18 (“como a si mesmo”), retomado no v. 33. A mulher é a “próxima” mais próxima."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Assim também",
+    "termo": "οὕτως ... καὶ",
+    "titulo": "kai",
+    "texto": "O Textus Receptus e o Texto Bizantino omitem kai (“também”). Sem efeito no sentido."
+   }
+  ]
+ },
+ "Eph.5.29": {
+  "t": "Pois ninguém jamais odiou a própria carne; antes, a alimenta e dela cuida com carinho, como também Cristo faz com a igreja,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "a própria carne",
+    "termo": "τὴν ἑαυτοῦ σάρκα",
+    "titulo": "sarx",
+    "texto": "Aqui sarx é o corpo, sem sentido moral. A APV mantém “carne” porque o versículo prepara a citação do v. 31 (“uma só carne”), e trocar a palavra esconderia a ligação."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "a alimenta e dela cuida com carinho",
+    "termo": "ἐκτρέφει καὶ θάλπει αὐτὴν",
+    "titulo": "ektrephō e thalpō, raros",
+    "texto": "Ektrephō (também em 6:4) é “nutrir, criar”; thalpō (também em 1Ts 2:7, a mãe que acalenta os filhos) é “aquecer, acalentar”. Termos de cuidado terno, quase maternal."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Cristo",
+    "termo": "ὁ Χριστὸς",
+    "titulo": "Cristo ou Senhor",
+    "texto": "O Textus Receptus e o Texto Bizantino trazem ho kyrios (“o Senhor”). Os manuscritos mais antigos trazem “Cristo”."
+   }
+  ]
+ },
+ "Eph.5.30": {
+  "t": "porque somos membros do seu corpo.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "porque somos membros do seu corpo",
+    "termo": "ὅτι μέλη ἐσμὲν τοῦ σώματος αὐτοῦ",
+    "titulo": "acréscimo de Gênesis 2:23",
+    "texto": "O Textus Receptus e o Texto Bizantino acrescentam “da sua carne e dos seus ossos” (ek tēs sarkos autou kai ek tōn osteōn autou), eco de Gn 2:23. Os manuscritos mais antigos não trazem. O acréscimo pode ter vindo da citação de Gênesis no v. 31; alguns, porém, pensam que a frase caiu por um salto do olho entre palavras iguais (autou ... autou). As edições críticas preferem o texto curto (Metzger)."
+   }
+  ]
+ },
+ "Eph.5.31": {
+  "t": "“Por isso o homem deixará pai e mãe e se unirá à sua mulher, e os dois serão uma só carne.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Por isso o homem deixará pai e mãe",
+    "termo": "ἀντὶ τούτου καταλείψει ἄνθρωπος τὸν πατέρα καὶ τὴν μητέρα",
+    "titulo": "Gênesis 2:24",
+    "texto": "Citação de Gn 2:24 segundo a Septuaginta, também citada por Jesus (Mc 10:7-8). Paulo a aplica primeiro ao casamento e, no v. 32, a Cristo e à igreja."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "à sua mulher",
+    "termo": "τῇ γυναικὶ (ou πρὸς τὴν γυναῖκα)",
+    "titulo": "construção",
+    "texto": "O SBLGNT traz o dativo tē gynaiki; o NA28, o THGNT, Westcott-Hort, o Textus Receptus e o Texto Bizantino, pros tēn gynaika, como na Septuaginta. O Textus Receptus e o Texto Bizantino acrescentam autou depois de “pai”. Sem efeito na tradução."
+   }
+  ]
+ },
+ "Eph.5.32": {
+  "t": "Este mistério é grande; eu, porém, falo a respeito de Cristo e da igreja.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "mistério",
+    "termo": "μυστήριον (mystērion)",
+    "titulo": "mystērion",
+    "texto": "Como em 1:9 e 3:3, é uma verdade antes oculta e agora revelada: a união de homem e mulher em Gn 2:24 apontava para a união de Cristo com a igreja. A Vulgata traduziu sacramentum, e a tradição católica viu no versículo um apoio para o casamento como sacramento; a palavra grega, porém, não tem esse sentido técnico. A tradição protestante não considera o casamento um sacramento, mas reconhece a profundidade da comparação."
+   }
+  ]
+ },
+ "Eph.5.33": {
+  "t": "De qualquer modo, cada um de vocês também ame a sua mulher como a si mesmo, e a mulher respeite o marido.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "respeite",
+    "termo": "φοβῆται (phobētai)",
+    "titulo": "“tema”",
+    "texto": "Lit. “tema”. É o mesmo verbo do “temor de Cristo” (v. 21). Não é medo, mas reverência e respeito. “Respeite” é o sentido no contexto; a nota guarda a ligação com o v. 21."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "De qualquer modo",
+    "termo": "πλὴν (plēn)",
+    "titulo": "plēn",
+    "texto": "“Contudo, em todo caso”. Paulo volta do mistério de Cristo e da igreja para a vida prática do casal."
    }
   ]
  }

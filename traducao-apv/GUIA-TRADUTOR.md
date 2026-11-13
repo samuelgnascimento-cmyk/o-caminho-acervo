@@ -101,6 +101,8 @@ Nomes próprios: a forma tradicional das Bíblias em português (Pedro, Tiago, J
 - τελώνης: “cobrador de impostos” (nota na primeira ocorrência de cada livro: “publicano”).
 - Σίμων ὁ Καναναῖος: “Simão, o Zelote”, com nota (aramaico qan’ana; não é “cananeu” de Canaã). Ζηλωτής em Lucas e Atos: “o Zelote”.
 - μακάριος: “bem-aventurado”.
+- δοῦλος / δουλεύω / δουλόω: “escravo”, “ser escravo”, “escravizar” quando o texto contrasta com livre, liberto ou senhor de escravos como condição social ou figura dela (1Co 7:21-23; Rm 6:16-22; Gl 4); nos demais casos, “servo”. Nota na primeira ocorrência de cada livro.
+- ἅρπαξ: “extorsor” (distinto de κλέπτης, “ladrão”).
 
 **Versaletes:** no NT não use SENHOR em versaletes; o grego tem κύριος.
 
