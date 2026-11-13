@@ -99,7 +99,7 @@
     "ancora": "Asafe",
     "termo": "Ἀσάφ (Asaph)",
     "titulo": "Asafe ou Asa",
-    "texto": "O texto crítico (SBLGNT, NA28) traz Asaph, forma dos manuscritos mais antigos; o Textus Receptus e o Texto Bizantino, Asa, o nome do rei de Judá (1Rs 15:9-24). A APV segue o texto-base e mantém “Asafe”. A pessoa é certamente o rei Asa. A forma Asaph pode vir de uma grafia grega do nome usada na fonte de Mateus ou ser um eco deliberado de Asafe, o salmista (Sl 50; 73-83), assim como “Amós” no v. 10 lembra o profeta. Metzger considera Asaph a leitura original e a forma Asa uma correção de copistas.",
+    "texto": "O texto crítico (SBLGNT, NA28) traz Asaph, forma dos manuscritos mais antigos; o Textus Receptus e o Texto Bizantino, Asa, o nome do rei de Judá (1Rs 15:9-24). A APV segue o texto-base e mantém “Asafe”. A pessoa é certamente o rei Asa. Metzger (Textual Commentary) mantém Asaph como leitura original e explica Asa como correção dos copistas, observando que Mateus pode ter usado listas genealógicas com essa grafia. Outros veem um eco deliberado de Asafe, o salmista (Sl 50; 73-83).",
     "revisar": true
    }
   ]
@@ -128,7 +128,7 @@
     "ancora": "Amós",
     "termo": "Ἀμώς (Amōs)",
     "titulo": "Amós ou Amom",
-    "texto": "O texto crítico traz Amōs; o Textus Receptus e o Texto Bizantino, Amōn, o nome do rei filho de Manassés (2Rs 21:18-26). Como no caso de “Asafe” (v. 7), a APV segue o texto-base. A pessoa é o rei Amom; alguns manuscritos da Septuaginta também chamam esse rei de Amós, e a forma pode ser um eco do profeta Amós.",
+    "texto": "O texto crítico traz Amōs; o Textus Receptus e o Texto Bizantino, Amōn, o nome do rei filho de Manassés (2Rs 21:18-26). Como no caso de “Asafe” (v. 7), a APV segue o texto-base. A pessoa é o rei Amom; a forma Amós pode ser um eco do profeta Amós.",
     "revisar": true
    }
   ]
@@ -148,7 +148,7 @@
     "ancora": "Josias gerou Jeconias",
     "termo": "Ἰωσίας δὲ ἐγέννησεν τὸν Ἰεχονίαν",
     "titulo": "uma geração omitida",
-    "texto": "Jeconias (Joaquim, 2Rs 24:6-15) era neto de Josias; o pai, Jeoaquim, não aparece. “Seus irmãos” pode lembrar os filhos de Josias que reinaram (Jeoacaz, Jeoaquim, Zedequias)."
+    "texto": "Jeconias, também chamado Joaquim (2Rs 24:6-15), era neto de Josias; o pai dele, Jeoaquim (2Rs 23:34-36), não aparece. Não confundir os dois nomes, quase iguais em português. “Seus irmãos” pode lembrar os filhos de Josias que reinaram (Jeoacaz, Jeoaquim, Zedequias)."
    }
   ]
  },
@@ -191,7 +191,7 @@
     "ancora": "José, marido de Maria",
     "termo": "τὸν Ἰωσὴφ τὸν ἄνδρα Μαρίας",
     "titulo": "uma variante antiga",
-    "texto": "Uma antiga versão siríaca (a Siríaca Sinaítica) diz que José “gerou Jesus”, e alguns manuscritos gregos trazem uma forma que fala de “Maria, a virgem”. A esmagadora maioria dos manuscritos, seguida por todas as edições, tem o texto traduzido aqui. Metzger discute as formas e conclui que derivam do texto comum."
+    "texto": "Uma antiga versão siríaca (a Siríaca Sinaítica) diz que José “gerou Jesus”, e alguns manuscritos gregos trazem uma forma que fala de “Maria, a virgem”. A esmagadora maioria dos manuscritos tem o texto traduzido aqui, e as edições comparadas pela APV (SBLGNT, NA28, Textus Receptus, Texto Bizantino) concordam nele. Metzger discute as formas e conclui que derivam do texto comum."
    }
   ]
  },
@@ -203,7 +203,7 @@
     "ancora": "catorze gerações",
     "termo": "γενεαὶ δεκατέσσαρες (geneai dekatessares)",
     "titulo": "por que catorze?",
-    "texto": "A divisão é deliberada (v. 8 omite reis). Muitos estudiosos notam que as consoantes hebraicas do nome Davi (DWD) somam 14 (4+6+4), o que faria da lista uma assinatura davídica; a explicação é plausível, mas Mateus não a declara. O terceiro bloco, contado de Jeconias a Jesus, tem só 13 nomes, e não há consenso sobre como Mateus contava."
+    "texto": "A divisão é deliberada (v. 8 omite reis). Muitos estudiosos notam que as consoantes hebraicas do nome Davi (DWD) somam 14 (4+6+4), o que faria da lista uma assinatura davídica; a explicação é plausível, mas Mateus não a declara. A contagem também não é simples: se Jeconias fecha o segundo bloco, o terceiro (de Salatiel a Jesus) tem só 13 nomes; se Jeconias abre o terceiro, ele é contado duas vezes. Não há consenso sobre como Mateus fazia a conta."
    },
    {
     "tipo": "tn",
@@ -215,7 +215,7 @@
   ]
  },
  "Mat.1.18": {
-  "t": "A origem de Jesus Cristo foi assim: Maria, sua mãe, estava prometida em casamento a José; mas, antes que viessem a viver juntos, ela se achou grávida pelo Espírito Santo.",
+  "t": "A origem de Jesus Cristo foi assim: Maria, sua mãe, estava prometida em casamento a José; mas, antes que viessem a viver juntos, ela se achou grávida por obra do Espírito Santo.",
   "n": [
    {
     "tipo": "tn",
@@ -236,7 +236,7 @@
     "ancora": "ela se achou grávida",
     "termo": "εὑρέθη ἐν γαστρὶ ἔχουσα (heurethē en gastri echousa)",
     "titulo": "“foi achada tendo no ventre”",
-    "texto": "Expressão idiomática da Septuaginta para a gravidez (Gn 16:4). “Foi achada” indica que a gravidez se tornou visível, sem dizer quem a percebeu."
+    "texto": "Expressão idiomática da Septuaginta para a gravidez (Gn 16:4). “Foi achada” indica que a gravidez se tornou visível, sem dizer quem a percebeu. “Por obra do Espírito Santo” traduz ek pneumatos hagiou, lit. “do Espírito Santo”; ver a nota no v. 20."
    },
    {
     "tipo": "tc",
@@ -359,7 +359,7 @@
     "ancora": "o chamarão",
     "termo": "καλέσουσιν (kalesousin)",
     "titulo": "“chamarão”",
-    "texto": "O hebraico tem “ela chamará” e a Septuaginta, “você chamará”. Mateus usa a terceira pessoa do plural, “chamarão”, que faz do nome uma confissão de todo o povo."
+    "texto": "A forma hebraica (weqaraʾt) pode ser lida como “ela chamará” ou “você chamará”; a Septuaginta tem claramente “você chamará”. Mateus usa a terceira pessoa do plural, “chamarão”, que faz do nome uma confissão de todo o povo."
    },
    {
     "tipo": "sn",
@@ -371,7 +371,7 @@
   ]
  },
  "Mat.1.24": {
-  "t": "Quando José despertou do sono, fez como o anjo do Senhor lhe havia ordenado e recebeu sua mulher em casa.",
+  "t": "Quando José despertou do sono, fez como o anjo do Senhor lhe havia ordenado e recebeu sua mulher em casa;",
   "n": [
    {
     "tipo": "tn",
@@ -383,14 +383,14 @@
   ]
  },
  "Mat.1.25": {
-  "t": "Mas não teve relações com ela até que ela deu à luz um filho. E ele lhe deu o nome de Jesus.",
+  "t": "e não teve relações com ela até que ela deu à luz um filho. E ele lhe deu o nome de Jesus.",
   "n": [
    {
     "tipo": "tn",
     "ancora": "não teve relações com ela",
     "termo": "οὐκ ἐγίνωσκεν αὐτήν (ouk eginōsken autēn)",
     "titulo": "“não a conhecia”",
-    "texto": "“Conhecer” é eufemismo bíblico para a relação sexual (Gn 4:1). O imperfeito indica uma situação contínua durante todo esse tempo."
+    "texto": "Lit. “e não a conhecia”. “Conhecer” é eufemismo bíblico para a relação sexual (Gn 4:1). O imperfeito indica uma situação contínua durante todo esse tempo."
    },
    {
     "tipo": "sn",
@@ -428,7 +428,7 @@
   ]
  },
  "Mat.2.2": {
-  "t": "e perguntaram: “Onde está o rei dos judeus que acaba de nascer? Pois vimos a sua estrela quando surgiu e viemos adorá-lo.”",
+  "t": "e perguntaram: “Onde está o rei dos judeus que nasceu? Pois vimos a sua estrela quando surgiu e viemos adorá-lo.”",
   "n": [
    {
     "tipo": "tn",
@@ -690,7 +690,7 @@
     "ancora": "Então se cumpriu",
     "termo": "τότε ἐπληρώθη (tote eplērōthē)",
     "titulo": "sem “para que”",
-    "texto": "Nas outras citações de cumprimento Mateus diz “para que se cumprisse”. Aqui e em 27:9, os dois textos que falam de crimes, diz apenas “então se cumpriu”, evitando apresentar o mal como propósito de Deus."
+    "texto": "Nas outras citações de cumprimento Mateus diz “para que se cumprisse”. Aqui e em 27:9, os dois textos que falam de crimes, diz apenas “então se cumpriu”. Muitos intérpretes veem nisso o cuidado de não apresentar o mal como propósito de Deus."
    },
    {
     "tipo": "tc",
@@ -763,7 +763,7 @@
   ]
  },
  "Mat.2.22": {
-  "t": "Mas, ao ouvir que Arquelau reinava na Judeia no lugar de seu pai, Herodes, teve medo de ir para lá. E, avisado por Deus em sonho, retirou-se para a região da Galileia",
+  "t": "Mas, ao ouvir que Arquelau reinava na Judeia no lugar de Herodes, seu pai, José teve medo de ir para lá. E, avisado por Deus em sonho, retirou-se para a região da Galileia",
   "n": [
    {
     "tipo": "sn",
@@ -778,6 +778,13 @@
     "termo": "χρηματισθείς (chrēmatistheis)",
     "titulo": "chrēmatizō",
     "texto": "Ver nota no v. 12."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "José teve medo",
+    "termo": "ἐφοβήθη (ephobēthē)",
+    "titulo": "sujeito explícito",
+    "texto": "O grego diz só “teve medo”; o sujeito, José, vem do v. 21. A APV o explicita para que “Herodes”, logo antes, não pareça ser o sujeito."
    }
   ]
  },
@@ -839,7 +846,7 @@
   ]
  },
  "Mat.3.3": {
-  "t": "Este é aquele de quem falou o profeta Isaías, quando disse: “Voz de quem clama no deserto: ‘Preparem o caminho do Senhor, endireitem as suas veredas’”.",
+  "t": "Pois este é aquele de quem falou o profeta Isaías, quando disse: “Voz de quem clama no deserto: ‘Preparem o caminho do Senhor, endireitem as suas veredas’”.",
   "n": [
    {
     "tipo": "sn",
@@ -972,7 +979,7 @@
     "ancora": "machado",
     "termo": "ἀξίνη (axinē)",
     "titulo": "axinē, raro",
-    "texto": "Só aqui e em Lc 3:9. A imagem é do lenhador que já encostou o machado na raiz para medir o golpe."
+    "texto": "Só aqui e em Lc 3:9. Lit. “o machado já está posto junto à raiz”: o corte é iminente."
    },
    {
     "tipo": "tn",
@@ -1005,7 +1012,7 @@
     "ancora": "com o Espírito Santo e com fogo",
     "termo": "ἐν πνεύματι ἁγίῳ καὶ πυρί (en pneumati hagiō kai pyri)",
     "titulo": "Espírito e fogo",
-    "texto": "Uma só preposição rege os dois termos, sugerindo uma única ação. Leituras: (1) o fogo purifica, como o fogo do fundidor (Ml 3:2-3; Is 4:4); (2) o fogo é o juízo sobre os que rejeitam, como nos vv. 10 e 12; (3) cumprimento em Pentecostes, com as línguas como de fogo (At 2:3-4). Muitos combinam (1) e (2): o Espírito purifica quem se arrepende e o fogo consome quem resiste. O Texto Bizantino omite “e com fogo”, provavelmente por influência de Mc 1:8."
+    "texto": "Uma só preposição rege os dois termos, sugerindo uma única ação. Leituras: (1) o fogo purifica, como o fogo do fundidor (Ml 3:2-3; Is 4:4); (2) o fogo é o juízo sobre os que rejeitam, como nos vv. 10 e 12; (3) cumprimento em Pentecostes, com as línguas como de fogo (At 2:3-4). Muitos combinam (1) e (2): o Espírito purifica quem se arrepende e o fogo consome quem resiste. O Texto Bizantino omite “e com fogo”; o paralelo de Mc 1:8 também não o tem."
    }
   ]
  },
@@ -1017,7 +1024,7 @@
     "ancora": "A pá de joeirar",
     "termo": "τὸ πτύον (to ptyon)",
     "titulo": "a colheita no campo",
-    "texto": "Ptyon (só aqui e em Lc 3:17) é a pá ou forcado com que se joga o grão debulhado para o alto, para que o vento leve a palha e o grão caia. A halōn (“eira”, também só aqui e em Lc 3:17) é o terreno plano onde se debulhava o cereal. Diakathairō (“limpar de ponta a ponta”) é hápax. Achyron (“palha”) aparece só aqui e em Lc 3:17."
+    "texto": "Ptyon (só aqui e em Lc 3:17) é a pá ou forcado com que se joga o grão debulhado para o alto, para que o vento leve a palha e o grão caia. A halōn (“eira”, também só aqui e em Lc 3:17) é o terreno plano onde se debulhava o cereal. Diakatharizō (“limpar de ponta a ponta”) só aparece aqui; Lc 3:17 usa uma forma aparentada. Achyron (“palha”) aparece só aqui e em Lc 3:17."
    },
    {
     "tipo": "tn",
@@ -1071,7 +1078,7 @@
   ]
  },
  "Mat.3.16": {
-  "t": "Logo que foi batizado, Jesus saiu da água. E eis que os céus se abriram, e ele viu o Espírito de Deus descendo como uma pomba e vindo sobre ele.",
+  "t": "Depois de batizado, Jesus logo saiu da água. E eis que os céus se abriram, e ele viu o Espírito de Deus descendo como uma pomba e vindo sobre ele.",
   "n": [
    {
     "tipo": "tn",
@@ -1085,7 +1092,7 @@
     "ancora": "os céus se abriram",
     "termo": "ἠνεῴχθησαν (+ αὐτῷ) οἱ οὐρανοί",
     "titulo": "“se lhe abriram”",
-    "texto": "O NA28 (entre colchetes), o THGNT, o Textus Receptus e o Texto Bizantino trazem autō: “os céus se lhe abriram”. O SBLGNT omite, com alguns manuscritos antigos. Essas edições também têm “o Espírito de Deus” com artigo e “e vindo”, sem mudar o sentido. Com ou sem autō, a visão é de Jesus (“ele viu”)."
+    "texto": "O NA28, o THGNT, Tregelles, o Textus Receptus e o Texto Bizantino trazem autō: “os céus se lhe abriram”. O SBLGNT omite. Essas edições também têm “o Espírito de Deus” com artigo e “e vindo”, sem mudar o sentido. Com ou sem autō, a visão é de Jesus (“ele viu”)."
    },
    {
     "tipo": "sn",
@@ -1615,7 +1622,7 @@
     "ancora": "Bem-aventurados os mansos",
     "termo": "Μακάριοι οἱ πραεῖς",
     "titulo": "ordem dos vv. 4 e 5",
-    "texto": "Alguns manuscritos antigos trocam a ordem dos vv. 4 e 5. As edições críticas e o Textus Receptus seguem a ordem traduzida aqui."
+    "texto": "Alguns manuscritos antigos trocam a ordem dos vv. 4 e 5. A APV segue a ordem do texto-base."
    }
   ]
  },
@@ -1732,7 +1739,7 @@
     "ancora": "perder o sabor",
     "termo": "μωρανθῇ (mōranthē)",
     "titulo": "mōrainō: “tornar-se insosso” ou “tolo”",
-    "texto": "O verbo vem de mōros, “tolo” (5:22; 7:26), e significa tanto “perder o sabor” quanto “tornar-se tolo”. Em aramaico, tapel tem o mesmo duplo sentido, e muitos veem aí um jogo de palavras: o discípulo que perde a sua marca se torna tolo. O cloreto de sódio puro não perde o sabor, mas o sal da região, colhido junto ao mar Morto e misturado com outros minerais, podia se dissolver e deixar um resíduo sem gosto."
+    "texto": "O verbo vem de mōros, “tolo” (5:22; 7:26), e significa tanto “perder o sabor” quanto “tornar-se tolo”. Em aramaico, tapel tem o mesmo duplo sentido, e muitos veem aí um jogo de palavras: o discípulo que perde a sua marca se torna tolo. O cloreto de sódio puro não perde o sabor; alguns estudiosos propõem que o sal da região, colhido com outros minerais, podia perder a parte salgada e deixar um resíduo sem gosto. Outros veem aqui só uma imagem do impossível."
    },
    {
     "tipo": "tn",
@@ -1763,7 +1770,7 @@
   ]
  },
  "Mat.5.15": {
-  "t": "Nem se acende uma lamparina para pô-la debaixo de uma vasilha, mas no lugar dela, e assim ela ilumina todos os que estão na casa.",
+  "t": "Nem se acende uma lamparina para pô-la debaixo de uma vasilha, mas sobre o suporte, e assim ela ilumina todos os que estão na casa.",
   "n": [
    {
     "tipo": "tn",
@@ -1781,10 +1788,10 @@
    },
    {
     "tipo": "tn",
-    "ancora": "no lugar dela",
+    "ancora": "suporte",
     "termo": "ἐπὶ τὴν λυχνίαν (epi tēn lychnian)",
     "titulo": "lychnia",
-    "texto": "Lit. “sobre o suporte da lâmpada”. Lychnia é o pedestal onde se colocava a lamparina. “No lugar dela” traduz pelo sentido, evitando “candelabro”, que sugere várias velas."
+    "texto": "Lychnia é o pedestal onde se colocava a lamparina. “Suporte” evita “candelabro”, que sugere várias velas."
    }
   ]
  },
@@ -1853,7 +1860,7 @@
   ]
  },
  "Mat.5.19": {
-  "t": "Portanto, quem anular um só destes mandamentos, ainda que dos menores, e assim ensinar os outros, será chamado o menor no Reino dos céus; mas quem os praticar e ensinar será chamado grande no Reino dos céus.",
+  "t": "Portanto, quem anular um só destes mandamentos mínimos e assim ensinar os outros, será chamado o menor no Reino dos céus; mas quem os praticar e ensinar será chamado grande no Reino dos céus.",
   "n": [
    {
     "tipo": "tn",
@@ -2085,7 +2092,7 @@
     "ancora": "arranque-o e jogue-o longe de você",
     "termo": "ἔξελε αὐτὸν καὶ βάλε ἀπὸ σοῦ",
     "titulo": "hipérbole",
-    "texto": "É linguagem hiperbólica, como a da trave no olho (7:3-5): a mutilação não resolve o problema do coração (15:19). O ponto é a seriedade do pecado e a disposição de cortar radicalmente o que leva a ele. Orígenes, no século III, tomou um texto paralelo (19:12) ao pé da letra, e a Igreja rejeitou essa leitura."
+    "texto": "É linguagem hiperbólica, como a da trave no olho (7:3-5): a mutilação não resolve o problema do coração (15:19). O ponto é a seriedade do pecado e a disposição de cortar radicalmente o que leva a ele. Segundo Eusébio de Cesareia (História Eclesiástica 6.8), Orígenes teria tomado ao pé da letra um texto parecido (19:12); o relato é discutido pelos historiadores, mas a leitura literal nunca foi aceita pela Igreja."
    }
   ]
  },
@@ -2215,7 +2222,7 @@
     "ancora": "Olho por olho e dente por dente",
     "termo": "ὀφθαλμὸν ἀντὶ ὀφθαλμοῦ καὶ ὀδόντα ἀντὶ ὀδόντος",
     "titulo": "Êx 21:24; Lv 24:20; Dt 19:21",
-    "texto": "A chamada lei de talião. Na Lei era uma regra para os juízes, que limitava a punição à medida do dano e impedia a vingança sem freio (Gn 4:23-24). Jesus não critica a justiça dos tribunais, mas proíbe usar esse princípio para justificar a vingança pessoal."
+    "texto": "A chamada lei de talião. Na Lei (Êx 21:23-25; Lv 24:19-20; Dt 19:21) era uma regra para os juízes, que limitava a punição à medida do dano. Contrasta com a vingança sem medida do canto de Lameque (Gn 4:23-24). Jesus não critica a justiça dos tribunais, mas proíbe usar esse princípio para justificar a vingança pessoal."
    }
   ]
  },
@@ -2460,7 +2467,7 @@
   ]
  },
  "Mat.6.4": {
-  "t": "para que a sua esmola fique em segredo; e o seu Pai, que vê o que está em segredo, lhe dará a recompensa.",
+  "t": "para que a sua esmola fique em segredo; e o seu Pai, que vê o que está em segredo, lhe retribuirá.",
   "n": [
    {
     "tipo": "tn",
@@ -2471,7 +2478,7 @@
    },
    {
     "tipo": "tc",
-    "ancora": "lhe dará a recompensa",
+    "ancora": "lhe retribuirá",
     "termo": "ἀποδώσει σοι (+ ἐν τῷ φανερῷ)",
     "titulo": "“publicamente”",
     "texto": "O Textus Receptus e o Texto Bizantino acrescentam “publicamente” (en tō phanerō), também nos vv. 6 e 18. O acréscimo cria um contraste com “em segredo”, mas falta nos manuscritos mais antigos e desloca o ponto: a recompensa não é a exibição pública adiada."
@@ -2498,7 +2505,7 @@
   ]
  },
  "Mat.6.6": {
-  "t": "Mas você, quando orar, entre no seu quarto, feche a porta e ore ao seu Pai, que está em segredo; e o seu Pai, que vê o que está em segredo, lhe dará a recompensa.",
+  "t": "Mas você, quando orar, entre no seu quarto, feche a porta e ore ao seu Pai, que está em segredo; e o seu Pai, que vê o que está em segredo, lhe retribuirá.",
   "n": [
    {
     "tipo": "tn",
@@ -2543,7 +2550,14 @@
     "ancora": "sabe do que vocês precisam",
     "termo": "οἶδεν ... ὧν χρείαν ἔχετε",
     "titulo": "por que orar?",
-    "texto": "Se o Pai já sabe, a oração não informa a Deus nem o convence pelo volume; ela é expressão de confiança filial. Westcott-Hort traz “Deus, o Pai de vocês”, com poucos manuscritos."
+    "texto": "Se o Pai já sabe, a oração não informa a Deus nem o convence pelo volume; ela é expressão de confiança filial."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "o Pai de vocês",
+    "termo": "ὁ πατὴρ ὑμῶν (+ ὁ θεός)",
+    "titulo": "“Deus, o Pai”",
+    "texto": "Westcott-Hort traz “Deus, o Pai de vocês”. As demais edições têm só “o Pai de vocês”."
    }
   ]
  },
@@ -2593,14 +2607,14 @@
   ]
  },
  "Mat.6.11": {
-  "t": "Dá-nos hoje o nosso pão de cada dia.",
+  "t": "O nosso pão de cada dia dá-nos hoje.",
   "n": [
    {
     "tipo": "tn",
     "ancora": "de cada dia",
     "termo": "τὸν ἐπιούσιον (ton epiousion)",
     "titulo": "epiousios, raro e incerto",
-    "texto": "A palavra só aparece aqui e em Lc 11:3, e quase não há ocorrências fora da literatura cristã; Orígenes já dizia que parecia inventada pelos evangelistas. As interpretações: (1) “necessário para a existência” (epi + ousia); (2) “para o dia seguinte” ou “para o dia que vem” (de hē epiousa, “o dia seguinte”); Jerônimo relata que o Evangelho dos Hebreus trazia mahar, “de amanhã”; (3) “para hoje, diário”, sentido das antigas versões latinas (quotidianum); (4) leitura escatológica: o pão do Reino futuro, dado já hoje, ou o pão supersubstancial (Jerônimo, na Vulgata de Mateus: supersubstantialem), lido por muitos Pais como referência à Eucaristia. “De cada dia” segue a tradição de uso nas igrejas e combina com “hoje” e com o maná diário (Êx 16:4); “necessário” ou “de amanhã” são alternativas sérias.",
+    "texto": "A palavra só aparece aqui e em Lc 11:3, e quase não há ocorrências fora da literatura cristã; Orígenes já dizia que parecia inventada pelos evangelistas. As interpretações: (1) “necessário para a existência” (epi + ousia); (2) “para o dia seguinte” ou “para o dia que vem” (de hē epiousa, “o dia seguinte”); Jerônimo relata que o Evangelho dos Hebreus trazia mahar, “de amanhã”; (3) “para hoje, diário”, sentido das antigas versões latinas (quotidianum); (4) leitura escatológica: o pão do Reino futuro, dado já hoje, ou o pão supersubstancial (Jerônimo, na Vulgata de Mateus: supersubstantialem), lido por muitos Pais como referência à Eucaristia. A ordem segue o grego, que põe “o nosso pão” em primeiro lugar. “De cada dia” segue a tradição de uso nas igrejas e combina com “hoje” e com o maná diário (Êx 16:4); “necessário” ou “de amanhã” são alternativas sérias.",
     "revisar": true
    }
   ]
@@ -2620,20 +2634,19 @@
     "ancora": "perdoamos",
     "termo": "ἀφήκαμεν (aphēkamen)",
     "titulo": "aoristo",
-    "texto": "O aoristo pode indicar que quem ora já perdoou antes de pedir perdão. Não é uma troca, como se o nosso perdão comprasse o de Deus, mas a condição de quem pode pedir com sinceridade (vv. 14-15; 18:32-35). O Textus Receptus e o Texto Bizantino trazem o presente aphiemen (“perdoamos”, agora)."
+    "texto": "O aoristo pode indicar que quem ora já perdoou antes de pedir perdão. Não é uma troca, como se o nosso perdão comprasse o de Deus, mas a condição de quem pode pedir com sinceridade (vv. 14-15; 18:32-35). Em português, “perdoamos” serve tanto para o presente como para o pretérito perfeito, e por isso comporta esse sentido sem acrescentar “já”. O Textus Receptus e o Texto Bizantino trazem o presente aphiemen."
    }
   ]
  },
  "Mat.6.13": {
-  "t": "E não nos deixes cair em tentação, mas livra-nos do Maligno.’",
+  "t": "E não nos conduzas à tentação, mas livra-nos do Maligno.’",
   "n": [
    {
     "tipo": "tn",
-    "ancora": "não nos deixes cair em tentação",
+    "ancora": "não nos conduzas à tentação",
     "termo": "μὴ εἰσενέγκῃς ἡμᾶς εἰς πειρασμόν (mē eisenenkēs hēmas eis peirasmon)",
-    "titulo": "“não nos conduzas”",
-    "texto": "Lit. “não nos leves para dentro da tentação”. Deus não tenta ninguém para o mal (Tg 1:13), mas pode permitir a prova (4:1). Por trás do grego pode estar uma forma causativa semítica com o sentido de “não permitas que entremos”. A tradução “não nos deixes cair” interpreta nessa linha; a forma literal, “não nos conduzas”, é defensável. Peirasmos pode ser a tentação ao pecado ou a grande prova dos últimos tempos (26:41).",
-    "revisar": true
+    "titulo": "eispherō: “levar para dentro”",
+    "texto": "Lit. “não nos leves para dentro da tentação”. A APV mantém o verbo literal. Deus não tenta ninguém para o mal (Tg 1:13), mas pode permitir a prova (4:1). Por trás do grego pode estar uma forma causativa semítica com o sentido de “não permitas que entremos”, e várias traduções interpretam nessa linha (“não nos deixes cair”). Peirasmos pode ser a tentação ao pecado ou a grande prova dos últimos tempos (26:41)."
    },
    {
     "tipo": "tn",
@@ -2721,7 +2734,7 @@
   ]
  },
  "Mat.6.18": {
-  "t": "para que não pareça às pessoas que você está jejuando, mas somente ao seu Pai, que está em segredo; e o seu Pai, que vê o que está em segredo, lhe dará a recompensa.",
+  "t": "para que não pareça às pessoas que você está jejuando, mas somente ao seu Pai, que está em segredo; e o seu Pai, que vê o que está em segredo, lhe retribuirá.",
   "n": [
    {
     "tipo": "tn",
@@ -2821,18 +2834,18 @@
   ]
  },
  "Mat.6.24": {
-  "t": "Ninguém pode servir a dois senhores, pois ou odiará um e amará o outro, ou se dedicará a um e desprezará o outro. Vocês não podem servir a Deus e ao dinheiro.",
+  "t": "Ninguém pode ser escravo de dois senhores, pois ou odiará um e amará o outro, ou se dedicará a um e desprezará o outro. Vocês não podem ser escravos de Deus e do dinheiro.",
   "n": [
    {
     "tipo": "tn",
-    "ancora": "servir",
-    "termo": "δουλεύειν (douleuein)",
+    "ancora": "ser escravo de dois senhores",
+    "termo": "δυσὶ κυρίοις δουλεύειν (dysi kyriois douleuein)",
     "titulo": "douleuō: “ser escravo”",
-    "texto": "Douleuō é servir como escravo (doulos). Um empregado pode ter dois patrões; um escravo pertence inteiramente a um só dono. A APV traduz doulos por “servo” e douleuō por “servir”, mas a força é a de pertencer por inteiro."
+    "texto": "Douleuō é servir como escravo (doulos), e os kyrioi aqui são os donos de escravos. Um empregado pode ter dois patrões; um escravo pertence inteiramente a um só dono. Como a imagem é a da própria condição de escravo, a APV traduz “ser escravo”; em outros contextos doulos é “servo” (Moisés e os profetas são “servos” de Deus). “Servir a Deus” no sentido de culto é outro verbo, latreuō (4:10)."
    },
    {
     "tipo": "tn",
-    "ancora": "dinheiro",
+    "ancora": "do dinheiro",
     "termo": "μαμωνᾷ (mamōna)",
     "titulo": "mamōnas",
     "texto": "Palavra aramaica (mamona) para riqueza e bens, sem sentido negativo em si; os Evangelhos a deixam transliterada (“Mamom”, ARC). Aqui é personificada como um senhor rival de Deus. “Dinheiro” dá o sentido; a construção paralela com “Deus” deixa clara a personificação."
@@ -2868,7 +2881,7 @@
     "ancora": "com o que vão comer",
     "termo": "τί φάγητε (+ ἢ τί πίητε)",
     "titulo": "“ou o que vão beber”",
-    "texto": "O NA28 (entre colchetes), o THGNT, o Textus Receptus e o Texto Bizantino acrescentam “ou o que vão beber”, com forte apoio. O SBLGNT omite, com alguns manuscritos antigos, considerando a frase uma harmonização com o v. 31. O sentido não muda."
+    "texto": "O NA28, o THGNT, Westcott-Hort, Tregelles, o Textus Receptus e o Texto Bizantino acrescentam “ou o que vão beber”. O SBLGNT, texto-base da APV, omite. O sentido não muda."
    }
   ]
  },
@@ -2892,14 +2905,14 @@
   ]
  },
  "Mat.6.27": {
-  "t": "E quem de vocês, por mais que se preocupe, pode acrescentar uma só hora à duração da sua vida?",
+  "t": "E qual de vocês, com as suas preocupações, pode acrescentar um só côvado à duração da sua vida?",
   "n": [
    {
     "tipo": "tn",
-    "ancora": "acrescentar uma só hora à duração da sua vida",
+    "ancora": "um só côvado à duração da sua vida",
     "termo": "προσθεῖναι ἐπὶ τὴν ἡλικίαν αὐτοῦ πῆχυν ἕνα",
-    "titulo": "“um côvado à sua estatura”",
-    "texto": "Lit. “acrescentar um côvado à sua idade (ou estatura)”. Hēlikia pode ser “estatura” (Lc 19:3) ou “tempo de vida” (Jo 9:21); pēchys é o côvado, cerca de 45 cm. “Um côvado à estatura” (ARC) faria do exemplo algo enorme, quando o ponto é algo mínimo; por isso a maioria entende “tempo de vida”, com o côvado usado como medida figurada de tempo (Sl 39:5). A tradução dá esse sentido; “estatura” continua possível."
+    "titulo": "côvado e hēlikia",
+    "texto": "Pēchys é o côvado, medida de cerca de 45 cm; a APV mantém a palavra. Hēlikia pode ser “estatura” (Lc 19:3) ou “idade, tempo de vida” (Jo 9:21). “Um côvado à estatura” (ARC) faria do exemplo algo enorme, quando o ponto é algo mínimo; por isso a maioria entende “tempo de vida”, com a medida de comprimento usada como metáfora de tempo, como os “palmos” de Sl 39:5: um pequeno acréscimo à vida. “Estatura” continua possível."
    }
   ]
  },
@@ -2991,7 +3004,7 @@
     "ancora": "o Reino e a justiça dele",
     "termo": "τὴν βασιλείαν (+ τοῦ θεοῦ) καὶ τὴν δικαιοσύνην αὐτοῦ",
     "titulo": "“o Reino de Deus”",
-    "texto": "O NA28 (entre colchetes), o THGNT, Tregelles, o Textus Receptus e o Texto Bizantino trazem “o Reino de Deus”. O SBLGNT omite “de Deus”, com alguns manuscritos antigos; Mateus quase sempre diz “Reino dos céus”, e o acréscimo pode ter vindo para esclarecer. Sem ele, “dele” remete ao “Pai celestial” do v. 32. O sentido é o mesmo."
+    "texto": "O NA28, o THGNT, Tregelles, o Textus Receptus e o Texto Bizantino trazem “o Reino de Deus”. O SBLGNT omite “de Deus”; Mateus quase sempre diz “Reino dos céus”, e o acréscimo pode ter vindo para esclarecer. Sem ele, “dele” remete ao “Pai celestial” do v. 32. O sentido é o mesmo."
    },
    {
     "tipo": "tn",
@@ -3010,21 +3023,21 @@
   ]
  },
  "Mat.6.34": {
-  "t": "Portanto, não se preocupem com o amanhã, pois o amanhã trará as suas próprias preocupações. Basta a cada dia o seu próprio mal.",
+  "t": "Portanto, não se preocupem com o amanhã, pois o amanhã se preocupará consigo mesmo. A cada dia basta a sua própria aflição.",
   "n": [
    {
     "tipo": "tn",
-    "ancora": "o amanhã trará as suas próprias preocupações",
+    "ancora": "o amanhã se preocupará consigo mesmo",
     "termo": "ἡ γὰρ αὔριον μεριμνήσει ἑαυτῆς",
-    "titulo": "“o amanhã se preocupará consigo”",
-    "texto": "Lit. “o amanhã se preocupará consigo mesmo”. O amanhã é personificado: deixe que ele cuide de si. A tradução dá o sentido; a forma literal soa estranha em português."
+    "titulo": "o amanhã personificado",
+    "texto": "Tradução literal. O amanhã é personificado: deixe que ele cuide de si."
    },
    {
     "tipo": "tn",
-    "ancora": "Basta a cada dia o seu próprio mal",
+    "ancora": "A cada dia basta a sua própria aflição",
     "termo": "ἀρκετὸν τῇ ἡμέρᾳ ἡ κακία αὐτῆς (arketon tē hēmera hē kakia autēs)",
     "titulo": "arketos e kakia",
-    "texto": "Arketos (“suficiente”) só aparece aqui, em 10:25 e em 1Pe 4:3. Kakia aqui não é maldade moral, mas o problema, a aflição de cada dia. A frase é provérbio realista: a vida tem dificuldades, mas cada dia tem a sua medida."
+    "texto": "Arketos (“suficiente”) só aparece aqui, em 10:25 e em 1Pe 4:3. Kakia, lit. “mal”, aqui não é maldade moral, mas o problema, a aflição de cada dia; por isso “aflição”, e não “mal”, que sugeriria pecado. A frase é provérbio realista: a vida tem dificuldades, mas cada dia tem a sua medida."
    }
   ]
  },
@@ -3103,7 +3116,7 @@
     "ancora": "o que é santo aos cães",
     "termo": "τὸ ἅγιον τοῖς κυσίν (to hagion tois kysin)",
     "titulo": "um dito difícil",
-    "texto": "“O que é santo” lembra a carne consagrada dos sacrifícios, que não podia ser dada a ninguém de fora, muito menos aos cães (Êx 29:33-34; 22:31). Cães (selvagens, não de estimação) e porcos eram animais impuros. O dito equilibra o v. 1: não julgar não significa oferecer as coisas sagradas a quem as despreza com violência. A aplicação é discutida: a mensagem do Reino diante de quem a rejeita com hostilidade (10:14), ou as coisas santas da comunidade; a Didaquê (9:5) aplica o texto à Eucaristia, que não devia ser dada aos não batizados."
+    "texto": "“O que é santo” lembra a carne consagrada dos sacrifícios, que não podia ser dada a ninguém de fora, muito menos aos cães (Êx 29:33-34; cf. Lv 22:10-16). Cães (selvagens, não de estimação) e porcos eram animais impuros. O dito equilibra o v. 1: não julgar não significa oferecer as coisas sagradas a quem as despreza com violência. A aplicação é discutida: a mensagem do Reino diante de quem a rejeita com hostilidade (10:14), ou as coisas santas da comunidade; a Didaquê (9:5) aplica o texto à Eucaristia, que não devia ser dada aos não batizados."
    },
    {
     "tipo": "tn",
@@ -3238,7 +3251,7 @@
     "ancora": "lobos vorazes",
     "termo": "λύκοι ἅρπαγες (lykoi harpages)",
     "titulo": "harpax",
-    "texto": "Harpax é “rapace, que arrebata”. Na Bíblia os lobos representam líderes que devoram o povo (Ez 22:27; Sf 3:3; At 20:29)."
+    "texto": "Harpax é “rapace, que arrebata à força”. Quando designa pessoas numa lista de vícios, a APV o traduz por “extorsor” (1Co 5:10; 6:10); aqui qualifica lobos, e “vorazes” dá a imagem do predador; os falsos profetas, por trás da imagem, são também exploradores do rebanho. Na Bíblia os lobos representam líderes que devoram o povo (Ez 22:27; Sf 3:3; At 20:29)."
    }
   ]
  },
@@ -3281,7 +3294,7 @@
     "ancora": "produzir",
     "termo": "ποιεῖν (poiein)",
     "titulo": "poiein ou enenkein",
-    "texto": "Westcott-Hort traz enenkein (“dar”), com alguns manuscritos; as demais edições têm poiein. Mesmo sentido."
+    "texto": "Westcott-Hort traz enenkein (“dar”); as demais edições têm poiein (“produzir”). Mesmo sentido."
    }
   ]
  },
@@ -3476,7 +3489,7 @@
     "ancora": "os escribas deles",
     "termo": "οἱ γραμματεῖς αὐτῶν (hoi grammateis autōn)",
     "titulo": "“deles”",
-    "texto": "O Textus Receptus e o Texto Bizantino não trazem autōn (“deles”). Com o pronome, Mateus distingue os escribas do povo dos “escribas” que se tornam discípulos (13:52; 23:34)."
+    "texto": "O Textus Receptus e o Texto Bizantino não trazem autōn (“deles”). Com o pronome, os escribas aparecem como um grupo de fora da comunidade de Jesus, ligado às multidões e à sua liderança (“os escribas deles”). Mateus conhece também o escriba que se torna discípulo (13:52)."
    }
   ]
  }

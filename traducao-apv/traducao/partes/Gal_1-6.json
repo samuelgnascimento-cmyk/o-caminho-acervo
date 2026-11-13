@@ -85,7 +85,7 @@
     "ancora": "pelos nossos pecados",
     "termo": "ὑπὲρ τῶν ἁμαρτιῶν ἡμῶν",
     "titulo": "hyper ou peri",
-    "texto": "O texto crítico traz hyper (“em favor de, por”); o Texto Bizantino e o Textus Receptus, peri (“acerca de, por”). Nesta construção as duas preposições têm o mesmo sentido, e a tradução não muda."
+    "texto": "O texto crítico e o Textus Receptus trazem hyper (“em favor de, por”); o Texto Bizantino, peri (“acerca de, por”). Nesta construção as duas preposições têm o mesmo sentido, e a tradução não muda."
    },
    {
     "tipo": "tn",
@@ -123,7 +123,7 @@
     "ancora": "Estou espantado",
     "termo": "Θαυμάζω (Thaumazō)",
     "titulo": "sem ação de graças",
-    "texto": "Em todas as outras cartas de Paulo às igrejas, depois da saudação vem uma ação de graças. Aqui ela falta, e em seu lugar vem esta censura. Thaumazō era usado nas cartas da época para expressar repreensão e decepção. O silêncio é intencional."
+    "texto": "Nas cartas de Paulo às igrejas, depois da saudação vem normalmente uma ação de graças ou uma bênção (Rm 1:8; 1Co 1:4; 2Co 1:3; Fp 1:3). Aqui ela falta, e em seu lugar vem esta censura. Thaumazō era usado nas cartas da época para expressar repreensão e decepção. O silêncio é intencional."
    },
    {
     "tipo": "tn",
@@ -277,7 +277,7 @@
   ]
  },
  "Gal.1.13": {
-  "t": "Vocês ouviram falar do meu modo de vida no judaísmo: como eu perseguia com violência a igreja de Deus e procurava destruí-la.",
+  "t": "Vocês ouviram falar do meu modo de vida de outrora no judaísmo: como eu perseguia com violência a igreja de Deus e procurava destruí-la.",
   "n": [
    {
     "tipo": "tn",
@@ -772,14 +772,14 @@
   ]
  },
  "Gal.2.11": {
-  "t": "Mas, quando Cefas veio a Antioquia, eu me opus a ele face a face, porque ele estava claramente errado.",
+  "t": "Mas, quando Cefas veio a Antioquia, eu me opus a ele face a face, porque ele estava condenado.",
   "n": [
    {
     "tipo": "tn",
-    "ancora": "estava claramente errado",
+    "ancora": "estava condenado",
     "termo": "κατεγνωσμένος ἦν (kategnōsmenos ēn)",
     "titulo": "kataginōskō, raro",
-    "texto": "Lit. “estava condenado”. Pode ser “condenado pelos próprios atos” (a conduta o acusava) ou “condenado diante de Deus”. Em 1Jo 3:20-21 o verbo se refere ao coração que acusa. A tradução segue o sentido de culpa evidente."
+    "texto": "Lit. “estava condenado”. Pode ser “condenado pelos próprios atos” (a conduta o acusava) ou “condenado diante de Deus”. Em 1Jo 3:20-21 o verbo se refere ao coração que acusa. A tradução mantém o particípio passivo; o contexto (vv. 12-14) mostra que a própria conduta de Pedro o condenava."
    },
    {
     "tipo": "tc",
@@ -890,7 +890,7 @@
     "ancora": "pecadores dentre os gentios",
     "termo": "ἐξ ἐθνῶν ἁμαρτωλοί",
     "titulo": "a linguagem judaica",
-    "texto": "Paulo repete a forma como judeus falavam dos gentios: pecadores porque estavam fora da lei (cf. 1Sm 15:18; Sl 9:17). Ele cita o rótulo para depois mostrar, no v. 16, que até os judeus precisam ser justificados pela fé."
+    "texto": "Paulo repete a forma como judeus falavam dos gentios: pecadores porque estavam fora da lei (cf. 1Sm 15:18; 1Mc 1:34; na Septuaginta de Sl 9:18, “os pecadores” estão em paralelo com “todas as nações que se esquecem de Deus”). Ele cita o rótulo para depois mostrar, no v. 16, que até os judeus precisam ser justificados pela fé."
    }
   ]
  },
@@ -938,7 +938,7 @@
     "ancora": "sabemos, porém",
     "termo": "εἰδότες δὲ",
     "titulo": "de",
-    "texto": "O Textus Receptus e o Texto Bizantino omitem de (“porém”) e trazem dioti em vez de hoti no fim. Sem efeito no sentido. O particípio “sabendo” foi traduzido por verbo finito."
+    "texto": "O Textus Receptus e o Texto Bizantino omitem de (“porém”) e têm outra forma e ordem na oração final. Sem efeito no sentido. O particípio “sabendo” foi traduzido por verbo finito."
    }
   ]
  },
@@ -1145,7 +1145,7 @@
     "ancora": "experimentaram",
     "termo": "ἐπάθετε (epathete)",
     "titulo": "paschō: “sofrer” ou “experimentar”",
-    "texto": "Paschō é normalmente “sofrer” no NT, e muitos traduzem assim, pensando em perseguições (At 14:22). Mas a carta não fala de sofrimentos dos gálatas, e o contexto (vv. 2, 5) trata das experiências do Espírito; o verbo pode ter esse sentido neutro. A tradução escolheu “experimentar”, que cabe nas duas leituras.",
+    "texto": "Paschō é normalmente “sofrer” no NT, e muitos traduzem assim, pensando em perseguições (At 14:22). Mas a carta não fala claramente de sofrimentos dos próprios gálatas (4:29 e 5:11 falam de perseguição em termos gerais ou da que Paulo sofre), e o contexto imediato (vv. 2-5) trata das experiências do Espírito; o verbo pode ter esse sentido neutro (cf. BDAG). A tradução escolheu “experimentar”, que cabe nas duas leituras.",
     "revisar": true
    }
   ]
@@ -1203,14 +1203,14 @@
   ]
  },
  "Gal.3.7": {
-  "t": "Entendam, portanto, que os que vivem pela fé, esses são filhos de Abraão.",
+  "t": "Entendam, portanto, que os que são da fé, esses são filhos de Abraão.",
   "n": [
    {
     "tipo": "tn",
-    "ancora": "os que vivem pela fé",
+    "ancora": "os que são da fé",
     "termo": "οἱ ἐκ πίστεως (hoi ek pisteōs)",
     "titulo": "“os da fé”",
-    "texto": "Lit. “os que são da fé”, isto é, os que têm a fé como origem e marca de identidade, em oposição a “os que são das obras da lei” (v. 10). “Vivem pela fé” prepara o v. 11 (“o justo viverá pela fé”)."
+    "texto": "Os que têm a fé como origem e marca de identidade, em oposição a “os que dependem das obras da lei” (v. 10). A APV mantém a fórmula literal, que se repete com ek pisteōs nos vv. 7, 9, 11, 12 e 22 e prepara o v. 11 (“o justo viverá pela fé”)."
    },
    {
     "tipo": "tn",
@@ -1255,7 +1255,7 @@
   ]
  },
  "Gal.3.9": {
-  "t": "De modo que os que vivem pela fé são abençoados com Abraão, o homem de fé.",
+  "t": "De modo que os que são da fé são abençoados com Abraão, o homem de fé.",
   "n": [
    {
     "tipo": "tn",
@@ -1418,7 +1418,7 @@
     "ancora": "mesmo",
     "termo": "ὅμως (homōs)",
     "titulo": "homōs, raro",
-    "texto": "Só aqui, em Jo 12:42 e 1Co 14:7. Normalmente “contudo”, mas aqui, como em 1Co 14:7, parece ter o sentido comparativo “do mesmo modo, até mesmo”. Por isso “mesmo”."
+    "texto": "Só aqui, em Jo 12:42 e 1Co 14:7. O sentido normal é “contudo, apesar disso”. Aqui e em 1Co 14:7 o uso é discutido: alguns leem “contudo” deslocado (“embora seja um testamento humano, contudo ninguém o anula”); outros, um sentido comparativo, “do mesmo modo” (talvez de homōs, “igualmente”). “Mesmo” procura dar o sentido da frase sem decidir a questão."
    },
    {
     "tipo": "tn",
@@ -1543,13 +1543,6 @@
     "termo": "ζῳοποιῆσαι (zōopoiēsai)",
     "titulo": "zōopoieō",
     "texto": "“Fazer viver”, verbo usado para a ressurreição (Rm 4:17; 8:11; 1Co 15:22). A lei apontava para a vida (v. 12), mas não tinha poder para comunicá-la a quem estava morto no pecado. Só o Espírito vivifica (2Co 3:6)."
-   },
-   {
-    "tipo": "tc",
-    "ancora": "realmente viria",
-    "termo": "ὄντως ... ἂν ἦν",
-    "titulo": "an",
-    "texto": "O Textus Receptus e o Texto Bizantino omitem an, partícula que marca a irrealidade da condição. Sem efeito na tradução."
    }
   ]
  },
@@ -1858,7 +1851,7 @@
     "ancora": "aos nossos corações",
     "termo": "εἰς τὰς καρδίας ἡμῶν",
     "titulo": "nossos ou seus",
-    "texto": "O Textus Receptus e o Texto Bizantino trazem hymōn (“seus”, de vocês). A mudança de “vocês” para “nossos” é típica de Paulo e foi provavelmente uniformizada pelos copistas."
+    "texto": "O texto crítico traz hēmōn (“nossos corações”); o Textus Receptus e o Texto Bizantino, hymōn (“seus corações”), provavelmente por harmonização com “vocês são filhos” no início do versículo. A passagem de “vocês” para “nós” é comum em Paulo. Sem efeito no sentido geral."
    }
   ]
  },
@@ -2172,7 +2165,7 @@
   ]
  },
  "Gal.4.24": {
-  "t": "Essas coisas são ditas em alegoria: essas mulheres são duas alianças. Uma vem do monte Sinai e gera filhos para a escravidão: essa é Agar.",
+  "t": "Essas coisas são ditas em alegoria, pois essas mulheres são duas alianças. Uma vem do monte Sinai e gera filhos para a escravidão: essa é Agar.",
   "n": [
    {
     "tipo": "tn",
@@ -2186,7 +2179,7 @@
     "ancora": "alianças",
     "termo": "διαθῆκαι (diathēkai)",
     "titulo": "diathēkē",
-    "texto": "As duas alianças são a do Sinai e a da promessa, que se cumpre na nova aliança em Cristo. É a mesma palavra de 3:15-17."
+    "texto": "O grego diz só “estas são”; “mulheres” foi acrescentado para deixar claro que se trata de Agar e Sara. As duas alianças são a do Sinai e a da promessa, que se cumpre na nova aliança em Cristo. É a mesma palavra de 3:15-17."
    },
    {
     "tipo": "tc",
@@ -2403,7 +2396,7 @@
   ]
  },
  "Gal.5.4": {
-  "t": "Vocês, que procuram ser justificados pela lei, se desligaram de Cristo; caíram da graça.",
+  "t": "Vocês, que procuram ser justificados pela lei, foram desligados de Cristo; caíram da graça.",
   "n": [
    {
     "tipo": "tn",
@@ -2414,7 +2407,7 @@
    },
    {
     "tipo": "tn",
-    "ancora": "se desligaram de Cristo",
+    "ancora": "foram desligados de Cristo",
     "termo": "κατηργήθητε ἀπὸ Χριστοῦ",
     "titulo": "katargeō apo",
     "texto": "Lit. “foram anulados, separados de Cristo”. A construção indica que a relação com Cristo perde o efeito para quem busca justificação pela lei. O mesmo verbo aparece em Rm 7:2, 6 para a “dissolução” do vínculo com a lei."
@@ -2581,7 +2574,7 @@
   ]
  },
  "Gal.5.13": {
-  "t": "Pois vocês, irmãos, foram chamados para a liberdade. Apenas não usem a liberdade como pretexto para a carne; ao contrário, sirvam uns aos outros por meio do amor.",
+  "t": "Pois vocês, irmãos, foram chamados para a liberdade. Apenas não usem a liberdade como pretexto para a carne; ao contrário, por meio do amor, sirvam uns aos outros como escravos.",
   "n": [
    {
     "tipo": "tn",
@@ -2599,10 +2592,10 @@
    },
    {
     "tipo": "tn",
-    "ancora": "sirvam uns aos outros",
+    "ancora": "sirvam uns aos outros como escravos",
     "termo": "δουλεύετε ἀλλήλοις",
     "titulo": "douleuō",
-    "texto": "Lit. “sejam escravos uns dos outros”. Paradoxo intencional: os libertos da escravidão (5:1) tornam-se escravos uns dos outros pelo amor. “Sirvam” é o equivalente comum; a nota guarda a força."
+    "texto": "Lit. “sejam escravos uns dos outros”. Paradoxo intencional: os libertos da escravidão (5:1) e chamados para a liberdade tornam-se escravos uns dos outros pelo amor. Como o versículo contrasta escravidão e liberdade, a APV mantém a imagem da escravidão."
    }
   ]
  },
@@ -2645,14 +2638,14 @@
   ]
  },
  "Gal.5.16": {
-  "t": "Digo, porém: vivam pelo Espírito, e de modo nenhum satisfarão o desejo da carne.",
+  "t": "Digo, porém: andem pelo Espírito, e de modo nenhum satisfarão o desejo da carne.",
   "n": [
    {
     "tipo": "tn",
-    "ancora": "vivam",
+    "ancora": "andem",
     "termo": "περιπατεῖτε (peripateite)",
     "titulo": "peripateō",
-    "texto": "Lit. “andem”, metáfora hebraica para a conduta diária. O presente indica hábito contínuo."
+    "texto": "“Andar” é metáfora hebraica para a conduta diária. A APV mantém a imagem aqui para não confundir peripateō com zaō (“viver”, v. 25). O presente indica hábito contínuo."
    },
    {
     "tipo": "tn",
@@ -2791,7 +2784,7 @@
     "ancora": "não herdarão o Reino de Deus",
     "termo": "βασιλείαν θεοῦ οὐ κληρονομήσουσιν",
     "titulo": "a advertência",
-    "texto": "Uma das poucas menções de Paulo ao Reino de Deus, sempre como herança futura (1Co 6:9-10; 15:50). O particípio presente “os que praticam” descreve uma vida marcada por essas práticas, não a queda ocasional que leva ao arrependimento (6:1)."
+    "texto": "Paulo fala do Reino de Deus como herança futura (1Co 6:9-10; 15:50), embora também o apresente como realidade presente (Rm 14:17; 1Co 4:20). O particípio presente “os que praticam” descreve uma vida marcada por essas práticas, não a queda ocasional que leva ao arrependimento (6:1)."
    },
    {
     "tipo": "tn",
@@ -3246,7 +3239,7 @@
     "ancora": "e sobre o Israel de Deus",
     "termo": "καὶ ἐπὶ τὸν Ἰσραὴλ τοῦ θεοῦ",
     "titulo": "quem é o Israel de Deus?",
-    "texto": "Expressão única no NT, com três leituras principais. (1) A igreja de judeus e gentios, o povo de Deus renovado em Cristo: o kai seria explicativo (“isto é, sobre o Israel de Deus”), e a leitura combina com 3:7, 29 e 4:26 e com Fp 3:3; é defendida, entre outros, por N. T. Wright. (2) Os judeus que creem em Cristo, dentro da igreja: o kai seria aditivo, como é o uso normal da conjunção, e Paulo nunca chama a igreja de “Israel” em outro lugar. (3) O Israel étnico, que Deus ainda vai alcançar com misericórdia (Rm 11:25-32); defendida, por exemplo, por P. Richardson (1969). A bênção ecoa Sl 125:5 e 128:6 (“paz sobre Israel”) e a oração judaica que pede “paz e misericórdia sobre nós e sobre todo o teu povo Israel”. A APV traduz o kai por “e”, que é o seu sentido mais comum, e deixa a vírgula antes, como no grego, para não decidir a questão no texto. A leitura (1) é hoje a mais difundida entre os comentaristas, mas a decisão tem peso teológico (relação entre a igreja e Israel) e as três posições são sérias.",
+    "texto": "Expressão única no NT, com três leituras principais. (1) A igreja de judeus e gentios, o povo de Deus renovado em Cristo: o kai seria explicativo (“isto é, sobre o Israel de Deus”), e a leitura combina com 3:7, 29 e 4:26 e com Fp 3:3; é defendida, entre outros, por N. T. Wright. (2) Os judeus que creem em Cristo, dentro da igreja: o kai seria aditivo, como é o uso normal da conjunção, e Paulo nunca chama a igreja de “Israel” em outro lugar. (3) O Israel étnico, que Deus ainda vai alcançar com misericórdia (Rm 11:25-32), leitura defendida por alguns comentaristas. A bênção ecoa Sl 125:5 e 128:6 (“paz sobre Israel”) e a oração judaica que pede “paz e misericórdia sobre nós e sobre todo o teu povo Israel”. A APV traduz o kai por “e”, que é o seu sentido mais comum, e deixa a vírgula antes, como no grego, para não decidir a questão no texto. A leitura (1) é hoje a mais difundida entre os comentaristas, mas a decisão tem peso teológico (relação entre a igreja e Israel) e as três posições são sérias.",
     "revisar": true
    },
    {
