@@ -1,0 +1,152 @@
+[
+ {
+  "ref": "Act.4.4",
+  "gravidade": "alta",
+  "problema": "Nota tn afirma que Lucas usa anēr de modo genérico em 17:34 'onde inclui Dâmaris'. Em 17:34 o grego diz 'alguns homens (andres)... e uma mulher chamada Dâmaris': Dâmaris é distinguida dos andres, então o exemplo é falso. Além disso, a nota diz que o TR e o Bizantino 'não têm hōs'; a folha mostra que eles trazem ὡσεί no lugar de ὡς (e o NA28 também).",
+  "sugestao": "Trocar o exemplo (p. ex. 1:16, 'andres adelphoi' dirigido a um grupo com mulheres, 1:14-15) ou tirar a afirmação sobre Dâmaris. Corrigir: 'O NA28, o TR e o Bizantino têm hōsei (\"cerca de\"), com o mesmo sentido.'"
+ },
+ {
+  "ref": "Act.1.20",
+  "gravidade": "media",
+  "problema": "Nota sn diz que 'Que outro tome o seu cargo' é 'citação exata da Septuaginta' e que o TR tem 'labot (optativo)'. A LXX (Sl 108:8) tem o optativo λάβοι; Atos tem o imperativo λαβέτω, logo não é exata. A folha mostra o TR/Bizantino com λάβοι (laboi), não 'labot'. Nenhuma das duas citações traz a referência do segundo salmo (Sl 109:8; LXX 108:8).",
+  "sugestao": "Reescrever: 'Segundo Sl 109:8 (LXX 108:8), com imperativo (labetō) em lugar do optativo da LXX (laboi), que é a leitura do TR e do Bizantino.' Dar a referência do segundo salmo no corpo da nota."
+ },
+ {
+  "ref": "Act.1.5",
+  "gravidade": "media",
+  "problema": "A nota sn declara que a 'tradição pentecostal e carismática, à qual a APV se filia' entende o batismo no Espírito como poder distinto da conversão. O guia define a linha como ortodoxa e continuísta, sem filiação pentecostal; é uma declaração institucional sem base e que pende para um lado num ponto disputado.",
+  "sugestao": "Trocar por: 'A tradição pentecostal e carismática entende ... Outros ... A APV, continuísta, lê o texto como ...' ou apresentar as posições sem declarar filiação."
+ },
+ {
+  "ref": "Act.6.3",
+  "gravidade": "media",
+  "problema": "A tradução inicia com 'Portanto', que corresponde a οὖν (THGNT, Tregelles, TR, Bizantino). O texto-base (SBL) traz δέ. Falta nota tc, e a tradução segue a variante sem avisar.",
+  "sugestao": "Traduzir δέ ('E', 'Então', ou omitir o conectivo) e acrescentar nota tc: SBLGNT δέ; THGNT, Tregelles, TR e Bizantino οὖν; sentido pouco muda."
+ },
+ {
+  "ref": "Act.6.11",
+  "gravidade": "media",
+  "problema": "'Subornaram' acrescenta a ideia de dinheiro que o grego não tem; a própria nota reconhece que ὑπέβαλον 'não fala explicitamente de dinheiro'. O guia proíbe acrescentar interpretação ao texto.",
+  "sugestao": "'instigaram em segredo alguns homens' (ou 'induziram'), deixando 'subornaram' como alternativa na nota."
+ },
+ {
+  "ref": "Act.2.25",
+  "gravidade": "media",
+  "problema": "As quatro citações do Sl 16 (At 2:25-28) não trazem a referência do salmo em nenhuma nota ('No salmo, Davi...'). O guia exige referência nas citações do AT. Também a nota de 2:34 não dá 'Sl 110:1' no próprio lugar (só 'citado no v. 34' em outro ponto).",
+  "sugestao": "Na nota de 2:25: 'Citação de Sl 16:8-11 (15:8-11 LXX), exata da Septuaginta.' Na de 2:34: 'Sl 110:1 (109:1 LXX)'."
+ },
+ {
+  "ref": "Act.1.4",
+  "gravidade": "media",
+  "problema": "'Certa vez' não tem base no grego (καὶ συναλιζόμενος = 'e, comendo/reunido com eles'). É acréscimo que transforma uma circunstância em evento pontual.",
+  "sugestao": "'Enquanto comia com eles, ordenou-lhes...' (ou 'E, estando com eles à mesa, ...')."
+ },
+ {
+  "ref": "Act.2.30",
+  "gravidade": "media",
+  "problema": "'Mas, sendo profeta' traduz προφήτης οὖν ὑπάρχων; οὖν é inferencial ('portanto/então'), não adversativo. O guia manda manter os conectivos.",
+  "sugestao": "'Sendo, pois, profeta, e sabendo que...'."
+ },
+ {
+  "ref": "Act.5.33",
+  "gravidade": "baixa",
+  "problema": "Nota tc diz que 'o texto crítico traz eboulonto'; a folha mostra que o NA28 e o TR trazem ἐβουλεύοντο; só o SBLGNT tem ἐβούλοντο.",
+  "sugestao": "'O SBLGNT traz eboulonto (\"queriam\"); o NA28 e o Textus Receptus, ebouleuonto (\"deliberavam\").'"
+ },
+ {
+  "ref": "Act.3.18",
+  "gravidade": "baixa",
+  "problema": "Nota afirma que 'o TR e o Bizantino não têm autou' depois de 'Cristo'. A folha não mostra nenhuma linha VARIANTE nesse versículo; o dado não está confirmado (na verdade a diferença é de posição de αὐτοῦ).",
+  "sugestao": "Retirar a afirmação ou reduzi-la a 'alguns testemunhos trazem outra posição de autou, sem efeito no sentido', se a folha passar a confirmar."
+ },
+ {
+  "ref": "Act.3.6",
+  "gravidade": "baixa",
+  "problema": "Nota tc afirma que 'o SBLGNT e Westcott-Hort trazem só ande!' e que TR e Bizantino trazem 'egeire kai peripatei'. A folha só confirma ἔγειρε em NA28, NA27, THGNT e Tregelles; nada sobre Westcott-Hort, e TR/Bizantino aparecem só com καὶ.",
+  "sugestao": "Limitar-se ao que a folha mostra: ἔγειρε presente em NA28, NA27, THGNT, Tregelles; καὶ também no TR e no Bizantino."
+ },
+ {
+  "ref": "Act.2.3",
+  "gravidade": "baixa",
+  "problema": "Nota diz que TR e Bizantino têm 'ekathise, mesma forma'. A folha mostra καὶ→τε no NA28, TR e Bizantino (ἐκάθισέν τε), isto é, não são idênticos ao texto-base.",
+  "sugestao": "'O NA28, o TR e o Bizantino têm te no lugar de kai (\"e pousou\"); sem efeito no sentido.'"
+ },
+ {
+  "ref": "Act.2.24",
+  "gravidade": "baixa",
+  "problema": "Nota cita 'Sl 18:4-5; 116:3' como 'Septuaginta', mas são números do hebraico; na LXX são 17:5-6 e 114:3. Mesmo problema em 2:37 (Sl 109:16, LXX 108:16).",
+  "sugestao": "Dar as duas numerações (Sl 18:4-5 [LXX 17:5-6]; 116:3 [LXX 114:3]; Sl 109:16 [LXX 108:16])."
+ },
+ {
+  "ref": "Act.2.17",
+  "gravidade": "baixa",
+  "problema": "'os seus filhos... os seus jovens' para οἱ υἱοὶ ὑμῶν: o grego é 2ª pessoa (Deus falando a pessoas), e 'seus' em português lê-se como 3ª pessoa. Contraria a decisão da onda 1 (Deus a pessoas: você/vocês).",
+  "sugestao": "'os filhos e as filhas de vocês profetizarão, os jovens de vocês terão visões, e os velhos de vocês terão sonhos'."
+ },
+ {
+  "ref": "Act.1.13",
+  "gravidade": "baixa",
+  "problema": "'Quando entraram na cidade': εἰσῆλθον não tem 'na cidade'. Além disso, a nota sobre Simão, o Zelote, não traz o que o guia pede (aramaico qan'ana, não 'cananeu' de Canaã).",
+  "sugestao": "'Quando entraram, subiram à sala de cima...'. Acrescentar à nota: 'Não é cananeu (de Canaã); vem do aramaico qan'ana, \"zeloso\".'"
+ },
+ {
+  "ref": "Act.1.17",
+  "gravidade": "baixa",
+  "problema": "ὅτι inicial omitido ('Ele era contado entre nós...'): perde-se a ligação com o v. 16. O hápax κατηριθμημένος também não recebe a explicação que o guia pede.",
+  "sugestao": "'Pois ele era contado entre nós...'; nota breve: hápax, 'contar no número de'."
+ },
+ {
+  "ref": "Act.1.10",
+  "gravidade": "baixa",
+  "problema": "Nota diz que só o TR tem o singular 'em veste branca'; a folha mostra que o NA28 também traz ἐσθῆτι λευκῇ.",
+  "sugestao": "'O NA28, o Textus Receptus e o Bizantino têm o singular esthēti leukē...'."
+ },
+ {
+  "ref": "Act.1.23",
+  "gravidade": "baixa",
+  "problema": "Nota atribui ao Códice de Beza (D) o singular estēsen; a folha não confirma e o guia manda citar manuscrito só com certeza. Mesmo caso em 4:6 (D lê 'Jônatas').",
+  "sugestao": "Trocar por 'alguns manuscritos' ou conferir no aparato antes de manter D."
+ },
+ {
+  "ref": "Act.4.9",
+  "gravidade": "baixa",
+  "problema": "'sobre como ele foi curado' traduz ἐν τίνι σέσωται; ἐν τίνι é 'por quem/por meio de quê', e é essa pergunta que o v. 10 responde ('em nome de Jesus'). 'Como' perde a ligação com 'nome' (vv. 7, 10, 12).",
+  "sugestao": "'e por quem (ou por meio de quem) ele foi curado'."
+ },
+ {
+  "ref": "Act.4.36",
+  "gravidade": "baixa",
+  "problema": "'Assim José' traduz δέ; 'Assim' cria um nexo lógico que o grego não tem (a própria nota admite que foi acrescentado).",
+  "sugestao": "'E José, a quem...' ou 'Também José, ...'."
+ },
+ {
+  "ref": "Act.4.12",
+  "gravidade": "baixa",
+  "problema": "Nota afirma que Pedro diz 'que nem o templo nem a Lei, mas o nome de Jesus' é o caminho: 'nem o templo nem a Lei' não está no texto. Também a tradução reproduz quase palavra por palavra ARA ('E não há salvação em nenhum outro') e NAA ('nenhum outro nome, dado entre os homens, pelo qual devamos ser salvos').",
+  "sugestao": "Tirar 'nem o templo nem a Lei' da nota. Variar um pouco a redação, p. ex. 'Em nenhum outro há salvação; pois debaixo do céu nenhum outro nome foi dado aos homens em que devamos ser salvos'."
+ },
+ {
+  "ref": "Act.5.29",
+  "gravidade": "baixa",
+  "problema": "'É preciso obedecer a Deus antes que aos homens' coincide palavra por palavra com a NVI.",
+  "sugestao": "'Devemos dar obediência a Deus mais do que a homens' (ou outra redação própria de μᾶλλον ἢ)."
+ },
+ {
+  "ref": "Act.2.45",
+  "gravidade": "baixa",
+  "problema": "'repartiam o dinheiro' acrescenta 'o dinheiro' (αὐτά = os bens vendidos). A nota admite o acréscimo, mas o guia pede parcimônia.",
+  "sugestao": "'e os repartiam entre todos' ou 'repartiam o produto'."
+ },
+ {
+  "ref": "Act.5.40",
+  "gravidade": "baixa",
+  "problema": "'mandaram açoitá-los' para δείραντες (particípio aoristo, 'tendo açoitado'): acrescenta intermediário que o grego não tem.",
+  "sugestao": "'açoitaram-nos, ordenaram...'."
+ },
+ {
+  "ref": "Act.4.22",
+  "gravidade": "baixa",
+  "problema": "Nota translitera 'ta sēmeion tēs iaseōs'; o artigo neutro singular é 'to' (to sēmeion).",
+  "sugestao": "Corrigir para 'to sēmeion'."
+ }
+]

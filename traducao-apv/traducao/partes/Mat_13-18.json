@@ -1,0 +1,1154 @@
+{
+ "Mat.13.1": {
+  "t": "Naquele dia, Jesus saiu de casa e sentou-se à beira do mar.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Naquele dia",
+    "termo": "Ἐν τῇ ἡμέρᾳ ἐκείνῃ",
+    "titulo": "o terceiro discurso",
+    "texto": "Liga o capítulo ao anterior: no mesmo dia em que foi acusado de agir por Belzebu (12:24) e redefiniu a sua família (12:46-50), Jesus passa a ensinar por parábolas. O cap. 13 é o terceiro dos cinco grandes discursos de Mateus (5-7; 10; 13; 18; 24-25)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "saiu de casa",
+    "termo": "ἐξελθὼν ... τῆς οἰκίας (exelthōn tēs oikias)",
+    "titulo": "“da casa”",
+    "texto": "Lit. “saindo da casa”. O artigo supõe uma casa conhecida, provavelmente a de Cafarnaum onde Jesus se hospedava (cf. 9:10, 28; 13:36; 17:25). O Textus Receptus e o Texto Bizantino trazem de e apo (“e ... saindo da casa”), sem efeito no sentido."
+   }
+  ]
+ },
+ "Mat.13.2": {
+  "t": "Reuniram-se em volta dele multidões tão grandes que ele entrou num barco e se sentou, enquanto toda a multidão ficava de pé na praia.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "entrou num barco e se sentou",
+    "termo": "εἰς πλοῖον ἐμβάντα καθῆσθαι",
+    "titulo": "o barco como cátedra",
+    "texto": "Sentar-se era a posição do mestre que ensina (5:1; 23:2). O barco, afastado um pouco da margem, separava Jesus da multidão que o apertava e lhe dava um lugar de onde a voz alcançava a praia."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "ficava de pé",
+    "termo": "εἱστήκει (heistēkei)",
+    "titulo": "mais-que-perfeito",
+    "texto": "O mais-que-perfeito de histēmi tem aqui valor de estado: “estava de pé, permanecia em pé”. Contrasta com o mestre sentado."
+   }
+  ]
+ },
+ "Mat.13.3": {
+  "t": "E lhes falou muitas coisas por meio de parábolas, dizendo: “Eis que o semeador saiu a semear.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "parábolas",
+    "termo": "παραβολαῖς (parabolais)",
+    "titulo": "parabolē",
+    "texto": "Primeira ocorrência em Mateus. Parabolē é “comparação”: algo posto ao lado de outra coisa para ilustrá-la. Na Septuaginta traduz o hebraico mashal, que inclui provérbio, enigma, alegoria e dito de sabedoria (Sl 78:2; Ez 17:2). As parábolas de Jesus são histórias breves tiradas da vida comum que revelam o Reino a quem as recebe e o escondem de quem as rejeita (vv. 11-15)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Eis que",
+    "termo": "ἰδού (idou)",
+    "titulo": "idou",
+    "texto": "Partícula que chama a atenção do ouvinte para o que vai ser contado. Mantida a forma tradicional, que dá à abertura da parábola um tom de narrativa oral."
+   }
+  ]
+ },
+ "Mat.13.4": {
+  "t": "Enquanto ele semeava, umas sementes caíram à beira do caminho, e vieram as aves e as comeram.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "umas sementes",
+    "termo": "ἃ μέν (ha men)",
+    "titulo": "o sujeito subentendido",
+    "texto": "Lit. “umas ... outras”. O grego usa pronomes neutros no plural, subentendendo “sementes”. A tradução explicita o substantivo uma vez para a frase não ficar sem sujeito."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "à beira do caminho",
+    "termo": "παρὰ τὴν ὁδόν (para tēn hodon)",
+    "titulo": "o modo de semear",
+    "texto": "O semeador lançava as sementes à mão, espalhando-as. O “caminho” é a trilha que cruzava ou margeava o campo, de terra batida pelos pés, onde a semente não penetra. Alguns estudiosos, como J. Jeremias, pensam que na Palestina se semeava antes de arar, o que explicaria a semente lançada sobre a trilha; outros contestam essa reconstrução."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "vieram as aves",
+    "termo": "ἐλθόντα τὰ πετεινά",
+    "titulo": "particípio ou verbo finito",
+    "texto": "O texto-base traz o particípio elthonta (“tendo vindo”); o Textus Receptus e o Texto Bizantino, kai ēlthen (“e vieram”). A tradução é a mesma."
+   }
+  ]
+ },
+ "Mat.13.5": {
+  "t": "Outras caíram em terreno pedregoso, onde não havia muita terra, e logo brotaram, porque a terra não era profunda.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "terreno pedregoso",
+    "termo": "τὰ πετρώδη (ta petrōdē)",
+    "titulo": "petrōdēs",
+    "texto": "Não é um campo cheio de pedras soltas, mas terra rasa sobre a rocha calcária, comum na Galileia. A camada fina se aquece depressa e faz a semente brotar logo, mas não deixa a raiz descer."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "brotaram",
+    "termo": "ἐξανέτειλεν (exaneteilen)",
+    "titulo": "exanatellō, raro",
+    "texto": "Só aqui e no paralelo de Mc 4:5: “brotar, despontar”. O prefixo ex- sugere o broto que irrompe para fora da terra. O verbo está no singular, concordando com o sujeito neutro plural, como é normal em grego."
+   }
+  ]
+ },
+ "Mat.13.6": {
+  "t": "Mas, quando o sol nasceu, ficaram queimadas e, por não terem raiz, secaram.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "ficaram queimadas",
+    "termo": "ἐκαυματίσθη (ekaumatisthē)",
+    "titulo": "kaumatizō",
+    "texto": "“Ser abrasado pelo calor”. O sol que faz crescer a planta enraizada destrói a que não tem raiz; na explicação, o sol corresponde à aflição e à perseguição (v. 21)."
+   }
+  ]
+ },
+ "Mat.13.7": {
+  "t": "Outras caíram entre os espinhos, e os espinhos cresceram e as sufocaram.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "sufocaram",
+    "termo": "ἔπνιξαν (epnixan)",
+    "titulo": "pnigō, raro",
+    "texto": "“Sufocar, estrangular” (também em 18:28, onde um servo agarra outro pelo pescoço). Os espinhos já estavam na terra, invisíveis na hora da semeadura, e crescem mais depressa que o trigo. O Textus Receptus e o Texto Bizantino trazem o composto apepnixan, de mesmo sentido."
+   }
+  ]
+ },
+ "Mat.13.8": {
+  "t": "Outras ainda caíram em terra boa e davam fruto: uma, cem; outra, sessenta; outra, trinta.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "uma, cem",
+    "termo": "ὃ μὲν ἑκατόν",
+    "titulo": "uma colheita extraordinária",
+    "texto": "O número indica quantos grãos cada semente produzia. Isaque colheu “cem vezes mais” e isso é apresentado como bênção de Deus (Gn 26:12). Cem, sessenta e trinta descrevem uma colheita farta, que compensa com sobra as sementes perdidas."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "davam fruto",
+    "termo": "ἐδίδου καρπόν (edidou karpon)",
+    "titulo": "imperfeito",
+    "texto": "O imperfeito descreve a produção que continua ao longo do crescimento, em contraste com os aoristos (“caíram”, “secaram”) do que se perdeu de uma vez."
+   }
+  ]
+ },
+ "Mat.13.9": {
+  "t": "Quem tem ouvidos, ouça.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Quem tem ouvidos, ouça",
+    "termo": "ὁ ἔχων ὦτα ἀκουέτω",
+    "titulo": "chamado à atenção",
+    "texto": "A mesma fórmula de 11:15 e 13:43. Aqui prepara a pergunta dos discípulos (v. 10) e a citação de Isaías sobre ouvir sem entender (vv. 14-15)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Quem tem ouvidos",
+    "termo": "ὁ ἔχων ὦτα (+ ἀκούειν)",
+    "titulo": "“ouvidos para ouvir”",
+    "texto": "Tregelles, o Textus Receptus e o Texto Bizantino acrescentam akouein: “quem tem ouvidos para ouvir”, como em Mc 4:9. Sem efeito no sentido."
+   }
+  ]
+ },
+ "Mat.13.10": {
+  "t": "Os discípulos se aproximaram e lhe perguntaram: “Por que você fala com eles por meio de parábolas?”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "com eles",
+    "termo": "αὐτοῖς (autois)",
+    "titulo": "o povo e os discípulos",
+    "texto": "“Eles” são as multidões (v. 2), em contraste com “vocês”, os discípulos (v. 11). A distinção entre os de dentro e os de fora é o eixo da resposta. Os discípulos não chamam Jesus de kyrie aqui; por isso “você”."
+   }
+  ]
+ },
+ "Mat.13.11": {
+  "t": "Ele respondeu: “A vocês foi dado conhecer os mistérios do Reino dos céus, mas a eles não foi dado.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "mistérios",
+    "termo": "μυστήρια (mystēria)",
+    "titulo": "mystērion",
+    "texto": "Não é um segredo esotérico para iniciados, como nas religiões de mistério, mas algo do plano de Deus que estava oculto e só pode ser conhecido quando ele o revela (Dn 2:18-19, 27-30, onde a Septuaginta usa a mesma palavra). Aqui o mistério é que o Reino já chegou em Jesus, de modo escondido e humilde, antes da sua manifestação final."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "foi dado",
+    "termo": "δέδοται (dedotai)",
+    "titulo": "passiva divina",
+    "texto": "O perfeito passivo não diz quem deu, mas supõe Deus como agente, como é comum nos Evangelhos. Conhecer o Reino é dom, não conquista; cf. 11:25-27 e 16:17."
+   }
+  ]
+ },
+ "Mat.13.12": {
+  "t": "Pois a quem tem, mais lhe será dado, e terá em abundância; mas a quem não tem, até o que tem lhe será tirado.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "a quem tem, mais lhe será dado",
+    "termo": "ὅστις γὰρ ἔχει, δοθήσεται αὐτῷ",
+    "titulo": "um provérbio",
+    "texto": "Parece um provérbio sobre ricos e pobres, aplicado ao entendimento do Reino: quem acolhe a revelação recebe mais; quem a recusa perde até o pouco que tinha. Jesus volta a usá-lo na parábola dos talentos (25:29)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "terá em abundância",
+    "termo": "περισσευθήσεται (perisseuthēsetai)",
+    "titulo": "perisseuō",
+    "texto": "Lit. “será feito abundar”. O passivo, como “será dado” e “será tirado”, aponta para a ação de Deus."
+   }
+  ]
+ },
+ "Mat.13.13": {
+  "t": "É por isso que lhes falo por meio de parábolas: porque, vendo, não veem, e, ouvindo, não ouvem nem entendem.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "porque",
+    "termo": "ὅτι (hoti)",
+    "titulo": "causa, não finalidade",
+    "texto": "Mateus usa hoti (“porque”), enquanto Mc 4:12 tem hina (“para que”). Em Mateus a ênfase recai sobre a condição dos ouvintes: Jesus fala por parábolas porque eles já não veem nem ouvem. As parábolas não criam a cegueira; revelam-na e, ao mesmo tempo, convidam quem quer ouvir."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "entendem",
+    "termo": "συνίουσιν (syniousin)",
+    "titulo": "syniēmi",
+    "texto": "“Compreender, captar o sentido”. É verbo-chave do capítulo (vv. 14, 15, 19, 23, 51): o bom solo é quem ouve e entende (v. 23)."
+   }
+  ]
+ },
+ "Mat.13.14": {
+  "t": "Neles se cumpre a profecia de Isaías, que diz: ‘Ouvindo, vocês ouvirão, mas jamais entenderão; e, vendo, verão, mas jamais perceberão.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "a profecia de Isaías",
+    "termo": "ἡ προφητεία Ἠσαΐου",
+    "titulo": "Isaías 6:9-10",
+    "texto": "Citação de Is 6:9-10, palavra dita a Isaías no seu chamado: a pregação do profeta endureceria um povo que já não queria ouvir. A forma segue exatamente a Septuaginta. O mesmo texto é citado em Mc 4:12, Jo 12:40 e At 28:26-27, sempre para explicar a rejeição da mensagem."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "se cumpre",
+    "termo": "ἀναπληροῦται (anaplēroutai)",
+    "titulo": "anaplēroō",
+    "texto": "Não é a fórmula habitual de Mateus (plēroō, “cumprir-se”), mas o composto “cumprir-se plenamente, encher até a borda”. A rejeição que Isaías enfrentou se repete, agora no seu grau máximo, diante de Jesus."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Ouvindo, vocês ouvirão",
+    "termo": "ἀκοῇ ἀκούσετε (akoē akousete)",
+    "titulo": "construção hebraica",
+    "texto": "Lit. “com o ouvido ouvirão”: a Septuaginta imita o infinitivo absoluto hebraico, que reforça o verbo. O sentido é “ouvirão de fato, ouvirão bem”. Ou mē com subjuntivo é a negação mais forte do grego; por isso “jamais”."
+   }
+  ]
+ },
+ "Mat.13.15": {
+  "t": "Pois o coração deste povo se tornou insensível; ouviram com dificuldade com os ouvidos e fecharam os olhos, para que não vejam com os olhos, nem ouçam com os ouvidos, nem entendam com o coração, e se convertam, e eu os cure’.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "se tornou insensível",
+    "termo": "ἐπαχύνθη (epachynthē)",
+    "titulo": "pachynō, raro",
+    "texto": "Lit. “engordou, ficou espesso” (só aqui e em At 28:27). Um coração “gordo” é um coração embotado, que não sente nem responde. No hebraico de Is 6:10, Deus manda o profeta “engordar” o coração do povo; a Septuaginta, seguida aqui, descreve o estado em que o povo já se encontra."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "fecharam os olhos",
+    "termo": "ἐκάμμυσαν (ekammysan)",
+    "titulo": "kammyō, raro",
+    "texto": "“Fechar os olhos, cerrar” (só aqui e em At 28:27). Na forma da Septuaginta, o próprio povo fecha os olhos: a cegueira é escolha antes de ser juízo."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "e se convertam",
+    "termo": "ἐπιστρέψωσιν (epistrepsōsin)",
+    "titulo": "epistrephō",
+    "texto": "Lit. “voltem-se”: dar meia-volta e retornar a Deus, como o hebraico shuv. “Converter-se” é o sentido religioso tradicional da palavra."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "e eu os cure",
+    "termo": "καὶ ἰάσομαι αὐτούς",
+    "titulo": "futuro depois de mēpote",
+    "texto": "O texto-base traz o futuro indicativo iasomai depois de “para que não”, construção da Septuaginta que pode sugerir: “e eu os curaria”. O Textus Receptus traz o subjuntivo iasōmai. O sentido não muda: a cura é o que Deus faria se o povo se voltasse para ele."
+   }
+  ]
+ },
+ "Mat.13.16": {
+  "t": "Mas bem-aventurados os olhos de vocês, porque veem, e os ouvidos de vocês, porque ouvem.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "os olhos de vocês",
+    "termo": "ὑμῶν δὲ ... οἱ ὀφθαλμοί",
+    "titulo": "ênfase",
+    "texto": "O pronome hymōn vem primeiro na frase, em posição de destaque: “Mas de vocês, bem-aventurados os olhos”. O contraste é com o povo descrito nos vv. 13-15."
+   }
+  ]
+ },
+ "Mat.13.17": {
+  "t": "Pois em verdade lhes digo que muitos profetas e justos desejaram ver o que vocês veem, e não viram, e ouvir o que vocês ouvem, e não ouviram.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "profetas e justos",
+    "termo": "προφῆται καὶ δίκαιοι",
+    "titulo": "a esperança do Antigo Testamento",
+    "texto": "Os profetas e os fiéis de Israel esperaram o tempo da salvação sem chegar a vê-lo (cf. 1Pe 1:10-12; Hb 11:13, 39-40). Os discípulos veem e ouvem o próprio Messias. Lc 10:24 traz “profetas e reis”."
+   }
+  ]
+ },
+ "Mat.13.18": {
+  "t": "Vocês, portanto, ouçam a parábola do semeador:",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Vocês, portanto, ouçam",
+    "termo": "Ὑμεῖς οὖν ἀκούσατε",
+    "titulo": "pronome enfático",
+    "texto": "O pronome hymeis, desnecessário em grego, retoma o contraste dos vv. 11 e 16: os discípulos recebem a explicação que os de fora não recebem. “Ouvir” aqui é ouvir com entendimento."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "do semeador",
+    "termo": "τοῦ σπείραντος (tou speirantos)",
+    "titulo": "aoristo ou presente",
+    "texto": "O texto-base traz o particípio aoristo (“daquele que semeou”); o Textus Receptus e o Texto Bizantino, o presente speirontos (“daquele que semeia”). A tradução é a mesma."
+   }
+  ]
+ },
+ "Mat.13.19": {
+  "t": "Quando alguém ouve a palavra do Reino e não a entende, vem o Maligno e arranca o que foi semeado no seu coração. Esse é o que foi semeado à beira do caminho.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Quando alguém ouve",
+    "termo": "παντὸς ἀκούοντος (pantos akouontos)",
+    "titulo": "construção quebrada",
+    "texto": "Lit. “De todo aquele que ouve ... vem o Maligno”. O genitivo inicial fica solto na frase. A tradução transforma o começo numa oração temporal."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "o Maligno",
+    "termo": "ὁ πονηρός (ho ponēros)",
+    "titulo": "ho ponēros",
+    "texto": "Aqui é claramente masculino e pessoal: Mc 4:15 diz “Satanás”, e Lc 8:12, “o Diabo”. É um dos textos que apoiam a leitura “do Maligno” em 5:37 e 6:13."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Esse é o que foi semeado",
+    "termo": "οὗτός ἐστιν ὁ ... σπαρείς",
+    "titulo": "a semente e a pessoa",
+    "texto": "Lit. “este é o semeado”. Nos vv. 19-23, a semente é a palavra, mas os ouvintes são identificados com o que foi semeado em cada tipo de terreno. As imagens se misturam: a pessoa é a planta que nasce, ou não nasce, da palavra recebida. A tradução mantém a forma do grego."
+   }
+  ]
+ },
+ "Mat.13.20": {
+  "t": "O que foi semeado em terreno pedregoso é aquele que ouve a palavra e logo a recebe com alegria;",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "logo",
+    "termo": "εὐθύς (euthys)",
+    "titulo": "a pressa",
+    "texto": "O mesmo “logo” do v. 5 (eutheōs) volta aqui e no v. 21. A rapidez da resposta, que parece virtude, é o sinal da falta de raiz: entusiasmo que não chega ao fundo."
+   }
+  ]
+ },
+ "Mat.13.21": {
+  "t": "mas não tem raiz em si mesmo e dura pouco. Quando vem a aflição ou a perseguição por causa da palavra, logo tropeça.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "dura pouco",
+    "termo": "πρόσκαιρός ἐστιν (proskairos estin)",
+    "titulo": "proskairos",
+    "texto": "“Temporário, de um momento”. A mesma palavra descreve o que é passageiro em 2Co 4:18 e Hb 11:25."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "aflição",
+    "termo": "θλίψεως (thlipseōs)",
+    "titulo": "thlipsis",
+    "texto": "Lit. “aperto, pressão”: sofrimento que vem de fora. Ao lado de “perseguição”, indica a hostilidade sofrida por causa da fé."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "tropeça",
+    "termo": "σκανδαλίζεται (skandalizetai)",
+    "titulo": "skandalizomai",
+    "texto": "Tropeçar a ponto de cair, abandonar a fé (ver notas em 5:29 e 11:6). “Escandaliza-se” (ARC) hoje sugere apenas choque moral."
+   }
+  ]
+ },
+ "Mat.13.22": {
+  "t": "O que foi semeado entre os espinhos é aquele que ouve a palavra, mas a preocupação desta era e a sedução da riqueza sufocam a palavra, e ela fica sem fruto.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "a preocupação desta era",
+    "termo": "ἡ μέριμνα τοῦ αἰῶνος τούτου",
+    "titulo": "merimna e aiōn",
+    "texto": "Merimna é a ansiedade que divide a mente (cf. merimnaō em 6:25-34). “Esta era” é o mundo presente, em contraste com a era que há de vir (12:32). Não se trata das tarefas diárias em si, mas da preocupação que toma o lugar de Deus."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "a sedução da riqueza",
+    "termo": "ἡ ἀπάτη τοῦ πλούτου (hē apatē tou ploutou)",
+    "titulo": "apatē",
+    "texto": "Apatē é “engano”: a riqueza promete segurança e satisfação que não pode dar. “Sedução” mostra que o engano atrai; “ilusão” também seria possível."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "e ela fica sem fruto",
+    "termo": "καὶ ἄκαρπος γίνεται",
+    "titulo": "quem fica sem fruto?",
+    "texto": "O sujeito não é explícito. Pode ser a palavra, sufocada pelos espinhos, ou o ouvinte, identificado com o que foi semeado. A tradução segue a primeira leitura, a mais próxima na frase; o resultado é o mesmo: não há colheita."
+   }
+  ]
+ },
+ "Mat.13.23": {
+  "t": "O que foi semeado em terra boa é aquele que ouve a palavra e a entende; esse de fato dá fruto e produz: um, cem; outro, sessenta; outro, trinta.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "e a entende",
+    "termo": "καὶ συνιείς (kai synieis)",
+    "titulo": "o que distingue o bom solo",
+    "texto": "Mateus define o bom ouvinte como quem “entende” (Mc 4:20: “recebe”; Lc 8:15: “retém”). Entender, no sentido bíblico, não é só captar a ideia, mas acolher a palavra a ponto de ela produzir fruto."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "de fato",
+    "termo": "δή (dē)",
+    "titulo": "dē, partícula",
+    "texto": "Partícula de ênfase, rara no NT: “justamente esse, esse sim”."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "um, cem; outro, sessenta; outro, trinta",
+    "termo": "ὃ μὲν ἑκατόν, ὃ δὲ ἑξήκοντα, ὃ δὲ τριάκοντα",
+    "titulo": "fruto em medidas diferentes",
+    "texto": "Nem todos os que ouvem bem produzem o mesmo, mas todos produzem. Mateus põe os números em ordem decrescente; Mc 4:20, em ordem crescente."
+   }
+  ]
+ },
+ "Mat.13.24": {
+  "t": "Jesus lhes apresentou outra parábola: “O Reino dos céus é semelhante a um homem que semeou boa semente no seu campo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "apresentou",
+    "termo": "παρέθηκεν (parethēken)",
+    "titulo": "paratithēmi",
+    "texto": "Lit. “pôs diante deles”, verbo usado também para servir uma refeição. O nome “Jesus” foi explicitado porque começa nova parábola."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "é semelhante a um homem",
+    "termo": "ὡμοιώθη ... ἀνθρώπῳ",
+    "titulo": "a fórmula de comparação",
+    "texto": "Lit. “foi comparado a um homem”. O aoristo passivo de homoioō é fórmula fixa (também 18:23; 22:2). A comparação não é com o homem apenas, mas com a história inteira: “com o Reino dos céus acontece o mesmo que com um homem que...”."
+   }
+  ]
+ },
+ "Mat.13.25": {
+  "t": "Mas, enquanto todos dormiam, veio o inimigo dele, semeou joio no meio do trigo e foi embora.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "joio",
+    "termo": "ζιζάνια (zizania)",
+    "titulo": "zizanion",
+    "texto": "Provavelmente o joio (Lolium temulentum), erva que cresce entre o trigo e, nas primeiras semanas, é quase impossível distinguir dele. O grão costuma ser infectado por um fungo tóxico e causa tontura e náusea. “Joio” é a palavra tradicional em português, e corresponde à planta."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "semeou",
+    "termo": "ἐπέσπειρεν (epespeiren)",
+    "titulo": "epispeirō, hápax",
+    "texto": "Única ocorrência no NT: “semear por cima, semear em seguida”, sobre o que já fora semeado. O Textus Receptus e o Texto Bizantino trazem o simples espeiren (“semeou”). O prefixo do texto-base reforça a malícia do inimigo."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "enquanto todos dormiam",
+    "termo": "ἐν τῷ καθεύδειν τοὺς ἀνθρώπους",
+    "titulo": "“enquanto os homens dormiam”",
+    "texto": "Lit. “enquanto os homens dormiam”: à noite, quando todos dormem. Não acusa os empregados de descuido; diz apenas que o inimigo agiu às escondidas."
+   }
+  ]
+ },
+ "Mat.13.26": {
+  "t": "Quando o trigo cresceu e formou as espigas, apareceu também o joio.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Quando o trigo cresceu e formou as espigas",
+    "termo": "ὅτε δὲ ἐβλάστησεν ὁ χόρτος καὶ καρπὸν ἐποίησεν",
+    "titulo": "“a erva brotou e fez fruto”",
+    "texto": "Lit. “quando a erva brotou e fez fruto”. Chortos é a planta verde do cereal. Só quando o grão começa a se formar a diferença entre o trigo e o joio fica visível."
+   }
+  ]
+ },
+ "Mat.13.27": {
+  "t": "Os servos do dono da casa vieram e lhe disseram: ‘Senhor, não foi boa semente que o senhor semeou no seu campo? De onde vem, então, o joio?’",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "servos",
+    "termo": "δοῦλοι (douloi)",
+    "titulo": "douloi",
+    "texto": "Os empregados da propriedade, que na época eram em geral escravos. A parábola não põe em foco a condição de escravo, e por isso “servos” (ver nota em 8:9)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "dono da casa",
+    "termo": "οἰκοδεσπότου (oikodespotou)",
+    "titulo": "oikodespotēs",
+    "texto": "O chefe da casa e da propriedade, o mesmo termo de 10:25 e 13:52. Os servos o tratam por kyrie, “senhor”, com minúscula, porque é personagem da história."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "que o senhor semeou",
+    "termo": "ἔσπειρας (espeiras)",
+    "titulo": "quem semeou?",
+    "texto": "Lit. “semeaste”. O trabalho foi feito, sem dúvida, pelos servos; atribui-se a semeadura ao dono, como responsável por ela."
+   }
+  ]
+ },
+ "Mat.13.28": {
+  "t": "Ele lhes respondeu: ‘Algum inimigo fez isso.’ Os servos lhe perguntaram: ‘Quer, então, que vamos arrancá-lo?’",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Algum inimigo",
+    "termo": "ἐχθρὸς ἄνθρωπος (echthros anthrōpos)",
+    "titulo": "“um homem inimigo”",
+    "texto": "Lit. “um homem inimigo”. Em grego semitizante, anthrōpos com um substantivo equivale a “alguém”. O dono já sabe que não foi acidente."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "arrancá-lo",
+    "termo": "συλλέξωμεν αὐτά (syllexōmen auta)",
+    "titulo": "syllegō",
+    "texto": "Lit. “recolhê-los”. É o mesmo verbo dos vv. 29, 30, 40, 41 e 48: o que os servos querem fazer agora é o que os anjos farão no fim. O pronome é neutro plural, concordando com zizania; em português, “o joio” é coletivo singular."
+   }
+  ]
+ },
+ "Mat.13.29": {
+  "t": "Mas ele respondeu: ‘Não, para que não aconteça que, ao arrancarem o joio, vocês arranquem com ele também o trigo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "arranquem",
+    "termo": "ἐκριζώσητε (ekrizōsēte)",
+    "titulo": "ekrizoō",
+    "texto": "“Desarraigar, arrancar pela raiz” (também 15:13). Quando as raízes do joio e do trigo se entrelaçam, tirar um arranca o outro."
+   }
+  ]
+ },
+ "Mat.13.30": {
+  "t": "Deixem que os dois cresçam juntos até a colheita. No tempo da colheita direi aos ceifeiros: Recolham primeiro o joio e amarrem-no em feixes para ser queimado; o trigo, porém, juntem-no no meu celeiro.’”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "cresçam juntos",
+    "termo": "συναυξάνεσθαι (synauxanesthai)",
+    "titulo": "synauxanō, hápax",
+    "texto": "Única ocorrência no NT: “crescer junto”. O dono não nega a diferença entre trigo e joio; adia a separação para o tempo certo."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "em feixes",
+    "termo": "εἰς δέσμας (eis desmas)",
+    "titulo": "desmē, hápax",
+    "texto": "“Feixe, molho amarrado”. Única ocorrência no NT. O joio seco servia de combustível."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "ceifeiros",
+    "termo": "θερισταῖς (theristais)",
+    "titulo": "theristēs, raro",
+    "texto": "“Ceifeiro, segador” (só aqui e no v. 39). Na explicação, os ceifeiros são os anjos."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Deixem que os dois cresçam juntos",
+    "termo": "ἄφετε συναυξάνεσθαι ἀμφότερα",
+    "titulo": "paciência até o juízo",
+    "texto": "A separação definitiva cabe a Deus, no fim (vv. 39-43). Agostinho usou a parábola contra os donatistas para dizer que a igreja terá sempre bons e maus misturados; mas Jesus explica que o campo é “o mundo” (v. 38), e Mateus prevê disciplina dentro da igreja (18:15-17). O ponto é que os discípulos não devem tentar, pela força, fazer agora o juízo que pertence ao fim."
+   }
+  ]
+ },
+ "Mat.13.31": {
+  "t": "Jesus lhes apresentou outra parábola: “O Reino dos céus é semelhante a um grão de mostarda que um homem pegou e semeou no seu campo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "grão de mostarda",
+    "termo": "κόκκῳ σινάπεως (kokkō sinapeōs)",
+    "titulo": "sinapi",
+    "texto": "Provavelmente a mostarda-negra (Brassica nigra), cultivada na Palestina pelos grãos. Nas margens do mar da Galileia, a planta pode passar da altura de um homem numa só estação."
+   }
+  ]
+ },
+ "Mat.13.32": {
+  "t": "Ele é a menor de todas as sementes, mas, quando cresce, é maior que as hortaliças e se torna árvore, de modo que as aves do céu vêm e se abrigam nos seus ramos.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "a menor de todas as sementes",
+    "termo": "μικρότερον ... πάντων τῶν σπερμάτων",
+    "titulo": "linguagem proverbial",
+    "texto": "Lit. “menor que todas as sementes”. O grão de mostarda era proverbial entre os judeus para algo minúsculo (cf. 17:20). Jesus fala das sementes que os ouvintes semeavam, não de uma classificação botânica de todas as plantas do mundo."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "se abrigam",
+    "termo": "κατασκηνοῦν (kataskēnoun)",
+    "titulo": "kataskēnoō",
+    "texto": "“Armar a tenda, pousar, abrigar-se”. É o verbo de 8:20 (kataskēnōsis, “ninhos”). As aves pousam e se abrigam à sombra dos ramos."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "as aves do céu vêm e se abrigam nos seus ramos",
+    "termo": "ἐλθεῖν τὰ πετεινὰ τοῦ οὐρανοῦ καὶ κατασκηνοῦν ἐν τοῖς κλάδοις αὐτοῦ",
+    "titulo": "Daniel 4 e Ezequiel 17",
+    "texto": "Eco da árvore que abriga as aves do céu em Dn 4:12, 21 e Ez 17:23; 31:6, imagem de um grande reino que dá abrigo aos povos. O Reino começa tão pequeno quanto um grão, mas terá alcance universal. Chamar a mostarda de “árvore” é exagero intencional, que aponta para essa imagem."
+   }
+  ]
+ },
+ "Mat.13.33": {
+  "t": "Contou-lhes ainda outra parábola: “O Reino dos céus é semelhante ao fermento que uma mulher pegou e escondeu em três medidas de farinha, até que toda a massa ficou fermentada.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "fermento",
+    "termo": "ζύμῃ (zymē)",
+    "titulo": "zymē",
+    "texto": "A massa azeda guardada da fornada anterior. Na Bíblia o fermento é quase sempre imagem de corrupção que se espalha (16:6; 1Co 5:6-8; Êx 12:15). Aqui é imagem da força oculta que penetra a massa inteira. Alguns intérpretes leem a parábola como advertência sobre o mal na igreja, mas o paralelo com a mostarda e a fórmula “o Reino é semelhante” favorecem o sentido positivo."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "escondeu",
+    "termo": "ἐνέκρυψεν (enekrypsen)",
+    "titulo": "enkryptō, hápax",
+    "texto": "Única ocorrência no NT: “esconder dentro”. Verbo inesperado para quem mistura fermento à massa; combina com o tema do Reino escondido (vv. 35, 44). O Texto Bizantino traz o simples ekrypsen, de mesmo sentido."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "três medidas",
+    "termo": "σάτα τρία (sata tria)",
+    "titulo": "saton, raro",
+    "texto": "Saton corresponde ao hebraico seah, medida de grãos (só aqui e em Lc 13:21). As estimativas do seu volume variam, mas três medidas davam uma quantidade enorme de massa, pão para mais de cem pessoas. Era a mesma quantidade que Sara preparou para os hóspedes de Abraão (Gn 18:6)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "farinha",
+    "termo": "ἀλεύρου (aleurou)",
+    "titulo": "aleuron, raro",
+    "texto": "“Farinha de trigo” (só aqui e em Lc 13:21)."
+   }
+  ]
+ },
+ "Mat.13.34": {
+  "t": "Jesus disse todas essas coisas às multidões por meio de parábolas, e sem parábola nada lhes falava,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "nada lhes falava",
+    "termo": "οὐδὲν ἐλάλει αὐτοῖς",
+    "titulo": "imperfeito",
+    "texto": "O imperfeito descreve a prática daquele período: diante das multidões, Jesus falava em parábolas. Não significa que nunca ensinou de outro modo (cf. caps. 5-7). O Textus Receptus e o Texto Bizantino trazem ouk (“não”) em vez de ouden (“nada”), sem efeito no sentido."
+   }
+  ]
+ },
+ "Mat.13.35": {
+  "t": "para que se cumprisse o que foi dito por meio do profeta: “Abrirei a boca em parábolas; proclamarei coisas ocultas desde o princípio.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "o que foi dito por meio do profeta",
+    "termo": "τὸ ῥηθὲν διὰ τοῦ προφήτου",
+    "titulo": "Salmo 78:2",
+    "texto": "A citação é de Sl 78:2, salmo atribuído a Asafe, que 2Cr 29:30 chama de “vidente”. Por isso Mateus pode dizer “o profeta”. A primeira linha segue a Septuaginta; a segunda parece traduzir o hebraico (“derramarei enigmas dos tempos antigos”). O salmista contava a história de Israel como enigma a ser entendido; Jesus revela o que estava escondido no plano de Deus."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "proclamarei",
+    "termo": "ἐρεύξομαι (ereuxomai)",
+    "titulo": "ereugomai, hápax",
+    "texto": "Única ocorrência no NT. O sentido básico é “jorrar, deixar sair com força”; na Septuaginta, “proferir, anunciar” (Sl 19:2: “um dia derrama palavras ao outro”). A palavra sugere fala abundante."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "desde o princípio",
+    "termo": "ἀπὸ καταβολῆς (+ κόσμου)",
+    "titulo": "“do mundo”",
+    "texto": "O SBLGNT traz só apo katabolēs, “desde a fundação”, isto é, desde o princípio. O NA28, o NA27, o Textus Receptus e o Texto Bizantino acrescentam kosmou: “desde a fundação do mundo”, expressão comum no NT (25:34). O sentido é praticamente o mesmo. Alguns manuscritos trazem também “por meio do profeta Isaías”, leitura que Jerônimo já conhecia; como a citação é de um salmo, o nome foi provavelmente acrescentado e depois retirado.",
+    "revisar": true
+   },
+   {
+    "tipo": "tn",
+    "ancora": "desde o princípio",
+    "termo": "ἀπὸ καταβολῆς (apo katabolēs)",
+    "titulo": "“desde a fundação”",
+    "texto": "Lit. “desde a fundação”: katabolē é o lançamento dos alicerces. Sem complemento, a expressão equivale a “desde o começo de tudo”."
+   }
+  ]
+ },
+ "Mat.13.36": {
+  "t": "Então ele deixou as multidões e entrou em casa. Os seus discípulos se aproximaram dele e disseram: “Explique-nos a parábola do joio do campo.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Explique-nos",
+    "termo": "διασάφησον ἡμῖν (diasaphēson hēmin)",
+    "titulo": "diasapheō, raro",
+    "texto": "“Tornar claro, esclarecer” (só aqui e em 18:31). O Textus Receptus e o Texto Bizantino trazem phrason, “explica”, como em 15:15; o sentido é o mesmo."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "entrou em casa",
+    "termo": "ἦλθεν εἰς τὴν οἰκίαν",
+    "titulo": "mudança de público",
+    "texto": "Os vv. 1-35 se passam na praia, diante das multidões; os vv. 36-52, em casa, só com os discípulos. A explicação é dada aos de dentro (cf. v. 11)."
+   }
+  ]
+ },
+ "Mat.13.37": {
+  "t": "Ele respondeu: “Quem semeia a boa semente é o Filho do Homem;",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "o Filho do Homem",
+    "termo": "ὁ υἱὸς τοῦ ἀνθρώπου",
+    "titulo": "o semeador e o juiz",
+    "texto": "O Filho do Homem semeia agora (v. 37) e julgará no fim, enviando os seus anjos (v. 41). As duas pontas do título (ver nota em 8:20) aparecem juntas na mesma explicação."
+   }
+  ]
+ },
+ "Mat.13.38": {
+  "t": "o campo é o mundo; a boa semente são os filhos do Reino; o joio são os filhos do Maligno;",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "o campo é o mundo",
+    "termo": "ὁ δὲ ἀγρός ἐστιν ὁ κόσμος",
+    "titulo": "mundo, não igreja",
+    "texto": "Jesus identifica o campo com o mundo, não com a comunidade dos discípulos. A parábola trata da convivência de justos e ímpios na história até o juízo. Leituras que fazem do campo a igreja (Agostinho) partem de uma aplicação, não da explicação dada aqui."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "filhos do Reino",
+    "termo": "οἱ υἱοὶ τῆς βασιλείας",
+    "titulo": "expressão semítica",
+    "texto": "“Filhos de” indica pertença (ver nota em 8:12). Aqui, porém, os “filhos do Reino” são os que de fato pertencem a ele, e não os herdeiros naturais que perdem o lugar, como em 8:12. “Filhos do Maligno” são os que pertencem ao Diabo (cf. Jo 8:44)."
+   }
+  ]
+ },
+ "Mat.13.39": {
+  "t": "o inimigo que o semeou é o Diabo; a colheita é o fim da era; e os ceifeiros são anjos.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "o fim da era",
+    "termo": "συντέλεια αἰῶνος (synteleia aiōnos)",
+    "titulo": "synteleia tou aiōnos",
+    "texto": "Lit. “a consumação da era”. Expressão quase exclusiva de Mateus (13:39, 40, 49; 24:3; 28:20; também Hb 9:26). Aiōn é “era, século” (ver nota em 12:32): o tempo presente que chega ao seu término com o juízo. “Fim do mundo” sugeriria o fim do universo físico; “consumação do século” (ARC) é forma antiga."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "a colheita",
+    "termo": "ὁ θερισμός",
+    "titulo": "imagem do juízo",
+    "texto": "A colheita é imagem profética do juízo final (Jl 3:13; Ap 14:14-20). Em 9:37-38 a colheita é a missão; aqui, o fim."
+   }
+  ]
+ },
+ "Mat.13.40": {
+  "t": "Assim como o joio é recolhido e queimado no fogo, assim será no fim da era.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "no fim da era",
+    "termo": "ἐν τῇ συντελείᾳ τοῦ αἰῶνος (+ τούτου)",
+    "titulo": "“desta era”",
+    "texto": "O Textus Receptus e o Texto Bizantino acrescentam toutou: “no fim desta era”. Para “é queimado”, o SBLGNT traz kaietai; o NA28, Westcott-Hort e o Textus Receptus, o composto katakaietai (“é queimado por completo”). Sem efeito importante no sentido."
+   }
+  ]
+ },
+ "Mat.13.41": {
+  "t": "O Filho do Homem enviará os seus anjos, e eles recolherão do seu Reino tudo o que faz tropeçar e os que praticam a iniquidade,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "do seu Reino",
+    "termo": "ἐκ τῆς βασιλείας αὐτοῦ",
+    "titulo": "o Reino do Filho do Homem",
+    "texto": "O Reino é chamado aqui de Reino do Filho do Homem (cf. 16:28; 20:21) e, no v. 43, do Pai. Como o campo é o mundo, “o seu Reino” abrange todo o domínio do Filho, de onde serão retirados os que não lhe pertencem."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "tudo o que faz tropeçar",
+    "termo": "πάντα τὰ σκάνδαλα (panta ta skandala)",
+    "titulo": "skandalon",
+    "texto": "Lit. “todos os tropeços”: as armadilhas e pedras de tropeço (ver nota em 5:29). Ao lado de “os que praticam a iniquidade”, pode designar também pessoas que levam outros a cair (cf. 16:23; 18:7)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "tudo o que faz tropeçar e os que praticam a iniquidade",
+    "termo": "τὰ σκάνδαλα καὶ τοὺς ποιοῦντας τὴν ἀνομίαν",
+    "titulo": "Sofonias 1:3",
+    "texto": "Eco provável de Sf 1:3, onde Deus anuncia que eliminará “os tropeços com os ímpios”. Anomia é “iniquidade, desprezo pela lei” (ver nota em 7:23)."
+   }
+  ]
+ },
+ "Mat.13.42": {
+  "t": "e os lançarão na fornalha de fogo. Ali haverá choro e ranger de dentes.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "fornalha de fogo",
+    "termo": "τὴν κάμινον τοῦ πυρός",
+    "titulo": "Daniel 3",
+    "texto": "A expressão vem de Dn 3:6 (Septuaginta), a fornalha de Nabucodonosor. Aqui é imagem do juízo final, ao lado de “inferno de fogo” (5:22) e “fogo eterno” (18:8; 25:41). Sobre “choro e ranger de dentes”, ver nota em 8:12."
+   }
+  ]
+ },
+ "Mat.13.43": {
+  "t": "Então os justos brilharão como o sol no Reino do seu Pai. Quem tem ouvidos, ouça.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "os justos brilharão como o sol",
+    "termo": "οἱ δίκαιοι ἐκλάμψουσιν ὡς ὁ ἥλιος",
+    "titulo": "Daniel 12:3",
+    "texto": "Eco de Dn 12:3: “os sábios resplandecerão como o fulgor do firmamento”. Jesus brilhará “como o sol” na transfiguração (17:2); os justos participarão da sua glória."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "brilharão",
+    "termo": "ἐκλάμψουσιν (eklampsousin)",
+    "titulo": "eklampō, hápax",
+    "texto": "Única ocorrência no NT: “brilhar intensamente, irradiar”. É o verbo de Dn 12:3 na versão de Teodocião."
+   }
+  ]
+ },
+ "Mat.13.44": {
+  "t": "O Reino dos céus é semelhante a um tesouro escondido num campo. Um homem o encontrou e o escondeu; e, cheio de alegria, vai, vende tudo o que tem e compra aquele campo.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "um tesouro escondido num campo",
+    "termo": "θησαυρῷ κεκρυμμένῳ ἐν τῷ ἀγρῷ",
+    "titulo": "um costume antigo",
+    "texto": "Sem bancos para o povo comum e com guerras frequentes, era costume enterrar moedas e objetos de valor. Se o dono morria ou fugia, o tesouro ficava perdido até alguém achá-lo por acaso. A parábola não discute se o achador agiu bem ao esconder o tesouro e comprar o campo; o ponto é o valor do que achou e a alegria com que deixa tudo por ele."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "cheio de alegria",
+    "termo": "ἀπὸ τῆς χαρᾶς αὐτοῦ (apo tēs charas autou)",
+    "titulo": "“por causa da sua alegria”",
+    "texto": "Lit. “por causa da sua alegria”. A alegria é o motivo de vender tudo: não há sacrifício triste, mas troca feliz."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "vai, vende tudo o que tem e compra",
+    "termo": "ὑπάγει καὶ πωλεῖ ... καὶ ἀγοράζει",
+    "titulo": "presente histórico",
+    "texto": "Os verbos passam para o presente, como se a cena acontecesse diante do ouvinte. A tradução mantém a mudança de tempo."
+   }
+  ]
+ },
+ "Mat.13.45": {
+  "t": "O Reino dos céus é também semelhante a um negociante que procura pérolas finas.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "negociante",
+    "termo": "ἀνθρώπῳ ἐμπόρῳ (anthrōpō emporō)",
+    "titulo": "emporos",
+    "texto": "Lit. “homem negociante”. Emporos é o comerciante que viaja para comprar e revender, distinto do pequeno vendedor de feira. Diferente do homem do v. 44, que acha o tesouro por acaso, este o procura."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "pérolas finas",
+    "termo": "καλοὺς μαργαρίτας",
+    "titulo": "o valor das pérolas",
+    "texto": "No mundo antigo, as pérolas, trazidas do golfo Pérsico e do oceano Índico, estavam entre os bens mais valiosos. Plínio, o Velho, as põe no topo dos objetos de preço (História Natural, livro 9)."
+   }
+  ]
+ },
+ "Mat.13.46": {
+  "t": "Ao encontrar uma pérola de grande valor, foi, vendeu tudo o que tinha e a comprou.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "de grande valor",
+    "termo": "πολύτιμον (polytimon)",
+    "titulo": "polytimos, raro",
+    "texto": "“De muito preço” (também Jo 12:3; 1Pe 1:7)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "vendeu",
+    "termo": "πέπρακεν (pepraken)",
+    "titulo": "perfeito",
+    "texto": "O perfeito, no meio de aoristos, dá ênfase: vendeu de uma vez e de modo definitivo. O Reino vale mais que tudo o que alguém possui."
+   }
+  ]
+ },
+ "Mat.13.47": {
+  "t": "O Reino dos céus é ainda semelhante a uma rede de arrasto lançada ao mar, que apanha peixes de toda espécie.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "rede de arrasto",
+    "termo": "σαγήνῃ (sagēnē)",
+    "titulo": "sagēnē, hápax",
+    "texto": "Única ocorrência no NT. Rede longa, com boias em cima e pesos embaixo, puxada por barcos ou da praia, que recolhe tudo o que encontra. É diferente da tarrafa (amphiblēstron, 4:18). Corresponde ao arrastão usado no litoral brasileiro."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "peixes de toda espécie",
+    "termo": "ἐκ παντὸς γένους (ek pantos genous)",
+    "titulo": "“de todo gênero”",
+    "texto": "Lit. “de todo gênero”. “Peixes” está subentendido. Alguns veem aqui uma alusão à missão a todos os povos; o ponto da parábola, porém, é a mistura de bons e maus até a separação final (v. 49)."
+   }
+  ]
+ },
+ "Mat.13.48": {
+  "t": "Quando ela fica cheia, os pescadores a puxam para a praia, sentam-se e recolhem os bons em cestos, mas jogam fora os ruins.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "os pescadores",
+    "termo": "ἀναβιβάσαντες (anabibasantes)",
+    "titulo": "sujeito explicitado",
+    "texto": "O grego tem só os particípios, sem sujeito. “Os pescadores” foi acrescentado para clareza. Anabibazō, “fazer subir, puxar para cima”, é hápax no NT."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "cestos",
+    "termo": "ἄγγη (angē)",
+    "titulo": "angos, hápax",
+    "texto": "Única ocorrência no NT: “vaso, recipiente”. O Textus Receptus e o Texto Bizantino trazem angeia, de mesmo sentido. Os peixes eram separados em cestos ou vasilhas na própria praia."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "os ruins",
+    "termo": "τὰ σαπρά (ta sapra)",
+    "titulo": "sapros",
+    "texto": "“Estragado, imprestável” (ver nota em 7:17). Podem ser peixes sem valor ou os que a Lei proibia comer, os que não têm barbatanas nem escamas (Lv 11:9-12)."
+   }
+  ]
+ },
+ "Mat.13.49": {
+  "t": "Assim será no fim da era: os anjos sairão e separarão os maus do meio dos justos",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "separarão os maus do meio dos justos",
+    "termo": "ἀφοριοῦσιν τοὺς πονηροὺς ἐκ μέσου τῶν δικαίων",
+    "titulo": "a separação final",
+    "texto": "O mesmo verbo aphorizō descreve o pastor que separa as ovelhas dos bodes em 25:32. Como no joio, a separação é tarefa dos anjos no fim, não dos discípulos agora."
+   }
+  ]
+ },
+ "Mat.13.50": {
+  "t": "e os lançarão na fornalha de fogo. Ali haverá choro e ranger de dentes.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "e os lançarão na fornalha de fogo",
+    "termo": "καὶ βαλοῦσιν αὐτοὺς εἰς τὴν κάμινον τοῦ πυρός",
+    "titulo": "repetição deliberada",
+    "texto": "Palavra por palavra igual ao v. 42. As duas parábolas de separação (joio e rede) terminam do mesmo modo, emoldurando as parábolas do tesouro e da pérola. Ver notas no v. 42 e em 8:12."
+   }
+  ]
+ },
+ "Mat.13.51": {
+  "t": "“Vocês entenderam todas estas coisas?” Eles responderam: “Sim.”",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "Vocês entenderam",
+    "termo": "συνήκατε ταῦτα πάντα",
+    "titulo": "acréscimos do Textus Receptus",
+    "texto": "O Textus Receptus e o Texto Bizantino começam o versículo com “Jesus lhes disse” e acrescentam “Senhor” à resposta (“Sim, Senhor”). No texto-base, a pergunta continua o discurso sem nova introdução."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "entenderam",
+    "termo": "συνήκατε (synēkate)",
+    "titulo": "syniēmi",
+    "texto": "O verbo-chave do capítulo (ver nota no v. 13). Os discípulos são o “bom solo” que ouve e entende (v. 23)."
+   }
+  ]
+ },
+ "Mat.13.52": {
+  "t": "Ele lhes disse: “Por isso, todo escriba que se tornou discípulo do Reino dos céus é semelhante a um dono de casa que tira do seu tesouro coisas novas e coisas velhas.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "que se tornou discípulo do Reino dos céus",
+    "termo": "μαθητευθεὶς τῇ βασιλείᾳ τῶν οὐρανῶν",
+    "titulo": "mathēteuō",
+    "texto": "Lit. “discipulado para o Reino dos céus”: instruído no Reino e entregue a ele. O mesmo verbo aparece em 27:57 e 28:19 (“façam discípulos”). O Textus Receptus e o Texto Bizantino trazem eis tēn basileian (“para o Reino”), de sentido próximo."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "todo escriba",
+    "termo": "πᾶς γραμματεύς",
+    "titulo": "o escriba cristão",
+    "texto": "Os escribas eram os especialistas na Lei (ver nota em 2:4). Jesus fala de um novo tipo de escriba, que conhece as Escrituras e aprendeu o Reino. Muitos estudiosos veem aqui um retrato do próprio evangelista e da sua maneira de ler o Antigo Testamento à luz de Jesus (cf. 23:34)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "coisas novas e coisas velhas",
+    "termo": "καινὰ καὶ παλαιά",
+    "titulo": "a ordem das palavras",
+    "texto": "“Novas” vem primeiro. O escriba do Reino não descarta o antigo (a Lei e os Profetas, 5:17), mas o lê a partir do novo, o ensino de Jesus. Thēsauros aqui é o depósito, o lugar onde se guardam os bens (cf. 12:35)."
+   }
+  ]
+ },
+ "Mat.13.53": {
+  "t": "Quando Jesus terminou essas parábolas, partiu dali.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Quando Jesus terminou",
+    "termo": "ἐγένετο ὅτε ἐτέλεσεν ὁ Ἰησοῦς",
+    "titulo": "fim do terceiro discurso",
+    "texto": "A fórmula que fecha cada um dos cinco discursos de Mateus (7:28; 11:1; 19:1; 26:1). Lit. “E aconteceu que, quando Jesus terminou...”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "partiu",
+    "termo": "μετῆρεν (metēren)",
+    "titulo": "metairō, raro",
+    "texto": "“Mudar de lugar, partir” (só aqui e em 19:1, na mesma fórmula)."
+   }
+  ]
+ },
+ "Mat.13.54": {
+  "t": "Chegando à sua terra, ensinava-os na sinagoga deles, de modo que eles ficavam maravilhados e diziam: “De onde vêm a este homem essa sabedoria e esses milagres?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "à sua terra",
+    "termo": "εἰς τὴν πατρίδα αὐτοῦ",
+    "titulo": "patris",
+    "texto": "“Terra natal, cidade dos pais”: Nazaré, onde Jesus foi criado (2:23). Mateus não repete o nome, que o leitor já conhece."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "milagres",
+    "termo": "δυνάμεις (dynameis)",
+    "titulo": "dynameis",
+    "texto": "Lit. “poderes”: atos de poder (ver nota em 7:22). O povo de Nazaré não nega os milagres; pergunta de onde vêm."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "este homem",
+    "termo": "τούτῳ (toutō)",
+    "titulo": "houtos",
+    "texto": "Lit. “a este”. O demonstrativo, sem nome, soa depreciativo, como em 9:3 e 12:24."
+   }
+  ]
+ },
+ "Mat.13.55": {
+  "t": "Não é ele o filho do carpinteiro? A mãe dele não se chama Maria, e os irmãos dele não são Tiago, José, Simão e Judas?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "carpinteiro",
+    "termo": "τέκτονος (tektonos)",
+    "titulo": "tektōn, raro",
+    "texto": "Artesão da construção (só aqui e em Mc 6:3, onde o próprio Jesus é chamado tektōn). Trabalhava sobretudo com madeira, mas podia trabalhar também com pedra. “Carpinteiro” é a tradução tradicional; não indica pobreza extrema, mas ofício manual, sem formação de escriba."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "os irmãos dele",
+    "termo": "οἱ ἀδελφοὶ αὐτοῦ",
+    "titulo": "os irmãos de Jesus",
+    "texto": "Sobre as três leituras tradicionais (irmãos de sangue, meios-irmãos filhos de José, primos), ver nota em 12:46. Tiago é provavelmente o líder da igreja de Jerusalém (At 15:13; Gl 1:19), e Judas, o autor da carta de Judas (Jd 1)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "José",
+    "termo": "Ἰωσήφ (Iōsēph)",
+    "titulo": "Iōsēph ou Iōsēs",
+    "texto": "O texto-base traz Iōsēph (“José”); o Textus Receptus e o Texto Bizantino, Iōsēs, a forma de Mc 6:3, que é variante grega do mesmo nome. O NT parece usar as duas formas para a mesma pessoa (cf. 27:56)."
+   }
+  ]
+ },
+ "Mat.13.56": {
+  "t": "E as irmãs dele não estão todas aqui conosco? De onde, então, vem a este homem tudo isso?”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "aqui conosco",
+    "termo": "πρὸς ἡμᾶς (pros hēmas)",
+    "titulo": "“junto de nós”",
+    "texto": "Lit. “junto de nós”: moram aqui, são gente conhecida. O argumento é que a família comum de Jesus desmente qualquer pretensão extraordinária."
+   }
+  ]
+ },
+ "Mat.13.57": {
+  "t": "E encontravam nele motivo de tropeço. Mas Jesus lhes disse: “Um profeta só não é honrado na sua própria terra e na sua própria casa.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "encontravam nele motivo de tropeço",
+    "termo": "ἐσκανδαλίζοντο ἐν αὐτῷ",
+    "titulo": "skandalizomai",
+    "texto": "Lit. “tropeçavam nele”. A expressão lembra 11:6: “bem-aventurado aquele que não encontra em mim motivo de tropeço”. O familiar se tornou obstáculo para crer."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Um profeta só não é honrado",
+    "termo": "οὐκ ἔστιν προφήτης ἄτιμος εἰ μὴ",
+    "titulo": "“não há profeta sem honra senão”",
+    "texto": "Lit. “não há profeta sem honra, a não ser na sua terra”. A dupla negação foi transformada em afirmação restritiva, mais natural em português. O provérbio aparece também em Mc 6:4, Lc 4:24 e Jo 4:44."
+   }
+  ]
+ },
+ "Mat.13.58": {
+  "t": "E não fez ali muitos milagres, por causa da incredulidade deles.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "não fez ali muitos milagres",
+    "termo": "οὐκ ἐποίησεν ἐκεῖ δυνάμεις πολλάς",
+    "titulo": "Mateus e Marcos",
+    "texto": "Mc 6:5 diz que Jesus “não pôde” fazer ali milagre algum, exceto curar alguns doentes. Mateus diz que “não fez muitos”. Nenhum dos dois sugere falta de poder: os milagres em Mateus respondem à fé (9:28-29), e Jesus não os realiza como espetáculo para quem o rejeita (12:38-39)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "incredulidade",
+    "termo": "ἀπιστίαν (apistian)",
+    "titulo": "apistia",
+    "texto": "Falta de fé, recusa em confiar. Não é dúvida intelectual, mas a rejeição do v. 57."
+   }
+  ]
+ }
+}
