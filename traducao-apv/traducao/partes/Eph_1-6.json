@@ -1,0 +1,1097 @@
+{
+ "Eph.1.1": {
+  "t": "Paulo, apóstolo de Cristo Jesus pela vontade de Deus, aos santos que estão em Éfeso, os fiéis em Cristo Jesus:",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Cristo",
+    "termo": "Χριστοῦ (Christou)",
+    "titulo": "Christos: “Cristo”, “Messias”",
+    "texto": "Christos vem de chriō, “ungir”, e traduz o hebraico mashiaḥ, “ungido”, de onde vem “Messias”. Nas cartas de Paulo funciona quase como nome próprio, sem perder o sentido de título: Jesus é o Rei ungido esperado por Israel. A APV mantém “Cristo”, forma consagrada em português."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "em Éfeso",
+    "termo": "ἐν Ἐφέσῳ (en Ephesō)",
+    "titulo": "ausente em manuscritos antigos",
+    "texto": "As palavras “em Éfeso” faltam em alguns dos manuscritos mais antigos (𝔓46 e, na forma original, os códices Sinaítico e Vaticano), e Orígenes e Basílio conheciam cópias sem elas. Marcião, no século II, chamava esta carta de “aos laodicenses”. Sem a expressão, o grego fica estranho (“aos santos que estão, e fiéis”), o que indica que algo estava escrito ali. Daí a hipótese de uma carta circular, enviada a várias igrejas da Ásia, com um espaço para o nome do destino; talvez seja a carta “de Laodiceia” de Cl 4:16. A grande maioria dos manuscritos traz “em Éfeso”, e as edições críticas (SBLGNT; o NA28 entre colchetes) mantêm as palavras. A APV as mantém, e esta nota registra a dúvida.",
+    "revisar": true
+   },
+   {
+    "tipo": "tn",
+    "ancora": "santos",
+    "termo": "ἁγίοις (hagiois)",
+    "titulo": "hagioi",
+    "texto": "“Separados para Deus”. Não designa uma elite moral, mas todos os que pertencem a Deus em Cristo; a santidade de vida é consequência (1:4)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "os fiéis",
+    "termo": "πιστοῖς (pistois)",
+    "titulo": "pistoi: “fiéis” ou “crentes”",
+    "texto": "Pistos pode ser “fiel” (digno de confiança) ou “que crê”. Aqui, ligado a “santos” por um só artigo, descreve o mesmo grupo: os que creem em Cristo Jesus. “Fiéis” guarda os dois sentidos, como no uso da igreja."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Paulo",
+    "termo": "Παῦλος (Paulos)",
+    "titulo": "a autoria",
+    "texto": "A carta se apresenta como de Paulo (também em 3:1), e assim foi recebida desde o século II. Muitos estudiosos modernos, pelas diferenças de estilo e de ênfase e pela proximidade com Colossenses, a atribuem a um discípulo de Paulo; outros (como H. Hoehner e P. T. O'Brien) defendem a autoria paulina, explicando as diferenças pelo caráter circular e meditativo da carta e pelo uso de um secretário. A APV segue a apresentação do próprio texto."
+   }
+  ]
+ },
+ "Eph.1.2": {
+  "t": "Graça e paz a vocês da parte de Deus, nosso Pai, e do Senhor Jesus Cristo.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Graça e paz",
+    "termo": "χάρις ... καὶ εἰρήνη",
+    "titulo": "a saudação cristã",
+    "texto": "Paulo troca a saudação grega comum (chairein) por charis (“graça”) e acrescenta a saudação judaica shalom (“paz”). Uma só preposição (apo) liga Deus Pai e o Senhor Jesus Cristo como a mesma fonte."
+   }
+  ]
+ },
+ "Eph.1.3": {
+  "t": "Bendito seja o Deus e Pai do nosso Senhor Jesus Cristo, que nos abençoou com toda bênção espiritual nas regiões celestiais em Cristo.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Bendito seja",
+    "termo": "Εὐλογητὸς (Eulogētos)",
+    "titulo": "uma bênção judaica",
+    "texto": "Os vv. 3-14 formam no grego uma só frase de mais de duzentas palavras, na forma da berakah judaica (“Bendito és tu, Senhor...”; cf. Sl 41:13; 2Co 1:3). A APV a divide em várias frases para ser lida em voz alta, mas mantém os elos (“nele”, “segundo”, “para louvor”) que a amarram. O louvor percorre a obra do Pai (vv. 3-6), do Filho (vv. 7-12) e do Espírito (vv. 13-14)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "toda bênção espiritual",
+    "termo": "πάσῃ εὐλογίᾳ πνευματικῇ",
+    "titulo": "pneumatikos",
+    "texto": "“Espiritual” aqui não é o contrário de material, mas “que vem do Espírito, concedida pelo Espírito” (1:13-14)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "nas regiões celestiais",
+    "termo": "ἐν τοῖς ἐπουρανίοις (en tois epouraniois)",
+    "titulo": "ta epourania",
+    "texto": "Lit. “nos celestiais”. A expressão é típica desta carta (1:3, 20; 2:6; 3:10; 6:12): a esfera invisível onde Cristo reina e onde também atuam os poderes hostis (6:12). Os crentes já participam dessa esfera por estarem unidos a Cristo (2:6). “Regiões celestiais” indica um âmbito, não um lugar geográfico."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "nas regiões celestiais",
+    "termo": "ἐν τοῖς ἐπουρανίοις",
+    "titulo": "en",
+    "texto": "O Textus Receptus omite en antes de Christō (“com toda bênção ... em Cristo”). Sem efeito na tradução."
+   }
+  ]
+ },
+ "Eph.1.4": {
+  "t": "Pois nele nos escolheu antes da fundação do mundo, para sermos santos e irrepreensíveis diante dele em amor.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "nele nos escolheu",
+    "termo": "ἐξελέξατο ἡμᾶς ἐν αὐτῷ",
+    "titulo": "a eleição em Cristo",
+    "texto": "A escolha de Deus é “nele”, em Cristo, e antecede a criação. A interpretação é debatida: a tradição agostiniana e reformada vê aqui a eleição de pessoas, livre e anterior a qualquer mérito; a tradição arminiana entende uma eleição fundada na presciência da fé; outros (como K. Barth) acentuam que Cristo é o Eleito, e o povo é escolhido nele, como corpo. O texto destaca a iniciativa de Deus e a finalidade da escolha: a santidade."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "irrepreensíveis",
+    "termo": "ἀμώμους (amōmous)",
+    "titulo": "amōmos",
+    "texto": "Termo do culto: o animal “sem defeito” oferecido em sacrifício (Êx 29:1 LXX; Hb 9:14). Os escolhidos são oferecidos a Deus sem mancha (5:27)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "em amor",
+    "termo": "ἐν ἀγάπῃ (en agapē)",
+    "titulo": "a que se liga?",
+    "texto": "Pode encerrar o v. 4 (santos e irrepreensíveis “em amor”) ou abrir o v. 5 (“em amor nos predestinou”). As duas leituras têm defensores e aparecem em edições e versões. A APV segue a divisão do versículo, mas a ligação com o v. 5 também é possível. Katenōpion (“diante de”, raro: também em Cl 1:22 e Jd 24) indica a presença de Deus como juiz."
+   }
+  ]
+ },
+ "Eph.1.5": {
+  "t": "Ele nos predestinou para sermos adotados como seus filhos, por meio de Jesus Cristo, segundo o bom propósito da sua vontade,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "predestinou",
+    "termo": "προορίσας (proorisas)",
+    "titulo": "proorizō",
+    "texto": "“Determinar de antemão, marcar o destino antes”. O objeto da predestinação aqui não é só a salvação em geral, mas a adoção como filhos. O particípio pode indicar o modo da escolha (v. 4) ou a sua causa."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "para sermos adotados como seus filhos",
+    "termo": "εἰς υἱοθεσίαν ... εἰς αὐτόν",
+    "titulo": "huiothesia",
+    "texto": "Lit. “para adoção de filhos ... para ele”. Huiothesia é o termo jurídico da adoção legal, que dava ao adotado todos os direitos de filho e herdeiro (Rm 8:15; Gl 4:5). “Para ele” (eis auton) indica que Deus nos adotou para si; a tradução expressa isso com “seus filhos”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "bom propósito",
+    "termo": "εὐδοκίαν (eudokian)",
+    "titulo": "eudokia",
+    "texto": "“Boa vontade, decisão livre e generosa”. “Beneplácito” (ARC) é exato, mas pouco usado hoje."
+   }
+  ]
+ },
+ "Eph.1.6": {
+  "t": "para louvor da glória da sua graça, com a qual nos agraciou no Amado.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "nos agraciou",
+    "termo": "ἐχαρίτωσεν (echaritōsen)",
+    "titulo": "charitoō, raro",
+    "texto": "Só aqui e em Lc 1:28 (Maria, “agraciada”). Verbo da mesma raiz de charis: “cobrir de graça, conceder favor”. A repetição (“graça ... agraciou”) imita o grego."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "no Amado",
+    "termo": "ἐν τῷ ἠγαπημένῳ (en tō ēgapēmenō)",
+    "titulo": "um título de Cristo",
+    "texto": "“O Amado” é título de Cristo, como na voz do batismo (Mc 1:11) e na transfiguração. Na Septuaginta, ēgapēmenos é usado para Israel (Dt 32:15; Is 44:2): o que era dito do povo se cumpre no Filho, e o povo é amado nele."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "com a qual",
+    "termo": "ἧς (hēs)",
+    "titulo": "hēs ou en hē",
+    "texto": "O texto crítico traz hēs (“com a qual”, por atração ao antecedente); o Textus Receptus e o Texto Bizantino, en hē (“na qual”). Sem efeito na tradução."
+   }
+  ]
+ },
+ "Eph.1.7": {
+  "t": "Nele temos a redenção por meio do seu sangue, o perdão das transgressões, segundo a riqueza da sua graça,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "redenção",
+    "termo": "ἀπολύτρωσιν (apolytrōsin)",
+    "titulo": "apolytrōsis",
+    "texto": "“Libertação mediante resgate”, como a de escravos ou prisioneiros. Aqui é explicada como “o perdão das transgressões”, e o preço é o sangue de Cristo, isto é, a sua morte sacrificial."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "transgressões",
+    "termo": "παραπτωμάτων (paraptōmatōn)",
+    "titulo": "paraptōma",
+    "texto": "Lit. “quedas, passos em falso”. Em Paulo, é a violação concreta da vontade de Deus. “Transgressões” distingue de hamartia (“pecado”), que aparece junto em 2:1."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "a riqueza",
+    "termo": "τὸ πλοῦτος (to ploutos)",
+    "titulo": "gênero",
+    "texto": "O texto crítico traz o neutro to ploutos; o Textus Receptus e o Texto Bizantino, o masculino ton plouton. Sem efeito na tradução."
+   }
+  ]
+ },
+ "Eph.1.8": {
+  "t": "que ele derramou abundantemente sobre nós, em toda sabedoria e entendimento,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "em toda sabedoria e entendimento",
+    "termo": "ἐν πάσῃ σοφίᾳ καὶ φρονήσει",
+    "titulo": "de quem é a sabedoria?",
+    "texto": "Pode ser a sabedoria com que Deus agiu ao derramar a graça, ou a sabedoria que ele deu aos crentes para entenderem o mistério (v. 9; cf. 1:17). A frase também pode ligar-se ao v. 9 (“em toda sabedoria nos deu a conhecer”). A vírgula deixa as possibilidades abertas. Phronēsis (raro: também em Lc 1:17) é o entendimento prático, a sensatez."
+   }
+  ]
+ },
+ "Eph.1.9": {
+  "t": "dando-nos a conhecer o mistério da sua vontade, segundo o seu bom propósito, que de antemão estabeleceu nele",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "mistério",
+    "termo": "μυστήριον (mystērion)",
+    "titulo": "mystērion",
+    "texto": "Não é um enigma sem solução, mas um plano de Deus antes oculto e agora revelado (3:3-6; Dn 2:28 LXX). Aqui, o mistério é o plano de reunir todas as coisas em Cristo (v. 10)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "estabeleceu nele",
+    "termo": "προέθετο ἐν αὐτῷ",
+    "titulo": "protithēmi, raro",
+    "texto": "Protithēmi (só aqui, em Rm 1:13 e 3:25) é “propor, estabelecer de antemão”. “Nele” é provavelmente Cristo, como nos vv. 4, 7 e 10; com outra acentuação (hautō), poderia ser “em si mesmo”."
+   }
+  ]
+ },
+ "Eph.1.10": {
+  "t": "para a administração da plenitude dos tempos: fazer convergir em Cristo todas as coisas, tanto as que estão nos céus como as que estão na terra. Nele",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "administração",
+    "termo": "οἰκονομίαν (oikonomian)",
+    "titulo": "oikonomia",
+    "texto": "Lit. “administração de uma casa”, e daí “plano, execução de um plano”. Pode ser o plano que Deus administra ou a sua execução no tempo. “Plenitude dos tempos” é o momento em que os tempos fixados por Deus chegam ao seu cumprimento (cf. Gl 4:4)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "fazer convergir",
+    "termo": "ἀνακεφαλαιώσασθαι (anakephalaiōsasthai)",
+    "titulo": "anakephalaioō, raro",
+    "texto": "Só aqui e em Rm 13:9, onde é “resumir” os mandamentos. É “recapitular, reunir sob um título”. Muitos veem aqui também a ideia de kephalē (“cabeça”, 1:22): reunir tudo sob Cristo como cabeça. Ireneu de Lyon fez da “recapitulação” um tema central da sua teologia. “Fazer convergir” sugere tanto a reunião quanto a direção para um ponto único, sem acrescentar a palavra “cabeça” ao texto."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Nele",
+    "termo": "ἐν αὐτῷ (en autō)",
+    "titulo": "repetição",
+    "texto": "As edições trazem en autō (“nele”) no fim deste versículo, ligado ao relativo do v. 11 (“nele, em quem também...”). A repetição é enfática; a tradução a distribui entre os dois versículos."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "tanto as que estão nos céus",
+    "termo": "τὰ ἐπὶ τοῖς οὐρανοῖς",
+    "titulo": "pequenas diferenças",
+    "texto": "O Textus Receptus acrescenta te e lê en (“nos céus”) em vez de epi. Sem efeito na tradução."
+   }
+  ]
+ },
+ "Eph.1.11": {
+  "t": "em quem também fomos feitos herança, tendo sido predestinados segundo o propósito daquele que realiza todas as coisas conforme o conselho da sua vontade,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "fomos feitos herança",
+    "termo": "ἐκληρώθημεν (eklērōthēmen)",
+    "titulo": "klēroō, hápax",
+    "texto": "Lit. “fomos sorteados”, “recebemos por sorte”. Pode significar “fomos feitos herança de Deus”, como Israel era a porção do Senhor (Dt 32:9; cf. 1:18), ou “recebemos uma herança” (1:14). A forma passiva favorece a primeira leitura, mas a segunda é antiga e defensável."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "fomos",
+    "termo": "ἐκληρώθημεν",
+    "titulo": "“nós” e “vocês”",
+    "texto": "Nos vv. 11-12 Paulo usa “nós”; no v. 13 passa a “vocês”. Muitos entendem que “nós” são os crentes judeus, que “antes já esperavam” no Messias (v. 12), e “vocês”, os gentios. Outros entendem “nós” como todos os crentes. A primeira leitura combina com 2:11-22."
+   }
+  ]
+ },
+ "Eph.1.12": {
+  "t": "a fim de que nós, os que antes já esperávamos em Cristo, sejamos para louvor da sua glória.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "os que antes já esperávamos",
+    "termo": "τοὺς προηλπικότας (tous proēlpikotas)",
+    "titulo": "proelpizō, hápax",
+    "texto": "“Esperar de antemão”. Pode referir-se aos judeus que esperavam o Messias antes da vinda dos gentios à fé, ou aos que esperam em Cristo antes da sua volta. O contraste com o v. 13 favorece a primeira leitura."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "para louvor da sua glória",
+    "termo": "εἰς ἔπαινον δόξης αὐτοῦ",
+    "titulo": "artigo",
+    "texto": "O Textus Receptus traz o artigo (tēs doxēs). Sem efeito na tradução. A expressão é um refrão (vv. 6, 12, 14)."
+   }
+  ]
+ },
+ "Eph.1.13": {
+  "t": "Nele também vocês, depois de ouvirem a palavra da verdade, o evangelho da sua salvação, e nele tendo crido, foram selados com o Espírito Santo prometido,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "foram selados",
+    "termo": "ἐσφραγίσθητε (esphragisthēte)",
+    "titulo": "sphragizō",
+    "texto": "O selo marcava propriedade, garantia autenticidade e protegia o conteúdo. O Espírito é a marca de que os crentes pertencem a Deus e estão guardados até o dia da redenção (4:30)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "o Espírito Santo prometido",
+    "termo": "τῷ πνεύματι τῆς ἐπαγγελίας τῷ ἁγίῳ",
+    "titulo": "“o Espírito da promessa, o Santo”",
+    "texto": "Lit. “com o Espírito da promessa, o Santo”. É o Espírito prometido pelos profetas (Ez 36:27; Jl 2:28) e por Jesus (Lc 24:49; At 1:4-5). “Prometido” traduz o genitivo."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "tendo crido, foram selados",
+    "termo": "πιστεύσαντες ἐσφραγίσθητε",
+    "titulo": "quando o selo é dado?",
+    "texto": "O particípio aoristo indica normalmente uma ação simultânea à do verbo principal: ao crerem, foram selados. A tradução “depois que crestes” (ARC) foi usada em parte da tradição pentecostal para defender um recebimento do Espírito posterior à conversão. A gramática deste versículo favorece a simultaneidade, e o selo é dado a todos os que creem. A discussão sobre experiências posteriores de plenitude do Espírito (5:18; At 8:14-17) depende de outros textos, e não deste."
+   }
+  ]
+ },
+ "Eph.1.14": {
+  "t": "que é a garantia da nossa herança, até a redenção da propriedade de Deus, para louvor da sua glória.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "garantia",
+    "termo": "ἀρραβὼν (arrabōn)",
+    "titulo": "arrabōn, raro",
+    "texto": "Só aqui, em 2Co 1:22 e 5:5. Palavra de origem semítica (‘ērābôn, “penhor”, Gn 38:17-20), usada no comércio grego para o sinal, a primeira parcela que garante o pagamento do resto. O Espírito é o adiantamento da herança, da mesma natureza que o todo."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "a redenção da propriedade de Deus",
+    "termo": "ἀπολύτρωσιν τῆς περιποιήσεως",
+    "titulo": "peripoiēsis",
+    "texto": "Lit. “a redenção da aquisição”. Peripoiēsis é “o que foi adquirido, a posse”. Evoca Israel como “propriedade particular” de Deus (Êx 19:5; Ml 3:17; 1Pe 2:9). “De Deus” foi acrescentado para deixar claro de quem é a posse; a redenção final é a do povo que ele adquiriu."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "que é",
+    "termo": "ὅ (ho)",
+    "titulo": "neutro ou masculino",
+    "texto": "O texto crítico traz o neutro ho, concordando com pneuma; o Textus Receptus e o Texto Bizantino, o masculino hos, concordando com arrabōn. Alguns viram no masculino uma afirmação da personalidade do Espírito, mas se trata de concordância gramatical. Sem efeito na tradução."
+   }
+  ]
+ },
+ "Eph.1.15": {
+  "t": "Por isso, também eu, tendo ouvido falar da fé que vocês têm no Senhor Jesus e do amor para com todos os santos,",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "e do amor",
+    "termo": "καὶ τὴν ἀγάπην",
+    "titulo": "omissão em manuscritos antigos",
+    "texto": "Alguns manuscritos antigos não trazem “o amor”, e a frase fica: “a fé no Senhor Jesus e a que há para com todos os santos”. A omissão se explica pela semelhança das terminações (tēn ... tēn), que levou o copista a pular palavras; as edições críticas mantêm “o amor”, que corresponde ao par fé e amor de Cl 1:4 (Metzger)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "tendo ouvido falar",
+    "termo": "ἀκούσας (akousas)",
+    "titulo": "Paulo conhecia os leitores?",
+    "texto": "Paulo passou cerca de três anos em Éfeso (At 20:31). Falar da fé dos leitores “de ouvir falar” combina melhor com uma carta circular (1:1) ou com notícias sobre crentes que chegaram depois da sua partida. Cf. 3:2."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "da fé que vocês têm",
+    "termo": "τὴν καθ᾽ ὑμᾶς πίστιν",
+    "titulo": "kath’ hymas",
+    "texto": "Lit. “a fé entre vocês, a fé de vocês”. Traduzido pelo sentido."
+   }
+  ]
+ },
+ "Eph.1.16": {
+  "t": "não deixo de dar graças por vocês, lembrando-me de vocês nas minhas orações,",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "lembrando-me de vocês",
+    "termo": "μνείαν ποιούμενος",
+    "titulo": "hymōn",
+    "texto": "O Textus Receptus e o Texto Bizantino acrescentam hymōn (“de vocês”) depois de mneian. A tradução já o supõe, porque o português pede o complemento."
+   }
+  ]
+ },
+ "Eph.1.17": {
+  "t": "pedindo que o Deus do nosso Senhor Jesus Cristo, o Pai da glória, lhes dê espírito de sabedoria e de revelação no pleno conhecimento dele,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "espírito de sabedoria e de revelação",
+    "termo": "πνεῦμα σοφίας καὶ ἀποκαλύψεως",
+    "titulo": "Espírito ou espírito",
+    "texto": "Sem artigo, pode ser uma disposição humana (“um espírito de sabedoria”) ou o Espírito Santo, que dá sabedoria e revelação (Is 11:2). Os leitores já receberam o Espírito (1:13); Paulo pede que ele atue neles como Espírito de sabedoria. A minúscula segue a forma sem artigo, mas a obra é do Espírito de Deus."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "pedindo",
+    "termo": "ἵνα (hina)",
+    "titulo": "verbo acrescentado",
+    "texto": "O grego tem só hina (“para que”), dependente de “lembrando-me de vocês nas minhas orações”. “Pedindo” deixa clara a ligação."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "pleno conhecimento",
+    "termo": "ἐπιγνώσει (epignōsei)",
+    "titulo": "epignōsis",
+    "texto": "Conhecimento pessoal e profundo, não apenas informação. Pode ser “pleno conhecimento dele” (de Deus) ou de Cristo; o mais provável é Deus."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "o Pai da glória",
+    "termo": "ὁ πατὴρ τῆς δόξης",
+    "titulo": "título",
+    "texto": "Expressão semelhante a “Deus da glória” (Sl 29:3; At 7:2): o Pai glorioso, fonte de toda glória."
+   }
+  ]
+ },
+ "Eph.1.18": {
+  "t": "sendo iluminados os olhos do coração de vocês, para que saibam qual é a esperança do seu chamado, qual a riqueza da glória da sua herança nos santos,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "os olhos do coração",
+    "termo": "τοὺς ὀφθαλμοὺς τῆς καρδίας",
+    "titulo": "imagem bíblica",
+    "texto": "O coração é, na Bíblia, o centro da pessoa: pensamento, vontade e afeto. Os “olhos do coração” são a capacidade de perceber as realidades de Deus."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "a riqueza da glória da sua herança nos santos",
+    "termo": "τίς ὁ πλοῦτος τῆς δόξης τῆς κληρονομίας αὐτοῦ ἐν τοῖς ἁγίοις",
+    "titulo": "a herança de quem?",
+    "texto": "Pode ser a herança que Deus dá aos crentes, recebida junto com os santos (Cl 1:12), ou a herança que Deus tem neles, o seu povo como sua possessão (Dt 32:9; cf. 1:11, 14). O pronome “sua” (de Deus) favorece a segunda leitura, mas a primeira também é defendida. A tradução literal mantém as duas."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "do coração",
+    "termo": "τῆς καρδίας",
+    "titulo": "kardias ou dianoias",
+    "texto": "O Textus Receptus traz dianoias (“do entendimento”) em vez de kardias, e acrescenta kai antes de tis. Os manuscritos mais antigos trazem “coração”."
+   }
+  ]
+ },
+ "Eph.1.19": {
+  "t": "e qual a suprema grandeza do seu poder para conosco, os que cremos, segundo a atuação da força do seu poder.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "suprema grandeza",
+    "termo": "τὸ ὑπερβάλλον μέγεθος",
+    "titulo": "megethos, hápax",
+    "texto": "“Grandeza”. Hyperballō é “ultrapassar”: uma grandeza que vai além de toda medida."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "segundo a atuação da força do seu poder",
+    "termo": "κατὰ τὴν ἐνέργειαν τοῦ κράτους τῆς ἰσχύος αὐτοῦ",
+    "titulo": "quatro palavras de poder",
+    "texto": "Paulo acumula dynamis (poder), energeia (atuação eficaz), kratos (força que domina) e ischys (vigor). A tradução conserva o acúmulo, reduzindo uma palavra repetida (“poder”), para mostrar que a linguagem humana se esgota diante do poder de Deus."
+   }
+  ]
+ },
+ "Eph.1.20": {
+  "t": "Esse poder ele exerceu em Cristo, ressuscitando-o dentre os mortos e fazendo-o sentar à sua direita nas regiões celestiais,",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "fazendo-o sentar à sua direita",
+    "termo": "καθίσας ἐν δεξιᾷ αὐτοῦ",
+    "titulo": "Salmo 110:1",
+    "texto": "Alusão a Sl 110:1 (“Sente-se à minha direita”), o texto do AT mais citado no NT. Sentar à direita do rei é partilhar sua autoridade."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Esse poder ele exerceu",
+    "termo": "ἣν ἐνήργηκεν",
+    "titulo": "perfeito ou aoristo",
+    "texto": "O SBLGNT traz o perfeito enērgēken; o NA28, o THGNT, Tregelles, o Textus Receptus e o Texto Bizantino, o aoristo enērgēsen. O Textus Receptus e o Texto Bizantino trazem também ekathisen (“e o fez sentar”). Sem efeito na tradução."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Esse poder ele exerceu",
+    "termo": "ἣν ἐνήργηκεν",
+    "titulo": "nova frase",
+    "texto": "Lit. “o qual (poder) ele operou”. Um novo período começa com “Esse poder”, para não alongar a frase."
+   }
+  ]
+ },
+ "Eph.1.21": {
+  "t": "muito acima de todo principado e autoridade, poder e domínio, e de todo nome que se possa nomear, não só nesta era, mas também na vindoura.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "principado e autoridade, poder e domínio",
+    "termo": "ἀρχῆς καὶ ἐξουσίας καὶ δυνάμεως καὶ κυριότητος",
+    "titulo": "os poderes",
+    "texto": "Nomes usados no judaísmo da época para categorias de seres espirituais, bons ou maus (cf. 3:10; 6:12; Cl 1:16; Rm 8:38). Os leitores, numa região marcada pela magia (At 19:18-20), temiam esses poderes. Paulo afirma que Cristo está acima de todos eles, e a lista não pretende ser completa: “todo nome que se possa nomear”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "muito acima",
+    "termo": "ὑπεράνω (hyperanō)",
+    "titulo": "hyperanō, raro",
+    "texto": "Só aqui, em 4:10 e Hb 9:5. “Muito acima, bem por cima”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "nesta era, mas também na vindoura",
+    "termo": "ἐν τῷ αἰῶνι τούτῳ ἀλλὰ καὶ ἐν τῷ μέλλοντι",
+    "titulo": "as duas eras",
+    "texto": "O judaísmo distinguia “esta era” e “a era vindoura”. O senhorio de Cristo já começou e durará na era futura."
+   }
+  ]
+ },
+ "Eph.1.22": {
+  "t": "Deus sujeitou todas as coisas debaixo dos seus pés e o deu à igreja como cabeça sobre todas as coisas,",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "sujeitou todas as coisas debaixo dos seus pés",
+    "termo": "πάντα ὑπέταξεν ὑπὸ τοὺς πόδας αὐτοῦ",
+    "titulo": "Salmo 8:6",
+    "texto": "Citação de Sl 8:6, que fala do domínio dado ao ser humano sobre a criação. O NT aplica o salmo a Cristo, o homem em quem esse domínio se realiza plenamente (1Co 15:27; Hb 2:6-9)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "igreja",
+    "termo": "ἐκκλησίᾳ (ekklēsia)",
+    "titulo": "ekklēsia",
+    "texto": "Assembleia, comunidade convocada. No mundo grego, era a assembleia dos cidadãos; na Septuaginta traduz qahal, a congregação de Israel. Em Efésios designa sempre a igreja universal, o corpo de Cristo, e não uma congregação local."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "cabeça",
+    "termo": "κεφαλὴν (kephalēn)",
+    "titulo": "kephalē",
+    "texto": "“Cabeça” indica autoridade e governo; em Efésios inclui também a fonte de vida e crescimento do corpo (4:15-16). O sentido de “fonte”, que alguns defendem para 5:23, é discutido; aqui, o contexto de domínio (“sujeitou”, “sobre todas as coisas”) põe o acento na autoridade. Cristo é cabeça sobre o universo e foi dado à igreja nessa condição."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Deus",
+    "termo": "ὑπέταξεν (hypetaxen)",
+    "titulo": "sujeito acrescentado",
+    "texto": "O sujeito do verbo é Deus (1:17, 20). Foi explicitado porque o versículo começa nova frase."
+   }
+  ]
+ },
+ "Eph.1.23": {
+  "t": "a qual é o seu corpo, a plenitude daquele que enche tudo em todos.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "a plenitude daquele que enche tudo em todos",
+    "termo": "τὸ πλήρωμα τοῦ τὰ πάντα ἐν πᾶσιν πληρουμένου",
+    "titulo": "um texto difícil",
+    "texto": "Duas questões. (1) Plērōma pode estar em aposição a “igreja” (a igreja é a plenitude de Cristo, aquela que ele enche com sua presença) ou a Cristo (v. 22, “Cristo, a plenitude de Deus”, cf. Cl 1:19; 2:9). (2) O particípio plēroumenou pode ser médio com sentido ativo (“que enche”) ou passivo (“que é completado”); a leitura passiva, já presente na época patrística (João Crisóstomo), entende que a cabeça é completada pelo corpo. A APV segue a leitura mais comum: a igreja é a plenitude de Cristo, que enche o universo inteiro (4:10). As outras leituras são sérias e antigas.",
+    "revisar": true
+   },
+   {
+    "tipo": "tc",
+    "ancora": "tudo",
+    "termo": "τὰ πάντα",
+    "titulo": "artigo",
+    "texto": "O Textus Receptus omite o artigo ta. Sem efeito na tradução."
+   }
+  ]
+ },
+ "Eph.2.1": {
+  "t": "Também vocês estavam mortos nas suas transgressões e pecados,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Também vocês estavam mortos",
+    "termo": "Καὶ ὑμᾶς ὄντας νεκροὺς",
+    "titulo": "uma frase suspensa",
+    "texto": "Lit. “E vocês, estando mortos...”. O verbo principal só vem no v. 5 (“nos deu vida”), depois de uma longa descrição do estado anterior. A tradução usa verbo finito aqui e retoma a ideia no v. 5 com “mesmo quando estávamos mortos”, que no grego repete o início."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "mortos",
+    "termo": "νεκροὺς (nekrous)",
+    "titulo": "morte espiritual",
+    "texto": "Não é só fraqueza ou doença, mas separação de Deus, fonte da vida (cf. Cl 2:13; Lc 15:24). Os vv. 5-6 respondem com a imagem da ressurreição."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "nas suas transgressões",
+    "termo": "τοῖς παραπτώμασιν καὶ ταῖς ἁμαρτίαις ὑμῶν",
+    "titulo": "hymōn",
+    "texto": "O Textus Receptus e o Texto Bizantino omitem hymōn (“suas”) no fim. Sem efeito no sentido."
+   }
+  ]
+ },
+ "Eph.2.2": {
+  "t": "nos quais vocês outrora andavam, segundo o rumo deste mundo, segundo o príncipe do poder do ar, o espírito que agora atua nos filhos da desobediência.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "segundo o rumo deste mundo",
+    "termo": "κατὰ τὸν αἰῶνα τοῦ κόσμου τούτου",
+    "titulo": "aiōn",
+    "texto": "Lit. “segundo a era deste mundo”: o modo de ser da era presente, oposto a Deus. Alguns veem em Aiōn o nome de uma divindade pagã, mas o paralelo com “era” em 1:21 e 2:7 favorece o sentido temporal. “Rumo” traduz a ideia de curso, direção que domina a era."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "o príncipe do poder do ar",
+    "termo": "τὸν ἄρχοντα τῆς ἐξουσίας τοῦ ἀέρος",
+    "titulo": "o diabo",
+    "texto": "É o diabo (4:27; 6:11; cf. Jo 12:31; 2Co 4:4). No pensamento judaico, o ar, entre a terra e o céu de Deus, era a morada dos espíritos maus. “Poder” (exousia) pode indicar o domínio que ele exerce ou o conjunto dos poderes que ele chefia."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "o espírito que agora atua",
+    "termo": "τοῦ πνεύματος τοῦ νῦν ἐνεργοῦντος",
+    "titulo": "um genitivo difícil",
+    "texto": "O genitivo “do espírito” pode estar em aposição a “poder” (o domínio do príncipe é um espírito que atua), ou ser governado por “príncipe” (príncipe do poder do ar e do espírito que atua). A tradução põe a expressão em aposição, como descrição do próprio príncipe, leitura mais simples em português."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "filhos da desobediência",
+    "termo": "τοῖς υἱοῖς τῆς ἀπειθείας",
+    "titulo": "expressão hebraica",
+    "texto": "Lit. “filhos da desobediência”: pessoas marcadas pela desobediência a Deus (cf. 5:6). Mantida a forma literal, conhecida em português."
+   }
+  ]
+ },
+ "Eph.2.3": {
+  "t": "Entre eles também todos nós vivíamos outrora, nos desejos da nossa carne, fazendo a vontade da carne e dos pensamentos; e éramos por natureza filhos da ira, como também os demais.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "também todos nós",
+    "termo": "καὶ ἡμεῖς πάντες",
+    "titulo": "judeus e gentios",
+    "texto": "Paulo passa de “vocês” (gentios) a “nós todos”: os judeus também viviam assim. Ninguém está fora dessa condição."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "carne",
+    "termo": "σαρκὸς (sarkos)",
+    "titulo": "sarx",
+    "texto": "Aqui sarx é o ser humano entregue a si mesmo, com desejos voltados contra Deus (cf. Gl 5:16-21), e não o corpo. A APV mantém “carne” para conservar o termo de Paulo."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "por natureza filhos da ira",
+    "termo": "τέκνα φύσει ὀργῆς",
+    "titulo": "a ira e a natureza",
+    "texto": "“Filhos da ira” é expressão hebraica para pessoas sujeitas à ira, isto é, ao juízo justo de Deus contra o pecado (5:6; Rm 1:18). “Por natureza” indica que essa condição é a do ser humano como é, não só o resultado de atos isolados. A tradição agostiniana viu aqui um apoio para a doutrina do pecado original; outros entendem “natureza” como a condição que todos de fato compartilham. A tradução não suaviza a afirmação."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "éramos",
+    "termo": "ἤμεθα (ēmetha)",
+    "titulo": "forma do verbo",
+    "texto": "O Textus Receptus e o Texto Bizantino trazem ēmen, outra forma do mesmo tempo. Sem efeito na tradução."
+   }
+  ]
+ },
+ "Eph.2.4": {
+  "t": "Mas Deus, sendo rico em misericórdia, por causa do grande amor com que nos amou,",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Mas Deus",
+    "termo": "Ὁ δὲ θεὸς",
+    "titulo": "a virada",
+    "texto": "Depois da descrição sombria dos vv. 1-3, o sujeito muda: tudo o que segue é ação de Deus. A causa não está nos mortos, mas na misericórdia e no amor de Deus."
+   }
+  ]
+ },
+ "Eph.2.5": {
+  "t": "mesmo quando estávamos mortos nas nossas transgressões, nos deu vida juntamente com Cristo — pela graça vocês estão salvos —",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "nos deu vida juntamente com Cristo",
+    "termo": "συνεζωοποίησεν τῷ Χριστῷ",
+    "titulo": "syzōopoieō, raro",
+    "texto": "Só aqui e em Cl 2:13. “Vivificar junto com”. Os três verbos dos vv. 5-6 começam com syn- (“com”): os crentes partilham o que aconteceu com Cristo. Alguns manuscritos antigos trazem en tō Christō (“em Cristo”); as edições preferem o dativo simples."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "vocês estão salvos",
+    "termo": "ἐστε σεσῳσμένοι (este sesōsmenoi)",
+    "titulo": "perfeito",
+    "texto": "O particípio perfeito com o verbo “ser” indica uma salvação concluída no passado, cujo efeito permanece. “Estão salvos” traduz esse aspecto melhor que “foram salvos” ou “são salvos”. Paulo interrompe a frase com esta exclamação, retomada no v. 8."
+   }
+  ]
+ },
+ "Eph.2.6": {
+  "t": "e com ele nos ressuscitou e com ele nos fez sentar nas regiões celestiais em Cristo Jesus,",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "com ele nos ressuscitou e com ele nos fez sentar",
+    "termo": "συνήγειρεν καὶ συνεκάθισεν",
+    "titulo": "já agora",
+    "texto": "Synegeirō (raro: também em Cl 2:12; 3:1) e synkathizō (raro: também em Lc 22:55) repetem o que 1:20 diz de Cristo. Em Rm 6:5, 8 a ressurreição dos crentes é ainda futura; aqui ela é vista como já realizada, por causa da união com Cristo. As duas perspectivas convivem no NT: os crentes já participam da vida do Ressuscitado e ainda aguardam a ressurreição do corpo."
+   }
+  ]
+ },
+ "Eph.2.7": {
+  "t": "para mostrar, nas eras vindouras, a suprema riqueza da sua graça, pela sua bondade para conosco em Cristo Jesus.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "nas eras vindouras",
+    "termo": "ἐν τοῖς αἰῶσιν τοῖς ἐπερχομένοις",
+    "titulo": "plural",
+    "texto": "O plural pode indicar toda a eternidade futura (“pelos séculos que hão de vir”) ou as gerações sucessivas da história. A salvação dos que estavam mortos será a vitrine da graça de Deus para sempre."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "bondade",
+    "termo": "χρηστότητι (chrēstotēti)",
+    "titulo": "chrēstotēs",
+    "texto": "Bondade benevolente, gentileza que age em favor do outro (Rm 2:4; Tt 3:4)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "a suprema riqueza",
+    "termo": "τὸ ὑπερβάλλον πλοῦτος",
+    "titulo": "gênero",
+    "texto": "O Textus Receptus e o Texto Bizantino trazem o masculino ton hyperballonta plouton. Sem efeito na tradução."
+   }
+  ]
+ },
+ "Eph.2.8": {
+  "t": "Pois pela graça vocês estão salvos, por meio da fé; e isto não vem de vocês, é dom de Deus;",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "e isto não vem de vocês",
+    "termo": "καὶ τοῦτο οὐκ ἐξ ὑμῶν",
+    "titulo": "a que se refere “isto”?",
+    "texto": "Touto (“isto”) é neutro, enquanto “graça” e “fé” são femininos no grego. Por isso a maioria dos comentaristas, já desde Calvino, entende que “isto” se refere a toda a realidade descrita: ser salvo pela graça por meio da fé. Outra leitura, antiga e defendida na tradição agostiniana e por muitos reformados, entende que “isto” é a fé, pois o neutro pode retomar uma ideia abstrata. Uma terceira, menos provável, liga “isto” à graça. Na leitura majoritária a fé não fica fora do dom: ela é o meio pelo qual o dom é recebido, e não uma obra que o mereça (v. 9). A tradução “isto” conserva a abertura do grego."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "por meio da fé",
+    "termo": "διὰ πίστεως (dia pisteōs)",
+    "titulo": "graça e fé",
+    "texto": "A graça é a causa (o favor imerecido de Deus); a fé é o meio (dia, “por meio de”), a mão vazia que recebe. Não há aqui o debate de pistis Christou (Gl 2:16): é a fé de quem crê."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "por meio da fé",
+    "termo": "διὰ πίστεως",
+    "titulo": "artigo",
+    "texto": "O Textus Receptus e o Texto Bizantino trazem o artigo (dia tēs pisteōs). Sem efeito na tradução."
+   }
+  ]
+ },
+ "Eph.2.9": {
+  "t": "não vem das obras, para que ninguém se glorie.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "não vem das obras",
+    "termo": "οὐκ ἐξ ἔργων",
+    "titulo": "obras",
+    "texto": "Aqui Paulo não fala só das “obras da lei” (Gl 2:16), mas de qualquer obra humana. A exclusão do mérito tira toda base de vanglória (Rm 3:27; 1Co 1:29-31)."
+   }
+  ]
+ },
+ "Eph.2.10": {
+  "t": "Pois somos criação dele, criados em Cristo Jesus para boas obras, as quais Deus preparou de antemão para que andássemos nelas.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "criação dele",
+    "termo": "αὐτοῦ ... ποίημα (autou ... poiēma)",
+    "titulo": "poiēma, raro",
+    "texto": "Só aqui e em Rm 1:20 (“as coisas criadas”). É “o que foi feito, a obra”. Leituras populares que traduzem por “poema” ou “obra-prima” forçam a palavra: o acento está em que Deus é o autor. “Dele” vem em primeiro lugar no grego, com ênfase."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "para boas obras",
+    "termo": "ἐπὶ ἔργοις ἀγαθοῖς",
+    "titulo": "obras de novo",
+    "texto": "Depois de excluir as obras como causa da salvação (v. 9), Paulo as põe como seu propósito. A salvação não vem das obras, mas leva a elas."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "preparou de antemão",
+    "termo": "προητοίμασεν (proētoimasen)",
+    "titulo": "proetoimazō, raro",
+    "texto": "Só aqui e em Rm 9:23. As boas obras fazem parte do plano de Deus antes de serem obra dos crentes. “Andássemos” traduz peripateō, a conduta diária."
+   }
+  ]
+ },
+ "Eph.2.11": {
+  "t": "Portanto, lembrem-se de que outrora vocês, gentios por nascimento, chamados “incircuncisão” pelos que se chamam “circuncisão”, feita na carne por mãos humanas,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "gentios por nascimento",
+    "termo": "τὰ ἔθνη ἐν σαρκί",
+    "titulo": "“gentios na carne”",
+    "texto": "Lit. “os gentios na carne”: gentios por origem física, sem a marca da circuncisão. “Por nascimento” diz o sentido; “carne” fica na segunda parte do versículo, onde se refere à circuncisão física."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "feita na carne por mãos humanas",
+    "termo": "ἐν σαρκὶ χειροποιήτου",
+    "titulo": "cheiropoiētos",
+    "texto": "“Feita por mãos”. Na Septuaginta, a palavra designa os ídolos (Lv 26:1; Is 46:6). Paulo não despreza a circuncisão, sinal dado por Deus a Abraão, mas a coloca no plano exterior, em contraste com a circuncisão feita sem mãos, em Cristo (Cl 2:11)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "chamados",
+    "termo": "οἱ λεγόμενοι",
+    "titulo": "os rótulos",
+    "texto": "Os dois “chamados” sugerem que se trata de rótulos usados por um grupo para o outro. As aspas na tradução marcam esse uso."
+   }
+  ]
+ },
+ "Eph.2.12": {
+  "t": "estavam naquele tempo sem Cristo, excluídos da cidadania de Israel e estranhos às alianças da promessa, sem esperança e sem Deus no mundo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "sem Cristo",
+    "termo": "χωρὶς Χριστοῦ",
+    "titulo": "sem o Messias",
+    "texto": "Não só sem conhecer Jesus, mas fora da esperança messiânica de Israel. Os gentios não esperavam o Cristo prometido."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "excluídos da cidadania de Israel",
+    "termo": "ἀπηλλοτριωμένοι τῆς πολιτείας τοῦ Ἰσραὴλ",
+    "titulo": "politeia, raro",
+    "texto": "Politeia (só aqui e em At 22:28) é “cidadania” ou “comunidade política”; apallotrioō (raro: também em 4:18 e Cl 1:21) é “alienar, deixar de fora”. Israel é descrito como comunidade de cidadãos da qual os gentios não faziam parte (cf. v. 19, “concidadãos”)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "sem Deus",
+    "termo": "ἄθεοι (atheoi)",
+    "titulo": "atheos, hápax",
+    "texto": "Não “ateus” no sentido moderno (os gentios tinham muitos deuses), mas “sem o Deus verdadeiro”, sem relação com ele. Curiosamente, os pagãos chamavam os cristãos de atheoi por não adorarem os deuses."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "alianças da promessa",
+    "termo": "τῶν διαθηκῶν τῆς ἐπαγγελίας",
+    "titulo": "plural",
+    "texto": "As alianças com Abraão, com Israel no Sinai e com Davi, todas ligadas à promessa de bênção (Rm 9:4)."
+   }
+  ]
+ },
+ "Eph.2.13": {
+  "t": "Mas agora, em Cristo Jesus, vocês, que antes estavam longe, foram aproximados pelo sangue de Cristo.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "estavam longe",
+    "termo": "μακρὰν ... ἐγγύς",
+    "titulo": "linguagem de Isaías",
+    "texto": "Eco de Is 57:19, citado no v. 17. No judaísmo, “aproximar” era usado para a admissão de prosélitos. Aqui não é a circuncisão que aproxima, mas o sangue de Cristo."
+   }
+  ]
+ },
+ "Eph.2.14": {
+  "t": "Pois ele é a nossa paz: de ambos fez um só e, na sua carne, derrubou o muro de separação, a inimizade,",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "ele é a nossa paz",
+    "termo": "αὐτὸς γάρ ἐστιν ἡ εἰρήνη ἡμῶν",
+    "titulo": "Miqueias 5:5",
+    "texto": "Talvez eco de Mq 5:5 (“e este será a paz”), dito do rei que viria de Belém, e de Is 9:6 (“Príncipe da Paz”). A paz não é só um bem que Cristo dá; é ele mesmo."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "o muro de separação",
+    "termo": "τὸ μεσότοιχον τοῦ φραγμοῦ",
+    "titulo": "mesotoichon, hápax",
+    "texto": "Lit. “o muro do meio, da cerca”. Muitos veem alusão à balaustrada do templo de Jerusalém, que separava o pátio dos gentios dos pátios internos; inscrições encontradas ali advertiam que o gentio que passasse seria responsável pela própria morte. Mas o muro de que Paulo fala é a lei enquanto barreira entre judeus e gentios (v. 15); a Carta de Aristeias (§ 139) diz que Moisés cercou Israel “com muralhas de ferro” de mandamentos."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "na sua carne",
+    "termo": "ἐν τῇ σαρκὶ αὐτοῦ",
+    "titulo": "carne aqui",
+    "texto": "É a humanidade de Cristo entregue na morte (cf. Cl 1:22). Mantido “carne”, e não “corpo”, para não confundir com o “um só corpo” do v. 16, que é a igreja."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "a inimizade",
+    "termo": "τὴν ἔχθραν (tēn echthran)",
+    "titulo": "a sintaxe",
+    "texto": "“A inimizade” pode estar em aposição ao muro (o muro é a inimizade) ou ser objeto de “anulando” no v. 15 (anulando a inimizade, isto é, a lei). A tradução segue a primeira leitura, mas o sentido é o mesmo: a hostilidade entre judeus e gentios foi desfeita na cruz."
+   }
+  ]
+ },
+ "Eph.2.15": {
+  "t": "anulando a lei dos mandamentos expressos em ordenanças, para criar em si mesmo, dos dois, um só novo homem, fazendo a paz,",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "anulando a lei dos mandamentos",
+    "termo": "τὸν νόμον τῶν ἐντολῶν ἐν δόγμασιν καταργήσας",
+    "titulo": "e Mt 5:17?",
+    "texto": "Katargeō é “tornar inoperante, desativar”. O que Cristo desativou é a lei como código de mandamentos e ordenanças que separava Israel das nações e condenava o pecador. Isso não contradiz Mt 5:17 nem Rm 3:31: a vontade de Deus expressa na lei se cumpre em Cristo e no amor (Rm 13:8-10), mas a lei deixa de ser a barreira e o regime sob o qual o povo de Deus vive. A extensão disso (lei inteira, ou só as leis rituais de separação) é debatida."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "um só novo homem",
+    "termo": "ἕνα καινὸν ἄνθρωπον",
+    "titulo": "anthrōpos",
+    "texto": "Anthrōpos é “ser humano”; aqui designa uma nova humanidade. Não é a soma de judeus e gentios, nem a conversão de um no outro, mas uma criação nova em Cristo. Mantido “novo homem”, expressão que volta em 4:24."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "em si mesmo",
+    "termo": "ἐν ἑαυτῷ (en heautō)",
+    "titulo": "heautō ou autō",
+    "texto": "O SBLGNT traz heautō (“em si mesmo”); o NA28, o THGNT e Tregelles, autō, que pode ser lido com o mesmo sentido reflexivo. Sem efeito na tradução."
+   }
+  ]
+ },
+ "Eph.2.16": {
+  "t": "e reconciliar ambos com Deus em um só corpo, por meio da cruz, tendo nela matado a inimizade.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "reconciliar",
+    "termo": "ἀποκαταλλάξῃ (apokatallaxē)",
+    "titulo": "apokatallassō, raro",
+    "texto": "Só aqui e em Cl 1:20, 22. Forma reforçada de katallassō: reconciliar plenamente. A reconciliação é dupla: entre judeus e gentios, e de ambos com Deus."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "um só corpo",
+    "termo": "ἐν ἑνὶ σώματι",
+    "titulo": "que corpo?",
+    "texto": "Provavelmente a igreja, o corpo de Cristo (1:23; 4:4). Alguns entendem o corpo crucificado de Cristo; mas o paralelo com o “um só novo homem” favorece a igreja."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "nela",
+    "termo": "ἐν αὐτῷ (en autō)",
+    "titulo": "na cruz ou nele",
+    "texto": "Pode ser “nela”, a cruz, que é o termo mais próximo, ou “nele”, em si mesmo, isto é, em Cristo. O sentido é o mesmo: a morte de Cristo matou a inimizade."
+   }
+  ]
+ },
+ "Eph.2.17": {
+  "t": "E veio anunciar paz a vocês que estavam longe e paz aos que estavam perto,",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "paz a vocês que estavam longe e paz aos que estavam perto",
+    "termo": "εἰρήνην ὑμῖν τοῖς μακρὰν καὶ εἰρήνην τοῖς ἐγγύς",
+    "titulo": "Isaías 57:19 e 52:7",
+    "texto": "Combinação de Is 57:19 (“Paz, paz para o que está longe e para o que está perto”), onde os de longe eram os israelitas dispersos, com Is 52:7 (os pés de quem “anuncia a paz”). Paulo aplica os “de longe” aos gentios."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "veio anunciar",
+    "termo": "ἐλθὼν εὐηγγελίσατο",
+    "titulo": "quando?",
+    "texto": "Lit. “vindo, anunciou como boa notícia”. Pode referir-se ao ministério de Jesus, à proclamação do Ressuscitado ou à pregação dos apóstolos, na qual Cristo mesmo fala. A última leitura é a mais provável, já que os gentios ouviram por meio dos enviados."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "e paz aos que estavam perto",
+    "termo": "καὶ εἰρήνην τοῖς ἐγγύς",
+    "titulo": "repetição",
+    "texto": "O Textus Receptus e o Texto Bizantino omitem a segunda “paz”. A repetição, de acordo com Isaías, tem bom apoio antigo."
+   }
+  ]
+ },
+ "Eph.2.18": {
+  "t": "porque por meio dele ambos temos acesso ao Pai em um só Espírito.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "acesso",
+    "termo": "προσαγωγὴν (prosagōgēn)",
+    "titulo": "prosagōgē, raro",
+    "texto": "Só aqui, em 3:12 e Rm 5:2. Era usada para a introdução de alguém na presença do rei e evoca o acesso ao santuário. Agora gentios e judeus entram juntos na presença do Pai."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "por meio dele",
+    "termo": "δι᾽ αὐτοῦ ... ἐν ἑνὶ πνεύματι πρὸς τὸν πατέρα",
+    "titulo": "o Deus trino",
+    "texto": "Por meio do Filho, no Espírito, ao Pai: o versículo resume a estrutura trinitária da vida cristã, como 1:3-14 e 4:4-6."
+   }
+  ]
+ },
+ "Eph.2.19": {
+  "t": "Assim, vocês já não são estrangeiros nem forasteiros, mas concidadãos dos santos e membros da família de Deus,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "estrangeiros nem forasteiros",
+    "termo": "ξένοι καὶ πάροικοι",
+    "titulo": "xenoi e paroikoi",
+    "texto": "Xenoi são estrangeiros de passagem; paroikoi, estrangeiros residentes, que moravam na cidade sem direitos de cidadão (cf. Gn 23:4 LXX; 1Pe 2:11)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "concidadãos",
+    "termo": "συμπολῖται (sympolitai)",
+    "titulo": "sympolitēs, hápax",
+    "texto": "“Cidadão junto com”. Retoma a “cidadania de Israel” do v. 12."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "dos santos",
+    "termo": "τῶν ἁγίων (tōn hagiōn)",
+    "titulo": "quem são?",
+    "texto": "Podem ser todos os crentes, os crentes judeus (o Israel fiel, ao qual os gentios agora se juntam) ou os anjos (como em Qumran). A primeira leitura é a mais comum, mas o contexto dos vv. 11-13 dá peso à segunda."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "membros da família de Deus",
+    "termo": "οἰκεῖοι τοῦ θεοῦ",
+    "titulo": "oikeios, raro",
+    "texto": "Só aqui, em Gl 6:10 e 1Tm 5:8. “Os da casa”. A imagem passa da cidade para a família e, no v. 20, para o edifício."
+   }
+  ]
+ },
+ "Eph.2.20": {
+  "t": "edificados sobre o fundamento dos apóstolos e profetas, sendo o próprio Cristo Jesus a pedra angular;",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "o fundamento dos apóstolos e profetas",
+    "termo": "τῷ θεμελίῳ τῶν ἀποστόλων καὶ προφητῶν",
+    "titulo": "que profetas?",
+    "texto": "Os profetas são provavelmente os do NT, porque vêm depois dos apóstolos e porque 3:5 fala da revelação dada “aos seus santos apóstolos e profetas” agora. O genitivo indica o fundamento que eles lançaram pela pregação, ou que eles mesmos constituem. Um único artigo para os dois termos levou alguns (como W. Grudem) a ver um só grupo: “os apóstolos que também são profetas”. Do ponto de vista continuísta adotado pela APV, o papel de fundamento é único e não se repete, mas o dom de profecia continua na igreja (4:11; 1Co 14)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "pedra angular",
+    "termo": "ἀκρογωνιαίου (akrogōniaiou)",
+    "titulo": "akrogōniaios, raro",
+    "texto": "Só aqui e em 1Pe 2:6, ambos ecoando Is 28:16 (LXX). É a pedra de esquina do alicerce, que alinha todo o edifício. J. Jeremias propôs “pedra de remate”, a pedra que fecha o alto de um arco; mas a ligação com o fundamento e com Is 28:16 (pedra posta “nos alicerces de Sião”) favorece a pedra angular de base."
+   }
+  ]
+ },
+ "Eph.2.21": {
+  "t": "nele o edifício inteiro, bem ajustado, cresce para ser um santuário santo no Senhor;",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "o edifício inteiro",
+    "termo": "πᾶσα οἰκοδομὴ (pasa oikodomē)",
+    "titulo": "sem artigo",
+    "texto": "Sem artigo, pasa oikodomē poderia ser “cada edifício” (cada igreja local). Mas o contexto fala de um só edifício, e no grego do NT pas sem artigo pode ter o sentido de “todo o”. O Textus Receptus acrescenta o artigo (hē), deixando explícito “todo o edifício”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "bem ajustado",
+    "termo": "συναρμολογουμένη (synarmologoumenē)",
+    "titulo": "synarmologeō, raro",
+    "texto": "Só aqui e em 4:16. Termo de construção: unir as pedras com precisão. Em 4:16 a imagem passa para o corpo."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "santuário",
+    "termo": "ναὸν (naon)",
+    "titulo": "naos",
+    "texto": "Não o complexo do templo (hieron), mas o santuário interior, o lugar da presença de Deus. A igreja de judeus e gentios substitui a separação do templo de Jerusalém (v. 14)."
+   }
+  ]
+ },
+ "Eph.2.22": {
+  "t": "nele também vocês estão sendo edificados juntos para serem morada de Deus no Espírito.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "estão sendo edificados juntos",
+    "termo": "συνοικοδομεῖσθε (synoikodomeisthe)",
+    "titulo": "synoikodomeō, hápax",
+    "texto": "“Edificar juntamente”. O presente indica um processo em andamento; o prefixo syn-, que os gentios são construídos junto com os judeus."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "morada",
+    "termo": "κατοικητήριον (katoikētērion)",
+    "titulo": "katoikētērion, raro",
+    "texto": "Só aqui e em Ap 18:2. Na Septuaginta designa a habitação de Deus (1Rs 8:39; Sl 76:2)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "no Espírito",
+    "termo": "ἐν πνεύματι (en pneumati)",
+    "titulo": "Espírito",
+    "texto": "Pode ser “pelo Espírito” (o agente) ou “no Espírito” (o modo da presença de Deus). As duas ideias se unem: Deus habita na igreja pela presença do seu Espírito."
+   }
+  ]
+ }
+}

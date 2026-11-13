@@ -3027,5 +3027,457 @@
     "texto": "Arketos (“suficiente”) só aparece aqui, em 10:25 e em 1Pe 4:3. Kakia aqui não é maldade moral, mas o problema, a aflição de cada dia. A frase é provérbio realista: a vida tem dificuldades, mas cada dia tem a sua medida."
    }
   ]
+ },
+ "Mat.7.1": {
+  "t": "Não julguem, para que vocês não sejam julgados.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Não julguem",
+    "termo": "Μὴ κρίνετε (mē krinete)",
+    "titulo": "krinō",
+    "texto": "Krinō pode ser “avaliar, discernir” ou “condenar”. O contexto mostra que Jesus não proíbe o discernimento: logo em seguida manda reconhecer os “cães” e “porcos” (v. 6) e os falsos profetas (vv. 15-20). O que ele proíbe é o julgamento que condena o outro sem olhar para si mesmo (vv. 3-5)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "para que vocês não sejam julgados",
+    "termo": "ἵνα μὴ κριθῆτε (hina mē krithēte)",
+    "titulo": "passiva divina",
+    "texto": "Quem julgará é Deus, no juízo final. A passiva evita nomeá-lo, como em 5:4-9."
+   }
+  ]
+ },
+ "Mat.7.2": {
+  "t": "Pois com o julgamento com que vocês julgam serão julgados; e com a medida com que medem também vocês serão medidos.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "com a medida com que medem",
+    "termo": "ἐν ᾧ μέτρῳ μετρεῖτε (en hō metrō metreite)",
+    "titulo": "um provérbio",
+    "texto": "Provérbio conhecido também no judaísmo antigo e usado em outros contextos (Mc 4:24; Lc 6:38). A imagem é a do comerciante que mede grãos: Deus usará conosco o critério que usamos com os outros. O Textus Receptus traz antimetrēthēsetai (“será medido de volta”), com o mesmo sentido."
+   }
+  ]
+ },
+ "Mat.7.3": {
+  "t": "Por que você vê o cisco que está no olho do seu irmão e não repara na trave que está no seu próprio olho?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "cisco",
+    "termo": "τὸ κάρφος ... τὴν δοκόν (to karphos ... tēn dokon)",
+    "titulo": "hipérbole",
+    "texto": "Karphos é um fiapo de palha ou lasca de madeira; dokos é a viga que sustenta o telhado. O exagero é proposital e humorístico. A mudança para o singular (“você”) torna a advertência pessoal."
+   }
+  ]
+ },
+ "Mat.7.4": {
+  "t": "Ou como você pode dizer ao seu irmão: ‘Deixe-me tirar o cisco do seu olho’, quando há uma trave no seu próprio olho?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "quando há uma trave",
+    "termo": "καὶ ἰδοὺ ἡ δοκός (kai idou hē dokos)",
+    "titulo": "“e eis a trave”",
+    "texto": "Lit. “e eis a trave no seu olho!”. O idou chama a atenção para o absurdo; a tradução o expressa pela construção da frase."
+   }
+  ]
+ },
+ "Mat.7.5": {
+  "t": "Hipócrita! Tire primeiro a trave do seu olho, e então você verá bem para tirar o cisco do olho do seu irmão.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "verá bem",
+    "termo": "διαβλέψεις (diablepseis)",
+    "titulo": "diablepō, raro",
+    "texto": "Só aqui, em Mc 8:25 e em Lc 6:42: “ver com clareza, enxergar através”. Jesus não proíbe ajudar o irmão; manda começar por si mesmo, e só então ajudar."
+   }
+  ]
+ },
+ "Mat.7.6": {
+  "t": "Não deem o que é santo aos cães, nem joguem as suas pérolas diante dos porcos, para que não as pisoteiem e, voltando-se, despedacem vocês.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "o que é santo aos cães",
+    "termo": "τὸ ἅγιον τοῖς κυσίν (to hagion tois kysin)",
+    "titulo": "um dito difícil",
+    "texto": "“O que é santo” lembra a carne consagrada dos sacrifícios, que não podia ser dada a ninguém de fora, muito menos aos cães (Êx 29:33-34; 22:31). Cães (selvagens, não de estimação) e porcos eram animais impuros. O dito equilibra o v. 1: não julgar não significa oferecer as coisas sagradas a quem as despreza com violência. A aplicação é discutida: a mensagem do Reino diante de quem a rejeita com hostilidade (10:14), ou as coisas santas da comunidade; a Didaquê (9:5) aplica o texto à Eucaristia, que não devia ser dada aos não batizados."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "para que não as pisoteiem e, voltando-se, despedacem vocês",
+    "termo": "μήποτε καταπατήσουσιν ... καὶ στραφέντες ῥήξωσιν ὑμᾶς",
+    "titulo": "estrutura cruzada",
+    "texto": "Os porcos pisoteiam as pérolas; os cães se voltam e atacam. A ordem dos animais se inverte (cães, porcos; porcos, cães), um quiasmo comum na poesia hebraica."
+   }
+  ]
+ },
+ "Mat.7.7": {
+  "t": "Peçam, e lhes será dado; busquem, e acharão; batam, e a porta lhes será aberta.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Peçam",
+    "termo": "Αἰτεῖτε ... ζητεῖτε ... κρούετε",
+    "titulo": "imperativos presentes",
+    "texto": "Os três imperativos estão no presente, que em grego pode indicar ação contínua: “continuem pedindo, buscando, batendo”. As passivas “será dado” e “será aberta” indicam a ação de Deus. “A porta” foi acrescentado para dar sujeito ao verbo, que no grego é impessoal."
+   }
+  ]
+ },
+ "Mat.7.8": {
+  "t": "Pois todo o que pede recebe; o que busca acha; e a quem bate a porta será aberta.",
+  "n": []
+ },
+ "Mat.7.9": {
+  "t": "Ou qual de vocês, se o filho lhe pedir pão, lhe dará uma pedra?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "qual de vocês",
+    "termo": "τίς ἐστιν ἐξ ὑμῶν ἄνθρωπος (tis estin ex hymōn anthrōpos)",
+    "titulo": "construção quebrada",
+    "texto": "Lit. “quem é, dentre vocês, um homem a quem o filho pedirá pão — por acaso lhe dará uma pedra?”. A frase começa de um modo e termina de outro (anacoluto), comum na fala. A tradução reorganiza a pergunta. O pão achatado da Palestina podia lembrar uma pedra (cf. 4:3), e um peixe, uma cobra (v. 10)."
+   }
+  ]
+ },
+ "Mat.7.10": {
+  "t": "Ou, se pedir um peixe, lhe dará uma cobra?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "lhe dará",
+    "termo": "μὴ ... ἐπιδώσει (mē epidōsei)",
+    "titulo": "pergunta que espera “não”",
+    "texto": "A partícula mē indica que a resposta esperada é negativa: “Claro que não!”."
+   }
+  ]
+ },
+ "Mat.7.11": {
+  "t": "Se vocês, então, mesmo sendo maus, sabem dar coisas boas aos seus filhos, quanto mais o Pai de vocês, que está nos céus, dará coisas boas aos que lhe pedirem!",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "mesmo sendo maus",
+    "termo": "πονηροὶ ὄντες (ponēroi ontes)",
+    "titulo": "uma afirmação dura",
+    "texto": "Jesus diz de passagem que os ouvintes, inclusive os discípulos, são “maus”, sem suavizar. O argumento é do menor para o maior (ver a nota em 6:26). Em Lc 11:13 o Pai dá “o Espírito Santo”; Mateus diz “coisas boas”."
+   }
+  ]
+ },
+ "Mat.7.12": {
+  "t": "Portanto, tudo o que vocês querem que as pessoas lhes façam, façam também vocês a elas; pois esta é a Lei e os Profetas.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "tudo o que vocês querem que as pessoas lhes façam",
+    "termo": "Πάντα οὖν ὅσα ἐὰν θέλητε ἵνα ποιῶσιν ὑμῖν οἱ ἄνθρωποι",
+    "titulo": "a “regra de ouro”",
+    "texto": "Formas negativas do princípio circulavam no judaísmo e fora dele: “o que você detesta, não faça a ninguém” (Tb 4:15); o Talmude atribui ao rabino Hilel uma frase semelhante como resumo da Lei. Jesus a formula de modo positivo, o que exige iniciativa, não só abstenção. “A Lei e os Profetas” retoma 5:17 e fecha o corpo do sermão (cf. 22:40)."
+   }
+  ]
+ },
+ "Mat.7.13": {
+  "t": "Entrem pela porta estreita, pois larga é a porta e espaçoso o caminho que leva à perdição, e são muitos os que entram por ela.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "espaçoso",
+    "termo": "εὐρύχωρος (eurychōros)",
+    "titulo": "eurychōros, hápax",
+    "texto": "Única ocorrência no NT: “amplo, com muito espaço”. Stenos (“estreito”, vv. 13-14 e Lc 13:24) é seu oposto."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "perdição",
+    "termo": "τὴν ἀπώλειαν (tēn apōleian)",
+    "titulo": "apōleia",
+    "texto": "Destruição, ruína definitiva; o oposto de “vida” no v. 14. A APV não suaviza o termo."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "porta estreita",
+    "termo": "τῆς στενῆς πύλης (tēs stenēs pylēs)",
+    "titulo": "os dois caminhos",
+    "texto": "O tema dos dois caminhos é antigo (Dt 30:15-19; Sl 1; Jr 21:8) e aparece também na Didaquê (cap. 1-6). A imagem combina porta e caminho: talvez a porta da cidade e a estrada que leva até ela."
+   }
+  ]
+ },
+ "Mat.7.14": {
+  "t": "Porque estreita é a porta e apertado o caminho que leva à vida, e são poucos os que o encontram.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "apertado",
+    "termo": "τεθλιμμένη (tethlimmenē)",
+    "titulo": "thlibō",
+    "texto": "Lit. “comprimido”. É a mesma raiz de thlipsis, “tribulação, aflição” (13:21; 24:9): o caminho da vida é estreito também porque passa por sofrimento."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Porque estreita é a porta",
+    "termo": "ὅτι / τί στενή (hoti / ti stenē)",
+    "titulo": "“porque” ou “como”",
+    "texto": "O SBLGNT, Westcott-Hort e o Textus Receptus trazem hoti (“porque”); o NA28, o THGNT, Tregelles e o Texto Bizantino, ti, que funciona como exclamação: “Como é estreita a porta!”. As duas leituras são antigas, e a diferença em grego é de uma letra. O sentido geral é o mesmo."
+   }
+  ]
+ },
+ "Mat.7.15": {
+  "t": "Cuidado com os falsos profetas, que vêm a vocês vestidos de ovelhas, mas por dentro são lobos vorazes.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "vestidos de ovelhas",
+    "termo": "ἐν ἐνδύμασιν προβάτων (en endymasin probatōn)",
+    "titulo": "“em roupas de ovelhas”",
+    "texto": "Pode ser imagem de disfarce (pele de ovelha) ou alusão à roupa de pelo dos profetas (3:4; Zc 13:4). Em ambos os casos a aparência engana."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "lobos vorazes",
+    "termo": "λύκοι ἅρπαγες (lykoi harpages)",
+    "titulo": "harpax",
+    "texto": "Harpax é “rapace, que arrebata”. Na Bíblia os lobos representam líderes que devoram o povo (Ez 22:27; Sf 3:3; At 20:29)."
+   }
+  ]
+ },
+ "Mat.7.16": {
+  "t": "Vocês os reconhecerão pelos seus frutos. Será que se colhem uvas de espinheiros ou figos de cardos?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "cardos",
+    "termo": "τριβόλων (tribolōn)",
+    "titulo": "tribolos, raro",
+    "texto": "Só aqui e em Hb 6:8: planta espinhosa (Gn 3:18 na Septuaginta). Staphylē (“uva”, “cacho”) também é rara no NT. O Textus Receptus e o Texto Bizantino trazem o singular, “uva”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "frutos",
+    "termo": "τῶν καρπῶν (tōn karpōn)",
+    "titulo": "os frutos",
+    "texto": "Os frutos são o modo de viver e agir (3:8; 12:33-37), mais do que o sucesso aparente do ministério, como mostram os vv. 21-23."
+   }
+  ]
+ },
+ "Mat.7.17": {
+  "t": "Assim, toda árvore boa produz bons frutos, mas a árvore ruim produz frutos maus.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "a árvore ruim",
+    "termo": "τὸ σαπρὸν δένδρον (to sapron dendron)",
+    "titulo": "sapros",
+    "texto": "Lit. “podre”, “estragado”, e daí “sem valor, ruim”. Uma árvore doente não dá fruto bom."
+   }
+  ]
+ },
+ "Mat.7.18": {
+  "t": "Uma árvore boa não pode produzir frutos maus, nem uma árvore ruim produzir frutos bons.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "produzir",
+    "termo": "ποιεῖν (poiein)",
+    "titulo": "poiein ou enenkein",
+    "texto": "Westcott-Hort traz enenkein (“dar”), com alguns manuscritos; as demais edições têm poiein. Mesmo sentido."
+   }
+  ]
+ },
+ "Mat.7.19": {
+  "t": "Toda árvore que não produz bom fruto é cortada e lançada ao fogo.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "é cortada e lançada ao fogo",
+    "termo": "ἐκκόπτεται καὶ εἰς πῦρ βάλλεται",
+    "titulo": "as palavras de João",
+    "texto": "Repetição exata das palavras de João Batista (3:10). Jesus confirma a mensagem do juízo."
+   }
+  ]
+ },
+ "Mat.7.20": {
+  "t": "Assim, pois, pelos seus frutos vocês os reconhecerão.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Assim, pois",
+    "termo": "ἄρα γε (ara ge)",
+    "titulo": "conclusão enfática",
+    "texto": "A combinação ara ge marca uma conclusão forte. O versículo repete o v. 16 e fecha a seção."
+   }
+  ]
+ },
+ "Mat.7.21": {
+  "t": "Nem todo aquele que me diz: ‘Senhor, Senhor’ entrará no Reino dos céus, mas aquele que faz a vontade de meu Pai, que está nos céus.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Senhor, Senhor",
+    "termo": "κύριε κύριε (kyrie kyrie)",
+    "titulo": "kyrios",
+    "texto": "Kyrie podia ser tratamento respeitoso (“senhor”), mas aqui, dito ao juiz no último dia (v. 22), é confissão de fé. A repetição indica fervor. Jesus se apresenta como aquele diante de quem os homens serão julgados, papel que o Antigo Testamento reserva a Deus."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "meu Pai",
+    "termo": "τοῦ πατρός μου (tou patros mou)",
+    "titulo": "“meu Pai”",
+    "texto": "Primeira vez em Mateus que Jesus diz “meu Pai”. Ele ensina os discípulos a dizer “Pai nosso” (6:9), mas fala da própria relação com o Pai de modo único (11:27)."
+   }
+  ]
+ },
+ "Mat.7.22": {
+  "t": "Muitos me dirão naquele dia: ‘Senhor, Senhor, não profetizamos em teu nome? Em teu nome não expulsamos demônios? E em teu nome não fizemos muitos milagres?’",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "naquele dia",
+    "termo": "ἐν ἐκείνῃ τῇ ἡμέρᾳ (en ekeinē tē hēmera)",
+    "titulo": "o dia do juízo",
+    "texto": "Expressão profética para o dia do juízo de Deus (Is 2:11, 17; Am 8:9; Zc 14:4). Nesta cena futura os que falam se dirigem a Jesus como juiz glorificado; por isso a APV usa “tu”, como em orações e louvores a Jesus."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "milagres",
+    "termo": "δυνάμεις (dynameis)",
+    "titulo": "dynameis",
+    "texto": "Lit. “poderes”, isto é, atos de poder. Os dons e os milagres são reais e o texto não os nega; o que falta é a obediência (v. 21) e a relação com Jesus (v. 23). A tradição continuísta valoriza esses dons, mas o texto mostra que eles não provam, por si, a salvação de quem os exerce."
+   }
+  ]
+ },
+ "Mat.7.23": {
+  "t": "Então eu lhes declararei: ‘Nunca os conheci. Afastem-se de mim, vocês que praticam a iniquidade!’",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Afastem-se de mim, vocês que praticam a iniquidade",
+    "termo": "ἀποχωρεῖτε ἀπ᾽ ἐμοῦ οἱ ἐργαζόμενοι τὴν ἀνομίαν",
+    "titulo": "Sl 6:8",
+    "texto": "Eco de Sl 6:8 (6:9 na Septuaginta): “Afastem-se de mim todos os que praticam a iniquidade”. No salmo, quem diz isso é o justo que sofre; aqui é Jesus como juiz. Apochōreō (“afastar-se”) é raro no NT."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "iniquidade",
+    "termo": "τὴν ἀνομίαν (tēn anomian)",
+    "titulo": "anomia",
+    "texto": "Lit. “ausência de lei”, a desobediência à vontade de Deus. Só Mateus, entre os Evangelhos, usa a palavra (13:41; 23:28; 24:12): é o contrário de “fazer a vontade do Pai” (v. 21)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Nunca os conheci",
+    "termo": "οὐδέποτε ἔγνων ὑμᾶς (oudepote egnōn hymas)",
+    "titulo": "conhecer",
+    "texto": "“Conhecer” na Bíblia inclui relação pessoal e reconhecimento (Am 3:2; Jr 1:5). Jesus não diz que deixou de conhecê-los, mas que nunca houve essa relação. Homologeō (“declarar”) é termo de declaração pública e solene."
+   }
+  ]
+ },
+ "Mat.7.24": {
+  "t": "Portanto, todo aquele que ouve estas minhas palavras e as pratica será comparado a um homem prudente, que construiu a sua casa sobre a rocha.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "será comparado",
+    "termo": "ὁμοιωθήσεται (homoiōthēsetai)",
+    "titulo": "“eu o compararei”",
+    "texto": "O Textus Receptus e o Texto Bizantino trazem homoiōsō auton, “eu o compararei”. O sentido é o mesmo."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "prudente",
+    "termo": "φρονίμῳ (phronimō)",
+    "titulo": "phronimos",
+    "texto": "Sábio no sentido prático: quem vê o que vem e age em consequência (10:16; 24:45; 25:2-9). O oposto é mōros, “insensato” (v. 26)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "estas minhas palavras",
+    "termo": "μου τοὺς λόγους τούτους (mou tous logous toutous)",
+    "titulo": "a autoridade das palavras",
+    "texto": "Na parábola que fecha o sermão, as palavras de Jesus ocupam o lugar que no Antigo Testamento é da Lei de Deus: ouvi-las e praticá-las é a base da vida (Dt 28; Ez 13:10-16)."
+   }
+  ]
+ },
+ "Mat.7.25": {
+  "t": "Caiu a chuva, vieram as enxurradas, sopraram os ventos e investiram contra aquela casa, mas ela não caiu, porque tinha sido fundada sobre a rocha.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "as enxurradas",
+    "termo": "οἱ ποταμοί (hoi potamoi)",
+    "titulo": "“os rios”",
+    "texto": "Lit. “os rios”. Na Palestina, os leitos secos (uádis) se enchem de repente com as chuvas de inverno e arrastam o que está construído na areia do fundo. “Enxurradas” descreve esse fenômeno. Brochē (“chuva”) só aparece aqui e no v. 27. As chuvas, rios e ventos podem simbolizar o juízo de Deus (Ez 13:11-14)."
+   }
+  ]
+ },
+ "Mat.7.26": {
+  "t": "E todo aquele que ouve estas minhas palavras e não as pratica será comparado a um homem insensato, que construiu a sua casa sobre a areia.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "insensato",
+    "termo": "μωρῷ (mōrō)",
+    "titulo": "mōros",
+    "texto": "O mesmo termo de 5:22 e 25:2-8: não falta de inteligência, mas a insensatez de quem não age de acordo com o que ouviu."
+   }
+  ]
+ },
+ "Mat.7.27": {
+  "t": "Caiu a chuva, vieram as enxurradas, sopraram os ventos e bateram contra aquela casa, e ela caiu; e grande foi a sua queda.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "bateram contra",
+    "termo": "προσέκοψαν (prosekopsan)",
+    "titulo": "proskoptō",
+    "texto": "No v. 25 o verbo é prospiptō (“lançar-se contra”); aqui, proskoptō (“bater, chocar-se”). A APV varia a tradução como o grego."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "queda",
+    "termo": "ἡ πτῶσις (hē ptōsis)",
+    "titulo": "ptōsis, raro",
+    "texto": "Só aqui e em Lc 2:34. O sermão termina com a imagem de uma ruína completa, sem atenuação."
+   }
+  ]
+ },
+ "Mat.7.28": {
+  "t": "Quando Jesus terminou essas palavras, as multidões ficaram maravilhadas com o seu ensino,",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Quando Jesus terminou essas palavras",
+    "termo": "Καὶ ἐγένετο ὅτε ἐτέλεσεν ὁ Ἰησοῦς τοὺς λόγους τούτους",
+    "titulo": "o fim de um discurso",
+    "texto": "Fórmula que fecha cada um dos cinco grandes discursos de Mateus (7:28; 11:1; 13:53; 19:1; 26:1). Muitos veem nos cinco discursos um eco dos cinco livros de Moisés, embora a correspondência não seja exata. A frase lembra Dt 31:1 e 32:45, onde Moisés termina de falar. O Textus Receptus e o Texto Bizantino trazem synetelesen, de mesmo sentido."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "ficaram maravilhadas",
+    "termo": "ἐξεπλήσσοντο (exeplēssonto)",
+    "titulo": "ekplēssomai",
+    "texto": "Lit. “ficaram fora de si”: espanto forte, misto de admiração e perplexidade. O imperfeito indica estado prolongado. “Multidões” mostra que o público do sermão (5:1) foi mais amplo que os discípulos."
+   }
+  ]
+ },
+ "Mat.7.29": {
+  "t": "porque ele as ensinava como quem tem autoridade, e não como os escribas deles.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "autoridade",
+    "termo": "ἐξουσίαν (exousian)",
+    "titulo": "exousia",
+    "texto": "Autoridade recebida, direito de falar e agir. Os escribas ensinavam apoiados na tradição e nos mestres anteriores; Jesus fala por si mesmo (“eu, porém, lhes digo”). O tema da autoridade de Jesus atravessa o Evangelho até 28:18: “Toda a autoridade me foi dada”."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "os escribas deles",
+    "termo": "οἱ γραμματεῖς αὐτῶν (hoi grammateis autōn)",
+    "titulo": "“deles”",
+    "texto": "O Textus Receptus e o Texto Bizantino não trazem autōn (“deles”). Com o pronome, Mateus distingue os escribas do povo dos “escribas” que se tornam discípulos (13:52; 23:34)."
+   }
+  ]
  }
 }

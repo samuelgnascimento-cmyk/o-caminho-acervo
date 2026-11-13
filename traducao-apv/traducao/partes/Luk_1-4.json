@@ -746,7 +746,7 @@
   "n": []
  },
  "Luk.1.41": {
-  "t": "Quando Isabel ouviu a saudação de Maria, a criança saltou em seu ventre, e Isabel ficou cheia do Espírito Santo.",
+  "t": "Quando Isabel ouviu a saudação de Maria, a criança saltou em seu ventre, e Isabel ficou cheia do Espírito Santo,",
   "n": [
    {
     "tipo": "sn",
@@ -2960,6 +2960,785 @@
     "termo": "τοῦ Ἀδὰμ τοῦ θεοῦ",
     "titulo": "o novo Adão",
     "texto": "Adão é “filho de Deus” por ter sido criado diretamente por ele (Gn 1:26-27; 5:1-3). A genealogia está entre a voz do céu (“Tu és o meu Filho”, v. 22) e a tentação (“Se você é o Filho de Deus”, 4:3). Onde Adão caiu, Jesus, o Filho, permanece fiel. Lucas não iguala a filiação de Adão à de Jesus (1:35), mas põe Jesus como cabeça de uma nova humanidade (cf. Rm 5:12-21; 1Co 15:45)."
+   }
+  ]
+ },
+ "Luk.4.1": {
+  "t": "Jesus, cheio do Espírito Santo, voltou do Jordão e era conduzido pelo Espírito no deserto",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "era conduzido pelo Espírito no deserto",
+    "termo": "ἤγετο ἐν τῷ πνεύματι ἐν τῇ ἐρήμῳ",
+    "titulo": "imperfeito",
+    "texto": "O imperfeito (“era conduzido”) e a preposição en (“no deserto”) indicam que o Espírito conduzia Jesus durante todo o período no deserto, e não só na ida para lá. O Espírito que desceu sobre ele no batismo (3:22) dirige o confronto."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "no deserto",
+    "termo": "ἐν τῇ ἐρήμῳ / εἰς τὴν ἔρημον",
+    "titulo": "“no” ou “para o” deserto",
+    "texto": "O Textus Receptus e o Texto Bizantino trazem eis tēn erēmon (“para o deserto”), como em Mc 1:12. O texto-base traz en tē erēmō (“no deserto”)."
+   }
+  ]
+ },
+ "Luk.4.2": {
+  "t": "durante quarenta dias, sendo tentado pelo Diabo. Não comeu nada naqueles dias e, quando terminaram, teve fome.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "sendo tentado",
+    "termo": "πειραζόμενος (peirazomenos)",
+    "titulo": "peirazō: “tentar” ou “provar”",
+    "texto": "Peirazō é pôr à prova, seja para mostrar a fidelidade de alguém (Deus prova Abraão, Gn 22:1 LXX), seja para levá-lo a cair. Da parte do Diabo é tentação; no plano de Deus, que conduz Jesus pelo Espírito, é também prova. “Tentado” é a forma tradicional e foi mantida."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Diabo",
+    "termo": "τοῦ διαβόλου (tou diabolou)",
+    "titulo": "diabolos",
+    "texto": "Lit. “o caluniador, o acusador”, tradução grega do hebraico satan (“adversário”, Jó 1-2; Zc 3:1-2). Lucas usa os dois nomes (4:8 no Textus Receptus; 10:18; 22:3)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "quarenta dias",
+    "termo": "ἡμέρας τεσσεράκοντα",
+    "titulo": "Israel, Moisés e Elias",
+    "texto": "Os quarenta dias lembram os quarenta anos em que Deus provou Israel no deserto (Dt 8:2), e os quarenta dias de jejum de Moisés (Êx 34:28; Dt 9:9) e de Elias (1Rs 19:8). As três respostas de Jesus vêm de Dt 6-8, o texto em que Moisés recorda as provas do deserto: onde Israel, o “filho” de Deus (Êx 4:22), falhou, Jesus, o Filho, permanece fiel."
+   }
+  ]
+ },
+ "Luk.4.3": {
+  "t": "O Diabo lhe disse: “Se você é o Filho de Deus, mande que esta pedra se transforme em pão.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Se você é o Filho de Deus",
+    "termo": "εἰ υἱὸς εἶ τοῦ θεοῦ",
+    "titulo": "condicional real",
+    "texto": "A condicional com indicativo supõe que a condição é verdadeira (“já que você é”). O Diabo não põe em dúvida a filiação proclamada no batismo (3:22); tenta fazer Jesus usá-la em proveito próprio, fora da dependência do Pai."
+   }
+  ]
+ },
+ "Luk.4.4": {
+  "t": "Jesus lhe respondeu: “Está escrito: ‘Não só de pão viverá o homem’.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Não só de pão viverá o homem",
+    "termo": "οὐκ ἐπ᾽ ἄρτῳ μόνῳ ζήσεται ὁ ἄνθρωπος",
+    "titulo": "Deuteronômio 8:3",
+    "texto": "Citação de Dt 8:3 segundo a Septuaginta. No contexto, Moisés lembra que Deus deixou Israel passar fome e lhe deu o maná, para ensinar que o homem vive de tudo o que sai da boca do SENHOR. “Homem” é genérico: o ser humano."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Não só de pão viverá o homem",
+    "termo": "(+ ἀλλ᾽ ἐπὶ παντὶ ῥήματι θεοῦ)",
+    "titulo": "a continuação da citação",
+    "texto": "O Textus Receptus, o Texto Bizantino e Tregelles acrescentam: “mas de toda palavra de Deus”, completando a citação como em Mt 4:4. Os manuscritos mais antigos de Lucas não trazem a frase, que parece ter sido harmonizada com Mateus."
+   }
+  ]
+ },
+ "Luk.4.5": {
+  "t": "O Diabo o levou para o alto e lhe mostrou, num instante, todos os reinos do mundo habitado.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "num instante",
+    "termo": "ἐν στιγμῇ χρόνου (en stigmē chronou)",
+    "titulo": "stigmē, hápax",
+    "texto": "Lit. “num ponto de tempo”. Só aqui no NT. A visão instantânea sugere uma experiência visionária, não uma viagem física."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "O Diabo o levou para o alto",
+    "termo": "ἀναγαγὼν αὐτὸν (+ ὁ διάβολος εἰς ὄρος ὑψηλὸν)",
+    "titulo": "“a um monte alto”",
+    "texto": "O Textus Receptus e o Texto Bizantino trazem “o Diabo, levando-o a um monte alto”, como em Mt 4:8. O texto-base diz só “levando-o para cima”. “O Diabo” foi posto na tradução por clareza."
+   }
+  ]
+ },
+ "Luk.4.6": {
+  "t": "E lhe disse: “Eu lhe darei todo este poder e a glória destes reinos, porque tudo isso me foi entregue, e eu o dou a quem eu quiser.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "porque tudo isso me foi entregue",
+    "termo": "ὅτι ἐμοὶ παραδέδοται",
+    "titulo": "verdade e mentira",
+    "texto": "O NT chama o Diabo de “príncipe deste mundo” (Jo 12:31) e diz que “o mundo inteiro jaz no Maligno” (1Jo 5:19). Mas a pretensão de dispor dos reinos “a quem eu quiser” é falsa: em Daniel, é o Altíssimo que dá o reino a quem quer (Dn 4:17, 25, 32). Jesus não discute a afirmação; recusa a oferta."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "poder",
+    "termo": "ἐξουσίαν (exousian)",
+    "titulo": "exousia",
+    "texto": "Autoridade, direito de governar. “Todo este poder” refere-se ao domínio sobre os reinos mostrados."
+   }
+  ]
+ },
+ "Luk.4.7": {
+  "t": "Portanto, se você se prostrar diante de mim, tudo será seu.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "se você se prostrar diante de mim",
+    "termo": "ἐὰν προσκυνήσῃς ἐνώπιον ἐμοῦ",
+    "titulo": "proskyneō",
+    "texto": "Proskyneō é prostrar-se em reverência, e em relação a Deus é adorar. A resposta de Jesus (v. 8) usa o mesmo verbo: o que o Diabo pede é adoração."
+   }
+  ]
+ },
+ "Luk.4.8": {
+  "t": "Jesus lhe respondeu: “Está escrito: ‘Adore o Senhor, o seu Deus, e só a ele preste culto’.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Adore o Senhor, o seu Deus",
+    "termo": "κύριον τὸν θεόν σου προσκυνήσεις",
+    "titulo": "Deuteronômio 6:13",
+    "texto": "Citação de Dt 6:13 (cf. 10:20). Kyrios traduz o nome divino YHWH. A Septuaginta tem “temerás” (phobēthēsē); Jesus diz “adorarás” (proskynēseis), que responde diretamente ao pedido do Diabo, e “só a ele” sublinha o mandamento de Dt 6:4-5. O futuro grego (“adorarás”, “prestarás culto”) tem força de mandamento e foi traduzido pelo imperativo."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "preste culto",
+    "termo": "λατρεύσεις (latreuseis)",
+    "titulo": "latreuō",
+    "texto": "Servir no culto. Veja a nota em 1:74."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Jesus lhe respondeu",
+    "termo": "ἀποκριθεὶς ὁ Ἰησοῦς εἶπεν αὐτῷ (+ ὕπαγε ὀπίσω μου Σατανᾶ)",
+    "titulo": "“Vá para trás de mim, Satanás”",
+    "texto": "O Textus Receptus e o Texto Bizantino acrescentam: “Vá para trás de mim, Satanás!”, frase trazida de Mt 4:10 e 16:23. Não está nos manuscritos mais antigos de Lucas."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Está escrito",
+    "termo": "γέγραπται",
+    "titulo": "a ordem das tentações",
+    "texto": "Lucas põe em terceiro lugar a tentação no templo, que em Mateus é a segunda. Assim, a narrativa culmina em Jerusalém, onde o Evangelho também culminará (9:51; 24:47)."
+   }
+  ]
+ },
+ "Luk.4.9": {
+  "t": "Então o levou a Jerusalém, colocou-o sobre a parte mais alta do templo e lhe disse: “Se você é o Filho de Deus, jogue-se daqui para baixo,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "a parte mais alta do templo",
+    "termo": "τὸ πτερύγιον τοῦ ἱεροῦ (to pterygion tou hierou)",
+    "titulo": "pterygion",
+    "texto": "Lit. “a pequena asa do templo”. Não se sabe exatamente que parte do conjunto era: provavelmente um ponto elevado das muralhas, talvez o canto sudeste, sobre o vale do Cedrom. “Pináculo” (ARC) é a forma tradicional."
+   }
+  ]
+ },
+ "Luk.4.10": {
+  "t": "pois está escrito: ‘Ele ordenará aos seus anjos a seu respeito que o guardem’;",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "pois está escrito",
+    "termo": "γέγραπται γὰρ",
+    "titulo": "o Diabo cita o Salmo 91",
+    "texto": "Citação de Sl 91:11-12 (90:11-12 LXX). O Diabo também cita a Escritura, mas fora do sentido: o salmo promete proteção a quem confia em Deus, não a quem o força a agir. Ele omite a frase “em todos os seus caminhos”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "que o guardem",
+    "termo": "τοῦ διαφυλάξαι σε (tou diaphylaxai se)",
+    "titulo": "diaphylassō, hápax",
+    "texto": "“Guardar cuidadosamente, proteger”. Palavra da Septuaginta do salmo; sentido seguro."
+   }
+  ]
+ },
+ "Luk.4.11": {
+  "t": "e: ‘Eles o carregarão nas mãos, para que você não tropece em alguma pedra’.”",
+  "n": []
+ },
+ "Luk.4.12": {
+  "t": "Jesus lhe respondeu: “Foi dito: ‘Não ponha à prova o Senhor, o seu Deus’.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Não ponha à prova o Senhor, o seu Deus",
+    "termo": "οὐκ ἐκπειράσεις κύριον τὸν θεόν σου",
+    "titulo": "Deuteronômio 6:16",
+    "texto": "Citação de Dt 6:16, que continua: “como vocês o puseram à prova em Massá”, quando Israel exigiu água e perguntou: “O SENHOR está ou não está no meio de nós?” (Êx 17:1-7). Kyrios traduz YHWH. Jogar-se do templo seria exigir de Deus uma prova da sua presença."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "ponha à prova",
+    "termo": "ἐκπειράσεις (ekpeiraseis)",
+    "titulo": "ekpeirazō",
+    "texto": "Forma intensiva de peirazō: provar, desafiar. O verbo liga a resposta de Jesus à ação do Diabo (v. 2): o tentador quer que Jesus tente a Deus."
+   }
+  ]
+ },
+ "Luk.4.13": {
+  "t": "Tendo esgotado toda tentação, o Diabo se afastou dele até o momento oportuno.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "até o momento oportuno",
+    "termo": "ἄχρι καιροῦ (achri kairou)",
+    "titulo": "até a paixão",
+    "texto": "Kairos é o tempo certo, a ocasião. O Diabo não desiste: volta a agir quando entra em Judas (22:3) e ao peneirar os discípulos (22:31), na hora das trevas (22:53). A expressão não significa que Jesus não fosse tentado entre uma coisa e outra (22:28)."
+   }
+  ]
+ },
+ "Luk.4.14": {
+  "t": "Jesus voltou para a Galileia no poder do Espírito, e a sua fama se espalhou por toda a região ao redor.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "no poder do Espírito",
+    "termo": "ἐν τῇ δυνάμει τοῦ πνεύματος",
+    "titulo": "o ministério no Espírito",
+    "texto": "Lucas insiste: Jesus, cheio do Espírito (4:1), conduzido pelo Espírito (4:1), começa o ministério no poder do Espírito (4:14) e anuncia que o Espírito está sobre ele (4:18)."
+   }
+  ]
+ },
+ "Luk.4.15": {
+  "t": "Ele ensinava nas sinagogas deles e era elogiado por todos.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "sinagogas",
+    "termo": "συναγωγαῖς (synagōgais)",
+    "titulo": "a sinagoga",
+    "texto": "Synagōgē é “reunião, assembleia”, e o lugar onde a comunidade judaica se reunia aos sábados para leitura e explicação da Lei e dos Profetas e para oração. Qualquer homem judeu podia ser convidado a ler e a comentar."
+   }
+  ]
+ },
+ "Luk.4.16": {
+  "t": "Foi a Nazaré, onde tinha sido criado, e no sábado entrou na sinagoga, como era seu costume. Levantou-se para ler,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "como era seu costume",
+    "termo": "κατὰ τὸ εἰωθὸς αὐτῷ",
+    "titulo": "o hábito de Jesus",
+    "texto": "Jesus participava regularmente do culto da sinagoga. A mesma expressão é usada para Paulo em At 17:2."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Levantou-se para ler",
+    "termo": "ἀνέστη ἀναγνῶναι",
+    "titulo": "a leitura",
+    "texto": "A Escritura era lida de pé, por respeito; o ensino era dado sentado (v. 20). Fontes judaicas posteriores descrevem uma leitura da Lei seguida por uma leitura dos Profetas; não se sabe se a passagem de Isaías era a prevista para aquele sábado ou se Jesus a escolheu."
+   }
+  ]
+ },
+ "Luk.4.17": {
+  "t": "e lhe foi entregue o livro do profeta Isaías. Desenrolando o livro, encontrou o lugar onde estava escrito:",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "o livro",
+    "termo": "βιβλίον (biblion)",
+    "titulo": "rolo",
+    "texto": "Os livros da Escritura eram rolos de pergaminho ou papiro. “Desenrolando” traduz anaptyssō (hápax), “abrir desdobrando”; no v. 20, ptyssō (também hápax) é “enrolar, fechar”."
+   }
+  ]
+ },
+ "Luk.4.18": {
+  "t": "“O Espírito do Senhor está sobre mim, porque ele me ungiu para anunciar boas notícias aos pobres; enviou-me para proclamar libertação aos cativos e recuperação da vista aos cegos, para pôr em liberdade os oprimidos,",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "O Espírito do Senhor está sobre mim",
+    "termo": "πνεῦμα κυρίου ἐπ᾽ ἐμέ",
+    "titulo": "Isaías 61 e 58",
+    "texto": "Citação de Is 61:1-2 segundo a Septuaginta, com uma linha de Is 58:6 (“pôr em liberdade os oprimidos”) e sem a frase “e o dia da vingança do nosso Deus” (Is 61:2b). Jesus para no ano da graça: o juízo não é negado (3:17; 21:22), mas o tempo presente é de anúncio da salvação. Kyrios traduz YHWH nas duas ocorrências. O texto é a apresentação programática do ministério de Jesus em Lucas."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "porque ele me ungiu",
+    "termo": "οὗ εἵνεκεν ἔχρισέν με",
+    "titulo": "Cristo, o Ungido",
+    "texto": "Echrisen (“ungiu”) é o verbo de onde vem christos (2:11). Jesus foi ungido pelo Espírito no batismo (3:22; At 10:38). “Para anunciar boas notícias aos pobres” pode ligar-se a “ungiu” ou a “enviou”, conforme a pontuação; a Septuaginta e o texto-base permitem as duas. A APV segue a divisão mais comum."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "libertação",
+    "termo": "ἄφεσιν (aphesin)",
+    "titulo": "aphesis: “libertação” ou “perdão”",
+    "texto": "Aphesis é “soltura, libertação”, e é a mesma palavra que Lucas usa para o “perdão” dos pecados (1:77; 3:3; 24:47). Aparece duas vezes neste versículo. O jogo de sentidos sugere que a libertação trazida por Jesus é integral: dos males que prendem e do pecado."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "os oprimidos",
+    "termo": "τεθραυσμένους (tethrausmenous)",
+    "titulo": "thrauō, hápax",
+    "texto": "“Quebrar, despedaçar”; o particípio passivo designa os esmagados, oprimidos. Da Septuaginta de Is 58:6."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "para anunciar boas notícias aos pobres",
+    "termo": "εὐαγγελίσασθαι πτωχοῖς ... (+ ἰάσασθαι τοὺς συντετριμμένους τὴν καρδίαν)",
+    "titulo": "“curar os quebrantados de coração”",
+    "texto": "O Textus Receptus e o Texto Bizantino acrescentam, depois de “enviou-me”, a frase “para curar os quebrantados de coração”, que está em Is 61:1. Os manuscritos mais antigos de Lucas não a têm; provavelmente foi acrescentada para completar a citação."
+   }
+  ]
+ },
+ "Luk.4.19": {
+  "t": "e para proclamar o ano favorável do Senhor.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "o ano favorável do Senhor",
+    "termo": "ἐνιαυτὸν κυρίου δεκτόν",
+    "titulo": "o jubileu",
+    "texto": "Lit. “o ano aceitável do Senhor”, isto é, o ano em que o Senhor mostra o seu favor. A linguagem de “libertação” e “ano” lembra o ano do jubileu (Lv 25:8-55), em que os escravos eram libertados e as terras voltavam aos donos; Is 61 já usava essa imagem para a restauração final. Não há indicação de que Jesus estivesse anunciando um jubileu de calendário."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "favorável",
+    "termo": "δεκτόν (dekton)",
+    "titulo": "dektos",
+    "texto": "“Aceitável, favorável”. A mesma palavra volta no v. 24: “nenhum profeta é bem aceito (dektos) na sua terra”. O ano é de aceitação de Deus, mas o profeta não é aceito pelos seus."
+   }
+  ]
+ },
+ "Luk.4.20": {
+  "t": "Depois enrolou o livro, devolveu-o ao assistente e se sentou. Os olhos de todos na sinagoga estavam fixos nele.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "assistente",
+    "termo": "ὑπηρέτῃ (hypēretē)",
+    "titulo": "o hazzan",
+    "texto": "O encarregado da sinagoga que guardava os rolos e os entregava ao leitor (em hebraico, hazzan). Veja hypēretēs em 1:2."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "se sentou",
+    "termo": "ἐκάθισεν (ekathisen)",
+    "titulo": "a posição do mestre",
+    "texto": "Sentar-se era a posição de quem ia ensinar (5:3; Mt 5:1). Por isso todos fixam os olhos nele, à espera do comentário."
+   }
+  ]
+ },
+ "Luk.4.21": {
+  "t": "Então começou a dizer-lhes: “Hoje se cumpriu esta Escritura que vocês acabaram de ouvir.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "que vocês acabaram de ouvir",
+    "termo": "ἐν τοῖς ὠσὶν ὑμῶν",
+    "titulo": "“nos ouvidos de vocês”",
+    "texto": "Lit. “hoje se cumpriu esta Escritura nos ouvidos de vocês”: enquanto a ouviam, ela se realizava diante deles. Veja a nota sobre “hoje” em 2:11."
+   }
+  ]
+ },
+ "Luk.4.22": {
+  "t": "Todos falavam bem dele e se admiravam das palavras de graça que saíam da sua boca. E diziam: “Não é este o filho de José?”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "falavam bem dele",
+    "termo": "ἐμαρτύρουν αὐτῷ (emartyroun autō)",
+    "titulo": "testemunho a favor ou contra?",
+    "texto": "Lit. “davam testemunho a ele”. O dativo normalmente indica testemunho favorável (At 15:8). Alguns estudiosos (como J. Jeremias) propuseram “testemunhavam contra ele”, para explicar a reação hostil que vem depois, mas a leitura favorável é mais natural: a admiração inicial se transforma em rejeição quando Jesus não atende às expectativas."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "palavras de graça",
+    "termo": "τοῖς λόγοις τῆς χάριτος",
+    "titulo": "graça ou graciosidade",
+    "texto": "Pode ser “palavras graciosas, agradáveis” (Cl 4:6) ou “palavras sobre a graça” de Deus (At 14:3; 20:32). A tradução literal deixa os dois sentidos."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Não é este o filho de José?",
+    "termo": "οὐχὶ υἱός ἐστιν Ἰωσὴφ οὗτος;",
+    "titulo": "familiaridade",
+    "texto": "A pergunta pode expressar orgulho local ou desconfiança: o rapaz que cresceu ali pretende cumprir Isaías? O leitor sabe que Jesus é filho de José apenas “como se pensava” (3:23)."
+   }
+  ]
+ },
+ "Luk.4.23": {
+  "t": "Jesus lhes disse: “Certamente vocês vão me citar este provérbio: ‘Médico, cure a si mesmo! Tudo o que ouvimos que aconteceu em Cafarnaum, faça também aqui, na sua terra’.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "provérbio",
+    "termo": "παραβολὴν (parabolēn)",
+    "titulo": "parabolē",
+    "texto": "Parabolē, que normalmente é “parábola”, também designa um provérbio ou ditado (6:39), como o hebraico mashal."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "faça também aqui",
+    "termo": "ποίησον καὶ ὧδε",
+    "titulo": "quem fala?",
+    "texto": "O imperativo singular (poiēson, “faça”) mostra que a segunda frase continua o que o povo diria a Jesus; por isso fica dentro das mesmas aspas do provérbio. O “médico” deve cuidar primeiro dos seus, isto é, da sua própria cidade. “Terra” traduz patris, a cidade natal (v. 24)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Cafarnaum",
+    "termo": "Καφαρναούμ",
+    "titulo": "um relato fora de ordem",
+    "texto": "Lucas ainda não narrou nada em Cafarnaum (4:31-41). O comentário supõe um ministério anterior ali (cf. 4:14-15) e mostra que Lucas pôs a cena de Nazaré no início de propósito, como abertura do ministério."
+   }
+  ]
+ },
+ "Luk.4.24": {
+  "t": "E acrescentou: “Em verdade lhes digo que nenhum profeta é bem aceito na sua própria terra.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Em verdade lhes digo",
+    "termo": "ἀμὴν λέγω ὑμῖν (amēn legō hymin)",
+    "titulo": "amēn",
+    "texto": "Amēn é palavra hebraica que significa “certamente, assim seja”; normalmente era dita no fim, como resposta a uma oração. Jesus a usa de modo único, no início da frase, para dar autoridade ao que vai dizer. Primeira ocorrência em Lucas."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "nenhum profeta é bem aceito na sua própria terra",
+    "termo": "οὐδεὶς προφήτης δεκτός ἐστιν ἐν τῇ πατρίδι αὐτοῦ",
+    "titulo": "o profeta rejeitado",
+    "texto": "Jesus se põe na linha dos profetas rejeitados pelo próprio povo (11:47-51; 13:33-34; At 7:52). Patris é a terra natal, aqui a cidade de Nazaré."
+   }
+  ]
+ },
+ "Luk.4.25": {
+  "t": "Na verdade lhes digo: havia muitas viúvas em Israel no tempo de Elias, quando o céu ficou fechado por três anos e seis meses e houve grande fome em toda a terra;",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "três anos e seis meses",
+    "termo": "ἔτη τρία καὶ μῆνας ἕξ",
+    "titulo": "a duração da seca",
+    "texto": "1Rs 18:1 diz que a chuva veio “no terceiro ano”. Tiago também fala em três anos e meio (Tg 5:17), o que parece ser uma tradição judaica; pode contar desde o início da estiagem, antes do anúncio de Elias. Três anos e meio é também o tempo simbólico de provação em Daniel e Apocalipse (Dn 7:25; Ap 11:2-3)."
+   }
+  ]
+ },
+ "Luk.4.26": {
+  "t": "e a nenhuma delas Elias foi enviado, senão a uma viúva de Sarepta, na região de Sidom.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "uma viúva de Sarepta",
+    "termo": "Σάρεπτα τῆς Σιδωνίας πρὸς γυναῖκα χήραν",
+    "titulo": "uma estrangeira",
+    "texto": "1Rs 17:8-24. Sarepta ficava na Fenícia, entre Tiro e Sidom, terra de Jezabel e de Baal. Deus enviou o profeta a uma estrangeira, enquanto Israel sofria. Os dois exemplos (vv. 26-27) anunciam a missão aos gentios (2:32; At 13:46-47)."
+   }
+  ]
+ },
+ "Luk.4.27": {
+  "t": "Havia também muitos leprosos em Israel no tempo do profeta Eliseu, e nenhum deles foi purificado, senão Naamã, o sírio.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Naamã, o sírio",
+    "termo": "Ναιμὰν ὁ Σύρος",
+    "titulo": "o general inimigo",
+    "texto": "2Rs 5:1-19. Naamã era comandante do exército de Arã (Síria), inimigo de Israel. A palavra “lepra” no AT e no NT abrange várias doenças de pele, não só a hanseníase; “purificado” é o termo da Lei para a cura que permitia voltar ao convívio (Lv 13-14)."
+   }
+  ]
+ },
+ "Luk.4.28": {
+  "t": "Ao ouvir isso, todos na sinagoga ficaram cheios de fúria.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "ficaram cheios de fúria",
+    "termo": "ἐπλήσθησαν πάντες θυμοῦ",
+    "titulo": "a reviravolta",
+    "texto": "A admiração do v. 22 se transforma em fúria. O que ofende não é o anúncio da graça, mas que ela alcance estrangeiros e não seja privilégio da sua cidade."
+   }
+  ]
+ },
+ "Luk.4.29": {
+  "t": "Levantaram-se, expulsaram Jesus da cidade e o levaram até a beira do monte sobre o qual a cidade deles estava construída, para atirá-lo de lá abaixo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "a beira do monte",
+    "termo": "ὀφρύος τοῦ ὄρους (ophryos tou orous)",
+    "titulo": "ophrys, hápax",
+    "texto": "Ophrys é a “sobrancelha”; daí a borda saliente de um monte, um penhasco. Katakrēmnizō (“atirar de um precipício”) também é hápax. Nazaré fica numa encosta, com escarpas nas redondezas."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "para atirá-lo de lá abaixo",
+    "termo": "ὥστε κατακρημνίσαι αὐτόν",
+    "titulo": "um prenúncio",
+    "texto": "A tentativa de matar Jesus no início do ministério antecipa a rejeição final em Jerusalém. Atirar de um lugar alto podia ser o primeiro passo de um apedrejamento."
+   }
+  ]
+ },
+ "Luk.4.30": {
+  "t": "Mas ele passou pelo meio deles e seguiu o seu caminho.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "passou pelo meio deles",
+    "termo": "διελθὼν διὰ μέσου αὐτῶν",
+    "titulo": "a hora ainda não chegou",
+    "texto": "Lucas não explica como; a ênfase está em que ninguém pode deter Jesus antes do tempo marcado por Deus (cf. Jo 7:30; 8:59). “Seguiu o seu caminho” (eporeueto) introduz o tema do caminho de Jesus, que leva a Jerusalém (9:51; 13:33)."
+   }
+  ]
+ },
+ "Luk.4.31": {
+  "t": "Desceu a Cafarnaum, cidade da Galileia, e ensinava o povo aos sábados.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Desceu",
+    "termo": "κατῆλθεν (katēlthen)",
+    "titulo": "descer",
+    "texto": "Nazaré fica nas colinas; Cafarnaum, à margem do mar da Galileia, cerca de 200 m abaixo do nível do mar."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "aos sábados",
+    "termo": "ἐν τοῖς σάββασιν",
+    "titulo": "plural",
+    "texto": "O plural pode indicar vários sábados ou ser só a forma usual do nome do sábado (que é plural no grego). O imperfeito perifrástico “ensinava” sugere ensino habitual."
+   }
+  ]
+ },
+ "Luk.4.32": {
+  "t": "Eles ficavam maravilhados com o seu ensino, porque a sua palavra tinha autoridade.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "tinha autoridade",
+    "termo": "ἐν ἐξουσίᾳ ἦν ὁ λόγος αὐτοῦ",
+    "titulo": "exousia",
+    "texto": "Lit. “a sua palavra estava em autoridade”. Jesus não ensinava apoiado em mestres anteriores, mas com autoridade própria (cf. Mc 1:22). A mesma palavra exousia descreve o poder sobre os espíritos no v. 36."
+   }
+  ]
+ },
+ "Luk.4.33": {
+  "t": "Na sinagoga havia um homem que tinha um espírito de demônio impuro. Ele gritou bem alto:",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "um espírito de demônio impuro",
+    "termo": "πνεῦμα δαιμονίου ἀκαθάρτου",
+    "titulo": "expressão única",
+    "texto": "Expressão única no NT, talvez para leitores gregos, para quem daimonion podia ser um espírito neutro ou até bom: Lucas especifica que era impuro. “Impuro” liga o espírito ao que é contrário à santidade de Deus, em contraste com “o Santo de Deus” (v. 34)."
+   }
+  ]
+ },
+ "Luk.4.34": {
+  "t": "“Ah! Que temos nós a ver com você, Jesus de Nazaré? Você veio para nos destruir? Sei quem você é: o Santo de Deus!”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Ah!",
+    "termo": "ἔα (ea)",
+    "titulo": "ea, hápax",
+    "texto": "Interjeição de surpresa ou desagrado (“ah!”, “ei!”). Pode também ser o imperativo de eaō, “deixe (-nos)!”. A interjeição é a leitura mais comum."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Que temos nós a ver com você",
+    "termo": "τί ἡμῖν καὶ σοί",
+    "titulo": "“que a nós e a você?”",
+    "texto": "Lit. “Que (há) entre nós e você?”. Idiomatismo hebraico que rejeita a interferência de alguém (Jz 11:12; 2Sm 16:10). É exatamente o que a viúva de Sarepta diz a Elias em 1Rs 17:18 (LXX). O plural “nós” pode incluir todos os demônios."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "o Santo de Deus",
+    "termo": "ὁ ἅγιος τοῦ θεοῦ",
+    "titulo": "o nome conhecido",
+    "texto": "Título raro (Jo 6:69). No mundo antigo, dizer o nome exato de alguém era tentar dominá-lo. Jesus impõe silêncio (v. 35); os demônios conhecem a sua identidade, mas não é deles que vem a confissão que Jesus aceita."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Jesus de Nazaré",
+    "termo": "Ἰησοῦ Ναζαρηνέ (Iēsou Nazarēne)",
+    "titulo": "Nazarēnos",
+    "texto": "Lit. “Jesus Nazareno”, isto é, natural de Nazaré. “De Nazaré” é mais claro em português."
+   }
+  ]
+ },
+ "Luk.4.35": {
+  "t": "Jesus o repreendeu: “Cale-se e saia dele!” Então o demônio, depois de jogá-lo no chão diante de todos, saiu dele sem lhe fazer mal algum.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "o repreendeu",
+    "termo": "ἐπετίμησεν αὐτῷ (epetimēsen autō)",
+    "titulo": "epitimaō",
+    "texto": "“Repreender, dar ordem severa”. Lucas usa o mesmo verbo para a febre (v. 39), os demônios (v. 41) e o vento (8:24): a palavra de Jesus domina o que escraviza o ser humano."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Cale-se",
+    "termo": "φιμώθητι (phimōthēti)",
+    "titulo": "“seja amordaçado”",
+    "texto": "Lit. “seja amordaçado”, como se põe focinheira num animal (1Co 9:9). Ordem enérgica."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "sem lhe fazer mal algum",
+    "termo": "μηδὲν βλάψαν αὐτόν",
+    "titulo": "blaptō, hápax",
+    "texto": "“Prejudicar, ferir”. Lucas, que menciona a violência do espírito, sublinha que o homem saiu ileso."
+   }
+  ]
+ },
+ "Luk.4.36": {
+  "t": "Todos ficaram espantados e diziam uns aos outros: “Que palavra é esta? Com autoridade e poder ele dá ordens aos espíritos impuros, e eles saem!”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Que palavra é esta?",
+    "termo": "τίς ὁ λόγος οὗτος",
+    "titulo": "logos",
+    "texto": "Pode ser “que palavra é esta?” ou “que coisa é esta?”. A ligação com o v. 32 (“a sua palavra tinha autoridade”) favorece “palavra”: a mesma palavra que ensina, liberta."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "espantados",
+    "termo": "θάμβος (thambos)",
+    "titulo": "thambos",
+    "texto": "Espanto, assombro (5:9; At 3:10). Lit. “houve espanto sobre todos”."
+   }
+  ]
+ },
+ "Luk.4.37": {
+  "t": "E a notícia a respeito dele se espalhava por todos os lugares da região.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "a notícia",
+    "termo": "ἦχος (ēchos)",
+    "titulo": "ēchos",
+    "texto": "Lit. “som, ruído” (At 2:2), daí “rumor, notícia que corre”."
+   }
+  ]
+ },
+ "Luk.4.38": {
+  "t": "Jesus saiu da sinagoga e entrou na casa de Simão. A sogra de Simão estava com febre alta, e pediram a Jesus por ela.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Simão",
+    "termo": "Σίμωνος (Simōnos)",
+    "titulo": "Simão Pedro",
+    "texto": "Primeira menção de Simão, que Jesus chamará em 5:1-11 e a quem dará o nome de Pedro (6:14). Lucas o apresenta sem explicação, como alguém conhecido dos leitores. A sogra mostra que Simão era casado (1Co 9:5)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "estava com febre alta",
+    "termo": "ἦν συνεχομένη πυρετῷ μεγάλῳ",
+    "titulo": "“tomada de grande febre”",
+    "texto": "Lit. “estava dominada por uma grande febre”. Escritores médicos gregos distinguiam febres “grandes” e “pequenas”; mas a expressão era também usada fora da medicina, e não prova por si só que o autor fosse médico (cf. Cl 4:14)."
+   }
+  ]
+ },
+ "Luk.4.39": {
+  "t": "Ele se inclinou sobre ela e repreendeu a febre, e a febre a deixou. Ela se levantou imediatamente e começou a servi-los.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "começou a servi-los",
+    "termo": "διηκόνει αὐτοῖς (diēkonei autois)",
+    "titulo": "diakoneō",
+    "texto": "O imperfeito indica o início de uma ação continuada. Diakoneō é servir à mesa e, de modo mais amplo, prestar serviço (8:3; 22:26-27). A cura é completa e imediata: ela retoma de imediato a vida e o serviço."
+   }
+  ]
+ },
+ "Luk.4.40": {
+  "t": "Ao pôr do sol, todos os que tinham doentes com diversos males os levaram a Jesus; e ele, impondo as mãos sobre cada um deles, os curava.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Ao pôr do sol",
+    "termo": "Δύνοντος δὲ τοῦ ἡλίου",
+    "titulo": "o fim do sábado",
+    "texto": "O sábado terminava ao pôr do sol (v. 31). Só então era permitido carregar os doentes sem violar o descanso."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "impondo as mãos sobre cada um deles",
+    "termo": "ἑνὶ ἑκάστῳ αὐτῶν τὰς χεῖρας ἐπιτιθεὶς",
+    "titulo": "um a um",
+    "texto": "Só Lucas diz que Jesus impôs as mãos sobre “cada um”: a cura não é coletiva e anônima, mas pessoal. A imposição de mãos aparece em curas e bênçãos (13:13; At 28:8)."
+   }
+  ]
+ },
+ "Luk.4.41": {
+  "t": "De muitos também saíam demônios, gritando: “Você é o Filho de Deus!” Mas ele os repreendia e não os deixava falar, porque sabiam que ele era o Cristo.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "Você é o Filho de Deus!",
+    "termo": "σὺ εἶ ὁ υἱὸς τοῦ θεοῦ (+ ὁ χριστὸς)",
+    "titulo": "“o Cristo”",
+    "texto": "O Textus Receptus e o Texto Bizantino trazem “Você é o Cristo, o Filho de Deus!”, provável assimilação ao fim do versículo e a outras confissões (Mt 16:16)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "não os deixava falar",
+    "termo": "οὐκ εἴα αὐτὰ λαλεῖν",
+    "titulo": "o silêncio imposto",
+    "texto": "Jesus não aceita o testemunho dos demônios. Os títulos eram verdadeiros, mas podiam ser mal entendidos como promessa de um Messias político, e Jesus revela quem é pelo caminho do serviço e da cruz (9:20-22). “Filho de Deus” e “o Cristo” são postos em paralelo (cf. 22:67-70)."
+   }
+  ]
+ },
+ "Luk.4.42": {
+  "t": "Ao amanhecer, Jesus saiu e foi para um lugar deserto. As multidões o procuravam e, chegando aonde ele estava, tentavam retê-lo para que não as deixasse.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "tentavam retê-lo",
+    "termo": "κατεῖχον αὐτὸν (kateichon auton)",
+    "titulo": "imperfeito de tentativa",
+    "texto": "O imperfeito indica tentativa: queriam segurá-lo, mas não conseguiram. Os moradores de Cafarnaum, ao contrário dos de Nazaré, querem ficar com Jesus só para si."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "um lugar deserto",
+    "termo": "ἔρημον τόπον (erēmon topon)",
+    "titulo": "erēmos",
+    "texto": "Um lugar isolado, desabitado, não necessariamente o deserto de areia. Em Lucas, é lugar de oração (5:16)."
+   }
+  ]
+ },
+ "Luk.4.43": {
+  "t": "Mas ele lhes disse: “É necessário que eu anuncie a boa notícia do Reino de Deus também às outras cidades, pois para isso fui enviado.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Reino de Deus",
+    "termo": "τὴν βασιλείαν τοῦ θεοῦ (tēn basileian tou theou)",
+    "titulo": "basileia",
+    "texto": "Primeira ocorrência da expressão em Lucas. Basileia é tanto o reinado, o exercício do governo de Deus, quanto o domínio onde ele se exerce. O Reino de Deus é o governo de Deus que vem restaurar o mundo, prometido pelos profetas (Is 52:7; Dn 2:44; 7:14). Com Jesus, ele já se faz presente (11:20; 17:21) e ainda há de vir em plenitude (22:16-18)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "É necessário",
+    "termo": "δεῖ (dei)",
+    "titulo": "a necessidade divina",
+    "texto": "Veja a nota em 2:49. A missão de Jesus é determinada por Deus, não pela vontade das multidões. “Fui enviado” retoma Is 61:1 (“enviou-me”, 4:18)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "anuncie a boa notícia do Reino de Deus",
+    "termo": "εὐαγγελίσασθαί με ... τὴν βασιλείαν τοῦ θεοῦ",
+    "titulo": "euangelizomai",
+    "texto": "Lit. “anunciar como boa notícia o Reino de Deus”. Veja a nota em 1:19."
+   }
+  ]
+ },
+ "Luk.4.44": {
+  "t": "E pregava nas sinagogas da Judeia.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "nas sinagogas da Judeia",
+    "termo": "εἰς τὰς συναγωγὰς τῆς Ἰουδαίας / ἐν ταῖς συναγωγαῖς τῆς Γαλιλαίας",
+    "titulo": "Judeia ou Galileia",
+    "texto": "O texto-base traz “da Judeia”; o Textus Receptus e o Texto Bizantino, “da Galileia”. Como Jesus está na Galileia, copistas tiveram motivo para trocar “Judeia” por “Galileia”, e não o contrário; por isso a leitura mais difícil, “Judeia”, é considerada original (Metzger). Lucas às vezes usa “Judeia” para toda a terra dos judeus, inclusive a Galileia (1:5; 7:17; 23:5; At 10:37)."
    }
   ]
  }

@@ -30,6 +30,8 @@ Um arquivo JSON por parte, em `traducao/partes/<Livro>_<capIni>-<capFim>.json`, 
 
 A camada 2 (espelho palavra por palavra) é gerada pelos scripts. Você não a escreve.
 
+Use uma subpasta só sua para rascunhos e scripts (ex.: `/tmp/claude-0/-home-user/ba9b32b8-ba3a-598f-8152-bf4666dcb6e0/scratchpad/<Livro>_<ini>-<fim>/`), com nomes de arquivo que incluam o livro: outros tradutores trabalham ao mesmo tempo na mesma máquina.
+
 Grave o arquivo **capítulo por capítulo** enquanto avança (leia o JSON, acrescente o capítulo, grave de novo), para não perder trabalho. Use Python para gravar JSON, nunca edição manual de texto com aspas soltas.
 
 ## 2. Como trabalhar
@@ -92,6 +94,13 @@ Equivalência ótima: literal sempre que a clareza permite; idiomático só onde
 Nomes próprios: a forma tradicional das Bíblias em português (Pedro, Tiago, Jerusalém, Cafarnaum).
 
 **Tratamento:** entre pessoas, “você/vocês”. Em oração dirigida a Deus, “tu”. Jesus falando com o Pai: “tu”. Pessoas falando com Jesus nas narrativas: “o senhor” quando o chamam de κύριε, senão “você”; em louvor ou oração dirigidos a Jesus (At 7:59-60; Ap 5:9), “tu”.
+
+**Decisões da onda 1 (valem para todos):**
+- Mandamentos do AT citados na 2ª pessoa do singular (οὐ φονεύσεις, ἀγαπήσεις): imperativo com “você” (“Não mate”, “Ame o seu próximo”), com nota na primeira ocorrência de cada livro lembrando a forma tradicional (“Não matarás”).
+- Deus Pai falando ao Filho (voz do céu, Sl 2:7 e 110:1 citados): “tu”. Deus falando a pessoas: “você/vocês”.
+- τελώνης: “cobrador de impostos” (nota na primeira ocorrência de cada livro: “publicano”).
+- Σίμων ὁ Καναναῖος: “Simão, o Zelote”, com nota (aramaico qan’ana; não é “cananeu” de Canaã). Ζηλωτής em Lucas e Atos: “o Zelote”.
+- μακάριος: “bem-aventurado”.
 
 **Versaletes:** no NT não use SENHOR em versaletes; o grego tem κύριος.
 

@@ -59,7 +59,7 @@
   ]
  },
  "Heb.1.3": {
-  "t": "Ele, que é o resplendor da glória e a representação exata do seu ser, e que sustenta todas as coisas pela sua palavra poderosa, depois de fazer, por si mesmo, a purificação dos pecados, sentou-se à direita da Majestade nas alturas.",
+  "t": "Ele, que é o resplendor da glória e a representação exata do seu ser, e que sustenta todas as coisas pela sua palavra poderosa, depois de fazer, por si mesmo, a purificação dos pecados, sentou-se à direita da Majestade nas alturas,",
   "n": [
    {
     "tipo": "tn",
@@ -2075,7 +2075,7 @@
    },
    {
     "tipo": "tn",
-    "ancora": "abençoarei ricamente ... multiplicarei grandemente",
+    "ancora": "te abençoarei ricamente e te multiplicarei grandemente",
     "termo": "εὐλογῶν εὐλογήσω ... πληθύνων πληθυνῶ",
     "titulo": "“abençoando abençoarei”",
     "texto": "Lit. “abençoando te abençoarei e multiplicando te multiplicarei”. A Septuaginta imita o infinitivo absoluto hebraico, que intensifica o verbo. “Ricamente” e “grandemente” traduzem essa ênfase."
@@ -2179,6 +2179,525 @@
     "termo": "πρόδρομος (prodromos)",
     "titulo": "prodromos, hápax",
     "texto": "“O que corre à frente”: o batedor que vai na frente do exército, o que abre o caminho. O sumo sacerdote de Israel entrava sozinho; Jesus entra como precursor, isto é, abrindo o caminho para que os seus o sigam (10:19-20). O versículo retoma 5:10 e introduz o cap. 7."
+   }
+  ]
+ },
+ "Heb.7.1": {
+  "t": "Este Melquisedeque, rei de Salém, sacerdote do Deus Altíssimo, que saiu ao encontro de Abraão quando este voltava da derrota dos reis e o abençoou,",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Este Melquisedeque",
+    "termo": "Οὗτος γὰρ ὁ Μελχισέδεκ",
+    "titulo": "Gênesis 14:17-20",
+    "texto": "Os vv. 1-2 resumem Gn 14:17-20, o único relato sobre Melquisedeque no AT; a outra menção é o Sl 110:4. Os vv. 1-3 formam uma só frase, cujo verbo principal só aparece no fim do v. 3: “permanece sacerdote para sempre”. A tradução conserva a frase longa, ligando os versículos por vírgulas."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "a derrota dos reis",
+    "termo": "τῆς κοπῆς τῶν βασιλέων (tēs kopēs tōn basileōn)",
+    "titulo": "kopē, hápax",
+    "texto": "Kopē é “golpe, matança”: a vitória de Abraão sobre Quedorlaomer e os reis aliados, que tinham levado Ló (Gn 14:1-16). A palavra vem da Septuaginta de Gn 14:17."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "que saiu ao encontro",
+    "termo": "ὁ συναντήσας (ho synantēsas)",
+    "titulo": "ho ou hos",
+    "texto": "O texto crítico traz o artigo ho (“o que saiu ao encontro”); Tregelles e o Textus Receptus, o relativo hos (“que saiu”). Sem efeito na tradução."
+   }
+  ]
+ },
+ "Heb.7.2": {
+  "t": "a quem também Abraão deu a décima parte de tudo; ele cujo nome, traduzido, significa primeiro “rei de justiça”, e depois também rei de Salém, isto é, “rei de paz”,",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "rei de justiça",
+    "termo": "βασιλεὺς δικαιοσύνης ... βασιλεὺς εἰρήνης",
+    "titulo": "o sentido dos nomes",
+    "texto": "Melquisedeque (malki-tsedeq) significa “meu rei é justiça” ou “rei de justiça”; Salém (shalem) lembra shalom, “paz”. Fílon e Josefo já explicavam esses nomes do mesmo modo. Justiça e paz são marcas do rei messiânico (Is 9:6-7; 32:1, 17; Sl 72:1-7). Salém é tradicionalmente identificada com Jerusalém (Sl 76:2)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "deu a décima parte",
+    "termo": "δεκάτην ... ἐμέρισεν (dekatēn ... emerisen)",
+    "titulo": "“repartiu o dízimo”",
+    "texto": "Lit. “repartiu a décima parte”. O dízimo era dado a quem se reconhecia como superior, o rei ou o santuário. “De tudo” é, segundo o v. 4, dos despojos da guerra."
+   }
+  ]
+ },
+ "Heb.7.3": {
+  "t": "sem pai, sem mãe, sem genealogia, sem começo de dias nem fim de vida, mas feito semelhante ao Filho de Deus, ele permanece sacerdote para sempre.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "sem pai, sem mãe, sem genealogia",
+    "termo": "ἀπάτωρ, ἀμήτωρ, ἀγενεαλόγητος",
+    "titulo": "três hápax",
+    "texto": "Os três adjetivos só aparecem aqui no NT. Apatōr e amētōr eram usados para órfãos, filhos ilegítimos ou pessoas de origem desconhecida, e também para deuses. Agenealogētos é “sem registro de genealogia”, decisivo para um sacerdote, que precisava provar a descendência de Arão (Ed 2:61-63; Ne 7:63-65)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "sem começo de dias nem fim de vida",
+    "termo": "μήτε ἀρχὴν ἡμερῶν μήτε ζωῆς τέλος ἔχων",
+    "titulo": "o silêncio da Escritura",
+    "texto": "A maioria entende que o autor argumenta a partir do silêncio do texto: o Gênesis não registra pais, nascimento nem morte de Melquisedeque, ao contrário do costume das genealogias. Esse modo de ler o que a Escritura não diz era conhecido na interpretação judaica. Assim, no relato bíblico, Melquisedeque aparece como figura de um sacerdócio sem começo nem fim. Outras leituras: alguns o consideraram um ser celestial (um texto de Qumran, 11QMelquisedeque, o apresenta como figura celeste de juízo e libertação); outros, uma aparição do próprio Filho antes da encarnação. O texto diz que ele foi “feito semelhante” ao Filho, o que o distingue do Filho.",
+    "revisar": true
+   },
+   {
+    "tipo": "tn",
+    "ancora": "feito semelhante ao Filho de Deus",
+    "termo": "ἀφωμοιωμένος δὲ τῷ υἱῷ τοῦ θεοῦ",
+    "titulo": "aphomoioō, hápax",
+    "texto": "“Tornado semelhante, feito à imagem de”. A ordem é significativa: o Filho é o original, e Melquisedeque, a figura que se parece com ele. O autor não diz que o Filho é semelhante a Melquisedeque."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "para sempre",
+    "termo": "εἰς τὸ διηνεκές (eis to diēnekes)",
+    "titulo": "diēnekes",
+    "texto": "“Continuamente, sem interrupção”. Expressão própria de Hebreus (10:1, 12, 14), equivalente a eis ton aiōna do Sl 110:4."
+   }
+  ]
+ },
+ "Heb.7.4": {
+  "t": "Considerem como é grande esse homem, a quem Abraão, o patriarca, deu a décima parte dos melhores despojos.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "dos melhores despojos",
+    "termo": "ἐκ τῶν ἀκροθινίων (ek tōn akrothiniōn)",
+    "titulo": "akrothinion, hápax",
+    "texto": "Lit. “do alto do monte”: a parte de cima da pilha de despojos, o que havia de melhor, que os gregos ofereciam aos deuses. “O patriarca” vem no fim da frase grega, com ênfase: até o pai de Israel reconheceu a superioridade de Melquisedeque."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "a quem Abraão",
+    "termo": "ᾧ (+ καὶ) δεκάτην Ἀβραὰμ",
+    "titulo": "“a quem até Abraão”",
+    "texto": "O NA28, o THGNT, o Textus Receptus e o Texto Bizantino trazem kai (“a quem até Abraão”); o texto-base não o traz. A ênfase fica, de qualquer forma, no título “o patriarca”."
+   }
+  ]
+ },
+ "Heb.7.5": {
+  "t": "Ora, os descendentes de Levi que recebem o sacerdócio têm ordem, segundo a Lei, de cobrar o dízimo do povo, isto é, dos seus irmãos, embora estes também tenham saído do corpo de Abraão.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "têm ordem, segundo a Lei, de cobrar o dízimo",
+    "termo": "ἐντολὴν ἔχουσιν ἀποδεκατοῦν τὸν λαὸν κατὰ τὸν νόμον",
+    "titulo": "Números 18",
+    "texto": "A Lei mandava que os israelitas dessem o dízimo aos levitas, e estes, aos sacerdotes (Nm 18:21-28). O autor simplifica: os sacerdotes, filhos de Levi, recebem o dízimo dos próprios irmãos, todos descendentes de Abraão."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "saído do corpo de Abraão",
+    "termo": "ἐξεληλυθότας ἐκ τῆς ὀσφύος Ἀβραάμ",
+    "titulo": "“dos lombos de Abraão”",
+    "texto": "Lit. “saído dos lombos de Abraão”, expressão hebraica para descendência (Gn 35:11). “Do corpo” evita a palavra “lombo”, que hoje evoca um corte de carne; a imagem física é necessária ao argumento do v. 10."
+   }
+  ]
+ },
+ "Heb.7.6": {
+  "t": "Mas este, que não tem a sua genealogia entre eles, recebeu o dízimo de Abraão e abençoou aquele que tinha as promessas.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "recebeu o dízimo de Abraão e abençoou",
+    "termo": "δεδεκάτωκεν ... εὐλόγηκεν",
+    "titulo": "perfeitos",
+    "texto": "Os dois verbos estão no perfeito: o fato permanece registrado na Escritura e continua tendo valor. Hebreus usa o perfeito com frequência para o que está escrito e vale até hoje."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "aquele que tinha as promessas",
+    "termo": "τὸν ἔχοντα τὰς ἐπαγγελίας",
+    "titulo": "Abraão",
+    "texto": "Abraão, que recebeu as promessas de Deus (6:13-15). Que alguém o abençoe mostra que esse alguém está acima até do portador das promessas. O Textus Receptus e o Texto Bizantino trazem o artigo antes de “Abraão”, sem efeito na tradução."
+   }
+  ]
+ },
+ "Heb.7.7": {
+  "t": "E, sem nenhuma dúvida, o menor é abençoado pelo maior.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "o menor é abençoado pelo maior",
+    "termo": "τὸ ἔλαττον ὑπὸ τοῦ κρείττονος εὐλογεῖται",
+    "titulo": "neutro",
+    "texto": "O grego usa o neutro (“o que é menor ... o que é maior”), dando à frase a forma de princípio geral. A bênção aqui é a bênção formal, dada por quem tem autoridade, como a do sacerdote (Nm 6:22-27)."
+   }
+  ]
+ },
+ "Heb.7.8": {
+  "t": "Aqui, os que recebem os dízimos são homens que morrem; lá, porém, os recebe aquele de quem se testemunha que vive.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Aqui",
+    "termo": "ὧδε μὲν ... ἐκεῖ δὲ",
+    "titulo": "dois cenários",
+    "texto": "“Aqui” é o sistema da Lei, em que sacerdotes mortais recebem o dízimo; “lá” é o episódio de Gn 14. O presente “recebem” pode indicar que o culto do templo ainda funcionava quando a carta foi escrita, mas o autor também fala do tabernáculo no presente, como descrição do que a Lei prescreve; o argumento para datar a carta não é decisivo."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "aquele de quem se testemunha que vive",
+    "termo": "μαρτυρούμενος ὅτι ζῇ",
+    "titulo": "o testemunho da Escritura",
+    "texto": "A Escritura não registra a morte de Melquisedeque (v. 3), e o Sl 110:4 fala de um sacerdote “para sempre”. O autor aplica plenamente a frase a Cristo, que “vive sempre” (v. 25)."
+   }
+  ]
+ },
+ "Heb.7.9": {
+  "t": "E, por assim dizer, por meio de Abraão até Levi, que recebe os dízimos, pagou o dízimo,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "por assim dizer",
+    "termo": "ὡς ἔπος εἰπεῖν (hōs epos eipein)",
+    "titulo": "expressão idiomática",
+    "texto": "Expressão do grego literário (epos é hápax) para suavizar uma afirmação surpreendente: “se se pode dizer assim”. O autor sabe que o argumento é figurado."
+   }
+  ]
+ },
+ "Heb.7.10": {
+  "t": "pois ele ainda estava no corpo do seu antepassado quando Melquisedeque foi ao encontro de Abraão.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "no corpo do seu antepassado",
+    "termo": "ἐν τῇ ὀσφύϊ τοῦ πατρὸς",
+    "titulo": "“nos lombos do pai”",
+    "texto": "Lit. “nos lombos do pai”. O “pai” é Abraão, bisavô de Levi. A ideia antiga de que os descendentes estão contidos no antepassado sustenta o argumento: Levi, que recebe dízimos, deu o dízimo em Abraão. “Foi ao encontro de Abraão” traduz “foi ao encontro dele”, explicitando a pessoa."
+   }
+  ]
+ },
+ "Heb.7.11": {
+  "t": "Ora, se a perfeição viesse por meio do sacerdócio levítico (pois com base nele o povo recebeu a Lei), que necessidade haveria ainda de que se levantasse outro sacerdote, segundo a ordem de Melquisedeque, e que não fosse chamado segundo a ordem de Arão?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "a perfeição",
+    "termo": "τελείωσις (teleiōsis)",
+    "titulo": "teleiōsis, raro",
+    "texto": "Em Hebreus, “perfeição” não é perfeição moral abstrata, mas o fim que Deus pretende: purificar a consciência e levar o povo à sua presença (9:9; 10:1, 14). Se o sacerdócio levítico tivesse alcançado isso, o Sl 110:4 não teria anunciado outro sacerdote."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "com base nele o povo recebeu a Lei",
+    "termo": "ὁ λαὸς γὰρ ἐπ᾽ αὐτῆς νενομοθέτηται",
+    "titulo": "epi autēs",
+    "texto": "Lit. “o povo recebeu a lei sobre ele”. Pode ser “com base nele” (a Lei pressupõe o sacerdócio) ou “a respeito dele” (a Lei trata dele). Em ambos os casos, Lei e sacerdócio estão unidos, o que prepara o v. 12. O Textus Receptus e o Texto Bizantino trazem autē e o mais-que-perfeito nenomothetēto, de sentido semelhante."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "se levantasse outro sacerdote",
+    "termo": "ἕτερον ἀνίστασθαι ἱερέα",
+    "titulo": "o argumento do Salmo 110",
+    "texto": "O Sl 110 é posterior à Lei de Moisés. Se Deus, depois de instituir o sacerdócio de Arão, anuncia outro sacerdote de outra ordem, é porque o primeiro não era o definitivo. Heteros (“outro”) indica um sacerdote de tipo diferente."
+   }
+  ]
+ },
+ "Heb.7.12": {
+  "t": "Pois, quando o sacerdócio muda, necessariamente também há mudança de lei.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "mudança de lei",
+    "termo": "νόμου μετάθεσις (nomou metathesis)",
+    "titulo": "metathesis",
+    "texto": "Metathesis é “transferência, mudança, substituição”. Como a Lei de Moisés está ligada ao sacerdócio levítico (v. 11), um novo sacerdócio implica nova disposição legal. O autor desenvolve isso em 8:6-13 com a nova aliança. “Lei” está sem artigo, como no grego: o princípio é geral, mas o caso em vista é a Lei mosaica."
+   }
+  ]
+ },
+ "Heb.7.13": {
+  "t": "Pois aquele de quem se dizem essas coisas pertence a outra tribo, da qual ninguém jamais serviu ao altar.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "serviu ao altar",
+    "termo": "προσέσχηκεν τῷ θυσιαστηρίῳ (proseschēken tō thysiastēriō)",
+    "titulo": "“se dedicou ao altar”",
+    "texto": "Lit. “se aplicou ao altar”, isto é, exerceu o serviço sacerdotal. Os reis da tribo de Judá que tentaram oferecer sacrifícios foram repreendidos (2Cr 26:16-21)."
+   }
+  ]
+ },
+ "Heb.7.14": {
+  "t": "Pois é evidente que o nosso Senhor surgiu de Judá, tribo sobre a qual Moisés nada disse a respeito de sacerdotes.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "surgiu",
+    "termo": "ἀνατέταλκεν (anatetalken)",
+    "titulo": "anatellō",
+    "texto": "Verbo usado para o nascer do sol e o brotar de uma planta. Na Septuaginta, aparece em promessas messiânicas: “uma estrela surgirá de Jacó” (Nm 24:17); o “Renovo” de Davi (Jr 23:5, anatolē); o “sol da justiça” (Ml 4:2). O autor pode ter em mente essas imagens. Que Jesus era da tribo de Judá, descendente de Davi, era conhecido (Mt 1:1-3; Rm 1:3; Ap 5:5)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "a respeito de sacerdotes",
+    "termo": "περὶ ἱερέων (peri hiereōn)",
+    "titulo": "“sacerdotes” ou “sacerdócio”",
+    "texto": "O texto crítico traz “a respeito de sacerdotes” (hiereōn); o Textus Receptus e o Texto Bizantino, “a respeito do sacerdócio” (hierōsynēs), com outra ordem. Sem diferença de sentido."
+   }
+  ]
+ },
+ "Heb.7.15": {
+  "t": "E isso fica ainda mais evidente se, à semelhança de Melquisedeque, se levanta outro sacerdote,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "à semelhança de Melquisedeque",
+    "termo": "κατὰ τὴν ὁμοιότητα Μελχισέδεκ",
+    "titulo": "homoiotēs",
+    "texto": "O autor explica “segundo a ordem” (kata tēn taxin) do salmo como “segundo a semelhança”: o que define o novo sacerdote não é uma linhagem, mas o tipo de sacerdócio, semelhante ao de Melquisedeque. Katadēlos (“evidente”) é hápax, reforço de prodēlos (v. 14)."
+   }
+  ]
+ },
+ "Heb.7.16": {
+  "t": "que se tornou sacerdote, não segundo um mandamento da Lei sobre a descendência física, mas segundo o poder de uma vida indestrutível.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "um mandamento da Lei sobre a descendência física",
+    "termo": "κατὰ νόμον ἐντολῆς σαρκίνης",
+    "titulo": "“lei de mandamento carnal”",
+    "texto": "Lit. “segundo a lei de um mandamento carnal”. Sarkinos (“de carne”) não é aqui juízo moral: refere-se à regra que fazia do sacerdócio uma questão de descendência física de Levi e de Arão. A tradução explicita esse sentido. O Textus Receptus e o Texto Bizantino trazem sarkikēs, de sentido próximo."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "indestrutível",
+    "termo": "ἀκαταλύτου (akatalytou)",
+    "titulo": "akatalytos, hápax",
+    "texto": "“Que não pode ser dissolvida, destruída”. Jesus morreu, mas a sua vida, ressuscitada, já não pode ser desfeita. Seu sacerdócio não depende de genealogia, mas de vida: ele vive para sempre (v. 25)."
+   }
+  ]
+ },
+ "Heb.7.17": {
+  "t": "Pois a respeito dele se dá testemunho: “Tu és sacerdote para sempre, segundo a ordem de Melquisedeque”.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "se dá testemunho",
+    "termo": "μαρτυρεῖται (martyreitai)",
+    "titulo": "passivo ou ativo",
+    "texto": "O texto crítico traz o passivo martyreitai (“se dá testemunho”, “é atestado”); o Textus Receptus e o Texto Bizantino, o ativo martyrei (“ele testemunha”). Sem diferença de sentido."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "para sempre",
+    "termo": "εἰς τὸν αἰῶνα (eis ton aiōna)",
+    "titulo": "a palavra-chave",
+    "texto": "Terceira citação do Sl 110:4 (5:6; 6:20). Agora o peso está em “para sempre”, que corresponde à “vida indestrutível” do v. 16."
+   }
+  ]
+ },
+ "Heb.7.18": {
+  "t": "Assim, de um lado, o mandamento anterior é anulado por causa da sua fraqueza e inutilidade",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "é anulado",
+    "termo": "Ἀθέτησις ... γίνεται (athetēsis ginetai)",
+    "titulo": "athetēsis, termo jurídico",
+    "texto": "Lit. “acontece a anulação”. Athetēsis (raro; 9:26) é o termo para a revogação de um decreto ou contrato. O “mandamento anterior” é a regra sobre o sacerdócio levítico e, com ele, o sistema da Lei ligado a esse sacerdócio."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "fraqueza e inutilidade",
+    "termo": "τὸ αὐτῆς ἀσθενὲς καὶ ἀνωφελές",
+    "titulo": "fraco e inútil para quê?",
+    "texto": "Não que a Lei fosse má (cf. Rm 7:12), mas era incapaz de produzir a perfeição, a purificação da consciência (9:9; 10:1-4). “Inutilidade” (anōphelēs, raro) é sobre esse fim específico."
+   }
+  ]
+ },
+ "Heb.7.19": {
+  "t": "(pois a Lei nada aperfeiçoou); de outro lado, é introduzida uma esperança melhor, por meio da qual nos aproximamos de Deus.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "é introduzida",
+    "termo": "ἐπεισαγωγὴ (epeisagōgē)",
+    "titulo": "epeisagōgē, hápax",
+    "texto": "Lit. “introdução adicional”: algo trazido em lugar do anterior ou além dele. A frase completa o “de um lado” do v. 18: de um lado, anulação; de outro, introdução de algo melhor. Os parênteses marcam o comentário intercalado."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "nos aproximamos de Deus",
+    "termo": "ἐγγίζομεν τῷ θεῷ",
+    "titulo": "aproximar-se de Deus",
+    "texto": "Linguagem do culto: no AT, só os sacerdotes “se aproximavam” de Deus (Êx 19:22; Lv 10:3). Pela esperança dada em Cristo, todos os crentes têm esse acesso (4:16; 10:22)."
+   }
+  ]
+ },
+ "Heb.7.20": {
+  "t": "E isso não aconteceu sem juramento. Pois aqueles se tornaram sacerdotes sem juramento,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "E isso não aconteceu sem juramento",
+    "termo": "καὶ καθ᾽ ὅσον οὐ χωρὶς ὁρκωμοσίας",
+    "titulo": "frase incompleta",
+    "texto": "Lit. “e na medida em que não foi sem juramento”. A frase grega começa uma comparação (“na medida em que ...”) que só se completa no v. 22 (“nessa mesma medida ...”); os vv. 20b-21 são parêntese. A tradução torna a primeira parte uma frase completa, para clareza."
+   }
+  ]
+ },
+ "Heb.7.21": {
+  "t": "mas este, com juramento, por meio daquele que lhe disse: “O Senhor jurou e não mudará de ideia: ‘Tu és sacerdote para sempre’”.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "O Senhor jurou",
+    "termo": "ὤμοσεν κύριος (ōmosen kyrios)",
+    "titulo": "Salmo 110:4 e YHWH",
+    "texto": "No hebraico do Sl 110:4, quem jura é YHWH, o nome de Deus, que a Septuaginta traduz por kyrios (“Senhor”). O juramento de Deus garante que o sacerdócio é irrevogável, como o juramento a Abraão garantia a promessa (6:13-18)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "não mudará de ideia",
+    "termo": "οὐ μεταμεληθήσεται (ou metamelēthēsetai)",
+    "titulo": "metamelomai",
+    "texto": "“Arrepender-se, mudar de decisão”. Não se usa “arrepender-se” para evitar confusão com metanoeō, termo fixo da APV para o arrependimento do pecador; aqui o sentido é que Deus não voltará atrás."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Tu és sacerdote para sempre",
+    "termo": "σὺ ἱερεὺς εἰς τὸν αἰῶνα (+ κατὰ τὴν τάξιν Μελχισέδεκ)",
+    "titulo": "fim da citação",
+    "texto": "O Textus Receptus e o Texto Bizantino completam a citação com “segundo a ordem de Melquisedeque”, como em 5:6 e 7:17. O texto crítico termina em “para sempre”, palavra em que o autor põe ênfase; o acréscimo parece harmonização com o salmo."
+   }
+  ]
+ },
+ "Heb.7.22": {
+  "t": "Nessa mesma medida, Jesus se tornou fiador de uma aliança melhor.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "fiador",
+    "termo": "ἔγγυος (engyos)",
+    "titulo": "engyos, hápax",
+    "texto": "Termo jurídico: o fiador que garante, com a própria pessoa ou bens, que um compromisso será cumprido. Jesus garante a aliança diante de Deus e do povo; sua vida indestrutível (v. 16) é a garantia. O nome “Jesus” vem no fim da frase grega, com ênfase."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "aliança",
+    "termo": "διαθήκης (diathēkēs)",
+    "titulo": "diathēkē",
+    "texto": "Primeira ocorrência de diathēkē em Hebreus (17 vezes). Na Septuaginta traduz o hebraico berit, “aliança”; no grego comum é “testamento”, sentido que o autor explora em 9:16-17. A aliança melhor é a nova aliança de Jr 31:31-34, citada em 8:8-12."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Nessa mesma medida",
+    "termo": "κατὰ τοσοῦτο (+ καὶ)",
+    "titulo": "kai",
+    "texto": "O NA28, o THGNT e Westcott-Hort trazem kai (“nessa medida também”); o texto-base não o traz. Sem efeito no sentido."
+   }
+  ]
+ },
+ "Heb.7.23": {
+  "t": "Além disso, aqueles sacerdotes foram muitos, porque a morte os impedia de continuar;",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "foram muitos",
+    "termo": "πλείονές εἰσιν γεγονότες ἱερεῖς",
+    "titulo": "a sucessão dos sacerdotes",
+    "texto": "A sucessão de sumos sacerdotes, um após outro, era sinal de que nenhum permanecia. Josefo conta dezenas de sumos sacerdotes de Arão até a destruição do templo. O contraste com o v. 24 é entre muitos que morrem e um que permanece."
+   }
+  ]
+ },
+ "Heb.7.24": {
+  "t": "mas este, porque permanece para sempre, tem um sacerdócio que não passa a outro.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "que não passa a outro",
+    "termo": "ἀπαράβατον (aparabaton)",
+    "titulo": "aparabatos, hápax",
+    "texto": "Pode significar “intransferível” (que não passa a um sucessor) ou “permanente, inviolável” (sentido mais comum da palavra nos textos jurídicos). O contexto da sucessão (v. 23) favorece “que não passa a outro”, mas os dois sentidos convergem: ninguém o substitui, e nada o anula."
+   }
+  ]
+ },
+ "Heb.7.25": {
+  "t": "Por isso, também é capaz de salvar completamente os que por meio dele se aproximam de Deus, pois vive sempre para interceder por eles.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "completamente",
+    "termo": "εἰς τὸ παντελὲς (eis to panteles)",
+    "titulo": "panteles, raro",
+    "texto": "Pode ser “completamente, totalmente” (Lc 13:11) ou “para sempre”. O grego permite os dois, e o contexto fala tanto da plenitude da salvação como da permanência do sacerdote (v. 24). “Completamente” é a leitura mais comum; a duração vem expressa em “vive sempre”."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "vive sempre para interceder por eles",
+    "termo": "πάντοτε ζῶν εἰς τὸ ἐντυγχάνειν ὑπὲρ αὐτῶν",
+    "titulo": "intercessão",
+    "texto": "Entynchanō é “apresentar-se diante de alguém em favor de outro”. Cristo exaltado intercede pelos seus (Rm 8:34; 1Jo 2:1; cf. Is 53:12). Não se trata de uma súplica para convencer um Pai relutante, mas da presença permanente do sacrifício concluído diante de Deus (9:24)."
+   }
+  ]
+ },
+ "Heb.7.26": {
+  "t": "Pois era esse o sumo sacerdote que nos convinha: santo, inocente, sem mancha, separado dos pecadores e elevado acima dos céus.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "santo, inocente, sem mancha",
+    "termo": "ὅσιος, ἄκακος, ἀμίαντος (hosios, akakos, amiantos)",
+    "titulo": "três qualidades",
+    "texto": "Hosios é “santo, piedoso, fiel a Deus”; akakos (raro), “sem maldade, inocente”; amiantos, “sem contaminação”, termo da pureza ritual exigida do sacerdote (Lv 21). Nele, a pureza ritual exigida dos sacerdotes se torna santidade de vida. O Textus Receptus e o Texto Bizantino não têm o kai do início, sem efeito na tradução."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "separado dos pecadores",
+    "termo": "κεχωρισμένος ἀπὸ τῶν ἁμαρτωλῶν",
+    "titulo": "separado como?",
+    "texto": "Não que tenha evitado o contato com pecadores durante a vida terrena (Mc 2:15-17), mas que é diferente deles, sem pecado (4:15), e agora, exaltado, está fora do alcance da fraqueza e da morte. O perfeito indica estado permanente."
+   }
+  ]
+ },
+ "Heb.7.27": {
+  "t": "Ele não tem necessidade, como os sumos sacerdotes, de oferecer sacrifícios todos os dias, primeiro pelos próprios pecados e depois pelos do povo; pois isso ele fez uma vez por todas, quando ofereceu a si mesmo.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "todos os dias",
+    "termo": "καθ᾽ ἡμέραν (kath’ hēmeran)",
+    "titulo": "sacrifícios diários?",
+    "texto": "O sumo sacerdote oferecia pelos próprios pecados e pelos do povo no Dia da Expiação, uma vez por ano (Lv 16; Hb 9:7). “Todos os dias” pode juntar o rito anual aos sacrifícios diários dos sacerdotes (Êx 29:38-42; Lv 6:19-23, a oferta diária do sumo sacerdote), ou ser expressão para a repetição contínua de todo o sistema. Fílon também fala de sacrifícios diários do sumo sacerdote. O contraste do autor é entre repetição e o “uma vez por todas” de Cristo."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "uma vez por todas",
+    "termo": "ἐφάπαξ (ephapax)",
+    "titulo": "ephapax",
+    "texto": "“De uma vez para sempre”, palavra decisiva em Hebreus (9:12; 10:10): o sacrifício de Cristo não se repete, porque é completo."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "ofereceu a si mesmo",
+    "termo": "ἑαυτὸν ἀνενέγκας",
+    "titulo": "sacerdote e vítima",
+    "texto": "Primeira vez que Hebreus diz que Cristo é ao mesmo tempo o sacerdote que oferece e o sacrifício oferecido. O tema será desenvolvido em 9:11-14, 25-28; 10:5-14."
+   }
+  ]
+ },
+ "Heb.7.28": {
+  "t": "Pois a Lei constitui sumos sacerdotes homens sujeitos à fraqueza; mas a palavra do juramento, que veio depois da Lei, constitui o Filho, aperfeiçoado para sempre.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "homens sujeitos à fraqueza",
+    "termo": "ἀνθρώπους ... ἔχοντας ἀσθένειαν",
+    "titulo": "“homens que têm fraqueza”",
+    "texto": "Lit. “homens que têm fraqueza”, como em 5:2. A frase final resume o capítulo em contrastes: Lei e juramento; homens e o Filho; fraqueza e perfeição; antes e depois."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "aperfeiçoado para sempre",
+    "termo": "εἰς τὸν αἰῶνα τετελειωμένον",
+    "titulo": "teleioō",
+    "texto": "O perfeito indica estado permanente: o Filho foi plenamente qualificado como sumo sacerdote pela obediência, pelo sofrimento e pela exaltação (2:10; 5:9), e permanece assim para sempre. “Constitui” não está repetido no grego da segunda parte, mas está implícito."
    }
   ]
  }

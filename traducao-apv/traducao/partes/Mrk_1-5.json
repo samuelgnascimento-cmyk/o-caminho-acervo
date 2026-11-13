@@ -2215,7 +2215,7 @@
   ]
  },
  "Mrk.4.8": {
-  "t": "Outras sementes caíram em terra boa e deram fruto, que brotava e crescia, e produziam trinta, sessenta e até cem por um.",
+  "t": "Outras sementes caíram em terra boa e deram fruto, que brotava e crescia, e produziam trinta, sessenta e até cem por um”.",
   "n": [
    {
     "tipo": "tn",
@@ -2745,6 +2745,711 @@
     "termo": "τίς ἄρα οὗτός ἐστιν",
     "titulo": "a pergunta do Evangelho",
     "texto": "A pergunta fica sem resposta explícita, mas o AT já a respondeu: só o Senhor manda no vento e no mar (Sl 107:25-29). É a pergunta central da primeira metade de Marcos, que Pedro responderá em 8:29."
+   }
+  ]
+ },
+ "Mrk.5.1": {
+  "t": "Chegaram ao outro lado do mar, à região dos gerasenos.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "gerasenos",
+    "termo": "Γερασηνῶν (Gerasēnōn)",
+    "titulo": "gerasenos, gadarenos ou gergesenos",
+    "texto": "O texto crítico traz “gerasenos”, com os manuscritos mais antigos. O Textus Receptus e o Texto Bizantino leem “gadarenos”, forma de Mt 8:28; outros manuscritos trazem “gergesenos”. A variedade reflete uma dificuldade geográfica: Gerasa (hoje Jerash) fica a uns 50 km do lago, Gadara a uns 10 km, e Gergesa seria um lugar à margem oriental. “Região dos gerasenos” pode designar o vasto território ligado à cidade, que chegaria ao lago, ou ser um nome regional usado de modo amplo. Orígenes já discutia o problema e preferia Gergesa."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "ao outro lado do mar",
+    "termo": "εἰς τὸ πέραν τῆς θαλάσσης",
+    "titulo": "terra de gentios",
+    "texto": "A margem oriental pertencia à Decápole (v. 20), região de cultura grega e população majoritariamente gentia. Os porcos (v. 11) confirmam que não é ambiente judaico."
+   }
+  ]
+ },
+ "Mrk.5.2": {
+  "t": "Logo que Jesus desceu do barco, veio ao seu encontro, saindo dos sepulcros, um homem possuído por um espírito impuro.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "saindo dos sepulcros",
+    "termo": "ἐκ τῶν μνημείων (ek tōn mnēmeiōn)",
+    "titulo": "lugar de impureza",
+    "texto": "Túmulos escavados na rocha, que podiam servir de abrigo. Para a Lei, o contato com sepulturas tornava impuro (Nm 19:16; cf. Is 65:4, que fala de quem “mora nos sepulcros” e “come carne de porco”). A cena acumula impureza: terra de gentios, túmulos, espírito impuro, porcos."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "possuído por um espírito impuro",
+    "termo": "ἐν πνεύματι ἀκαθάρτῳ",
+    "titulo": "“em espírito impuro”",
+    "texto": "Lit. “em espírito impuro”, como em 1:23. O nome de Jesus foi acrescentado como sujeito por clareza."
+   }
+  ]
+ },
+ "Mrk.5.3": {
+  "t": "Ele morava nos sepulcros, e ninguém conseguia mais prendê-lo, nem mesmo com correntes.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "ninguém conseguia mais prendê-lo, nem mesmo com correntes",
+    "termo": "οὐδὲ ἁλύσει οὐκέτι οὐδεὶς ἐδύνατο αὐτὸν δῆσαι",
+    "titulo": "negação tripla",
+    "texto": "O grego acumula três negações (“nem com corrente, já não, ninguém”), que reforçam a ideia em vez de se anularem. Katoikēsis (“moradia”) só aparece aqui no NT."
+   }
+  ]
+ },
+ "Mrk.5.4": {
+  "t": "Muitas vezes o tinham amarrado com grilhões e correntes, mas ele arrebentava as correntes e despedaçava os grilhões, e ninguém tinha força para dominá-lo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "dominá-lo",
+    "termo": "δαμάσαι (damasai)",
+    "titulo": "damazō",
+    "texto": "Verbo usado para domar animais selvagens (Tg 3:7). O homem é tratado como fera, e nenhuma força humana o controla. Pedē (“grilhão”, para os pés) e diaspaō (“arrebentar”) são raros no NT."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Muitas vezes o tinham amarrado",
+    "termo": "διὰ τὸ αὐτὸν πολλάκις ... δεδέσθαι",
+    "titulo": "explicação",
+    "texto": "No grego, o v. 4 é uma oração causal (“porque muitas vezes tinha sido amarrado”) que explica o v. 3. A tradução a torna independente para aliviar o período."
+   }
+  ]
+ },
+ "Mrk.5.5": {
+  "t": "Noite e dia, sem parar, andava pelos sepulcros e pelos montes, gritando e ferindo-se com pedras.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "ferindo-se",
+    "termo": "κατακόπτων ἑαυτόν (katakoptōn heauton)",
+    "titulo": "katakoptō, hápax",
+    "texto": "Única vez no NT: “cortar, retalhar”. O homem se feria com pedras afiadas. A autodestruição revela a natureza do poder que o domina (cf. 9:22)."
+   }
+  ]
+ },
+ "Mrk.5.6": {
+  "t": "Quando viu Jesus de longe, correu e se prostrou diante dele,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "se prostrou diante dele",
+    "termo": "προσεκύνησεν αὐτόν (prosekynēsen auton)",
+    "titulo": "proskyneō",
+    "texto": "Proskyneō é prostrar-se em reverência, gesto que pode ser de homenagem ou de adoração. Aqui é a submissão forçada do espírito diante de alguém mais forte, não ato de fé. O NA28 e outras edições trazem o dativo autō, sem diferença de sentido."
+   }
+  ]
+ },
+ "Mrk.5.7": {
+  "t": "e gritou em alta voz: “Que tenho eu a ver com você, Jesus, Filho do Deus Altíssimo? Eu o conjuro por Deus: não me atormente!”.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Filho do Deus Altíssimo",
+    "termo": "υἱὲ τοῦ θεοῦ τοῦ ὑψίστου",
+    "titulo": "o Altíssimo",
+    "texto": "“Deus Altíssimo” é título bíblico usado muitas vezes por não israelitas ou em contexto de povos estrangeiros (Gn 14:18-20; Nm 24:16; Dn 3:26; At 16:17). Cabe na boca de um demônio em terra de gentios. Sobre “Que tenho eu a ver com você”, ver 1:24."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Eu o conjuro por Deus",
+    "termo": "ὁρκίζω σε τὸν θεόν (horkizō se ton theon)",
+    "titulo": "horkizō, raro",
+    "texto": "Só aqui e em At 19:13. Era a fórmula dos exorcistas, que conjuravam os demônios em nome de Deus. Ironia: o demônio usa contra Jesus a fórmula que se usava contra demônios."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "não me atormente",
+    "termo": "μή με βασανίσῃς (mē me basanisēs)",
+    "titulo": "basanizō",
+    "texto": "“Torturar, atormentar”, com frequência ligado ao castigo final dos poderes do mal (Ap 14:10; 20:10). Em Mt 8:29: “antes do tempo”."
+   }
+  ]
+ },
+ "Mrk.5.8": {
+  "t": "Pois Jesus lhe dizia: “Espírito impuro, saia deste homem!”.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Pois Jesus lhe dizia",
+    "termo": "ἔλεγεν γὰρ αὐτῷ (elegen gar autō)",
+    "titulo": "explicação retroativa",
+    "texto": "O imperfeito com gar explica o grito do v. 7: Jesus já vinha ordenando que o espírito saísse. Alguns entendem que o exorcismo exigiu insistência; outros, apenas que Marcos narra fora de ordem. O nome de Jesus foi acrescentado por clareza."
+   }
+  ]
+ },
+ "Mrk.5.9": {
+  "t": "Jesus lhe perguntou: “Qual é o seu nome?”. Ele respondeu: “Meu nome é Legião, porque somos muitos”.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Legião",
+    "termo": "λεγιών (legiōn)",
+    "titulo": "o nome",
+    "texto": "Palavra latina: a legião romana tinha, no tempo de Augustus, cerca de 5 mil a 6 mil soldados. O nome diz multidão e força militar organizada. Muitos estudiosos veem também uma alusão à ocupação romana; a Décima Legião (Fretensis), estacionada então na Síria e depois na Judeia, tinha o javali entre os seus emblemas, o que daria ironia ao destino nos porcos. A alusão é possível, mas não declarada no texto."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "porque somos muitos",
+    "termo": "ὅτι πολλοί ἐσμεν",
+    "titulo": "singular e plural",
+    "texto": "O espírito passa do singular (“meu nome”) ao plural (“somos”). A oscilação continua nos vv. 10-13 e mostra a multidão que oprime um só homem."
+   }
+  ]
+ },
+ "Mrk.5.10": {
+  "t": "E suplicava insistentemente a Jesus que não os mandasse para fora daquela região.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "não os mandasse para fora",
+    "termo": "μὴ αὐτὰ ἀποστείλῃ ἔξω τῆς χώρας",
+    "titulo": "pronome neutro",
+    "texto": "“Os” traduz o neutro plural auta, que se refere aos espíritos (pneumata). O verbo “suplicava” está no singular. O Textus Receptus e o Texto Bizantino trazem autous (masculino). Lucas diz que pediam para não ir ao abismo (Lc 8:31)."
+   }
+  ]
+ },
+ "Mrk.5.11": {
+  "t": "Ali, junto ao monte, estava pastando uma grande manada de porcos.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "porcos",
+    "termo": "χοίρων (choirōn)",
+    "titulo": "animal impuro",
+    "texto": "O porco era impuro pela Lei (Lv 11:7; Dt 14:8), e criá-lo era impensável para judeus observantes. A manada indica território gentio."
+   }
+  ]
+ },
+ "Mrk.5.12": {
+  "t": "E lhe suplicaram: “Mande-nos para os porcos, para entrarmos neles”.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "E lhe suplicaram",
+    "termo": "καὶ παρεκάλεσαν αὐτόν (+ πάντες οἱ δαίμονες)",
+    "titulo": "sujeito explícito",
+    "texto": "O Textus Receptus e o Texto Bizantino explicitam o sujeito: “todos os demônios lhe suplicaram”. O texto crítico deixa o sujeito implícito; o v. 13 deixa claro que são os espíritos."
+   }
+  ]
+ },
+ "Mrk.5.13": {
+  "t": "Ele o permitiu. Os espíritos impuros saíram e entraram nos porcos, e a manada, cerca de dois mil, precipitou-se pela encosta abaixo para dentro do mar, e se afogaram no mar.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "precipitou-se pela encosta abaixo para dentro do mar",
+    "termo": "ὥρμησεν ἡ ἀγέλη κατὰ τοῦ κρημνοῦ εἰς τὴν θάλασσαν",
+    "titulo": "o sentido da cena",
+    "texto": "A destruição dos porcos mostra o caráter destruidor dos espíritos (cf. v. 5) e torna visível a libertação do homem. Para o leitor judeu, o mar era também imagem das forças do caos (cf. 4:39). O texto não discute a perda dos donos; a reação dos moradores (v. 17) mostra que pesou. Krēmnos (“despenhadeiro”) e pnigō (“afogar”) são raros no NT; dischilioi (“dois mil”), hápax."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Ele o permitiu",
+    "termo": "καὶ ἐπέτρεψεν αὐτοῖς (+ εὐθέως ὁ Ἰησοῦς)",
+    "titulo": "acréscimos do TR",
+    "texto": "O Textus Receptus e o Texto Bizantino leem “E Jesus logo lhes permitiu” e, adiante, “eram cerca de dois mil”. Sem efeito no sentido."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "e se afogaram",
+    "termo": "ἐπνίγοντο (epnigonto)",
+    "titulo": "imperfeito",
+    "texto": "O imperfeito descreve a cena em andamento: os animais iam se afogando um após outro."
+   }
+  ]
+ },
+ "Mrk.5.14": {
+  "t": "Os que cuidavam dos porcos fugiram e contaram o que acontecera na cidade e nos campos. E as pessoas foram ver o que tinha acontecido.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "contaram o que acontecera",
+    "termo": "ἀπήγγειλαν (apēngeilan)",
+    "titulo": "objeto implícito",
+    "texto": "O grego diz só “anunciaram na cidade e nos campos”; o objeto foi acrescentado. “As pessoas” traduz o sujeito implícito de “foram”. O Textus Receptus e o Texto Bizantino trazem “os que cuidavam dos porcos”, com o substantivo explícito."
+   }
+  ]
+ },
+ "Mrk.5.15": {
+  "t": "Chegaram a Jesus e viram o endemoninhado, aquele que tinha tido a legião, sentado, vestido e em perfeito juízo; e ficaram com medo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "em perfeito juízo",
+    "termo": "σωφρονοῦντα (sōphronounta)",
+    "titulo": "sōphroneō",
+    "texto": "“Ter a mente sã, estar em seu juízo”. Os três particípios (sentado, vestido, de mente sã) contrastam ponto por ponto com os vv. 3-5. “Vestido” (himatizō, raro) supõe que antes andava nu, como diz Lc 8:27."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "ficaram com medo",
+    "termo": "ἐφοβήθησαν (ephobēthēsan)",
+    "titulo": "o medo diante do poder",
+    "texto": "Como os discípulos depois da tempestade (4:41), os moradores temem mais o poder de Jesus do que temiam o endemoninhado."
+   }
+  ]
+ },
+ "Mrk.5.16": {
+  "t": "Os que tinham visto contaram-lhes o que acontecera com o endemoninhado e o que houve com os porcos.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Os que tinham visto",
+    "termo": "οἱ ἰδόντες (hoi idontes)",
+    "titulo": "testemunhas",
+    "texto": "Provavelmente os porqueiros e outros presentes. “Contaram” traduz diēgeomai, “narrar em detalhe”."
+   }
+  ]
+ },
+ "Mrk.5.17": {
+  "t": "E começaram a suplicar a Jesus que se retirasse da região deles.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "que se retirasse",
+    "termo": "ἀπελθεῖν ἀπὸ τῶν ὁρίων αὐτῶν",
+    "titulo": "o pedido",
+    "texto": "Três pedidos marcam o episódio: os espíritos suplicam (vv. 10, 12), os moradores suplicam (v. 17), o homem curado suplica (v. 18). Jesus atende os dois primeiros e nega o terceiro. O medo e talvez a perda econômica pesam mais que a libertação de um homem."
+   }
+  ]
+ },
+ "Mrk.5.18": {
+  "t": "Quando Jesus estava entrando no barco, o homem que tinha sido endemoninhado suplicava que o deixasse ficar com ele.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "ficar com ele",
+    "termo": "ἵνα μετ᾽ αὐτοῦ ᾖ (hina met’ autou ē)",
+    "titulo": "eco do chamado",
+    "texto": "É a mesma expressão de 3:14, a primeira finalidade dos Doze: “para que estivessem com ele”. O homem pede para ser discípulo itinerante."
+   }
+  ]
+ },
+ "Mrk.5.19": {
+  "t": "Mas Jesus não o permitiu; disse-lhe: “Vá para casa, para os seus, e conte-lhes tudo o que o Senhor fez por você e como teve misericórdia de você”.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "o Senhor",
+    "termo": "ὁ κύριος (ho kyrios)",
+    "titulo": "o Senhor e Jesus",
+    "texto": "Na boca de Jesus, “o Senhor” é Deus (o Kyrios da Septuaginta, que traduz YHWH). No v. 20, porém, o homem proclama “o que Jesus tinha feito”. Marcos deixa o leitor ligar as duas coisas: o que Deus fez, fez por meio de Jesus."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "conte-lhes",
+    "termo": "ἀπάγγειλον αὐτοῖς (apangeilon autois)",
+    "titulo": "sem ordem de silêncio",
+    "texto": "Diferente de 1:44 e 5:43, aqui Jesus manda contar. Em território gentio, onde as expectativas messiânicas judaicas não alimentavam agitação política, o anúncio não traria o mesmo risco de mal-entendido. O homem se torna o primeiro mensageiro entre os gentios."
+   }
+  ]
+ },
+ "Mrk.5.20": {
+  "t": "Ele se foi e começou a proclamar na Decápole tudo o que Jesus tinha feito por ele; e todos ficavam admirados.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Decápole",
+    "termo": "Δεκαπόλει (Dekapolei)",
+    "titulo": "as dez cidades",
+    "texto": "Lit. “Dez Cidades”: grupo de cidades de cultura grega, quase todas a leste do Jordão e do lago, entre elas Gerasa, Gadara e Citópolis. O número e a composição da lista variam nas fontes antigas. Jesus voltará à região em 7:31."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "começou a proclamar",
+    "termo": "ἤρξατο κηρύσσειν (ērxato kēryssein)",
+    "titulo": "kēryssō",
+    "texto": "O verbo é o mesmo usado para João, Jesus e os Doze (1:4, 14; 3:14). O homem curado se torna arauto."
+   }
+  ]
+ },
+ "Mrk.5.21": {
+  "t": "Quando Jesus atravessou outra vez de barco para o outro lado, uma grande multidão se reuniu em volta dele, e ele ficou à beira do mar.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "para o outro lado",
+    "termo": "εἰς τὸ πέραν (eis to peran)",
+    "titulo": "de volta à margem ocidental",
+    "texto": "Agora “o outro lado” é a margem ocidental, judaica, provavelmente perto de Cafarnaum."
+   }
+  ]
+ },
+ "Mrk.5.22": {
+  "t": "Veio então um dos chefes da sinagoga, chamado Jairo. Ao ver Jesus, lançou-se aos seus pés",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "chefes da sinagoga",
+    "termo": "τῶν ἀρχισυναγώγων (tōn archisynagōgōn)",
+    "titulo": "o cargo",
+    "texto": "O chefe da sinagoga era um líder leigo que cuidava do prédio e organizava o culto, escolhendo quem leria e pregaria (At 13:15). Era pessoa respeitada na cidade. O plural (“um dos chefes”) indica que a sinagoga podia ter mais de um, ou que o título era também honorífico."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Jairo",
+    "termo": "Ἰάϊρος (Iairos)",
+    "titulo": "o nome",
+    "texto": "Forma grega do hebraico Ya’ir, “ele ilumina” ou “ele desperta” (Nm 32:41; Jz 10:3). Marcos raramente dá nomes aos beneficiados por milagres; o nome talvez indique que Jairo era conhecido na igreja primitiva."
+   }
+  ]
+ },
+ "Mrk.5.23": {
+  "t": "e lhe suplicou com insistência: “Minha filhinha está nas últimas. Venha impor as mãos sobre ela, para que fique curada e viva”.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "está nas últimas",
+    "termo": "ἐσχάτως ἔχει (eschatōs echei)",
+    "titulo": "eschatōs, hápax",
+    "texto": "Única vez no NT: lit. “está no fim”, expressão do grego popular para quem está à beira da morte. “Está nas últimas” é o equivalente exato em português. Thygatrion (“filhinha”) é diminutivo afetuoso."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "fique curada",
+    "termo": "σωθῇ (sōthē)",
+    "titulo": "sōzō: “curar” e “salvar”",
+    "texto": "Sōzō significa tanto “salvar” quanto “curar, livrar de doença ou morte”. Nos vv. 23, 28 e 34 Marcos usa o verbo deliberadamente com os dois sentidos. A APV traduz “curar” onde o pedido é de cura física (vv. 23, 28) e “salvar” na palavra de Jesus à mulher (v. 34), indicando assim que a cura física aponta para uma salvação mais profunda."
+   }
+  ]
+ },
+ "Mrk.5.24": {
+  "t": "Jesus foi com ele. Uma grande multidão o seguia e o apertava de todos os lados.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "o apertava de todos os lados",
+    "termo": "συνέθλιβον αὐτόν (synethlibon auton)",
+    "titulo": "synthlibō, raro",
+    "texto": "Só aqui e no v. 31: “comprimir de todos os lados”. Prepara a cena: na multidão espremida, um toque de propósito será distinguido."
+   }
+  ]
+ },
+ "Mrk.5.25": {
+  "t": "Havia ali uma mulher que sofria de hemorragia havia doze anos.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "hemorragia",
+    "termo": "ῥύσει αἵματος (rhysei haimatos)",
+    "titulo": "impureza contínua",
+    "texto": "Lit. “fluxo de sangue”, provavelmente um sangramento uterino crônico. Pela Lei (Lv 15:25-27), a mulher nessa condição ficava impura enquanto durasse o fluxo, e tornava impuro quem a tocasse ou tocasse o que ela usava. Doze anos de doença, de pobreza (v. 26) e de exclusão do culto. O número doze liga a mulher à menina de doze anos (v. 42)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Havia ali uma mulher",
+    "termo": "Καὶ γυνὴ οὖσα",
+    "titulo": "período longo",
+    "texto": "No grego, os vv. 25-27 são um único período com sete particípios acumulados até o verbo principal (“tocou”, v. 27). A tradução divide o período para a leitura em voz alta, mantendo a sequência."
+   }
+  ]
+ },
+ "Mrk.5.26": {
+  "t": "Tinha sofrido muito nas mãos de vários médicos e gastado tudo o que tinha, sem proveito algum; pelo contrário, só piorava.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "sofrido muito nas mãos de vários médicos",
+    "termo": "πολλὰ παθοῦσα ὑπὸ πολλῶν ἰατρῶν",
+    "titulo": "“muito ... muitos”",
+    "texto": "Lit. “tendo sofrido muitas coisas sob muitos médicos”. O jogo polla ... pollōn sublinha a quantidade de tratamentos, alguns certamente dolorosos. O relato de Lucas (8:43) é mais discreto quanto aos médicos."
+   }
+  ]
+ },
+ "Mrk.5.27": {
+  "t": "Tendo ouvido falar de Jesus, veio por trás, no meio da multidão, e tocou no manto dele.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "tocou no manto dele",
+    "termo": "ἥψατο τοῦ ἱματίου αὐτοῦ",
+    "titulo": "o toque proibido",
+    "texto": "Ao tocar, ela, que era impura, deveria tornar Jesus impuro (Lv 15:27). Vem por trás, escondida, por vergonha ou medo. Mateus e Lucas especificam a franja do manto (Mt 9:20; Lc 8:44), as borlas que a Lei mandava usar (Nm 15:38-39)."
+   }
+  ]
+ },
+ "Mrk.5.28": {
+  "t": "Pois dizia consigo: “Se eu tocar, ainda que seja só nas roupas dele, ficarei curada”.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "dizia consigo",
+    "termo": "ἔλεγεν (elegen)",
+    "titulo": "fala interior",
+    "texto": "Lit. “dizia”. O imperfeito sugere que ela repetia isso a si mesma; “consigo” vem do sentido (Mt 9:21 traz “dentro de si”). Sobre “ficarei curada” (sōthēsomai), ver a nota em 5:23."
+   }
+  ]
+ },
+ "Mrk.5.29": {
+  "t": "No mesmo instante, a hemorragia parou, e ela sentiu no corpo que estava curada do seu mal.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "a hemorragia parou",
+    "termo": "ἐξηράνθη ἡ πηγὴ τοῦ αἵματος αὐτῆς",
+    "titulo": "“secou a fonte do seu sangue”",
+    "texto": "Lit. “secou a fonte do seu sangue”, expressão que lembra a linguagem de Lv 12:7 na Septuaginta. A tradução usa a forma corrente."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "do seu mal",
+    "termo": "ἀπὸ τῆς μάστιγος (apo tēs mastigos)",
+    "titulo": "mastix: “flagelo”",
+    "texto": "Lit. “do flagelo”, como em 3:10 e no v. 34. O perfeito iatai (“está curada”) indica cura completa e permanente."
+   }
+  ]
+ },
+ "Mrk.5.30": {
+  "t": "Jesus, percebendo logo em si mesmo que dele havia saído poder, voltou-se no meio da multidão e perguntou: “Quem tocou nas minhas roupas?”.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "poder",
+    "termo": "δύναμιν (dynamin)",
+    "titulo": "dynamis",
+    "texto": "Dynamis é o poder de Deus que age em Jesus; no plural, é a palavra de Marcos para “milagres” (6:2, 5). O poder não flui por magia, à revelia de Jesus: ele percebe e quer encontrar a pessoa."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "perguntou",
+    "termo": "ἔλεγεν (elegen)",
+    "titulo": "imperfeito",
+    "texto": "O imperfeito pode indicar que Jesus repetia a pergunta enquanto procurava com os olhos (v. 32)."
+   }
+  ]
+ },
+ "Mrk.5.31": {
+  "t": "Os discípulos lhe disseram: “Está vendo a multidão apertando-o de todos os lados, e ainda pergunta: ‘Quem me tocou?’”.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Está vendo",
+    "termo": "βλέπεις (blepeis)",
+    "titulo": "tom dos discípulos",
+    "texto": "A resposta tem um toque de impaciência, que Lucas atribui a Pedro e suaviza (Lc 8:45). Mateus a omite. A frase portuguesa dispensa o pronome “você”."
+   }
+  ]
+ },
+ "Mrk.5.32": {
+  "t": "Mas ele olhava ao redor para ver quem tinha feito isso.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "quem tinha feito isso",
+    "termo": "τὴν τοῦτο ποιήσασαν (tēn touto poiēsasan)",
+    "titulo": "particípio feminino",
+    "texto": "O particípio grego é feminino: “aquela que fez isso”. O narrador, e talvez Jesus, já sabe que foi uma mulher. Em português, “quem” não marca o gênero; a nota registra o detalhe."
+   }
+  ]
+ },
+ "Mrk.5.33": {
+  "t": "Então a mulher, com medo e tremendo, sabendo o que lhe tinha acontecido, veio, prostrou-se diante dele e lhe contou toda a verdade.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "com medo e tremendo",
+    "termo": "φοβηθεῖσα καὶ τρέμουσα (phobētheisa kai tremousa)",
+    "titulo": "temor reverente",
+    "texto": "O temor pode ser por ter tocado alguém sendo impura, mas também é o temor diante da ação de Deus, como em 4:41 e 5:15. Tremō (“tremer”) é raro no NT."
+   }
+  ]
+ },
+ "Mrk.5.34": {
+  "t": "Ele lhe disse: “Filha, a sua fé a salvou. Vá em paz e fique curada do seu mal”.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "a salvou",
+    "termo": "σέσωκέν σε (sesōken se)",
+    "titulo": "sōzō no perfeito",
+    "texto": "O perfeito indica resultado permanente. Aqui “salvou”, e não só “curou”: a cura física já tinha acontecido (v. 29); o que Jesus acrescenta é a restauração da pessoa inteira e o reconhecimento público. Ver a nota em 5:23."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Filha",
+    "termo": "θυγάτηρ (thygatēr)",
+    "titulo": "nova pertença",
+    "texto": "É a única vez em Marcos que Jesus chama alguém de “filha”. A mulher excluída por doze anos é acolhida como da família, enquanto Jesus vai a caminho da casa de outra “filha” (v. 23)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Vá em paz",
+    "termo": "ὕπαγε εἰς εἰρήνην (hypage eis eirēnēn)",
+    "titulo": "despedida hebraica",
+    "texto": "Fórmula de despedida que traduz o hebraico lekhi leshalom (1Sm 1:17): mais que tranquilidade, desejo de shalom, bem-estar completo."
+   }
+  ]
+ },
+ "Mrk.5.35": {
+  "t": "Enquanto ele ainda falava, chegaram alguns da casa do chefe da sinagoga e disseram: “Sua filha morreu. Por que ainda incomodar o Mestre?”.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "da casa do chefe da sinagoga",
+    "termo": "ἀπὸ τοῦ ἀρχισυναγώγου (apo tou archisynagōgou)",
+    "titulo": "“da parte do chefe”",
+    "texto": "Lit. “do chefe da sinagoga”, isto é, da casa dele, já que Jairo estava com Jesus. Skyllō é “incomodar, importunar”."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Enquanto ele ainda falava",
+    "termo": "ἔτι αὐτοῦ λαλοῦντος",
+    "titulo": "a demora",
+    "texto": "A interrupção pela mulher (vv. 25-34) atrasou Jesus, e nesse intervalo a menina morreu. Os dois relatos se entrelaçam (ver a nota em 3:20): a fé da mulher prepara a fé que se pedirá a Jairo."
+   }
+  ]
+ },
+ "Mrk.5.36": {
+  "t": "Mas Jesus, sem dar atenção ao que diziam, disse ao chefe da sinagoga: “Não tenha medo; apenas continue crendo”.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "sem dar atenção ao que diziam",
+    "termo": "παρακούσας τὸν λόγον λαλούμενον",
+    "titulo": "parakouō: ouvir de passagem ou ignorar",
+    "texto": "Parakouō, raro no NT, pode ser “ouvir por acaso, entreouvir” ou “não dar ouvidos, desconsiderar” (assim em Mt 18:17, o único outro uso). As duas coisas se combinam: Jesus ouve a notícia, mas não aceita que ela seja a última palavra. A APV segue o sentido atestado no NT; “ouvindo o que diziam” também é defensável."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "apenas continue crendo",
+    "termo": "μόνον πίστευε (monon pisteue)",
+    "titulo": "imperativo presente",
+    "texto": "O imperativo presente indica ação contínua: “continue crendo”, não “comece a crer”. Jairo já tinha mostrado fé (v. 23); diante da morte, deve mantê-la. “Não tenha medo” também é presente: “pare de temer”."
+   }
+  ]
+ },
+ "Mrk.5.37": {
+  "t": "E não deixou que ninguém o acompanhasse, a não ser Pedro, Tiago e João, irmão de Tiago.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Pedro, Tiago e João",
+    "termo": "τὸν Πέτρον καὶ Ἰάκωβον καὶ Ἰωάννην",
+    "titulo": "o círculo íntimo",
+    "texto": "Os três estarão também na transfiguração (9:2) e no Getsêmani (14:33). Testemunham os momentos que revelam a identidade de Jesus de modo mais profundo. Synakoloutheō (“acompanhar”) é raro no NT."
+   }
+  ]
+ },
+ "Mrk.5.38": {
+  "t": "Chegaram à casa do chefe da sinagoga, e Jesus viu um alvoroço, gente chorando e lamentando em alta voz.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "lamentando em alta voz",
+    "termo": "ἀλαλάζοντας πολλά (alalazontas polla)",
+    "titulo": "o luto",
+    "texto": "Alalazō (raro no NT; também 1Co 13:1) imita o som do lamento agudo. No luto judaico, mesmo uma família modesta costumava contratar flautistas e carpideiras (Jr 9:17-18; Mt 9:23). O alvoroço indica que a morte já era fato público."
+   }
+  ]
+ },
+ "Mrk.5.39": {
+  "t": "Ele entrou e lhes disse: “Por que esse alvoroço e esse choro? A menina não morreu; está dormindo”.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "está dormindo",
+    "termo": "καθεύδει (katheudei)",
+    "titulo": "a morte como sono",
+    "texto": "Jesus não nega que a menina morreu, como mostra a reação dos presentes (v. 40). Fala da morte como sono do qual se desperta, imagem bíblica para a morte diante da ressurreição (Dn 12:2; Jo 11:11-14; 1Ts 4:13-14). Para Deus, e agora para Jesus, a morte dela é provisória."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "A menina",
+    "termo": "τὸ παιδίον (to paidion)",
+    "titulo": "paidion",
+    "texto": "Paidion é “criança”; no v. 41 aparece korasion, “menina, mocinha”. Diminutivos afetuosos."
+   }
+  ]
+ },
+ "Mrk.5.40": {
+  "t": "E riam dele. Mas ele, depois de pôr todos para fora, tomou consigo o pai e a mãe da menina e os que estavam com ele, e entrou onde a menina estava.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "riam dele",
+    "termo": "κατεγέλων αὐτοῦ (kategelōn autou)",
+    "titulo": "kategelaō, raro",
+    "texto": "“Ridicularizar, rir com desprezo”. Só aqui e nos paralelos (Mt 9:24; Lc 8:53). O riso mostra que todos sabiam que ela estava morta."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "depois de pôr todos para fora",
+    "termo": "ἐκβαλὼν πάντας (ekbalōn pantas)",
+    "titulo": "ekballō",
+    "texto": "O mesmo verbo de “expulsar” os demônios: Jesus põe para fora, com autoridade, os que zombam. O Textus Receptus e o Texto Bizantino acrescentam “deitada” no fim do versículo."
+   }
+  ]
+ },
+ "Mrk.5.41": {
+  "t": "Tomando a menina pela mão, disse-lhe: “Talitá cum!”, que quer dizer: “Menina, eu lhe digo, levante-se!”.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Talitá cum",
+    "termo": "ταλιθα κουμ (talitha koum)",
+    "titulo": "palavras em aramaico",
+    "texto": "Aramaico, a língua materna de Jesus: talyetha, “menina, cordeirinha”, e qum, “levanta-te”. Marcos conserva as palavras originais em momentos marcantes (7:34; 14:36; 15:34) e as traduz para leitores gregos. A explicação acrescenta “eu lhe digo”, que não está no aramaico, para pôr ênfase na autoridade de Jesus."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Talitá cum",
+    "termo": "κουμ / κοῦμι",
+    "titulo": "koum ou koumi",
+    "texto": "O texto crítico traz koum; o Textus Receptus e o Texto Bizantino, koumi, que é a forma aramaica feminina mais correta. Mas na fala corrente da Galileia a forma masculina parece ter sido usada para os dois gêneros; a forma koumi pode ser correção de copistas. Sem efeito no sentido."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Tomando a menina pela mão",
+    "termo": "κρατήσας τῆς χειρὸς τοῦ παιδίου",
+    "titulo": "tocar a morta",
+    "texto": "Tocar um cadáver tornava impuro (Nm 19:11). Como com o leproso (1:41) e a mulher (5:27), a impureza não contamina Jesus; é a vida dele que passa adiante. O gesto repete o da sogra de Simão (1:31)."
+   }
+  ]
+ },
+ "Mrk.5.42": {
+  "t": "Imediatamente a menina se levantou e começou a andar, pois tinha doze anos. E eles ficaram tomados de grande espanto.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "se levantou",
+    "termo": "ἀνέστη (anestē)",
+    "titulo": "anistēmi",
+    "texto": "Anistēmi é o verbo de “ressuscitar” usado nas predições da ressurreição de Jesus (8:31; 9:31; 10:34). A volta da menina à vida é sinal antecipado da ressurreição, embora ela venha a morrer de novo."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "pois tinha doze anos",
+    "termo": "ἦν γὰρ ἐτῶν δώδεκα",
+    "titulo": "explicação",
+    "texto": "A observação explica por que ela andava: não era uma criança pequena. Lembra também os doze anos de doença da mulher (v. 25): uma viveu doze anos excluída, a outra estava à beira de se tornar adulta."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "ficaram tomados de grande espanto",
+    "termo": "ἐξέστησαν ... ἐκστάσει μεγάλῃ",
+    "titulo": "acusativo cognato",
+    "texto": "Lit. “ficaram fora de si com grande êxtase”: verbo e substantivo da mesma raiz para reforçar, como em 4:41. “Eles” são os pais e os três discípulos."
+   }
+  ]
+ },
+ "Mrk.5.43": {
+  "t": "Ele lhes ordenou severamente que ninguém soubesse disso, e mandou que dessem de comer à menina.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "que ninguém soubesse disso",
+    "termo": "ἵνα μηδεὶς γνοῖ τοῦτο",
+    "titulo": "o segredo",
+    "texto": "Ordem de silêncio difícil de cumprir, já que todos sabiam que ela estava morta. Ver a nota em 1:34 sobre o “segredo messiânico”. Em contraste com 5:19, aqui Jesus está em território judaico."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "que dessem de comer à menina",
+    "termo": "δοθῆναι αὐτῇ φαγεῖν",
+    "titulo": "a vida concreta",
+    "texto": "O detalhe prático mostra o cuidado de Jesus e confirma que a menina voltou à vida corporal comum (cf. Lc 24:41-43)."
    }
   ]
  }

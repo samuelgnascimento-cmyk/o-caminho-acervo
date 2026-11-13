@@ -2530,5 +2530,593 @@
     "texto": "Lit. “este, de novo, segundo sinal”: expressão redundante que liga este sinal ao primeiro, também em Caná (2:11). Não significa que Jesus só tenha feito dois sinais até então (cf. 2:23; 3:2), mas que este é o segundo feito em Caná, ao voltar da Judeia."
    }
   ]
+ },
+ "Jhn.5.1": {
+  "t": "Depois disso, houve uma festa dos judeus, e Jesus subiu a Jerusalém.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "uma festa dos judeus",
+    "termo": "ἑορτὴ τῶν Ἰουδαίων (heortē tōn Ioudaiōn)",
+    "titulo": "“uma festa” ou “a festa”",
+    "texto": "O texto crítico traz heortē sem artigo (“uma festa”); o Texto Bizantino traz o artigo (“a festa”), o que apontaria para a festa principal, a Páscoa ou a dos Tabernáculos. João não diz qual festa era, e as propostas (Páscoa, Pentecostes, Tabernáculos, Purim) são conjecturas. O que importa no relato é que era sábado (v. 9)."
+   }
+  ]
+ },
+ "Jhn.5.2": {
+  "t": "Há em Jerusalém, junto à porta das Ovelhas, um tanque chamado em hebraico Betesda, que tem cinco pórticos.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "junto à porta das Ovelhas",
+    "termo": "ἐπὶ τῇ προβατικῇ (epi tē probatikē)",
+    "titulo": "probatikos, hápax",
+    "texto": "O grego diz só “junto à das ovelhas”: o adjetivo pede um substantivo implícito. O mais provável é “porta” (a porta das Ovelhas de Ne 3:1, 32; 12:39, ao norte do templo). Outros ligam o adjetivo a “tanque” (“o tanque das ovelhas”)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Betesda",
+    "termo": "Βηθεσδά (Bēthesda)",
+    "titulo": "Betesda, Betzata ou Betsaida",
+    "texto": "O nome varia nos manuscritos. O SBLGNT e o Textus Receptus trazem Bēthesda (“casa da misericórdia”, em aramaico, segundo a explicação comum). NA28, NA27 e Westcott-Hort trazem Bēthzatha (nome de um bairro ao norte do templo, segundo Flávio Josefo). Outros manuscritos antigos trazem Bēthsaida, talvez por confusão com a cidade da Galileia. A forma Betesda é a mais conhecida em português.",
+    "revisar": true
+   },
+   {
+    "tipo": "sn",
+    "ancora": "cinco pórticos",
+    "termo": "πέντε στοὰς ἔχουσα",
+    "titulo": "o lugar",
+    "texto": "Escavações junto à igreja de Santa Ana, em Jerusalém, revelaram dois grandes tanques separados por um muro, o que permite imaginar quatro pórticos ao redor e um quinto no meio. “Em hebraico” (Hebraisti) designa aqui, provavelmente, o aramaico falado na Judeia. O verbo no presente (“há”) não prova que o Evangelho foi escrito antes da destruição de Jerusalém em 70 d.C.; pode ser presente narrativo. Kolymbēthra (“tanque”) só aparece em João (aqui, v. 7; 9:7)."
+   }
+  ]
+ },
+ "Jhn.5.3": {
+  "t": "Nesses pórticos ficava deitada uma multidão de doentes: cegos, coxos e paralíticos, ⟦que esperavam o movimento da água⟧.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "paralíticos",
+    "termo": "ξηρῶν (xērōn)",
+    "titulo": "xēros",
+    "texto": "Lit. “secos, ressecados”: pessoas com membros atrofiados ou paralisados (cf. Mc 3:1, a “mão seca”)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "⟦que esperavam o movimento da água⟧",
+    "termo": "ἐκδεχομένων τὴν τοῦ ὕδατος κίνησιν",
+    "titulo": "acréscimo dos vv. 3b-4",
+    "texto": "Estas palavras e o v. 4 não estão no texto crítico. Ver a nota no v. 4."
+   }
+  ]
+ },
+ "Jhn.5.4": {
+  "t": "⟦Pois um anjo descia de tempos em tempos ao tanque e agitava a água; e o primeiro que entrava depois da agitação da água ficava curado de qualquer doença que tivesse.⟧",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "⟦Pois um anjo descia",
+    "termo": "ἄγγελος γὰρ κατὰ καιρὸν κατέβαινεν",
+    "titulo": "versículo ausente dos manuscritos mais antigos",
+    "texto": "Os vv. 3b-4 (“que esperavam o movimento da água” e todo o v. 4) não estão no SBLGNT nem nas demais edições críticas, e por isso a APV os põe entre colchetes duplos. Faltam nos manuscritos gregos mais antigos (entre eles 𝔓66, 𝔓75, ℵ e B) e em versões antigas. Aparecem no Textus Receptus e no Texto Bizantino, e daí na ARC. Há sinais de acréscimo: alguns manuscritos trazem o v. 3b sem o v. 4, outros o v. 4 sem o 3b; vários que trazem o v. 4 o marcam com sinais de dúvida; o texto circula em formas diferentes; e várias palavras dele não aparecem em nenhum outro lugar de João. A explicação mais provável é que uma nota antiga, que explicava a queixa do doente no v. 7 com uma crença popular sobre o tanque, foi incorporada ao texto por copistas. A história já era conhecida por Tertuliano no fim do século II (Metzger). O relato não depende desse versículo: o v. 7 mostra o que o doente acreditava, e Jesus o cura sem a água."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "anjo",
+    "termo": "ἄγγελος (angelos)",
+    "titulo": "a crença sobre o tanque",
+    "texto": "A nota reflete uma crença popular: a agitação periódica da água (talvez de uma fonte intermitente) era atribuída a um anjo, e só o primeiro a entrar seria curado. O Evangelho não endossa a crença; mostra Jesus curando por sua palavra quem não conseguia chegar à água."
+   }
+  ]
+ },
+ "Jhn.5.5": {
+  "t": "Estava ali um homem que estava doente havia trinta e oito anos.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "trinta e oito anos",
+    "termo": "τριάκοντα ὀκτὼ ἔτη",
+    "titulo": "o tempo da doença",
+    "texto": "O número ressalta a gravidade e a duração da doença. Alguns lembram que Israel vagou trinta e oito anos no deserto até a geração incrédula morrer (Dt 2:14), mas João não faz essa ligação. O Textus Receptus e o Texto Bizantino omitem autou (“sua doença”), sem efeito no sentido."
+   }
+  ]
+ },
+ "Jhn.5.6": {
+  "t": "Jesus, vendo-o deitado e sabendo que estava assim havia muito tempo, perguntou-lhe: “Você quer ficar curado?”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "ficar curado",
+    "termo": "ὑγιὴς γενέσθαι (hygiēs genesthai)",
+    "titulo": "hygiēs",
+    "texto": "Lit. “tornar-se são”. A palavra se repete no capítulo (vv. 9, 11, 14, 15; 7:23). A pergunta de Jesus não é óbvia: desperta no homem a esperança que ele talvez já tivesse perdido."
+   }
+  ]
+ },
+ "Jhn.5.7": {
+  "t": "O doente lhe respondeu: “Senhor, não tenho ninguém que me ponha no tanque quando a água é agitada; e, enquanto eu vou, outro desce antes de mim.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Senhor",
+    "termo": "κύριε (kyrie)",
+    "titulo": "kyrie",
+    "texto": "Tratamento de cortesia (ver 4:11). O homem não responde à pergunta; explica por que não consegue ser curado do único modo que conhece."
+   }
+  ]
+ },
+ "Jhn.5.8": {
+  "t": "Jesus lhe disse: “Levante-se, pegue a sua maca e ande.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "maca",
+    "termo": "κράβαττον (krabatton)",
+    "titulo": "krabattos",
+    "texto": "Uma esteira ou leito leve de pobre, que se podia enrolar e carregar. As mesmas palavras aparecem na cura do paralítico em Mc 2:11. O Textus Receptus e o Texto Bizantino trazem egeirai, outra grafia de “levante-se”."
+   }
+  ]
+ },
+ "Jhn.5.9": {
+  "t": "Imediatamente o homem ficou curado, pegou a sua maca e começou a andar. Ora, aquele dia era sábado.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "aquele dia era sábado",
+    "termo": "ἦν δὲ σάββατον",
+    "titulo": "o sábado",
+    "texto": "A informação, dada só no fim, muda o rumo do relato: a cura passa a ser controvérsia. O sábado, o sétimo dia, era dia de descanso segundo a lei (Êx 20:8-11), e sua observância era sinal da aliança e da identidade judaica. Em João, a cura do cego também ocorre num sábado (9:14)."
+   }
+  ]
+ },
+ "Jhn.5.10": {
+  "t": "Por isso os judeus diziam ao homem que tinha sido curado: “É sábado, e não lhe é permitido carregar a maca.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "não lhe é permitido carregar a maca",
+    "termo": "οὐκ ἔξεστίν σοι ἆραι τὸν κράβαττον",
+    "titulo": "carregar no sábado",
+    "texto": "Jr 17:21-22 proíbe carregar cargas no sábado. A Mishná (Shabbat 7:2) inclui entre os 39 trabalhos proibidos o de levar um objeto de um domínio para outro. “Os judeus” aqui são as autoridades (ver 1:19). NA28 e NA27 trazem sou (“a sua maca”); sem efeito no sentido."
+   }
+  ]
+ },
+ "Jhn.5.11": {
+  "t": "Ele, porém, lhes respondeu: “Aquele que me curou foi quem me disse: ‘Pegue a sua maca e ande.’”",
+  "n": []
+ },
+ "Jhn.5.12": {
+  "t": "Eles lhe perguntaram: “Quem é esse homem que lhe disse: ‘Pegue e ande’?”",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "Pegue e ande",
+    "termo": "ἆρον καὶ περιπάτει",
+    "titulo": "acréscimo",
+    "texto": "Tregelles, o Textus Receptus e o Texto Bizantino acrescentam ton krabatton sou (“a sua maca”), como no v. 11. A forma breve do texto crítico não muda o sentido. Note-se que as autoridades não perguntam quem o curou, mas quem mandou carregar a maca."
+   }
+  ]
+ },
+ "Jhn.5.13": {
+  "t": "Mas o que tinha sido curado não sabia quem era, pois Jesus tinha se retirado, por haver muita gente naquele lugar.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "tinha se retirado",
+    "termo": "ἐξένευσεν (exeneusen)",
+    "titulo": "ekneuō, hápax",
+    "texto": "Lit. “desviou-se, esquivou-se”: saiu sem ser notado, aproveitando a multidão."
+   }
+  ]
+ },
+ "Jhn.5.14": {
+  "t": "Depois disso, Jesus o encontrou no templo e lhe disse: “Veja, você ficou curado. Não peque mais, para que não lhe aconteça algo pior.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Não peque mais",
+    "termo": "μηκέτι ἁμάρτανε (mēketi hamartane)",
+    "titulo": "pecado e doença",
+    "texto": "O texto não diz que a doença era castigo de um pecado específico, e em 9:2-3 Jesus nega que toda doença seja consequência direta de pecado. Mas também não exclui a ligação. “Algo pior” que trinta e oito anos de doença aponta provavelmente para o julgamento de Deus (vv. 24, 29). A mesma ordem aparece em 8:11."
+   }
+  ]
+ },
+ "Jhn.5.15": {
+  "t": "O homem foi embora e contou aos judeus que fora Jesus quem o tinha curado.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "contou aos judeus",
+    "termo": "ἀνήγγειλεν τοῖς Ἰουδαίοις",
+    "titulo": "por que contou?",
+    "texto": "O texto não dá o motivo. Pode ter sido ingenuidade, desejo de se livrar da acusação (v. 10) ou até intenção de testemunhar. O contraste com o cego de nascença, que enfrenta as autoridades (cap. 9), sugere a muitos uma leitura negativa, mas o texto não a afirma."
+   }
+  ]
+ },
+ "Jhn.5.16": {
+  "t": "Por isso os judeus perseguiam Jesus, porque ele fazia essas coisas no sábado.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "fazia",
+    "termo": "ἐποίει (epoiei)",
+    "titulo": "imperfeito",
+    "texto": "O imperfeito pode indicar ação repetida: Jesus costumava fazer essas coisas no sábado. “Perseguiam” também está no imperfeito: começa uma hostilidade contínua."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "perseguiam Jesus",
+    "termo": "ἐδίωκον ... τὸν Ἰησοῦν",
+    "titulo": "acréscimo do TR",
+    "texto": "O Textus Receptus e o Texto Bizantino acrescentam “e procuravam matá-lo”, que antecipa o v. 18. Os manuscritos mais antigos não trazem."
+   }
+  ]
+ },
+ "Jhn.5.17": {
+  "t": "Ele, porém, lhes respondeu: “Meu Pai trabalha até agora, e eu também trabalho.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Meu Pai trabalha até agora",
+    "termo": "ὁ πατήρ μου ἕως ἄρτι ἐργάζεται",
+    "titulo": "Deus trabalha no sábado",
+    "texto": "Gn 2:2-3 diz que Deus descansou no sétimo dia. Mas pensadores judeus, como Fílon de Alexandria e mestres rabínicos posteriores, observaram que Deus nunca deixa de agir: continua sustentando o mundo, dando vida e julgando, mesmo no sábado. Jesus reivindica para si o mesmo direito de agir que só Deus tem. NA28, NA27, Tregelles, o Textus Receptus e o Texto Bizantino trazem Iēsous como sujeito; sem efeito no sentido."
+   }
+  ]
+ },
+ "Jhn.5.18": {
+  "t": "Por isso os judeus procuravam ainda mais matá-lo, porque não somente violava o sábado, mas também chamava Deus de seu próprio Pai, fazendo-se igual a Deus.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "violava",
+    "termo": "ἔλυεν (elyen)",
+    "titulo": "lyō",
+    "texto": "Lit. “soltava, desfazia”: anulava a obrigação do sábado. É a perspectiva dos adversários, contada pelo evangelista."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "fazendo-se igual a Deus",
+    "termo": "ἴσον ἑαυτὸν ποιῶν τῷ θεῷ",
+    "titulo": "igual a Deus",
+    "texto": "Os adversários entenderam bem o alcance das palavras de Jesus: chamar Deus de “meu Pai” desse modo era reivindicar igualdade com ele. O evangelista não corrige essa conclusão (cf. 1:1; 10:30-33; 20:28). O que Jesus corrige nos vv. 19-30 é a ideia de que ele estaria se pondo como rival de Deus, independente do Pai: o Filho é igual ao Pai e age sempre em unidade com ele."
+   }
+  ]
+ },
+ "Jhn.5.19": {
+  "t": "Então Jesus lhes respondeu: “Em verdade, em verdade lhes digo: o Filho não pode fazer nada por si mesmo, a não ser o que vê o Pai fazer; pois o que o Pai faz, o Filho também faz igualmente.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "o Filho não pode fazer nada por si mesmo",
+    "termo": "οὐ δύναται ὁ υἱὸς ποιεῖν ἀφ᾽ ἑαυτοῦ οὐδέν",
+    "titulo": "unidade de ação",
+    "texto": "Não é confissão de inferioridade, mas de unidade: o Filho nunca age separado do Pai. E o que o Pai faz, o Filho faz “igualmente” (homoiōs), isto é, todas as obras de Deus, como dar vida e julgar (vv. 21-22). A teologia cristã antiga (Agostinho, entre outros) viu aqui a base da doutrina de que as obras da Trindade são inseparáveis. A ordem (o Pai mostra, o Filho faz) expressa a relação entre Pai e Filho, não diferença de natureza."
+   }
+  ]
+ },
+ "Jhn.5.20": {
+  "t": "Pois o Pai ama o Filho e lhe mostra tudo o que ele mesmo faz; e lhe mostrará obras maiores do que estas, para que vocês fiquem admirados.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "ama",
+    "termo": "φιλεῖ (philei)",
+    "titulo": "phileō e agapaō",
+    "texto": "Aqui o verbo é phileō; em 3:35, na mesma frase, é agapaō. Em João os dois verbos são usados como sinônimos (cf. 11:3, 5; 21:15-17), e a diferença não deve ser forçada."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "obras maiores do que estas",
+    "termo": "μείζονα τούτων ... ἔργα",
+    "titulo": "quais obras?",
+    "texto": "Maiores que curar um paralítico: dar vida aos mortos e julgar (vv. 21-29). A ressurreição de Lázaro (cap. 11) será um sinal disso."
+   }
+  ]
+ },
+ "Jhn.5.21": {
+  "t": "Pois, assim como o Pai ressuscita os mortos e lhes dá vida, assim também o Filho dá vida a quem ele quer.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "o Pai ressuscita os mortos",
+    "termo": "ὁ πατὴρ ἐγείρει τοὺς νεκρούς",
+    "titulo": "prerrogativa de Deus",
+    "texto": "No AT, dar vida e ressuscitar é ação exclusiva de Deus (Dt 32:39; 1Sm 2:6; 2Rs 5:7). Ao atribuir ao Filho a mesma ação, “a quem ele quer”, Jesus reivindica uma prerrogativa divina."
+   }
+  ]
+ },
+ "Jhn.5.22": {
+  "t": "E o Pai não julga ninguém, mas confiou todo o julgamento ao Filho,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "confiou",
+    "termo": "δέδωκεν (dedōken)",
+    "titulo": "“deu”",
+    "texto": "Lit. “deu”. O perfeito indica uma entrega feita e permanente. Não contradiz 3:17: o Filho veio para salvar, mas quem o rejeita encontra nele o juiz."
+   }
+  ]
+ },
+ "Jhn.5.23": {
+  "t": "para que todos honrem o Filho como honram o Pai. Quem não honra o Filho não honra o Pai que o enviou.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "honrem o Filho como honram o Pai",
+    "termo": "τιμῶσιν τὸν υἱὸν καθὼς τιμῶσιν τὸν πατέρα",
+    "titulo": "a mesma honra",
+    "texto": "Deus não dá a sua glória a outro (Is 42:8; 48:11). Pedir para o Filho a mesma honra devida ao Pai só faz sentido se o Filho participa da divindade do Pai. É impossível honrar o Pai rejeitando o Filho."
+   }
+  ]
+ },
+ "Jhn.5.24": {
+  "t": "Em verdade, em verdade lhes digo: quem ouve a minha palavra e crê naquele que me enviou tem vida eterna e não vai a julgamento, mas já passou da morte para a vida.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "não vai a julgamento",
+    "termo": "εἰς κρίσιν οὐκ ἔρχεται (eis krisin ouk erchetai)",
+    "titulo": "krisis",
+    "texto": "Lit. “não vem para julgamento”. Krisis aqui é o julgamento que condena (como em 3:18-19; 5:29). Quem crê não será condenado; isso não exclui que todos compareçam diante de Cristo (2Co 5:10)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "já passou da morte para a vida",
+    "termo": "μεταβέβηκεν ἐκ τοῦ θανάτου εἰς τὴν ζωήν",
+    "titulo": "o perfeito",
+    "texto": "O perfeito metabebēken descreve uma passagem já realizada e que permanece: a vida eterna começa agora (1Jo 3:14)."
+   }
+  ]
+ },
+ "Jhn.5.25": {
+  "t": "Em verdade, em verdade lhes digo: vem a hora, e já chegou, em que os mortos ouvirão a voz do Filho de Deus, e os que a ouvirem viverão.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "os mortos ouvirão",
+    "termo": "οἱ νεκροὶ ἀκούσουσιν",
+    "titulo": "que mortos?",
+    "texto": "Com “e já chegou”, os “mortos” aqui são os espiritualmente mortos, que recebem vida ao ouvir a voz do Filho (v. 24; Ef 2:1-5). Os vv. 28-29 falam da ressurreição física no último dia, “nos túmulos”, sem “e já chegou”. João mantém juntos o presente e o futuro da salvação."
+   }
+  ]
+ },
+ "Jhn.5.26": {
+  "t": "Pois, assim como o Pai tem vida em si mesmo, assim também concedeu ao Filho ter vida em si mesmo,",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "concedeu ao Filho ter vida em si mesmo",
+    "termo": "τῷ υἱῷ ἔδωκεν ζωὴν ἔχειν ἐν ἑαυτῷ",
+    "titulo": "vida em si mesmo",
+    "texto": "Ter “vida em si mesmo” é próprio de Deus, que não a recebe de ninguém (cf. 1:4). Que o Pai a “conceda” ao Filho foi lido de dois modos: pela tradição de Agostinho, como a geração eterna, em que o Pai comunica ao Filho, desde sempre, toda a sua natureza; por outros, como o que foi dado ao Filho encarnado para a sua missão. A primeira leitura é a da teologia nicena. Em nenhuma delas o Filho é criatura."
+   }
+  ]
+ },
+ "Jhn.5.27": {
+  "t": "e lhe deu autoridade para julgar, porque ele é Filho do Homem.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Filho do Homem",
+    "termo": "υἱὸς ἀνθρώπου (huios anthrōpou)",
+    "titulo": "sem artigo",
+    "texto": "Única vez nos Evangelhos em que a expressão aparece sem artigo, exatamente como em Dn 7:13 (LXX), onde “um como filho de homem” recebe domínio e juízo. Alguns entendem “porque é humano”: o juiz conhece por dentro a condição humana. Mas o eco de Daniel, onde o Filho do Homem recebe autoridade, é mais provável (ver nota em 1:51)."
+   }
+  ]
+ },
+ "Jhn.5.28": {
+  "t": "Não fiquem admirados com isto, porque vem a hora em que todos os que estão nos túmulos ouvirão a sua voz",
+  "n": []
+ },
+ "Jhn.5.29": {
+  "t": "e sairão: os que fizeram o bem, para a ressurreição da vida; e os que praticaram o mal, para a ressurreição da condenação.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "ressurreição da vida",
+    "termo": "ἀνάστασιν ζωῆς ... ἀνάστασιν κρίσεως",
+    "titulo": "Daniel 12:2",
+    "texto": "Eco de Dn 12:2: “muitos dos que dormem no pó da terra ressuscitarão, uns para a vida eterna, outros para a vergonha e o desprezo eterno”. A ressurreição será de todos, justos e injustos (At 24:15). “Condenação” traduz krisis, lit. “ressurreição de julgamento”; o contraste com “vida” mostra que é o julgamento que condena (cf. v. 24)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "os que fizeram o bem",
+    "termo": "οἱ τὰ ἀγαθὰ ποιήσαντες",
+    "titulo": "obras e fé",
+    "texto": "O julgamento é segundo as obras (Rm 2:6-8; Ap 20:12), mas em João a obra que Deus pede é crer naquele que ele enviou (6:29), e quem crê não vai a julgamento (v. 24). As obras manifestam se a pessoa veio à luz (3:20-21). “O mal” traduz phaula, como em 3:20."
+   }
+  ]
+ },
+ "Jhn.5.30": {
+  "t": "Eu não posso fazer nada por mim mesmo. Julgo conforme ouço, e o meu julgamento é justo, porque não busco a minha vontade, mas a vontade daquele que me enviou.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "daquele que me enviou",
+    "termo": "τοῦ πέμψαντός με (+ πατρός)",
+    "titulo": "acréscimo de “Pai”",
+    "texto": "O Textus Receptus e o Texto Bizantino acrescentam patros (“do Pai que me enviou”). Sem efeito no sentido."
+   }
+  ]
+ },
+ "Jhn.5.31": {
+  "t": "Se eu testemunho a respeito de mim mesmo, o meu testemunho não é válido.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "não é válido",
+    "termo": "οὐκ ἔστιν ἀληθής (ouk estin alēthēs)",
+    "titulo": "alēthēs: “verdadeiro” e “válido”",
+    "texto": "Lit. “não é verdadeiro”. Em contexto jurídico, “verdadeiro” é “válido, admissível”: pela lei, ninguém podia ser condenado nem sustentar uma causa com uma só testemunha (Dt 19:15). Jesus aceita a regra e apresenta outras testemunhas: João, as obras, o Pai, as Escrituras (vv. 32-47). Em 8:14 ele dirá que o seu testemunho é verdadeiro, no sentido de corresponder à realidade."
+   }
+  ]
+ },
+ "Jhn.5.32": {
+  "t": "Há outro que testemunha a respeito de mim, e sei que é verdadeiro o testemunho que ele dá a meu respeito.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Há outro",
+    "termo": "ἄλλος ἐστὶν (allos estin)",
+    "titulo": "quem é o outro?",
+    "texto": "Não é João Batista (v. 34), mas o Pai (v. 37)."
+   }
+  ]
+ },
+ "Jhn.5.33": {
+  "t": "Vocês enviaram mensageiros a João, e ele deu testemunho da verdade.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "enviaram mensageiros",
+    "termo": "ἀπεστάλκατε (apestalkate)",
+    "titulo": "“enviaram”",
+    "texto": "Lit. “vocês enviaram a João”. Refere-se à delegação de 1:19-28. “Mensageiros” completa o verbo em português."
+   }
+  ]
+ },
+ "Jhn.5.34": {
+  "t": "Eu, porém, não aceito testemunho de homem; mas digo isto para que vocês sejam salvos.",
+  "n": []
+ },
+ "Jhn.5.35": {
+  "t": "Ele era a lâmpada que ardia e iluminava, e vocês quiseram, por algum tempo, alegrar-se com a sua luz.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "a lâmpada",
+    "termo": "ὁ λύχνος (ho lychnos)",
+    "titulo": "lychnos e phōs",
+    "texto": "Lychnos é a lamparina de óleo, que ilumina mas não é a fonte da luz. João não era “a luz” (phōs, 1:8); era a lâmpada que a anunciava. Talvez eco do Sl 132:17: “preparei uma lâmpada para o meu ungido”. O passado (“era”) sugere que João já estava preso ou morto."
+   }
+  ]
+ },
+ "Jhn.5.36": {
+  "t": "Mas eu tenho um testemunho maior que o de João: as obras que o Pai me deu para realizar, essas mesmas obras que eu faço, testemunham a meu respeito que o Pai me enviou.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "as obras",
+    "termo": "τὰ ἔργα (ta erga)",
+    "titulo": "as obras como testemunho",
+    "texto": "Os sinais e todo o ministério de Jesus, que o Pai lhe deu para “realizar plenamente” (teleiōsō, como em 4:34). Não são prova mecânica, mas testemunho para quem está disposto a ver (10:25, 37-38; 14:11)."
+   }
+  ]
+ },
+ "Jhn.5.37": {
+  "t": "E o Pai, que me enviou, ele mesmo deu testemunho a meu respeito. Vocês nunca ouviram a sua voz, nem viram a sua forma,",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Vocês nunca ouviram a sua voz",
+    "termo": "οὔτε φωνὴν αὐτοῦ πώποτε ἀκηκόατε",
+    "titulo": "voz e forma",
+    "texto": "Contraste com o Sinai, onde Israel ouviu a voz de Deus sem ver forma alguma (Dt 4:12, 15). Os adversários não ouvem a voz do Pai, que fala agora no Filho. O testemunho do Pai pode ser o que ele dá por meio das Escrituras (v. 39), das obras (v. 36) ou no interior de quem crê (1Jo 5:9-10)."
+   }
+  ]
+ },
+ "Jhn.5.38": {
+  "t": "e a sua palavra não permanece em vocês, porque não creem naquele que ele enviou.",
+  "n": []
+ },
+ "Jhn.5.39": {
+  "t": "Vocês examinam as Escrituras, porque pensam ter nelas a vida eterna; e são elas que testemunham a meu respeito.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Vocês examinam",
+    "termo": "ἐραυνᾶτε (eraunate)",
+    "titulo": "indicativo ou imperativo",
+    "texto": "A forma pode ser indicativo (“vocês examinam”) ou imperativo (“examinem”, como na ARC: “Examinais as Escrituras”, ou na tradição inglesa “Search the scriptures”). O contexto favorece o indicativo: Jesus descreve o que eles já fazem com zelo, sem perceber o centro das Escrituras."
+   }
+  ]
+ },
+ "Jhn.5.40": {
+  "t": "Mas vocês não querem vir a mim para ter vida.",
+  "n": []
+ },
+ "Jhn.5.41": {
+  "t": "Eu não aceito glória que vem dos homens;",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "glória",
+    "termo": "δόξαν (doxan)",
+    "titulo": "doxa",
+    "texto": "Doxa é “glória”, mas também “honra, reputação, aprovação”. Jesus não busca a aprovação humana; os adversários vivem dela (v. 44). Mantido “glória” para guardar a ligação com 1:14 e 2:11."
+   }
+  ]
+ },
+ "Jhn.5.42": {
+  "t": "mas eu conheço vocês: sei que não têm em si o amor de Deus.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "o amor de Deus",
+    "termo": "τὴν ἀγάπην τοῦ θεοῦ (tēn agapēn tou theou)",
+    "titulo": "genitivo",
+    "texto": "Pode ser o amor que eles deveriam ter por Deus (genitivo objetivo; cf. Dt 6:5) ou o amor que vem de Deus e habita no crente (subjetivo). O primeiro é o mais provável aqui, mas os dois estão ligados (1Jo 4:7-12)."
+   }
+  ]
+ },
+ "Jhn.5.43": {
+  "t": "Eu vim em nome de meu Pai, e vocês não me recebem; se outro vier em seu próprio nome, a esse vocês receberão.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "se outro vier em seu próprio nome",
+    "termo": "ἐὰν ἄλλος ἔλθῃ ἐν τῷ ὀνόματι τῷ ἰδίῳ",
+    "titulo": "falsos messias",
+    "texto": "Afirmação geral sobre falsos líderes e falsos messias, que buscam a própria glória (Mt 24:5, 24). Na história judaica houve vários; o mais conhecido foi Simão bar Kokhba, aclamado como messias na revolta de 132-135 d.C."
+   }
+  ]
+ },
+ "Jhn.5.44": {
+  "t": "Como vocês podem crer, se aceitam glória uns dos outros e não buscam a glória que vem do único Deus?",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "do único Deus",
+    "termo": "παρὰ τοῦ μόνου θεοῦ",
+    "titulo": "o Deus único",
+    "texto": "Eco do Shemá (Dt 6:4): “o SENHOR é um só”. Alguns manuscritos antigos omitem theou (“do Único”), mas o sentido é o mesmo. Quem vive da aprovação humana não consegue crer, porque crer é receber a aprovação de Deus."
+   }
+  ]
+ },
+ "Jhn.5.45": {
+  "t": "Não pensem que eu os acusarei diante do Pai; quem os acusa é Moisés, em quem vocês têm posto a sua esperança.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "quem os acusa é Moisés",
+    "termo": "ἔστιν ὁ κατηγορῶν ὑμῶν Μωϋσῆς",
+    "titulo": "Moisés como acusador",
+    "texto": "Moisés era visto como o grande intercessor de Israel (Êx 32:11-14). Jesus inverte a ideia: a lei de Moisés, em que eles confiam, testemunha contra eles, porque aponta para ele e é rejeitada junto com ele."
+   }
+  ]
+ },
+ "Jhn.5.46": {
+  "t": "Pois, se vocês cressem em Moisés, creriam em mim, porque foi a meu respeito que ele escreveu.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "a meu respeito que ele escreveu",
+    "termo": "περὶ γὰρ ἐμοῦ ἐκεῖνος ἔγραψεν",
+    "titulo": "Moisés e Cristo",
+    "texto": "Pode referir-se à promessa do profeta como Moisés (Dt 18:15-18) e, de modo mais amplo, a todo o Pentateuco como testemunho de Cristo (Lc 24:27, 44)."
+   }
+  ]
+ },
+ "Jhn.5.47": {
+  "t": "Mas, se vocês não creem nos escritos dele, como crerão nas minhas palavras?”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "escritos dele",
+    "termo": "γράμμασιν ... ῥήμασιν (grammasin ... rhēmasin)",
+    "titulo": "escrito e falado",
+    "texto": "Contraste entre a palavra escrita de Moisés, que eles reverenciavam, e a palavra falada de Jesus. Se não creem naquilo que dizem honrar, não crerão no que ouvem dele."
+   }
+  ]
  }
 }

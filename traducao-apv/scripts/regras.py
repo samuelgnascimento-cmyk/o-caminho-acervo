@@ -4,7 +4,7 @@ NT: SBL Greek New Testament (palavras marcadas SBL no TAGNT); se o versículo n�
 import re
 
 def eds(s):
-    return [re.sub(r'[»(].*', '', e) for e in s.split('+') if e]
+    return [re.sub(r'[«»(].*', '', e) for e in s.split('+') if e]
 
 VAR_RE = re.compile(r'(\S+) \((?:[a-z]=)?([^)]*)\).*? - ([GH]\d+[A-Za-z]?)=(\S+) in: (\S+)')
 

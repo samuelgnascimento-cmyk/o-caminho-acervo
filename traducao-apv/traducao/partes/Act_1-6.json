@@ -2001,7 +2001,7 @@
   ]
  },
  "Act.3.25": {
-  "t": "Vocês são os filhos dos profetas e da aliança que Deus fez com os pais de vocês, quando disse a Abraão: ‘Na tua descendência serão abençoadas todas as famílias da terra.’",
+  "t": "Vocês são os filhos dos profetas e da aliança que Deus fez com os pais de vocês, quando disse a Abraão: ‘Na sua descendência serão abençoadas todas as famílias da terra.’",
   "n": [
    {
     "tipo": "tn",
@@ -2012,10 +2012,10 @@
    },
    {
     "tipo": "sn",
-    "ancora": "Na tua descendência serão abençoadas todas as famílias da terra",
+    "ancora": "Na sua descendência serão abençoadas todas as famílias da terra",
     "termo": "ἐν τῷ σπέρματί σου ἐνευλογηθήσονται πᾶσαι αἱ πατριαὶ τῆς γῆς",
     "titulo": "Gn 22:18; 12:3",
-    "texto": "Combinação de Gn 22:18 e 12:3. A Septuaginta tem “nações” ou “tribos”; Pedro usa patriai, “famílias”. “Descendência” traduz sperma (“semente”), singular coletivo. O v. 26 sugere que a bênção vem por um descendente, Jesus, leitura que Paulo desenvolve em Gl 3:8, 16. Na fala de Deus a Abraão, a APV usa “tu”."
+    "texto": "Combinação de Gn 22:18 e 12:3. A Septuaginta tem “nações” ou “tribos”; Pedro usa patriai, “famílias”. “Descendência” traduz sperma (“semente”), singular coletivo. O v. 26 sugere que a bênção vem por um descendente, Jesus, leitura que Paulo desenvolve em Gl 3:8, 16. Na fala de Deus a Abraão, a APV usa “você”, conforme a regra do projeto para Deus falando a pessoas."
    }
   ]
  },
@@ -2641,6 +2641,990 @@
     "termo": "ὑπάρχοντος αὐτῷ ἀγροῦ (hyparchontos autō agrou)",
     "titulo": "um levita com terras",
     "texto": "A Lei dizia que os levitas não teriam herança de terra como as outras tribos (Nm 18:20; Dt 10:9), mas já no tempo de Jeremias um sacerdote podia comprar um campo (Jr 32:6-15). O campo podia estar em Chipre ou na Judeia. O exemplo positivo de Barnabé prepara o contraste com Ananias e Safira (5:1-11)."
+   }
+  ]
+ },
+ "Act.5.1": {
+  "t": "Mas um homem chamado Ananias, com Safira, sua mulher, vendeu uma propriedade",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Mas um homem chamado Ananias",
+    "termo": "Ἀνὴρ δέ τις Ἁνανίας ὀνόματι",
+    "titulo": "o contraste com Barnabé",
+    "texto": "O “mas” liga o episódio ao exemplo de Barnabé (4:36-37): mesmo gesto exterior, coração oposto. Ananias (do hebraico Ḥănanyâ, “o Senhor é gracioso”) e Safira (do aramaico, “bela”) eram nomes comuns."
+   }
+  ]
+ },
+ "Act.5.2": {
+  "t": "e, com o conhecimento da mulher, desviou parte do preço; trouxe só uma parte e a depositou aos pés dos apóstolos.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "desviou parte do preço",
+    "termo": "ἐνοσφίσατο ἀπὸ τῆς τιμῆς (enosphisato apo tēs timēs)",
+    "titulo": "o pecado de Acã",
+    "texto": "Nosphizomai é “desviar para si, apropriar-se indevidamente” (Tt 2:10). É o verbo da Septuaginta em Js 7:1 para o pecado de Acã, que se apropriou do que era consagrado a Deus na entrada em Canaã e trouxe juízo sobre o povo. No início da igreja, como no início da conquista, o engano é tratado com severidade."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "com o conhecimento da mulher",
+    "termo": "συνειδυίης καὶ τῆς γυναικός (syneiduiēs kai tēs gynaikos)",
+    "titulo": "syneidon",
+    "texto": "“Sabendo junto, sendo cúmplice”. Safira participou da decisão (v. 9). O Textus Receptus e o Texto Bizantino acrescentam autou: “sua mulher”."
+   }
+  ]
+ },
+ "Act.5.3": {
+  "t": "Então Pedro disse: “Ananias, por que Satanás encheu o seu coração, para você mentir ao Espírito Santo e desviar parte do preço do terreno?",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Satanás encheu o seu coração",
+    "termo": "ἐπλήρωσεν ὁ σατανᾶς τὴν καρδίαν σου",
+    "titulo": "cheio de Satanás",
+    "texto": "Contraste com a comunidade “cheia do Espírito Santo” (4:31). Lucas diz de Judas que “Satanás entrou” nele (Lc 22:3). O pecado não é ter guardado parte do dinheiro, mas fingir ter dado tudo."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "mentir ao Espírito Santo",
+    "termo": "ψεύσασθαί σε τὸ πνεῦμα τὸ ἅγιον (pseusasthai se to pneuma to hagion)",
+    "titulo": "o Espírito é Deus",
+    "texto": "Mentir ao Espírito Santo (v. 3) é mentir a Deus (v. 4). A teologia cristã viu aqui um dos testemunhos de que o Espírito é pessoa (a quem se pode mentir) e é Deus. O Espírito habitava na comunidade; enganá-la era enganar a ele."
+   }
+  ]
+ },
+ "Act.5.4": {
+  "t": "Enquanto não foi vendido, o terreno não continuava sendo seu? E, depois de vendido, o dinheiro não estava em seu poder? Por que você tramou isso no seu coração? Você não mentiu a homens, mas a Deus.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "o terreno não continuava sendo seu?",
+    "termo": "οὐχὶ μένον σοὶ ἔμενεν",
+    "titulo": "a partilha era voluntária",
+    "texto": "Pedro deixa claro que Ananias não era obrigado a vender nem a entregar todo o valor. A partilha dos bens em Jerusalém era livre (ver a nota em 2:44)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "tramou isso no seu coração",
+    "termo": "ἔθου ἐν τῇ καρδίᾳ σου τὸ πρᾶγμα τοῦτο (ethou en tē kardia sou to pragma touto)",
+    "titulo": "“puseste no coração”",
+    "texto": "Lit. “puseste no teu coração esta coisa”: expressão semítica para decidir, planejar (Lc 21:14)."
+   }
+  ]
+ },
+ "Act.5.5": {
+  "t": "Ao ouvir essas palavras, Ananias caiu e expirou. E um grande temor tomou conta de todos os que ouviram isso.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "expirou",
+    "termo": "ἐξέψυξεν (exepsyxen)",
+    "titulo": "ekpsychō",
+    "texto": "“Exalar o último suspiro”. Palavra rara no NT, usada também para a morte de Herodes (12:23)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Ananias caiu e expirou",
+    "termo": "πεσὼν ἐξέψυξεν (pesōn exepsyxen)",
+    "titulo": "um juízo severo",
+    "texto": "Pedro não pronuncia sentença sobre Ananias; Lucas apresenta a morte como juízo de Deus. O episódio lembra Nadabe e Abiú no início do culto do tabernáculo (Lv 10:1-2), Acã (Js 7) e, no NT, a disciplina em Corinto (1Co 11:30). Mostra a santidade da comunidade em que o Espírito habita. O texto nada diz sobre o destino eterno de Ananias e Safira. O Textus Receptus e o Texto Bizantino acrescentam tauta: “todos os que ouviram estas coisas”."
+   }
+  ]
+ },
+ "Act.5.6": {
+  "t": "Os moços se levantaram, envolveram o corpo, levaram-no para fora e o sepultaram.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "envolveram o corpo",
+    "termo": "συνέστειλαν αὐτόν (synesteilan auton)",
+    "titulo": "systellō",
+    "texto": "“Enrolar, envolver” (num pano) ou “recolher, retirar”. Os enterros eram feitos no mesmo dia, sobretudo em Jerusalém. Os “moços” (neōteroi) são os mais jovens da comunidade, sem indicar um ofício."
+   }
+  ]
+ },
+ "Act.5.7": {
+  "t": "Cerca de três horas depois, entrou a mulher dele, sem saber o que havia acontecido.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Cerca de três horas depois",
+    "termo": "ὡς ὡρῶν τριῶν διάστημα (hōs hōrōn triōn diastēma)",
+    "titulo": "diastēma, hápax",
+    "texto": "Lit. “um intervalo de cerca de três horas”."
+   }
+  ]
+ },
+ "Act.5.8": {
+  "t": "Pedro lhe perguntou: “Diga-me: foi por esse valor que vocês venderam o terreno?” Ela respondeu: “Sim, foi por esse valor.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "por esse valor",
+    "termo": "τοσούτου (tosoutou)",
+    "titulo": "“por tanto”",
+    "texto": "Lit. “por tanto”: genitivo de preço. Pedro provavelmente mostrava a quantia que Ananias havia trazido. Safira tem a chance de dizer a verdade e confirma a mentira."
+   }
+  ]
+ },
+ "Act.5.9": {
+  "t": "Pedro lhe disse: “Por que vocês combinaram pôr à prova o Espírito do Senhor? Veja: os pés dos que sepultaram o seu marido estão à porta, e eles levarão você também.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "pôr à prova o Espírito do Senhor",
+    "termo": "πειράσαι τὸ πνεῦμα κυρίου (peirasai to pneuma kyriou)",
+    "titulo": "tentar a Deus",
+    "texto": "“Pôr à prova” Deus é desafiá-lo, ver até onde ele tolera, como Israel no deserto (Êx 17:2; Dt 6:16; Sl 95:9; Lc 4:12). Combinaram enganar a comunidade como se o Espírito não visse."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "os pés dos que sepultaram o seu marido",
+    "termo": "οἱ πόδες τῶν θαψάντων τὸν ἄνδρα σου",
+    "titulo": "“pés”",
+    "texto": "Imagem semítica: os pés indicam a chegada dos que voltam do enterro. Há um jogo com os “pés” dos apóstolos (v. 2) e de Pedro (v. 10)."
+   }
+  ]
+ },
+ "Act.5.10": {
+  "t": "No mesmo instante ela caiu aos pés dele e expirou. Os moços entraram, encontraram-na morta, levaram-na para fora e a sepultaram ao lado do marido.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "caiu aos pés dele",
+    "termo": "ἔπεσεν ... πρὸς τοὺς πόδας αὐτοῦ (epesen ... pros tous podas autou)",
+    "titulo": "aos pés",
+    "texto": "Ironia trágica: ela cai morta aos pés de Pedro, onde se depositava o dinheiro (4:35, 37; 5:2)."
+   }
+  ]
+ },
+ "Act.5.11": {
+  "t": "E um grande temor tomou conta de toda a igreja e de todos os que ouviram essas coisas.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "igreja",
+    "termo": "ἐκκλησίαν (ekklēsian)",
+    "titulo": "ekklēsia",
+    "texto": "Primeira ocorrência no texto crítico de Atos (o Textus Receptus a tem já em 2:47). Ekklēsia era a assembleia dos cidadãos de uma cidade grega (19:32, 39) e, na Septuaginta, traduz qāhāl, a assembleia de Israel convocada por Deus (7:38). Significa “assembleia, comunidade convocada”. Mantido “igreja”, que vem da mesma palavra, mas o leitor deve pensar em pessoas, não em prédio."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "um grande temor",
+    "termo": "φόβος μέγας (phobos megas)",
+    "titulo": "temor",
+    "texto": "O temor reverente diante de Deus repete o v. 5 e fecha o episódio. Temor e crescimento andam juntos em Atos (9:31)."
+   }
+  ]
+ },
+ "Act.5.12": {
+  "t": "Muitos sinais e prodígios eram realizados entre o povo pelas mãos dos apóstolos. E todos costumavam reunir-se, unânimes, no pórtico de Salomão.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "pelas mãos dos apóstolos",
+    "termo": "διὰ ... τῶν χειρῶν τῶν ἀποστόλων",
+    "titulo": "resposta à oração",
+    "texto": "Cumpre o pedido de 4:30: Deus estende a mão para curar, e sinais e prodígios acontecem. “Pelas mãos” pode ser literal (imposição de mãos, 28:8) ou expressão para “por meio de” (cf. 14:3)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "todos costumavam reunir-se, unânimes",
+    "termo": "ἦσαν ὁμοθυμαδὸν ἅπαντες (ēsan homothymadon hapantes)",
+    "titulo": "“estavam todos”",
+    "texto": "Lit. “estavam unânimes todos”. O imperfeito indica hábito. “Todos” é provavelmente a comunidade dos crentes, não só os apóstolos."
+   }
+  ]
+ },
+ "Act.5.13": {
+  "t": "Dos demais, ninguém ousava juntar-se a eles; mas o povo os tinha em grande estima.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Dos demais, ninguém ousava juntar-se a eles",
+    "termo": "τῶν δὲ λοιπῶν οὐδεὶς ἐτόλμα κολλᾶσθαι αὐτοῖς",
+    "titulo": "quem são “os demais”?",
+    "texto": "O versículo parece contradizer o v. 14, onde multidões se juntam. Provavelmente “os demais” são os que não criam: depois do caso de Ananias e Safira, ninguém se aproximava do grupo de modo leviano, embora o povo o admirasse. Outros pensam nos líderes ou em pessoas de posição. Kollaomai é “unir-se, associar-se” (9:26; 10:28)."
+   }
+  ]
+ },
+ "Act.5.14": {
+  "t": "E cada vez mais eram acrescentados os que criam no Senhor, multidões de homens e de mulheres,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "eram acrescentados os que criam no Senhor",
+    "termo": "προσετίθεντο πιστεύοντες τῷ κυρίῳ (prosetithento pisteuontes tō kyriō)",
+    "titulo": "“ao Senhor”",
+    "texto": "O dativo tō kyriō pode ligar-se a “criam” (“criam no Senhor”) ou a “eram acrescentados” (“eram acrescentados ao Senhor”, como em 11:24). As duas leituras dão sentido; a primeira foi escolhida. A menção explícita de mulheres é característica de Lucas (8:3, 12; 17:4, 12)."
+   }
+  ]
+ },
+ "Act.5.15": {
+  "t": "a ponto de levarem os doentes até para as ruas e os porem em camas e macas, para que, quando Pedro passasse, ao menos a sua sombra cobrisse algum deles.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "ao menos a sua sombra",
+    "termo": "κἂν ἡ σκιὰ ἐπισκιάσῃ (kan hē skia episkiasē)",
+    "titulo": "a sombra de Pedro",
+    "texto": "Na Antiguidade, a sombra era vista como extensão da pessoa. Lucas registra a expectativa do povo; o v. 16 diz que todos eram curados, sem afirmar que a cura vinha da sombra. Casos semelhantes: a orla do manto de Jesus (Lc 8:44) e os lenços de Paulo (19:11-12). Deus age por meios que a fé simples procura, mas o poder vem dele, não de objetos."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "camas e macas",
+    "termo": "κλιναρίων καὶ κραβάττων (klinariōn kai krabattōn)",
+    "titulo": "klinarion, hápax",
+    "texto": "Klinarion é “cama pequena, leito”; krabattos, a esteira ou padiola dos pobres (9:33; Mc 2:4). O Textus Receptus e o Texto Bizantino têm klinōn (“leitos”), com o mesmo sentido."
+   }
+  ]
+ },
+ "Act.5.16": {
+  "t": "Também das cidades vizinhas de Jerusalém afluía a multidão, trazendo doentes e atormentados por espíritos imundos, e todos eram curados.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "cidades vizinhas",
+    "termo": "τῶν πέριξ πόλεων (tōn perix poleōn)",
+    "titulo": "perix, hápax",
+    "texto": "“Ao redor”. É a primeira expansão para além de Jerusalém, ainda que sejam as pessoas que vêm à cidade. O Textus Receptus e o Texto Bizantino acrescentam eis: “afluía a Jerusalém”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "atormentados por espíritos imundos",
+    "termo": "ὀχλουμένους ὑπὸ πνευμάτων ἀκαθάρτων (ochloumenous hypo pneumatōn akathartōn)",
+    "titulo": "ochleō, hápax",
+    "texto": "Ochleō é “perturbar, atormentar”. “Espíritos imundos” é o nome que os Evangelhos dão aos demônios (Lc 4:33, 36). Lucas distingue os doentes dos endemoninhados, como em Lc 6:18; 7:21."
+   }
+  ]
+ },
+ "Act.5.17": {
+  "t": "Então o sumo sacerdote e todos os que estavam com ele, isto é, o partido dos saduceus, se levantaram, cheios de inveja,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "o partido dos saduceus",
+    "termo": "ἡ οὖσα αἵρεσις τῶν Σαδδουκαίων (hē ousa hairesis tōn Saddoukaiōn)",
+    "titulo": "hairesis",
+    "texto": "Hairesis é “escolha” e daí “partido, escola de pensamento” (15:5, os fariseus; 24:5, os nazarenos). O sentido negativo de “heresia” veio depois. Ver a nota sobre os saduceus em 4:1."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "cheios de inveja",
+    "termo": "ἐπλήσθησαν ζήλου (eplēsthēsan zēlou)",
+    "titulo": "zēlos",
+    "texto": "Zēlos pode ser “zelo” religioso ou “inveja, ciúme”. Aqui a causa é a popularidade dos apóstolos (vv. 12-16; cf. 13:45): inveja. Contraste com “cheios do Espírito”."
+   }
+  ]
+ },
+ "Act.5.18": {
+  "t": "prenderam os apóstolos e os puseram na prisão pública.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "na prisão pública",
+    "termo": "ἐν τηρήσει δημοσίᾳ (en tērēsei dēmosia)",
+    "titulo": "“em custódia pública”",
+    "texto": "Pode ser a prisão da cidade ou o advérbio “publicamente” (“puseram-nos publicamente sob custódia”), uma humilhação diante do povo. A primeira leitura é a mais comum."
+   }
+  ]
+ },
+ "Act.5.19": {
+  "t": "Mas, durante a noite, um anjo do Senhor abriu as portas da prisão, levou-os para fora e disse:",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "um anjo do Senhor",
+    "termo": "ἄγγελος ... κυρίου (angelos ... kyriou)",
+    "titulo": "o anjo e os saduceus",
+    "texto": "Expressão do AT para o mensageiro de Deus (Lc 1:11; 2:9; At 8:26; 12:7). Ironia: os saduceus, que negavam a existência de anjos (23:8), são frustrados por um anjo. O NA28 lê o particípio anoixas (“tendo aberto”), sem efeito na tradução."
+   }
+  ]
+ },
+ "Act.5.20": {
+  "t": "“Vão, apresentem-se no templo e anunciem ao povo todas as palavras desta vida.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "todas as palavras desta vida",
+    "termo": "πάντα τὰ ῥήματα τῆς ζωῆς ταύτης (panta ta rhēmata tēs zōēs tautēs)",
+    "titulo": "“desta vida”",
+    "texto": "“Esta vida” é a vida nova que vem por Jesus, o “Autor da vida” (3:15): a mensagem da salvação (cf. 13:26, “a palavra desta salvação”). Não é a vida presente em oposição à futura."
+   }
+  ]
+ },
+ "Act.5.21": {
+  "t": "Tendo ouvido isso, entraram no templo ao romper do dia e começaram a ensinar. Quando chegaram o sumo sacerdote e os que estavam com ele, convocaram o Sinédrio, isto é, todo o conselho dos anciãos dos filhos de Israel, e mandaram buscar os apóstolos na prisão.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "ao romper do dia",
+    "termo": "ὑπὸ τὸν ὄρθρον (hypo ton orthron)",
+    "titulo": "orthros",
+    "texto": "“De madrugada, ao amanhecer”, quando o templo se abria e o povo começava a chegar."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "o Sinédrio, isto é, todo o conselho dos anciãos",
+    "termo": "τὸ συνέδριον καὶ πᾶσαν τὴν γερουσίαν (to synedrion kai pasan tēn gerousian)",
+    "titulo": "gerousia, hápax",
+    "texto": "Lit. “o Sinédrio e toda a gerousia (o senado)”. O kai pode ser explicativo (“isto é”), e então os dois termos designam o mesmo corpo, com ênfase na solenidade da sessão; ou pode somar ao Sinédrio outros anciãos convocados para a ocasião. Gerousia é termo da Septuaginta para os anciãos de Israel (Êx 3:16). A primeira leitura foi escolhida."
+   }
+  ]
+ },
+ "Act.5.22": {
+  "t": "Mas, chegando lá, os guardas não os encontraram na prisão. Voltaram e informaram:",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "os guardas",
+    "termo": "οἱ ... ὑπηρέται (hoi ... hypēretai)",
+    "titulo": "hypēretēs",
+    "texto": "“Auxiliares, servidores”: aqui, a guarda do templo, a serviço do Sinédrio (v. 26)."
+   }
+  ]
+ },
+ "Act.5.23": {
+  "t": "“Encontramos a prisão trancada com toda a segurança e os guardas de pé junto às portas; mas, quando abrimos, não encontramos ninguém lá dentro.”",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "de pé junto às portas",
+    "termo": "ἑστῶτας ἐπὶ τῶν θυρῶν (hestōtas epi tōn thyrōn)",
+    "titulo": "“do lado de fora”",
+    "texto": "O Textus Receptus traz exō (“do lado de fora das portas”) e outros pequenos acréscimos. Sem diferença de sentido."
+   }
+  ]
+ },
+ "Act.5.24": {
+  "t": "Quando o comandante da guarda do templo e os chefes dos sacerdotes ouviram essas palavras, ficaram perplexos a respeito deles, sem saber em que aquilo ia dar.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "o comandante da guarda do templo e os chefes dos sacerdotes",
+    "termo": "ὅ τε στρατηγὸς τοῦ ἱεροῦ καὶ οἱ ἀρχιερεῖς",
+    "titulo": "“o sacerdote”",
+    "texto": "O Textus Receptus e o Texto Bizantino trazem “o sacerdote, o comandante da guarda do templo e os chefes dos sacerdotes”. “O sacerdote” seria o sumo sacerdote."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "sem saber em que aquilo ia dar",
+    "termo": "τί ἂν γένοιτο τοῦτο (ti an genoito touto)",
+    "titulo": "optativo",
+    "texto": "Lit. “o que isto viria a ser”. O optativo expressa a incerteza: a perplexidade é sobre o rumo que o movimento tomaria."
+   }
+  ]
+ },
+ "Act.5.25": {
+  "t": "Então chegou alguém e lhes informou: “Vejam! Os homens que vocês puseram na prisão estão no templo, de pé, ensinando o povo.”",
+  "n": []
+ },
+ "Act.5.26": {
+  "t": "Então o comandante foi com os guardas e os trouxe, mas sem violência, pois tinham medo de ser apedrejados pelo povo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "pois tinham medo de ser apedrejados pelo povo",
+    "termo": "ἐφοβοῦντο γὰρ τὸν λαὸν μὴ λιθασθῶσιν",
+    "titulo": "a construção",
+    "texto": "Lit. “temiam o povo, que não fossem apedrejados”. O sujeito de “temiam” é o comandante e os guardas. O NA27, o THGNT e Westcott-Hort leem ēgen (“trazia”), imperfeito, sem efeito na tradução."
+   }
+  ]
+ },
+ "Act.5.27": {
+  "t": "Depois de trazê-los, apresentaram-nos ao Sinédrio. E o sumo sacerdote os interrogou,",
+  "n": []
+ },
+ "Act.5.28": {
+  "t": "dizendo: “Nós lhes ordenamos expressamente que não ensinassem neste nome; e vejam: vocês encheram Jerusalém com o seu ensino e querem lançar sobre nós o sangue desse homem!”",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "Nós lhes ordenamos expressamente",
+    "termo": "παραγγελίᾳ παρηγγείλαμεν ὑμῖν (parangelia parēngeilamen hymin)",
+    "titulo": "afirmação ou pergunta",
+    "texto": "O SBLGNT traz uma afirmação. O NA28, o Textus Receptus e o Texto Bizantino acrescentam ou e fazem uma pergunta: “Não lhes ordenamos expressamente ...?” O sentido é o mesmo. A forma “ordenamos com ordem” é um hebraísmo de ênfase; daí “expressamente”."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "lançar sobre nós o sangue desse homem",
+    "termo": "ἐπαγαγεῖν ἐφ᾽ ἡμᾶς τὸ αἷμα τοῦ ἀνθρώπου τούτου",
+    "titulo": "a culpa pelo sangue",
+    "texto": "“Trazer o sangue sobre alguém” é torná-lo responsável por uma morte (Lv 20:9; 2Sm 1:16; Mt 27:25). O sumo sacerdote, de novo, evita dizer o nome de Jesus (“neste nome”, “desse homem”)."
+   }
+  ]
+ },
+ "Act.5.29": {
+  "t": "Pedro e os apóstolos responderam: “É preciso obedecer a Deus antes que aos homens.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "É preciso obedecer a Deus antes que aos homens",
+    "termo": "πειθαρχεῖν δεῖ θεῷ μᾶλλον ἢ ἀνθρώποις",
+    "titulo": "peitharcheō",
+    "texto": "Peitharcheō é “obedecer a uma autoridade”. Retoma 4:19 em forma de princípio. O dei (“é preciso”) indica que se trata da vontade de Deus, não de preferência pessoal."
+   }
+  ]
+ },
+ "Act.5.30": {
+  "t": "O Deus dos nossos pais ressuscitou Jesus, a quem vocês mataram, pendurando-o num madeiro.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "vocês mataram",
+    "termo": "διεχειρίσασθε (diecheirisasthe)",
+    "titulo": "diacheirizomai",
+    "texto": "“Pôr as mãos sobre, matar com as próprias mãos”. Raro no NT (26:21)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "pendurando-o num madeiro",
+    "termo": "κρεμάσαντες ἐπὶ ξύλου (kremasantes epi xylou)",
+    "titulo": "Dt 21:22-23",
+    "texto": "Alusão a Dt 21:22-23: “o pendurado no madeiro é maldito de Deus”. Para os líderes, a cruz mostrava que Jesus estava sob maldição; para os apóstolos, Deus o vindicou ao ressuscitá-lo. Paulo desenvolve a ideia em Gl 3:13 (cf. 10:39; 13:29; 1Pe 2:24)."
+   }
+  ]
+ },
+ "Act.5.31": {
+  "t": "Deus o exaltou à sua direita como Príncipe e Salvador, para dar a Israel arrependimento e perdão de pecados.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Príncipe e Salvador",
+    "termo": "ἀρχηγὸν καὶ σωτῆρα (archēgon kai sōtēra)",
+    "titulo": "archēgos",
+    "texto": "Ver a nota em 3:15, onde a mesma palavra foi traduzida por “Autor”. Aqui, ao lado de “Salvador” e de “exaltou à sua direita”, prevalece a ideia de chefe e governante: “Príncipe”. Os juízes de Israel (Jz 3:9, 15) eram “salvadores” levantados por Deus; Jesus é o Salvador definitivo (Lc 2:11)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "para dar a Israel arrependimento",
+    "termo": "τοῦ δοῦναι μετάνοιαν τῷ Ἰσραήλ",
+    "titulo": "o arrependimento como dom",
+    "texto": "O arrependimento não é só exigência (2:38; 3:19), mas dom do Cristo exaltado; o mesmo se dirá dos gentios (11:18; cf. 2Tm 2:25). Para quem os acusa, a mensagem continua sendo oferta de perdão."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "à sua direita",
+    "termo": "τῇ δεξιᾷ αὐτοῦ (tē dexia autou)",
+    "titulo": "lugar ou instrumento",
+    "texto": "Como em 2:33, pode ser “à sua direita” ou “com a sua (mão) direita”."
+   }
+  ]
+ },
+ "Act.5.32": {
+  "t": "E nós somos testemunhas destas coisas, e também o Espírito Santo, que Deus deu aos que lhe obedecem.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "destas coisas",
+    "termo": "τῶν ῥημάτων τούτων (tōn rhēmatōn toutōn)",
+    "titulo": "rhēma",
+    "texto": "Lit. “destas palavras”. Como o hebraico dābār, rhēma pode significar “palavra” ou “fato, acontecimento” (Lc 2:15). O Textus Receptus e o Texto Bizantino acrescentam autou: “somos testemunhas dele”."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "e também o Espírito Santo",
+    "termo": "καὶ τὸ πνεῦμα τὸ ἅγιον (kai to pneuma to hagion)",
+    "titulo": "o testemunho do Espírito",
+    "texto": "O Espírito testemunha junto com os apóstolos (Jo 15:26-27), pelas obras que realiza e pela coragem que dá. “Aos que lhe obedecem” não faz do Espírito um prêmio por mérito: obedecer a Deus aqui é crer e submeter-se a Jesus, ao contrário do Sinédrio, que desobedece (v. 29)."
+   }
+  ]
+ },
+ "Act.5.33": {
+  "t": "Ao ouvirem isso, ficaram furiosos e queriam matá-los.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "ficaram furiosos",
+    "termo": "διεπρίοντο (dieprionto)",
+    "titulo": "diapriō",
+    "texto": "Lit. “eram serrados ao meio”: imagem de raiva intensa (7:54)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "queriam matá-los",
+    "termo": "ἐβούλοντο ἀνελεῖν αὐτούς (eboulonto anelein autous)",
+    "titulo": "eboulonto ou ebouleuonto",
+    "texto": "O texto crítico traz eboulonto (“queriam”); o Textus Receptus, ebouleuonto (“deliberavam”)."
+   }
+  ]
+ },
+ "Act.5.34": {
+  "t": "Mas um fariseu chamado Gamaliel, mestre da Lei respeitado por todo o povo, levantou-se no Sinédrio e mandou que pusessem os homens para fora por um momento.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Gamaliel",
+    "termo": "Γαμαλιήλ (Gamaliēl)",
+    "titulo": "Gamaliel",
+    "texto": "Gamaliel, o Velho, foi um dos mestres mais respeitados do judaísmo do século I; segundo a tradição judaica, neto de Hillel. Paulo estudou com ele (22:3). Como fariseu, cria na ressurreição e nos anjos (23:8) e, por isso, tinha razões para moderar o partido saduceu."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "mestre da Lei",
+    "termo": "νομοδιδάσκαλος (nomodidaskalos)",
+    "titulo": "nomodidaskalos",
+    "texto": "“Mestre da Lei”: o especialista que interpretava a Lei de Moisés (Lc 5:17)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "os homens",
+    "termo": "τοὺς ἀνθρώπους (tous anthrōpous)",
+    "titulo": "“os apóstolos”",
+    "texto": "O Textus Receptus e o Texto Bizantino trazem tous apostolous (“os apóstolos”)."
+   }
+  ]
+ },
+ "Act.5.35": {
+  "t": "Então lhes disse: “Israelitas, tenham cuidado com o que vão fazer a esses homens.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "tenham cuidado com o que vão fazer a esses homens",
+    "termo": "προσέχετε ἑαυτοῖς ἐπὶ τοῖς ἀνθρώποις τούτοις τί μέλλετε πράσσειν",
+    "titulo": "a construção",
+    "texto": "“A respeito destes homens” pode ligar-se a “tenham cuidado” ou a “vão fazer”; o sentido é o mesmo."
+   }
+  ]
+ },
+ "Act.5.36": {
+  "t": "Pois, algum tempo atrás, surgiu Teudas, dizendo ser alguém importante, e a ele se juntaram cerca de quatrocentos homens; ele foi morto, e todos os que o seguiam se dispersaram e foram reduzidos a nada.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Teudas",
+    "termo": "Θευδᾶς (Theudas)",
+    "titulo": "o problema da data de Teudas",
+    "texto": "Josefo (Antiguidades Judaicas, livro 20) fala de um Teudas que se dizia profeta e levou uma multidão ao Jordão, prometendo dividir as águas; foi morto sob o governador Fado, por volta de 44-46 d.C. Mas o discurso de Gamaliel deve ser anterior a isso, e ele põe Teudas antes de Judas, o galileu (6 d.C.). Explicações: (1) Gamaliel fala de outro Teudas, anterior, entre os muitos rebeldes que surgiram depois da morte de Herodes (4 a.C.); o nome era comum; (2) Josefo se enganou na data; (3) Lucas se enganou ou fez Gamaliel citar um fato posterior. A primeira é possível e é preferida por muitos comentaristas conservadores; a questão continua aberta.",
+    "revisar": true
+   },
+   {
+    "tipo": "tn",
+    "ancora": "dizendo ser alguém importante",
+    "termo": "λέγων εἶναί τινα ἑαυτόν (legōn einai tina heauton)",
+    "titulo": "“ser alguém”",
+    "texto": "Lit. “dizendo ser alguém”: pretensão de grandeza (cf. 8:9; Gl 2:6)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "se juntaram",
+    "termo": "προσεκλίθη (proseklithē)",
+    "titulo": "prosklinō, hápax",
+    "texto": "“Inclinar-se para, aderir”. Diallyō (“se dispersaram”, também hápax) é “dissolver-se”."
+   }
+  ]
+ },
+ "Act.5.37": {
+  "t": "Depois dele, nos dias do recenseamento, surgiu Judas, o galileu, e arrastou gente atrás de si; ele também pereceu, e todos os que o seguiam foram dispersos.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Judas, o galileu",
+    "termo": "Ἰούδας ὁ Γαλιλαῖος (Ioudas ho Galilaios)",
+    "titulo": "Judas e o recenseamento",
+    "texto": "Josefo conta que Judas, o galileu, liderou uma revolta contra o recenseamento feito por Quirino em 6 d.C., quando a Judeia passou ao governo direto de Roma; ensinava que pagar tributo a César era aceitar outro senhor além de Deus (Antiguidades Judaicas, livro 18; Guerra Judaica, livro 2). Esse recenseamento é provavelmente diferente do mencionado em Lc 2:2. O movimento de Judas não desapareceu de todo: seus filhos foram líderes rebeldes depois."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "arrastou gente atrás de si",
+    "termo": "ἀπέστησεν λαὸν ὀπίσω αὐτοῦ (apestēsen laon opisō autou)",
+    "titulo": "“muita gente”",
+    "texto": "O Textus Receptus e o Texto Bizantino acrescentam hikanon: “arrastou muita gente”."
+   }
+  ]
+ },
+ "Act.5.38": {
+  "t": "Por isso, agora lhes digo: afastem-se desses homens e deixem-nos em paz; porque, se este plano ou esta obra vier dos homens, será destruído;",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "se este plano ou esta obra vier dos homens",
+    "termo": "ἐὰν ᾖ ἐξ ἀνθρώπων ἡ βουλὴ αὕτη ἢ τὸ ἔργον τοῦτο",
+    "titulo": "duas condicionais",
+    "texto": "Gamaliel usa duas construções diferentes: ean com subjuntivo (“se vier dos homens”, v. 38) e ei com indicativo (“se vem de Deus”, v. 39). Alguns veem aí uma inclinação de Gamaliel a considerar que o movimento vinha de Deus; mas no grego da época as duas formas se misturavam, e não se deve apoiar muito na diferença. A tradução reproduz a variação de modo discreto. O Textus Receptus e o Texto Bizantino têm easate em vez de aphete (“deixem”), com o mesmo sentido."
+   }
+  ]
+ },
+ "Act.5.39": {
+  "t": "mas, se vem de Deus, vocês não poderão destruí-los, e correm o risco de se verem lutando contra Deus.” E eles aceitaram o conselho dele.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "lutando contra Deus",
+    "termo": "θεομάχοι (theomachoi)",
+    "titulo": "theomachos, hápax",
+    "texto": "“Combatentes contra Deus”. A ideia de lutar contra um deus era conhecida na literatura grega (Eurípides, As Bacantes, sobre Penteu, que resistia a Dioniso). Lucas pode estar ecoando essa ideia para leitores gregos; o pensamento é também bíblico (2Cr 13:12)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "destruí-los",
+    "termo": "καταλῦσαι αὐτούς (katalysai autous)",
+    "titulo": "autous ou auto",
+    "texto": "O texto crítico traz autous (“destruí-los”, os homens); o Textus Receptus e o Texto Bizantino, auto (“destruí-lo”, o plano ou a obra)."
+   }
+  ]
+ },
+ "Act.5.40": {
+  "t": "Chamaram os apóstolos, mandaram açoitá-los, ordenaram-lhes que não falassem em nome de Jesus e os soltaram.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "mandaram açoitá-los",
+    "termo": "δείραντες (deirantes)",
+    "titulo": "o açoite",
+    "texto": "Derō é “esfolar, espancar”. Provavelmente os trinta e nove açoites aplicados pela sinagoga (Dt 25:1-3; 2Co 11:24). Cumpre-se a palavra de Jesus em Lc 21:12."
+   }
+  ]
+ },
+ "Act.5.41": {
+  "t": "Eles, então, saíram da presença do Sinédrio, alegres por terem sido considerados dignos de sofrer afronta pelo Nome.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "dignos de sofrer afronta",
+    "termo": "κατηξιώθησαν ... ἀτιμασθῆναι (katēxiōthēsan ... atimasthēnai)",
+    "titulo": "um paradoxo",
+    "texto": "Lit. “foram tidos por dignos de ser desonrados”. O paradoxo é intencional: a desonra por causa de Jesus é honra (Lc 6:22-23; 1Pe 4:13-16)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "pelo Nome",
+    "termo": "ὑπὲρ τοῦ ὀνόματος (hyper tou onomatos)",
+    "titulo": "“o Nome”",
+    "texto": "“O Nome”, sem complemento, já é designação de Jesus (3Jo 7), assim como no judaísmo “o Nome” designava Deus. Por isso a maiúscula. O Textus Receptus acrescenta autou: “pelo nome dele”."
+   }
+  ]
+ },
+ "Act.5.42": {
+  "t": "E todos os dias, no templo e de casa em casa, não deixavam de ensinar e de anunciar o evangelho: Jesus é o Cristo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "anunciar o evangelho: Jesus é o Cristo",
+    "termo": "εὐαγγελιζόμενοι τὸν χριστὸν Ἰησοῦν (euangelizomenoi ton christon Iēsoun)",
+    "titulo": "“evangelizando o Cristo, Jesus”",
+    "texto": "Euangelizomai é “anunciar boas notícias”, “anunciar o evangelho”. O objeto pode ser lido como “o Cristo Jesus” ou, mais provavelmente, como uma afirmação: “que o Cristo é Jesus” (cf. 17:3; 18:5, 28). Essa era a questão em Jerusalém: o Messias esperado é Jesus."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "de casa em casa",
+    "termo": "κατ᾽ οἶκον (kat’ oikon)",
+    "titulo": "kat’ oikon",
+    "texto": "Ver a nota em 2:46. O ensino público no templo e o ensino nas casas continuam apesar da proibição."
+   }
+  ]
+ },
+ "Act.6.1": {
+  "t": "Naqueles dias, como o número dos discípulos crescia, os helenistas começaram a murmurar contra os hebreus, porque as viúvas deles estavam sendo esquecidas na distribuição diária.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "discípulos",
+    "termo": "τῶν μαθητῶν (tōn mathētōn)",
+    "titulo": "mathētai",
+    "texto": "Primeira vez em Atos que os crentes são chamados “discípulos” (aprendizes, seguidores), termo que nos Evangelhos designa os seguidores de Jesus. Lucas o usa cerca de trinta vezes em Atos para os cristãos em geral, homens e mulheres (9:36, “discípula”)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "os helenistas",
+    "termo": "τῶν Ἑλληνιστῶν (tōn Hellēnistōn)",
+    "titulo": "helenistas e hebreus",
+    "texto": "Hellēnistēs (raro no NT: 6:1; 9:29; 11:20 em parte dos manuscritos) não é “grego”, mas o judeu que falava grego, em geral vindo da Dispersão e instalado em Jerusalém. Os “hebreus” eram os judeus da terra, que falavam aramaico (e liam a Escritura em hebraico). Os dois grupos eram judeus e, aqui, crentes em Jesus; a diferença era de língua e cultura."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "murmurar",
+    "termo": "γογγυσμός (gongysmos)",
+    "titulo": "a murmuração",
+    "texto": "Palavra que lembra as murmurações de Israel no deserto (Êx 16:7-12; Nm 14:27). Depois do problema interno de Ananias e Safira, surge outro: a divisão cultural."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "estavam sendo esquecidas na distribuição diária",
+    "termo": "παρεθεωροῦντο ἐν τῇ διακονίᾳ τῇ καθημερινῇ",
+    "titulo": "dois hápax",
+    "texto": "Paratheōreō (hápax) é “negligenciar, deixar de olhar”; kathēmerinos (hápax), “diário”. A diakonia é o serviço diário de alimentos ou de ajuda às viúvas, que na Lei eram objeto especial de cuidado (Dt 14:29; 24:17-21). O imperfeito sugere uma negligência repetida, talvez sem intenção."
+   }
+  ]
+ },
+ "Act.6.2": {
+  "t": "Então os Doze convocaram a multidão dos discípulos e disseram: “Não é certo que nós deixemos a palavra de Deus para servir às mesas.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "os Doze",
+    "termo": "οἱ δώδεκα (hoi dōdeka)",
+    "titulo": "os Doze",
+    "texto": "Única vez em Atos que os apóstolos são chamados assim. Com Matias, o grupo estava completo (1:26)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "servir às mesas",
+    "termo": "διακονεῖν τραπέζαις (diakonein trapezais)",
+    "titulo": "trapeza",
+    "texto": "Trapeza é “mesa”, tanto de refeição quanto de cambista ou banqueiro (Lc 19:23). Pode referir-se à distribuição de alimentos ou à administração do dinheiro. Os apóstolos não desprezam esse serviço (é diakonia, como o “ministério da palavra”, v. 4), mas reconhecem que não podem fazer tudo."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Não é certo",
+    "termo": "οὐκ ἀρεστόν ἐστιν (ouk areston estin)",
+    "titulo": "areston",
+    "texto": "“Não é desejável, não convém”. Não é julgamento moral sobre o serviço, mas sobre a prioridade dos apóstolos."
+   }
+  ]
+ },
+ "Act.6.3": {
+  "t": "Portanto, irmãos, escolham dentre vocês sete homens de boa reputação, cheios do Espírito e de sabedoria, e nós os encarregaremos dessa tarefa.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "escolham",
+    "termo": "ἐπισκέψασθε (episkepsasthe)",
+    "titulo": "episkeptomai",
+    "texto": "“Examinar, procurar com cuidado, escolher”. A comunidade escolhe; os apóstolos confirmam e dão a autoridade (“nós os encarregaremos”). Da mesma família de episkopos (“supervisor”)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "de boa reputação",
+    "termo": "μαρτυρουμένους (martyroumenous)",
+    "titulo": "“testemunhados”",
+    "texto": "Lit. “que têm bom testemunho”: de quem os outros falam bem (10:22; 16:2; 1Tm 3:7)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "cheios do Espírito",
+    "termo": "πλήρεις πνεύματος (plēreis pneumatos)",
+    "titulo": "“Espírito Santo”",
+    "texto": "O Textus Receptus e o Texto Bizantino trazem “cheios do Espírito Santo”. O sentido é o mesmo: pelo paralelo com o v. 5, trata-se do Espírito Santo, por isso a maiúscula."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "sete homens",
+    "termo": "ἄνδρας ... ἑπτά (andras ... hepta)",
+    "titulo": "os Sete",
+    "texto": "O texto não os chama de “diáconos”, embora use diakonia (v. 1) e diakoneō (v. 2). Desde Ireneu, muitos viram aqui a origem do diaconato (cf. Fp 1:1; 1Tm 3:8-13); outros veem um ministério próprio de Jerusalém, mais amplo, pois Estêvão e Filipe pregam e fazem sinais (6:8; 8:5-7), e Filipe é chamado “o evangelista”, “um dos Sete” (21:8). Para servir às mesas, a exigência é ser cheio do Espírito e de sabedoria: não há serviço “só prático” na igreja."
+   }
+  ]
+ },
+ "Act.6.4": {
+  "t": "E nós nos dedicaremos à oração e ao ministério da palavra.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "nos dedicaremos",
+    "termo": "προσκαρτερήσομεν (proskarterēsomen)",
+    "titulo": "proskartereō",
+    "texto": "O verbo de 1:14 e 2:42, 46: “perseverar, dedicar-se com constância”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "ministério da palavra",
+    "termo": "τῇ διακονίᾳ τοῦ λόγου (tē diakonia tou logou)",
+    "titulo": "diakonia",
+    "texto": "Lucas usa a mesma palavra para as duas tarefas: o “serviço” das mesas (vv. 1-2) e o “serviço” da palavra. A diferença é de função, não de dignidade."
+   }
+  ]
+ },
+ "Act.6.5": {
+  "t": "A proposta agradou a toda a multidão; e escolheram Estêvão, homem cheio de fé e do Espírito Santo, Filipe, Prócoro, Nicanor, Timão, Pármenas e Nicolau, prosélito de Antioquia.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Filipe, Prócoro, Nicanor, Timão, Pármenas e Nicolau",
+    "termo": "Στέφανον ... Νικόλαον",
+    "titulo": "nomes gregos",
+    "texto": "Todos os sete têm nomes gregos. Isso não prova que fossem todos helenistas (havia judeus da Judeia com nomes gregos, como André e Filipe, apóstolos), mas é provável que a igreja tenha escolhido homens do grupo que se sentia prejudicado. Estêvão é o primeiro mártir (7:54-60); Filipe evangeliza Samaria e o etíope (cap. 8). Dos outros cinco nada mais se sabe pelo NT."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Nicolau, prosélito de Antioquia",
+    "termo": "Νικόλαον προσήλυτον Ἀντιοχέα (Nikolaon prosēlyton Antiochea)",
+    "titulo": "um prosélito",
+    "texto": "Nicolau era gentio de nascimento, convertido ao judaísmo (ver a nota em 2:11), e depois a Cristo. A menção de Antioquia prepara 11:19-26. Ireneu ligou a ele os nicolaítas de Ap 2:6, 15, mas a ligação é incerta."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "homem cheio de fé",
+    "termo": "ἄνδρα πλήρης πίστεως (andra plērēs pisteōs)",
+    "titulo": "plērēs ou plērē",
+    "texto": "O SBLGNT traz plērēs, usado como indeclinável, como às vezes no grego popular; o Textus Receptus tem a forma regular plērē. Sem efeito na tradução."
+   }
+  ]
+ },
+ "Act.6.6": {
+  "t": "Apresentaram-nos aos apóstolos, os quais oraram e lhes impuseram as mãos.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "lhes impuseram as mãos",
+    "termo": "ἐπέθηκαν αὐτοῖς τὰς χεῖρας (epethēkan autois tas cheiras)",
+    "titulo": "a imposição de mãos",
+    "texto": "Gesto que, no AT, transmitia autoridade e comissionava para uma tarefa, como Moisés com Josué (Nm 27:18-23). Em Atos, acompanha a oração na comissão para o serviço (13:3), a cura (28:8) e o dom do Espírito (8:17; 19:6). Gramaticalmente, o sujeito poderia ser a comunidade, mas o contexto (“nós os encarregaremos”, v. 3) indica os apóstolos; por isso “os quais”."
+   }
+  ]
+ },
+ "Act.6.7": {
+  "t": "E a palavra de Deus crescia; o número dos discípulos em Jerusalém se multiplicava muito, e um grande número de sacerdotes obedecia à fé.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "a palavra de Deus crescia",
+    "termo": "ὁ λόγος τοῦ θεοῦ ηὔξανεν (ho logos tou theou ēuxanen)",
+    "titulo": "um resumo de progresso",
+    "texto": "Primeiro de vários resumos que marcam as etapas do livro (9:31; 12:24; 16:5; 19:20; 28:31). A “palavra” cresce como semente (Lc 8:11): a palavra é a própria mensagem, que se espalha e frutifica."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "um grande número de sacerdotes obedecia à fé",
+    "termo": "πολύς τε ὄχλος τῶν ἱερέων ὑπήκουον τῇ πίστει",
+    "titulo": "os sacerdotes",
+    "texto": "Não os chefes sacerdotais, adversários dos apóstolos, mas sacerdotes comuns, que eram muitos e serviam no templo por turnos (Lc 1:8). “Obedecer à fé” é aceitar a mensagem cristã, aqui chamada “a fé” (13:8; 14:22; cf. Rm 1:5, “obediência da fé”)."
+   }
+  ]
+ },
+ "Act.6.8": {
+  "t": "Estêvão, cheio de graça e de poder, realizava grandes prodígios e sinais entre o povo.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "cheio de graça e de poder",
+    "termo": "πλήρης χάριτος καὶ δυνάμεως (plērēs charitos kai dynameōs)",
+    "titulo": "graça ou fé",
+    "texto": "O texto crítico traz charitos (“de graça”); o Textus Receptus e o Texto Bizantino, pisteōs (“de fé”), provavelmente por assimilação ao v. 5."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "realizava grandes prodígios e sinais",
+    "termo": "ἐποίει τέρατα καὶ σημεῖα μεγάλα",
+    "titulo": "sinais além dos apóstolos",
+    "texto": "Até aqui só os apóstolos faziam sinais (2:43; 5:12); agora Estêvão, que não era apóstolo, também os faz, como Filipe (8:6-7) e Ananias de Damasco (9:17-18). Os continuístas destacam que os dons de poder em Atos não se limitam aos Doze; os cessacionistas observam que Estêvão e Filipe receberam a imposição de mãos dos apóstolos (v. 6). O texto liga os sinais à plenitude de “graça e poder” que vem do Espírito (vv. 3, 5)."
+   }
+  ]
+ },
+ "Act.6.9": {
+  "t": "Mas levantaram-se alguns da sinagoga chamada dos Libertos, dos cireneus e dos alexandrinos, e alguns da Cilícia e da Ásia, e começaram a discutir com Estêvão.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "da sinagoga chamada dos Libertos, dos cireneus e dos alexandrinos, e alguns da Cilícia e da Ásia",
+    "termo": "ἐκ τῆς συναγωγῆς τῆς λεγομένης Λιβερτίνων καὶ Κυρηναίων καὶ Ἀλεξανδρέων καὶ τῶν ἀπὸ Κιλικίας καὶ Ἀσίας",
+    "titulo": "uma, duas ou cinco sinagogas?",
+    "texto": "O grego permite ler uma única sinagoga, frequentada por libertos vindos de Cirene, Alexandria, Cilícia e Ásia; duas (a dos libertos, cireneus e alexandrinos, e outra dos da Cilícia e da Ásia, separadas pelo segundo artigo, tōn); ou até cinco. A tradução mantém a ambiguidade do original. Todos eram judeus de língua grega, como Estêvão."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Libertos",
+    "termo": "Λιβερτίνων (Libertinōn)",
+    "titulo": "os libertos",
+    "texto": "Palavra latina (libertini): ex-escravos e seus descendentes. Provavelmente judeus levados a Roma como escravos depois da conquista de Jerusalém por Pompeu (63 a.C.) e depois libertados. Uma inscrição grega encontrada em Jerusalém fala de uma sinagoga construída por um certo Teódoto, para leitura da Lei e hospedagem de peregrinos; alguns a ligam a esta sinagoga, sem prova."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Cilícia",
+    "termo": "Κιλικίας (Kilikias)",
+    "titulo": "a terra de Saulo",
+    "texto": "A Cilícia era a região de Tarso, cidade natal de Saulo (21:39; 22:3). Saulo aparece logo depois, aprovando a morte de Estêvão (7:58; 8:1); é possível que estivesse entre esses adversários."
+   }
+  ]
+ },
+ "Act.6.10": {
+  "t": "Mas não conseguiam resistir à sabedoria e ao Espírito com que ele falava.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "ao Espírito com que ele falava",
+    "termo": "τῷ πνεύματι ᾧ ἐλάλει (tō pneumati hō elalei)",
+    "titulo": "Espírito ou espírito",
+    "texto": "Pode ser o espírito, o ânimo de Estêvão, mas, depois dos vv. 3 e 5 (“cheio do Espírito Santo”), é mais provável o Espírito Santo que falava por ele; por isso a maiúscula. Cumpre a promessa de Jesus: “eu lhes darei palavras e sabedoria a que nenhum dos seus adversários poderá resistir” (Lc 21:15)."
+   }
+  ]
+ },
+ "Act.6.11": {
+  "t": "Então subornaram alguns homens para dizerem: “Nós o ouvimos proferir palavras blasfemas contra Moisés e contra Deus.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "subornaram",
+    "termo": "ὑπέβαλον (hypebalon)",
+    "titulo": "hypoballō, hápax",
+    "texto": "“Pôr por baixo, introduzir às escondidas, instigar”. Indica que os acusadores foram preparados e instruídos em segredo; “subornaram” é a tradução comum, embora o verbo não fale explicitamente de dinheiro."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "contra Moisés e contra Deus",
+    "termo": "εἰς Μωϋσῆν καὶ τὸν θεόν (eis Mōysēn kai ton theon)",
+    "titulo": "a acusação",
+    "texto": "Moisés vem antes de Deus: a acusação é de ataque à Lei. O discurso de Estêvão (cap. 7) responde mostrando que é Israel quem resistiu a Moisés e aos profetas."
+   }
+  ]
+ },
+ "Act.6.12": {
+  "t": "Assim agitaram o povo, os anciãos e os escribas; e, caindo sobre ele, agarraram-no e o levaram ao Sinédrio.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "agitaram",
+    "termo": "συνεκίνησαν (synekinēsan)",
+    "titulo": "synkineō, hápax",
+    "texto": "“Pôr em movimento, incitar”. Pela primeira vez em Atos, “o povo”, até aqui favorável (2:47; 5:13, 26), volta-se contra os discípulos."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "caindo sobre ele, agarraram-no",
+    "termo": "ἐπιστάντες συνήρπασαν αὐτόν (epistantes synērpasan auton)",
+    "titulo": "synarpazō",
+    "texto": "“Agarrar com violência, arrastar” (19:29; 27:15). Diferente dos apóstolos, trazidos “sem violência” (5:26)."
+   }
+  ]
+ },
+ "Act.6.13": {
+  "t": "Apresentaram testemunhas falsas, que diziam: “Este homem não para de falar contra o lugar santo e contra a Lei.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "testemunhas falsas",
+    "termo": "μάρτυρας ψευδεῖς (martyras pseudeis)",
+    "titulo": "como no julgamento de Jesus",
+    "texto": "O julgamento de Estêvão segue o de Jesus: testemunhas falsas, acusação contra o templo (Mc 14:55-58), o Sinédrio, e no fim a oração pelos algozes e a entrega do espírito (7:59-60; Lc 23:34, 46). A falsidade está em distorcer palavras verdadeiras: Jesus anunciara a destruição do templo (Lc 21:6) e falara do templo do seu corpo (Jo 2:19-21), mas não disse que ele mesmo o destruiria."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "contra o lugar santo",
+    "termo": "κατὰ τοῦ τόπου τοῦ ἁγίου (kata tou topou tou hagiou)",
+    "titulo": "“este lugar santo”; “blasfemas”",
+    "texto": "O NA28, Westcott-Hort e o Textus Receptus acrescentam toutou: “contra este lugar santo”. O Textus Receptus e o Texto Bizantino também acrescentam blasphēma: “de falar palavras blasfemas”, assimilando ao v. 11. O “lugar” é o templo."
+   }
+  ]
+ },
+ "Act.6.14": {
+  "t": "Pois nós o ouvimos dizer que esse Jesus, o Nazareno, destruirá este lugar e mudará os costumes que Moisés nos transmitiu.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "esse Jesus",
+    "termo": "Ἰησοῦς ... οὗτος (Iēsous ... houtos)",
+    "titulo": "desprezo",
+    "texto": "O demonstrativo houtos posposto tem tom de desprezo: “esse tal Jesus”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "os costumes",
+    "termo": "τὰ ἔθη (ta ethē)",
+    "titulo": "ethos",
+    "texto": "“Costumes, práticas”: a Lei e o modo de vida que dela decorre, incluindo a tradição de interpretação (15:1; 21:21; 28:17)."
+   }
+  ]
+ },
+ "Act.6.15": {
+  "t": "Todos os que estavam sentados no Sinédrio, fixando os olhos nele, viram que o seu rosto era como o rosto de um anjo.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "como o rosto de um anjo",
+    "termo": "ὡσεὶ πρόσωπον ἀγγέλου (hōsei prosōpon angelou)",
+    "titulo": "o rosto de Estêvão",
+    "texto": "O rosto que reflete a presença de Deus lembra Moisés ao descer do Sinai (Êx 34:29-35). A ironia é forte: acusado de falar contra Moisés, Estêvão tem o rosto iluminado como o de Moisés; Deus o vindica diante do tribunal antes mesmo do discurso."
    }
   ]
  }

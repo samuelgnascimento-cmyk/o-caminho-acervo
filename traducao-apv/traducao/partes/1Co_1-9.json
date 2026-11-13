@@ -2446,5 +2446,946 @@
     "texto": "O Textus Receptus e o Texto Bizantino acrescentam: “e no espírito de vocês, que pertencem a Deus”. As palavras faltam nos manuscritos mais antigos e parecem um acréscimo que suaviza a ênfase de Paulo no corpo."
    }
   ]
+ },
+ "1Co.7.1": {
+  "t": "Agora, quanto às coisas sobre as quais vocês escreveram: “É bom que o homem não toque em mulher”.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "quanto às coisas sobre as quais vocês escreveram",
+    "termo": "Περὶ δὲ ὧν ἐγράψατε",
+    "titulo": "peri de",
+    "texto": "Paulo passa a responder a uma carta que os coríntios lhe enviaram. A fórmula peri de (“quanto a”) volta em 7:25; 8:1; 12:1; 16:1, 12 e marca, ao que parece, os assuntos dessa carta. O Textus Receptus, o Texto Bizantino e Tregelles acrescentam moi: “escreveram a mim”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "“É bom que o homem não toque em mulher”",
+    "termo": "καλὸν ἀνθρώπῳ γυναικὸς μὴ ἅπτεσθαι",
+    "titulo": "citação dos coríntios?",
+    "texto": "“Tocar em mulher” é eufemismo para relação sexual (Gn 20:6; Pv 6:29, LXX), e não para casamento em geral. A maioria dos intérpretes modernos (Fee, Thiselton, Garland, entre outros) entende a frase como lema de um grupo de coríntios que, julgando-se “espirituais”, defendia a abstinência sexual, até no casamento. Por isso as aspas. Argumentos: a fórmula “quanto ao que escreveram” introduz o assunto da carta deles; os vv. 2-5 corrigem precisamente a abstinência entre casados; e Paulo usa o mesmo procedimento com outros lemas (6:12-13; 8:1, 4). A leitura tradicional, desde os Pais, vê aqui a opinião do próprio Paulo, que ele depois qualifica (vv. 7-8, 26). Os manuscritos não têm aspas; elas são decisão de intérprete. Mesmo que a frase seja dos coríntios, Paulo concorda com ela em parte: o celibato é bom (vv. 7-8), mas não pode ser imposto aos casados.",
+    "revisar": true
+   }
+  ]
+ },
+ "1Co.7.2": {
+  "t": "Mas, por causa dos casos de imoralidade sexual, cada homem tenha a sua própria mulher, e cada mulher tenha o seu próprio marido.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "por causa dos casos de imoralidade sexual",
+    "termo": "διὰ δὲ τὰς πορνείας",
+    "titulo": "plural",
+    "texto": "Lit. “por causa das imoralidades”. O plural indica casos concretos, como os de 5:1 e 6:12-20. Paulo não apresenta aqui uma teologia completa do casamento, mas responde a uma situação."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "tenha a sua própria mulher",
+    "termo": "τὴν ἑαυτοῦ γυναῖκα ἐχέτω",
+    "titulo": "“ter” mulher",
+    "texto": "“Ter” uma mulher pode ser “ser casado com ela” ou, como em 5:1, “ter relações com ela”. Como os vv. 3-5 tratam de casados, muitos entendem: “cada um mantenha relações com sua própria mulher”, e não “cada um se case”. A tradução literal deixa as duas leituras."
+   }
+  ]
+ },
+ "1Co.7.3": {
+  "t": "O marido cumpra com a mulher o dever conjugal, e da mesma forma a mulher com o marido.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "o dever conjugal",
+    "termo": "τὴν ὀφειλὴν (tēn opheilēn)",
+    "titulo": "opheilē, raro",
+    "texto": "Lit. “o que é devido, a dívida” (raro: aqui; Mt 18:32; Rm 13:7). Eufemismo para as relações sexuais no casamento. O Textus Receptus e o Texto Bizantino trazem “a benevolência devida” (tēn opheilomenēn eunoian), forma que parece suavizar a expressão."
+   }
+  ]
+ },
+ "1Co.7.4": {
+  "t": "A mulher não tem autoridade sobre o próprio corpo, mas sim o marido; da mesma forma, também o marido não tem autoridade sobre o próprio corpo, mas sim a mulher.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "mas sim a mulher",
+    "termo": "ἀλλ᾽ ἡ γυνή",
+    "titulo": "reciprocidade",
+    "texto": "Que o marido tivesse direitos sobre o corpo da mulher era comum no mundo antigo; que a mulher tivesse os mesmos direitos sobre o corpo do marido era afirmação surpreendente. Todo o trecho (vv. 2-5, 10-16, 32-34) é construído em perfeita simetria entre homem e mulher. O verbo exousiazō é o de 6:12."
+   }
+  ]
+ },
+ "1Co.7.5": {
+  "t": "Não se privem um do outro, a não ser talvez de comum acordo e por algum tempo, para se dedicarem à oração; depois voltem a estar juntos, para que Satanás não os tente por causa da falta de domínio próprio de vocês.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Não se privem",
+    "termo": "μὴ ἀποστερεῖτε (mē apostereite)",
+    "titulo": "apostereō",
+    "texto": "O mesmo verbo de 6:7-8 (“lesar, defraudar”): negar ao cônjuge as relações é privá-lo do que lhe é devido. O presente proíbe uma prática em curso: “parem de se privar”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "de comum acordo",
+    "termo": "ἐκ συμφώνου (ek symphōnou)",
+    "titulo": "symphōnos, hápax",
+    "texto": "Única ocorrência no NT: “por acordo mútuo”. A abstinência só é legítima com três condições: acordo dos dois, tempo limitado e um propósito de oração."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "para se dedicarem à oração",
+    "termo": "ἵνα σχολάσητε τῇ προσευχῇ",
+    "titulo": "scholazō, raro",
+    "texto": "Scholazō (raro: aqui e Mt 12:44) é “ter tempo livre para, dedicar-se a”."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "à oração",
+    "termo": "τῇ προσευχῇ (+ τῇ νηστείᾳ καὶ)",
+    "titulo": "“ao jejum e à oração”",
+    "texto": "O Textus Receptus e o Texto Bizantino trazem “ao jejum e à oração” e, em vez de “voltem a estar juntos” (ēte), “voltem a se unir” (synerchēsthe). O acréscimo do jejum, que aparece também em outros textos (Mc 9:29), reflete o crescente valor dado ao ascetismo na igreja antiga."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "falta de domínio próprio",
+    "termo": "ἀκρασίαν (akrasian)",
+    "titulo": "akrasia, raro",
+    "texto": "Só aqui e em Mt 23:25: incapacidade de se controlar. Paulo é realista: a abstinência prolongada expõe o casal à tentação."
+   }
+  ]
+ },
+ "1Co.7.6": {
+  "t": "Digo isso como concessão, não como ordem.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "como concessão",
+    "termo": "κατὰ συγγνώμην (kata syngnōmēn)",
+    "titulo": "syngnōmē, hápax",
+    "texto": "Única ocorrência no NT: “indulgência, permissão”. O que é concessão? Provavelmente a pausa temporária do v. 5 (Paulo a permite, não a ordena); alguns entendem todo o v. 2 (casar-se). A primeira leitura é a mais provável, porque o v. 5 é o mais próximo."
+   }
+  ]
+ },
+ "1Co.7.7": {
+  "t": "Eu gostaria que todos fossem como eu sou; mas cada um tem de Deus o seu próprio dom, um de um modo, outro de outro.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "como eu sou",
+    "termo": "ὡς καὶ ἐμαυτόν",
+    "titulo": "o estado de Paulo",
+    "texto": "Paulo não era casado quando escreveu (vv. 8; 9:5). Não se sabe se nunca se casou ou se era viúvo; como fariseu de destaque, alguns pensam que fora casado, mas não há prova."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "o seu próprio dom",
+    "termo": "ἴδιον ... χάρισμα",
+    "titulo": "charisma",
+    "texto": "O mesmo termo de 1:7 e 12:4. Tanto o celibato quanto o casamento (“um de um modo, outro de outro”) são apresentados como dom de Deus. Paulo valoriza o celibato, mas não o impõe."
+   }
+  ]
+ },
+ "1Co.7.8": {
+  "t": "Aos não casados e às viúvas digo: é bom para eles que permaneçam como eu.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Aos não casados",
+    "termo": "τοῖς ἀγάμοις (tois agamois)",
+    "titulo": "agamos",
+    "texto": "Agamos é qualquer pessoa sem cônjuge. Ao lado de “viúvas”, pode designar especificamente os viúvos, já que o grego tinha pouco uso de um termo próprio para eles; mas o sentido geral “não casados” também cabe."
+   }
+  ]
+ },
+ "1Co.7.9": {
+  "t": "Mas, se não conseguem dominar-se, casem-se; pois é melhor casar-se do que arder.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "se não conseguem dominar-se",
+    "termo": "εἰ δὲ οὐκ ἐγκρατεύονται",
+    "titulo": "enkrateuomai, raro",
+    "texto": "Só aqui e em 9:25 (o atleta que se disciplina). O presente indica uma situação real: “se não estão se dominando”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "arder",
+    "termo": "πυροῦσθαι (pyrousthai)",
+    "titulo": "pyroō",
+    "texto": "“Queimar-se, arder”. O sentido mais provável é arder de desejo sexual (cf. 2Co 11:29, outro uso figurado). Alguns pensaram no fogo do juízo, mas o contexto trata de domínio próprio, não de condenação."
+   }
+  ]
+ },
+ "1Co.7.10": {
+  "t": "Aos casados ordeno, não eu, mas o Senhor: que a mulher não se separe do marido",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "não eu, mas o Senhor",
+    "termo": "οὐκ ἐγὼ ἀλλ᾽ ὁ κύριος",
+    "titulo": "uma palavra de Jesus",
+    "texto": "Paulo cita o ensino de Jesus sobre o divórcio (Mc 10:9-12; Mt 5:32; 19:3-9; Lc 16:18). Ele distingue entre o que Jesus disse expressamente e a sua própria orientação apostólica (v. 12), sem que esta tenha menos autoridade (v. 40; 14:37)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "não se separe",
+    "termo": "μὴ χωρισθῆναι (mē chōristhēnai)",
+    "titulo": "chōrizō",
+    "texto": "No mundo greco-romano, separar-se do cônjuge era divorciar-se: não havia separação legal distinta do divórcio, e qualquer dos dois podia romper o casamento simplesmente deixando o lar. Por isso chōrizō (“separar-se”) e aphiēmi (“deixar, despedir”, vv. 11-13) são aqui equivalentes."
+   }
+  ]
+ },
+ "1Co.7.11": {
+  "t": "— e, se ela se separar, permaneça sem se casar ou se reconcilie com o marido — e que o marido não se divorcie da mulher.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "— e, se ela se separar",
+    "termo": "ἐὰν δὲ καὶ χωρισθῇ",
+    "titulo": "parêntese",
+    "texto": "A frase interrompe a ordem, que retoma em “e que o marido não se divorcie”. Por isso os travessões. Paulo trata do caso que já aconteceu: mesmo então, não há novo casamento, mas permanecer só ou reconciliar-se."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "não se divorcie",
+    "termo": "μὴ ἀφιέναι (mē aphienai)",
+    "titulo": "aphiēmi",
+    "texto": "Lit. “não deixe, não despeça”. Era o termo usual para o marido que repudiava a mulher."
+   }
+  ]
+ },
+ "1Co.7.12": {
+  "t": "Aos demais digo eu, não o Senhor: se algum irmão tem mulher descrente, e ela concorda em viver com ele, não se divorcie dela.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "digo eu, não o Senhor",
+    "termo": "λέγω ἐγὼ οὐχ ὁ κύριος",
+    "titulo": "sem palavra de Jesus",
+    "texto": "Jesus não tratou do casamento entre crente e descrente, situação nova criada pela pregação aos gentios. Paulo dá a orientação como apóstolo."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "concorda",
+    "termo": "συνευδοκεῖ (syneudokei)",
+    "titulo": "syneudokeō",
+    "texto": "“Estar de acordo, consentir”. O descrente quer continuar no casamento: o crente não deve tomar a iniciativa da separação."
+   }
+  ]
+ },
+ "1Co.7.13": {
+  "t": "E, se uma mulher tem marido descrente, e ele concorda em viver com ela, não se divorcie do marido.",
+  "n": []
+ },
+ "1Co.7.14": {
+  "t": "Pois o marido descrente é santificado por meio da mulher, e a mulher descrente é santificada por meio do irmão. Do contrário, os filhos de vocês seriam impuros; mas agora são santos.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "é santificado",
+    "termo": "ἡγίασται (hēgiastai)",
+    "titulo": "santificado, não salvo",
+    "texto": "O perfeito indica um estado. O cônjuge descrente não é salvo por isso (v. 16), mas a união com o crente não contamina o crente; ao contrário, o casamento fica sob a esfera da santidade de Deus. Paulo responde a quem temia que o casamento com um pagão tornasse o crente impuro (cf. 6:15-17)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "por meio do irmão",
+    "termo": "ἐν τῷ ἀδελφῷ (en tō adelphō)",
+    "titulo": "“irmão” ou “marido”",
+    "texto": "O Textus Receptus e o Texto Bizantino trazem andri (“marido”); o texto crítico, com os manuscritos mais antigos, traz adelphō (“irmão”), que enfatiza que o marido é crente."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "mas agora são santos",
+    "termo": "νῦν δὲ ἅγιά ἐστιν",
+    "titulo": "os filhos",
+    "texto": "O argumento supõe algo que os coríntios já aceitavam: os filhos de um casal com um crente não são “impuros”, mas pertencem à esfera de Deus. O versículo foi usado no debate sobre o batismo de crianças, mas não fala de batismo; fala do estado das crianças por causa da família."
+   }
+  ]
+ },
+ "1Co.7.15": {
+  "t": "Mas, se o descrente se separar, que se separe. Em tais casos, o irmão ou a irmã não estão escravizados. Deus nos chamou para vivermos em paz.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "não estão escravizados",
+    "termo": "οὐ δεδούλωται (ou dedoulōtai)",
+    "titulo": "livre para casar de novo?",
+    "texto": "Lit. “não está escravizado”, no perfeito. Quando o descrente abandona o casamento, o crente não está obrigado a mantê-lo a todo custo. Se isso inclui a liberdade de casar-se de novo é debatido. Muitos protestantes, desde a Reforma, entendem que sim, porque a fórmula se parece com a das cartas de divórcio judaicas (“você está livre para casar com qualquer homem”) e com o v. 39 (“está livre”); outros, e a tradição católica romana na prática do “privilégio paulino”, distinguem; outros ainda leem apenas liberdade de não lutar contra a separação, aplicando o v. 11. A tradução literal deixa o debate aberto.",
+    "revisar": true
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Deus nos chamou",
+    "termo": "κέκληκεν ἡμᾶς (keklēken hēmas)",
+    "titulo": "hēmas ou hymas",
+    "texto": "O SBLGNT, o Textus Receptus e o Texto Bizantino trazem hēmas (“nos”); NA28, NA27 e Westcott-Hort, hymas (“vos”). As duas palavras soavam quase iguais na pronúncia da época. Sem diferença real de sentido."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "para vivermos em paz",
+    "termo": "ἐν δὲ εἰρήνῃ",
+    "titulo": "“em paz”",
+    "texto": "Lit. “em paz Deus nos chamou”. A paz pode justificar deixar o descrente ir (não lutar por manter um casamento que ele rejeita) ou, ao contrário, introduzir o v. 16 como razão para preservar o casamento. A primeira leitura é a mais natural depois de “que se separe”."
+   }
+  ]
+ },
+ "1Co.7.16": {
+  "t": "Pois como você sabe, mulher, se salvará o seu marido? Ou como você sabe, marido, se salvará a sua mulher?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "como você sabe, mulher, se salvará o seu marido?",
+    "termo": "τί γὰρ οἶδας, γύναι, εἰ τὸν ἄνδρα σώσεις;",
+    "titulo": "pessimista ou otimista",
+    "texto": "A pergunta pode significar: “você não tem como saber se o converterá; por isso, se ele quer ir, deixe-o” (leitura que segue o v. 15); ou: “quem sabe você o salvará?”, como estímulo para manter o casamento (cf. 1Pe 3:1). A gramática permite as duas; a ligação com o v. 15 favorece a primeira."
+   }
+  ]
+ },
+ "1Co.7.17": {
+  "t": "Fora isso, cada um continue vivendo na condição que o Senhor lhe deu, tal como Deus o chamou. É isso que ordeno em todas as igrejas.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Fora isso",
+    "termo": "Εἰ μὴ (ei mē)",
+    "titulo": "ei mē",
+    "texto": "Lit. “senão”, “a não ser”. Introduz o princípio geral que rege o capítulo: permanecer na situação em que se estava quando chamado por Deus, a não ser que haja razão forte para mudar."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "continue vivendo",
+    "termo": "περιπατείτω (peripateitō)",
+    "titulo": "“ande”",
+    "texto": "Lit. “ande”, metáfora para o modo de viver (ver 3:3)."
+   }
+  ]
+ },
+ "1Co.7.18": {
+  "t": "Alguém foi chamado já circuncidado? Não desfaça a circuncisão. Alguém foi chamado sendo incircunciso? Não se circuncide.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Não desfaça a circuncisão",
+    "termo": "μὴ ἐπισπάσθω (mē epispasthō)",
+    "titulo": "epispaomai, hápax",
+    "texto": "Única ocorrência no NT: “puxar para cima”, termo técnico da cirurgia que disfarçava a circuncisão. Alguns judeus a faziam para não serem ridicularizados nos ginásios gregos, onde os atletas se exercitavam nus (1Mc 1:15)."
+   }
+  ]
+ },
+ "1Co.7.19": {
+  "t": "A circuncisão nada é, e a incircuncisão nada é; o que importa é guardar os mandamentos de Deus.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "o que importa é guardar os mandamentos de Deus",
+    "termo": "ἀλλὰ τήρησις ἐντολῶν θεοῦ",
+    "titulo": "frase elíptica",
+    "texto": "Lit. “mas guarda dos mandamentos de Deus”. Afirmação surpreendente vinda de um judeu, já que a circuncisão era ela mesma mandamento (Gn 17:10). Para Paulo, a obediência que agora importa é a de quem pertence a Cristo (Gl 5:6; 6:15; 1Co 9:21). Tērēsis (raro) é “observância”."
+   }
+  ]
+ },
+ "1Co.7.20": {
+  "t": "Cada um permaneça na condição em que estava quando foi chamado.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "na condição em que estava quando foi chamado",
+    "termo": "ἐν τῇ κλήσει ᾗ ἐκλήθη",
+    "titulo": "klēsis",
+    "texto": "Lit. “no chamado em que foi chamado”. Aqui klēsis não é a profissão (sentido que a palavra “vocação” ganhou depois, por influência de Lutero), mas a situação em que a pessoa estava quando Deus a chamou: judeu ou gentio, escravo ou livre."
+   }
+  ]
+ },
+ "1Co.7.21": {
+  "t": "Você foi chamado sendo escravo? Não se preocupe com isso. Mas, se puder ficar livre, aproveite a oportunidade.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "escravo",
+    "termo": "δοῦλος (doulos)",
+    "titulo": "doulos: “escravo” e não “servo”",
+    "texto": "Nesta carta a APV usa “servo” para doulos quando se trata da relação com Deus. Aqui, porém, Paulo fala da escravidão como condição social e jurídica, em contraste com “livre” e “liberto”; “servo” esconderia isso. Por isso “escravo” nos vv. 21-23, incluindo “escravo de Cristo” (v. 22), para manter o paralelo."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "se puder ficar livre, aproveite a oportunidade",
+    "termo": "εἰ καὶ δύνασαι ἐλεύθερος γενέσθαι, μᾶλλον χρῆσαι",
+    "titulo": "uma frase famosa por ser ambígua",
+    "texto": "Lit. “mas, se também pode tornar-se livre, antes use”. O verbo “use” (chrēsai) não tem objeto. Duas leituras: (1) “use a liberdade”, isto é, se surgir a chance de liberdade, aproveite-a; (2) “use antes a escravidão”, isto é, mesmo se puder ser livre, prefira permanecer e servir a Deus nessa condição. A segunda acompanha o princípio “permaneça” (vv. 20, 24) e foi a de muitos intérpretes antigos; a primeira é favorecida por muitos modernos (S. S. Bartchy estudou o tema), porque na época a alforria dependia do senhor e não do escravo, porque “antes” (mallon) parece contrastar com “não se preocupe”, e porque o v. 23 desaconselha tornar-se escravo de homens. A tradução segue a primeira, que nos parece a mais provável.",
+    "revisar": true
+   }
+  ]
+ },
+ "1Co.7.22": {
+  "t": "Pois quem, sendo escravo, foi chamado no Senhor é um liberto do Senhor; da mesma forma, quem foi chamado sendo livre é escravo de Cristo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "um liberto do Senhor",
+    "termo": "ἀπελεύθερος κυρίου (apeleutheros kyriou)",
+    "titulo": "apeleutheros, hápax",
+    "texto": "Única ocorrência no NT: o escravo alforriado, que continuava ligado ao antigo dono como patrono. Paulo inverte as condições: o escravo que crê é livre diante do Senhor, e o livre que crê passa a pertencer a Cristo como escravo."
+   }
+  ]
+ },
+ "1Co.7.23": {
+  "t": "Vocês foram comprados por um preço; não se tornem escravos de homens.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "comprados por um preço",
+    "termo": "τιμῆς ἠγοράσθητε",
+    "titulo": "agorazō",
+    "texto": "Repete 6:20. Comprados por Cristo, não podem pôr-se sob o domínio de outros senhores. Alguns pensam em quem se vendia como escravo por dinheiro; outros, na submissão a critérios humanos. O sentido amplo cabe nas duas."
+   }
+  ]
+ },
+ "1Co.7.24": {
+  "t": "Irmãos, cada um permaneça diante de Deus na condição em que foi chamado.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "diante de Deus",
+    "termo": "παρὰ θεῷ (para theō)",
+    "titulo": "para theō",
+    "texto": "“Junto de Deus, na presença dele”. A condição social importa menos que viver diante de Deus nela."
+   }
+  ]
+ },
+ "1Co.7.25": {
+  "t": "Quanto às virgens, não tenho mandamento do Senhor, mas dou o meu parecer como alguém que, pela misericórdia do Senhor, é digno de confiança.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Quanto às virgens",
+    "termo": "Περὶ δὲ τῶν παρθένων",
+    "titulo": "parthenoi",
+    "texto": "Novo assunto da carta dos coríntios. Parthenos é a moça solteira que nunca teve relações sexuais. O genitivo plural pode ser masculino ou feminino, mas os vv. 28, 34 e 36-38 mostram que se trata das moças e, provavelmente, dos noivos que pensavam em não se casar."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "digno de confiança",
+    "termo": "πιστὸς (pistos)",
+    "titulo": "pistos",
+    "texto": "Fiel, confiável, como o administrador de 4:2. Paulo apoia o seu parecer na misericórdia recebida, não em mérito pessoal."
+   }
+  ]
+ },
+ "1Co.7.26": {
+  "t": "Penso, então, que, por causa da presente aflição, é bom que a pessoa fique como está.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "da presente aflição",
+    "termo": "τὴν ἐνεστῶσαν ἀνάγκην",
+    "titulo": "presente ou iminente",
+    "texto": "Anankē é necessidade, aperto, aflição. Enestōsa pode ser “presente” ou “iminente”. Leituras: (1) as aflições dos últimos tempos que já começaram, antes da vinda de Cristo (v. 29; Lc 21:23 usa anankē assim); (2) uma crise concreta em Corinto, como escassez de alimentos (defendido por B. W. Winter, After Paul Left Corinth, 2001). As duas não se excluem.",
+    "revisar": true
+   },
+   {
+    "tipo": "tn",
+    "ancora": "fique como está",
+    "termo": "τὸ οὕτως εἶναι",
+    "titulo": "“ser assim”",
+    "texto": "Lit. “que é bom para o homem ser assim”, isto é, permanecer na situação em que está, casado ou solteiro, como o v. 27 explica."
+   }
+  ]
+ },
+ "1Co.7.27": {
+  "t": "Você está ligado a uma mulher? Não procure desligar-se. Está livre de mulher? Não procure mulher.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Você está ligado a uma mulher?",
+    "termo": "δέδεσαι γυναικί;",
+    "titulo": "esposa ou noiva",
+    "texto": "“Ligado” pode ser ao casamento ou ao noivado, que naquela cultura era compromisso quase tão firme quanto o casamento. Como o v. 28 trata de quem ainda vai se casar, alguns pensam em noivos; o v. 39 usa o mesmo verbo para o casamento."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "desligar-se",
+    "termo": "λύσιν (lysin)",
+    "titulo": "lysis, hápax",
+    "texto": "Única ocorrência no NT: “soltura, separação”. Lit. “não procure soltura”."
+   }
+  ]
+ },
+ "1Co.7.28": {
+  "t": "Mas, se você se casar, não terá pecado; e, se a virgem se casar, não terá pecado. Porém esses terão aflições na vida terrena, e eu quero poupá-los.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "na vida terrena",
+    "termo": "τῇ σαρκὶ (tē sarki)",
+    "titulo": "“na carne”",
+    "texto": "Lit. “na carne”, isto é, nesta vida humana e física, com suas pressões, sem sentido moral."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "eu quero poupá-los",
+    "termo": "ἐγὼ δὲ ὑμῶν φείδομαι",
+    "titulo": "pheidomai",
+    "texto": "O presente pode ser “estou tentando poupá-los”. Paulo aconselha o celibato por cuidado pastoral, não por desprezo ao casamento."
+   }
+  ]
+ },
+ "1Co.7.29": {
+  "t": "Isto, porém, eu digo, irmãos: o tempo se abreviou. De agora em diante, os que têm mulher sejam como se não tivessem;",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "o tempo se abreviou",
+    "termo": "ὁ καιρὸς συνεσταλμένος ἐστίν",
+    "titulo": "systellō, raro",
+    "texto": "Systellō (raro: aqui e At 5:6) é “encolher, comprimir”, como se recolhe uma vela de navio. O kairos, o tempo que resta até a vinda do Senhor, ficou curto. Não é uma data, mas a perspectiva de quem vive à luz do fim."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "sejam como se não tivessem",
+    "termo": "ὡς μὴ ἔχοντες ὦσιν",
+    "titulo": "hōs mē",
+    "texto": "A série “como se não” (vv. 29-31) não manda abandonar o casamento, as emoções ou o comércio, mas vivê-los sem ser possuído por eles, sabendo que pertencem a um mundo que passa."
+   }
+  ]
+ },
+ "1Co.7.30": {
+  "t": "os que choram, como se não chorassem; os que se alegram, como se não se alegrassem; os que compram, como se não possuíssem;",
+  "n": []
+ },
+ "1Co.7.31": {
+  "t": "e os que usam o mundo, como se não o usassem plenamente. Pois a forma deste mundo está passando.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "como se não o usassem plenamente",
+    "termo": "ὡς μὴ καταχρώμενοι (hōs mē katachrōmenoi)",
+    "titulo": "katachraomai, raro",
+    "texto": "Só aqui e em 9:18: “usar até o fim, aproveitar ao máximo”, às vezes “abusar”. O jogo com chraomai (“usar”) mostra o sentido: usar, mas sem esgotar."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "a forma deste mundo",
+    "termo": "τὸ σχῆμα τοῦ κόσμου τούτου",
+    "titulo": "schēma, raro",
+    "texto": "Schēma (raro: aqui e Fp 2:7) é a forma visível, a configuração exterior. O que passa é a ordem presente do mundo, não a criação em si (Rm 8:19-21)."
+   }
+  ]
+ },
+ "1Co.7.32": {
+  "t": "Quero que vocês estejam livres de preocupações. O homem não casado se preocupa com as coisas do Senhor, em como agradar ao Senhor;",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "livres de preocupações",
+    "termo": "ἀμερίμνους (amerimnous)",
+    "titulo": "amerimnos, raro",
+    "texto": "Só aqui e em Mt 28:14. Merimnaō (“preocupar-se”) aparece cinco vezes nos vv. 32-34: com sentido de ansiedade (Mt 6:25) ou de cuidado legítimo (12:25; Fp 2:20). Paulo usa a mesma palavra para as duas coisas, e o leitor percebe o jogo."
+   }
+  ]
+ },
+ "1Co.7.33": {
+  "t": "mas o casado se preocupa com as coisas do mundo, em como agradar à mulher,",
+  "n": []
+ },
+ "1Co.7.34": {
+  "t": "e está dividido. Também a mulher não casada e a virgem se preocupam com as coisas do Senhor, para serem santas tanto no corpo como no espírito; mas a casada se preocupa com as coisas do mundo, em como agradar ao marido.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "e está dividido",
+    "termo": "καὶ μεμέρισται (kai memeristai)",
+    "titulo": "memeristai",
+    "texto": "Pode ser o marido, dividido entre o Senhor e a mulher, ou, como no Textus Receptus (ver a nota seguinte), a diferença entre a mulher casada e a virgem. A primeira leitura segue o texto crítico."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Também a mulher não casada e a virgem",
+    "termo": "καὶ ἡ γυνὴ ἡ ἄγαμος καὶ ἡ παρθένος",
+    "titulo": "várias formas",
+    "texto": "Os manuscritos divergem muito neste versículo. O texto crítico liga “e está dividido” ao v. 33 e começa nova frase com “também a mulher não casada e a virgem”. O Textus Receptus e o Texto Bizantino leem “Há diferença (memeristai) entre a mulher e a virgem: a não casada se preocupa...”. A forma crítica tem melhor apoio antigo."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "tanto no corpo como no espírito",
+    "termo": "καὶ τῷ σώματι καὶ τῷ πνεύματι",
+    "titulo": "santas",
+    "texto": "A pessoa inteira dedicada ao Senhor. Não significa que a casada não seja santa (v. 14), mas que a não casada pode dedicar-se sem a divisão de cuidados."
+   }
+  ]
+ },
+ "1Co.7.35": {
+  "t": "Digo isso para o próprio bem de vocês, não para lhes lançar um laço, mas em vista do que é digno e da dedicação constante ao Senhor, sem distração.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "lançar um laço",
+    "termo": "βρόχον ... ἐπιβάλω (brochon ... epibalō)",
+    "titulo": "brochos, hápax",
+    "texto": "Única ocorrência no NT: o laço ou a corda usada para capturar animais. Paulo não quer prender ninguém com regras."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "da dedicação constante ao Senhor, sem distração",
+    "termo": "εὐπάρεδρον τῷ κυρίῳ ἀπερισπάστως",
+    "titulo": "dois hápax",
+    "texto": "Euparedros é “que se mantém assentado junto”, assíduo; aperispastōs, “sem ser puxado em várias direções”. A imagem lembra Maria aos pés de Jesus, enquanto Marta estava “distraída” (perispaō) com muitos afazeres (Lc 10:39-40)."
+   }
+  ]
+ },
+ "1Co.7.36": {
+  "t": "Se alguém pensa que está agindo de modo inconveniente para com a sua noiva, se a paixão dele é forte e assim tem de ser, faça o que deseja; não peca: casem-se.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "a sua noiva",
+    "termo": "τὴν παρθένον αὐτοῦ (tēn parthenon autou)",
+    "titulo": "“a sua virgem”: noiva ou filha?",
+    "texto": "Lit. “a sua virgem”. Os vv. 36-38 são dos mais difíceis da carta. Leituras principais: (1) um noivo e sua noiva, que pensavam em não se casar por motivos espirituais; (2) um pai ou tutor e a filha solteira, a quem ele dá ou não em casamento (leitura tradicional, de Almeida e de muitos Pais); (3) um casal que vivia junto em continência, prática conhecida depois na igreja antiga. A APV segue a primeira, adotada pela maioria dos comentaristas modernos, porque: o v. 36 termina com “casem-se” (plural), o que supõe que os dois se casam um com o outro; “agir de modo inconveniente” e “a paixão dele” se aplicam naturalmente a um noivo; e “sua virgem” seria modo estranho de um pai falar da filha. O principal apoio da segunda leitura está no v. 38 (ver a nota ali).",
+    "revisar": true
+   },
+   {
+    "tipo": "tn",
+    "ancora": "agindo de modo inconveniente",
+    "termo": "ἀσχημονεῖν (aschēmonein)",
+    "titulo": "aschēmoneō, raro",
+    "texto": "Só aqui e em 13:5: comportar-se de modo indecoroso, vergonhoso. Pode referir-se a desejos que ameaçam o domínio próprio ou a uma situação socialmente vexatória para a moça."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "se a paixão dele é forte",
+    "termo": "ἐὰν ᾖ ὑπέρακμος (ean ē hyperakmos)",
+    "titulo": "hyperakmos, hápax",
+    "texto": "Única ocorrência no NT, de akmē (“auge, ponto alto”) com hyper (“além”). Pode ser “passar da flor da idade” (dito da moça, já em idade avançada para casar) ou “estar com desejo muito forte” (dito do homem). Como o sujeito das frases vizinhas é o homem, e o contexto fala de domínio próprio (vv. 9, 37), a tradução segue o segundo sentido; o primeiro é a leitura tradicional e combina com a interpretação do pai e da filha.",
+    "revisar": true
+   },
+   {
+    "tipo": "tn",
+    "ancora": "casem-se",
+    "termo": "γαμείτωσαν (gameitōsan)",
+    "titulo": "plural",
+    "texto": "O plural (“que eles se casem”) é o argumento mais forte de que o texto trata de noivos: o homem e a moça se casam um com o outro."
+   }
+  ]
+ },
+ "1Co.7.37": {
+  "t": "Mas quem está firme em seu coração, não tem necessidade, tem domínio sobre a própria vontade e decidiu em seu coração conservar a sua noiva virgem, fará bem.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "não tem necessidade",
+    "termo": "μὴ ἔχων ἀνάγκην",
+    "titulo": "anankē",
+    "texto": "Isto é, não sofre a pressão de um desejo que não consegue controlar (cf. v. 36), nem outra imposição externa."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "firme",
+    "termo": "ἑδραῖος (hedraios)",
+    "titulo": "hedraios, raro",
+    "texto": "Só três vezes no NT (aqui; 15:58; Cl 1:23): firmemente assentado, estável."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "conservar a sua noiva virgem",
+    "termo": "τηρεῖν τὴν ἑαυτοῦ παρθένον",
+    "titulo": "“guardar a sua virgem”",
+    "texto": "Lit. “guardar a sua virgem”, isto é, manter a relação sem consumar o casamento. Na leitura do pai e da filha: manter a filha solteira."
+   }
+  ]
+ },
+ "1Co.7.38": {
+  "t": "Assim, quem se casa com a sua noiva faz bem, e quem não se casa fará melhor.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "quem se casa com a sua noiva",
+    "termo": "ὁ γαμίζων τὴν ἑαυτοῦ παρθένον",
+    "titulo": "gamizō",
+    "texto": "Gamizō, nos Evangelhos, significa “dar em casamento” (Mc 12:25; Lc 17:27), e por isso a leitura tradicional entende “quem dá a sua filha em casamento”. No grego da época, porém, verbos em -izō às vezes perdem o sentido causativo, e gamizō pode valer o mesmo que gameō (“casar-se”). Dado o v. 36, a tradução segue esse sentido. Os manuscritos tardios, seguidos pelo Textus Receptus, trazem ekgamizōn, que reforça o sentido de “dar em casamento”.",
+    "revisar": true
+   },
+   {
+    "tipo": "tn",
+    "ancora": "fará melhor",
+    "termo": "κρεῖσσον ποιήσει",
+    "titulo": "melhor, não obrigatório",
+    "texto": "Casar-se é bom; não casar, para Paulo, é melhor nas circunstâncias descritas (vv. 26, 29-35). Não há pecado em nenhuma das escolhas (v. 36)."
+   }
+  ]
+ },
+ "1Co.7.39": {
+  "t": "A mulher está ligada ao marido enquanto ele vive; mas, se o marido morrer, ela está livre para se casar com quem quiser, contanto que seja no Senhor.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "está ligada",
+    "termo": "δέδεται (dedetai)",
+    "titulo": "deō",
+    "texto": "O mesmo verbo do v. 27. O Textus Receptus e o Texto Bizantino acrescentam nomō: “está ligada pela lei”, talvez por influência de Rm 7:2."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "se o marido morrer",
+    "termo": "ἐὰν δὲ κοιμηθῇ ὁ ἀνήρ",
+    "titulo": "“adormecer”",
+    "texto": "Lit. “se o marido adormecer”, eufemismo cristão para a morte, que aponta para a ressurreição (11:30; 15:6, 18, 20, 51; 1Ts 4:13-15)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "contanto que seja no Senhor",
+    "termo": "μόνον ἐν κυρίῳ",
+    "titulo": "“somente no Senhor”",
+    "texto": "Isto é, com alguém que também pertence ao Senhor, um cristão. Alguns entendem de modo mais amplo: “de maneira que agrade ao Senhor”; a primeira leitura é a mais aceita."
+   }
+  ]
+ },
+ "1Co.7.40": {
+  "t": "Mas, na minha opinião, ela será mais feliz se permanecer como está. E penso que também eu tenho o Espírito de Deus.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "mais feliz",
+    "termo": "μακαριωτέρα (makariōtera)",
+    "titulo": "makarios",
+    "texto": "Comparativo de makarios, a palavra das bem-aventuranças: “mais bem-aventurada, mais feliz”. Paulo pensa na liberdade para servir ao Senhor (vv. 32-35)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "também eu tenho o Espírito de Deus",
+    "termo": "δοκῶ δὲ κἀγὼ πνεῦμα θεοῦ ἔχειν",
+    "titulo": "ironia",
+    "texto": "O “também eu” sugere ironia contra quem em Corinto se dizia guiado pelo Espírito e talvez discordasse de Paulo. Dokō (“penso”) não exprime dúvida real, mas modéstia retórica."
+   }
+  ]
+ },
+ "1Co.8.1": {
+  "t": "Quanto às carnes sacrificadas aos ídolos, sabemos que “todos temos conhecimento”. O conhecimento incha, mas o amor edifica.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "carnes sacrificadas aos ídolos",
+    "termo": "τῶν εἰδωλοθύτων (tōn eidōlothytōn)",
+    "titulo": "eidōlothyta",
+    "texto": "Lit. “coisas sacrificadas a ídolos”. Nos templos pagãos, parte do animal era queimada para o deus, parte comida em banquetes no recinto do templo, e o resto vendido no mercado. A palavra é de origem judaica ou cristã; os pagãos falavam em hierothyton, “sacrificado ao sagrado” (10:28). Os caps. 8-10 tratam de comer essa carne nos templos (8:10; 10:14-22) e de comprá-la no mercado ou comê-la em casas particulares (10:25-30)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "“todos temos conhecimento”",
+    "termo": "πάντες γνῶσιν ἔχομεν",
+    "titulo": "outro lema",
+    "texto": "Provavelmente um lema dos coríntios “que sabem”, como em 6:12 e 7:1; por isso as aspas. Paulo concorda com o conteúdo (vv. 4-6), mas corrige o uso: conhecimento sem amor incha."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "O conhecimento incha, mas o amor edifica",
+    "termo": "ἡ γνῶσις φυσιοῖ, ἡ δὲ ἀγάπη οἰκοδομεῖ",
+    "titulo": "physioō e oikodomeō",
+    "texto": "Physioō, ver 4:6. Oikodomeō é “construir”, imagem que vem de 3:9-17: o amor constrói a comunidade, o orgulho só infla o indivíduo. É a tese que o cap. 13 desenvolverá."
+   }
+  ]
+ },
+ "1Co.8.2": {
+  "t": "Se alguém pensa que conhece alguma coisa, ainda não conheceu como convém conhecer.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "ainda não conheceu como convém conhecer",
+    "termo": "οὔπω ἔγνω καθὼς δεῖ γνῶναι",
+    "titulo": "forma mais longa",
+    "texto": "O Textus Receptus e o Texto Bizantino trazem “ainda nada conheceu (oudepō ouden egnōken) como convém”. Sem efeito importante no sentido."
+   }
+  ]
+ },
+ "1Co.8.3": {
+  "t": "Mas, se alguém ama a Deus, esse é conhecido por ele.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "esse é conhecido por ele",
+    "termo": "οὗτος ἔγνωσται ὑπ᾽ αὐτοῦ",
+    "titulo": "ser conhecido por Deus",
+    "texto": "Era de esperar “esse conhece a Deus”. Paulo inverte: o que importa não é o que sabemos sobre Deus, mas sermos conhecidos por ele, isto é, escolhidos e amados (Gl 4:9; 13:12; Am 3:2 e Jr 1:5, onde “conhecer” é escolher)."
+   }
+  ]
+ },
+ "1Co.8.4": {
+  "t": "Quanto, pois, a comer carnes sacrificadas aos ídolos, sabemos que “o ídolo nada é no mundo” e que “não há Deus senão um só”.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "“o ídolo nada é no mundo”",
+    "termo": "οὐδὲν εἴδωλον ἐν κόσμῳ",
+    "titulo": "dois lemas",
+    "texto": "As duas frases entre aspas parecem lemas dos coríntios, que Paulo aceita. A primeira pode ser também “não existe ídolo no mundo”, isto é, o deus representado pela imagem não existe. Em 10:19-20 Paulo acrescenta que por trás dos ídolos há demônios."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "“não há Deus senão um só”",
+    "termo": "οὐδεὶς θεὸς εἰ μὴ εἷς",
+    "titulo": "o Shemá",
+    "texto": "Ecoa a confissão central de Israel: “Ouça, Israel, o SENHOR nosso Deus é o único SENHOR” (Dt 6:4), também Dt 4:35, 39 e Is 44:6; 45:5. O Textus Receptus e o Texto Bizantino acrescentam heteros: “não há outro Deus senão um só”."
+   }
+  ]
+ },
+ "1Co.8.5": {
+  "t": "Pois, ainda que haja os chamados deuses, seja no céu, seja na terra — como de fato há muitos deuses e muitos senhores —,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "como de fato há muitos deuses e muitos senhores",
+    "termo": "ὥσπερ εἰσὶν θεοὶ πολλοὶ καὶ κύριοι πολλοί",
+    "titulo": "existem ou não?",
+    "texto": "Paulo não contradiz o v. 4. Os “deuses” existem no sentido de que são cultuados e exercem poder sobre os que os servem, como forças espirituais (10:20), mas não são deuses verdadeiros. Kyrios era título comum de divindades de cultos orientais (“o senhor Serápis”)."
+   }
+  ]
+ },
+ "1Co.8.6": {
+  "t": "para nós, porém, há um só Deus, o Pai, de quem vêm todas as coisas e para quem nós existimos; e um só Senhor, Jesus Cristo, por meio de quem vêm todas as coisas e por meio de quem nós existimos.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "um só Deus, o Pai",
+    "termo": "εἷς θεὸς ὁ πατὴρ ... καὶ εἷς κύριος Ἰησοῦς Χριστὸς",
+    "titulo": "o Shemá reinterpretado",
+    "texto": "Paulo retoma as palavras do Shemá (Dt 6:4 na Septuaginta: kyrios ho theos hēmōn kyrios heis estin) e as distribui: “Deus” para o Pai e “Senhor” para Jesus Cristo. Assim inclui Jesus dentro da confissão do único Deus de Israel, sem negar o monoteísmo (R. Bauckham, God Crucified, 1998; N. T. Wright, The Climax of the Covenant, 1991). O Filho também aparece como agente da criação (“por meio de quem vêm todas as coisas”; Jo 1:3; Cl 1:16; Hb 1:2), papel que o judaísmo atribuía à Sabedoria de Deus."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "de quem vêm todas as coisas e para quem nós existimos",
+    "termo": "ἐξ οὗ τὰ πάντα καὶ ἡμεῖς εἰς αὐτόν",
+    "titulo": "frase sem verbo",
+    "texto": "O grego não tem verbo: “de quem todas as coisas, e nós para ele; ... por meio de quem todas as coisas, e nós por meio dele”. A tradução supre “vêm” e “existimos”. As preposições distinguem: o Pai é a origem (ek) e o alvo (eis); o Filho é o mediador (dia), da criação e também da nova existência dos crentes."
+   }
+  ]
+ },
+ "1Co.8.7": {
+  "t": "Mas nem todos têm esse conhecimento. Alguns, acostumados até agora com o ídolo, comem a carne como coisa sacrificada a ídolo, e a consciência deles, sendo fraca, fica contaminada.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "acostumados até agora com o ídolo",
+    "termo": "τῇ συνηθείᾳ ἕως ἄρτι τοῦ εἰδώλου",
+    "titulo": "synētheia, raro",
+    "texto": "Lit. “pelo costume, até agora, do ídolo”. Synētheia (raro: aqui; 11:16; Jo 18:39) é hábito. São cristãos de origem pagã que, por anos de culto, não conseguem comer essa carne sem sentir que participam da adoração ao ídolo."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "acostumados até agora com o ídolo",
+    "termo": "συνηθείᾳ / συνειδήσει",
+    "titulo": "“costume” ou “consciência”",
+    "texto": "O Textus Receptus e o Texto Bizantino trazem syneidēsei (“com consciência do ídolo”), palavra parecida que aparece no fim do versículo. O texto crítico, com synētheia (“costume”), tem os manuscritos mais antigos."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "consciência",
+    "termo": "συνείδησις (syneidēsis)",
+    "titulo": "syneidēsis",
+    "texto": "A capacidade de julgar a própria conduta como certa ou errada. A consciência “fraca” não é a de quem peca mais, mas a de quem ainda não está seguro de que o ídolo nada é; se age contra ela, “contamina-se” (molynō, raro: manchar, sujar), isto é, sente-se culpado e de fato peca (Rm 14:23)."
+   }
+  ]
+ },
+ "1Co.8.8": {
+  "t": "Ora, não é a comida que nos recomendará a Deus: nem perdemos nada se não comermos, nem ganhamos nada se comermos.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "nos recomendará a Deus",
+    "termo": "ἡμᾶς οὐ παραστήσει τῷ θεῷ",
+    "titulo": "paristēmi",
+    "texto": "Paristēmi é “apresentar, pôr diante de”. Pode ser “recomendar a Deus” ou “apresentar diante de Deus” no juízo. O sentido geral: a comida não afeta a nossa posição diante de Deus. É possível que também esta frase seja um argumento dos coríntios que Paulo aceita, mas aplica de outro modo (v. 9)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "nem perdemos nada se não comermos, nem ganhamos nada se comermos",
+    "termo": "οὔτε ἐὰν μὴ φάγωμεν ὑστερούμεθα, οὔτε ἐὰν φάγωμεν περισσεύομεν",
+    "titulo": "ordem e tempo",
+    "texto": "Lit. “nem, se não comermos, ficamos atrás; nem, se comermos, temos a mais”. O Textus Receptus e o Texto Bizantino invertem as duas frases e trazem o verbo anterior no presente (paristēsi, “recomenda”). Sem diferença de sentido."
+   }
+  ]
+ },
+ "1Co.8.9": {
+  "t": "Mas cuidem para que esse direito de vocês não se torne pedra de tropeço para os fracos.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "esse direito de vocês",
+    "termo": "ἡ ἐξουσία ὑμῶν αὕτη",
+    "titulo": "exousia",
+    "texto": "Exousia é autoridade, direito, liberdade de agir. Pode ecoar o “tudo me é permitido” (exestin) de 6:12. A mesma palavra domina o cap. 9 (9:4-6, 12, 18), onde Paulo mostra como abre mão dos próprios direitos."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "pedra de tropeço",
+    "termo": "πρόσκομμα (proskomma)",
+    "titulo": "proskomma",
+    "texto": "Obstáculo que faz tropeçar e cair, aqui em sentido moral: levar o irmão a pecar contra a própria consciência."
+   }
+  ]
+ },
+ "1Co.8.10": {
+  "t": "Pois, se alguém vir você, que tem conhecimento, reclinado à mesa num templo de ídolo, a consciência dele, que é fraco, não será “edificada” para comer carnes sacrificadas aos ídolos?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "reclinado à mesa num templo de ídolo",
+    "termo": "ἐν εἰδωλείῳ κατακείμενον",
+    "titulo": "eidōleion, hápax",
+    "texto": "Eidōleion (hápax no NT) é o recinto de um templo pagão, onde havia salas de banquete. Nos banquetes as pessoas comiam reclinadas. Era o lugar das festas cívicas, de aniversários e de reuniões de associações, e por isso os cristãos de posição social tinham mais motivos para frequentá-lo."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "não será “edificada”",
+    "termo": "οὐχὶ ... οἰκοδομηθήσεται",
+    "titulo": "ironia",
+    "texto": "O verbo é o mesmo de 8:1 (“o amor edifica”). Paulo usa com ironia: o exemplo do “forte” “edifica” o fraco, mas para a sua ruína. Talvez os coríntios dissessem que comer no templo ajudaria a “edificar” os fracos, libertando-os de escrúpulos. As aspas marcam a ironia."
+   }
+  ]
+ },
+ "1Co.8.11": {
+  "t": "Assim, pelo seu conhecimento, perece o fraco, o irmão por quem Cristo morreu.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "perece o fraco, o irmão por quem Cristo morreu",
+    "termo": "ἀπόλλυται γὰρ ὁ ἀσθενῶν ... ὁ ἀδελφὸς δι᾽ ὃν Χριστὸς ἀπέθανεν",
+    "titulo": "que perda?",
+    "texto": "Apollymai é o verbo de 1:18 (“os que estão se perdendo”). O presente descreve um processo em curso. Discute-se se Paulo fala da perda da salvação (leitura arminiana e de muitos intérpretes antigos) ou de um dano grave à fé, que não chega à perdição final (leitura reformada, que lê o texto à luz de Rm 8:30-39). O contraste com “por quem Cristo morreu” mostra a gravidade: o “forte” arruína aquele por quem Cristo deu a vida. O Textus Receptus e o Texto Bizantino trazem o futuro, “perecerá” (apoleitai), e kai em vez de gar."
+   }
+  ]
+ },
+ "1Co.8.12": {
+  "t": "E, pecando assim contra os irmãos e ferindo a consciência deles, que é fraca, vocês pecam contra Cristo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "ferindo",
+    "termo": "τύπτοντες (typtontes)",
+    "titulo": "typtō",
+    "texto": "Bater, golpear. A imagem é forte: o exemplo do “forte” agride a consciência ainda fraca do irmão."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "vocês pecam contra Cristo",
+    "termo": "εἰς Χριστὸν ἁμαρτάνετε",
+    "titulo": "Cristo e os seus",
+    "texto": "Ferir um membro é ferir o corpo de Cristo (12:12-27). Ecoa a palavra a Paulo no caminho de Damasco: “por que você me persegue?” (At 9:4-5) e Mt 25:40."
+   }
+  ]
+ },
+ "1Co.8.13": {
+  "t": "Por isso, se a comida faz o meu irmão tropeçar, nunca mais comerei carne, para não fazer o meu irmão tropeçar.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "faz o meu irmão tropeçar",
+    "termo": "σκανδαλίζει τὸν ἀδελφόν μου",
+    "titulo": "skandalizō",
+    "texto": "Fazer cair em pecado, de skandalon (1:23). Não se trata de desagradar ou ofender o gosto do irmão, mas de levá-lo a agir contra a fé e a consciência."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "nunca mais comerei carne",
+    "termo": "οὐ μὴ φάγω κρέα εἰς τὸν αἰῶνα",
+    "titulo": "negação enfática",
+    "texto": "Lit. “de modo nenhum comerei carnes para sempre”. Ou mē é a negação mais forte do grego. Kreas (raro: aqui e Rm 14:21) é carne em geral, não só a sacrificada. Paulo introduz assim o cap. 9: ele próprio abre mão de direitos legítimos por amor aos outros. Dioper (raro: aqui e 10:14) é “por isso mesmo”."
+   }
+  ]
  }
 }

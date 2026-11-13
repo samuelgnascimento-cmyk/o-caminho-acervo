@@ -3376,5 +3376,1190 @@
     "texto": "A frase resume os caps. 5-6: o reinado do pecado leva à morte, e o reinado da graça leva à vida eterna (5:21)."
    }
   ]
+ },
+ "Rom.7.1": {
+  "t": "Ou vocês não sabem, irmãos (pois falo a pessoas que conhecem a Lei), que a Lei tem domínio sobre a pessoa somente enquanto ela vive?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "a Lei",
+    "termo": "νόμον ... ὁ νόμος (nomon ... ho nomos)",
+    "titulo": "que lei?",
+    "texto": "Pode ser a lei em geral, inclusive o direito romano, que os leitores de Roma conheciam, ou a Lei de Moisés. O contexto (6:14; 7:4-6) e os exemplos tirados do casamento segundo a Lei judaica favorecem a Lei de Moisés. Muitos cristãos de Roma, judeus e gentios ligados à sinagoga, a conheciam bem."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "somente enquanto ela vive",
+    "termo": "ἐφ᾽ ὅσον χρόνον ζῇ (eph’ hoson chronon zē)",
+    "titulo": "“por quanto tempo vive”",
+    "texto": "Lit. “por tanto tempo quanto vive”. “Somente” explicita o ponto do argumento: a morte encerra a jurisdição da Lei."
+   }
+  ]
+ },
+ "Rom.7.2": {
+  "t": "Por exemplo, a mulher casada está ligada pela Lei ao marido enquanto ele vive; mas, se o marido morrer, ela fica desobrigada da lei que a ligava ao marido.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "a mulher casada",
+    "termo": "ἡ ... ὕπανδρος γυνή (hē hypandros gynē)",
+    "titulo": "hypandros, hápax",
+    "texto": "Hápax: lit. “sob marido”, mulher casada. Termo comum no grego da época."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "fica desobrigada",
+    "termo": "κατήργηται (katērgētai)",
+    "titulo": "katargeō",
+    "texto": "Lit. “foi desligada, tornada inoperante em relação a”: a lei do casamento deixa de ter efeito sobre ela. O mesmo verbo volta no v. 6 (“fomos libertados”). “Lei que a ligava ao marido” traduz “a lei do marido”."
+   }
+  ]
+ },
+ "Rom.7.3": {
+  "t": "Assim, enquanto o marido vive, ela será chamada adúltera se passar a pertencer a outro homem; mas, se o marido morrer, ela está livre dessa lei, de modo que não é adúltera se passar a pertencer a outro homem.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "se passar a pertencer a outro homem",
+    "termo": "ἐὰν γένηται ἀνδρὶ ἑτέρῳ (ean genētai andri heterō)",
+    "titulo": "“se tornar de outro homem”",
+    "texto": "Lit. “se se tornar de outro homem”, expressão hebraica para casar-se (Dt 24:2, Septuaginta). A mesma expressão volta no v. 4 (“pertencerem a outro”)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "ela está livre dessa lei",
+    "termo": "ἐλευθέρα ἐστὶν ἀπὸ τοῦ νόμου",
+    "titulo": "uma comparação imperfeita",
+    "texto": "A comparação não é uma alegoria exata: no exemplo, morre o marido; na aplicação (v. 4), morrem os crentes. O ponto comum é um só: a morte rompe a obrigação legal e deixa a pessoa livre para outra união."
+   }
+  ]
+ },
+ "Rom.7.4": {
+  "t": "Assim, meus irmãos, também vocês morreram para a Lei por meio do corpo de Cristo, para pertencerem a outro, àquele que foi ressuscitado dentre os mortos, a fim de que demos fruto para Deus.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "morreram para a Lei",
+    "termo": "ἐθανατώθητε τῷ νόμῳ (ethanatōthēte tō nomō)",
+    "titulo": "passivo",
+    "texto": "Lit. “foram mortos para a Lei”. O passivo sugere a morte violenta da cruz: os crentes morreram com Cristo (6:6) e assim saíram do domínio da Lei."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "por meio do corpo de Cristo",
+    "termo": "διὰ τοῦ σώματος τοῦ Χριστοῦ",
+    "titulo": "o corpo crucificado",
+    "texto": "Não é a igreja como corpo de Cristo (12:5), mas o corpo dele entregue na cruz, com o qual os crentes foram unidos na morte (6:3-6)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "demos fruto para Deus",
+    "termo": "καρποφορήσωμεν τῷ θεῷ (karpophorēsōmen tō theō)",
+    "titulo": "fruto",
+    "texto": "Alguns veem a continuação da imagem do casamento (os filhos da nova união); a maioria entende o fruto como a vida santa (6:22). Note-se a mudança para “nós”: Paulo se inclui."
+   }
+  ]
+ },
+ "Rom.7.5": {
+  "t": "Pois, quando estávamos na carne, as paixões pecaminosas, despertadas pela Lei, agiam em nossos membros, para darmos fruto para a morte.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "na carne",
+    "termo": "ἐν τῇ σαρκί (en tē sarki)",
+    "titulo": "sarx: esfera de existência",
+    "texto": "Aqui “estar na carne” não é ter corpo, mas viver na condição humana antiga, sem o Espírito e sob o poder do pecado, em contraste com “no Espírito” (8:9: “vocês não estão na carne, mas no Espírito”). Por isso o verbo no passado."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "as paixões pecaminosas, despertadas pela Lei",
+    "termo": "τὰ παθήματα τῶν ἁμαρτιῶν τὰ διὰ τοῦ νόμου",
+    "titulo": "“as paixões dos pecados, que eram por meio da Lei”",
+    "texto": "Lit. “as paixões dos pecados, as que eram por meio da Lei”. “Despertadas” interpreta o “por meio da” como Paulo o explica nos vv. 7-11: a Lei não cria o pecado, mas o pecado se aproveita dela para provocar o desejo."
+   }
+  ]
+ },
+ "Rom.7.6": {
+  "t": "Mas agora fomos libertados da Lei, tendo morrido para aquilo que nos prendia, de modo que servimos na condição nova do Espírito, e não na condição antiga da letra.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "na condição nova do Espírito, e não na condição antiga da letra",
+    "termo": "ἐν καινότητι πνεύματος καὶ οὐ παλαιότητι γράμματος",
+    "titulo": "“em novidade de espírito e não em velhice de letra”",
+    "texto": "Lit. “em novidade de Espírito e não em velhice de letra”. Kainotēs (rara; também 6:4) e palaiotēs (hápax) contrastam duas eras: a da Lei escrita, que ordena sem dar vida, e a do Espírito, que dá vida (2:29; 2Co 3:6). Maiúscula em “Espírito” porque o cap. 8 desenvolve a ideia do Espírito de Deus. “Servimos” (douleuō) mostra que a liberdade da Lei não é ausência de serviço."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "tendo morrido para aquilo que nos prendia",
+    "termo": "ἀποθανόντες ἐν ᾧ κατειχόμεθα (apothanontes en hō kateichometha)",
+    "titulo": "“morrendo para aquilo em que éramos retidos”",
+    "texto": "Lit. “tendo morrido naquilo em que éramos retidos”. O que os prendia é a Lei (ou, para alguns, o velho homem). O Textus Receptus traz apothanontos (“tendo morrido aquilo”, isto é, a Lei), forma de pouco apoio antigo que faria a Lei morrer, e não os crentes."
+   }
+  ]
+ },
+ "Rom.7.7": {
+  "t": "Que diremos, então? Que a Lei é pecado? De modo nenhum! Mas eu não teria conhecido o pecado senão por meio da Lei; pois eu não teria conhecido a cobiça, se a Lei não dissesse: “Não cobice”.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "eu",
+    "termo": "ἐγώ (egō)",
+    "titulo": "quem é o “eu” de Romanos 7?",
+    "texto": "A partir daqui Paulo fala na primeira pessoa do singular. Nos vv. 7-13 (verbos no passado), as principais leituras são: (1) autobiográfica, a experiência do próprio Paulo com a Lei antes de conhecer Cristo (cf. Fl 3:6, onde, porém, ele se diz “irrepreensível” quanto à justiça da Lei); (2) Adão: o mandamento (Gn 2:17), a vida antes dele, o pecado que engana (v. 11; Gn 3:13) e a morte se encaixam na história do Éden; (3) Israel no Sinai: o povo “vivia” antes da Lei e, ao recebê-la, encontrou o pecado e a morte (D. J. Moo; N. T. Wright, que combina Israel e Adão); (4) um “eu” retórico, figura de linguagem que representa a humanidade sob a Lei (W. G. Kümmel, Römer 7 und die Bekehrung des Paulus, 1929; S. K. Stowers vê aqui o recurso retórico de falar como outra personagem). Muitos intérpretes combinam elementos: Paulo fala de si, mas de modo representativo, lendo a própria experiência à luz de Adão e de Israel. Ver também a nota no v. 14.",
+    "revisar": true
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Não cobice",
+    "termo": "οὐκ ἐπιθυμήσεις (ouk epithymēseis)",
+    "titulo": "Êxodo 20:17",
+    "texto": "O décimo mandamento (Êx 20:17; Dt 5:21), citado sem o objeto. O grego tem o futuro de 2ª pessoa do singular, que reproduz o imperativo hebraico; a forma tradicional em português é “Não cobiçarás”. A APV usa o imperativo com “você” nos mandamentos citados. É o único dos dez que trata do desejo interior, e por isso mostra que o pecado está no coração, não só nos atos. A tradição judaica às vezes via na cobiça a raiz de todo pecado."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "a cobiça",
+    "termo": "τὴν ... ἐπιθυμίαν (tēn epithymian)",
+    "titulo": "epithymia",
+    "texto": "A mesma palavra de 1:24 e 6:12 (“desejos”). Aqui, ligada ao mandamento, “cobiça”."
+   }
+  ]
+ },
+ "Rom.7.8": {
+  "t": "Mas o pecado, aproveitando a oportunidade dada pelo mandamento, produziu em mim toda espécie de cobiça; pois, sem a Lei, o pecado está morto.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "aproveitando a oportunidade",
+    "termo": "ἀφορμὴν ... λαβοῦσα (aphormēn labousa)",
+    "titulo": "aphormē",
+    "texto": "Aphormē era a base de operações de um exército, o ponto de partida de um ataque. O pecado, personificado, usa o mandamento como cabeça de ponte. Pode-se ligar “pelo mandamento” a “aproveitando” (seguido aqui) ou a “produziu”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "o pecado está morto",
+    "termo": "ἁμαρτία νεκρά (hamartia nekra)",
+    "titulo": "sem verbo",
+    "texto": "Sem verbo no grego. “Morto” não significa inexistente, mas inativo, sem a força que adquire quando há um mandamento a transgredir (4:15; 5:13)."
+   }
+  ]
+ },
+ "Rom.7.9": {
+  "t": "Eu, outrora, vivia sem a Lei; mas, quando veio o mandamento, o pecado reviveu,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "reviveu",
+    "termo": "ἀνέζησεν (anezēsen)",
+    "titulo": "anazaō, raro",
+    "texto": "Só aqui e em Lc 15:24, 32 (no texto crítico). “Voltar a viver, ganhar vida”. O pecado, que estava “morto” (v. 8), desperta."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Eu, outrora, vivia sem a Lei",
+    "termo": "ἐγὼ δὲ ἔζων χωρὶς νόμου ποτέ",
+    "titulo": "quando o “eu” viveu sem a Lei?",
+    "texto": "Difícil de aplicar a Paulo, que cresceu sob a Lei desde a infância; por isso alguns pensam na inocência da criança antes da responsabilidade moral. A frase se ajusta melhor a Adão antes do mandamento ou a Israel antes do Sinai (ver nota no v. 7)."
+   }
+  ]
+ },
+ "Rom.7.10": {
+  "t": "e eu morri. E o próprio mandamento que era para a vida resultou para mim em morte.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "que era para a vida",
+    "termo": "ἡ εἰς ζωήν",
+    "titulo": "Levítico 18:5",
+    "texto": "A Lei prometia vida a quem a cumprisse (Lv 18:5, citado em 10:5; Dt 30:15-20). O problema não estava no mandamento, mas no pecado que se apoderou dele (v. 11)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "resultou para mim",
+    "termo": "εὑρέθη μοι (heurethē moi)",
+    "titulo": "“foi achado por mim”",
+    "texto": "Lit. “foi achado para mim”: descobri que o mandamento resultou em morte."
+   }
+  ]
+ },
+ "Rom.7.11": {
+  "t": "Pois o pecado, aproveitando a oportunidade dada pelo mandamento, me enganou e, por meio dele, me matou.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "me enganou",
+    "termo": "ἐξηπάτησέν με (exēpatēsen me)",
+    "titulo": "o engano do Éden",
+    "texto": "Eco de Gn 3:13, onde Eva diz: “A serpente me enganou” (Septuaginta: ēpatēsen). Paulo usa o mesmo verbo em 2Co 11:3 e 1Tm 2:14 ao falar do Éden. O pecado faz o papel da serpente: usa o mandamento para enganar e matar."
+   }
+  ]
+ },
+ "Rom.7.12": {
+  "t": "Assim, a Lei é santa, e o mandamento é santo, justo e bom.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Assim, a Lei",
+    "termo": "ὥστε ὁ μὲν νόμος (hōste ho men nomos)",
+    "titulo": "um men sem de",
+    "texto": "O men anuncia um contraste (“mas o pecado...”) que só vem de fato no v. 13. Conclusão da defesa da Lei iniciada no v. 7."
+   }
+  ]
+ },
+ "Rom.7.13": {
+  "t": "Então, aquilo que é bom tornou-se morte para mim? De modo nenhum! Mas o pecado, para que se mostrasse como pecado, produziu em mim a morte por meio do que é bom, a fim de que, por meio do mandamento, o pecado se tornasse extremamente pecaminoso.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "extremamente pecaminoso",
+    "termo": "καθ᾽ ὑπερβολὴν ἁμαρτωλός (kath’ hyperbolēn hamartōlos)",
+    "titulo": "“pecaminoso segundo excesso”",
+    "texto": "Lit. “pecador ao extremo”. O pecado se revela no que é: tão perverso que usa até o que é santo para matar."
+   }
+  ]
+ },
+ "Rom.7.14": {
+  "t": "Pois sabemos que a Lei é espiritual; mas eu sou carnal, vendido como escravo ao pecado.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "mas eu sou carnal",
+    "termo": "ἐγὼ δὲ σάρκινός εἰμι",
+    "titulo": "o “eu” no presente (vv. 14-25)",
+    "texto": "A partir daqui os verbos estão no presente. Quem fala? (1) O cristão, que, mesmo regenerado, ainda luta contra o pecado: leitura de Agostinho em sua fase madura, de Lutero e Calvino, e, entre os modernos, de C. E. B. Cranfield e J. D. G. Dunn. Argumentos: o presente; o prazer na Lei de Deus “no íntimo” (v. 22); o v. 25b, que vem depois da ação de graças; a tensão do “já e ainda não” (8:23; Gl 5:17). (2) O homem sob a Lei, sem o Espírito, descrito do ponto de vista de quem já está em Cristo: leitura comum nos Pais gregos e no Agostinho mais jovem, depois em Armínio e Wesley, e hoje em W. G. Kümmel, D. J. Moo, G. D. Fee, N. T. Wright e outros. Argumentos: “vendido ao pecado” e “prisioneiro da lei do pecado” (v. 23) contradizem 6:6-7, 14, 18 (“libertados do pecado”); o Espírito, que domina o cap. 8, não é mencionado em 7:14-25; 7:5-6 contrasta “quando estávamos na carne” e “mas agora”, e 7:7-25 parece desenvolver o primeiro, o cap. 8 o segundo. (3) Leituras intermediárias: o cristão que tenta viver pelas próprias forças sob a Lei. A APV traduz o presente como presente e não decide a questão.",
+    "revisar": true
+   },
+   {
+    "tipo": "tn",
+    "ancora": "carnal",
+    "termo": "σάρκινος (sarkinos)",
+    "titulo": "sarkinos",
+    "texto": "Lit. “feito de carne”, isto é, humano, fraco, sujeito ao poder do pecado, em contraste com a Lei “espiritual”, que vem do Espírito de Deus. O Textus Receptus e o Texto Bizantino trazem sarkikos (“carnal” em sentido moral), sem grande mudança no sentido."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "vendido como escravo ao pecado",
+    "termo": "πεπραμένος ὑπὸ τὴν ἁμαρτίαν (pepramenos hypo tēn hamartian)",
+    "titulo": "“vendido sob o pecado”",
+    "texto": "Lit. “vendido sob o pecado”: como escravo vendido no mercado (cf. 1Rs 21:20, 25; 2Rs 17:17, na Septuaginta, “vendeu-se para fazer o mal”). “Como escravo” explicita a imagem."
+   }
+  ]
+ },
+ "Rom.7.15": {
+  "t": "Pois não entendo o que faço; porque não pratico o que quero, mas faço o que odeio.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "não entendo",
+    "termo": "οὐ γινώσκω (ou ginōskō)",
+    "titulo": "ginōskō",
+    "texto": "Pode ser “não compreendo” (não entendo a mim mesmo) ou “não aprovo, não reconheço como meu”. A primeira é mais comum; a segunda combina com o resto do versículo."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "não pratico o que quero, mas faço o que odeio",
+    "termo": "οὐ γὰρ ὃ θέλω τοῦτο πράσσω, ἀλλ᾽ ὃ μισῶ τοῦτο ποιῶ",
+    "titulo": "um tema antigo",
+    "texto": "A divisão entre saber o bem e fazer o mal era tema conhecido no mundo greco-romano. Ovídio põe na boca de Medeia: “vejo o melhor e o aprovo, mas sigo o pior” (Metamorfoses 7.20-21), e Epicteto fala de quem não faz o que quer (Discursos 2.26). Paulo usa linguagem que seus leitores reconheceriam, mas explica o conflito pelo pecado que habita na pessoa (v. 17)."
+   }
+  ]
+ },
+ "Rom.7.16": {
+  "t": "Ora, se faço o que não quero, concordo com a Lei, que ela é boa.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "concordo",
+    "termo": "σύμφημι (symphēmi)",
+    "titulo": "symphēmi, hápax",
+    "texto": "Hápax: “dizer junto, concordar”. O próprio desacordo interior prova que a pessoa reconhece a Lei como boa."
+   }
+  ]
+ },
+ "Rom.7.17": {
+  "t": "Assim, já não sou eu quem o faz, mas o pecado que habita em mim.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Assim",
+    "termo": "νυνὶ δέ (nyni de)",
+    "titulo": "agora lógico",
+    "texto": "Aqui nyni não é temporal (como em 3:21; 7:6), mas lógico: “nesse caso, então”."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "o pecado que habita em mim",
+    "termo": "ἡ οἰκοῦσα ἐν ἐμοὶ ἁμαρτία",
+    "titulo": "não uma desculpa",
+    "texto": "Paulo não se exime de responsabilidade; descreve a força do pecado como inquilino que tomou conta da casa. Em 8:9-11 será o Espírito quem “habita” no crente, com o mesmo verbo."
+   }
+  ]
+ },
+ "Rom.7.18": {
+  "t": "Pois sei que em mim, isto é, na minha carne, não habita bem nenhum; porque o querer o bem está ao meu alcance, mas o realizá-lo, não.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "isto é, na minha carne",
+    "termo": "τοῦτ᾽ ἔστιν ἐν τῇ σαρκί μου",
+    "titulo": "uma restrição",
+    "texto": "Paulo restringe: não diz que nada de bom há nele em nenhum sentido, já que ele quer o bem; mas na “carne”, a existência humana sob o poder do pecado, não há bem algum."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "está ao meu alcance",
+    "termo": "παράκειταί μοι (parakeitai moi)",
+    "titulo": "parakeimai, raro",
+    "texto": "Só aqui e no v. 21. “Estar ao lado, à mão, presente”."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "mas o realizá-lo, não",
+    "termo": "τὸ δὲ κατεργάζεσθαι τὸ καλὸν οὐχ (+ εὑρίσκω)",
+    "titulo": "“não acho”",
+    "texto": "O texto crítico termina abruptamente com ou (“não”). O Textus Receptus e o Texto Bizantino acrescentam heuriskō (“não o acho”, ARC: “não o consigo”), completando a frase. O sentido é o mesmo."
+   }
+  ]
+ },
+ "Rom.7.19": {
+  "t": "Pois não faço o bem que quero, mas o mal que não quero, esse eu pratico.",
+  "n": []
+ },
+ "Rom.7.20": {
+  "t": "Ora, se eu faço o que não quero, já não sou eu quem o faz, mas o pecado que habita em mim.",
+  "n": []
+ },
+ "Rom.7.21": {
+  "t": "Descubro, então, esta lei: quando quero fazer o bem, o mal está presente comigo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "esta lei",
+    "termo": "τὸν νόμον (ton nomon)",
+    "titulo": "lei como princípio?",
+    "texto": "A maioria entende nomos aqui como “princípio, regra constante” que se observa na experiência (minúscula). Outros (Dunn, Wright) entendem a Lei de Moisés: “acho, em relação à Lei, que, quando quero fazer o bem, o mal está presente”. Nos vv. 22-25 Paulo fala de várias “leis”: a Lei de Deus (Torá, com maiúscula) e outra “lei” nos membros, a “lei do pecado” (minúscula), num jogo de palavras deliberado.",
+    "revisar": true
+   }
+  ]
+ },
+ "Rom.7.22": {
+  "t": "Pois, no meu íntimo, tenho prazer na Lei de Deus;",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "tenho prazer",
+    "termo": "συνήδομαι (synēdomai)",
+    "titulo": "synēdomai, hápax",
+    "texto": "Hápax: “alegrar-se com, deleitar-se em”. Lembra o Sl 1:2 e o Sl 119 (“tenho prazer na tua lei”)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "no meu íntimo",
+    "termo": "κατὰ τὸν ἔσω ἄνθρωπον (kata ton esō anthrōpon)",
+    "titulo": "“segundo o homem interior”",
+    "texto": "Lit. “segundo o homem interior”. A expressão aparece em 2Co 4:16 e Ef 3:16 para o crente renovado. Aqui, quem defende a leitura do cristão (nota no v. 14) vê o homem regenerado; os outros, a mente ou consciência humana que aprova o bem (“mente”, v. 23)."
+   }
+  ]
+ },
+ "Rom.7.23": {
+  "t": "mas vejo nos meus membros outra lei, que luta contra a lei da minha mente e me faz prisioneiro da lei do pecado que está nos meus membros.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "luta contra",
+    "termo": "ἀντιστρατευόμενον (antistrateuomenon)",
+    "titulo": "antistrateuomai, hápax",
+    "texto": "Hápax: “fazer campanha militar contra”. A imagem é de guerra: a outra lei faz guerra e toma prisioneiros (aichmalōtizō, “levar cativo de guerra”)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "a lei da minha mente",
+    "termo": "τῷ νόμῳ τοῦ νοός μου (tō nomō tou noos mou)",
+    "titulo": "várias leis",
+    "texto": "Provavelmente a Lei de Deus, enquanto aceita e aprovada pela mente (v. 22, 25). Minúscula nas três “leis” deste versículo, porque Paulo joga com a palavra: a “outra lei” e a “lei do pecado” não são a Torá, e a “lei da mente” é a Lei vista pelo lado de quem a aprova."
+   }
+  ]
+ },
+ "Rom.7.24": {
+  "t": "Miserável homem que eu sou! Quem me livrará deste corpo de morte?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Miserável",
+    "termo": "ταλαίπωρος (talaipōros)",
+    "titulo": "talaipōros, raro",
+    "texto": "Só aqui e em Ap 3:17. “Desgraçado, infeliz”, de quem sofre sob peso insuportável."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "deste corpo de morte",
+    "termo": "ἐκ τοῦ σώματος τοῦ θανάτου τούτου",
+    "titulo": "“do corpo desta morte”",
+    "texto": "O demonstrativo “este” pode ligar-se a “corpo” (“deste corpo sujeito à morte”) ou a “morte” (“do corpo desta morte”, a morte descrita nos vv. 10-13). Em ambos os casos, é a existência corporal dominada pelo pecado e destinada à morte, da qual o Espírito libertará (8:10-11, 23)."
+   }
+  ]
+ },
+ "Rom.7.25": {
+  "t": "Graças a Deus, por meio de Jesus Cristo, nosso Senhor! Assim, pois, eu mesmo, com a mente, sirvo à Lei de Deus, mas, com a carne, à lei do pecado.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "Graças a Deus",
+    "termo": "χάρις τῷ θεῷ (charis tō theō)",
+    "titulo": "charis ou eucharistō",
+    "texto": "O texto crítico traz charis tō theō (“graças a Deus”); o NA28 e Westcott-Hort, charis de (“mas graças”); o Textus Receptus e o Texto Bizantino, eucharistō tō theō (“dou graças a Deus”, ARC). Alguns manuscritos trazem ainda “a graça de Deus”, como resposta à pergunta do v. 24. O sentido geral não muda."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "eu mesmo",
+    "termo": "αὐτὸς ἐγώ (autos egō)",
+    "titulo": "“eu por mim mesmo”",
+    "texto": "Pode ser enfático (“eu, eu mesmo”) ou restritivo (“eu, entregue a mim mesmo”, sem a ajuda do Espírito). A segunda leitura favorece a interpretação de que 7:14-25 descreve a pessoa sem o poder do Espírito; a primeira, a de que o cristão vive essa tensão (nota no v. 14)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Assim, pois",
+    "termo": "ἄρα οὖν (ara oun)",
+    "titulo": "uma conclusão fora do lugar?",
+    "texto": "Depois da ação de graças, a conclusão do v. 25b parece voltar atrás. Alguns estudiosos propuseram que a frase estaria deslocada ou seria acréscimo posterior, mas não há apoio nos manuscritos. Ela pode resumir os vv. 14-24 antes da resposta plena do cap. 8, ou descrever a condição permanente do crente nesta vida."
+   }
+  ]
+ },
+ "Rom.8.1": {
+  "t": "Portanto, agora já não há condenação alguma para os que estão em Cristo Jesus.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "condenação",
+    "termo": "κατάκριμα (katakrima)",
+    "titulo": "katakrima, raro",
+    "texto": "Só aqui e em 5:16, 18. É a sentença condenatória com a pena que dela resulta. “Agora” retoma o “mas agora” de 3:21 e 7:6: a nova era em Cristo. “Portanto” liga o versículo ao argumento de 5:12-7:6, e não só a 7:25."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "para os que estão em Cristo Jesus.",
+    "termo": "τοῖς ἐν Χριστῷ Ἰησοῦ (+ μὴ κατὰ σάρκα περιπατοῦσιν ἀλλὰ κατὰ πνεῦμα)",
+    "titulo": "um acréscimo vindo do v. 4",
+    "texto": "O Textus Receptus e o Texto Bizantino acrescentam “que não andam segundo a carne, mas segundo o Espírito” (ARC). Os manuscritos mais antigos não têm a frase, que foi trazida do v. 4. Alguns manuscritos trazem só a primeira metade. O acréscimo transforma a afirmação incondicional em condição; o texto crítico, mais curto, é seguido aqui (Metzger)."
+   }
+  ]
+ },
+ "Rom.8.2": {
+  "t": "Porque a lei do Espírito da vida, em Cristo Jesus, libertou você da lei do pecado e da morte.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "a lei do Espírito da vida",
+    "termo": "ὁ νόμος τοῦ πνεύματος τῆς ζωῆς (ho nomos tou pneumatos tēs zōēs)",
+    "titulo": "lei: princípio ou Torá?",
+    "texto": "Como em 3:27 e 7:21-23, nomos pode ser “princípio, poder que governa” (leitura de muitos: o poder do Espírito que dá vida, oposto ao poder do pecado) ou a própria Lei de Moisés, que, morta pela carne, se torna vivificante quando o Espírito a cumpre no crente (J. D. G. Dunn; N. T. Wright). Minúscula, como nos outros textos em que o sentido é debatido.",
+    "revisar": true
+   },
+   {
+    "tipo": "tc",
+    "ancora": "libertou você",
+    "termo": "ἠλευθέρωσέν σε (ēleutherōsen se)",
+    "titulo": "se, me ou hēmas",
+    "texto": "O texto crítico traz se (“você”, singular), com apoio antigo; o Textus Receptus e o Texto Bizantino, me (“me libertou”, ARC), que continua o “eu” do cap. 7; outros manuscritos, hēmas (“nos”). Se é a leitura mais difícil e por isso provavelmente original: Paulo se dirige a cada leitor."
+   }
+  ]
+ },
+ "Rom.8.3": {
+  "t": "Pois, o que era impossível à Lei, por estar enfraquecida pela carne, Deus o fez: enviando o seu próprio Filho em semelhança de carne de pecado, e pelo pecado, condenou o pecado na carne,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Deus o fez",
+    "termo": "τὸ γὰρ ἀδύνατον τοῦ νόμου ... ὁ θεός",
+    "titulo": "frase sem verbo principal",
+    "texto": "Lit. “pois o impossível da Lei, naquilo em que era fraca pela carne, Deus, enviando o seu Filho... condenou o pecado na carne”. A frase começa sem ligação gramatical; “Deus o fez” foi acrescentado para tornar clara a relação. A fraqueza não é da Lei em si, mas da carne humana, por meio da qual a Lei tinha de agir."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "em semelhança de carne de pecado",
+    "termo": "ἐν ὁμοιώματι σαρκὸς ἁμαρτίας (en homoiōmati sarkos hamartias)",
+    "titulo": "homoiōma",
+    "texto": "Paulo escolhe as palavras com cuidado. Não diz “em carne de pecado”, o que faria Cristo pecador (2Co 5:21), nem só “em semelhança de carne”, o que faria sua humanidade aparente. Cristo tomou a carne real da humanidade marcada pelo pecado, mas sem pecado (cf. Fl 2:7; Hb 4:15)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "e pelo pecado",
+    "termo": "καὶ περὶ ἁμαρτίας (kai peri hamartias)",
+    "titulo": "“a respeito do pecado”",
+    "texto": "Lit. “e a respeito do pecado”. Na Septuaginta, peri hamartias é a expressão comum para a “oferta pelo pecado” (Lv 4:3; 5:6-7; Sl 40:6, citado em Hb 10:6, 8). Muitos entendem aqui “como oferta pelo pecado”; outros, de modo geral, “para tratar do pecado”. “Pelo pecado” mantém as duas possibilidades em português."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "condenou o pecado na carne",
+    "termo": "κατέκρινεν τὴν ἁμαρτίαν ἐν τῇ σαρκί",
+    "titulo": "a condenação executada",
+    "texto": "A condenação (katakrima) que não cai sobre os que estão em Cristo (v. 1) caiu sobre o pecado, na carne de Cristo, na cruz. “Condenar” inclui a execução da sentença."
+   }
+  ]
+ },
+ "Rom.8.4": {
+  "t": "a fim de que a justa exigência da Lei se cumprisse em nós, que não andamos segundo a carne, mas segundo o Espírito.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "a justa exigência da Lei",
+    "termo": "τὸ δικαίωμα τοῦ νόμου (to dikaiōma tou nomou)",
+    "titulo": "dikaiōma no singular",
+    "texto": "No singular, a exigência da Lei vista como um todo, o que ela visava (cf. 13:8-10, o amor como cumprimento da Lei)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "se cumprisse em nós",
+    "termo": "πληρωθῇ ἐν ἡμῖν (plērōthē en hēmin)",
+    "titulo": "passivo",
+    "texto": "O passivo indica que é Deus quem cumpre, pela obra de Cristo e do Espírito; Paulo não diz “cumpríssemos”. Discute-se se o cumprimento é a justiça imputada (Cristo cumpre a Lei por nós) ou a vida nova produzida pelo Espírito; “em nós” e “que andamos” sugerem que a obra de Cristo se traduz na conduta."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "segundo o Espírito",
+    "termo": "κατὰ πνεῦμα (kata pneuma)",
+    "titulo": "Espírito",
+    "texto": "No cap. 8, pneuma designa quase sempre o Espírito de Deus (vv. 9, 11, 14), em contraste com a carne. Por isso a maiúscula, salvo no v. 10, onde se discute, no v. 15a e no v. 16 (“o nosso espírito”)."
+   }
+  ]
+ },
+ "Rom.8.5": {
+  "t": "Pois os que vivem segundo a carne pensam nas coisas da carne; mas os que vivem segundo o Espírito, nas coisas do Espírito.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "pensam nas coisas da carne",
+    "termo": "τὰ τῆς σαρκὸς φρονοῦσιν (ta tēs sarkos phronousin)",
+    "titulo": "phroneō",
+    "texto": "Phroneō não é só raciocinar: é ter a mente e o coração voltados para algo, a orientação da vida (cf. Fl 2:5; 3:19)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "os que vivem segundo a carne",
+    "termo": "οἱ ... κατὰ σάρκα ὄντες",
+    "titulo": "“os que são segundo a carne”",
+    "texto": "Lit. “os que são segundo a carne”: os que têm a existência determinada pela carne. Paulo descreve duas classes de pessoas, não dois estágios do crente (v. 9)."
+   }
+  ]
+ },
+ "Rom.8.6": {
+  "t": "Porque a mentalidade da carne é morte, mas a mentalidade do Espírito é vida e paz,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "mentalidade",
+    "termo": "φρόνημα (phronēma)",
+    "titulo": "phronēma",
+    "texto": "O substantivo de phroneō (v. 5): a mentalidade, a disposição de fundo. Só aqui e nos vv. 7 e 27."
+   }
+  ]
+ },
+ "Rom.8.7": {
+  "t": "porque a mentalidade da carne é inimizade contra Deus, pois não se submete à Lei de Deus, nem mesmo pode fazê-lo.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "nem mesmo pode fazê-lo",
+    "termo": "οὐδὲ γὰρ δύναται",
+    "titulo": "incapacidade",
+    "texto": "Paulo não diz só que a carne não quer, mas que não pode se submeter à Lei. É a mesma impotência descrita em 7:14-25 e o motivo pelo qual a Lei era “fraca pela carne” (v. 3)."
+   }
+  ]
+ },
+ "Rom.8.8": {
+  "t": "E os que estão na carne não podem agradar a Deus.",
+  "n": []
+ },
+ "Rom.8.9": {
+  "t": "Vocês, porém, não estão na carne, mas no Espírito, se de fato o Espírito de Deus habita em vocês. E, se alguém não tem o Espírito de Cristo, esse não pertence a ele.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "se de fato",
+    "termo": "εἴπερ (eiper)",
+    "titulo": "eiper",
+    "texto": "Pode ser condição (“se é que”) ou afirmação (“visto que”). Paulo supõe que seus leitores têm o Espírito, mas a frase seguinte mostra que a condição é real: sem o Espírito não se pertence a Cristo."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "o Espírito de Deus ... o Espírito de Cristo",
+    "termo": "πνεῦμα θεοῦ ... πνεῦμα Χριστοῦ",
+    "titulo": "um só Espírito",
+    "texto": "No mesmo versículo o Espírito é chamado “Espírito de Deus” e “Espírito de Cristo”, e no v. 10 ter o Espírito é ter “Cristo em vocês”. Textos assim estão na base da doutrina trinitária: o Espírito é de Deus e de Cristo, e Cristo é posto no lugar que pertence a Deus."
+   }
+  ]
+ },
+ "Rom.8.10": {
+  "t": "Mas, se Cristo está em vocês, o corpo está morto por causa do pecado, mas o Espírito é vida por causa da justiça.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "o Espírito é vida",
+    "termo": "τὸ δὲ πνεῦμα ζωή (to de pneuma zōē)",
+    "titulo": "espírito humano ou Espírito Santo?",
+    "texto": "Pode ser o espírito humano, em contraste com o corpo (“o espírito está vivo”, ARC: “o espírito vive”), ou o Espírito Santo, que é vida (cf. v. 2, “o Espírito da vida”; v. 11). Paulo não usa o adjetivo “vivo” (zōn), em paralelo com “morto”, mas o substantivo zōē, “vida”; isso favorece o Espírito de Deus, leitura de G. D. Fee e D. J. Moo, entre outros. A maiúscula segue essa leitura.",
+    "revisar": true
+   },
+   {
+    "tipo": "tn",
+    "ancora": "o corpo está morto",
+    "termo": "τὸ μὲν σῶμα νεκρόν (to men sōma nekron)",
+    "titulo": "morto ou mortal",
+    "texto": "O corpo do crente ainda está sujeito à morte, consequência do pecado (5:12). O v. 11 promete a ressurreição desse corpo."
+   }
+  ]
+ },
+ "Rom.8.11": {
+  "t": "E, se o Espírito daquele que ressuscitou Jesus dentre os mortos habita em vocês, aquele que ressuscitou Cristo dentre os mortos dará vida também aos seus corpos mortais, por causa do seu Espírito que habita em vocês.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "por causa do seu Espírito",
+    "termo": "διὰ τὸ ἐνοικοῦν αὐτοῦ πνεῦμα / διὰ τοῦ ἐνοικοῦντος αὐτοῦ πνεύματος",
+    "titulo": "“por causa do” ou “por meio do”",
+    "texto": "O SBLGNT, o Textus Receptus e o Texto Bizantino trazem dia com acusativo (“por causa do seu Espírito que habita”); o NA28 e Westcott-Hort, dia com genitivo (“por meio do seu Espírito que habita”). As duas leituras têm apoio antigo e a diferença é de uma letra no fim das palavras. Na primeira, a presença do Espírito é a garantia da ressurreição; na segunda, o Espírito é o agente. As duas ideias são paulinas."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "dará vida também aos seus corpos mortais",
+    "termo": "ζῳοποιήσει καὶ τὰ θνητὰ σώματα ὑμῶν",
+    "titulo": "ressurreição do corpo",
+    "texto": "A salvação inclui o corpo: a mesma ação divina que ressuscitou Jesus ressuscitará os crentes (1Co 15:20-23; Fl 3:21). Paulo não pensa numa alma liberta do corpo, mas no corpo transformado."
+   }
+  ]
+ },
+ "Rom.8.12": {
+  "t": "Assim, pois, irmãos, somos devedores, não à carne, para vivermos segundo a carne.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "não à carne",
+    "termo": "οὐ τῇ σαρκί (ou tē sarki)",
+    "titulo": "frase sem conclusão",
+    "texto": "Paulo diz a quem não devemos, mas não completa dizendo a quem devemos. O v. 13 implica a resposta: ao Espírito, que dá vida."
+   }
+  ]
+ },
+ "Rom.8.13": {
+  "t": "Pois, se vocês vivem segundo a carne, vão morrer; mas, se pelo Espírito fazem morrer as práticas do corpo, viverão.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "vão morrer",
+    "termo": "μέλλετε ἀποθνῄσκειν (mellete apothnēskein)",
+    "titulo": "mellō",
+    "texto": "Indica o que certamente acontecerá: a morte em sentido pleno, a separação final de Deus, e não apenas a morte física, que vem para todos."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "fazem morrer",
+    "termo": "θανατοῦτε (thanatoute)",
+    "titulo": "thanatoō",
+    "texto": "“Matar, entregar à morte”. O presente indica ação contínua. A tradição chamou isso de “mortificação” (cf. Cl 3:5). É “pelo Espírito”: não é esforço autônomo, mas também não é passividade."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "as práticas do corpo",
+    "termo": "τὰς πράξεις τοῦ σώματος (tas praxeis tou sōmatos)",
+    "titulo": "corpo e carne",
+    "texto": "Esperaríamos “da carne”. Paulo diz “do corpo”, isto é, as ações do corpo enquanto ainda instrumento do pecado (6:6, 12)."
+   }
+  ]
+ },
+ "Rom.8.14": {
+  "t": "Pois todos os que são guiados pelo Espírito de Deus, esses são filhos de Deus.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "filhos de Deus",
+    "termo": "υἱοὶ θεοῦ (huioi theou)",
+    "titulo": "huioi",
+    "texto": "O masculino plural inclui as filhas, como o v. 16 mostra com tekna (“filhos”, sem distinção de sexo) e 2Co 6:18 diz expressamente (“filhos e filhas”). Mantido “filhos” para conservar a ligação com “o Filho” (vv. 3, 29) e com “adoção” (v. 15), que no direito da época se aplicava a filhos herdeiros."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "guiados pelo Espírito",
+    "termo": "πνεύματι θεοῦ ἄγονται",
+    "titulo": "o novo êxodo",
+    "texto": "Israel foi guiado por Deus no deserto e chamado “meu filho” (Êx 4:22; Dt 8:2; Is 63:14, onde o Espírito do SENHOR conduz o povo). Ser guiado aqui inclui a luta contra o pecado do v. 13, não só a orientação em decisões."
+   }
+  ]
+ },
+ "Rom.8.15": {
+  "t": "Pois vocês não receberam um espírito de escravidão, para voltarem a ter medo, mas receberam o Espírito de adoção, pelo qual clamamos: “Aba, Pai!”.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "um espírito de escravidão",
+    "termo": "πνεῦμα δουλείας (pneuma douleias)",
+    "titulo": "minúscula",
+    "texto": "Paulo não fala de um espírito real recebido antes, mas de uma disposição de escravo, oposta à de filho; por isso a minúscula. O segundo pneuma é o Espírito de Deus."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "adoção",
+    "termo": "υἱοθεσίας (huiothesias)",
+    "titulo": "huiothesia",
+    "texto": "Termo do direito greco-romano: a adoção legal que dava ao adotado todos os direitos de filho e herdeiro. Só Paulo o usa no NT (8:23; 9:4; Gl 4:5; Ef 1:5). Em 9:4 aplica-se a Israel, o que lembra Êx 4:22."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Aba, Pai!",
+    "termo": "αββα ὁ πατήρ (abba ho patēr)",
+    "titulo": "Abba",
+    "texto": "Abba é a palavra aramaica para “pai”, seguida da tradução grega. Jesus usou-a em sua oração (Mc 14:36), e as igrejas de língua grega a conservaram (Gl 4:6). Não significa “papai”, como às vezes se diz (J. Barr, Journal of Theological Studies, 1988), mas é a forma familiar e confiante de dirigir-se ao pai. “Clamamos” (krazō) sugere oração intensa, talvez em voz alta no culto."
+   }
+  ]
+ },
+ "Rom.8.16": {
+  "t": "O próprio Espírito dá testemunho com o nosso espírito de que somos filhos de Deus.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "dá testemunho com",
+    "termo": "συμμαρτυρεῖ (symmartyrei)",
+    "titulo": "symmartyreō, raro",
+    "texto": "Só aqui, 2:15 e 9:1. Pode ser “testemunha junto com o nosso espírito” (dois testemunhos, como Dt 19:15 exige) ou “testemunha ao nosso espírito”. O prefixo syn- favorece a primeira."
+   }
+  ]
+ },
+ "Rom.8.17": {
+  "t": "E, se somos filhos, somos também herdeiros: herdeiros de Deus e coerdeiros com Cristo, se de fato sofremos com ele para que também com ele sejamos glorificados.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "se de fato sofremos com ele",
+    "termo": "εἴπερ συμπάσχομεν (eiper sympaschomen)",
+    "titulo": "sympaschō, raro",
+    "texto": "Sympaschō só aqui e em 1Co 12:26; syndoxazō (“ser glorificado com”) é hápax. Eiper, como no v. 9, pode ser condição ou afirmação: o sofrimento com Cristo é o caminho normal para a glória com ele (2Tm 2:11-12)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "herdeiros de Deus",
+    "termo": "κληρονόμοι ... θεοῦ",
+    "titulo": "a herança",
+    "texto": "A herança de Israel era a terra; a dos filhos de Deus é a criação renovada (4:13; 8:18-23) e o próprio Deus."
+   }
+  ]
+ },
+ "Rom.8.18": {
+  "t": "Pois considero que os sofrimentos do tempo presente não se comparam com a glória que há de ser revelada em nós.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "não se comparam",
+    "termo": "οὐκ ἄξια ... πρὸς (ouk axia ... pros)",
+    "titulo": "“não são dignos de”",
+    "texto": "Lit. “não são de peso em comparação com”. Axios era o que equilibra a balança: os sofrimentos não pesam nada diante da glória."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "em nós",
+    "termo": "εἰς ἡμᾶς (eis hēmas)",
+    "titulo": "eis",
+    "texto": "Pode ser “para nós”, “sobre nós” ou “em nós”. A glória não será só mostrada aos crentes, mas compartilhada por eles (v. 21)."
+   }
+  ]
+ },
+ "Rom.8.19": {
+  "t": "Pois a criação aguarda com ardente expectativa a revelação dos filhos de Deus.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "com ardente expectativa",
+    "termo": "ἡ ... ἀποκαραδοκία (hē apokaradokia)",
+    "titulo": "apokaradokia, rara",
+    "texto": "Só aqui e em Fl 1:20. A imagem é de quem estica o pescoço para ver o que vem. Lit. “a ardente expectativa da criação aguarda”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "a criação",
+    "termo": "τῆς κτίσεως (tēs ktiseōs)",
+    "titulo": "ktisis",
+    "texto": "A maioria entende a criação não humana, que Paulo personifica (vv. 20-22). Os crentes são distinguidos dela no v. 23, e os incrédulos dificilmente “aguardam” a revelação dos filhos de Deus."
+   }
+  ]
+ },
+ "Rom.8.20": {
+  "t": "Pois a criação foi submetida à futilidade, não por vontade própria, mas por causa daquele que a submeteu, na esperança",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "futilidade",
+    "termo": "ματαιότητι (mataiotēti)",
+    "titulo": "mataiotēs, rara",
+    "texto": "Três vezes no NT (aqui, Ef 4:17; 2Pe 2:18). É a palavra que a Septuaginta usa em Eclesiastes: “vaidade de vaidades” (Ec 1:2). A criação ficou sujeita ao vazio e à frustração, incapaz de alcançar o fim para o qual foi feita."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "daquele que a submeteu",
+    "termo": "διὰ τὸν ὑποτάξαντα",
+    "titulo": "quem submeteu a criação?",
+    "texto": "Quase certamente Deus, quando amaldiçoou a terra por causa de Adão (Gn 3:17-19). Adão ou Satanás não submeteram a criação “na esperança”. “Não por vontade própria” (hekousa, raro) significa que a criação sofre por causa do pecado humano, não por culpa sua."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "na esperança",
+    "termo": "ἐφ᾽ ἑλπίδι (eph’ helpidi)",
+    "titulo": "a que se liga?",
+    "texto": "Liga-se a “submeteu”: Deus sujeitou a criação já com vistas à libertação. O v. 21 diz o conteúdo da esperança."
+   }
+  ]
+ },
+ "Rom.8.21": {
+  "t": "de que a própria criação será libertada da escravidão da corrupção para a liberdade da glória dos filhos de Deus.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "de que",
+    "termo": "ὅτι (hoti)",
+    "titulo": "hoti ou dioti",
+    "texto": "Hoti pode introduzir o conteúdo da esperança (“de que”) ou a razão (“porque”). Alguns manuscritos trazem dioti (“porque”). O sentido de conteúdo é o mais natural."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "a liberdade da glória",
+    "termo": "τὴν ἐλευθερίαν τῆς δόξης (tēn eleutherian tēs doxēs)",
+    "titulo": "“a gloriosa liberdade”",
+    "texto": "Muitas versões traduzem “a gloriosa liberdade”, como se “glória” fosse adjetivo. A expressão literal mostra que a liberdade consiste em participar da glória dos filhos de Deus."
+   }
+  ]
+ },
+ "Rom.8.22": {
+  "t": "Pois sabemos que toda a criação, até agora, geme junto e sofre junto dores de parto.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "geme junto e sofre junto dores de parto",
+    "termo": "συστενάζει καὶ συνωδίνει (systenazei kai synōdinei)",
+    "titulo": "dois hápax",
+    "texto": "Dois hápax com o prefixo syn- (“junto”): toda a criação, em conjunto, geme e tem dores de parto. As dores de parto são sofrimento que anuncia nascimento. No judaísmo e no NT, a imagem descreve as aflições que precedem a era messiânica (Is 26:17-18; Mc 13:8)."
+   }
+  ]
+ },
+ "Rom.8.23": {
+  "t": "E não somente ela, mas também nós mesmos, que temos as primícias do Espírito, também gememos em nosso íntimo, aguardando ansiosamente a adoção, a redenção do nosso corpo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "as primícias do Espírito",
+    "termo": "τὴν ἀπαρχὴν τοῦ πνεύματος (tēn aparchēn tou pneumatos)",
+    "titulo": "aparchē",
+    "texto": "Primícias eram os primeiros frutos da colheita, oferecidos a Deus como penhor do resto (Lv 23:10). O genitivo é de aposição: o Espírito é ele mesmo as primícias, a primeira parte da herança e garantia do restante (2Co 1:22; Ef 1:14)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "aguardando ansiosamente a adoção",
+    "termo": "υἱοθεσίαν ἀπεκδεχόμενοι",
+    "titulo": "já e ainda não",
+    "texto": "No v. 15 os crentes já receberam o Espírito de adoção; aqui ainda aguardam a adoção. A adoção já é real, mas sua manifestação plena virá com a ressurreição do corpo, a “redenção do nosso corpo”. É a tensão entre o “já” e o “ainda não” que marca a vida cristã."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "a adoção",
+    "termo": "υἱοθεσίαν (huiothesian)",
+    "titulo": "omissão",
+    "texto": "Alguns manuscritos antigos omitem “a adoção”, talvez porque parecia contradizer o v. 15. A palavra está na grande maioria dos manuscritos e em todas as edições comparadas."
+   }
+  ]
+ },
+ "Rom.8.24": {
+  "t": "Pois na esperança fomos salvos. Mas esperança que se vê não é esperança; pois quem espera o que vê?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "na esperança fomos salvos",
+    "termo": "τῇ γὰρ ἐλπίδι ἐσώθημεν (tē gar elpidi esōthēmen)",
+    "titulo": "dativo de modo",
+    "texto": "Não “pela esperança”, como se a esperança fosse o meio da salvação (que é pela fé), mas “em esperança”: fomos salvos, e essa salvação tem o caráter de esperança, porque sua plenitude ainda não se vê."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "pois quem espera o que vê?",
+    "termo": "ὃ γὰρ βλέπει τίς ἐλπίζει; (+ τί καί)",
+    "titulo": "forma longa",
+    "texto": "O THGNT, Tregelles, o Textus Receptus e o Texto Bizantino trazem “o que alguém vê, por que ainda o espera?” (ARC: “como o esperará?”). O sentido é o mesmo."
+   }
+  ]
+ },
+ "Rom.8.25": {
+  "t": "Mas, se esperamos o que não vemos, com perseverança o aguardamos.",
+  "n": []
+ },
+ "Rom.8.26": {
+  "t": "Da mesma forma, o Espírito também nos ajuda em nossa fraqueza; pois não sabemos o que devemos pedir como convém, mas o próprio Espírito intercede com gemidos inexprimíveis.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "nos ajuda",
+    "termo": "συναντιλαμβάνεται (synantilambanetai)",
+    "titulo": "synantilambanomai, raro",
+    "texto": "Só aqui e em Lc 10:40. Lit. “pega junto do outro lado”: ajuda a carregar um peso com alguém. O Espírito não nos substitui, mas carrega conosco."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "intercede",
+    "termo": "ὑπερεντυγχάνει (hyperentynchanei)",
+    "titulo": "hyperentynchanō, hápax",
+    "texto": "Hápax. Entynchanō é “interceder, apresentar uma petição” (v. 27, 34); o prefixo hyper- pode reforçar (“intercede intensamente”) ou indicar “em favor de”. O Textus Receptus e o Texto Bizantino acrescentam “por nós”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "gemidos inexprimíveis",
+    "termo": "στεναγμοῖς ἀλαλήτοις (stenagmois alalētois)",
+    "titulo": "alalētos, hápax",
+    "texto": "Alalētos (hápax) pode ser “que não se exprime em palavras” ou “que não pode ser expresso”. Alguns (E. Käsemann) viram aqui o falar em línguas; a maioria entende uma intercessão do próprio Espírito, sem palavras, que acompanha o gemido da criação (v. 22) e dos crentes (v. 23).",
+    "revisar": true
+   }
+  ]
+ },
+ "Rom.8.27": {
+  "t": "E aquele que sonda os corações sabe qual é a intenção do Espírito, porque é segundo Deus que ele intercede pelos santos.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "aquele que sonda os corações",
+    "termo": "ὁ δὲ ἐραυνῶν τὰς καρδίας",
+    "titulo": "Deus que vê o íntimo",
+    "texto": "Descrição de Deus no AT (1Sm 16:7; Sl 139:1; Jr 17:10). Deus entende a oração sem palavras do Espírito."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "segundo Deus",
+    "termo": "κατὰ θεόν (kata theon)",
+    "titulo": "“segundo Deus”",
+    "texto": "Isto é, segundo a vontade de Deus. Hoti pode ser “porque” ou “que” (Deus sabe que o Espírito intercede segundo a sua vontade)."
+   }
+  ]
+ },
+ "Rom.8.28": {
+  "t": "Sabemos que todas as coisas cooperam para o bem daqueles que amam a Deus, daqueles que são chamados segundo o seu propósito.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "todas as coisas cooperam",
+    "termo": "πάντα συνεργεῖ (+ ὁ θεός)",
+    "titulo": "“Deus faz cooperar”",
+    "texto": "Alguns dos manuscritos mais antigos, entre eles 𝔓46, A e B, trazem ho theos depois do verbo: “Deus coopera em todas as coisas para o bem” ou “Deus faz todas as coisas cooperarem para o bem”. Westcott-Hort a coloca no texto entre colchetes; o SBLGNT, o NA28, o Textus Receptus e o Texto Bizantino não a trazem. Metzger considera o acréscimo uma explicação natural de copistas. Mesmo sem ho theos, o sujeito pode ser Deus ou o Espírito, vindos do v. 27 (“ele coopera em tudo”), e pánta seria então objeto. A leitura “todas as coisas cooperam”, seguida aqui, é a mais simples, mas o sentido em todas é que Deus age por trás de todas as coisas: não é otimismo sobre os fatos em si.",
+    "revisar": true
+   },
+   {
+    "tipo": "sn",
+    "ancora": "para o bem",
+    "termo": "εἰς ἀγαθόν",
+    "titulo": "que bem?",
+    "texto": "O bem é definido no v. 29: a conformidade com a imagem do Filho e a glória final, não o conforto ou o êxito nesta vida. As “coisas” incluem os sofrimentos dos vv. 18 e 35-36."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "segundo o seu propósito",
+    "termo": "κατὰ πρόθεσιν (kata prothesin)",
+    "titulo": "prothesis",
+    "texto": "Lit. “segundo propósito”, sem pronome: o propósito de Deus (9:11; Ef 1:11; 2Tm 1:9). O versículo descreve os crentes do lado humano (“os que amam a Deus”) e do lado divino (“chamados segundo o propósito”)."
+   }
+  ]
+ },
+ "Rom.8.29": {
+  "t": "Porque os que de antemão conheceu, também os predestinou para serem conformes à imagem do seu Filho, a fim de que ele seja o primogênito entre muitos irmãos.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "de antemão conheceu",
+    "termo": "προέγνω (proegnō)",
+    "titulo": "proginōskō",
+    "texto": "Debate clássico. (1) Conhecer de antemão quem creria, e predestinar com base nisso (leitura de muitos Pais gregos, de Armínio e da tradição wesleyana). (2) Conhecer no sentido bíblico de escolher e amar de antemão, relação pessoal iniciada por Deus (Am 3:2, “só a vocês conheci”; Jr 1:5; Rm 11:2): leitura de Agostinho, da tradição reformada e de muitos exegetas modernos. (3) Escolha de um povo em Cristo, vista de modo coletivo mais que individual (com diversos matizes, K. Barth e outros). O objeto do verbo são pessoas (“os que”), não fatos sobre elas, o que dá peso à segunda leitura no plano gramatical. A tradução literal não decide.",
+    "revisar": true
+   },
+   {
+    "tipo": "tn",
+    "ancora": "predestinou",
+    "termo": "προώρισεν (proōrisen)",
+    "titulo": "proorizō",
+    "texto": "“Determinar de antemão, marcar o limite antes” (cf. horizō, 1:4). Aqui, o destino determinado é a conformidade com Cristo, não apenas a salvação inicial."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "conformes à imagem",
+    "termo": "συμμόρφους τῆς εἰκόνος (symmorphous tēs eikonos)",
+    "titulo": "symmorphos, raro",
+    "texto": "Só aqui e em Fl 3:21, onde se refere ao corpo glorificado. A imagem de Deus perdida em Adão (1:23; 3:23) é restaurada pela conformidade com o Filho, que é a imagem de Deus (2Co 4:4; Cl 1:15)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "primogênito",
+    "termo": "πρωτότοκον (prōtotokon)",
+    "titulo": "prōtotokos",
+    "texto": "Não só o primeiro a nascer, mas o que tem a primazia e os direitos de herdeiro (Sl 89:27). Cristo é o primeiro da nova família, e os crentes são seus irmãos."
+   }
+  ]
+ },
+ "Rom.8.30": {
+  "t": "E os que predestinou, a esses também chamou; e os que chamou, a esses também justificou; e os que justificou, a esses também glorificou.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "glorificou",
+    "termo": "ἐδόξασεν (edoxasen)",
+    "titulo": "aoristo de certeza",
+    "texto": "O aoristo (passado) descreve a glória futura como se já tivesse acontecido, tão certa ela é aos olhos de Deus (v. 18). A tradição chamou os vv. 29-30 de “corrente de ouro”: nenhum elo se perde entre o propósito eterno e a glória final."
+   }
+  ]
+ },
+ "Rom.8.31": {
+  "t": "Que diremos, então, diante dessas coisas? Se Deus é por nós, quem será contra nós?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Se Deus é por nós",
+    "termo": "εἰ ὁ θεὸς ὑπὲρ ἡμῶν (ei ho theos hyper hēmōn)",
+    "titulo": "condicional real",
+    "texto": "Não exprime dúvida: equivale a “visto que Deus é por nós”. O grego não tem verbo; “é” e “será” foram acrescentados."
+   }
+  ]
+ },
+ "Rom.8.32": {
+  "t": "Aquele que não poupou o seu próprio Filho, mas o entregou por todos nós, como não nos dará também, com ele, todas as coisas?",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "não poupou o seu próprio Filho",
+    "termo": "τοῦ ἰδίου υἱοῦ οὐκ ἐφείσατο",
+    "titulo": "Abraão e Isaque",
+    "texto": "Eco de Gn 22:12, 16 (Septuaginta): Abraão “não poupou” o seu filho amado. O que Deus impediu Abraão de consumar, ele próprio realizou com o seu Filho. A tradição judaica chama o episódio de Aqedah (“amarração” de Isaque)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "nos dará",
+    "termo": "χαρίσεται (charisetai)",
+    "titulo": "charizomai",
+    "texto": "“Dar de graça, como favor”, da mesma raiz de charis (“graça”). O argumento é do maior para o menor (como em 5:9-10)."
+   }
+  ]
+ },
+ "Rom.8.33": {
+  "t": "Quem fará acusação contra os escolhidos de Deus? É Deus quem justifica.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "É Deus quem justifica",
+    "termo": "θεὸς ὁ δικαιῶν",
+    "titulo": "Isaías 50:8-9",
+    "texto": "Eco de Is 50:8-9, palavras do Servo: “Perto está o que me justifica; quem contenderá comigo?... Quem me condenará?”. A cena é de tribunal: não há acusador que prevaleça quando o Juiz já deu a sentença."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "É Deus quem justifica",
+    "termo": "θεὸς ὁ δικαιῶν (theos ho dikaiōn)",
+    "titulo": "pontuação",
+    "texto": "O grego não tem pontuação. Pode-se ler como afirmação (seguido aqui) ou como nova pergunta irônica: “Deus, que justifica? (Será ele quem acusa?)”. O sentido final é o mesmo."
+   }
+  ]
+ },
+ "Rom.8.34": {
+  "t": "Quem os condenará? Cristo é quem morreu, ou melhor, quem ressuscitou, o qual está à direita de Deus e também intercede por nós.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "Cristo",
+    "termo": "Χριστός (+ Ἰησοῦς)",
+    "titulo": "“Cristo Jesus”",
+    "texto": "O NA28 e Westcott-Hort trazem “Cristo Jesus”; o SBLGNT, o Textus Receptus e o Texto Bizantino, só “Cristo”. Westcott-Hort acrescenta ainda “dentre os mortos” depois de “ressuscitou”. Sem efeito no sentido."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "à direita de Deus",
+    "termo": "ἐν δεξιᾷ τοῦ θεοῦ",
+    "titulo": "Salmo 110:1",
+    "texto": "Alusão ao Sl 110:1, o texto do AT mais citado no NT: “Senta-te à minha direita”. A direita é o lugar de autoridade. Cristo, que poderia condenar, é justamente quem intercede (cf. Hb 7:25; 1Jo 2:1)."
+   }
+  ]
+ },
+ "Rom.8.35": {
+  "t": "Quem nos separará do amor de Cristo? Tribulação, ou angústia, ou perseguição, ou fome, ou nudez, ou perigo, ou espada?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "nudez",
+    "termo": "γυμνότης (gymnotēs)",
+    "titulo": "gymnotēs, rara",
+    "texto": "Três vezes no NT (aqui, 2Co 11:27; Ap 3:18). Falta de roupa adequada, miséria extrema. A lista lembra os sofrimentos do próprio Paulo (2Co 11:23-27); a “espada” é a morte violenta, a execução."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "do amor de Cristo",
+    "termo": "ἀπὸ τῆς ἀγάπης τοῦ Χριστοῦ",
+    "titulo": "genitivo subjetivo",
+    "texto": "O amor que Cristo tem por nós (v. 37: “aquele que nos amou”), não o nosso amor por ele."
+   }
+  ]
+ },
+ "Rom.8.36": {
+  "t": "Como está escrito: “Por tua causa somos entregues à morte o dia todo; fomos considerados como ovelhas para o matadouro”.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Por tua causa somos entregues à morte o dia todo",
+    "termo": "ἕνεκεν σοῦ θανατούμεθα ὅλην τὴν ἡμέραν",
+    "titulo": "Salmo 44:22",
+    "texto": "Citação exata do Sl 44:22 (LXX 43:23). No salmo, Israel se queixa de sofrer apesar de fiel à aliança. Paulo mostra que o sofrimento do povo de Deus não é sinal de abandono, mas faz parte da história do povo fiel."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "matadouro",
+    "termo": "σφαγῆς (sphagēs)",
+    "titulo": "sphagē, rara",
+    "texto": "Três vezes no NT (aqui, At 8:32, citando Is 53:7, e Tg 5:5). Lit. “ovelhas de matança”."
+   }
+  ]
+ },
+ "Rom.8.37": {
+  "t": "Mas em todas essas coisas somos mais que vencedores, por meio daquele que nos amou.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "somos mais que vencedores",
+    "termo": "ὑπερνικῶμεν (hypernikōmen)",
+    "titulo": "hypernikaō, hápax",
+    "texto": "Hápax: “vencer de modo esmagador, supervencer”. Não por escapar dos sofrimentos, mas “em todas essas coisas”, no meio delas."
+   }
+  ]
+ },
+ "Rom.8.38": {
+  "t": "Pois estou convencido de que nem morte, nem vida, nem anjos, nem principados, nem coisas presentes, nem futuras, nem poderes,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "anjos ... principados ... poderes",
+    "termo": "ἄγγελοι ... ἀρχαί ... δυνάμεις",
+    "titulo": "poderes espirituais",
+    "texto": "Archai (“principados”, governos) e dynameis (“poderes”) são termos de Paulo para forças espirituais, muitas vezes hostis (1Co 15:24; Ef 6:12; Cl 2:15). Os “anjos” aqui provavelmente incluem esses seres, bons ou maus: nenhum poder criado. O Textus Receptus e o Texto Bizantino põem “poderes” logo depois de “principados”, ordem mais natural que os copistas parecem ter preferido."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "estou convencido",
+    "termo": "πέπεισμαι (pepeismai)",
+    "titulo": "perfeito",
+    "texto": "Perfeito de peithō: convicção firmada e permanente (cf. Fl 1:6)."
+   }
+  ]
+ },
+ "Rom.8.39": {
+  "t": "nem altura, nem profundidade, nem qualquer outra criatura poderá nos separar do amor de Deus que está em Cristo Jesus, nosso Senhor.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "nem altura, nem profundidade",
+    "termo": "οὔτε ὕψωμα οὔτε βάθος (oute hypsōma oute bathos)",
+    "titulo": "hypsōma, raro",
+    "texto": "Hypsōma só aqui e em 2Co 10:5. Pode ser expressão de totalidade espacial (nada no alto nem no abismo) ou, como alguns sugerem, termos da astrologia da época para pontos do céu ligados a poderes que dominariam o destino humano. Em qualquer caso, nada no universo escapa do senhorio de Cristo."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "do amor de Deus que está em Cristo Jesus",
+    "termo": "ἀπὸ τῆς ἀγάπης τοῦ θεοῦ τῆς ἐν Χριστῷ Ἰησοῦ",
+    "titulo": "o fim da seção",
+    "texto": "O amor de Cristo (v. 35) é o amor de Deus em Cristo. A seção que começou em 5:1-11 com o amor de Deus derramado no coração (5:5, 8) termina com a certeza de que nada separa desse amor."
+   }
+  ]
  }
 }
