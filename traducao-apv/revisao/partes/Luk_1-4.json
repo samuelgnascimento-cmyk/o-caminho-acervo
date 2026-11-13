@@ -3,132 +3,154 @@
   "ref": "Luk.3.24",
   "gravidade": "alta",
   "problema": "A nota afirma que, nos vv. 24-31 (de Eli a Natã), os nomes não aparecem no AT, exceto Zorobabel e Salatiel. É falso: há Levi, Judá, Simeão, José, Eliaquim, Eliézer, Er, Natã (v. 31, que a nota do próprio v. 31 identifica como filho de Davi), Jessé etc., além de nomes como Amós e Naum.",
-  "sugestao": "Reescrever: 'Os nomes dos vv. 24-31 entre Eli e Natã são em grande parte desconhecidos fora desta lista; alguns (Levi, Judá, Simeão, José, Natã) são nomes comuns do AT, mas aqui designam outras pessoas. Zorobabel e Salatiel (v. 27) são figuras conhecidas.' Ou apenas retirar a frase."
+  "sugestao": "Reescrever: 'Os nomes dos vv. 24-31 entre Eli e Natã são em grande parte desconhecidos fora desta lista; alguns (Levi, Judá, Simeão, José, Natã) são nomes comuns do AT, mas aqui designam outras pessoas. Zorobabel e Salatiel (v. 27) são figuras conhecidas.' Ou apenas retirar a frase.",
+  "decisao": "aceito: a frase era falsa (Levi, Judá, Simeão, José, Eliaquim são nomes do AT); a nota agora diz que as pessoas da lista são desconhecidas fora dela, embora vários nomes sejam comuns no AT."
  },
  {
   "ref": "Luk.1.37",
   "gravidade": "media",
   "problema": "A tradução 'nenhuma palavra que vem de Deus deixará de se cumprir' abandona a leitura usual ('nada é impossível para Deus'), sustentada pela fórmula de Gn 18:14 LXX. A nota atribui ao TR o dativo 'para tō theō', dado que a folha não confirma (a folha só diz que 'τοῦ θεοῦ' falta no TR) e é tratada como tn, embora trate de variante.",
-  "sugestao": "Manter a nota com revisar:true, mas dizer só o que a folha mostra (TR/Bizantino não trazem 'τοῦ θεοῦ'); considerar pôr a leitura tradicional ('nada será impossível da parte de Deus') no texto e a alternativa na nota, ou separar uma nota tc."
+  "sugestao": "Manter a nota com revisar:true, mas dizer só o que a folha mostra (TR/Bizantino não trazem 'τοῦ θεοῦ'); considerar pôr a leitura tradicional ('nada será impossível da parte de Deus') no texto e a alternativa na nota, ou separar uma nota tc.",
+  "decisao": "aceito em parte: a tradução foi mantida e a nota tn agora apresenta as duas leituras com o mesmo peso; a atribuição do dativo para tō theō ao TR e ao Bizantino é sustentada pelos dados da folha (campo var_sentido de /tmp/claude-0/fontes/Luk.json: τῷ θεῷ em TR+Byz), e foi passada para uma nota tc própria."
  },
  {
   "ref": "Luk.3.23",
   "gravidade": "media",
   "problema": "A nota afirma que 'a genealogia é a da filiação legal ... que dava a Jesus direito ao trono' e, em 1:32, que Jesus é herdeiro 'pela linhagem legal de José', mas a nota sn admite que nenhuma das explicações (levirato, linhagem de Maria, linha real vs. física) é certa. Uma delas é afirmada como fato.",
-  "sugestao": "Em 3:23 (tn) e 1:32, trocar a afirmação por 'Lucas apresenta José como pai legal; a relação desta lista com a de Mateus é discutida (veja a nota seguinte)'."
+  "sugestao": "Em 3:23 (tn) e 1:32, trocar a afirmação por 'Lucas apresenta José como pai legal; a relação desta lista com a de Mateus é discutida (veja a nota seguinte)'.",
+  "decisao": "aceito: em 1:32 e 3:23 a nota já não afirma como fato que a lista é a linhagem legal; diz que Lucas apresenta José como pai legal e remete ao debate da nota seguinte."
  },
  {
   "ref": "Luk.3.1",
   "gravidade": "media",
   "problema": "A nota diz que a contagem a partir de c. 12 d.C. (26-27 d.C.) 'ajusta-se melhor a 3:23 e a Jo 2:20'. É discutível: Jo 2:20 (46 anos desde c. 20/19 a.C.) aponta para c. 27-28 d.C., e 3:23 ('cerca de 30') admite 26-29. Afirma mais do que se sabe.",
-  "sugestao": "Dizer apenas que as duas contagens (26-27 ou 28-29 d.C.) são defendidas e que o texto não permite decidir."
+  "sugestao": "Dizer apenas que as duas contagens (26-27 ou 28-29 d.C.) são defendidas e que o texto não permite decidir.",
+  "decisao": "aceito: retirada a afirmação sobre 3:23 e Jo 2:20; a nota diz só que as duas contagens são defendidas e que o texto não permite decidir."
  },
  {
   "ref": "Luk.4.3",
   "gravidade": "media",
   "problema": "A nota diz que a condicional com indicativo 'supõe que a condição é verdadeira (já que você é)'. A gramática a apresenta como premissa do argumento, sem afirmar a verdade; 'já que' é forte demais, e 'o Diabo não põe em dúvida' é inferência.",
-  "sugestao": "Reescrever: 'A condicional é construída como premissa; não implica por si só que o Diabo acredite nela. O contexto (3:22) mostra que ele joga com a filiação recém-proclamada.'"
+  "sugestao": "Reescrever: 'A condicional é construída como premissa; não implica por si só que o Diabo acredite nela. O contexto (3:22) mostra que ele joga com a filiação recém-proclamada.'",
+  "decisao": "aceito: a condicional agora é descrita como premissa do argumento, sem dizer que o Diabo crê nela, e o contexto de 3:22 explica o uso."
  },
  {
   "ref": "Luk.1.31",
   "gravidade": "media",
   "problema": "A nota diz que, com parthenos no v. 27, 'a alusão [a Is 7:14] é clara'. É discutível: o grego só compartilha 'ἐν γαστρί', 'τέξῃ υἱόν' e 'καλέσεις'. Além disso cita Is 7:14 LXX como 'o chamará Emanuel', mas a LXX traz 'καλέσεις' (você chamará).",
-  "sugestao": "Suavizar para 'a alusão é possível'; citar Is 7:14 LXX com 'e você chamará o nome dele Emanuel'; lembrar a fórmula de anúncio de Gn 16:11 e Jz 13:3, 5."
+  "sugestao": "Suavizar para 'a alusão é possível'; citar Is 7:14 LXX com 'e você chamará o nome dele Emanuel'; lembrar a fórmula de anúncio de Gn 16:11 e Jz 13:3, 5.",
+  "decisao": "aceito: a citação de Is 7:14 LXX foi corrigida (“você chamará o seu nome”) e a alusão passou a ser descrita como possível, não certa, ao lado da fórmula de Gn 16:11 e Jz 13:3, 5."
  },
  {
   "ref": "Luk.1.17",
   "gravidade": "baixa",
   "problema": "A nota cita 2Sm 7:24 LXX como paralelo de 'λαὸν κατεσκευασμένον'. Em 2Sm 7:24 LXX o verbo é 'ἡτοίμασας', não kataskeuazō; referência parece imprecisa.",
-  "sugestao": "Retirar 2Sm 7:24 ou trocar por referência conferida."
+  "sugestao": "Retirar 2Sm 7:24 ou trocar por referência conferida.",
+  "decisao": "aceito: em 2Sm 7:24 LXX o verbo é hetoimazō, não kataskeuazō; a referência foi retirada."
  },
  {
   "ref": "Luk.1.1",
   "gravidade": "baixa",
   "problema": "'já se dedicaram a organizar' traduz ἐπεχείρησαν ('empreender, tentar'), perdendo o matiz de iniciativa; o verbo é raro (3x) e a nota não o trata.",
-  "sugestao": "'empreenderam' ou 'se propuseram a'; acrescentar o verbo à nota."
+  "sugestao": "'empreenderam' ou 'se propuseram a'; acrescentar o verbo à nota.",
+  "decisao": "aceito: o texto passou a “se propuseram a organizar” e há nota sobre epicheireō (raro), com o matiz de tentativa em At 9:29; 19:13."
  },
  {
   "ref": "Luk.1.43",
   "gravidade": "baixa",
   "problema": "'venha me visitar' acrescenta 'visitar'; o grego é 'ἔλθῃ πρὸς ἐμέ' (venha a mim).",
-  "sugestao": "'para que a mãe do meu Senhor venha a mim?'"
+  "sugestao": "'para que a mãe do meu Senhor venha a mim?'",
+  "decisao": "aceito: “venha me visitar” acrescentava “visitar”; o texto agora é “venha até mim”."
  },
  {
   "ref": "Luk.1.69",
   "gravidade": "baixa",
   "problema": "'um poderoso Salvador' troca 'chifre de salvação' por pessoa (maiúscula) e acrescenta 'poderoso'; o guia pede forma literal quando a clareza permite.",
-  "sugestao": "Considerar 'uma força de salvação' (lit. 'chifre') e deixar a leitura messiânica para a nota."
+  "sugestao": "Considerar 'uma força de salvação' (lit. 'chifre') e deixar a leitura messiânica para a nota.",
+  "decisao": "rejeitado: “uma força de salvação” é forma obscura em português e esconde a referência ao descendente de Davi que a própria frase (“na casa de Davi”) indica (Sl 132:17); “chifre” tem conotação vulgar no Brasil. Fica “um poderoso Salvador”, com o literal e o motivo na nota e o item marcado para revisão humana."
  },
  {
   "ref": "Luk.1.78",
   "gravidade": "baixa",
   "problema": "A nota tc afirma que TR/Bizantino trazem o aoristo ἐπεσκέψατο; a folha só diz que 'ἐπισκέψεται' falta nessas edições. O mesmo padrão (afirmar a leitura do TR que a folha não imprime) ocorre em 1:37, 2:33, 2:43, 3:26, 3:29, 3:32, 3:33.",
-  "sugestao": "Conferir esses casos contra a folha; onde ela não confirma, escrever só que o TR e o Bizantino não trazem a forma do texto-base."
+  "sugestao": "Conferir esses casos contra a folha; onde ela não confirma, escrever só que o TR e o Bizantino não trazem a forma do texto-base.",
+  "decisao": "rejeitado: as linhas VARIANTE da folha mostram só as palavras ausentes, mas os dados de onde a folha é gerada (/tmp/claude-0/fontes/Luk.json, campo var_sentido) dão a forma do TR e do Bizantino em todos os casos citados: ἐπεσκέψατο (1:78), θεῷ dativo (1:37), Ἰωσήφ (2:33), ἔγνω/Ἰωσὴφ καὶ ἡ μήτηρ (2:43), Ἰωσήφ e Ἰούδα (3:26), Ἰωσή (3:29), Σαλμών (3:32), Ἀράμ (3:33), e também φωνῇ (1:42), μεγαλεῖα (1:49), γενεῶν (1:50), εὐδοκία (2:14), κυρίῳ (2:38), futuros (3:17), εἰς τὴν ἔρημον (4:1), Γαλιλαίας (4:44). As notas foram mantidas; foi acrescentado Tregelles onde os dados o põem junto do TR (1:78, 3:17, 3:32, 3:33, 4:44)."
  },
  {
   "ref": "Luk.1.46",
   "gravidade": "baixa",
   "problema": "'seguida por todas as edições críticas (Metzger)' afirma sobre edições o que a folha não mostra.",
-  "sugestao": "Dizer que todos os manuscritos gregos trazem Maria; manter Metzger só para a discussão da variante."
+  "sugestao": "Dizer que todos os manuscritos gregos trazem Maria; manter Metzger só para a discussão da variante.",
+  "decisao": "aceito em parte: a folha mostra Μαριάμ em todas as edições comparadas (sem variante); a nota agora diz exatamente isso, nomeando as edições, e deixa Metzger só para a discussão da variante latina."
  },
  {
   "ref": "Luk.1.58",
   "gravidade": "baixa",
   "problema": "A nota chama 'ἐμεγάλυνεν τὸ ἔλεος' de expressão da Septuaginta (Gn 19:19), mas ali o objeto é 'τὴν δικαιοσύνην'; é paralelo, não a mesma expressão. A tradução 'tinha sido grande em misericórdia' dilui 'engrandeceu a sua misericórdia'.",
-  "sugestao": "'cf. Gn 19:19 (hebraico hesed)'; texto: 'o Senhor tinha engrandecido a sua misericórdia para com ela'."
+  "sugestao": "'cf. Gn 19:19 (hebraico hesed)'; texto: 'o Senhor tinha engrandecido a sua misericórdia para com ela'.",
+  "decisao": "aceito: em Gn 19:19 LXX o objeto é dikaiosynē; a nota agora diz “cf.” com o hebraico hesed, e o texto passou a “tinha engrandecido a sua misericórdia”, mantendo o elo com 1:46."
  },
  {
   "ref": "Luk.2.23",
   "gravidade": "baixa",
   "problema": "'Nas duas ocorrências de kyrios o hebraico tem YHWH': a primeira (Lei do Senhor) é frase de Lucas, não citação literal; só a segunda traduz Êx 13:2.",
-  "sugestao": "Reformular: em 'Lei do Senhor' e em 'consagrado ao Senhor', kyrios corresponde a YHWH (Êx 13:2, 12)."
+  "sugestao": "Reformular: em 'Lei do Senhor' e em 'consagrado ao Senhor', kyrios corresponde a YHWH (Êx 13:2, 12).",
+  "decisao": "aceito: a nota agora diz que “Lei do Senhor” é expressão de Lucas e que só “consagrado ao Senhor” traduz YHWH do texto citado."
  },
  {
   "ref": "Luk.2.35",
   "gravidade": "baixa",
   "problema": "'parênteses, adotados por várias edições': a folha não informa pontuação de edições.",
-  "sugestao": "Retirar a referência a edições."
+  "sugestao": "Retirar a referência a edições.",
+  "decisao": "aceito: retirada a referência à pontuação de edições, que a folha não mostra."
  },
  {
   "ref": "Luk.3.7",
   "gravidade": "baixa",
   "problema": "'οὖν' em 'Ἔλεγεν οὖν' foi omitido; o guia manda manter os conectivos.",
-  "sugestao": "'Então João dizia às multidões ...'"
+  "sugestao": "'Então João dizia às multidões ...'",
+  "decisao": "aceito: o oun foi traduzido (“João, então, dizia”)."
  },
  {
   "ref": "Luk.3.9",
   "gravidade": "baixa",
   "problema": "Presentes ἐκκόπτεται/βάλλεται vertidos por futuros; o português aceita 'é cortada e lançada ao fogo'.",
-  "sugestao": "'toda árvore que não produz bom fruto é cortada e lançada ao fogo'."
+  "sugestao": "'toda árvore que não produz bom fruto é cortada e lançada ao fogo'.",
+  "decisao": "aceito: o presente foi mantido (“é cortada e lançada ao fogo”) e a nota foi ajustada."
  },
  {
   "ref": "Luk.4.1",
   "gravidade": "baixa",
   "problema": "A nota deduz do imperfeito + 'en' que o Espírito conduzia Jesus 'durante todo o período no deserto'; o imperfeito não prova isso, e a variante do TR (εἰς τὴν ἔρημον) mostra leitura de movimento.",
-  "sugestao": "Dizer que o imperfeito pode indicar processo contínuo, sem concluir."
+  "sugestao": "Dizer que o imperfeito pode indicar processo contínuo, sem concluir.",
+  "decisao": "aceito: a nota agora diz que o imperfeito pode indicar processo contínuo e que a gramática não prova a duração."
  },
  {
   "ref": "Luk.4.4",
   "gravidade": "baixa",
   "problema": "'Não só de pão viverá o homem' coincide palavra por palavra com a ARA/NAA.",
-  "sugestao": "Variar: 'Nem só de pão viverá o ser humano' ou outra forma própria."
+  "sugestao": "Variar: 'Nem só de pão viverá o ser humano' ou outra forma própria.",
+  "decisao": "aceito em parte: para não coincidir com traduções protegidas, o texto passou a “O ser humano não viverá só de pão”, forma própria e literal, com a forma tradicional citada na nota; não usei a sugestão “Nem só de pão...”, que é a forma da tradição."
  },
  {
   "ref": "Luk.4.9",
   "gravidade": "baixa",
   "problema": "'a parte mais alta do templo' afirma o sentido de πτερύγιον, que a própria nota diz incerto, e se aproxima de 'ponto mais alto' (NVI). A palavra é 'pequena asa/extremidade'.",
-  "sugestao": "'sobre a beirada (lit. asinha) do templo', com a nota atual."
+  "sugestao": "'sobre a beirada (lit. asinha) do templo', com a nota atual.",
+  "decisao": "aceito em parte: “a parte mais alta” afirmava mais que o grego; adotei “o pináculo”, forma tradicional que não precisa o lugar, em vez de “beirada”, que também interpreta; a nota mantém o literal “pequena asa”."
  },
  {
   "ref": "Luk.4.35",
   "gravidade": "baixa",
   "problema": "'jogá-lo no chão' acrescenta 'no chão'; o grego é ῥῖψαν αὐτὸν εἰς τὸ μέσον (no meio, da assembleia).",
-  "sugestao": "'depois de jogá-lo no meio deles'."
+  "sugestao": "'depois de jogá-lo no meio deles'.",
+  "decisao": "aceito: “no chão” não está no grego; o texto agora é “depois de lançá-lo no meio deles”."
  },
  {
   "ref": "Luk.4.39",
   "gravidade": "baixa",
   "problema": "'Ele se inclinou sobre ela' interpreta ἐπιστὰς ἐπάνω αὐτῆς (colocando-se junto/acima dela); a postura 'inclinar-se' não está no verbo.",
-  "sugestao": "'Colocando-se junto dela, repreendeu a febre ...'"
+  "sugestao": "'Colocando-se junto dela, repreendeu a febre ...'",
+  "decisao": "aceito: “se inclinou” interpretava epistas epanō; o texto agora é “De pé, junto dela”, com nota sobre o literal."
  }
 ]

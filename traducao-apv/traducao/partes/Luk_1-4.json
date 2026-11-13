@@ -1,7 +1,14 @@
 {
  "Luk.1.1": {
-  "t": "Visto que muitos já se dedicaram a organizar uma narrativa dos acontecimentos que se cumpriram entre nós,",
+  "t": "Visto que muitos se propuseram a organizar uma narrativa dos acontecimentos que se cumpriram entre nós,",
   "n": [
+   {
+    "tipo": "tn",
+    "ancora": "se propuseram",
+    "termo": "ἐπεχείρησαν (epecheirēsan)",
+    "titulo": "epicheireō",
+    "texto": "Lit. “puseram a mão”: empreender, tentar (raro no NT: só aqui e em At 9:29; 19:13). Em Atos, o verbo descreve tentativas que não dão certo, e alguns leem aqui uma leve crítica aos relatos anteriores. Mas Lucas logo se inclui no mesmo esforço (“também a mim pareceu bem”, v. 3); por isso “se propuseram”, que indica iniciativa sem julgar o resultado."
+   },
    {
     "tipo": "sn",
     "ancora": "Visto que muitos",
@@ -324,7 +331,7 @@
     "ancora": "um povo bem disposto",
     "termo": "λαὸν κατεσκευασμένον (laon kateskeuasmenon)",
     "titulo": "kataskeuazō",
-    "texto": "Lit. “um povo aparelhado, equipado”. O verbo difere de “preparar” (hetoimazō) no início da oração. “Bem disposto” evita a repetição e indica um povo pronto, interiormente, para receber o Senhor (cf. 2Sm 7:24 LXX)."
+    "texto": "Lit. “um povo aparelhado, equipado”. O verbo difere de “preparar” (hetoimazō) no início da oração. “Bem disposto” evita a repetição e indica um povo pronto, interiormente, para receber o Senhor."
    }
   ]
  },
@@ -577,7 +584,7 @@
     "ancora": "Eis que você conceberá e dará à luz um filho",
     "termo": "ἰδοὺ συλλήμψῃ ἐν γαστρὶ καὶ τέξῃ υἱὸν",
     "titulo": "o eco de Isaías 7:14",
-    "texto": "A frase segue de perto Is 7:14 na Septuaginta: “eis que a virgem (parthenos) conceberá e dará à luz um filho, e o chamará Emanuel”. Lucas não cita Isaías como Mateus (Mt 1:23), mas, com parthenos dito duas vezes (v. 27), a alusão é clara. Fórmula semelhante em Gn 16:11 e Jz 13:3, 5."
+    "texto": "A frase lembra Is 7:14 na Septuaginta: “eis que a virgem (parthenos) terá no ventre e dará à luz um filho, e você chamará o seu nome Emanuel”. Lucas partilha com Isaías “no ventre”, “dará à luz um filho” e “você chamará o seu nome”, mas não cita o texto, como faz Mateus (Mt 1:23). Como essas expressões formam também a fórmula comum de anúncio de nascimento (Gn 16:11; Jz 13:3, 5), a alusão a Isaías é possível, sobretudo com parthenos dito duas vezes no v. 27, mas não é certa."
    },
    {
     "tipo": "tn",
@@ -610,7 +617,7 @@
     "ancora": "o trono de Davi, seu pai",
     "termo": "τὸν θρόνον Δαυὶδ τοῦ πατρὸς αὐτοῦ",
     "titulo": "“pai”",
-    "texto": "“Pai” no sentido de antepassado. Jesus é herdeiro de Davi pela linhagem legal de José (v. 27; 3:23-31)."
+    "texto": "“Pai” no sentido de antepassado. Lucas apresenta José, da casa de Davi, como pai legal de Jesus (v. 27; 2:4; 3:23); como as genealogias de Lucas e Mateus se relacionam é questão discutida (veja as notas em 3:23)."
    }
   ]
  },
@@ -691,8 +698,15 @@
     "ancora": "nenhuma palavra que vem de Deus deixará de se cumprir",
     "termo": "οὐκ ἀδυνατήσει παρὰ τοῦ θεοῦ πᾶν ῥῆμα",
     "titulo": "“nada é impossível” ou “nenhuma palavra falhará”",
-    "texto": "Lit. “não será impossível (ou: sem poder) da parte de Deus toda palavra”. Rhēma pode ser “coisa” (sentido hebraizante de davar) ou “palavra”. No texto-base, com o genitivo para tou theou (“da parte de Deus”), a leitura mais natural é que a palavra que procede de Deus não ficará sem efeito; com o dativo do Textus Receptus (para tō theō, “junto de Deus”), a leitura “para Deus nada é impossível” é mais natural. A escolha liga o versículo ao seguinte, em que Maria responde com a mesma palavra rhēma: “conforme a sua palavra”. A forma tradicional, “para Deus nada é impossível”, continua sendo uma leitura legítima.",
+    "texto": "Lit. “não será impossível (ou: ficará sem poder) da parte de Deus toda palavra”. Rhēma pode ser “coisa” (sentido hebraizante de davar) ou “palavra”. Daí duas leituras: (1) “nada é impossível para Deus”, a forma tradicional, apoiada no eco de Gn 18:14 (veja a nota seguinte); (2) “nenhuma palavra que vem de Deus ficará sem efeito”, mais próxima do genitivo do texto-base (para tou theou, “da parte de Deus”). A APV segue a segunda porque liga o versículo ao seguinte, em que Maria responde com a mesma palavra rhēma: “conforme a sua palavra”. A primeira é igualmente defensável e é a das traduções em geral.",
     "revisar": true
+   },
+   {
+    "tipo": "tc",
+    "ancora": "que vem de Deus",
+    "termo": "παρὰ τοῦ θεοῦ (para tou theou) / παρὰ τῷ θεῷ (para tō theō)",
+    "titulo": "genitivo ou dativo",
+    "texto": "O texto-base traz o genitivo para tou theou (“da parte de Deus”); o Textus Receptus e o Texto Bizantino, o dativo para tō theō (“junto de Deus, para Deus”), a mesma forma de Gn 18:14 na Septuaginta. Com o dativo, a leitura “para Deus nada é impossível” fica mais natural; com o genitivo, as duas leituras da nota anterior são possíveis."
    },
    {
     "tipo": "sn",
@@ -711,7 +725,7 @@
     "ancora": "serva",
     "termo": "δούλη (doulē)",
     "titulo": "doulē: “serva” ou “escrava”",
-    "texto": "Doulē é, literalmente, a escrava, a mulher que pertence a outro. A APV usa “servo” e “serva” para a família de doulos, por causa do eco do AT, em que os servos do SENHOR são os que lhe pertencem e o servem (1Sm 1:11, Ana; 25:41). A nota guarda a força da palavra: Maria se entrega por inteiro ao Senhor."
+    "texto": "Doulē é, literalmente, a escrava, a mulher que pertence a outro. A APV usa “servo” e “serva” para a família de doulos, salvo quando o texto contrasta o escravo com o senhor ou com o livre (veja 2:29), por causa do eco do AT, em que os servos do SENHOR são os que lhe pertencem e o servem (1Sm 1:11, Ana; 25:41). A nota guarda a força da palavra: Maria se entrega por inteiro ao Senhor."
    },
    {
     "tipo": "tn",
@@ -785,7 +799,7 @@
   ]
  },
  "Luk.1.43": {
-  "t": "Quem sou eu para que a mãe do meu Senhor venha me visitar?",
+  "t": "Quem sou eu para que a mãe do meu Senhor venha até mim?",
   "n": [
    {
     "tipo": "tn",
@@ -841,7 +855,7 @@
     "ancora": "Então Maria disse",
     "termo": "καὶ εἶπεν Μαριάμ",
     "titulo": "Maria ou Isabel?",
-    "texto": "Todos os manuscritos gregos trazem “Maria”. Alguns poucos testemunhos latinos antigos e alusões em escritores dos primeiros séculos atribuem o cântico a Isabel, que, como Ana, era estéril. A atribuição a Maria é a leitura do texto grego em toda a tradição e é seguida por todas as edições críticas (Metzger)."
+    "texto": "Todos os manuscritos gregos trazem “Maria”. Alguns poucos testemunhos latinos antigos e alusões em escritores dos primeiros séculos atribuem o cântico a Isabel, que, como Ana, era estéril. A atribuição a Maria é a leitura de todos os manuscritos gregos e de todas as edições comparadas pela APV (NA28, SBLGNT, THGNT, Westcott-Hort, Tregelles, Textus Receptus e Texto Bizantino). Metzger discute a variante latina e a rejeita."
    }
   ]
  },
@@ -1034,14 +1048,14 @@
   ]
  },
  "Luk.1.58": {
-  "t": "Os vizinhos e os parentes souberam que o Senhor tinha sido grande em misericórdia para com ela, e se alegravam com ela.",
+  "t": "Os vizinhos e os parentes souberam que o Senhor tinha engrandecido a sua misericórdia para com ela, e se alegravam com ela.",
   "n": [
    {
     "tipo": "tn",
-    "ancora": "tinha sido grande em misericórdia",
+    "ancora": "tinha engrandecido a sua misericórdia",
     "termo": "ἐμεγάλυνεν κύριος τὸ ἔλεος αὐτοῦ",
     "titulo": "“engrandeceu a sua misericórdia”",
-    "texto": "Lit. “o Senhor engrandeceu a sua misericórdia com ela”, expressão da Septuaginta (Gn 19:19). O verbo é o mesmo de 1:46: Maria engrandece o Senhor; o Senhor engrandece a sua misericórdia."
+    "texto": "Lit. “o Senhor engrandeceu a sua misericórdia com ela”, isto é, mostrou-a de modo grande. Cf. Gn 19:19, em que Ló diz: “engrandeceste a tua bondade” (hebraico hesed; a Septuaginta traz “justiça”). O verbo é o mesmo de 1:46: Maria engrandece o Senhor; o Senhor engrandece a sua misericórdia."
    },
    {
     "tipo": "tn",
@@ -1380,7 +1394,7 @@
     "ancora": "nos visitará",
     "termo": "ἐπισκέψεται (episkepsetai) / ἐπεσκέψατο (epeskepsato)",
     "titulo": "futuro ou passado",
-    "texto": "O texto-base traz o futuro episkepsetai (“visitará”); o Textus Receptus e o Texto Bizantino, o aoristo epeskepsato (“visitou”), talvez assimilado ao v. 68. O futuro tem bom apoio entre os manuscritos antigos e combina com o tom profético da segunda parte do cântico."
+    "texto": "O texto-base traz o futuro episkepsetai (“visitará”); o Textus Receptus, o Texto Bizantino e Tregelles, o aoristo epeskepsato (“visitou”), talvez assimilado ao v. 68. O futuro tem bom apoio entre os manuscritos antigos e combina com o tom profético da segunda parte do cântico."
    }
   ]
  },
@@ -1832,7 +1846,7 @@
     "ancora": "na Lei do Senhor",
     "termo": "ἐν νόμῳ κυρίου",
     "titulo": "citação de Êxodo 13",
-    "texto": "Citação livre de Êx 13:2, 12, 15. Nas duas ocorrências de kyrios no versículo, o hebraico tem o nome divino YHWH."
+    "texto": "Citação livre de Êx 13:2, 12. “Lei do Senhor” é expressão de Lucas; em “consagrado ao Senhor”, kyrios traduz o nome divino YHWH do texto citado (Êx 13:12)."
    },
    {
     "tipo": "tn",
@@ -1931,21 +1945,21 @@
   "n": []
  },
  "Luk.2.29": {
-  "t": "“Agora, Soberano, deixas partir em paz o teu servo, segundo a tua palavra,",
+  "t": "“Agora, Soberano, despedes em paz o teu escravo, segundo a tua palavra,",
   "n": [
    {
     "tipo": "sn",
-    "ancora": "deixas partir em paz o teu servo",
+    "ancora": "despedes em paz o teu escravo",
     "termo": "νῦν ἀπολύεις τὸν δοῦλόν σου",
     "titulo": "o cântico de Simeão",
-    "texto": "O cântico (vv. 29-32), conhecido como Nunc dimittis por suas primeiras palavras latinas, é feito quase só de frases de Isaías. Apolyō é “soltar, despedir”: pode ser o senhor que liberta o escravo ou dispensa a sentinela no fim do turno. Simeão, como servo que viu o que esperava, recebe licença para morrer em paz (cf. Gn 15:15; 46:30, Jacó: “agora posso morrer, depois de ver o seu rosto”). O presente “deixas” pode ser lido como pedido (“deixa agora”)."
+    "texto": "O cântico (vv. 29-32), conhecido como Nunc dimittis por suas primeiras palavras latinas, é feito quase só de frases de Isaías. Apolyō é “soltar, despedir”: pode ser o senhor que liberta o escravo ou dispensa a sentinela no fim do turno. Simeão, como servo que viu o que esperava, recebe licença para morrer em paz (cf. Gn 15:15; 46:30, Jacó: “agora posso morrer, depois de ver o seu rosto”). O presente “despedes” pode ser lido como pedido (“despede agora”)."
    },
    {
     "tipo": "tn",
     "ancora": "Soberano",
     "termo": "δέσποτα (despota)",
     "titulo": "despotēs",
-    "texto": "Despotēs é o senhor absoluto, dono de escravos; doulos (“servo”) é o seu correlato. A APV traduz despotēs por “Soberano” para distingui-lo de kyrios (“Senhor”). Veja a nota em 1:38 sobre doulē, “serva” ou “escrava”."
+    "texto": "Despotēs é o senhor absoluto, dono de escravos; doulos (“servo”) é o seu correlato. A APV traduz despotēs por “Soberano” para distingui-lo de kyrios (“Senhor”). Como aqui doulos está diante do seu senhor e o verbo apolyō evoca a libertação do escravo, a APV usa “escravo”, e não “servo” (veja a nota em 1:38). A imagem não diminui Simeão: ele se vê como propriedade de Deus, agora liberado depois de cumprir a sua espera."
    }
   ]
  },
@@ -2052,7 +2066,7 @@
     "ancora": "e uma espada atravessará também a sua própria alma",
     "termo": "καὶ σοῦ δὲ αὐτῆς τὴν ψυχὴν διελεύσεται ῥομφαία",
     "titulo": "parêntese",
-    "texto": "A frase interrompe a sequência entre o v. 34 e “para que se revelem os pensamentos”; por isso os parênteses, adotados por várias edições. Rhomphaia é uma espada grande. A maioria dos intérpretes vê aqui a dor de Maria diante da rejeição e da cruz do filho (Jo 19:25). Outros, apoiados em Ez 14:17 LXX (“uma espada passe pela terra”), entendem uma espada de divisão e juízo que também alcança Maria, chamada a decidir-se diante do filho (8:19-21; 11:27-28)."
+    "texto": "A frase interrompe a sequência entre o v. 34 e “para que se revelem os pensamentos”; por isso os parênteses. Rhomphaia é uma espada grande. A maioria dos intérpretes vê aqui a dor de Maria diante da rejeição e da cruz do filho (Jo 19:25). Outros, apoiados em Ez 14:17 LXX (“uma espada passe pela terra”), entendem uma espada de divisão e juízo que também alcança Maria, chamada a decidir-se diante do filho (8:19-21; 11:27-28)."
    },
    {
     "tipo": "tn",
@@ -2350,7 +2364,7 @@
     "ancora": "No décimo quinto ano do governo de Tibério César",
     "termo": "Ἐν ἔτει ... πεντεκαιδεκάτῳ τῆς ἡγεμονίας Τιβερίου Καίσαρος",
     "titulo": "a data",
-    "texto": "Como os historiadores antigos, Lucas data o início da ação por governantes (cf. Jr 1:1-3). Tibério sucedeu Augusto em 14 d.C.; o 15º ano cai por volta de 28-29 d.C. Se Lucas contar desde que Tibério passou a governar as províncias junto com Augusto (c. 12 d.C.), seria 26-27 d.C. A segunda contagem ajusta-se melhor a 3:23 e a Jo 2:20, mas não há certeza sobre o sistema usado."
+    "texto": "Como os historiadores antigos, Lucas data o início da ação por governantes (cf. Jr 1:1-3). Tibério sucedeu Augusto em 14 d.C.; o 15º ano cai por volta de 28-29 d.C. Se Lucas contar desde que Tibério passou a governar as províncias junto com Augusto (c. 12 d.C.), seria 26-27 d.C. As duas contagens são defendidas, e o texto não permite decidir."
    },
    {
     "tipo": "sn",
@@ -2485,7 +2499,7 @@
   ]
  },
  "Luk.3.7": {
-  "t": "João dizia às multidões que saíam para ser batizadas por ele: “Filhotes de víboras! Quem os ensinou a fugir da ira que está para vir?",
+  "t": "João, então, dizia às multidões que saíam para ser batizadas por ele: “Filhotes de víboras! Quem os ensinou a fugir da ira que está para vir?",
   "n": [
    {
     "tipo": "tn",
@@ -2523,14 +2537,14 @@
   ]
  },
  "Luk.3.9": {
-  "t": "O machado já está posto à raiz das árvores; portanto, toda árvore que não produz bom fruto será cortada e lançada ao fogo.”",
+  "t": "O machado já está posto à raiz das árvores; portanto, toda árvore que não produz bom fruto é cortada e lançada ao fogo.”",
   "n": [
    {
     "tipo": "tn",
-    "ancora": "será cortada e lançada ao fogo",
+    "ancora": "é cortada e lançada ao fogo",
     "termo": "ἐκκόπτεται καὶ εἰς πῦρ βάλλεται",
-    "titulo": "presente profético",
-    "texto": "Os verbos estão no presente (“é cortada e é lançada”), descrevendo o juízo como algo já em curso. Traduzidos pelo futuro para clareza em português."
+    "titulo": "presente",
+    "texto": "O presente foi mantido: descreve o juízo como regra certa e já em andamento, e não só como fato futuro."
    },
    {
     "tipo": "sn",
@@ -2675,7 +2689,7 @@
     "ancora": "para limpar a sua eira e recolher o trigo",
     "termo": "διακαθᾶραι ... συναγαγεῖν",
     "titulo": "infinitivos ou futuros",
-    "texto": "O texto-base traz infinitivos de finalidade (“para limpar ... e recolher”); o Textus Receptus e o Texto Bizantino, futuros (“e limpará ... e recolherá”), como em Mt 3:12. O sentido é o mesmo."
+    "texto": "O texto-base traz infinitivos de finalidade (“para limpar ... e recolher”); o Textus Receptus, o Texto Bizantino e Tregelles, futuros (“e limpará ... e recolherá”), como em Mt 3:12. O sentido é o mesmo."
    }
   ]
  },
@@ -2796,7 +2810,7 @@
     "ancora": "como se pensava",
     "termo": "ὡς ἐνομίζετο (hōs enomizeto)",
     "titulo": "a filiação legal",
-    "texto": "Lucas, que narrou a concepção virginal (1:34-35), esclarece que José era considerado pai de Jesus. A genealogia é a da filiação legal, reconhecida publicamente, que dava a Jesus direito ao trono de Davi."
+    "texto": "Lucas, que narrou a concepção virginal (1:34-35), esclarece que José era considerado pai de Jesus: ele é apresentado como pai legal, e é por ele que a lista segue. Como esta lista se relaciona com a de Mateus é discutido (veja a nota seguinte)."
    },
    {
     "tipo": "sn",
@@ -2823,7 +2837,7 @@
     "ancora": "filho de Matate",
     "termo": "τοῦ Μαθθὰτ",
     "titulo": "os nomes",
-    "texto": "Os nomes seguem a forma tradicional das Bíblias em português ou, quando não há tradição firme, a transcrição mais próxima do grego. Dos vv. 24-31 (de Eli a Natã), os nomes não aparecem no AT, exceto Zorobabel e Salatiel (v. 27)."
+    "texto": "Os nomes seguem a forma tradicional das Bíblias em português ou, quando não há tradição firme, a transcrição mais próxima do grego. Entre Eli e Natã (vv. 23-31), as pessoas da lista são em grande parte desconhecidas fora dela. Vários nomes são comuns no AT (Levi, Judá, Simeão, José, Eliaquim), mas aqui designam outras pessoas; só Zorobabel e Salatiel (v. 27) são figuras conhecidas da história de Israel."
    }
   ]
  },
@@ -2902,7 +2916,7 @@
     "ancora": "filho de Salá",
     "termo": "τοῦ Σαλὰ / τοῦ Σαλμών",
     "titulo": "Salá ou Salmom",
-    "texto": "O texto-base traz Sala; o Textus Receptus e o Texto Bizantino, Salmōn, a forma de Mt 1:4-5 e Rt 4:20-21 (na Septuaginta, Salmōn; no hebraico, Salma e Salmom). Trata-se da mesma pessoa, o pai de Boaz."
+    "texto": "O texto-base traz Sala; o Textus Receptus, o Texto Bizantino e Tregelles, Salmōn, a forma de Mt 1:4-5 e Rt 4:20-21 (na Septuaginta, Salmōn; no hebraico, Salma e Salmom). Trata-se da mesma pessoa, o pai de Boaz."
    }
   ]
  },
@@ -2914,7 +2928,7 @@
     "ancora": "filho de Admim, filho de Arni",
     "termo": "τοῦ Ἀδμὶν τοῦ Ἀρνὶ / τοῦ Ἀράμ",
     "titulo": "um dos trechos mais confusos",
-    "texto": "Os manuscritos divergem muito neste ponto. O texto-base traz “Admim, filho de Arni”; o Textus Receptus e o Texto Bizantino, só Aram (a forma de Mt 1:3-4 e de Rt 4:19 na Septuaginta; Rão no hebraico). As edições críticas escolhem a forma mais difícil, que dificilmente seria criada por um copista, mas a decisão é incerta (Metzger).",
+    "texto": "Os manuscritos divergem muito neste ponto. O texto-base traz “Admim, filho de Arni”; o Textus Receptus, o Texto Bizantino e Tregelles, só Aram (a forma de Mt 1:3-4 e de Rt 4:19 na Septuaginta; Rão no hebraico). As edições críticas escolhem a forma mais difícil, que dificilmente seria criada por um copista, mas a decisão é incerta (Metzger).",
     "revisar": true
    }
   ]
@@ -2971,7 +2985,7 @@
     "ancora": "era conduzido pelo Espírito no deserto",
     "termo": "ἤγετο ἐν τῷ πνεύματι ἐν τῇ ἐρήμῳ",
     "titulo": "imperfeito",
-    "texto": "O imperfeito (“era conduzido”) e a preposição en (“no deserto”) indicam que o Espírito conduzia Jesus durante todo o período no deserto, e não só na ida para lá. O Espírito que desceu sobre ele no batismo (3:22) dirige o confronto."
+    "texto": "O imperfeito (“era conduzido”) pode indicar um processo contínuo, e en (“no deserto”) indica o lugar, e não o destino; juntos, sugerem que o Espírito guiava Jesus durante o tempo no deserto, e não só na ida, embora a gramática não o prove. O Espírito que desceu sobre ele no batismo (3:22) dirige o confronto."
    },
    {
     "tipo": "tc",
@@ -3016,23 +3030,23 @@
     "ancora": "Se você é o Filho de Deus",
     "termo": "εἰ υἱὸς εἶ τοῦ θεοῦ",
     "titulo": "condicional real",
-    "texto": "A condicional com indicativo supõe que a condição é verdadeira (“já que você é”). O Diabo não põe em dúvida a filiação proclamada no batismo (3:22); tenta fazer Jesus usá-la em proveito próprio, fora da dependência do Pai."
+    "texto": "A condicional com indicativo apresenta a condição como premissa do argumento, sem afirmar por si só que o Diabo acredite nela. O contexto mostra que ele joga com a filiação proclamada no batismo (3:22): quer que Jesus a use em proveito próprio, fora da dependência do Pai."
    }
   ]
  },
  "Luk.4.4": {
-  "t": "Jesus lhe respondeu: “Está escrito: ‘Não só de pão viverá o homem’.”",
+  "t": "Jesus lhe respondeu: “Está escrito: ‘O ser humano não viverá só de pão’.”",
   "n": [
    {
     "tipo": "sn",
-    "ancora": "Não só de pão viverá o homem",
+    "ancora": "O ser humano não viverá só de pão",
     "termo": "οὐκ ἐπ᾽ ἄρτῳ μόνῳ ζήσεται ὁ ἄνθρωπος",
     "titulo": "Deuteronômio 8:3",
-    "texto": "Citação de Dt 8:3 segundo a Septuaginta. No contexto, Moisés lembra que Deus deixou Israel passar fome e lhe deu o maná, para ensinar que o homem vive de tudo o que sai da boca do SENHOR. “Homem” é genérico: o ser humano."
+    "texto": "Citação de Dt 8:3 segundo a Septuaginta. No contexto, Moisés lembra que Deus deixou Israel passar fome e lhe deu o maná, para ensinar que o homem vive de tudo o que sai da boca do SENHOR. Anthrōpos aqui é genérico, “o ser humano”; a forma tradicional é “nem só de pão viverá o homem”."
    },
    {
     "tipo": "tc",
-    "ancora": "Não só de pão viverá o homem",
+    "ancora": "O ser humano não viverá só de pão",
     "termo": "(+ ἀλλ᾽ ἐπὶ παντὶ ῥήματι θεοῦ)",
     "titulo": "a continuação da citação",
     "texto": "O Textus Receptus, o Texto Bizantino e Tregelles acrescentam: “mas de toda palavra de Deus”, completando a citação como em Mt 4:4. Os manuscritos mais antigos de Lucas não trazem a frase, que parece ter sido harmonizada com Mateus."
@@ -3097,7 +3111,7 @@
     "ancora": "Adore o Senhor, o seu Deus",
     "termo": "κύριον τὸν θεόν σου προσκυνήσεις",
     "titulo": "Deuteronômio 6:13",
-    "texto": "Citação de Dt 6:13 (cf. 10:20). Kyrios traduz o nome divino YHWH. A Septuaginta tem “temerás” (phobēthēsē); Jesus diz “adorarás” (proskynēseis), que responde diretamente ao pedido do Diabo, e “só a ele” sublinha o mandamento de Dt 6:4-5. O futuro grego (“adorarás”, “prestarás culto”) tem força de mandamento e foi traduzido pelo imperativo."
+    "texto": "Citação de Dt 6:13 (cf. 10:20). Kyrios traduz o nome divino YHWH. A Septuaginta tem “temerás” (phobēthēsē); Jesus diz “adorarás” (proskynēseis), que responde diretamente ao pedido do Diabo, e “só a ele” sublinha o mandamento de Dt 6:4-5. O futuro grego (“adorarás”, “prestarás culto”) tem força de mandamento; como em todos os mandamentos do AT citados na segunda pessoa, a APV usa o imperativo com “você”. A forma tradicional é “Ao Senhor, teu Deus, adorarás, e só a ele servirás”."
    },
    {
     "tipo": "tn",
@@ -3123,14 +3137,14 @@
   ]
  },
  "Luk.4.9": {
-  "t": "Então o levou a Jerusalém, colocou-o sobre a parte mais alta do templo e lhe disse: “Se você é o Filho de Deus, jogue-se daqui para baixo,",
+  "t": "Então o levou a Jerusalém, colocou-o sobre o pináculo do templo e lhe disse: “Se você é o Filho de Deus, jogue-se daqui para baixo,",
   "n": [
    {
     "tipo": "tn",
-    "ancora": "a parte mais alta do templo",
+    "ancora": "o pináculo do templo",
     "termo": "τὸ πτερύγιον τοῦ ἱεροῦ (to pterygion tou hierou)",
     "titulo": "pterygion",
-    "texto": "Lit. “a pequena asa do templo”. Não se sabe exatamente que parte do conjunto era: provavelmente um ponto elevado das muralhas, talvez o canto sudeste, sobre o vale do Cedrom. “Pináculo” (ARC) é a forma tradicional."
+    "texto": "Lit. “a pequena asa do templo”. Não se sabe exatamente que parte do conjunto era: provavelmente uma extremidade elevada das muralhas, talvez o canto sudeste, sobre o vale do Cedrom. “Pináculo”, a forma tradicional, foi mantido por não precisar o lugar mais do que o grego."
    }
   ]
  },
@@ -3560,7 +3574,7 @@
   ]
  },
  "Luk.4.35": {
-  "t": "Jesus o repreendeu: “Cale-se e saia dele!” Então o demônio, depois de jogá-lo no chão diante de todos, saiu dele sem lhe fazer mal algum.",
+  "t": "Jesus o repreendeu: “Cale-se e saia dele!” Então o demônio, depois de lançá-lo no meio deles, saiu dele sem lhe fazer mal algum.",
   "n": [
    {
     "tipo": "tn",
@@ -3636,8 +3650,15 @@
   ]
  },
  "Luk.4.39": {
-  "t": "Ele se inclinou sobre ela e repreendeu a febre, e a febre a deixou. Ela se levantou imediatamente e começou a servi-los.",
+  "t": "De pé, junto dela, repreendeu a febre, e a febre a deixou. Ela se levantou imediatamente e começou a servi-los.",
   "n": [
+   {
+    "tipo": "tn",
+    "ancora": "De pé, junto dela",
+    "termo": "ἐπιστὰς ἐπάνω αὐτῆς (epistas epanō autēs)",
+    "titulo": "“pondo-se acima dela”",
+    "texto": "Lit. “pondo-se de pé acima dela”: Jesus se coloca junto do leito, sobre a doente deitada. O texto não descreve outro gesto."
+   },
    {
     "tipo": "tn",
     "ancora": "começou a servi-los",
@@ -3738,7 +3759,7 @@
     "ancora": "nas sinagogas da Judeia",
     "termo": "εἰς τὰς συναγωγὰς τῆς Ἰουδαίας / ἐν ταῖς συναγωγαῖς τῆς Γαλιλαίας",
     "titulo": "Judeia ou Galileia",
-    "texto": "O texto-base traz “da Judeia”; o Textus Receptus e o Texto Bizantino, “da Galileia”. Como Jesus está na Galileia, copistas tiveram motivo para trocar “Judeia” por “Galileia”, e não o contrário; por isso a leitura mais difícil, “Judeia”, é considerada original (Metzger). Lucas às vezes usa “Judeia” para toda a terra dos judeus, inclusive a Galileia (1:5; 7:17; 23:5; At 10:37)."
+    "texto": "O texto-base traz “da Judeia”; o Textus Receptus, o Texto Bizantino e Tregelles, “da Galileia”. Como Jesus está na Galileia, copistas tiveram motivo para trocar “Judeia” por “Galileia”, e não o contrário; por isso a leitura mais difícil, “Judeia”, é considerada original (Metzger). Lucas às vezes usa “Judeia” para toda a terra dos judeus, inclusive a Galileia (1:5; 7:17; 23:5; At 10:37)."
    }
   ]
  }

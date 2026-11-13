@@ -8,7 +8,7 @@ Gera:
 import json, sys, os, re
 sys.path.insert(0, os.path.dirname(__file__))
 from morfologia import hebraico, grego
-from regras import eds, base_nt, base_at
+from regras import VAR_RE, eds, base_nt, base_at
 
 fontes, livro, out = sys.argv[1:4]
 vs = json.load(open(os.path.join(fontes, f'{livro}.json'), encoding='utf-8'))
@@ -45,6 +45,16 @@ for ref, ws in vs.items():
         omit = {}
         for w in base:
             falta = [x for x in ('TR', 'Byz') if x not in eds(w['edicoes'])]
+            if not falta: continue
+            trocas = []
+            for parte in (w.get('var_sentido') or '').split(';'):
+                m = VAR_RE.search(parte.strip())
+                if m and any(x in eds(m.group(5)) for x in falta):
+                    quem = [x for x in eds(m.group(5)) if x in ED]
+                    trocas.append(f"{m.group(1)} ({m.group(2)}) em {', '.join(ED[x] for x in quem)}")
+                    falta = [x for x in falta if x not in eds(m.group(5))]
+            if trocas:
+                notas.append({'tipo': 'variante', 'texto': f"{w['orig']}: no lugar desta palavra, " + '; '.join(trocas) + '.'})
             if falta: omit.setdefault(tuple(falta), []).append(w['orig'])
         for falta, pal in omit.items():
             notas.append({'tipo': 'variante', 'texto': f"{' '.join(pal)}: ausente em {' e '.join(ED[x] for x in falta)}."})
