@@ -2893,5 +2893,559 @@
     "texto": "“Contudo, em todo caso”. Paulo volta do mistério de Cristo e da igreja para a vida prática do casal."
    }
   ]
+ },
+ "Eph.6.1": {
+  "t": "Filhos, obedeçam a seus pais no Senhor, pois isso é justo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Filhos",
+    "termo": "Τὰ τέκνα (Ta tekna)",
+    "titulo": "os filhos como destinatários",
+    "texto": "Os filhos são tratados diretamente, como membros da igreja que ouvem a carta ser lida. Tekna não designa só crianças pequenas, mas filhos que ainda vivem sob a autoridade dos pais."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "no Senhor",
+    "termo": "ἐν κυρίῳ (en kyriō)",
+    "titulo": "a que se liga?",
+    "texto": "Pode ligar-se ao verbo (obedeçam como parte da vida no Senhor) ou a “pais” (pais que estão no Senhor). A primeira leitura é a mais natural, como em 5:22 (“como ao Senhor”). Alguns manuscritos antigos omitem “no Senhor”, mas todas as edições usadas pela APV o trazem."
+   }
+  ]
+ },
+ "Eph.6.2": {
+  "t": "“Honre seu pai e sua mãe” — este é o primeiro mandamento com promessa —",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Honre seu pai e sua mãe",
+    "termo": "τίμα τὸν πατέρα σου καὶ τὴν μητέρα",
+    "titulo": "Êxodo 20:12",
+    "texto": "Citação do quinto mandamento (Êx 20:12; Dt 5:16) segundo a Septuaginta. A forma tradicional em português é “Honra teu pai e tua mãe”; a APV traduz os mandamentos do AT dirigidos a “tu” pelo imperativo com “você”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "o primeiro mandamento com promessa",
+    "termo": "ἐντολὴ πρώτη ἐν ἐπαγγελίᾳ",
+    "titulo": "em que sentido “primeiro”?",
+    "texto": "O segundo mandamento já fala da misericórdia de Deus para mil gerações (Êx 20:6), mas como descrição de Deus, não como promessa ligada a um mandamento. Por isso o quinto é o primeiro com promessa explícita. Outros entendem “primeiro” como “de primeira importância” para os filhos, ou como o primeiro da segunda tábua. A primeira leitura é a mais simples."
+   }
+  ]
+ },
+ "Eph.6.3": {
+  "t": "“para que tudo lhe corra bem e você tenha vida longa sobre a terra.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "vida longa",
+    "termo": "μακροχρόνιος (makrochronios)",
+    "titulo": "makrochronios, hápax",
+    "texto": "“De longa duração”. Lit. “e você seja de longa vida”. Termo da Septuaginta de Êx 20:12."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "sobre a terra",
+    "termo": "ἐπὶ τῆς γῆς",
+    "titulo": "a promessa ampliada",
+    "texto": "Paulo omite as palavras finais do mandamento, “que o Senhor, o seu Deus, lhe dá”, que ligavam a promessa à terra de Canaã. Gē pode ser “terra” no sentido de país ou de mundo; sem o complemento, a promessa vale para os filhos cristãos onde quer que vivam. É um princípio geral de bênção, não uma garantia individual de longevidade."
+   }
+  ]
+ },
+ "Eph.6.4": {
+  "t": "E vocês, pais, não irritem seus filhos, mas criem-nos na disciplina e na instrução do Senhor.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "pais",
+    "termo": "οἱ πατέρες (hoi pateres)",
+    "titulo": "pais ou pais e mães",
+    "texto": "Pateres é normalmente “pais” homens, a quem cabia a autoridade na família antiga; às vezes inclui pai e mãe (Hb 11:23). Mesmo dirigida aos pais, a instrução vale para quem educa."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "não irritem",
+    "termo": "μὴ παροργίζετε (mē parorgizete)",
+    "titulo": "parorgizō, raro",
+    "texto": "Só aqui e em Rm 10:19. “Provocar à ira, exasperar” com severidade excessiva, injustiça ou desprezo (cf. Cl 3:21, “para que não desanimem”). Num mundo em que o pai tinha poder quase absoluto, a limitação era notável."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "disciplina e na instrução",
+    "termo": "παιδείᾳ καὶ νουθεσίᾳ",
+    "titulo": "paideia e nouthesia",
+    "texto": "Paideia é a formação completa da criança, incluindo correção (Hb 12:5-11); nouthesia (rara: também em 1Co 10:11 e Tt 3:10) é a advertência por palavras. “Do Senhor” pode ser a disciplina que o Senhor aprova ou a que ele mesmo exerce por meio dos pais. Ektrephō (“criar”, raro) é o mesmo verbo de 5:29 (“alimenta”)."
+   }
+  ]
+ },
+ "Eph.6.5": {
+  "t": "Escravos, obedeçam a seus senhores segundo a carne, com temor e tremor, na sinceridade do seu coração, como a Cristo,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Escravos",
+    "termo": "Οἱ δοῦλοι (Hoi douloi)",
+    "titulo": "douloi: “escravos” ou “servos”",
+    "texto": "Doulos é o escravo, propriedade de outro. Quando a palavra designa o servo de Deus ou de Cristo, a APV usa normalmente “servo”, que guarda o eco do AT; aqui, porém, se trata da escravidão como condição social, em contraste com “senhores” e “livre” (v. 8), e “servos” suavizaria a realidade. A escravidão romana não era baseada em raça, mas era uma instituição de domínio legal sobre pessoas. Paulo não a aprova nem a ataca diretamente: dá instruções aos dois lados e põe os senhores sob o mesmo Senhor (v. 9). Em outros textos incentiva a liberdade quando possível (1Co 7:21) e trata um escravo como irmão (Fm 16). Esses princípios foram usados mais tarde pelos cristãos que lutaram pela abolição."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "senhores segundo a carne",
+    "termo": "τοῖς κατὰ σάρκα κυρίοις",
+    "titulo": "kata sarka",
+    "texto": "Os senhores no plano humano e terreno, em contraste com o Senhor Cristo. O grego usa a mesma palavra kyrios para os dois, e a tradução repete “senhor” para manter o jogo."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "com temor e tremor",
+    "termo": "μετὰ φόβου καὶ τρόμου",
+    "titulo": "expressão",
+    "texto": "Expressão bíblica para seriedade e reverência, não terror (1Co 2:3; Fp 2:12). O temor é dirigido, em última análise, a Cristo (“como a Cristo”)."
+   }
+  ]
+ },
+ "Eph.6.6": {
+  "t": "não servindo só para serem vistos, como quem quer agradar a homens, mas como escravos de Cristo, fazendo de coração a vontade de Deus,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "servindo só para serem vistos",
+    "termo": "κατ᾽ ὀφθαλμοδουλίαν (kat’ ophthalmodoulian)",
+    "titulo": "ophthalmodoulia, hápax",
+    "texto": "Lit. “serviço de olho”: o trabalho feito só quando o senhor está olhando. A palavra talvez tenha sido criada por Paulo (também em Cl 3:22). Anthrōpareskos (“quem quer agradar a homens”, raro) aparece também em Cl 3:22."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "como escravos de Cristo",
+    "termo": "ὡς δοῦλοι Χριστοῦ",
+    "titulo": "o mesmo doulos",
+    "texto": "A APV usa normalmente “servo de Cristo” (Gl 1:10), mas aqui o contraste depende da mesma palavra: os escravos de senhores humanos são, na verdade, escravos de Cristo. A mudança para “servos” esconderia o paralelo."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "de coração",
+    "termo": "ἐκ ψυχῆς (ek psychēs)",
+    "titulo": "“da alma”",
+    "texto": "Lit. “da alma”: com toda a vontade. Pode ligar-se ao que vem antes (“fazendo de coração”) ou ao v. 7 (“de coração, servindo com boa vontade”)."
+   }
+  ]
+ },
+ "Eph.6.7": {
+  "t": "servindo de boa vontade, como ao Senhor, e não a homens,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "de boa vontade",
+    "termo": "μετ᾽ εὐνοίας (met’ eunoias)",
+    "titulo": "eunoia, hápax",
+    "texto": "“Boa disposição, benevolência”. O trabalho é feito com boa intenção, não com ressentimento."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "servindo",
+    "termo": "δουλεύοντες (douleuontes)",
+    "titulo": "douleuō",
+    "texto": "Lit. “servindo como escravos”. A tradução usa “servindo” porque o objeto é “o Senhor”, e a ideia de escravidão já está clara no v. 5."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "como ao Senhor",
+    "termo": "ὡς τῷ κυρίῳ",
+    "titulo": "hōs",
+    "texto": "O Textus Receptus omite hōs (“como”). Sem efeito no sentido."
+   }
+  ]
+ },
+ "Eph.6.8": {
+  "t": "sabendo que cada um, seja escravo, seja livre, receberá do Senhor o bem que fizer.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "receberá do Senhor o bem que fizer",
+    "termo": "ὃ ἂν ποιήσῃ ἀγαθὸν τοῦτο κομίσεται παρὰ κυρίου",
+    "titulo": "komizō",
+    "texto": "Lit. “o bem que fizer, isso receberá de volta da parte do Senhor”. Komizō é “receber de volta, ser recompensado”, aqui no juízo final (2Co 5:10). Diante do Senhor, escravo e livre estão no mesmo nível."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "cada um",
+    "termo": "ἕκαστος ὃ ἂν",
+    "titulo": "pequenas diferenças",
+    "texto": "O NA28, o THGNT, Westcott-Hort, o Textus Receptus e o Texto Bizantino trazem ean e ti, e o Textus Receptus e o Texto Bizantino, o artigo antes de “Senhor”, em várias ordens. Sem efeito na tradução."
+   }
+  ]
+ },
+ "Eph.6.9": {
+  "t": "E vocês, senhores, façam o mesmo com eles, deixando de lado as ameaças, sabendo que o Senhor deles e de vocês está nos céus, e que ele não faz acepção de pessoas.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "façam o mesmo com eles",
+    "termo": "τὰ αὐτὰ ποιεῖτε πρὸς αὐτούς",
+    "titulo": "reciprocidade",
+    "texto": "Lit. “façam as mesmas coisas para com eles”: a mesma sinceridade, boa vontade e consciência de servir a Cristo exigidas dos escravos. Num mundo em que o senhor não devia nada ao escravo, a exigência é surpreendente."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "as ameaças",
+    "termo": "τὴν ἀπειλήν (tēn apeilēn)",
+    "titulo": "apeilē, raro",
+    "texto": "Só aqui e em At 4:29; 9:1. As ameaças de castigo físico e de venda eram os instrumentos comuns de controle dos escravos."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "não faz acepção de pessoas",
+    "termo": "προσωπολημψία οὐκ ἔστιν παρ᾽ αὐτῷ",
+    "titulo": "“receber o rosto”",
+    "texto": "Lit. “não há acepção de pessoas junto dele”, isto é, ele não julga pela posição social (cf. Dt 10:17; Gl 2:6). O senhor terreno será julgado pelo mesmo Senhor que o escravo."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "o Senhor deles e de vocês",
+    "termo": "καὶ αὐτῶν καὶ ὑμῶν ὁ κύριός",
+    "titulo": "ordem",
+    "texto": "O Textus Receptus e o Texto Bizantino não trazem um dos dois kai (“tanto ... como”) do texto crítico. O texto crítico, “deles e de vocês”, põe com ênfase senhores e escravos sob o mesmo Senhor."
+   }
+  ]
+ },
+ "Eph.6.10": {
+  "t": "Finalmente, fortaleçam-se no Senhor e na força do seu poder.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "fortaleçam-se",
+    "termo": "ἐνδυναμοῦσθε (endynamousthe)",
+    "titulo": "voz passiva",
+    "texto": "A forma é passiva ou média: “deixem-se fortalecer”. A força vem do Senhor. “Na força do seu poder” retoma 1:19, o poder que ressuscitou Cristo."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Finalmente",
+    "termo": "Τοῦ λοιποῦ (Tou loipou)",
+    "titulo": "forma do TR",
+    "texto": "O Textus Receptus e o Texto Bizantino trazem to loipon, adelphoi mou (“Finalmente, meus irmãos”). Tou loipou (raro: também em Gl 6:17) é “quanto ao mais, finalmente”."
+   }
+  ]
+ },
+ "Eph.6.11": {
+  "t": "Revistam-se de toda a armadura de Deus, para poderem resistir às ciladas do diabo;",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "toda a armadura",
+    "termo": "τὴν πανοπλίαν (tēn panoplian)",
+    "titulo": "panoplia, raro",
+    "texto": "Só aqui, no v. 13 e em Lc 11:22. O equipamento completo do soldado de infantaria pesada. A imagem combina o soldado da época com textos de Isaías em que o próprio Deus se veste para a batalha (Is 11:5; 59:17); por isso é “armadura de Deus”: a que ele dá e a que ele mesmo usa."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "ciladas",
+    "termo": "μεθοδείας (methodeias)",
+    "titulo": "methodeia, raro",
+    "texto": "A mesma palavra de 4:14: estratagemas, planos astutos. O ataque do diabo é mais de engano do que de força bruta."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "resistir",
+    "termo": "στῆναι (stēnai)",
+    "titulo": "histēmi",
+    "texto": "Lit. “ficar de pé, manter a posição”. A imagem é defensiva: o soldado que não cede terreno. O verbo se repete nos vv. 13-14."
+   }
+  ]
+ },
+ "Eph.6.12": {
+  "t": "pois a nossa luta não é contra carne e sangue, mas contra os principados, contra as autoridades, contra os dominadores deste mundo de trevas, contra as forças espirituais do mal nas regiões celestiais.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "luta",
+    "termo": "πάλη (palē)",
+    "titulo": "palē, hápax",
+    "texto": "Lit. “luta corpo a corpo”, como na luta livre. A imagem muda da guerra para o combate de proximidade."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "carne e sangue",
+    "termo": "αἷμα καὶ σάρκα",
+    "titulo": "expressão",
+    "texto": "Lit. “sangue e carne”: os seres humanos. Os verdadeiros inimigos não são as pessoas que se opõem à igreja, mas os poderes por trás delas."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "dominadores deste mundo",
+    "termo": "κοσμοκράτορας (kosmokratoras)",
+    "titulo": "kosmokratōr, hápax",
+    "texto": "“Governantes do mundo”. O termo era aplicado a divindades e aos poderes astrais em textos de astrologia e magia da época. Paulo o usa para os poderes espirituais que dominam “estas trevas”, a era presente (2:2)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "forças espirituais do mal",
+    "termo": "τὰ πνευματικὰ τῆς πονηρίας",
+    "titulo": "“os espirituais da maldade”",
+    "texto": "Lit. “os (seres) espirituais da maldade”. O adjetivo neutro substantivado designa os espíritos maus como conjunto."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "deste mundo de trevas",
+    "termo": "τοῦ σκότους τούτου",
+    "titulo": "acréscimo do TR",
+    "texto": "O Textus Receptus e o Texto Bizantino trazem “das trevas desta era” (tou skotous tou aiōnos toutou). Os manuscritos mais antigos não trazem “era”."
+   }
+  ]
+ },
+ "Eph.6.13": {
+  "t": "Por isso, tomem toda a armadura de Deus, para que possam resistir no dia mau e, tendo feito tudo, permanecer firmes.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "no dia mau",
+    "termo": "ἐν τῇ ἡμέρᾳ τῇ πονηρᾷ",
+    "titulo": "que dia?",
+    "texto": "Pode ser o tempo de prova intensa que vem a cada crente e à igreja, ou o período final de maldade antes do fim. A era presente já é má (5:16); o “dia mau” parece ser o momento crítico do ataque."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "tendo feito tudo",
+    "termo": "ἅπαντα κατεργασάμενοι",
+    "titulo": "katergazomai",
+    "texto": "Pode ser “tendo feito todos os preparativos” ou “tendo vencido tudo” (o verbo pode significar “subjugar”). A tradução literal deixa as duas abertas; o objetivo é ficar de pé no fim."
+   }
+  ]
+ },
+ "Eph.6.14": {
+  "t": "Fiquem, pois, firmes, tendo cingido a cintura com a verdade e vestido a couraça da justiça,",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "cingido a cintura com a verdade",
+    "termo": "περιζωσάμενοι τὴν ὀσφὺν ὑμῶν ἐν ἀληθείᾳ",
+    "titulo": "Isaías 11:5",
+    "texto": "Is 11:5 diz do Messias: “a justiça será o cinto dos seus lombos, e a fidelidade, o cinto da sua cintura”. Cingir a cintura era prender a túnica para a ação. A “verdade” pode ser a integridade pessoal ou a verdade do evangelho (1:13); as duas estão ligadas."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "a couraça da justiça",
+    "termo": "τὸν θώρακα τῆς δικαιοσύνης",
+    "titulo": "Isaías 59:17",
+    "texto": "Em Is 59:17 o próprio Deus “vestiu a justiça como couraça”. A justiça pode ser a conduta justa do crente ou a justiça que Deus concede em Cristo. O contexto ético da carta (4:24) favorece a primeira, sem excluir a segunda, que é a sua base."
+   }
+  ]
+ },
+ "Eph.6.15": {
+  "t": "e calçado os pés com a prontidão do evangelho da paz;",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "prontidão",
+    "termo": "ἑτοιμασίᾳ (hetoimasia)",
+    "titulo": "hetoimasia, hápax",
+    "texto": "“Preparação, prontidão”. Pode ser a prontidão para anunciar o evangelho (Is 52:7, “os pés de quem anuncia a paz”) ou a firmeza que o evangelho dá para não escorregar na luta. Alguns propõem “base firme”, a partir de usos da Septuaginta, mas o sentido comum da palavra é “prontidão”. Hypodeō (“calçar”) é raro."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "o evangelho da paz",
+    "termo": "τοῦ εὐαγγελίου τῆς εἰρήνης",
+    "titulo": "o paradoxo",
+    "texto": "O soldado se prepara para a guerra calçado com o evangelho da paz: a paz com Deus e entre judeus e gentios (2:14-17) é a base para enfrentar o inimigo."
+   }
+  ]
+ },
+ "Eph.6.16": {
+  "t": "Em todas as situações, tomem o escudo da fé, com o qual vocês poderão apagar todas as setas inflamadas do Maligno;",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "escudo",
+    "termo": "θυρεὸν (thyreon)",
+    "titulo": "thyreos, hápax",
+    "texto": "Não o escudo pequeno e redondo, mas o escudo grande, em forma de porta (de thyra, “porta”), que cobria o corpo inteiro do soldado."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "as setas inflamadas",
+    "termo": "τὰ βέλη ... τὰ πεπυρωμένα",
+    "titulo": "belos, hápax",
+    "texto": "Setas com a ponta envolta em material inflamável, usadas nos cercos. As tentações e acusações do inimigo chegam como projéteis que querem incendiar."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "do Maligno",
+    "termo": "τοῦ πονηροῦ (tou ponērou)",
+    "titulo": "pessoal",
+    "texto": "O artigo com o adjetivo designa “o Maligno”, o diabo (v. 11; cf. Mt 13:19; 1Jo 5:18-19), e não “o mal” em abstrato."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Em todas as situações",
+    "termo": "ἐν πᾶσιν (en pasin)",
+    "titulo": "en ou epi",
+    "texto": "O texto crítico traz en pasin (“em todas as coisas”); o Textus Receptus e o Texto Bizantino, epi pasin (“além de tudo”, “acima de tudo”), forma que entrou na tradição (“sobretudo”). As demais edições (NA28, THGNT, Westcott-Hort, Tregelles, Textus Receptus e Texto Bizantino) trazem também o artigo antes de “setas”, sem efeito na tradução. A diferença com o TR afeta um pouco a tradução, mas não o sentido geral."
+   }
+  ]
+ },
+ "Eph.6.17": {
+  "t": "Recebam também o capacete da salvação e a espada do Espírito, que é a palavra de Deus;",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "o capacete da salvação",
+    "termo": "τὴν περικεφαλαίαν τοῦ σωτηρίου",
+    "titulo": "Isaías 59:17",
+    "texto": "Em Is 59:17 Deus põe “o capacete da salvação na cabeça”. Perikephalaia é raro (também em 1Ts 5:8, onde é “a esperança da salvação”). A salvação recebida protege o crente."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "a espada do Espírito, que é a palavra de Deus",
+    "termo": "τὴν μάχαιραν τοῦ πνεύματος ὅ ἐστιν ῥῆμα θεοῦ",
+    "titulo": "rhēma",
+    "texto": "A espada é a que o Espírito dá e torna eficaz. Rhēma é a palavra falada: a palavra de Deus proclamada e usada no momento da luta, como Jesus respondeu ao tentador com a Escritura (Mt 4:4-10). O relativo neutro “que” provavelmente concorda com “palavra” por atração; o sentido é que a espada é a palavra."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Recebam",
+    "termo": "δέξασθε (dexasthe)",
+    "titulo": "omissão",
+    "texto": "O Texto Bizantino omite dexasthe, e a frase depende do “tomem” do v. 13. Sem efeito no sentido."
+   }
+  ]
+ },
+ "Eph.6.18": {
+  "t": "Orem em todo tempo no Espírito, com toda oração e súplica, e para isso vigiem com toda perseverança e súplica por todos os santos,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Orem",
+    "termo": "προσευχόμενοι (proseuchomenoi)",
+    "titulo": "particípio",
+    "texto": "Lit. “orando”. O particípio depende de “fiquem firmes” (v. 14): a oração não é mais uma peça da armadura, mas o modo como toda a armadura é usada. A tradução usa o imperativo para a frase ter força em português."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "no Espírito",
+    "termo": "ἐν πνεύματι (en pneumati)",
+    "titulo": "orar no Espírito",
+    "texto": "A oração movida e guiada pelo Espírito Santo (Rm 8:26-27; Jd 20). Alguns intérpretes, sobretudo pentecostais e carismáticos, incluem aqui a oração em línguas (1Co 14:14-15); outros entendem toda oração conduzida pelo Espírito. O texto não a limita a uma forma."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "perseverança",
+    "termo": "προσκαρτερήσει (proskarterēsei)",
+    "titulo": "proskarterēsis, hápax",
+    "texto": "“Persistência, constância”. O verbo correspondente descreve a igreja que “perseverava” na oração (At 1:14; 2:42)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "para isso",
+    "termo": "εἰς αὐτὸ",
+    "titulo": "touto",
+    "texto": "O Textus Receptus e o Texto Bizantino acrescentam touto (“para isso mesmo”). Sem efeito na tradução."
+   }
+  ]
+ },
+ "Eph.6.19": {
+  "t": "e também por mim, para que, quando eu abrir a boca, me seja dada a palavra, para dar a conhecer com ousadia o mistério do evangelho,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "quando eu abrir a boca",
+    "termo": "ἐν ἀνοίξει τοῦ στόματός μου",
+    "titulo": "anoixis, hápax",
+    "texto": "Lit. “na abertura da minha boca”. Expressão para falar com solenidade (Mt 5:2). Talvez Paulo pense na sua defesa diante do tribunal."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "ousadia",
+    "termo": "παρρησίᾳ (parrēsia)",
+    "titulo": "parrēsia",
+    "texto": "Liberdade e franqueza de falar, mesmo diante de autoridades (3:12; At 4:29-31). O prisioneiro não pede libertação, mas coragem para falar."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "me seja dada",
+    "termo": "μοι δοθῇ",
+    "titulo": "forma",
+    "texto": "O Textus Receptus traz o optativo dotheiē em vez do subjuntivo dothē. Sem efeito na tradução."
+   }
+  ]
+ },
+ "Eph.6.20": {
+  "t": "pelo qual sou embaixador em cadeias, para que nele eu fale com ousadia, como devo falar.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "sou embaixador em cadeias",
+    "termo": "πρεσβεύω ἐν ἁλύσει",
+    "titulo": "presbeuō, raro",
+    "texto": "Só aqui e em 2Co 5:20. Embaixadores tinham imunidade e eram tratados com honra; o embaixador de Cristo está acorrentado. A ironia é intencional. Halysis é a corrente que prendia o prisioneiro ao guarda (At 28:20)."
+   }
+  ]
+ },
+ "Eph.6.21": {
+  "t": "Para que também vocês saibam da minha situação e do que estou fazendo, Tíquico, o irmão amado e fiel ministro no Senhor, lhes contará tudo.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Tíquico",
+    "termo": "Τύχικος (Tychikos)",
+    "titulo": "o portador",
+    "texto": "Companheiro de Paulo, natural da Ásia (At 20:4), portador das cartas aos Efésios e aos Colossenses. Os vv. 21-22 são quase idênticos a Cl 4:7-8. “Também vocês” pode supor que outros (os colossenses) já recebiam as mesmas notícias."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "ministro",
+    "termo": "διάκονος (diakonos)",
+    "titulo": "diakonos",
+    "texto": "“Servidor”. Pode indicar o serviço ao Senhor em geral ou a função de auxiliar de Paulo; não é o ofício de diácono."
+   }
+  ]
+ },
+ "Eph.6.22": {
+  "t": "Eu o envio a vocês exatamente para isso, para que saibam como estamos e para que ele encoraje o coração de vocês.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Eu o envio",
+    "termo": "ὃν ἔπεμψα (hon epempsa)",
+    "titulo": "aoristo epistolar",
+    "texto": "Lit. “o qual enviei”. Aoristo epistolar: do ponto de vista de quem lê, o envio já aconteceu, porque a carta chega pelas mãos de Tíquico. Em português se usa o presente."
+   }
+  ]
+ },
+ "Eph.6.23": {
+  "t": "Paz aos irmãos, e amor com fé, da parte de Deus Pai e do Senhor Jesus Cristo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "irmãos",
+    "termo": "ἀδελφοῖς (adelphois)",
+    "titulo": "adelphoi",
+    "texto": "Única ocorrência da palavra na carta (no texto crítico). O plural masculino grego inclui as irmãs. A bênção em terceira pessoa (“aos irmãos”, e não “a vocês”) é incomum em Paulo e combina com uma carta destinada a várias igrejas (1:1)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "amor com fé",
+    "termo": "ἀγάπη μετὰ πίστεως",
+    "titulo": "fé e amor",
+    "texto": "A fé e o amor que vêm de Deus. Paulo não deseja fé aos leitores como se não a tivessem, mas amor acompanhado da fé que já possuem (1:15)."
+   }
+  ]
+ },
+ "Eph.6.24": {
+  "t": "A graça esteja com todos os que amam o nosso Senhor Jesus Cristo com amor incorruptível.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "com amor incorruptível",
+    "termo": "ἐν ἀφθαρσίᾳ (en aphtharsia)",
+    "titulo": "aphtharsia",
+    "texto": "Lit. “em incorruptibilidade”. A palavra é usada para a imortalidade da ressurreição (1Co 15:42, 53-54). Pode qualificar o amor (um amor que não se corrompe nem acaba), a graça (graça com imortalidade) ou o Senhor (que vive na incorruptibilidade). A primeira leitura, que liga a expressão ao verbo mais próximo, é a mais comum."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "com amor incorruptível",
+    "termo": "ἐν ἀφθαρσίᾳ",
+    "titulo": "final da carta",
+    "texto": "O Textus Receptus acrescenta “Amém” e a subscrição “Aos efésios, escrita de Roma por meio de Tíquico”. Essas notas finais são tardias e não fazem parte da carta."
+   }
+  ]
  }
 }
