@@ -94,7 +94,7 @@
     "ancora": "por si mesmo",
     "termo": "δι᾽ ἑαυτοῦ (di’ heautou) / αὐτοῦ",
     "titulo": "duas formas do texto",
-    "texto": "O texto-base (SBLGNT, que grafa di’ hautou), com o Textus Receptus e o Texto Bizantino, traz “por si mesmo” e não traz autou depois de “poder”. O NA28, o THGNT, Westcott-Hort e Tregelles fazem o inverso: “pela palavra do seu poder, depois de fazer a purificação dos pecados”, sem “por si mesmo”. O Textus Receptus e o Texto Bizantino trazem ainda “dos nossos pecados” (hēmōn). O sentido geral não muda; “por si mesmo” sublinha que o Filho fez a purificação pessoalmente, com o próprio sangue (9:12-14)."
+    "texto": "O texto-base (SBLGNT, que grafa di’ hautou) traz “por si mesmo” (di’ heautou) e não traz autou depois de “poder”. O NA28, o THGNT, Westcott-Hort e Tregelles trazem autou (“pela palavra do seu poder”) e não trazem “por si mesmo”. O Textus Receptus e o Texto Bizantino trazem as duas coisas, “do seu poder” e “por si mesmo”, e ainda “dos nossos pecados” (hēmōn), com outra ordem das palavras. O sentido geral não muda; “por si mesmo” sublinha que o Filho fez a purificação pessoalmente, com o próprio sangue (9:12-14)."
    },
    {
     "tipo": "sn",
@@ -146,7 +146,7 @@
     "ancora": "Eu serei Pai para ele, e ele será Filho para mim",
     "termo": "ἐγὼ ἔσομαι αὐτῷ εἰς πατέρα",
     "titulo": "2 Samuel 7:14",
-    "texto": "Citação de 2Sm 7:14 (1Cr 17:13), a promessa de Deus a Davi sobre o seu descendente. A forma segue a Septuaginta, que reproduz o hebraico (lit. “serei para ele por pai”). Os dois textos já aparecem juntos, lidos como promessas sobre o Messias, num comentário de Qumran (4QFlorilégio, 4Q174)."
+    "texto": "Citação de 2Sm 7:14 (1Cr 17:13), a promessa de Deus a Davi sobre o seu descendente. A forma segue a Septuaginta, que reproduz o hebraico (lit. “serei para ele por pai”). Em Qumran, um comentário (4QFlorilégio, 4Q174) já lê 2Sm 7:14 como promessa sobre o Messias e, logo depois, comenta o Sl 2:1-2."
    }
   ]
  },
@@ -158,7 +158,7 @@
     "ancora": "quando introduz de novo",
     "termo": "ὅταν δὲ πάλιν εἰσαγάγῃ (hotan de palin eisagagē)",
     "titulo": "a que se liga “de novo”?",
-    "texto": "Palin pode (1) introduzir mais uma citação (“e outra vez, quando introduz”), como nos vv. 5 e 2:13; ou (2) modificar o verbo (“quando introduz de novo”), referindo-se à volta de Cristo ou à sua entrada triunfal no mundo futuro na exaltação. A posição de palin, entre a conjunção e o verbo, favorece a ligação com o verbo, e o “mundo” (oikoumenē) que há de vir é retomado em 2:5. Outros (p. ex., os que pensam no nascimento de Jesus) preferem a primeira leitura.",
+    "texto": "Palin pode (1) introduzir mais uma citação (“e outra vez, quando introduz”), como nos vv. 5 e 2:13; ou (2) modificar o verbo (“quando introduz de novo”), e então se pensa na entrada do Filho exaltado no mundo celeste ou na sua volta. A posição de palin, entre a conjunção e o verbo, favorece a ligação com o verbo; além disso, a mesma palavra oikoumenē (“mundo”) reaparece em 2:5, onde é “o mundo que há de vir”. Outros (p. ex., os que pensam no nascimento de Jesus) preferem a primeira leitura.",
     "revisar": true
    },
    {
@@ -173,7 +173,7 @@
     "ancora": "Que todos os anjos de Deus o adorem",
     "termo": "προσκυνησάτωσαν αὐτῷ πάντες ἄγγελοι θεοῦ",
     "titulo": "Deuteronômio 32:43 na Septuaginta",
-    "texto": "A citação segue a Septuaginta de Dt 32:43 (também o Cântico de Moisés nas Odes gregas), que é mais longa que o texto hebraico massorético: esta linha não está no hebraico tradicional. Um manuscrito hebraico de Qumran (4QDeut-q) traz uma linha semelhante, “prostrem-se diante dele todos os deuses”, o que indica que a Septuaginta traduzia um texto hebraico antigo. Ver também Sl 97:7 (LXX 96:7). No Deuteronômio o “ele” é Deus; Hebreus aplica o texto ao Filho."
+    "texto": "A citação vem do Cântico de Moisés, Dt 32:43, na forma grega, que é mais longa que o texto hebraico massorético: esta linha não está no hebraico tradicional. A forma exata (“todos os anjos de Deus”) coincide com a do Cântico nas Odes, coleção de cânticos anexada a manuscritos da Septuaginta; na edição de Rahlfs da Septuaginta de Dt 32:43, esta linha diz “todos os filhos de Deus”, e “anjos de Deus” aparece na linha seguinte. Um manuscrito hebraico de Qumran (4QDeut-q) traz uma linha semelhante, “prostrem-se diante dele todos os deuses”, o que indica que o grego traduzia um texto hebraico antigo. Ver também Sl 97:7 (LXX 96:7), “adorem-no todos os seus anjos”. No Deuteronômio o “ele” é Deus; Hebreus aplica o texto ao Filho."
    }
   ]
  },
@@ -211,7 +211,7 @@
     "ancora": "O teu trono, ó Deus",
     "termo": "ὁ θρόνος σου ὁ θεός (ho thronos sou ho theos)",
     "titulo": "vocativo ou predicado?",
-    "texto": "No Sl 45:6 (LXX 44:7) e aqui, ho theos pode ser (1) vocativo, “o teu trono, ó Deus, é para sempre”, ou (2) sujeito ou predicado, “Deus é o teu trono” ou “o teu trono é Deus”. A APV segue a primeira leitura, a de quase toda a tradição: o grego do NT usa com frequência o nominativo com artigo como vocativo; o paralelo com o v. 10 (“Tu, Senhor”) mostra o autor dirigindo-se ao Filho; e o texto foi introduzido como palavra dita “ao Filho”. Assim, Hebreus chama o Filho de “Deus”, enquanto o v. 9 distingue o Filho de “o teu Deus”, o Pai. A segunda leitura foi proposta por alguns intérpretes modernos (a RSV a adota no Sl 45:6) e afastaria essa afirmação; é gramaticalmente possível, mas menos natural.",
+    "texto": "No Sl 45:6 (LXX 44:7) e aqui, ho theos pode ser (1) vocativo, “o teu trono, ó Deus, é para sempre”, ou (2) sujeito ou predicado, “Deus é o teu trono” ou “o teu trono é Deus”. A APV segue a primeira leitura, a de quase toda a tradição: o grego do NT usa com frequência o nominativo com artigo como vocativo; o paralelo com o v. 10 (“Tu, Senhor”) mostra o autor dirigindo-se ao Filho; e o texto foi introduzido como palavra dita “ao Filho”. Assim, Hebreus chama o Filho de “Deus”, enquanto o v. 9 distingue o Filho de “o teu Deus”, o Pai. A segunda leitura foi proposta por alguns intérpretes modernos (a RSV evita o vocativo no Sl 45:6, “o teu trono divino”, e em Hb 1:8 põe “Deus é o teu trono” na margem) e afastaria essa afirmação; é gramaticalmente possível, mas menos natural.",
     "revisar": true
    },
    {
@@ -226,7 +226,7 @@
     "ancora": "do teu reino",
     "termo": "τῆς βασιλείας σου",
     "titulo": "“teu” ou “seu”",
-    "texto": "Alguns manuscritos antigos (𝔓46, ℵ, B) leem autou, “do seu reino”, o que favoreceria a leitura “Deus é o teu trono”. A maioria dos manuscritos e as edições críticas trazem sou, “do teu reino”, que corresponde ao salmo (Metzger). Antes de “o cetro”, o Textus Receptus e o Texto Bizantino não têm o “e” (kai), sem mudar o sentido."
+    "texto": "Westcott-Hort traz autou, “do seu reino”; o texto-base, o NA28, o THGNT, Tregelles, o Textus Receptus e o Texto Bizantino trazem sou, “do teu reino”, que corresponde ao salmo. Autou é a leitura de alguns manuscritos antigos (𝔓46, ℵ, B) e combinaria com a leitura “Deus é o teu trono”; Metzger discute a variante e explica por que se preferiu sou. Antes de “o cetro”, o Textus Receptus e o Texto Bizantino não têm o “e” (kai) e trazem outra ordem das palavras, sem mudar o sentido."
    },
    {
     "tipo": "tn",
@@ -309,7 +309,7 @@
     "ancora": "como uma roupa, eles serão trocados",
     "termo": "ὡς ἱμάτιον καὶ ἀλλαγήσονται",
     "titulo": "repetição de “como uma roupa”",
-    "texto": "O texto crítico repete “como uma roupa” (hōs himation), que não está na Septuaginta do salmo; o Textus Receptus e o Texto Bizantino não têm a repetição. Ela reforça a imagem: a criação é trocada como roupa velha."
+    "texto": "O texto-base, o NA28, Westcott-Hort e Tregelles repetem “como uma roupa” (hōs himation), que não está na Septuaginta do salmo; o THGNT, o Textus Receptus e o Texto Bizantino não têm a repetição. Ela reforça a imagem: a criação é trocada como roupa velha."
    },
    {
     "tipo": "sn",
@@ -567,7 +567,7 @@
     "ancora": "sem Deus",
     "termo": "χωρὶς θεοῦ (chōris theou) / χάριτι θεοῦ (chariti theou)",
     "titulo": "“sem Deus” ou “pela graça de Deus”",
-    "texto": "O texto-base (SBLGNT) traz chōris theou, “sem Deus, à parte de Deus”. Todas as outras edições comparadas (NA28, THGNT, Westcott-Hort, Tregelles, Textus Receptus e Texto Bizantino) trazem chariti theou, “pela graça de Deus”, que é a leitura da grande maioria dos manuscritos. Chōris theou tem apoio em poucos manuscritos gregos, mas era conhecida por Orígenes e outros Pais antigos, que a discutem como leitura difundida no seu tempo. A favor de chōris: é a leitura mais difícil, e é fácil explicar por que um copista a trocaria por chariti (palavras parecidas, e “sem Deus” soava ofensivo), mas não o contrário; e Hebreus insiste no abandono e no clamor de Jesus diante da morte (5:7; 13:12-13). A favor de chariti: o apoio dos manuscritos e o tema da graça na carta (4:16; 10:29; 12:15); Metzger, na comissão do texto da UBS, julga chōris uma nota de margem que entrou no texto. A APV segue o texto-base, como em todo o NT. Sentidos possíveis de “sem Deus”: Jesus morreu abandonado por Deus (cf. Mc 15:34); ou morreu por todos, exceto Deus (cf. 1Co 15:27). Quem preferir a leitura majoritária lerá: “para que, pela graça de Deus, ele provasse a morte em favor de todos”.",
+    "texto": "O texto-base (SBLGNT) traz chōris theou, “sem Deus, à parte de Deus”. Todas as outras edições comparadas (NA28, THGNT, Westcott-Hort, Tregelles, Textus Receptus e Texto Bizantino) trazem chariti theou, “pela graça de Deus”, que é a leitura da grande maioria dos manuscritos. Chōris theou tem apoio em poucos manuscritos gregos, mas era conhecida por Orígenes e outros Pais antigos, que a discutem como leitura difundida no seu tempo. A favor de chōris: é a leitura mais difícil, e é fácil explicar por que um copista a trocaria por chariti (palavras parecidas, e “sem Deus” soava ofensivo), mas não o contrário. Alguns estudiosos que a preferem acrescentam que ela combina com a ênfase de Hebreus na morte plenamente humana e sofrida de Jesus (5:7). A favor de chariti: o apoio dos manuscritos e o tema da graça na carta (4:16; 10:29; 12:15); Metzger, na comissão do texto da UBS, julga chōris uma nota de margem que entrou no texto. A APV segue o texto-base, como em todo o NT. Sentidos possíveis de “sem Deus”: Jesus morreu abandonado por Deus (cf. Mc 15:34); ou morreu por todos, exceto Deus (cf. 1Co 15:27). Quem preferir a leitura majoritária lerá: “para que, pela graça de Deus, ele provasse a morte em favor de todos”.",
     "revisar": true
    },
    {
@@ -575,7 +575,7 @@
     "ancora": "coroado de glória e de honra por causa do sofrimento da morte",
     "termo": "διὰ τὸ πάθημα τοῦ θανάτου δόξῃ καὶ τιμῇ ἐστεφανωμένον",
     "titulo": "a ordem do argumento",
-    "texto": "A coroação é consequência do sofrimento da morte (cf. Fp 2:8-9). A oração final (“para que ... provasse a morte”) não depende de “coroado”, mas de todo o movimento descrito: Jesus foi feito menor que os anjos, isto é, homem mortal, com a finalidade de morrer por todos."
+    "texto": "A coroação é consequência do sofrimento da morte (cf. Fp 2:8-9). A ligação da oração final (“para que ... provasse a morte”) é discutida. Pode indicar a finalidade de todo o movimento descrito (Jesus foi feito menor que os anjos, isto é, homem mortal, para morrer por todos), leitura seguida aqui; pode ligar-se a “feito menor”; ou a “coroado”, entendendo-se que a coroação dá à morte o seu valor em favor de todos."
    },
    {
     "tipo": "tn",
@@ -1084,7 +1084,7 @@
     "ancora": "nenhum de vocês",
     "termo": "τις ἐξ ὑμῶν",
     "titulo": "ordem das palavras",
-    "texto": "O Texto Bizantino traz outra ordem (ex hymōn tis). Sem efeito na tradução."
+    "texto": "O THGNT e o Texto Bizantino trazem outra ordem (ex hymōn tis). Sem efeito na tradução."
    },
    {
     "tipo": "tn",
@@ -1591,7 +1591,7 @@
     "ancora": "mas foi glorificado por aquele que lhe disse",
     "termo": "ἀλλ᾽ ὁ λαλήσας πρὸς αὐτόν",
     "titulo": "elipse",
-    "texto": "Lit. “mas aquele que lhe disse”. O verbo está subentendido: “(glorificou-o) aquele que lhe disse”. Traduzido com a passiva para clareza. O artigo em ho Christos (“o Cristo”) acentua o título: o Messias não se nomeou sacerdote a si mesmo."
+    "texto": "Lit. “mas aquele que lhe disse”. O verbo está subentendido: “(glorificou-o) aquele que lhe disse”. Traduzido com a passiva para clareza. O grego tem o artigo (ho Christos, “o Cristo”), que nas cartas a APV não traduz; ele dá ao nome o peso de título: o Messias não se nomeou sacerdote a si mesmo."
    },
    {
     "tipo": "sn",
@@ -2304,6 +2304,13 @@
   "n": [
    {
     "tipo": "tn",
+    "ancora": "que não tem a sua genealogia entre eles",
+    "termo": "μὴ γενεαλογούμενος ἐξ αὐτῶν (genealogoumenos)",
+    "titulo": "genealogeō, hápax",
+    "texto": "Genealogeō é “ter a genealogia registrada, ser contado numa linhagem”. Lit. “que não é contado na genealogia a partir deles”, isto é, dos filhos de Levi. O sacerdócio da Lei exigia comprovar a descendência de Arão (v. 3, agenealogētos); Melquisedeque recebe o dízimo sem esse registro."
+   },
+   {
+    "tipo": "tn",
     "ancora": "recebeu o dízimo de Abraão e abençoou",
     "termo": "δεδεκάτωκεν ... εὐλόγηκεν",
     "titulo": "perfeitos",
@@ -2419,7 +2426,7 @@
     "ancora": "serviu ao altar",
     "termo": "προσέσχηκεν τῷ θυσιαστηρίῳ (proseschēken tō thysiastēriō)",
     "titulo": "“se dedicou ao altar”",
-    "texto": "Lit. “se aplicou ao altar”, isto é, exerceu o serviço sacerdotal. Os reis da tribo de Judá que tentaram oferecer sacrifícios foram repreendidos (2Cr 26:16-21)."
+    "texto": "Lit. “se aplicou ao altar”, isto é, exerceu o serviço sacerdotal. Quando o rei Uzias, de Judá, quis queimar incenso no templo, foi castigado (2Cr 26:16-21)."
    }
   ]
  },

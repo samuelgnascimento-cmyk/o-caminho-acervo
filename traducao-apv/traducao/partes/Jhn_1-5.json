@@ -14,7 +14,7 @@
     "ancora": "a Palavra",
     "termo": "ὁ λόγος (ho logos)",
     "titulo": "logos: “a Palavra” ou “o Verbo”",
-    "texto": "Logos é palavra, discurso, razão. A tradição em português consagrou “o Verbo” (do latim Verbum), mas hoje “verbo” lembra antes de tudo a classe gramatical. “A Palavra” é o sentido corrente do termo e mantém o eco do AT, em que Deus cria e age pela sua palavra (Gn 1:3; Sl 33:6; Is 55:11). O termo também dialogava com a filosofia grega, para a qual o logos era a razão que ordena o mundo; João, porém, diz algo que nenhum filósofo disse: o Logos é pessoa e se fez carne (v. 14). O gênero feminino de “Palavra” em português não diz nada sobre a pessoa de Cristo; é só concordância gramatical."
+    "texto": "Logos é palavra, discurso, razão. A tradição em português consagrou “o Verbo” (do latim Verbum), mas hoje “verbo” lembra antes de tudo a classe gramatical. “A Palavra” é o sentido corrente do termo e mantém o eco do AT, em que Deus cria e age pela sua palavra (Gn 1:3; Sl 33:6; Is 55:11). O termo também dialogava com a filosofia grega, para a qual o logos era a razão que ordena o mundo; João, porém, diz algo que nenhum filósofo disse: o Logos é pessoa e se fez carne (v. 14). “Palavra” é feminino em português só como substantivo; os pronomes que se referem à Palavra seguem o masculino do grego (ver v. 2)."
    },
    {
     "tipo": "tn",
@@ -28,31 +28,31 @@
     "ancora": "a Palavra era Deus",
     "termo": "θεὸς ἦν ὁ λόγος (theos ēn ho logos)",
     "titulo": "por que não “um deus”",
-    "texto": "A ordem grega é “e Deus era a Palavra”. O artigo está em logos e não em theos: isso marca logos como sujeito e theos como predicado. Se João tivesse escrito ho theos ēn ho logos, as duas palavras seriam intercambiáveis, e a frase diria que a Palavra é idêntica a toda a realidade de Deus, inclusive ao Pai, com quem ela “estava” (o erro chamado depois de sabelianismo). Sem o artigo e posto antes do verbo, theos descreve a natureza da Palavra: tudo o que Deus é, a Palavra é. A tradução “um deus” (da Tradução do Novo Mundo, das Testemunhas de Jeová) não se sustenta: no mesmo capítulo theos sem artigo designa o único Deus (vv. 6, 12, 13, 18), e o monoteísmo judaico de João não admite um segundo deus menor. “Divina” também enfraquece o texto, pois João dispunha do adjetivo theios e não o usou. Sobre a gramática, ver E. C. Colwell, “A Definite Rule for the Use of the Article in the Greek New Testament”, JBL 52 (1933); P. B. Harner, “Qualitative Anarthrous Predicate Nouns”, JBL 92 (1973); D. B. Wallace, Greek Grammar Beyond the Basics (1996). A frase sustenta a confissão de Niceia: o Filho é “Deus verdadeiro de Deus verdadeiro”, distinto do Pai e da mesma substância."
+    "texto": "A ordem grega é “e Deus era a Palavra”. O artigo está em logos e não em theos: isso marca logos como sujeito e theos como predicado. Se João tivesse escrito ho theos ēn ho logos, as duas palavras seriam intercambiáveis, e a frase diria que a Palavra é idêntica a toda a realidade de Deus, inclusive ao Pai, com quem a Palavra “estava” (o erro chamado depois de sabelianismo). Sem o artigo e posto antes do verbo, theos descreve a natureza da Palavra: tudo o que Deus é, a Palavra é. A tradução “um deus” (da Tradução do Novo Mundo, das Testemunhas de Jeová) não se sustenta: no mesmo capítulo theos sem artigo designa o único Deus (vv. 6, 12, 13, 18), e o monoteísmo judaico de João não admite um segundo deus menor. “Divina” também enfraquece o texto, pois João dispunha do adjetivo theios e não o usou. Sobre a gramática, ver E. C. Colwell, “A Definite Rule for the Use of the Article in the Greek New Testament”, JBL 52 (1933); P. B. Harner, “Qualitative Anarthrous Predicate Nouns”, JBL 92 (1973); D. B. Wallace, Greek Grammar Beyond the Basics (1996). A frase sustenta a confissão de Niceia: o Filho é “Deus verdadeiro de Deus verdadeiro”, distinto do Pai e da mesma substância."
    }
   ]
  },
  "Jhn.1.2": {
-  "t": "Ela estava no princípio com Deus.",
+  "t": "Ele estava no princípio com Deus.",
   "n": [
    {
     "tipo": "tn",
-    "ancora": "Ela",
+    "ancora": "Ele",
     "termo": "οὗτος (houtos)",
-    "titulo": "o pronome",
-    "texto": "Lit. “Este”. O grego usa o masculino porque logos é masculino; o português usa o feminino porque “Palavra” é feminino. A partir do v. 10, quando o texto passa a falar da pessoa que veio ao mundo, o grego usa o masculino mesmo onde a palavra anterior era neutra (“a luz”), e a tradução passa para “ele”."
+    "titulo": "o pronome masculino",
+    "texto": "Lit. “Este”. O grego usa o masculino (houtos aqui; autou e autō nos vv. 3-4) porque logos é masculino, e mantém o masculino em todo o prólogo, inclusive no v. 10, onde a palavra anterior, “luz”, é neutra. A APV segue esse masculino constante: “Ele”, “por meio dele”, “Nele”. Em português “a Palavra” é feminino só no substantivo; o pronome masculino evita que o agente da criação soe impessoal e deixa claro, desde o começo, que a Palavra é a pessoa que virá ao mundo (v. 14). Uma alternativa seria a concordância gramatical (“Ela”, “por meio dela”), mas ela obrigaria a passar a “ele” no v. 10 sem antecedente claro."
    }
   ]
  },
  "Jhn.1.3": {
-  "t": "Todas as coisas vieram a existir por meio dela, e sem ela não veio a existir nem uma só coisa do que existe.",
+  "t": "Todas as coisas vieram a existir por meio dele, e sem ele não veio a existir nem uma só coisa do que existe.",
   "n": [
    {
     "tipo": "tn",
     "ancora": "vieram a existir",
     "termo": "ἐγένετο (egeneto)",
     "titulo": "ginomai",
-    "texto": "“Vir a ser, vir a existir”, em contraste com o ēn (“era”) do v. 1: a Palavra sempre foi; o mundo começou a existir. “Por meio dela” (di’ autou) apresenta a Palavra como agente da criação, sem negar que o Pai é o Criador (1Co 8:6; Cl 1:16; Hb 1:2)."
+    "texto": "“Vir a ser, vir a existir”, em contraste com o ēn (“era”) do v. 1: a Palavra sempre foi; o mundo começou a existir. “Por meio dele” (di’ autou) apresenta a Palavra como agente da criação, sem negar que o Pai é o Criador (1Co 8:6; Cl 1:16; Hb 1:2)."
    },
    {
     "tipo": "tn",
@@ -65,7 +65,7 @@
   ]
  },
  "Jhn.1.4": {
-  "t": "Nela estava a vida, e a vida era a luz dos homens.",
+  "t": "Nele estava a vida, e a vida era a luz dos homens.",
   "n": [
    {
     "tipo": "sn",
@@ -84,7 +84,8 @@
     "ancora": "não a venceram",
     "termo": "οὐ κατέλαβεν (ou katelaben)",
     "titulo": "katalambanō: “vencer” ou “compreender”",
-    "texto": "O verbo pode significar “apoderar-se, vencer, alcançar” ou “compreender”. A tradição em português (“não a compreenderam”) seguiu o segundo sentido. Em 12:35, porém, o mesmo verbo descreve as trevas que “alcançam” o caminhante, e o contraste do versículo é de luta, não de entendimento. Por isso “venceram”. É possível que João jogue com os dois sentidos."
+    "texto": "O verbo pode significar “apoderar-se, vencer, alcançar” ou “compreender”. A tradição em português (“não a compreenderam”) seguiu o segundo sentido. Em 12:35, porém, o mesmo verbo descreve as trevas que “alcançam” o caminhante, e o contexto (luz que brilha, trevas que se opõem) favorece a ideia de luta. Por isso “venceram”. Mas a outra leitura é possível, e é provável que João jogue com os dois sentidos: as trevas nem entenderam nem dominaram a luz.",
+    "revisar": true
    },
    {
     "tipo": "tn",
@@ -158,7 +159,7 @@
     "ancora": "não o reconheceu",
     "termo": "αὐτὸν οὐκ ἔγνω (auton ouk egnō)",
     "titulo": "o masculino",
-    "texto": "Ginōskō é “conhecer”; aqui, conhecer quem ele era: “reconhecer”. O pronome autos passa a ser masculino, embora a palavra anterior, “luz”, seja neutra em grego: João já fala da pessoa que veio. O terceiro “e” tem valor adversativo (“e, no entanto”), traço frequente do estilo de João."
+    "texto": "Ginōskō é “conhecer”; aqui, conhecer quem ele era: “reconhecer”. O pronome autos é masculino, embora a palavra anterior, “luz”, seja neutra em grego: o “Ele” retoma a Palavra dos vv. 1-4, a pessoa que veio ao mundo (ver v. 2). O terceiro “e” tem valor adversativo (“e, no entanto”), traço frequente do estilo de João."
    },
    {
     "tipo": "sn",
@@ -229,7 +230,7 @@
     "ancora": "os quais não nasceram",
     "termo": "οἳ ... ἐγεννήθησαν (hoi ... egennēthēsan)",
     "titulo": "plural ou singular",
-    "texto": "Todos os manuscritos gregos trazem o plural: os que creem nasceram de Deus. Algumas testemunhas latinas antigas e alguns escritores dos séculos II e III, como Tertuliano, leram o singular (“o qual ... nasceu”), aplicando a frase ao nascimento virginal de Cristo. O apoio grego unânime favorece o plural."
+    "texto": "Nenhum manuscrito grego conhecido traz o singular: os que creem nasceram de Deus. Algumas testemunhas latinas antigas e alguns escritores antigos, como Tertuliano, leram o singular (“o qual ... nasceu”), aplicando a frase ao nascimento virginal de Cristo (ver Metzger, A Textual Commentary on the Greek New Testament, 2ª ed., sobre Jo 1:13). O apoio grego favorece o plural."
    }
   ]
  },
@@ -293,8 +294,8 @@
     "tipo": "tc",
     "ancora": "Pois",
     "termo": "ὅτι (hoti)",
-    "titulo": "hoti ou kai",
-    "texto": "O texto crítico traz hoti (“pois”); o Textus Receptus e o Texto Bizantino, kai (“e”). Com hoti, o v. 16 explica o v. 14, e o v. 15 fica como um parêntese."
+    "titulo": "hoti",
+    "texto": "O texto crítico traz hoti (“pois”); o Textus Receptus e o Texto Bizantino não o trazem, mas outra conjunção. Com hoti, o v. 16 explica o v. 14, e o v. 15 fica como um parêntese."
    }
   ]
  },
@@ -325,7 +326,7 @@
     "ancora": "o Único, que é Deus",
     "termo": "μονογενὴς θεός (monogenēs theos)",
     "titulo": "“Deus único” ou “Filho único”",
-    "texto": "O texto crítico traz monogenēs theos (“Único, Deus”), com 𝔓66, 𝔓75 (este com artigo), ℵ e B, os manuscritos mais antigos. O THGNT também traz theos, com o artigo. O Textus Receptus e o Texto Bizantino, com A e a maioria dos manuscritos posteriores, trazem ho monogenēs huios (“o Filho único”), forma que aparece também em 3:16, 18 e 1Jo 4:9. A leitura theos é mais antiga e mais difícil, e é fácil entender um copista mudando-a para huios por harmonização; o contrário é menos provável (Metzger). B. D. Ehrman (The Orthodox Corruption of Scripture, 1993) defende huios, argumentando que theos seria acréscimo antiadocionista. Com theos, o prólogo termina como começou (v. 1): a Palavra é Deus.",
+    "texto": "O texto crítico traz monogenēs theos (“Único, Deus”), com 𝔓66, 𝔓75 (este com artigo), ℵ e B, os manuscritos mais antigos. O THGNT também traz theos, com o artigo. O Textus Receptus e o Texto Bizantino não trazem theos; segundo Metzger, A e a maioria dos manuscritos posteriores trazem ho monogenēs huios (“o Filho único”), forma que aparece também em 3:16, 18 e 1Jo 4:9. A leitura theos é mais antiga e mais difícil, e é fácil entender um copista mudando-a para huios por harmonização; o contrário é menos provável (Metzger). B. D. Ehrman (The Orthodox Corruption of Scripture, 1993) defende huios, argumentando que theos seria acréscimo antiadocionista. Com theos, o prólogo termina como começou (v. 1): a Palavra é Deus.",
     "revisar": true
    },
    {
@@ -503,7 +504,7 @@
     "ancora": "Betânia",
     "termo": "Βηθανίᾳ (Bēthania)",
     "titulo": "Betânia ou Betábara",
-    "texto": "O texto crítico traz “Betânia”, com os manuscritos mais antigos e a maioria. O Textus Receptus traz “Betábara” (por isso a ARC: “Betábara”), leitura que Orígenes preferiu por não conhecer em seu tempo nenhuma Betânia junto ao Jordão. Esta Betânia, “do outro lado do Jordão” (a leste), é distinta da Betânia de Marta e Maria, perto de Jerusalém (11:18); a localização exata é incerta."
+    "texto": "O texto crítico traz “Betânia”. O Textus Receptus não traz “Betânia”; a ARC, que segue essa tradição, tem “Betábara”, leitura que Orígenes preferiu por não conhecer em seu tempo nenhuma Betânia junto ao Jordão. Esta Betânia, “do outro lado do Jordão” (a leste), é distinta da Betânia de Marta e Maria, perto de Jerusalém (11:18); a localização exata é incerta."
    }
   ]
  },
@@ -540,8 +541,8 @@
     "tipo": "tc",
     "ancora": "a respeito de quem",
     "termo": "ὑπὲρ οὗ (hyper hou)",
-    "titulo": "hyper ou peri",
-    "texto": "O texto crítico traz hyper hou; o Textus Receptus e o Texto Bizantino, peri hou. Mesmo sentido: “a respeito de quem”."
+    "titulo": "preposição",
+    "texto": "O texto crítico traz hyper hou; o Textus Receptus e o Texto Bizantino trazem outra preposição. O sentido é o mesmo: “a respeito de quem”."
    }
   ]
  },
@@ -669,8 +670,8 @@
     "tipo": "tc",
     "ancora": "Venham e verão",
     "termo": "ἔρχεσθε καὶ ὄψεσθε (erchesthe kai opsesthe)",
-    "titulo": "opsesthe ou idete",
-    "texto": "O texto crítico traz opsesthe (“verão”); o Textus Receptus e o Texto Bizantino, idete (“vejam”), forma que harmoniza com o v. 46. Leve diferença de sentido: promessa, no texto crítico; convite, no TR."
+    "titulo": "opsesthe",
+    "texto": "O texto crítico traz opsesthe (“verão”), uma promessa; o Textus Receptus e o Texto Bizantino trazem aqui outra forma do verbo “ver”. A ARC, que segue essa tradição, tem um imperativo (“vede”), como no convite do v. 46."
    }
   ]
  },
@@ -700,8 +701,8 @@
     "tipo": "tc",
     "ancora": "primeiro",
     "termo": "πρῶτον (prōton)",
-    "titulo": "prōton ou prōtos",
-    "texto": "O texto crítico traz prōton (advérbio: “antes de tudo, primeiro”); o Textus Receptus e o Texto Bizantino, prōtos (adjetivo: “ele foi o primeiro a encontrar”, sugerindo que o outro discípulo depois encontrou também o seu irmão). Com prōton, a ênfase está em que a primeira coisa que André fez foi buscar Simão."
+    "titulo": "prōton",
+    "texto": "O texto crítico traz prōton (advérbio: “antes de tudo, primeiro”); o Textus Receptus e o Texto Bizantino trazem outra forma da palavra, que pode ser lida como “ele foi o primeiro a encontrar”, sugerindo que o outro discípulo depois encontrou também o seu irmão. Com prōton, a ênfase está em que a primeira coisa que André fez foi buscar Simão."
    }
   ]
  },
@@ -720,7 +721,7 @@
     "ancora": "filho de João",
     "termo": "υἱὸς Ἰωάννου (huios Iōannou)",
     "titulo": "João ou Jonas",
-    "texto": "O texto crítico traz Iōannou (“de João”), com os manuscritos mais antigos, como também em 21:15-17. O Textus Receptus e o Texto Bizantino trazem Iōna (“de Jonas”), forma que harmoniza com Mt 16:17 (“Simão Barjonas”). Jonas pode ser forma abreviada de João."
+    "texto": "O texto crítico traz Iōannou (“de João”), com os manuscritos mais antigos, como também em 21:15-17. O Textus Receptus e o Texto Bizantino trazem outro nome; a ARC, que segue essa tradição, tem “filho de Jonas”, forma que harmoniza com Mt 16:17 (“Simão Barjonas”). Jonas pode ser forma abreviada de João."
    }
   ]
  },
@@ -917,7 +918,7 @@
     "ancora": "mulher",
     "termo": "γύναι (gynai)",
     "titulo": "“mulher”",
-    "texto": "Jesus chama assim também a samaritana (4:21), Maria Madalena (20:15) e a própria mãe na cruz (19:26). Era tratamento respeitoso, não rude, mas incomum de um filho para a mãe; não se conhece outro exemplo seguro disso na literatura antiga. Mostra que a relação de Jesus com ela passa agora pela sua missão."
+    "texto": "Jesus chama assim também a samaritana (4:21), Maria Madalena (20:15) e a própria mãe na cruz (19:26). Era tratamento respeitoso, não rude, mas incomum num filho que se dirige à mãe. Mostra que a relação de Jesus com ela passa agora pela sua missão."
    },
    {
     "tipo": "sn",
@@ -1097,7 +1098,7 @@
   ]
  },
  "Jhn.2.15": {
-  "t": "Ele fez um chicote de cordas e expulsou todos do templo, tanto as ovelhas como os bois; espalhou as moedas dos cambistas e virou as suas mesas.",
+  "t": "Ele fez um chicote de cordas e expulsou todos do templo, as ovelhas e os bois; espalhou as moedas dos cambistas e virou as suas mesas.",
   "n": [
    {
     "tipo": "tn",
@@ -1108,10 +1109,10 @@
    },
    {
     "tipo": "tn",
-    "ancora": "todos do templo, tanto as ovelhas como os bois",
+    "ancora": "todos do templo, as ovelhas e os bois",
     "termo": "πάντας ... τά τε πρόβατα καὶ τοὺς βόας",
     "titulo": "quem foi expulso?",
-    "texto": "Pantas (“todos”) é masculino; pode incluir os vendedores ou referir-se apenas aos animais, explicados em seguida (“tanto as ovelhas como os bois”). A construção grega favorece a segunda leitura: o chicote serviu para tocar os animais. Os vendedores saem com eles."
+    "texto": "Lit. “todos expulsou do templo, tanto as ovelhas como os bois”. Pantas (“todos”) é masculino plural. Há duas leituras: (1) “todos” são os vendedores e cambistas, e a expressão com te ... kai acrescenta os animais (“com as ovelhas e os bois”); (2) “todos” são os próprios animais, e a expressão explica quem eram (o masculino se explica por bous, “boi”, que é masculino, num grupo misto com probata, neutro). Na segunda leitura, o chicote serviu para tocar os animais. As duas são defendidas; a tradução mantém a aposição sem decidir."
    },
    {
     "tipo": "tc",
@@ -1156,7 +1157,7 @@
     "ancora": "me consumirá",
     "termo": "καταφάγεταί με (kataphagetai me)",
     "titulo": "futuro ou aoristo",
-    "texto": "O texto crítico e o Texto Bizantino trazem o futuro kataphagetai; o Textus Receptus, o aoristo katephage (“me consumiu”), forma da Septuaginta."
+    "texto": "O texto crítico e o Texto Bizantino trazem o futuro kataphagetai; o Textus Receptus traz outra forma do verbo. A Septuaginta do Sl 68:10 tem o passado (“me consumiu”)."
    }
   ]
  },
@@ -1503,7 +1504,7 @@
     "ancora": "todo aquele que crê tenha nele vida eterna",
     "termo": "ὁ πιστεύων ἐν αὐτῷ ἔχῃ ζωὴν αἰώνιον",
     "titulo": "en autō e acréscimo",
-    "texto": "O texto crítico traz en autō, que se liga mais naturalmente a “tenha” (“tenha nele vida eterna”), pois João usa eis, não en, depois de “crer”. O Textus Receptus e o Texto Bizantino trazem eis auton (“crê nele”) e acrescentam “não pereça, mas”, vindo do v. 16."
+    "texto": "O texto crítico traz en autō, que se liga mais naturalmente a “tenha” (“tenha nele vida eterna”), pois João usa eis, não en, depois de “crer”. O Textus Receptus e o Texto Bizantino não trazem en autō (mas outra construção, ligada a “crê”) e acrescentam “não pereça, mas”, vindo do v. 16."
    }
   ]
  },
@@ -1903,7 +1904,7 @@
   ]
  },
  "Jhn.4.6": {
-  "t": "Ali ficava a fonte de Jacó. Jesus, cansado da viagem, sentou-se assim mesmo junto à fonte. Era por volta da hora sexta.",
+  "t": "Ali ficava a fonte de Jacó. Jesus, cansado da viagem, sentou-se, assim como estava, junto à fonte. Era por volta da hora sexta.",
   "n": [
    {
     "tipo": "tn",
@@ -1914,7 +1915,7 @@
    },
    {
     "tipo": "tn",
-    "ancora": "assim mesmo",
+    "ancora": "assim como estava",
     "termo": "οὕτως (houtōs)",
     "titulo": "houtōs",
     "texto": "“Assim”: do jeito que estava, cansado, ou simplesmente “sem mais”, “ali mesmo”. Ressalta a humanidade de Jesus: a Palavra feita carne se cansa e tem sede (cf. 19:28). Hodoiporia (“viagem a pé”) só aqui e em 2Co 11:26."
@@ -1958,7 +1959,7 @@
     "ancora": "Pois os judeus não se dão com os samaritanos",
     "termo": "οὐ γὰρ συγχρῶνται Ἰουδαῖοι Σαμαρίταις",
     "titulo": "frase omitida",
-    "texto": "Alguns manuscritos antigos omitem esta explicação, mas a grande maioria a traz, e as edições críticas a mantêm. É comentário do evangelista para leitores que não conheciam os costumes judaicos."
+    "texto": "Um pequeno número de manuscritos antigos omite esta explicação; ela está no texto-base. É comentário do evangelista para leitores que não conheciam os costumes judaicos."
    }
   ]
  },
@@ -2047,7 +2048,7 @@
     "ancora": "Ele lhe disse",
     "termo": "λέγει αὐτῇ (legei autē)",
     "titulo": "sujeito",
-    "texto": "THGNT, Tregelles, o Textus Receptus e o Texto Bizantino trazem ho Iēsous (“Jesus lhe disse”). Sem efeito no sentido."
+    "texto": "Tregelles, o Textus Receptus e o Texto Bizantino trazem ho Iēsous (“Jesus lhe disse”); o THGNT traz Iēsous, sem artigo. Sem efeito no sentido."
    }
   ]
  },
@@ -2107,14 +2108,14 @@
     "ancora": "Creia-me",
     "termo": "πίστευέ μοι (pisteue moi)",
     "titulo": "pisteuō com dativo",
-    "texto": "Pisteuō com dativo é “crer no que alguém diz”. Única vez em que Jesus pede assim a fé de alguém no que vai dizer. “Mulher” como em 2:4."
+    "texto": "Pisteuō com dativo é “crer no que alguém diz”. É raro Jesus pedir assim que creiam na sua palavra; compare 14:11 (pisteuete moi). “Mulher” como em 2:4."
    },
    {
     "tipo": "tn",
     "ancora": "vocês",
     "termo": "προσκυνήσετε (proskynēsete)",
     "titulo": "plural",
-    "texto": "O verbo está no plural: os samaritanos. A hora que vem tornará secundária a questão do lugar."
+    "texto": "O verbo está no plural. Dirige-se primeiro aos samaritanos, o povo da mulher, mas “nem em Jerusalém” mostra que vale também para os judeus: a hora que vem tornará secundária a questão do lugar para quem adora em qualquer dos dois."
    }
   ]
  },
@@ -2338,7 +2339,7 @@
     "ancora": "outros trabalharam",
     "termo": "ἄλλοι κεκοπιάκασιν",
     "titulo": "quem são os outros?",
-    "texto": "Podem ser os profetas e João Batista, que prepararam o caminho, ou o próprio Jesus (e o Pai), que semearam, e a mulher, que testemunhou. O perfeito “enviei” pode olhar para a missão futura dos discípulos (At 8:4-25, na Samaria) como já decidida."
+    "texto": "Podem ser os profetas e João Batista, que prepararam o caminho, ou o próprio Jesus (e o Pai), que semearam, e a mulher, que testemunhou. O aoristo apesteila (“enviei”) pode olhar para a missão futura dos discípulos (At 8:4-25, na Samaria) como já decidida."
    }
   ]
  },
@@ -2496,14 +2497,14 @@
     "ancora": "começado a melhorar",
     "termo": "κομψότερον ἔσχεν (kompsoteron eschen)",
     "titulo": "kompsoteron, hápax",
-    "texto": "Expressão coloquial de quem está doente: “ficou melhor”, “estava se sentindo melhor”. Expressão atestada em textos gregos da época com esse sentido."
+    "texto": "Comparativo do advérbio kompsōs (“bem”), com echō: “ficou melhor”, “estava se sentindo melhor”, modo coloquial de falar de um doente."
    },
    {
     "tipo": "sn",
     "ancora": "Ontem, à hora sétima",
     "termo": "ἐχθὲς ὥραν ἑβδόμην",
     "titulo": "a hora da cura",
-    "texto": "Por volta das 13h (ver 1:39). “Ontem” indica que o pai só encontrou os servos no dia seguinte: voltou sem pressa, confiando na palavra. Echthes (“ontem”) só aparece três vezes no NT."
+    "texto": "Por volta das 13h (ver 1:39). “Ontem” indica que o pai só encontrou os servos no dia seguinte; isso pode indicar que voltou sem pressa, confiando na palavra, mas o texto não o diz. Echthes (“ontem”) só aparece três vezes no NT."
    }
   ]
  },
@@ -2558,7 +2559,7 @@
     "ancora": "Betesda",
     "termo": "Βηθεσδά (Bēthesda)",
     "titulo": "Betesda, Betzata ou Betsaida",
-    "texto": "O nome varia nos manuscritos. O SBLGNT e o Textus Receptus trazem Bēthesda (“casa da misericórdia”, em aramaico, segundo a explicação comum). NA28, NA27 e Westcott-Hort trazem Bēthzatha (nome de um bairro ao norte do templo, segundo Flávio Josefo). Outros manuscritos antigos trazem Bēthsaida, talvez por confusão com a cidade da Galileia. A forma Betesda é a mais conhecida em português.",
+    "texto": "O nome varia nos manuscritos. O SBLGNT traz Bēthesda (“casa da misericórdia”, em aramaico, segundo a explicação comum), forma que a ARC também tem. NA28, NA27 e Westcott-Hort trazem Bēthzatha (nome de um bairro ao norte do templo, segundo Flávio Josefo). Outros manuscritos antigos trazem Bēthsaida, talvez por confusão com a cidade da Galileia. A forma Betesda é a mais conhecida em português.",
     "revisar": true
    },
    {
@@ -2597,7 +2598,7 @@
     "ancora": "⟦Pois um anjo descia",
     "termo": "ἄγγελος γὰρ κατὰ καιρὸν κατέβαινεν",
     "titulo": "versículo ausente dos manuscritos mais antigos",
-    "texto": "Os vv. 3b-4 (“que esperavam o movimento da água” e todo o v. 4) não estão no SBLGNT nem nas demais edições críticas, e por isso a APV os põe entre colchetes duplos. Faltam nos manuscritos gregos mais antigos (entre eles 𝔓66, 𝔓75, ℵ e B) e em versões antigas. Aparecem no Textus Receptus e no Texto Bizantino, e daí na ARC. Há sinais de acréscimo: alguns manuscritos trazem o v. 3b sem o v. 4, outros o v. 4 sem o 3b; vários que trazem o v. 4 o marcam com sinais de dúvida; o texto circula em formas diferentes; e várias palavras dele não aparecem em nenhum outro lugar de João. A explicação mais provável é que uma nota antiga, que explicava a queixa do doente no v. 7 com uma crença popular sobre o tanque, foi incorporada ao texto por copistas. A história já era conhecida por Tertuliano no fim do século II (Metzger). O relato não depende desse versículo: o v. 7 mostra o que o doente acreditava, e Jesus o cura sem a água."
+    "texto": "Os vv. 3b-4 (“que esperavam o movimento da água” e todo o v. 4) não estão no SBLGNT, o texto-base, e as edições críticas que os registram os põem entre colchetes duplos; por isso a APV os traduz entre ⟦ ⟧. Faltam nos manuscritos gregos mais antigos (entre eles 𝔓66, 𝔓75, ℵ e B) e em versões antigas. Aparecem no Textus Receptus e no Texto Bizantino, e daí na ARC. Há sinais de acréscimo: alguns manuscritos trazem o v. 3b sem o v. 4, outros o v. 4 sem o 3b; vários que trazem o v. 4 o marcam com sinais de dúvida; o texto circula em formas diferentes; e várias palavras dele não aparecem em nenhum outro lugar de João. A explicação mais provável é que uma nota antiga, que explicava a queixa do doente no v. 7 com uma crença popular sobre o tanque, foi incorporada ao texto por copistas. A história já era conhecida por Tertuliano no fim do século II (Metzger). O relato não depende desse versículo: o v. 7 mostra o que o doente acreditava, e Jesus o cura sem a água."
    },
    {
     "tipo": "sn",
@@ -2652,7 +2653,7 @@
     "ancora": "maca",
     "termo": "κράβαττον (krabatton)",
     "titulo": "krabattos",
-    "texto": "Uma esteira ou leito leve de pobre, que se podia enrolar e carregar. As mesmas palavras aparecem na cura do paralítico em Mc 2:11. O Textus Receptus e o Texto Bizantino trazem egeirai, outra grafia de “levante-se”."
+    "texto": "Uma esteira ou leito leve de pobre, que se podia enrolar e carregar. As mesmas palavras aparecem na cura do paralítico em Mc 2:11. O Textus Receptus e o Texto Bizantino trazem outra forma do imperativo “levante-se”, sem efeito no sentido."
    }
   ]
  },
@@ -2826,14 +2827,14 @@
   ]
  },
  "Jhn.5.22": {
-  "t": "E o Pai não julga ninguém, mas confiou todo o julgamento ao Filho,",
+  "t": "E o Pai não julga ninguém, mas deu todo o julgamento ao Filho,",
   "n": [
    {
     "tipo": "tn",
-    "ancora": "confiou",
+    "ancora": "deu todo o julgamento",
     "termo": "δέδωκεν (dedōken)",
     "titulo": "“deu”",
-    "texto": "Lit. “deu”. O perfeito indica uma entrega feita e permanente. Não contradiz 3:17: o Filho veio para salvar, mas quem o rejeita encontra nele o juiz."
+    "texto": "Didōmi (“dar”) é palavra-chave da relação entre Pai e Filho em João (3:35; 5:26-27; 17:2); por isso “deu” nos vv. 22, 26 e 27, onde se poderia dizer “confiou” ou “concedeu”. O perfeito indica uma entrega feita e permanente. Não contradiz 3:17: o Filho veio para salvar, mas quem o rejeita encontra nele o juiz."
    }
   ]
  },
@@ -2881,14 +2882,14 @@
   ]
  },
  "Jhn.5.26": {
-  "t": "Pois, assim como o Pai tem vida em si mesmo, assim também concedeu ao Filho ter vida em si mesmo,",
+  "t": "Pois, assim como o Pai tem vida em si mesmo, assim também deu ao Filho ter vida em si mesmo,",
   "n": [
    {
     "tipo": "sn",
-    "ancora": "concedeu ao Filho ter vida em si mesmo",
+    "ancora": "deu ao Filho ter vida em si mesmo",
     "termo": "τῷ υἱῷ ἔδωκεν ζωὴν ἔχειν ἐν ἑαυτῷ",
     "titulo": "vida em si mesmo",
-    "texto": "Ter “vida em si mesmo” é próprio de Deus, que não a recebe de ninguém (cf. 1:4). Que o Pai a “conceda” ao Filho foi lido de dois modos: pela tradição de Agostinho, como a geração eterna, em que o Pai comunica ao Filho, desde sempre, toda a sua natureza; por outros, como o que foi dado ao Filho encarnado para a sua missão. A primeira leitura é a da teologia nicena. Em nenhuma delas o Filho é criatura."
+    "texto": "Ter “vida em si mesmo” é próprio de Deus, que não a recebe de ninguém (cf. 1:4). Que o Pai a “dê” ao Filho foi lido de dois modos: pela tradição de Agostinho, como a geração eterna, em que o Pai comunica ao Filho, desde sempre, toda a sua natureza; por outros, como o que foi dado ao Filho encarnado para a sua missão. A primeira leitura é a da teologia nicena. Em nenhuma delas o Filho é criatura."
    }
   ]
  },
@@ -3075,11 +3076,18 @@
   "t": "Como vocês podem crer, se aceitam glória uns dos outros e não buscam a glória que vem do único Deus?",
   "n": [
    {
-    "tipo": "sn",
+    "tipo": "tc",
     "ancora": "do único Deus",
-    "termo": "παρὰ τοῦ μόνου θεοῦ",
+    "termo": "παρὰ τοῦ μόνου θεοῦ (+/- θεοῦ)",
+    "titulo": "“do único Deus” ou “do Único”",
+    "texto": "O texto-base traz theou (“Deus”). Alguns manuscritos antigos não o trazem e leem “a glória que vem do Único”. Mesmo nessa forma, o “Único” é Deus, e o sentido não muda."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "glória que vem do único Deus",
+    "termo": "τὴν δόξαν τὴν παρὰ τοῦ μόνου θεοῦ",
     "titulo": "o Deus único",
-    "texto": "Eco do Shemá (Dt 6:4): “o SENHOR é um só”. Alguns manuscritos antigos omitem theou (“do Único”), mas o sentido é o mesmo. Quem vive da aprovação humana não consegue crer, porque crer é receber a aprovação de Deus."
+    "texto": "Eco do Shemá (Dt 6:4): “o SENHOR é um só”. Quem vive da aprovação humana não consegue crer, porque crer é receber a aprovação de Deus."
    }
   ]
  },

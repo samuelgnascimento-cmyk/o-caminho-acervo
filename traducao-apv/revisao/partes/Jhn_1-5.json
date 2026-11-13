@@ -3,90 +3,105 @@
   "ref": "Jhn.1.2",
   "gravidade": "media",
   "problema": "Decisão do pronome feminino: 'Ela/Nela/dela' (1:2-4) para a Palavra e 'Ele' a partir de 1:10. Defensável como concordância gramatical (as notas dos vv.1-2 explicam), mas gera dois problemas: (1) em voz alta, 'por meio dela... sem ela' (v.3) soa como se o agente da criação fosse feminino/impessoal; (2) a troca em 1:10 não tem antecedente português: o antecedente gramatical de 'Ele estava no mundo' é 'A luz' (fem.), e o leitor vê 'a luz... Ele' sem ponte. O grego usa o mesmo masculino (autos/houtos) em todo o trecho; a mudança é artefato da tradução.",
-  "sugestao": "Preferir consistência: 'Ele' desde 1:2 (a Palavra é pessoa; 'o Verbo' masculino da tradição já o permite) ou repetir o nome ('A Palavra estava no princípio com Deus'; 'por meio da Palavra todas as coisas vieram a existir'). Se mantiver o feminino, acrescentar em 1:10 nota curta dizendo que 'Ele' retoma a Palavra/luz como pessoa, e marcar revisar:true na nota de 1:2."
+  "sugestao": "Preferir consistência: 'Ele' desde 1:2 (a Palavra é pessoa; 'o Verbo' masculino da tradição já o permite) ou repetir o nome ('A Palavra estava no princípio com Deus'; 'por meio da Palavra todas as coisas vieram a existir'). Se mantiver o feminino, acrescentar em 1:10 nota curta dizendo que 'Ele' retoma a Palavra/luz como pessoa, e marcar revisar:true na nota de 1:2.",
+  "decisao": "aceito. Por decisão de projeto, a Palavra passa a ser “Ele” desde 1:2 (“Ele estava”, “por meio dele”, “Nele”), seguindo o masculino constante do grego; as notas de 1:1, 1:2 e 1:10 explicam que “a Palavra” é feminina só no substantivo."
  },
  {
   "ref": "Jhn.1.5",
   "gravidade": "baixa",
   "problema": "'não a venceram' para οὐ κατέλαβεν: escolha forte contra a tradição; a nota afirma que o contraste 'é de luta, não de entendimento' com mais certeza do que o grego permite (a própria nota admite o jogo com 'compreender').",
-  "sugestao": "Marcar revisar:true e suavizar para 'o contexto favorece a ideia de luta'."
+  "sugestao": "Marcar revisar:true e suavizar para 'o contexto favorece a ideia de luta'.",
+  "decisao": "aceito. A nota agora diz que o contexto favorece a ideia de luta, admite a leitura “compreender” e está marcada revisar."
  },
  {
   "ref": "Jhn.1.13",
   "gravidade": "baixa",
   "problema": "Nota tc diz que 'todos os manuscritos gregos trazem o plural' e cita Tertuliano e 'escritores dos séculos II e III' sem linha VARIANTE na folha. Correto em substância, mas 'todos' é absoluto e a fonte patrística não é dada.",
-  "sugestao": "Dizer 'nenhum manuscrito grego conhecido traz o singular' e citar a fonte (p. ex. Metzger, A Textual Commentary, 2ª ed., sobre Jo 1:13), ou só 'alguns escritores antigos, como Tertuliano'."
+  "sugestao": "Dizer 'nenhum manuscrito grego conhecido traz o singular' e citar a fonte (p. ex. Metzger, A Textual Commentary, 2ª ed., sobre Jo 1:13), ou só 'alguns escritores antigos, como Tertuliano'.",
+  "decisao": "aceito. A nota agora diz “nenhum manuscrito grego conhecido traz o singular”, fala só de “escritores antigos, como Tertuliano” e remete a Metzger sobre Jo 1:13."
  },
  {
   "ref": "Jhn.1.16",
   "gravidade": "baixa",
   "problema": "Várias notas tc afirmam a leitura substituta do Textus Receptus/Bizantino sem que a folha a mostre (a folha só diz 'ausente em TR e Bizantino'): 1:16 kai; 1:30 peri; 1:41 prōtos; 1:42 Iōna; 3:15 eis auton; 5:2 TR 'Bēthesda'; 5:8 egeirai. São historicamente corretas, mas violam a regra de afirmar sobre edições só o que a folha mostra.",
-  "sugestao": "Onde não houver certeza, dizer apenas 'ausente no TR e no Texto Bizantino' ou 'o TR e o Bizantino trazem outra leitura'."
+  "sugestao": "Onde não houver certeza, dizer apenas 'ausente no TR e no Texto Bizantino' ou 'o TR e o Bizantino trazem outra leitura'.",
+  "decisao": "aceito. A folha só mostra a ausência, então as notas de 1:16, 1:30, 1:41, 1:42, 3:15, 5:2 e 5:8 (e também 1:28, 1:39 e 2:17, do mesmo tipo) já não atribuem ao TR ou ao Bizantino uma forma específica; onde ajuda o leitor, cito a ARC; em 1:18 a forma huios fica atribuída a Metzger, porque a nota tc pedida depende dela."
  },
  {
   "ref": "Jhn.2.4",
   "gravidade": "baixa",
   "problema": "Nota de 'mulher' afirma que 'não se conhece outro exemplo seguro disso na literatura antiga'. Universal negativa sem fonte.",
-  "sugestao": "Dizer 'é incomum num filho dirigindo-se à mãe' (e citar BDAG s.v. γυνή, se quiser fonte)."
+  "sugestao": "Dizer 'é incomum num filho dirigindo-se à mãe' (e citar BDAG s.v. γυνή, se quiser fonte).",
+  "decisao": "aceito. A frase negativa universal saiu; a nota agora diz que o tratamento é incomum num filho que se dirige à mãe."
  },
  {
   "ref": "Jhn.2.15",
   "gravidade": "media",
   "problema": "Tradução 'expulsou todos do templo, tanto as ovelhas como os bois' e nota dizendo que 'a construção grega favorece' ler pantas como só os animais. Mas pantas é masculino e ta probata é neutro; 'todos' abrange naturalmente as pessoas (vendedores), e te... kai explica 'com as ovelhas e os bois'. A tradução fecha uma leitura disputada e a nota afirma que a gramática favorece a menos comum.",
-  "sugestao": "Traduzir de modo aberto: 'expulsou todos do templo, junto com as ovelhas e os bois' e reescrever a nota apresentando as duas leituras sem dizer que a gramática favorece a dos animais."
+  "sugestao": "Traduzir de modo aberto: 'expulsou todos do templo, junto com as ovelhas e os bois' e reescrever a nota apresentando as duas leituras sem dizer que a gramática favorece a dos animais.",
+  "decisao": "aceito em parte. O texto agora mantém a aposição sem decidir (“expulsou todos do templo, as ovelhas e os bois”), e a nota apresenta as duas leituras sem dizer que a gramática favorece uma; não adotei “junto com”, que trocaria te ... kai por uma ideia de companhia que o grego não marca, e a nota explica que o masculino pantas pode cobrir um grupo misto com bous (masculino)."
  },
  {
   "ref": "Jhn.4.6",
   "gravidade": "baixa",
   "problema": "'sentou-se assim mesmo' para οὕτως: em português 'assim mesmo' = 'apesar disso', concessão que o grego não tem (οὕτως = 'assim, tal como estava').",
-  "sugestao": "'sentou-se, tal como estava, junto à fonte' ou 'sentou-se ali junto à fonte'; ajustar o título da nota."
+  "sugestao": "'sentou-se, tal como estava, junto à fonte' ou 'sentou-se ali junto à fonte'; ajustar o título da nota.",
+  "decisao": "aceito. Em português “assim mesmo” soa concessivo; mudei para “sentou-se, assim como estava, junto à fonte” e ajustei a âncora."
  },
  {
   "ref": "Jhn.4.9",
   "gravidade": "media",
   "problema": "Nota tc 'frase omitida' afirma que 'alguns manuscritos antigos omitem esta explicação, mas a grande maioria a traz, e as edições críticas a mantêm', sem nenhuma linha VARIANTE na folha. Dado de manuscritos e edições não confirmado pela folha.",
-  "sugestao": "Retirar a nota tc ou reescrever só com o certo: 'um pequeno número de manuscritos antigos omite a frase; ela está no texto crítico'."
+  "sugestao": "Retirar a nota tc ou reescrever só com o certo: 'um pequeno número de manuscritos antigos omite a frase; ela está no texto crítico'.",
+  "decisao": "aceito. A nota tc ficou só com o que é seguro: um pequeno número de manuscritos antigos omite a frase, e ela está no texto-base."
  },
  {
   "ref": "Jhn.4.16",
   "gravidade": "media",
   "problema": "Nota tc diz que 'THGNT, Tregelles, o TR e o Bizantino trazem ho Iēsous'. A folha mostra o artigo ὁ presente só em Tregelles, TR e Bizantino; no THGNT consta apenas Ἰησοῦς (sem artigo).",
-  "sugestao": "Corrigir: 'Tregelles, o TR e o Bizantino trazem ho Iēsous; o THGNT traz Iēsous, sem artigo'."
+  "sugestao": "Corrigir: 'Tregelles, o TR e o Bizantino trazem ho Iēsous; o THGNT traz Iēsous, sem artigo'.",
+  "decisao": "aceito. A folha mostra o artigo só em Tregelles, no TR e no Bizantino; corrigi a nota para dizer que o THGNT traz Iēsous sem artigo."
  },
  {
   "ref": "Jhn.4.21",
   "gravidade": "media",
   "problema": "Nota diz que pisteuō com dativo é 'única vez em que Jesus pede assim a fé de alguém no que vai dizer'. É falso: 14:11 tem pisteuete moi hoti egō en tō patri (mesmo imperativo com dativo). Também 'vocês: os samaritanos' ignora que 'nem em Jerusalém' alcança também os judeus.",
-  "sugestao": "Reescrever: 'raro; compare 14:11' e dizer que o plural cobre quem adora em qualquer dos dois lugares."
+  "sugestao": "Reescrever: 'raro; compare 14:11' e dizer que o plural cobre quem adora em qualquer dos dois lugares.",
+  "decisao": "aceito. A afirmação de exclusividade era falsa (14:11 tem pisteuete moi): corrigi para “raro; compare 14:11” e reescrevi a nota do plural para cobrir quem adora nos dois lugares."
  },
  {
   "ref": "Jhn.4.38",
   "gravidade": "media",
   "problema": "Nota diz 'O perfeito enviei pode olhar para a missão futura'. ἀπέστειλα é aoristo, não perfeito (os perfeitos do versículo são kekopiakate/kekopiakasin).",
-  "sugestao": "Corrigir para 'O aoristo apesteila (enviei) pode olhar para a missão futura como já decidida'."
+  "sugestao": "Corrigir para 'O aoristo apesteila (enviei) pode olhar para a missão futura como já decidida'.",
+  "decisao": "aceito. Apesteila é aoristo; a nota foi corrigida."
  },
  {
   "ref": "Jhn.4.52",
   "gravidade": "baixa",
   "problema": "Duas afirmações sem base na folha: 'expressão atestada em textos gregos da época com esse sentido' (kompsoteron echein) e 'o pai voltou sem pressa, confiando na palavra' (inferência do 'ontem'; o texto não diz isso).",
-  "sugestao": "Citar fonte para a primeira (p. ex. BDAG) ou retirar; transformar a segunda em hipótese ('pode indicar')."
+  "sugestao": "Citar fonte para a primeira (p. ex. BDAG) ou retirar; transformar a segunda em hipótese ('pode indicar').",
+  "decisao": "aceito. Retirei a afirmação sobre a atestação de kompsoteron sem fonte e transformei “voltou sem pressa” em hipótese que o texto não afirma."
  },
  {
   "ref": "Jhn.5.22",
   "gravidade": "baixa",
   "problema": "didōmi é traduzido de modos diferentes na mesma seção: 'confiou' (5:22), 'concedeu' (5:26), 'deu' (5:27), 'entregou' (3:35). 'Dar' é palavra-chave da relação Pai/Filho em João e a variação apaga a repetição.",
-  "sugestao": "Uniformizar com 'deu' (ou 'entregou') nos vv. 22, 26, 27 e 3:35, deixando 'confiou' para a nota."
+  "sugestao": "Uniformizar com 'deu' (ou 'entregou') nos vv. 22, 26, 27 e 3:35, deixando 'confiou' para a nota.",
+  "decisao": "aceito em parte. Em 5:22, 26 e 27 o texto agora diz “deu”, com nota sobre didōmi como palavra-chave; em 3:35 mantive “entregou todas as coisas em suas mãos”, porque “deu tudo nas suas mãos” não é natural em português, e a nota já dá o literal “deu”."
  },
  {
   "ref": "Jhn.5.29",
   "gravidade": "baixa",
   "problema": "κρίσεως traduzido 'condenação' ('ressurreição da condenação'), enquanto em 5:24 e 3:19 krisis é 'julgamento'. A nota explica, mas o texto antecipa a interpretação.",
-  "sugestao": "Usar 'julgamento' no texto e deixar 'que condena' para a nota."
+  "sugestao": "Usar 'julgamento' no texto e deixar 'que condena' para a nota.",
+  "decisao": "rejeitado. Aqui krisis está em contraste direto com “ressurreição da vida” (eco de Dn 12:2: vida eterna contra vergonha eterna), e em 5:24 o mesmo krisis já é o julgamento que condena; no texto, “julgamento” soaria como desfecho neutro e suavizaria a afirmação. A nota dá o literal “ressurreição de julgamento”."
  },
  {
   "ref": "Jhn.5.44",
   "gravidade": "media",
   "problema": "Nota sn diz que 'alguns manuscritos antigos omitem theou', sem linha VARIANTE na folha; é dado de manuscritos não confirmado e deveria ser nota tc. Se theou falta, 'do único Deus' perde 'Deus' e o eco do Shemá enfraquece.",
-  "sugestao": "Transformar em nota tc, citar manuscritos só se houver certeza (ou 'manuscritos antigos'), e registrar que o sentido continua sendo Deus."
+  "sugestao": "Transformar em nota tc, citar manuscritos só se houver certeza (ou 'manuscritos antigos'), e registrar que o sentido continua sendo Deus.",
+  "decisao": "aceito. Agora há uma nota tc própria (“alguns manuscritos antigos” não trazem theou, sem nomear manuscritos; o sentido continua sendo Deus), separada da nota sn sobre o Shemá."
  }
 ]
