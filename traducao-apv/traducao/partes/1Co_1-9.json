@@ -936,5 +936,1515 @@
     "texto": "Nous é o entendimento, o modo de pensar. Paulo não diz que os crentes sabem tudo o que Cristo sabe, mas que, pelo Espírito, compartilham o modo de pensar de Cristo, centrado na cruz."
    }
   ]
+ },
+ "1Co.3.1": {
+  "t": "E eu, irmãos, não pude falar a vocês como a pessoas espirituais, mas como a pessoas carnais, como a criancinhas em Cristo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "pessoas carnais",
+    "termo": "σαρκίνοις (sarkinois)",
+    "titulo": "sarkinos e sarkikos",
+    "texto": "Sarkinos (aqui) é “feito de carne”, ainda humano e frágil; sarkikos (v. 3) é “carnal”, que se comporta segundo a carne. Paulo começa com o termo mais brando: quando chegou, eram recém-convertidos. No v. 3 a crítica endurece: ainda agora vivem de modo carnal. O português não tem duas palavras correspondentes; “carnais” serve aos dois casos, e a nota marca a diferença."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "pessoas carnais",
+    "termo": "σαρκίνοις / σαρκικοῖς",
+    "titulo": "sarkinois ou sarkikois",
+    "texto": "O Textus Receptus e o Texto Bizantino trazem sarkikois, a mesma palavra do v. 3, eliminando a nuance. O texto crítico, com sarkinois, tem melhor apoio antigo."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "criancinhas",
+    "termo": "νηπίοις (nēpiois)",
+    "titulo": "nēpios",
+    "texto": "Bebês, crianças pequenas. A imagem não condena o início da fé, mas a permanência nele: depois de anos, deveriam estar maduros (2:6; 14:20; Hb 5:12-14)."
+   }
+  ]
+ },
+ "1Co.3.2": {
+  "t": "Dei-lhes leite para beber, não comida sólida, pois vocês ainda não podiam suportá-la. Na verdade, nem agora ainda podem,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Dei-lhes leite para beber, não comida sólida",
+    "termo": "γάλα ὑμᾶς ἐπότισα, οὐ βρῶμα",
+    "titulo": "zeugma",
+    "texto": "Lit. “Leite vos dei a beber, não comida”. Um só verbo (“dar de beber”) serve a dois objetos, figura chamada zeugma. A tradução mantém a forma, que soa natural em português."
+   }
+  ]
+ },
+ "1Co.3.3": {
+  "t": "porque ainda são carnais. Pois, havendo entre vocês inveja e brigas, não é verdade que são carnais e que vivem de modo meramente humano?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "carnais",
+    "termo": "σαρκικοί (sarkikoi)",
+    "titulo": "sarkikos",
+    "texto": "Ver a nota em 3:1. Aqui o termo é moral: viver segundo os padrões da carne, isto é, da natureza humana sem o Espírito. As provas são a inveja e as brigas."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "inveja",
+    "termo": "ζῆλος (zēlos)",
+    "titulo": "zēlos",
+    "texto": "Pode ser zelo positivo (2Co 11:2) ou rivalidade e ciúme. Ao lado de eris (“brigas”), o sentido é negativo, como em Gl 5:20."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "inveja e brigas",
+    "termo": "ζῆλος καὶ ἔρις (+ καὶ διχοστασίαι)",
+    "titulo": "“e divisões”",
+    "texto": "O Textus Receptus e o Texto Bizantino acrescentam kai dichostasiai, “e divisões”, provavelmente sob influência de Gl 5:20. O texto crítico, com apoio antigo, não traz as palavras."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "vivem de modo meramente humano",
+    "termo": "κατὰ ἄνθρωπον περιπατεῖτε (kata anthrōpon peripateite)",
+    "titulo": "“andam segundo o homem”",
+    "texto": "Lit. “andam segundo o homem”. Peripateō (“andar”) é a metáfora hebraica para o modo de vida (Gl 5:16). Paulo esperava que vivessem segundo o Espírito, mas eles se comportavam como qualquer pessoa sem Cristo."
+   }
+  ]
+ },
+ "1Co.3.4": {
+  "t": "Quando um diz: “Eu sou de Paulo”, e outro: “Eu, de Apolo”, não estão sendo apenas humanos?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "não estão sendo apenas humanos?",
+    "termo": "οὐκ ἄνθρωποί ἐστε;",
+    "titulo": "“não são homens?”",
+    "texto": "Lit. “não são homens?”. O sentido é “não estão agindo como meros seres humanos, sem o Espírito?”."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "não estão sendo apenas humanos?",
+    "termo": "οὐκ ἄνθρωποί / οὐχὶ σαρκικοί",
+    "titulo": "“não são carnais?”",
+    "texto": "O Textus Receptus e o Texto Bizantino trazem “não são carnais?”, repetindo o v. 3. O texto crítico tem apoio mais antigo e é a leitura mais difícil, que um copista tenderia a mudar."
+   }
+  ]
+ },
+ "1Co.3.5": {
+  "t": "Afinal, o que é Apolo? E o que é Paulo? Servidores por meio dos quais vocês creram, cada um conforme o Senhor lhe concedeu.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Servidores",
+    "termo": "διάκονοι (diakonoi)",
+    "titulo": "diakonos",
+    "texto": "Diakonos é quem presta um serviço a outro: servidor, ajudante, às vezes garçom. Não é o termo para “escravo” (doulos), que a APV traduz “servo”; por isso “servidores”. Também não designa aqui o ofício de diácono."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "cada um conforme o Senhor lhe concedeu",
+    "termo": "ἑκάστῳ ὡς ὁ κύριος ἔδωκεν",
+    "titulo": "a quem se refere?",
+    "texto": "Pode referir-se aos servidores (cada um fez a tarefa que o Senhor lhe deu, como nos vv. 6-8) ou aos coríntios (cada um creu conforme o Senhor concedeu). O paralelo com os vv. 6-10 favorece a primeira leitura."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "o que é Apolo? E o que é Paulo?",
+    "termo": "Τί ... Ἀπολλῶς ... τί ... Παῦλος",
+    "titulo": "“quem” e a ordem dos nomes",
+    "texto": "O Textus Receptus e o Texto Bizantino trazem “Quem é Paulo, e quem é Apolo, senão servidores...”. O texto crítico, com “o que” (ti), fala da função e não das pessoas: os pregadores são instrumentos, não donos da igreja."
+   }
+  ]
+ },
+ "1Co.3.6": {
+  "t": "Eu plantei, Apolo regou, mas era Deus quem fazia crescer.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "era Deus quem fazia crescer",
+    "termo": "ὁ θεὸς ηὔξανεν (ho theos ēuxanen)",
+    "titulo": "aoristo e imperfeito",
+    "texto": "“Plantei” e “regou” estão no aoristo, ações vistas como concluídas; “fazia crescer” está no imperfeito, ação contínua. Os trabalhos de Paulo e de Apolo foram etapas; o crescimento era obra constante de Deus."
+   }
+  ]
+ },
+ "1Co.3.7": {
+  "t": "Assim, nem o que planta é alguma coisa, nem o que rega, mas Deus, que faz crescer.",
+  "n": []
+ },
+ "1Co.3.8": {
+  "t": "O que planta e o que rega são um só, e cada um receberá a sua própria recompensa, de acordo com o seu próprio trabalho.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "são um só",
+    "termo": "ἕν εἰσιν (hen eisin)",
+    "titulo": "neutro",
+    "texto": "Lit. “são uma coisa”, no neutro. Não diz que são a mesma pessoa, mas que têm um mesmo propósito e fazem parte de um só trabalho, sem competição."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "recompensa",
+    "termo": "μισθὸν (misthon)",
+    "titulo": "misthos",
+    "texto": "Lit. “salário”, o pagamento do trabalhador do campo, imagem que continua a de plantar e regar. A recompensa é proporcional ao kopos, o trabalho cansativo, não ao sucesso visível."
+   }
+  ]
+ },
+ "1Co.3.9": {
+  "t": "Pois nós somos colaboradores de Deus; vocês são lavoura de Deus, edifício de Deus.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "colaboradores de Deus",
+    "termo": "θεοῦ ... συνεργοί (theou ... synergoi)",
+    "titulo": "“cooperadores com Deus” ou “de Deus”",
+    "texto": "O genitivo permite: (1) “colaboradores com Deus”, trabalhando ao lado dele; (2) “colaboradores que pertencem a Deus”, trabalhando juntos a serviço dele. O contexto (vv. 5-8), que nivela Paulo e Apolo e põe Deus acima de ambos, favorece a segunda. A tradução “colaboradores de Deus” guarda a ambiguidade do grego."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "lavoura",
+    "termo": "γεώργιον (geōrgion)",
+    "titulo": "geōrgion, hápax",
+    "texto": "Única ocorrência no NT; na Septuaginta, campo cultivado (Pv 24:30; 31:16). Fecha a imagem agrícola (vv. 6-8) e abre a da construção (“edifício”). A tripla repetição de “de Deus”, no início das frases gregas, sublinha a quem tudo pertence."
+   }
+  ]
+ },
+ "1Co.3.10": {
+  "t": "Segundo a graça de Deus que me foi dada, como sábio construtor, lancei o alicerce, e outro edifica sobre ele. Mas cada um veja como edifica.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "sábio construtor",
+    "termo": "σοφὸς ἀρχιτέκτων (sophos architektōn)",
+    "titulo": "architektōn, hápax",
+    "texto": "Única ocorrência no NT. Não é o arquiteto moderno, que projeta sem pôr a mão na obra, mas o mestre de obras que dirige a construção. Em Is 3:3 (LXX) aparece entre os líderes de Jerusalém. Sophos aqui tem o sentido de “hábil” (Êx 35:10, 31-35, LXX), e retoma com ironia o tema da sabedoria."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "outro edifica sobre ele",
+    "termo": "ἄλλος δὲ ἐποικοδομεῖ",
+    "titulo": "quem é o outro?",
+    "texto": "Não é só Apolo; é qualquer mestre ou líder que trabalha em Corinto depois de Paulo. O aviso que segue (vv. 12-17) é dirigido aos que ensinam e conduzem a igreja."
+   }
+  ]
+ },
+ "1Co.3.11": {
+  "t": "Pois ninguém pode lançar outro alicerce além do que já está posto, que é Jesus Cristo.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "que é Jesus Cristo",
+    "termo": "ὅς ἐστιν Ἰησοῦς Χριστός",
+    "titulo": "o único alicerce",
+    "texto": "Cristo é o alicerce porque o evangelho de Cristo crucificado (2:2) é o fundamento da igreja. Ecoa Is 28:16, a pedra posta em Sião como fundamento (Rm 9:33; 1Pe 2:6). Em Ef 2:20, com outra imagem, os apóstolos e profetas são o alicerce e Cristo, a pedra angular."
+   }
+  ]
+ },
+ "1Co.3.12": {
+  "t": "Se alguém edifica sobre o alicerce com ouro, prata, pedras preciosas, madeira, feno ou palha,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "pedras preciosas",
+    "termo": "λίθους τιμίους (lithous timious)",
+    "titulo": "lithoi timioi",
+    "texto": "Lit. “pedras de valor”. Pode ser joias ou pedras de construção caras, como o mármore. As duas listas de três se opõem: materiais que resistem ao fogo e materiais que queimam."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "palha",
+    "termo": "καλάμην (kalamēn)",
+    "titulo": "kalamē, hápax",
+    "texto": "Única ocorrência no NT: o restolho, a haste que fica depois da colheita, usada em telhados e tijolos (Êx 5:12). Na Septuaginta, imagem do que o fogo consome num instante (Is 5:24; Ml 4:1)."
+   }
+  ]
+ },
+ "1Co.3.13": {
+  "t": "a obra de cada um ficará manifesta, pois o Dia a tornará conhecida, porque ele se revela com fogo; e o próprio fogo provará de que qualidade é a obra de cada um.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "o Dia",
+    "termo": "ἡ ... ἡμέρα (hē hēmera)",
+    "titulo": "o Dia do Senhor",
+    "texto": "Sem complemento, “o Dia” é o dia do juízo final (1:8; Rm 2:16; 1Ts 5:4). Maiúscula para indicar o termo técnico. O fogo, no AT, acompanha a vinda de Deus para julgar (Ml 3:2-3; 4:1)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "ele se revela com fogo",
+    "termo": "ἐν πυρὶ ἀποκαλύπτεται",
+    "titulo": "sujeito",
+    "texto": "O sujeito mais provável é “o Dia”, que virá acompanhado de fogo (2Ts 1:7-8). Alguns entendem que o sujeito é “a obra”, revelada pelo fogo; o sentido final é o mesmo."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "provará",
+    "termo": "δοκιμάσει (dokimasei)",
+    "titulo": "dokimazō",
+    "texto": "Testar, como o fogo testa os metais (1Pe 1:7). O fogo aqui prova; não purifica a pessoa, mas revela a qualidade da obra."
+   }
+  ]
+ },
+ "1Co.3.14": {
+  "t": "Se a obra que alguém edificou permanecer, ele receberá recompensa;",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "receberá recompensa",
+    "termo": "μισθὸν λήμψεται",
+    "titulo": "misthos",
+    "texto": "O mesmo termo do v. 8. O texto não descreve em que consiste essa recompensa."
+   }
+  ]
+ },
+ "1Co.3.15": {
+  "t": "se a obra de alguém for queimada, ele sofrerá perda; ele mesmo, porém, será salvo, mas como quem passa pelo fogo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "sofrerá perda",
+    "termo": "ζημιωθήσεται (zēmiōthēsetai)",
+    "titulo": "zēmioō",
+    "texto": "Sofrer prejuízo, perder algo. O contexto indica perda da recompensa (v. 14), não da salvação, como a frase seguinte deixa claro."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "como quem passa pelo fogo",
+    "termo": "ὡς διὰ πυρός (hōs dia pyros)",
+    "titulo": "salvo “como através do fogo”",
+    "texto": "Lit. “como através de fogo”: a imagem de quem escapa de uma casa em chamas com a roupa do corpo, como o “tição tirado do fogo” (Am 4:11; Zc 3:2). A tradição católica romana usou este versículo como um dos apoios para a doutrina do purgatório; intérpretes protestantes e boa parte dos exegetas modernos, também católicos, observam que o texto trata do juízo da obra dos que edificam a igreja, no Dia final, e não de purificação da pessoa após a morte. O fogo aqui prova a obra (v. 13), não purifica o pecador.",
+    "revisar": true
+   }
+  ]
+ },
+ "1Co.3.16": {
+  "t": "Vocês não sabem que são templo de Deus e que o Espírito de Deus habita em vocês?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "templo de Deus",
+    "termo": "ναὸς θεοῦ (naos theou)",
+    "titulo": "naos",
+    "texto": "Naos é o santuário propriamente dito, o lugar da habitação de Deus, distinto do recinto do templo (hieron). Paulo fala da igreja reunida (“vocês”, no plural; sem artigo, “templo de Deus” descreve o que são). Em 6:19 aplicará a imagem ao corpo de cada crente."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "o Espírito de Deus habita em vocês",
+    "termo": "τὸ πνεῦμα τοῦ θεοῦ οἰκεῖ ἐν ὑμῖν",
+    "titulo": "a presença de Deus",
+    "texto": "No AT, a glória de Deus enchia o tabernáculo e o templo (Êx 40:34; 1Rs 8:10-11). Agora a presença de Deus, pelo Espírito, habita a comunidade dos crentes. “Em vocês” pode ser também “entre vocês”."
+   }
+  ]
+ },
+ "1Co.3.17": {
+  "t": "Se alguém destruir o templo de Deus, Deus o destruirá; pois o templo de Deus é santo, e esse templo são vocês.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "destruir",
+    "termo": "φθείρει ... φθερεῖ (phtheirei ... phtherei)",
+    "titulo": "o mesmo verbo",
+    "texto": "Phtheirō é arruinar, corromper, destruir. Manteve-se o mesmo verbo nas duas frases para conservar a correspondência entre o pecado e o castigo. Quem destrói a igreja com divisões está atacando a habitação de Deus, e o juízo é severo."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "e esse templo são vocês",
+    "termo": "οἵτινές ἐστε ὑμεῖς (hoitines este hymeis)",
+    "titulo": "“o que vocês são”",
+    "texto": "Lit. “os quais são vocês”. O relativo pode referir-se a “templo” ou a “santo”: vocês são o templo, ou vocês são santos. O sentido é o mesmo."
+   }
+  ]
+ },
+ "1Co.3.18": {
+  "t": "Ninguém se engane. Se alguém entre vocês se considera sábio nesta era, torne-se louco, para que se torne sábio.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "torne-se louco",
+    "termo": "μωρὸς γενέσθω",
+    "titulo": "mōros",
+    "texto": "A mesma raiz de “loucura” em 1:18-25. Tornar-se “louco” é aceitar a mensagem da cruz, que o mundo considera tolice."
+   }
+  ]
+ },
+ "1Co.3.19": {
+  "t": "Pois a sabedoria deste mundo é loucura diante de Deus. Pois está escrito: “Ele apanha os sábios na astúcia deles”;",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Ele apanha os sábios na astúcia deles",
+    "termo": "ὁ δρασσόμενος τοὺς σοφοὺς ἐν τῇ πανουργίᾳ αὐτῶν",
+    "titulo": "Jó 5:13",
+    "texto": "Citação de Jó 5:13, palavras de Elifaz que Paulo trata como verdade da Escritura. Não segue a Septuaginta (que tem ho katalambanōn, “o que surpreende”), mas está mais perto do hebraico, talvez numa tradução grega diferente. A frase grega é um particípio sem verbo principal: “Aquele que apanha...”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "apanha",
+    "termo": "δρασσόμενος (drassomenos)",
+    "titulo": "drassomai, hápax",
+    "texto": "Única ocorrência no NT: “agarrar com a mão, prender”. A imagem é a do caçador que pega a presa na própria armadilha dela."
+   }
+  ]
+ },
+ "1Co.3.20": {
+  "t": "e também: “O Senhor conhece os pensamentos dos sábios, que são vazios”.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "O Senhor conhece os pensamentos dos sábios",
+    "termo": "κύριος γινώσκει τοὺς διαλογισμοὺς τῶν σοφῶν",
+    "titulo": "Sl 94:11",
+    "texto": "Citação de Sl 94:11 (LXX 93:11), onde “Senhor” traduz YHWH. Tanto o hebraico quanto a Septuaginta dizem “os pensamentos do homem”; Paulo escreve “dos sábios” para aplicar o salmo ao seu argumento."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "vazios",
+    "termo": "μάταιοι (mataioi)",
+    "titulo": "mataios",
+    "texto": "Vão, sem conteúdo nem resultado. Na Septuaginta é a palavra do Eclesiastes (“vaidade”, mataiotēs)."
+   }
+  ]
+ },
+ "1Co.3.21": {
+  "t": "Portanto, ninguém se glorie em homens, pois todas as coisas são de vocês:",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "pois todas as coisas são de vocês",
+    "termo": "πάντα γὰρ ὑμῶν ἐστιν",
+    "titulo": "a inversão",
+    "texto": "Os coríntios diziam “eu sou de Paulo”; Paulo inverte: Paulo é de vocês. Os líderes pertencem à igreja como servidores, e não a igreja aos líderes. Ecoa uma máxima estoica (“tudo pertence ao sábio”), agora fundada em Cristo."
+   }
+  ]
+ },
+ "1Co.3.22": {
+  "t": "seja Paulo, seja Apolo, seja Cefas, seja o mundo, seja a vida, seja a morte, sejam as coisas presentes, sejam as futuras; tudo é de vocês,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "sejam as coisas presentes, sejam as futuras",
+    "termo": "ἐνεστῶτα ... μέλλοντα (enestōta ... mellonta)",
+    "titulo": "presente e futuro",
+    "texto": "Como em Rm 8:38, a lista abrange toda a realidade. Nada está fora do domínio de Cristo, e por isso nada pode separar os seus dele."
+   }
+  ]
+ },
+ "1Co.3.23": {
+  "t": "e vocês são de Cristo, e Cristo é de Deus.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "e Cristo é de Deus",
+    "termo": "Χριστὸς δὲ θεοῦ",
+    "titulo": "Cristo e o Pai",
+    "texto": "Como em 11:3 e 15:28, Paulo fala da relação do Filho com o Pai na obra da salvação: Cristo realiza a vontade do Pai e lhe pertence. A teologia ortodoxa entende isso como ordem nas relações e na missão, não como inferioridade de natureza, já que a mesma carta põe Cristo ao lado de Deus (1:2-3; 8:6). A cadeia toda termina em Deus, de quem tudo vem (1:30)."
+   }
+  ]
+ },
+ "1Co.4.1": {
+  "t": "Assim, que todos nos considerem auxiliares de Cristo e administradores dos mistérios de Deus.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "que todos nos considerem",
+    "termo": "ἡμᾶς λογιζέσθω ἄνθρωπος",
+    "titulo": "“que o homem nos considere”",
+    "texto": "Lit. “que o homem nos considere”, isto é, qualquer pessoa. “Nos” são Paulo, Apolo e os demais pregadores de que vem falando."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "auxiliares",
+    "termo": "ὑπηρέτας (hypēretas)",
+    "titulo": "hypēretēs",
+    "texto": "Ajudante, subordinado que executa ordens de outro (os guardas do templo em Jo 18:3; o auxiliar da sinagoga em Lc 4:20). A etimologia popular “remador do porão da galera” não tem apoio no uso da época. “Auxiliares” distingue de diakonos (3:5) e doulos."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "administradores",
+    "termo": "οἰκονόμους (oikonomous)",
+    "titulo": "oikonomos",
+    "texto": "O administrador de uma casa ou propriedade, muitas vezes um escravo de confiança que cuidava dos bens do senhor (Lc 12:42; 16:1). Ele não é dono do que administra e presta contas. Os “mistérios de Deus” são o plano de Deus revelado em Cristo (2:7)."
+   }
+  ]
+ },
+ "1Co.4.2": {
+  "t": "Ora, o que se exige dos administradores é que cada um seja achado fiel.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "seja achado fiel",
+    "termo": "πιστός τις εὑρεθῇ",
+    "titulo": "pistos",
+    "texto": "Fiel, digno de confiança. Do administrador não se exige brilho nem eloquência, mas fidelidade ao senhor, que é quem o avalia (v. 4)."
+   }
+  ]
+ },
+ "1Co.4.3": {
+  "t": "Quanto a mim, pouco me importa ser julgado por vocês ou por qualquer tribunal humano; na verdade, nem eu mesmo me julgo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "ser julgado",
+    "termo": "ἀνακριθῶ (anakrithō)",
+    "titulo": "anakrinō",
+    "texto": "O mesmo verbo de 2:14-15 (“discernir”, “julgar”): examinar, como num interrogatório. Os coríntios se punham a avaliar os pregadores; Paulo recusa esse tribunal."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "qualquer tribunal humano",
+    "termo": "ἀνθρωπίνης ἡμέρας (anthrōpinēs hēmeras)",
+    "titulo": "“dia humano”",
+    "texto": "Lit. “dia humano”. “Dia” era usado para o dia marcado de um julgamento; Paulo o contrasta com “o Dia” do Senhor (3:13). Traduzido pelo sentido."
+   }
+  ]
+ },
+ "1Co.4.4": {
+  "t": "Pois minha consciência de nada me acusa, mas nem por isso estou justificado; quem me julga é o Senhor.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "minha consciência de nada me acusa",
+    "termo": "οὐδὲν γὰρ ἐμαυτῷ σύνοιδα",
+    "titulo": "synoida",
+    "texto": "Lit. “pois de nada tenho consciência comigo mesmo”, isto é, não sei de nada contra mim. Synoida, da mesma raiz da palavra “consciência” (syneidēsis), aparece só aqui e em At 5:2 com este sentido."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "estou justificado",
+    "termo": "δεδικαίωμαι (dedikaiōmai)",
+    "titulo": "dikaioō",
+    "texto": "Aqui no sentido jurídico de “ser absolvido, declarado inocente” diante do tribunal. Paulo não discute aqui a justificação pela fé (Rm 3-5), mas diz que uma consciência tranquila não basta como veredicto: só o Senhor dá a sentença final."
+   }
+  ]
+ },
+ "1Co.4.5": {
+  "t": "Portanto, não julguem nada antes do tempo, até que venha o Senhor. Ele trará à luz o que está oculto nas trevas e manifestará as intenções dos corações; e então cada um receberá de Deus o seu louvor.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "antes do tempo",
+    "termo": "πρὸ καιροῦ (pro kairou)",
+    "titulo": "kairos",
+    "texto": "Antes do tempo marcado, isto é, antes da vinda do Senhor. Paulo não proíbe toda avaliação (ver cap. 5), mas o veredicto final sobre servidores e motivos."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "as intenções dos corações",
+    "termo": "τὰς βουλὰς τῶν καρδιῶν",
+    "titulo": "boulē",
+    "texto": "Boulē é o propósito, a intenção. O coração, na Bíblia, é a sede do pensamento e da vontade. Só Deus vê os motivos ocultos (1Sm 16:7)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "o seu louvor",
+    "termo": "ὁ ἔπαινος (ho epainos)",
+    "titulo": "epainos",
+    "texto": "Aprovação, elogio. Com artigo: o louvor que cabe a cada um. O tom é positivo: Paulo espera que cada servidor fiel receba de Deus o reconhecimento que os homens negaram ou deram mal."
+   }
+  ]
+ },
+ "1Co.4.6": {
+  "t": "Irmãos, apliquei estas coisas a mim mesmo e a Apolo por causa de vocês, para que aprendam conosco o “não além do que está escrito”, a fim de que ninguém se encha de orgulho a favor de um contra o outro.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "apliquei estas coisas a mim mesmo e a Apolo",
+    "termo": "μετεσχημάτισα εἰς ἐμαυτὸν καὶ Ἀπολλῶν",
+    "titulo": "metaschēmatizō",
+    "texto": "Metaschēmatizō é “mudar a forma”. Aqui indica que Paulo usou a si mesmo e a Apolo como exemplos, de modo figurado, para tratar de um problema mais amplo: o culto a líderes. O alvo real são os coríntios e seus mestres."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "o “não além do que está escrito”",
+    "termo": "τὸ μὴ ὑπὲρ ἃ γέγραπται",
+    "titulo": "frase obscura",
+    "texto": "Uma das frases mais difíceis da carta. O artigo to indica que Paulo cita um lema conhecido. As principais leituras: (1) não ir além das Escrituras, especialmente das citadas em 1:19-3:20 contra o orgulho; (2) não ir além do que Paulo escreveu nesta carta; (3) um provérbio sobre seguir as regras, como a criança que copia as letras traçadas pelo mestre. A primeira é a mais seguida, porque “está escrito” em Paulo quase sempre introduz o AT. Alguns propuseram que a frase seja uma glosa de copista, mas não há manuscrito sem ela.",
+    "revisar": true
+   },
+   {
+    "tipo": "tc",
+    "ancora": "o “não além do que está escrito”",
+    "termo": "ἃ / ὃ γέγραπται (+ φρονεῖν)",
+    "titulo": "“pensar além”",
+    "texto": "O Textus Receptus e o Texto Bizantino trazem ho (singular) e acrescentam phronein: “não pensar além do que está escrito”. O infinitivo parece um acréscimo para completar a frase elíptica."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "se encha de orgulho",
+    "termo": "φυσιοῦσθε (physiousthe)",
+    "titulo": "physioō",
+    "texto": "Lit. “inchar-se”, como um fole cheio de ar. Fora de Cl 2:18, só aparece nesta carta (4:6, 18, 19; 5:2; 8:1; 13:4): o orgulho era o mal típico de Corinto. “A favor de um contra o outro”: exaltar um líder para rebaixar o outro."
+   }
+  ]
+ },
+ "1Co.4.7": {
+  "t": "Pois quem faz de você alguém superior? E o que você tem que não tenha recebido? E, se o recebeu, por que se gloria como se não o tivesse recebido?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "quem faz de você alguém superior?",
+    "termo": "τίς γάρ σε διακρίνει;",
+    "titulo": "diakrinō",
+    "texto": "Lit. “quem te distingue?”. Diakrinō é separar, distinguir. A pergunta espera “ninguém”: não há base para se considerar acima dos outros. Paulo passa ao singular (“você”) para atingir cada leitor."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "o que você tem que não tenha recebido?",
+    "termo": "τί δὲ ἔχεις ὃ οὐκ ἔλαβες;",
+    "titulo": "tudo é dom",
+    "texto": "Agostinho fez desta pergunta um dos fundamentos de sua doutrina da graça: tudo o que o crente tem, inclusive a fé, é dom de Deus. No contexto, o alvo são os dons e o conhecimento de que os coríntios se gabavam (1:4-7)."
+   }
+  ]
+ },
+ "1Co.4.8": {
+  "t": "Vocês já estão saciados! Já ficaram ricos! Sem nós, chegaram a reinar! Quem dera tivessem mesmo chegado a reinar, para que também nós reinássemos com vocês!",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Vocês já estão saciados!",
+    "termo": "ἤδη κεκορεσμένοι ἐστέ",
+    "titulo": "afirmação irônica",
+    "texto": "As três primeiras frases podem ser lidas como exclamações irônicas ou como perguntas. Em ambos os casos, Paulo zomba da pretensão dos coríntios. Korennymi (raro: aqui e At 27:38) é comer até se fartar."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "chegaram a reinar",
+    "termo": "ἐβασιλεύσατε (ebasileusate)",
+    "titulo": "escatologia antecipada",
+    "texto": "Os coríntios agiam como se o Reino já tivesse chegado em plenitude: já ricos, já reis, já espirituais acima do corpo. Muitos intérpretes chamam isso de “escatologia realizada em excesso” (A. C. Thiselton). Paulo responde que o reinado com Cristo vem depois (6:2-3; 15:24-28; 2Tm 2:12) e que, enquanto isso, o apóstolo vive a cruz (vv. 9-13)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "reinássemos com vocês",
+    "termo": "συμβασιλεύσωμεν (symbasileusōmen)",
+    "titulo": "symbasileuō, raro",
+    "texto": "Só aqui e em 2Tm 2:12. O desejo é sincero e irônico ao mesmo tempo: se o fim tivesse chegado, os apóstolos também estariam reinando, e não sofrendo."
+   }
+  ]
+ },
+ "1Co.4.9": {
+  "t": "Pois me parece que Deus nos pôs à mostra, a nós, os apóstolos, em último lugar, como condenados à morte, porque nos tornamos espetáculo para o mundo, tanto para anjos como para homens.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "nos pôs à mostra",
+    "termo": "ἀπέδειξεν (apedeixen)",
+    "titulo": "apodeiknymi",
+    "texto": "Exibir, apresentar em público. A imagem é a do desfile ou do espetáculo na arena, em que os condenados entravam por último."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "como condenados à morte",
+    "termo": "ὡς ἐπιθανατίους (hōs epithanatious)",
+    "titulo": "epithanatios, hápax",
+    "texto": "Única ocorrência no NT: “sentenciado à morte”. Era usado para os criminosos levados à arena para lutar com feras ou gladiadores, no fim do espetáculo."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "espetáculo",
+    "termo": "θέατρον (theatron)",
+    "titulo": "theatron, raro",
+    "texto": "Teatro, e daí espetáculo (só aqui e At 19:29, 31). O universo inteiro, “anjos e homens”, assiste ao sofrimento dos apóstolos."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "o mundo",
+    "termo": "τῷ κόσμῳ (tō kosmō)",
+    "titulo": "kosmos",
+    "texto": "Aqui “o mundo” é todo o universo criado, explicado em seguida: “tanto anjos como homens”."
+   }
+  ]
+ },
+ "1Co.4.10": {
+  "t": "Nós somos loucos por causa de Cristo, mas vocês são sensatos em Cristo; nós somos fracos, mas vocês são fortes; vocês são honrados, mas nós somos desprezados.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "sensatos em Cristo",
+    "termo": "φρόνιμοι ἐν Χριστῷ",
+    "titulo": "ironia",
+    "texto": "As três antíteses são irônicas: os coríntios se viam sábios, fortes e honrados; os apóstolos eram tidos por loucos, fracos e desprezados. Na última, a ordem se inverte (“vocês ... nós”), formando um quiasmo que termina com os apóstolos “desprezados”."
+   }
+  ]
+ },
+ "1Co.4.11": {
+  "t": "Até esta hora passamos fome e sede, andamos malvestidos, somos esbofeteados e não temos morada certa;",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "andamos malvestidos",
+    "termo": "γυμνιτεύομεν (gymniteuomen)",
+    "titulo": "gymniteuō, hápax",
+    "texto": "Única ocorrência no NT: estar nu ou mal coberto, com roupas insuficientes (2Co 11:27)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "somos esbofeteados",
+    "termo": "κολαφιζόμεθα (kolaphizometha)",
+    "titulo": "kolaphizō",
+    "texto": "Levar socos ou bofetadas, tratamento de escravos e presos (Mc 14:65)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "não temos morada certa",
+    "termo": "ἀστατοῦμεν (astatoumen)",
+    "titulo": "astateō, hápax",
+    "texto": "Única ocorrência no NT: “não ter lugar fixo”, viver como errante, sem casa."
+   }
+  ]
+ },
+ "1Co.4.12": {
+  "t": "e nos cansamos trabalhando com as próprias mãos. Quando somos insultados, abençoamos; quando perseguidos, suportamos;",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "trabalhando com as próprias mãos",
+    "termo": "ἐργαζόμενοι ταῖς ἰδίαις χερσίν",
+    "titulo": "o ofício de Paulo",
+    "texto": "Paulo sustentava-se fabricando tendas, em Corinto com Áquila e Priscila (At 18:3). Para as elites gregas, o trabalho manual era coisa de gente inferior; Paulo o assume de propósito (9:6-18)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Quando somos insultados, abençoamos",
+    "termo": "λοιδορούμενοι εὐλογοῦμεν",
+    "titulo": "o ensino de Jesus",
+    "texto": "Os apóstolos vivem o que Jesus ensinou: abençoar os que amaldiçoam e orar pelos que maltratam (Lc 6:28; Rm 12:14; 1Pe 2:23)."
+   }
+  ]
+ },
+ "1Co.4.13": {
+  "t": "quando caluniados, respondemos com bondade. Até agora nos tornamos como o lixo do mundo, a escória de todos.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "caluniados",
+    "termo": "δυσφημούμενοι (dysphēmoumenoi)",
+    "titulo": "dysphēmeō, hápax",
+    "texto": "Única ocorrência no NT: “falar mal de, difamar”. O Textus Receptus e o Texto Bizantino trazem blasphēmoumenoi, de sentido muito próximo."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "respondemos com bondade",
+    "termo": "παρακαλοῦμεν (parakaloumen)",
+    "titulo": "parakaleō",
+    "texto": "Verbo de muitos sentidos: exortar, consolar, rogar. Aqui é a resposta conciliadora a quem difama: falar com brandura, procurar reconciliar."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "o lixo do mundo, a escória de todos",
+    "termo": "περικαθάρματα τοῦ κόσμου ... πάντων περίψημα",
+    "titulo": "dois hápax",
+    "texto": "Perikatharma é o que se tira na limpeza, a sujeira; peripsēma, o que sai ao raspar ou esfregar, o resíduo. As duas palavras também eram usadas para pessoas desprezíveis e, em alguns textos gregos, para o criminoso ou pária sacrificado em favor da cidade numa calamidade (cf. Pv 21:18, LXX). Se Paulo pensa nesse sentido, é difícil saber; o sentido básico de “o mais vil, o refugo” é seguro.",
+    "revisar": true
+   }
+  ]
+ },
+ "1Co.4.14": {
+  "t": "Não escrevo estas coisas para envergonhá-los, mas para admoestá-los como meus filhos amados.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "para admoestá-los",
+    "termo": "νουθετῶν (nouthetōn)",
+    "titulo": "noutheteō",
+    "texto": "Lit. “pôr na mente”: advertir, corrigir com palavras, como faz um pai. O Textus Receptus e o Texto Bizantino trazem o indicativo nouthetō (“admoesto”), sem mudar o sentido."
+   }
+  ]
+ },
+ "1Co.4.15": {
+  "t": "Pois, ainda que vocês tenham dez mil tutores em Cristo, não têm muitos pais; pois em Cristo Jesus, por meio do evangelho, eu os gerei.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "dez mil tutores",
+    "termo": "μυρίους παιδαγωγοὺς (myrious paidagōgous)",
+    "titulo": "paidagōgos",
+    "texto": "O paidagōgos era o escravo que acompanhava o menino à escola e cuidava de sua disciplina (Gl 3:24-25); não era o pai nem propriamente o professor. Myrioi (raro) é “dez mil”, número que indica quantidade enorme. Os coríntios podiam ter muitos guias, mas só um pai na fé."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "eu os gerei",
+    "termo": "ἐγὼ ὑμᾶς ἐγέννησα",
+    "titulo": "gennaō",
+    "texto": "Gerar, ser pai de. Paulo não toma o lugar de Deus como Pai; foi o instrumento pelo qual a igreja nasceu, “por meio do evangelho”. A imagem de pai espiritual também é usada para mestres no judaísmo."
+   }
+  ]
+ },
+ "1Co.4.16": {
+  "t": "Por isso, peço a vocês: sejam meus imitadores.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "sejam meus imitadores",
+    "termo": "μιμηταί μου γίνεσθε",
+    "titulo": "imitação",
+    "texto": "Na educação antiga, o filho e o discípulo aprendiam imitando o pai e o mestre. Paulo pede que imitem o seu modo de vida descrito nos vv. 9-13, não a sua pessoa; em 11:1 completa: “como eu sou de Cristo”."
+   }
+  ]
+ },
+ "1Co.4.17": {
+  "t": "Por isso mesmo lhes enviei Timóteo, que é meu filho amado e fiel no Senhor. Ele lhes fará lembrar os meus caminhos em Cristo Jesus, conforme ensino em toda parte, em cada igreja.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "lhes enviei",
+    "termo": "ἔπεμψα (epempsa)",
+    "titulo": "já partiu ou vai partir?",
+    "texto": "O aoristo pode indicar que Timóteo já partira (por terra, pela Macedônia, At 19:22) e chegaria depois da carta (16:10), ou ser “aoristo epistolar”, do ponto de vista dos leitores: “estou enviando”. A primeira leitura combina melhor com 16:10."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "os meus caminhos em Cristo Jesus",
+    "termo": "τὰς ὁδούς μου τὰς ἐν Χριστῷ Ἰησοῦ",
+    "titulo": "hodoi",
+    "texto": "“Caminhos”, no sentido hebraico (derek), é a maneira de viver e o ensino que a orienta. Paulo não ensinava uma coisa em Corinto e outra nas demais igrejas."
+   }
+  ]
+ },
+ "1Co.4.18": {
+  "t": "Alguns se encheram de orgulho, como se eu não fosse mais até vocês.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "como se eu não fosse mais até vocês",
+    "termo": "ὡς μὴ ἐρχομένου δέ μου πρὸς ὑμᾶς",
+    "titulo": "“como não vindo eu”",
+    "texto": "Lit. “como se eu não estivesse indo até vocês”. Alguns em Corinto achavam que Paulo não voltaria e agiam com arrogância."
+   }
+  ]
+ },
+ "1Co.4.19": {
+  "t": "Mas irei até vocês em breve, se o Senhor quiser, e então conhecerei não as palavras desses orgulhosos, mas o poder que eles têm.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "o poder que eles têm",
+    "termo": "τὴν δύναμιν (tēn dynamin)",
+    "titulo": "logos e dynamis",
+    "texto": "Lit. “o poder”. O contraste palavra e poder retoma 2:4: Paulo vai verificar se, por trás da fala bonita, há a ação real de Deus."
+   }
+  ]
+ },
+ "1Co.4.20": {
+  "t": "Pois o Reino de Deus não consiste em palavras, mas em poder.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Reino de Deus",
+    "termo": "ἡ βασιλεία τοῦ θεοῦ (hē basileia tou theou)",
+    "titulo": "basileia",
+    "texto": "O reinado de Deus: o seu governo e a esfera em que ele é obedecido. Em Paulo, é ao mesmo tempo realidade presente (Rm 14:17) e herança futura (6:9-10; 15:50)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "não consiste em palavras, mas em poder",
+    "termo": "οὐ γὰρ ἐν λόγῳ ... ἀλλ᾽ ἐν δυνάμει",
+    "titulo": "frase sem verbo",
+    "texto": "Lit. “pois não em palavra o Reino de Deus, mas em poder”. Supriu-se “consiste”."
+   }
+  ]
+ },
+ "1Co.4.21": {
+  "t": "O que vocês preferem? Que eu vá até vocês com vara, ou com amor e espírito de mansidão?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "com vara",
+    "termo": "ἐν ῥάβδῳ (en rhabdō)",
+    "titulo": "rhabdos",
+    "texto": "A vara de correção do pai (Pv 13:24; 23:13-14), continuando a imagem paterna dos vv. 14-15. Lit. “em vara”, uso hebraico de en para o instrumento."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "espírito de mansidão",
+    "termo": "πνεύματί τε πραΰτητος",
+    "titulo": "espírito ou Espírito",
+    "texto": "Pode ser uma atitude humana (“com espírito manso”) ou o Espírito Santo, que produz mansidão (Gl 5:23; 6:1). Minúscula, porque o paralelo com “amor” e “vara” fala da maneira de Paulo chegar; a referência ao Espírito, porém, não está excluída."
+   }
+  ]
+ },
+ "1Co.5.1": {
+  "t": "Ouve-se por toda parte que há entre vocês imoralidade sexual, e uma imoralidade tal que nem entre os gentios existe: alguém está vivendo com a mulher de seu pai.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Ouve-se por toda parte",
+    "termo": "Ὅλως ἀκούεται (holōs akouetai)",
+    "titulo": "holōs",
+    "texto": "Holōs pode ser “de fato, realmente” ou “em toda parte, geralmente”. A segunda leitura combina com o escândalo público que Paulo descreve; a primeira também é possível."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "imoralidade sexual",
+    "termo": "πορνεία (porneia)",
+    "titulo": "porneia",
+    "texto": "Termo amplo para qualquer relação sexual ilícita: fornicação, adultério, incesto, prostituição. “Prostituição” seria estreito demais, e “fornicação” hoje soa técnico. Por isso “imoralidade sexual”."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "nem entre os gentios existe",
+    "termo": "οὐδὲ ἐν τοῖς ἔθνεσιν (+ ὀνομάζεται)",
+    "titulo": "“nem se nomeia”",
+    "texto": "O Textus Receptus e o Texto Bizantino acrescentam onomazetai: “tal que nem entre os gentios se menciona”. O texto crítico não tem o verbo; a frase fica elíptica, e “existe” foi suprido."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "está vivendo com a mulher de seu pai",
+    "termo": "γυναῖκά τινα τοῦ πατρὸς ἔχειν",
+    "titulo": "madrasta",
+    "texto": "“Ter” uma mulher, no infinitivo presente, indica relação contínua, casamento ou concubinato. “A mulher de seu pai” é expressão de Lv 18:8 e Dt 22:30 para a madrasta, não para a mãe. A Lei proibia essa união, e o direito romano também. Como Paulo não diz nada contra a mulher, ela provavelmente não era cristã."
+   }
+  ]
+ },
+ "1Co.5.2": {
+  "t": "E vocês estão cheios de orgulho! Não deveriam, antes, ter ficado de luto, para que fosse tirado do meio de vocês aquele que fez isso?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "E vocês estão cheios de orgulho!",
+    "termo": "καὶ ὑμεῖς πεφυσιωμένοι ἐστέ",
+    "titulo": "afirmação ou pergunta",
+    "texto": "Pode ser exclamação ou pergunta (“E vocês ainda estão cheios de orgulho?”). O orgulho não é necessariamente por causa do pecado; pode ser apesar dele, por se julgarem tão espirituais. Physioō, ver 4:6."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "ter ficado de luto",
+    "termo": "ἐπενθήσατε (epenthēsate)",
+    "titulo": "pentheō",
+    "texto": "Lamentar como por um morto. É o luto pelo pecado na comunidade, como em Ed 10:6. A tristeza deveria levar à exclusão do culpado."
+   }
+  ]
+ },
+ "1Co.5.3": {
+  "t": "Quanto a mim, ausente no corpo, mas presente no espírito, já julguei, como se estivesse presente, aquele que assim agiu:",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "presente no espírito",
+    "termo": "παρὼν δὲ τῷ πνεύματι",
+    "titulo": "espírito",
+    "texto": "Minúscula: é o espírito de Paulo, que se sente unido à igreja embora distante (Cl 2:5). Alguns pensam numa presença pelo Espírito Santo, mas o paralelo com “no corpo” indica o espírito humano."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "já julguei",
+    "termo": "ἤδη κέκρικα (ēdē kekrika)",
+    "titulo": "krinō",
+    "texto": "O perfeito indica decisão tomada e em vigor. O conteúdo do julgamento só vem no v. 5 (“entreguem esse homem a Satanás”); os vv. 3-5 são uma só frase longa no grego."
+   }
+  ]
+ },
+ "1Co.5.4": {
+  "t": "em nome de nosso Senhor Jesus, estando reunidos vocês e o meu espírito, com o poder de nosso Senhor Jesus,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "em nome de nosso Senhor Jesus",
+    "termo": "ἐν τῷ ὀνόματι τοῦ κυρίου ἡμῶν Ἰησοῦ",
+    "titulo": "a que se liga",
+    "texto": "A expressão pode ligar-se a “reunidos” (reunidos em nome do Senhor), a “já julguei” ou a “entreguem” (v. 5). O sentido geral é o mesmo: a decisão é tomada pela igreja reunida sob a autoridade de Jesus, não por Paulo sozinho."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "nosso Senhor Jesus",
+    "termo": "κυρίου ἡμῶν Ἰησοῦ (+ Χριστοῦ)",
+    "titulo": "“Jesus Cristo”",
+    "texto": "O THGNT, o Textus Receptus e o Texto Bizantino trazem “Jesus Cristo” na primeira ocorrência; o Textus Receptus e o Texto Bizantino também na segunda. Sem efeito no sentido."
+   }
+  ]
+ },
+ "1Co.5.5": {
+  "t": "entreguem esse homem a Satanás para a destruição da carne, a fim de que o espírito seja salvo no dia do Senhor.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "entreguem esse homem a Satanás",
+    "termo": "παραδοῦναι τὸν τοιοῦτον τῷ σατανᾷ",
+    "titulo": "exclusão da igreja",
+    "texto": "Lit. “entregar tal homem a Satanás”. O infinitivo depende de “já julguei” (v. 3); a tradução usa imperativo para clareza. A igreja é o espaço onde Cristo reina; fora dela está o domínio de Satanás (Cl 1:13). Entregar a Satanás é excluir da comunhão, como mostram os vv. 2, 7 e 13. Em 1Tm 1:20, a mesma expressão tem finalidade educativa: “para que aprendam”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "para a destruição da carne, a fim de que o espírito seja salvo",
+    "termo": "εἰς ὄλεθρον τῆς σαρκός, ἵνα τὸ πνεῦμα σωθῇ",
+    "titulo": "carne e espírito",
+    "texto": "Três leituras principais: (1) “carne” é o corpo, e a destruição é sofrimento físico ou até morte, que leva o pecador ao arrependimento antes do juízo (cf. 11:30-32); (2) “carne” é a natureza pecaminosa, que deve ser destruída para que a pessoa seja salva (Fee); (3) “o espírito” é o da igreja, que precisa ser preservado puro. Em todas, a finalidade última é salvadora, não apenas punitiva. A tradução mantém “carne” e “espírito”, como no grego, para não decidir.",
+    "revisar": true
+   },
+   {
+    "tipo": "tc",
+    "ancora": "no dia do Senhor",
+    "termo": "ἐν τῇ ἡμέρᾳ τοῦ κυρίου (+ Ἰησοῦ)",
+    "titulo": "“dia do Senhor Jesus”",
+    "texto": "O THGNT, Tregelles, o Textus Receptus e o Texto Bizantino trazem “dia do Senhor Jesus”. Sem efeito no sentido."
+   }
+  ]
+ },
+ "1Co.5.6": {
+  "t": "Não é boa essa vanglória de vocês. Não sabem que um pouco de fermento leveda toda a massa?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "vanglória",
+    "termo": "καύχημα (kauchēma)",
+    "titulo": "kauchēma",
+    "texto": "O motivo de orgulho, aquilo de que alguém se gaba. Da mesma raiz de “gloriar-se” (1:29, 31)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "um pouco de fermento leveda toda a massa",
+    "termo": "μικρὰ ζύμη ὅλον τὸ φύραμα ζυμοῖ",
+    "titulo": "provérbio",
+    "texto": "Provérbio também citado em Gl 5:9. O fermento era um pedaço de massa velha guardado para levedar a nova. Na Bíblia é imagem frequente da influência do mal que se espalha (Mt 16:6). Tolerado, um pecado contamina toda a comunidade."
+   }
+  ]
+ },
+ "1Co.5.7": {
+  "t": "Livrem-se do fermento velho, para que sejam massa nova, assim como de fato vocês são sem fermento. Pois Cristo, o nosso cordeiro pascal, foi sacrificado.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Livrem-se",
+    "termo": "ἐκκαθάρατε (ekkatharate)",
+    "titulo": "ekkathairō, raro",
+    "texto": "Só aqui e em 2Tm 2:21: “limpar completamente, expurgar”. Alude à limpeza da casa antes da Páscoa, quando todo fermento era retirado (Êx 12:15, 19; 13:7)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "assim como de fato vocês são sem fermento",
+    "termo": "καθώς ἐστε ἄζυμοι",
+    "titulo": "indicativo e imperativo",
+    "texto": "Paulo pede que se tornem o que já são em Cristo: massa nova, sem fermento. O imperativo (“livrem-se”) se apoia no indicativo (“vocês são”)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "o nosso cordeiro pascal",
+    "termo": "τὸ πάσχα ἡμῶν (to pascha hēmōn)",
+    "titulo": "“a nossa Páscoa”",
+    "texto": "Lit. “a nossa Páscoa”. Pascha designa a festa e também o cordeiro sacrificado nela (Mc 14:12; Lc 22:7). Como o verbo é “foi sacrificado”, o sentido aqui é o cordeiro; por isso a tradução explicita."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "foi sacrificado",
+    "termo": "ἐτύθη (+ ὑπὲρ ἡμῶν)",
+    "titulo": "“por nós”",
+    "texto": "O Textus Receptus e o Texto Bizantino acrescentam hyper hēmōn, “por nós”. O texto crítico, sem as palavras, tem apoio mais antigo."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Cristo, o nosso cordeiro pascal, foi sacrificado",
+    "termo": "τὸ πάσχα ἡμῶν ἐτύθη Χριστός",
+    "titulo": "Cristo e a Páscoa",
+    "texto": "O cordeiro pascal era sacrificado, e só depois começava a semana dos pães sem fermento (Êx 12:6-20). Paulo raciocina na mesma ordem: o sacrifício já foi feito, por isso a vida da igreja deve ser uma festa sem fermento. Também o Evangelho de João associa a morte de Jesus à hora do sacrifício dos cordeiros (Jo 19:14, 36)."
+   }
+  ]
+ },
+ "1Co.5.8": {
+  "t": "Por isso, celebremos a festa, não com o fermento velho, nem com o fermento da maldade e da perversidade, mas com os pães sem fermento da sinceridade e da verdade.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "celebremos a festa",
+    "termo": "ἑορτάζωμεν (heortazōmen)",
+    "titulo": "heortazō, hápax",
+    "texto": "Única ocorrência no NT: “celebrar uma festa”. Toda a vida cristã é apresentada como festa pascal contínua."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "sinceridade",
+    "termo": "εἰλικρινείας (eilikrineias)",
+    "titulo": "eilikrineia, raro",
+    "texto": "Só três vezes no NT, todas em Paulo (aqui; 2Co 1:12; 2:17). Pureza sem mistura, transparência de motivos."
+   }
+  ]
+ },
+ "1Co.5.9": {
+  "t": "Na minha carta, eu lhes escrevi que não se associassem com pessoas sexualmente imorais;",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Na minha carta, eu lhes escrevi",
+    "termo": "Ἔγραψα ὑμῖν ἐν τῇ ἐπιστολῇ",
+    "titulo": "uma carta anterior",
+    "texto": "Lit. “Escrevi-lhes na carta”. Não é esta carta, mas uma anterior, que se perdeu. Os coríntios entenderam mal o que Paulo escrevera nela, e ele agora explica."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "não se associassem",
+    "termo": "μὴ συναναμίγνυσθαι (mē synanamignysthai)",
+    "titulo": "synanamignymi, raro",
+    "texto": "Só aqui, no v. 11 e em 2Ts 3:14: “misturar-se com, ter convívio com”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "pessoas sexualmente imorais",
+    "termo": "πόρνοις (pornois)",
+    "titulo": "pornos",
+    "texto": "Quem pratica porneia (ver 5:1). Não se restringe a quem se prostitui."
+   }
+  ]
+ },
+ "1Co.5.10": {
+  "t": "não me referia, de modo geral, aos imorais deste mundo, ou aos gananciosos e extorsores, ou aos idólatras; pois, nesse caso, vocês teriam de sair do mundo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "gananciosos e extorsores",
+    "termo": "πλεονέκταις καὶ ἅρπαξιν (pleonektais kai harpaxin)",
+    "titulo": "pleonektēs e harpax",
+    "texto": "Pleonektēs é quem quer sempre mais, o ganancioso que explora o outro; harpax, quem toma o alheio pela força ou pela fraude, o extorsor (distinto do kleptēs, o ladrão que furta às escondidas, 6:10). Os dois termos, ligados por um só artigo, formam um par dos que pecam com dinheiro."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "vocês teriam de sair do mundo",
+    "termo": "ὠφείλετε ἄρα ἐκ τοῦ κόσμου ἐξελθεῖν",
+    "titulo": "impossibilidade",
+    "texto": "Paulo não pede isolamento da sociedade. Os cristãos convivem com pagãos no trabalho, na vizinhança e até no casamento (7:12-16; 10:27)."
+   }
+  ]
+ },
+ "1Co.5.11": {
+  "t": "Mas agora lhes escrevo que não se associem com alguém que, dizendo-se irmão, seja imoral, ou ganancioso, ou idólatra, ou caluniador, ou beberrão, ou extorsor; com alguém assim, nem sequer comam.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Mas agora lhes escrevo",
+    "termo": "νῦν δὲ ἔγραψα ὑμῖν",
+    "titulo": "“agora escrevi”",
+    "texto": "Lit. “mas agora escrevi”. Pode ser aoristo epistolar (“agora lhes escrevo”, nesta carta) ou “o que de fato escrevi era”. A primeira leitura é a mais comum."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "dizendo-se irmão",
+    "termo": "ἀδελφὸς ὀνομαζόμενος (adelphos onomazomenos)",
+    "titulo": "“chamado irmão”",
+    "texto": "Lit. “se alguém que é chamado irmão”: quem se apresenta como cristão e é tido como membro da igreja."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "caluniador, ou beberrão",
+    "termo": "λοίδορος ... μέθυσος (loidoros ... methysos)",
+    "titulo": "dois termos raros",
+    "texto": "Loidoros (raro: aqui e 6:10) é quem insulta e difama; methysos (raro: aqui e 6:10), o que se embriaga habitualmente. A lista reaparece ampliada em 6:9-10."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "nem sequer comam",
+    "termo": "μηδὲ συνεσθίειν (mēde synesthiein)",
+    "titulo": "comer junto",
+    "texto": "Comer junto era sinal de comunhão e aceitação. A proibição abrange as refeições comuns e provavelmente também a Ceia do Senhor, celebrada numa refeição (11:20-34). O objetivo é que o faltoso perceba a gravidade do pecado."
+   }
+  ]
+ },
+ "1Co.5.12": {
+  "t": "Pois que tenho eu a ver com julgar os de fora? Não são os de dentro que vocês julgam?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "os de fora",
+    "termo": "τοὺς ἔξω ... τοὺς ἔσω",
+    "titulo": "dentro e fora",
+    "texto": "Expressões para os que não pertencem à igreja e os que pertencem (Cl 4:5; 1Ts 4:12). A disciplina vale só para os membros."
+   }
+  ]
+ },
+ "1Co.5.13": {
+  "t": "Os de fora, Deus os julga. “Expulsem o perverso do meio de vocês.”",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "Deus os julga",
+    "termo": "κρίνει / κρινεῖ (krinei / krinei)",
+    "titulo": "presente ou futuro",
+    "texto": "As duas formas se distinguem só pela acentuação, que os manuscritos antigos não tinham. O SBLGNT acentua como presente (“julga”); NA28, THGNT, o Textus Receptus e o Texto Bizantino, como futuro (“julgará”). O Textus Receptus e o Texto Bizantino acrescentam ainda kai antes de “expulsem”, ligando as duas frases."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Expulsem o perverso do meio de vocês",
+    "termo": "ἐξάρατε τὸν πονηρὸν ἐξ ὑμῶν αὐτῶν",
+    "titulo": "fórmula do Deuteronômio",
+    "texto": "Fórmula repetida em Deuteronômio para a exclusão de quem cometia pecado grave (Dt 17:7; 19:19; 22:21, 24; 24:7). Paulo segue a Septuaginta, mudando o futuro para o imperativo plural. Exairō é hápax no NT: “remover, tirar”. A igreja aplica à sua vida a santidade exigida do povo de Deus."
+   }
+  ]
+ },
+ "1Co.6.1": {
+  "t": "Quando algum de vocês tem uma questão contra outro, como ousa ir a juízo diante dos injustos, e não diante dos santos?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "como ousa",
+    "termo": "Τολμᾷ τις ὑμῶν (tolma tis hymōn)",
+    "titulo": "“ousa alguém?”",
+    "texto": "Lit. “ousa algum de vocês...?”. A pergunta exprime indignação. Pragma é qualquer questão legal, sobretudo de dinheiro ou propriedade (vv. 7-8)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "dos injustos",
+    "termo": "τῶν ἀδίκων (tōn adikōn)",
+    "titulo": "adikoi",
+    "texto": "Os juízes pagãos dos tribunais civis de Corinto. Paulo não diz que eram corruptos (embora a corrupção fosse comum), mas que não pertencem ao povo de Deus; no v. 6 os chama de “descrentes”. Há jogo de palavras com os vv. 7-9: os coríntios recorrem aos “injustos” e eles mesmos cometem “injustiça”."
+   }
+  ]
+ },
+ "1Co.6.2": {
+  "t": "Ou vocês não sabem que os santos julgarão o mundo? E, se o mundo vai ser julgado por vocês, são indignos de julgar as causas mais insignificantes?",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "os santos julgarão o mundo",
+    "termo": "οἱ ἅγιοι τὸν κόσμον κρινοῦσιν",
+    "titulo": "Dn 7:22",
+    "texto": "Ecoa Dn 7:22, onde o juízo é dado aos santos do Altíssimo, e o ensino de Jesus de que os apóstolos se assentariam para julgar (Mt 19:28; Ap 20:4). A participação dos santos no juízo final é afirmada sem detalhes."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "são indignos de julgar as causas mais insignificantes?",
+    "termo": "ἀνάξιοί ἐστε κριτηρίων ἐλαχίστων;",
+    "titulo": "anaxios e kritērion",
+    "texto": "Anaxios (hápax no NT) é “indigno, incapaz”. Kritērion (raro: aqui, v. 4 e Tg 2:6) pode ser o tribunal ou a causa julgada; aqui, a causa. Lit. “indignos dos tribunais mínimos”."
+   }
+  ]
+ },
+ "1Co.6.3": {
+  "t": "Não sabem que julgaremos anjos? Quanto mais as questões desta vida!",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "julgaremos anjos",
+    "termo": "ἀγγέλους κρινοῦμεν",
+    "titulo": "que anjos?",
+    "texto": "Provavelmente os anjos caídos, que aguardam o juízo (2Pe 2:4; Jd 6). Paulo não explica; usa a afirmação, que supõe conhecida (“não sabem?”), para mostrar o absurdo de levar questões menores aos pagãos."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "as questões desta vida",
+    "termo": "βιωτικά (biōtika)",
+    "titulo": "biōtikos, raro",
+    "texto": "Só três vezes no NT (aqui, v. 4 e Lc 21:34): o que pertence à vida diária, assuntos de sustento e de bens."
+   }
+  ]
+ },
+ "1Co.6.4": {
+  "t": "Então, se vocês têm causas sobre questões desta vida, põem como juízes justamente aqueles que a igreja não tem em conta?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "põem como juízes justamente aqueles que a igreja não tem em conta?",
+    "termo": "τοὺς ἐξουθενημένους ἐν τῇ ἐκκλησίᾳ, τούτους καθίζετε",
+    "titulo": "pergunta ou ordem",
+    "texto": "Kathizete pode ser indicativo ou imperativo. Como pergunta indignada (adotada aqui), “os que a igreja não tem em conta” são os juízes pagãos, que não têm nenhuma autoridade na comunidade. Como ordem irônica (“ponham como juízes os menos estimados da igreja!”), Paulo diria que até o menor dos irmãos é mais apto que um tribunal pagão. A primeira leitura combina melhor com o v. 5."
+   }
+  ]
+ },
+ "1Co.6.5": {
+  "t": "Digo isso para vergonha de vocês. Será que não há entre vocês nem um sábio sequer que seja capaz de julgar entre irmãos?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "nem um sábio sequer",
+    "termo": "οὐδεὶς σοφός (oudeis sophos)",
+    "titulo": "ironia",
+    "texto": "Ironia: a igreja que se orgulhava de sua sabedoria (1:18-3:23) não tem ninguém sábio o bastante para resolver uma disputa entre irmãos. Entropē (raro: aqui e 15:34) é “vergonha”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "julgar entre irmãos",
+    "termo": "διακρῖναι ἀνὰ μέσον τοῦ ἀδελφοῦ αὐτοῦ",
+    "titulo": "“entre o seu irmão”",
+    "texto": "Lit. “julgar no meio do seu irmão”, expressão abreviada para “decidir entre um irmão e outro”. Diakrinō é arbitrar, decidir."
+   }
+  ]
+ },
+ "1Co.6.6": {
+  "t": "Em vez disso, irmão vai a juízo contra irmão, e isso diante de descrentes!",
+  "n": []
+ },
+ "1Co.6.7": {
+  "t": "Na verdade, o simples fato de vocês terem processos uns contra os outros já é para vocês uma derrota completa. Por que não preferem sofrer a injustiça? Por que não preferem ser lesados?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "uma derrota completa",
+    "termo": "ὅλως ἥττημα (holōs hēttēma)",
+    "titulo": "hēttēma, raro",
+    "texto": "Só aqui e em Rm 11:12: derrota, falha. Antes de qualquer sentença, os dois lados já perderam."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Por que não preferem sofrer a injustiça?",
+    "termo": "διὰ τί οὐχὶ μᾶλλον ἀδικεῖσθε;",
+    "titulo": "o ensino de Jesus",
+    "texto": "Ecoa o ensino de Jesus sobre não resistir ao mal e deixar também a capa a quem quer levar a túnica (Mt 5:39-40). Também alguns filósofos gregos diziam que é melhor sofrer injustiça do que cometê-la (Platão, Górgias)."
+   }
+  ]
+ },
+ "1Co.6.8": {
+  "t": "Mas vocês mesmos cometem injustiça e lesam os outros, e isso a irmãos!",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "lesam os outros",
+    "termo": "ἀποστερεῖτε (apostereite)",
+    "titulo": "apostereō",
+    "texto": "Defraudar, privar alguém do que lhe pertence (Mc 10:19). “Os outros” foi suprido; o grego deixa o objeto para o fim: “e isso a irmãos”."
+   }
+  ]
+ },
+ "1Co.6.9": {
+  "t": "Ou vocês não sabem que os injustos não herdarão o Reino de Deus? Não se enganem: nem os sexualmente imorais, nem os idólatras, nem os adúlteros, nem os homens que se prestam ao papel passivo com outros homens, nem os homens que se deitam com homens,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "os injustos",
+    "termo": "ἄδικοι (adikoi)",
+    "titulo": "adikoi",
+    "texto": "A mesma palavra do v. 1, agora em sentido moral: os que praticam a injustiça, como a lista seguinte exemplifica. Os coríntios que lesam os irmãos (v. 8) estão agindo como os que não herdarão o Reino."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "herdarão o Reino de Deus",
+    "termo": "θεοῦ βασιλείαν ... κληρονομήσουσιν",
+    "titulo": "herdar",
+    "texto": "Herdar é receber como dom a parte prometida, como Israel recebeu a terra. O Reino é aqui a herança futura e final (15:50; Gl 5:21)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "adúlteros",
+    "termo": "μοιχοὶ (moichoi)",
+    "titulo": "moichos, raro",
+    "texto": "Só três vezes no NT (aqui; Lc 18:11; Hb 13:4): o homem que tem relação com a mulher de outro, ou o cônjuge infiel. Distinto de pornoi, que é termo geral."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "os homens que se prestam ao papel passivo com outros homens",
+    "termo": "μαλακοὶ (malakoi)",
+    "titulo": "malakos",
+    "texto": "Malakos significa literalmente “mole, macio” e é usado para roupas finas (Mt 11:8; Lc 7:25). Aplicado a homens, no grego da época, designava quem era considerado efeminado e, em contextos sexuais, especificamente o homem que assumia o papel passivo na relação com outro homem, inclusive os rapazes e homens que se prostituíam. Aqui o termo está numa lista de pecados sexuais, entre “adúlteros” e arsenokoitai, e forma par com este; por isso o sentido sexual é o mais provável, e BDAG registra este uso (“passivo numa relação com pessoa do mesmo sexo”). “Efeminados” (ARC), entendido hoje como jeito ou aparência, não traduz o sentido, porque Paulo condena uma prática, e não um modo de ser. Alguns estudiosos defendem um sentido mais amplo de “moleza moral, falta de domínio próprio”; a posição do termo na lista torna essa leitura menos provável.",
+    "revisar": true
+   },
+   {
+    "tipo": "tn",
+    "ancora": "os homens que se deitam com homens",
+    "termo": "ἀρσενοκοῖται (arsenokoitai)",
+    "titulo": "arsenokoitēs, raro",
+    "texto": "Palavra composta de arsēn (“macho, homem”) e koitē (“leito”, eufemismo para relação sexual). Só aparece aqui e em 1Tm 1:10, e não há uso conhecido seguro anterior a Paulo. As duas partes da palavra estão lado a lado em Lv 18:22 e 20:13 na Septuaginta (meta arsenos ... koitēn gynaikos, “com homem ... como se deita com mulher”), e por isso a maioria dos estudiosos pensa que o termo foi cunhado a partir dessas leis, designando o homem que tem relações sexuais com outro homem; é o sentido que BDAG registra. Também em 1Tm 1:10 a lista segue a ordem dos mandamentos. A tradução reproduz literalmente os dois elementos da palavra. Alguns autores (por exemplo, R. Scroggs, The New Testament and Homosexuality, 1983) propuseram limitar o sentido à pederastia ou à exploração sexual comercial; o vocabulário de Levítico, que não faz essa restrição, e o uso posterior da palavra não favorecem esse limite. O texto trata de práticas, e não de inclinações. O v. 11 põe esse pecado ao lado dos outros da lista, todos igualmente perdoáveis em Cristo: “alguns de vocês eram assim”.",
+    "revisar": true
+   }
+  ]
+ },
+ "1Co.6.10": {
+  "t": "nem os ladrões, nem os gananciosos, nem os beberrões, nem os caluniadores, nem os extorsores herdarão o Reino de Deus.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "nem os gananciosos, nem os beberrões",
+    "termo": "οὔτε πλεονέκται οὐ μέθυσοι",
+    "titulo": "partículas negativas",
+    "texto": "Os manuscritos alternam oute e ou ao longo da lista, e o Texto Bizantino tem outra ordem nos termos. Nenhuma das variações muda a tradução."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "nem os extorsores",
+    "termo": "οὐχ ἅρπαγες (ouch harpages)",
+    "titulo": "harpax",
+    "texto": "Quem toma o alheio com violência ou fraude (ver 5:10). Distinto de kleptēs (“ladrão”), que furta às escondidas. Os caluniadores (loidoroi) e os beberrões (methysoi) já apareceram em 5:11."
+   }
+  ]
+ },
+ "1Co.6.11": {
+  "t": "Alguns de vocês eram assim. Mas vocês foram lavados, foram santificados, foram justificados no nome do Senhor Jesus e no Espírito de nosso Deus.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Alguns de vocês eram assim",
+    "termo": "καὶ ταῦτά τινες ἦτε",
+    "titulo": "“e isto alguns éreis”",
+    "texto": "Lit. “e essas coisas alguns de vocês eram”. O neutro “essas coisas” e o imperfeito “eram” marcam a ruptura: o que eles praticavam ficou no passado."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "foram lavados",
+    "termo": "ἀπελούσασθε (apelousasthe)",
+    "titulo": "apolouō, raro",
+    "texto": "Só aqui e em At 22:16 (“seja batizado e lave os seus pecados”). Voz média: “vocês se deixaram lavar”. Alude ao batismo como sinal da purificação dos pecados. Os três verbos (lavados, santificados, justificados) não formam uma sequência cronológica; são três aspectos da mesma obra de Deus na conversão."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "no nome do Senhor Jesus e no Espírito de nosso Deus",
+    "termo": "ἐν τῷ ὀνόματι τοῦ κυρίου Ἰησοῦ καὶ ἐν τῷ πνεύματι τοῦ θεοῦ ἡμῶν",
+    "titulo": "Senhor, Espírito, Deus",
+    "texto": "Num só fôlego Paulo menciona o Senhor Jesus, o Espírito e Deus, como fonte da mesma obra salvadora, uma das fórmulas que levaram a igreja a formular a doutrina da Trindade (cf. 12:4-6; 2Co 13:13)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Senhor Jesus",
+    "termo": "τοῦ κυρίου (+ ἡμῶν) Ἰησοῦ (+ Χριστοῦ)",
+    "titulo": "formas mais longas",
+    "texto": "NA28, Westcott-Hort, Tregelles e THGNT acrescentam “Cristo”; THGNT e Westcott-Hort trazem também “nosso”: “nosso Senhor Jesus Cristo”. O SBLGNT tem a forma mais curta. Sem efeito no sentido."
+   }
+  ]
+ },
+ "1Co.6.12": {
+  "t": "“Tudo me é permitido”, mas nem tudo convém. “Tudo me é permitido”, mas eu não me deixarei dominar por coisa alguma.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "“Tudo me é permitido”",
+    "termo": "Πάντα μοι ἔξεστιν (panta moi exestin)",
+    "titulo": "um lema coríntio",
+    "texto": "A maioria dos intérpretes vê aqui um lema usado pelos coríntios, talvez tirado do ensino de Paulo sobre a liberdade em Cristo e levado ao extremo. Por isso as aspas. Paulo o cita e o corrige duas vezes. Os manuscritos não tinham aspas, e a identificação dos lemas é decisão de intérprete; esta é amplamente aceita (cf. 10:23)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "não me deixarei dominar",
+    "termo": "οὐκ ἐγὼ ἐξουσιασθήσομαι (ouk egō exousiasthēsomai)",
+    "titulo": "jogo de palavras",
+    "texto": "Exestin (“é permitido”) e exousiazō (“ter poder sobre”) são da mesma raiz. O sentido: “tudo está em meu poder, mas eu não ficarei sob o poder de nada”. A liberdade que leva à escravidão deixa de ser liberdade."
+   }
+  ]
+ },
+ "1Co.6.13": {
+  "t": "“Os alimentos são para o estômago, e o estômago, para os alimentos”, e Deus porá fim tanto a um como aos outros. Mas o corpo não é para a imoralidade sexual, e sim para o Senhor, e o Senhor, para o corpo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "“Os alimentos são para o estômago, e o estômago, para os alimentos”",
+    "termo": "τὰ βρώματα τῇ κοιλίᾳ καὶ ἡ κοιλία τοῖς βρώμασιν",
+    "titulo": "outro lema",
+    "texto": "Provavelmente outro lema dos coríntios: assim como o estômago existe para a comida, o corpo existe para satisfazer seus apetites, incluindo o sexual. Alguns estendem a citação até “Deus porá fim tanto a um como aos outros” (o corpo é passageiro, logo não importa); outros entendem essa frase como resposta de Paulo. Em ambos os casos, Paulo responde que o corpo é “para o Senhor” e será ressuscitado (v. 14)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "porá fim",
+    "termo": "καταργήσει (katargēsei)",
+    "titulo": "katargeō",
+    "texto": "O verbo de 1:28 e 2:6: tornar inoperante, abolir. Paulo não nega que o estômago e a comida pertencem a esta era; nega que o corpo como um todo seja descartável."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "e o Senhor, para o corpo",
+    "termo": "καὶ ὁ κύριος τῷ σώματι",
+    "titulo": "o corpo importa",
+    "texto": "Afirmação forte: o Senhor se dedica ao corpo dos seus, e o corpo é destinado à ressurreição. Contra uma visão que desprezava o corpo como sem importância espiritual, Paulo afirma o valor do corpo no plano de Deus (cap. 15)."
+   }
+  ]
+ },
+ "1Co.6.14": {
+  "t": "E Deus, que ressuscitou o Senhor, também nos ressuscitará pelo seu poder.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "nos ressuscitará",
+    "termo": "ἡμᾶς ἐξεγερεῖ (hēmas exegerei)",
+    "titulo": "exegeirō, raro",
+    "texto": "Só aqui e em Rm 9:17. O prefixo ex- reforça: “ressuscitará do meio dos mortos”. A ressurreição de Cristo é a garantia da ressurreição do corpo dos crentes (15:20)."
+   }
+  ]
+ },
+ "1Co.6.15": {
+  "t": "Vocês não sabem que os seus corpos são membros de Cristo? Tomarei, então, os membros de Cristo e farei deles membros de uma prostituta? De modo nenhum!",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "De modo nenhum!",
+    "termo": "μὴ γένοιτο (mē genoito)",
+    "titulo": "“que não aconteça”",
+    "texto": "Lit. “que não aconteça!”, a fórmula mais forte de rejeição em Paulo (Rm 6:2, 15)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Tomarei",
+    "termo": "ἄρας (aras)",
+    "titulo": "airō",
+    "texto": "Lit. “tendo tomado”, isto é, “tirar de onde está”. Paulo fala na primeira pessoa para tornar a hipótese mais chocante: tirar de Cristo o que é dele."
+   }
+  ]
+ },
+ "1Co.6.16": {
+  "t": "Ou não sabem que aquele que se une a uma prostituta é um só corpo com ela? Pois, como se diz, “os dois serão uma só carne”.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "se une",
+    "termo": "ὁ κολλώμενος (ho kollōmenos)",
+    "titulo": "kollaō",
+    "texto": "Colar-se, ligar-se estreitamente. É o verbo de Gn 2:24 na Septuaginta (proskollaō: “unir-se à sua mulher”). Paulo ensina que a união sexual não é um ato apenas físico e sem consequência: une as pessoas."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "os dois serão uma só carne",
+    "termo": "ἔσονται ... οἱ δύο εἰς σάρκα μίαν",
+    "titulo": "Gn 2:24",
+    "texto": "Citação de Gn 2:24 segundo a Septuaginta, que acrescenta “os dois” ao hebraico. “Como se diz” (phēsin) introduz a Escritura; o sujeito implícito pode ser a Escritura ou o próprio Deus (Mt 19:4-5)."
+   }
+  ]
+ },
+ "1Co.6.17": {
+  "t": "Mas aquele que se une ao Senhor é um só espírito com ele.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "um só espírito com ele",
+    "termo": "ἓν πνεῦμά ἐστιν",
+    "titulo": "espírito",
+    "texto": "Minúscula, porque o paralelo é com “um só corpo” (v. 16): a união com o Senhor é união de espírito, mais profunda que a união física. Mas essa união acontece pelo Espírito Santo (12:13), e por isso alguns preferem maiúscula."
+   }
+  ]
+ },
+ "1Co.6.18": {
+  "t": "Fujam da imoralidade sexual. Todo pecado que uma pessoa comete é fora do corpo; mas quem pratica imoralidade sexual peca contra o próprio corpo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Fujam",
+    "termo": "Φεύγετε (pheugete)",
+    "titulo": "imperativo presente",
+    "texto": "O presente indica atitude constante: “fujam sempre”. Lembra José, que fugiu da mulher de Potifar (Gn 39:12)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Todo pecado que uma pessoa comete é fora do corpo",
+    "termo": "πᾶν ἁμάρτημα ὃ ἐὰν ποιήσῃ ἄνθρωπος, ἐκτὸς τοῦ σώματός ἐστιν",
+    "titulo": "frase difícil",
+    "texto": "Tradução literal de uma frase muito discutida. Leituras: (1) é outro lema coríntio (“nenhum pecado atinge o corpo”), que Paulo refuta em seguida; (2) é afirmação de Paulo, com sentido relativo: a imoralidade sexual atinge o próprio corpo de um modo que outros pecados não atingem, porque une o corpo a outra pessoa (v. 16). Muitas versões acrescentam “outro” (“todo outro pecado”) para seguir a segunda leitura; a APV não acrescenta e deixa as duas possíveis.",
+    "revisar": true
+   }
+  ]
+ },
+ "1Co.6.19": {
+  "t": "Ou vocês não sabem que o corpo de vocês é templo do Espírito Santo, que está em vocês e que vocês receberam de Deus, e que vocês não pertencem a si mesmos?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "o corpo de vocês",
+    "termo": "τὸ σῶμα ὑμῶν (to sōma hymōn)",
+    "titulo": "singular",
+    "texto": "“Corpo” no singular com “de vocês” no plural: o corpo de cada um. Em 3:16 a igreja é o templo; aqui, o corpo de cada crente. As duas verdades andam juntas."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "templo do Espírito Santo",
+    "termo": "ναὸς τοῦ ... ἁγίου πνεύματος",
+    "titulo": "naos",
+    "texto": "O santuário onde Deus habita (ver 3:16). Unir o corpo à prostituição, frequentemente ligada aos templos pagãos, é profanar um santuário."
+   }
+  ]
+ },
+ "1Co.6.20": {
+  "t": "Pois vocês foram comprados por um preço. Portanto, glorifiquem a Deus no corpo de vocês.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "comprados por um preço",
+    "termo": "ἠγοράσθητε ... τιμῆς (ēgorasthēte ... timēs)",
+    "titulo": "agorazō",
+    "texto": "Linguagem do mercado de escravos: quem é comprado passa a pertencer ao comprador (7:23). O preço é a morte de Cristo, que Paulo não precisa nomear. Daí “vocês não pertencem a si mesmos”."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "glorifiquem a Deus no corpo de vocês",
+    "termo": "ἐν τῷ σώματι ὑμῶν (+ καὶ ἐν τῷ πνεύματι ὑμῶν ἅτινά ἐστιν τοῦ θεοῦ)",
+    "titulo": "acréscimo",
+    "texto": "O Textus Receptus e o Texto Bizantino acrescentam: “e no espírito de vocês, que pertencem a Deus”. As palavras faltam nos manuscritos mais antigos e parecem um acréscimo que suaviza a ênfase de Paulo no corpo."
+   }
+  ]
  }
 }

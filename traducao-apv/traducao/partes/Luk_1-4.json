@@ -1,0 +1,2966 @@
+{
+ "Luk.1.1": {
+  "t": "Visto que muitos já se dedicaram a organizar uma narrativa dos acontecimentos que se cumpriram entre nós,",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Visto que muitos",
+    "termo": "Ἐπειδήπερ πολλοὶ (epeidēper polloi)",
+    "titulo": "o prólogo de Lucas",
+    "texto": "Os vv. 1-4 formam um só período, no estilo dos prólogos de historiadores e escritores técnicos gregos: vocabulário culto, raro no NT (epeidēper, “visto que”, é hápax, isto é, palavra que só ocorre uma vez no NT). A partir do v. 5 o estilo muda e passa a imitar a narrativa da Septuaginta. A tradução mantém um único período, mais formal que o resto do livro."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "organizar uma narrativa",
+    "termo": "ἀνατάξασθαι διήγησιν (anataxasthai diēgēsin)",
+    "titulo": "dois hápax",
+    "texto": "Anatassomai é “pôr em ordem, compor”; diēgēsis é a narração extensa de fatos, termo usado por historiadores. As duas palavras só aparecem aqui no NT. Lucas não critica os “muitos”: coloca-se na mesma linha deles."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "que se cumpriram entre nós",
+    "termo": "τῶν πεπληροφορημένων ἐν ἡμῖν πραγμάτων",
+    "titulo": "plērophoreō",
+    "texto": "O particípio perfeito pode significar “plenamente cumpridos” ou “plenamente atestados, aceitos com certeza” (cf. Rm 4:21). “Cumpriram” foi escolhido porque Lucas apresenta a história de Jesus como cumprimento das promessas de Deus (1:20; 24:44)."
+   }
+  ]
+ },
+ "Luk.1.2": {
+  "t": "conforme nos transmitiram aqueles que desde o princípio foram testemunhas oculares e servidores da palavra,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "nos transmitiram",
+    "termo": "παρέδοσαν (paredosan)",
+    "titulo": "paradidōmi",
+    "texto": "Verbo técnico da tradição: entregar adiante um ensino recebido (1Co 11:23; 15:3). Lucas se inclui entre os que receberam, não entre as testemunhas."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "testemunhas oculares e servidores da palavra",
+    "termo": "αὐτόπται καὶ ὑπηρέται ... τοῦ λόγου",
+    "titulo": "um só grupo",
+    "texto": "Um só artigo (hoi) governa os dois substantivos: trata-se de um único grupo que viu e depois serviu à palavra (cf. At 1:21-22). Autoptēs, “quem vê com os próprios olhos”, é hápax no NT. Hypēretēs é o auxiliar, o assistente (4:20; At 26:16)."
+   }
+  ]
+ },
+ "Luk.1.3": {
+  "t": "também a mim pareceu bem, depois de investigar tudo com cuidado desde a origem, escrever-lhe um relato ordenado, excelentíssimo Teófilo,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "depois de investigar tudo com cuidado",
+    "termo": "παρηκολουθηκότι ... πᾶσιν ἀκριβῶς (parēkolouthēkoti ... pasin akribōs)",
+    "titulo": "parakoloutheō",
+    "texto": "Lit. “tendo acompanhado tudo com exatidão”. O verbo pode indicar investigação ou familiaridade de quem acompanhou os fatos de perto. Como Lucas não se apresenta como testemunha (v. 2), “investigar” é o sentido mais provável."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "desde a origem",
+    "termo": "ἄνωθεν (anōthen)",
+    "titulo": "anōthen",
+    "texto": "Pode ser “de cima” (Jo 3:3) ou “desde o início”. Aqui é temporal: Lucas recua até antes do nascimento de João e de Jesus."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "um relato ordenado",
+    "termo": "καθεξῆς (kathexēs)",
+    "titulo": "kathexēs",
+    "texto": "“Em sequência, em ordem”. A ordem pode ser cronológica, geográfica ou lógica; Lucas não diz qual. Em At 11:4 a palavra descreve um relato que convence por estar bem encadeado."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "excelentíssimo Teófilo",
+    "termo": "κράτιστε Θεόφιλε (kratiste Theophile)",
+    "titulo": "quem era Teófilo",
+    "texto": "Kratistos é tratamento dado a autoridades romanas (At 23:26; 24:3; 26:25). Teófilo (“amigo de Deus”) era provavelmente uma pessoa real de posição social elevada, talvez o patrono da obra. A ideia de que o nome seja um símbolo de todo leitor cristão é antiga, mas o título favorece uma pessoa concreta. O livro de Atos é dirigido a ele também (At 1:1)."
+   }
+  ]
+ },
+ "Luk.1.4": {
+  "t": "para que você reconheça a solidez dos ensinamentos que recebeu.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "reconheça a solidez",
+    "termo": "ἐπιγνῷς ... τὴν ἀσφάλειαν (epignōs ... tēn asphaleian)",
+    "titulo": "asphaleia",
+    "texto": "Asphaleia é segurança, firmeza, aquilo que não cai (At 5:23; 1Ts 5:3). A palavra fica no fim da frase grega, em posição de destaque: o objetivo da obra é dar certeza. “Solidez” guarda a ideia de algo em que se pode apoiar."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "dos ensinamentos que recebeu",
+    "termo": "περὶ ὧν κατηχήθης λόγων",
+    "titulo": "katēcheō",
+    "texto": "Lit. “a respeito das palavras em que você foi instruído”. Katēcheō (de onde vem “catequese”) pode ser instrução formal na fé ou apenas “ser informado” (At 21:21). Lucas não deixa claro se Teófilo já era cristão; a primeira leitura é a mais comum."
+   }
+  ]
+ },
+ "Luk.1.5": {
+  "t": "Nos dias de Herodes, rei da Judeia, havia um sacerdote chamado Zacarias, do turno de Abias. A mulher dele era das filhas de Arão e se chamava Isabel.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Herodes, rei da Judeia",
+    "termo": "Ἡρῴδου βασιλέως τῆς Ἰουδαίας",
+    "titulo": "Herodes, o Grande",
+    "texto": "Herodes, o Grande, rei vassalo de Roma, que governou a Judeia e regiões vizinhas de 37 a 4 a.C. “Judeia” aqui designa todo o território judaico, não só a província do sul."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "do turno de Abias",
+    "termo": "ἐξ ἐφημερίας Ἀβιά (ex ephēmerias Abia)",
+    "titulo": "ephēmeria",
+    "texto": "Ephēmeria (só aqui e no v. 8) é a escala de serviço. Os sacerdotes estavam divididos em 24 turnos, e o de Abias era o oitavo (1Cr 24:10). Cada turno servia no templo uma semana, duas vezes por ano."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "das filhas de Arão",
+    "termo": "ἐκ τῶν θυγατέρων Ἀαρών",
+    "titulo": "linhagem sacerdotal dupla",
+    "texto": "Isabel também descendia de Arão. Seu nome é o da mulher de Arão, Eliseba (Êx 6:23; na Septuaginta, Elisabeth). Um sacerdote casado com mulher de família sacerdotal era sinal de piedade e honra."
+   }
+  ]
+ },
+ "Luk.1.6": {
+  "t": "Os dois eram justos diante de Deus e andavam de modo irrepreensível em todos os mandamentos e preceitos do Senhor.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "justos diante de Deus",
+    "termo": "δίκαιοι ... ἐναντίον τοῦ θεοῦ",
+    "titulo": "justos, não sem pecado",
+    "texto": "No sentido do AT: fiéis à aliança, vivendo segundo a Lei (cf. Noé, Gn 6:9; Jó 1:1). Não significa ausência de pecado; logo adiante Zacarias duvida (v. 20). A frase também afasta a ideia, comum na época, de que a esterilidade fosse castigo."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "andavam de modo irrepreensível",
+    "termo": "πορευόμενοι ... ἄμεμπτοι",
+    "titulo": "“andando ... irrepreensíveis”",
+    "texto": "“Andar” em mandamentos é imagem hebraica para viver (halak). O adjetivo amemptoi foi traduzido como advérbio para fluir em português."
+   }
+  ]
+ },
+ "Luk.1.7": {
+  "t": "Mas não tinham filhos, porque Isabel era estéril, e os dois já eram de idade avançada.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Isabel era estéril",
+    "termo": "ἡ Ἐλισάβετ στεῖρα",
+    "titulo": "as mães estéreis de Israel",
+    "texto": "Lucas reproduz um padrão do AT: Sara (Gn 11:30; 18:11), Rebeca (Gn 25:21), Raquel (Gn 30:1), a mãe de Sansão (Jz 13:2) e Ana (1Sm 1:2). Em cada caso Deus abre o ventre fechado para iniciar uma nova etapa da sua obra. “De idade avançada” (lit. “avançados em seus dias”) lembra a descrição de Abraão e Sara em Gn 18:11 (LXX)."
+   }
+  ]
+ },
+ "Luk.1.8": {
+  "t": "Certa vez, quando Zacarias exercia o sacerdócio diante de Deus, na vez do seu turno,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Certa vez",
+    "termo": "Ἐγένετο δὲ (egeneto de)",
+    "titulo": "“E aconteceu”",
+    "texto": "Fórmula da narrativa hebraica (wayehi) que a Septuaginta verteu por egeneto. Lucas a usa com frequência. A APV a traduz conforme o contexto (“certa vez”, “aconteceu que”) e a omite quando só marca o início de cena."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "exercia o sacerdócio",
+    "termo": "ἱερατεύειν (hierateuein)",
+    "titulo": "hierateuō, hápax",
+    "texto": "Única ocorrência no NT, comum na Septuaginta para o serviço de Arão e seus filhos (Êx 28:1). Sentido seguro: atuar como sacerdote."
+   }
+  ]
+ },
+ "Luk.1.9": {
+  "t": "Segundo o costume do sacerdócio, coube-lhe por sorte entrar no santuário do Senhor para oferecer o incenso.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "coube-lhe por sorte",
+    "termo": "ἔλαχεν (elachen)",
+    "titulo": "o sorteio",
+    "texto": "As tarefas diárias eram distribuídas por sorteio entre os sacerdotes do turno. A tradição judaica registrada depois na Mishná (tratado Tamid) descreve esse sorteio para a oferta do incenso. Como havia muitos sacerdotes, a oportunidade podia vir uma única vez na vida."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "santuário",
+    "termo": "ναὸν (naon)",
+    "titulo": "naos e hieron",
+    "texto": "Naos é o edifício do santuário, onde só os sacerdotes entravam; hieron é o conjunto do templo com seus pátios. A APV distingue “santuário” (naos) de “templo” (hieron). O altar do incenso ficava no Lugar Santo, diante do véu (Êx 30:1-8)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "oferecer o incenso",
+    "termo": "θυμιᾶσαι (thymiasai)",
+    "titulo": "thymiaō, hápax",
+    "texto": "Queimar incenso, oferta feita de manhã e à tarde (Êx 30:7-8). Sentido seguro."
+   }
+  ]
+ },
+ "Luk.1.10": {
+  "t": "E toda a multidão do povo estava do lado de fora, orando, na hora do incenso.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "na hora do incenso",
+    "termo": "τῇ ὥρᾳ τοῦ θυμιάματος",
+    "titulo": "oração e incenso",
+    "texto": "A oração do povo acompanhava a oferta do incenso, imagem da oração que sobe a Deus (Sl 141:2; Ap 8:3-4). Como havia multidão, é provável que fosse a oferta da tarde (cf. At 3:1; Dn 9:21)."
+   }
+  ]
+ },
+ "Luk.1.11": {
+  "t": "Então lhe apareceu um anjo do Senhor, de pé, à direita do altar do incenso.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "um anjo do Senhor",
+    "termo": "ἄγγελος κυρίου",
+    "titulo": "o anjo do Senhor",
+    "texto": "Expressão da Septuaginta para o mal’akh YHWH, o mensageiro de Deus do AT (Gn 16:7; Jz 13:3). No v. 19 ele se identifica como Gabriel. Para Lucas, kyrios aqui é o Deus de Israel."
+   }
+  ]
+ },
+ "Luk.1.12": {
+  "t": "Ao vê-lo, Zacarias ficou perturbado, e o temor caiu sobre ele.",
+  "n": []
+ },
+ "Luk.1.13": {
+  "t": "Mas o anjo lhe disse: “Não tenha medo, Zacarias, porque a sua oração foi ouvida. Isabel, sua mulher, lhe dará um filho, e você lhe dará o nome de João.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "a sua oração foi ouvida",
+    "termo": "εἰσηκούσθη ἡ δέησίς σου",
+    "titulo": "que oração?",
+    "texto": "Pode ser a oração por um filho, que o casal talvez já tivesse deixado de fazer (v. 18), ou a oração sacerdotal pela redenção de Israel, feita na hora do incenso. A resposta do anjo atende às duas: o filho será o precursor da redenção."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "João",
+    "termo": "Ἰωάννην (Iōannēn)",
+    "titulo": "o nome",
+    "texto": "Forma grega do hebraico Yehohanan ou Yohanan, “o SENHOR é gracioso” ou “o SENHOR mostrou favor”. O nome é dado por Deus, como os de Ismael e Isaque (Gn 16:11; 17:19), e anuncia a missão."
+   }
+  ]
+ },
+ "Luk.1.14": {
+  "t": "Ele será para você alegria e júbilo, e muitos se alegrarão com o nascimento dele,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "alegria e júbilo",
+    "termo": "χαρὰ ... καὶ ἀγαλλίασις (chara ... kai agalliasis)",
+    "titulo": "dois termos de alegria",
+    "texto": "Agalliasis é alegria exultante, muitas vezes ligada ao louvor e à salvação de Deus (1:44, 47). A alegria é tema que atravessa Lc 1-2 (1:28, 44, 47, 58; 2:10)."
+   }
+  ]
+ },
+ "Luk.1.15": {
+  "t": "pois será grande diante do Senhor. Não beberá vinho nem bebida forte, e será cheio do Espírito Santo desde o ventre de sua mãe.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "bebida forte",
+    "termo": "σίκερα (sikera)",
+    "titulo": "sikera, hápax",
+    "texto": "Transliteração grega do hebraico shekar: bebida fermentada que não é vinho de uva (de cevada, tâmara ou outras frutas). A dupla “vinho e bebida forte” vem de Lv 10:9 e Nm 6:3."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Não beberá vinho",
+    "termo": "οἶνον καὶ σίκερα οὐ μὴ πίῃ",
+    "titulo": "como os nazireus",
+    "texto": "A abstinência lembra o voto do nazireu (Nm 6:1-4) e, sobretudo, Sansão e Samuel, consagrados desde o ventre (Jz 13:4-5; 1Sm 1:11). Lucas não chama João de nazireu, pois não menciona o cabelo; destaca a consagração total a Deus."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "desde o ventre de sua mãe",
+    "termo": "ἔτι ἐκ κοιλίας μητρὸς αὐτοῦ",
+    "titulo": "“ainda desde o ventre”",
+    "texto": "A expressão pode ser “desde o nascimento” ou “ainda no ventre”. O v. 41, em que o bebê salta no ventre de Isabel, mostra que Lucas pensa na segunda possibilidade; “desde o ventre” deixa as duas abertas."
+   }
+  ]
+ },
+ "Luk.1.16": {
+  "t": "Ele fará voltar muitos dos filhos de Israel ao Senhor, o Deus deles.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "fará voltar",
+    "termo": "ἐπιστρέψει (epistrepsei)",
+    "titulo": "epistrephō",
+    "texto": "“Fazer voltar, converter”. Equivale ao hebraico shuv, o verbo do arrependimento nos profetas. A missão de João é a de um profeta que chama Israel de volta a Deus."
+   }
+  ]
+ },
+ "Luk.1.17": {
+  "t": "E irá adiante dele no espírito e no poder de Elias, para fazer voltar o coração dos pais aos filhos e os desobedientes à sabedoria dos justos, a fim de preparar para o Senhor um povo bem disposto.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "no espírito e no poder de Elias",
+    "termo": "ἐν πνεύματι καὶ δυνάμει Ἠλίου",
+    "titulo": "Malaquias 4",
+    "texto": "Eco de Ml 4:5-6 (3:23-24 no hebraico e na Septuaginta): Deus enviaria Elias antes do seu dia, para fazer voltar o coração dos pais aos filhos. Lucas segue o sentido do texto, com redação própria. João não é Elias reencarnado (Jo 1:21), mas cumpre o papel prometido a ele (Mt 11:14)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "irá adiante dele",
+    "termo": "προελεύσεται ἐνώπιον αὐτοῦ",
+    "titulo": "adiante de quem?",
+    "texto": "Gramaticalmente, “dele” retoma “o Senhor, o Deus deles” (v. 16): João precede a vinda do próprio Deus, como em Ml 3:1 e Is 40:3. No conjunto de Lucas, quem vem depois de João é Jesus (3:16; 7:27). O evangelista deixa a ambiguidade trabalhar a favor de quem Jesus é."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "à sabedoria dos justos",
+    "termo": "ἐν φρονήσει δικαίων (en phronēsei dikaiōn)",
+    "titulo": "phronēsis",
+    "texto": "Phronēsis (só aqui e em Ef 1:8) é sabedoria prática, o modo de pensar que orienta a vida. A preposição en tem aqui o sentido de direção (“para”), em paralelo com epi (“aos filhos”)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "um povo bem disposto",
+    "termo": "λαὸν κατεσκευασμένον (laon kateskeuasmenon)",
+    "titulo": "kataskeuazō",
+    "texto": "Lit. “um povo aparelhado, equipado”. O verbo difere de “preparar” (hetoimazō) no início da oração. “Bem disposto” evita a repetição e indica um povo pronto, interiormente, para receber o Senhor (cf. 2Sm 7:24 LXX)."
+   }
+  ]
+ },
+ "Luk.1.18": {
+  "t": "Zacarias perguntou ao anjo: “Como saberei isso? Pois eu sou velho, e minha mulher é de idade avançada.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Como saberei isso?",
+    "termo": "κατὰ τί γνώσομαι τοῦτο;",
+    "titulo": "a pergunta de Abraão",
+    "texto": "São as palavras de Abraão em Gn 15:8 na Septuaginta (kata ti gnōsomai). Abraão pediu um sinal e o recebeu; Zacarias pede um sinal e o sinal será o silêncio (v. 20). A pergunta de Maria (v. 34) é diferente: ela não pede prova, pergunta como acontecerá."
+   }
+  ]
+ },
+ "Luk.1.19": {
+  "t": "O anjo respondeu: “Eu sou Gabriel, que estou na presença de Deus. Fui enviado para lhe falar e lhe trazer esta boa notícia.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Gabriel",
+    "termo": "Γαβριὴλ (Gabriēl)",
+    "titulo": "Gabriel",
+    "texto": "O nome significa “Deus é forte” ou “homem de Deus”. No AT, Gabriel aparece só em Daniel, explicando as visões e anunciando as setenta semanas, na hora da oferta da tarde (Dn 8:16; 9:21-27). Sua aparição no templo, na hora do incenso, sugere que o tempo anunciado chegou."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "lhe trazer esta boa notícia",
+    "termo": "εὐαγγελίσασθαί σοι ταῦτα (euangelisasthai soi tauta)",
+    "titulo": "euangelizomai",
+    "texto": "Verbo da mesma raiz de euangelion (“evangelho”): anunciar boas notícias. É um verbo frequente em Lucas e Atos e ecoa Is 40:9; 52:7; 61:1. Para o substantivo a APV usa “evangelho”; o verbo é traduzido “anunciar a boa notícia” ou “anunciar o evangelho”, conforme o contexto."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "O anjo respondeu",
+    "termo": "ἀποκριθεὶς ὁ ἄγγελος εἶπεν",
+    "titulo": "“respondendo, disse”",
+    "texto": "Fórmula semítica (“respondendo, disse”). A APV a traduz por um só verbo quando o sentido não muda."
+   }
+  ]
+ },
+ "Luk.1.20": {
+  "t": "Eis que você ficará calado e não poderá falar até o dia em que essas coisas acontecerem, porque você não creu nas minhas palavras, que se cumprirão no tempo certo.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "você ficará calado",
+    "termo": "ἔσῃ σιωπῶν (esē siōpōn)",
+    "titulo": "sinal e disciplina",
+    "texto": "O silêncio é ao mesmo tempo o sinal pedido no v. 18 e a disciplina pela incredulidade. Termina quando Zacarias obedece à palavra e escreve o nome “João” (vv. 63-64)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "no tempo certo",
+    "termo": "εἰς τὸν καιρὸν αὐτῶν",
+    "titulo": "“no tempo delas”",
+    "texto": "Lit. “no tempo delas”, isto é, no momento que Deus fixou para que as palavras se cumpram."
+   }
+  ]
+ },
+ "Luk.1.21": {
+  "t": "Enquanto isso, o povo esperava Zacarias e estranhava que ele se demorasse tanto no santuário.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "se demorasse tanto",
+    "termo": "ἐν τῷ χρονίζειν (en tō chronizein)",
+    "titulo": "a demora",
+    "texto": "Terminada a oferta, o sacerdote saía para junto do povo, que esperava a bênção sacerdotal (cf. Nm 6:24-26). A demora causava estranheza."
+   }
+  ]
+ },
+ "Luk.1.22": {
+  "t": "Quando saiu, não conseguia falar com eles, e perceberam que ele tinha tido uma visão no santuário. Ele lhes fazia sinais e continuava mudo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "lhes fazia sinais",
+    "termo": "ἦν διανεύων (ēn dianeuōn)",
+    "titulo": "dianeuō, hápax",
+    "texto": "“Acenar, fazer sinais com a cabeça ou as mãos”. Sentido seguro pelo uso fora do NT. O sacerdote que devia abençoar o povo não podia pronunciar a bênção."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "mudo",
+    "termo": "κωφός (kōphos)",
+    "titulo": "kōphos",
+    "texto": "A palavra pode significar mudo, surdo ou ambas as coisas (7:22; 11:14). O v. 62, em que lhe perguntam por sinais, sugere que Zacarias também ficou sem ouvir."
+   }
+  ]
+ },
+ "Luk.1.23": {
+  "t": "Terminados os dias do seu serviço, ele voltou para casa.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "serviço",
+    "termo": "λειτουργίας (leitourgias)",
+    "titulo": "leitourgia",
+    "texto": "Na Septuaginta, o serviço cultual dos sacerdotes e levitas no santuário (Nm 8:22). Daí vem “liturgia”."
+   }
+  ]
+ },
+ "Luk.1.24": {
+  "t": "Depois daqueles dias, Isabel, sua mulher, engravidou e ficou escondida por cinco meses. Ela dizia:",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "ficou escondida",
+    "termo": "περιέκρυβεν ἑαυτὴν (periekryben heautēn)",
+    "titulo": "perikryptō, hápax",
+    "texto": "“Escondeu-se completamente”. O sentido do verbo é claro; o motivo, não. Talvez Isabel quisesse esperar até que a gravidez fosse visível e incontestável; talvez fosse um tempo de recolhimento. O relato também prepara o v. 26: no sexto mês, o sinal ainda era desconhecido e serviria a Maria (v. 36)."
+   }
+  ]
+ },
+ "Luk.1.25": {
+  "t": "“Assim o Senhor fez comigo nos dias em que voltou para mim o seu olhar, para tirar a minha humilhação diante das pessoas.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "voltou para mim o seu olhar",
+    "termo": "ἐπεῖδεν (epeiden)",
+    "titulo": "epeidon",
+    "texto": "“Olhar para, pôr os olhos em” (só aqui e em At 4:29), no sentido de atenção favorável. Paralelo a epeblepsen no cântico de Maria (v. 48)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "tirar a minha humilhação",
+    "termo": "ἀφελεῖν ὄνειδός μου (aphelein oneidos mou)",
+    "titulo": "o eco de Raquel",
+    "texto": "Oneidos (hápax no NT) é opróbrio, vergonha pública. Raquel disse ao dar à luz: “Deus tirou a minha humilhação” (Gn 30:23; a Septuaginta usa as mesmas palavras, aphelein e oneidos). Na cultura de Israel, a esterilidade era vista como desonra."
+   }
+  ]
+ },
+ "Luk.1.26": {
+  "t": "No sexto mês, o anjo Gabriel foi enviado por Deus a uma cidade da Galileia chamada Nazaré,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "No sexto mês",
+    "termo": "Ἐν δὲ τῷ μηνὶ τῷ ἕκτῳ",
+    "titulo": "sexto mês de quê?",
+    "texto": "Da gravidez de Isabel (vv. 24, 36). Os dois anúncios são deliberadamente paralelos: o mesmo anjo, um nome dado por Deus, uma pergunta, um sinal."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Nazaré",
+    "termo": "Ναζαρέθ (Nazareth)",
+    "titulo": "uma aldeia sem passado",
+    "texto": "Nazaré não é mencionada no AT nem em fontes judaicas antigas. O contraste é intencional: o primeiro anúncio acontece no templo de Jerusalém, a um sacerdote; o segundo, numa aldeia obscura da Galileia, a uma jovem."
+   }
+  ]
+ },
+ "Luk.1.27": {
+  "t": "a uma virgem prometida em casamento a um homem chamado José, da casa de Davi. O nome da virgem era Maria.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "virgem",
+    "termo": "παρθένον (parthenon)",
+    "titulo": "parthenos",
+    "texto": "Parthenos é a moça que ainda não teve relações sexuais e, por extensão, a jovem solteira. Aqui o sentido de virgindade é confirmado pela própria Maria no v. 34. Lucas repete a palavra duas vezes no versículo."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "prometida em casamento",
+    "termo": "ἐμνηστευμένην (emnēsteumenēn)",
+    "titulo": "o noivado judaico",
+    "texto": "No judaísmo da época, o noivado era um compromisso legal: só o divórcio o desfazia (Mt 1:18-19). A noiva, em geral muito jovem, continuava na casa dos pais por cerca de um ano até a cerimônia em que o noivo a levava para casa."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "da casa de Davi",
+    "termo": "ἐξ οἴκου Δαυίδ",
+    "titulo": "José ou Maria?",
+    "texto": "Pela ordem das palavras, a expressão se liga a José, o que Lucas confirma em 2:4 e 3:23-31. Alguns intérpretes antigos a ligaram a Maria, mas o texto não diz isso."
+   }
+  ]
+ },
+ "Luk.1.28": {
+  "t": "O anjo entrou onde ela estava e disse: “Alegre-se, agraciada! O Senhor está com você.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Alegre-se",
+    "termo": "χαῖρε (chaire)",
+    "titulo": "saudação ou convite à alegria",
+    "texto": "Chaire era a saudação grega comum (“salve”, “olá”; Mt 26:49). Mas Lucas acabou de destacar a alegria (v. 14), e a mesma forma abre os oráculos de Sf 3:14, Jl 2:21 e Zc 9:9 na Septuaginta (“alegre-se, filha de Sião”). Por isso a APV traduz o sentido pleno, “alegre-se”. Que haja aqui alusão intencional à “filha de Sião” é defendido por alguns estudiosos e posto em dúvida por outros.",
+    "revisar": true
+   },
+   {
+    "tipo": "tn",
+    "ancora": "agraciada",
+    "termo": "κεχαριτωμένη (kecharitōmenē)",
+    "titulo": "charitoō",
+    "texto": "Particípio perfeito passivo de charitoō, “agraciar, conceder favor”: “você que recebeu (e continua tendo) o favor de Deus”. O verbo só aparece mais uma vez no NT, em Ef 1:6, para todos os crentes. A Vulgata traduziu gratia plena (“cheia de graça”), forma que marcou a tradição católica. O v. 30 explica a palavra: “você encontrou graça diante de Deus”. A ênfase está no favor de Deus que escolhe Maria."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "O Senhor está com você",
+    "termo": "ὁ κύριος μετὰ σοῦ (+ εὐλογημένη σὺ ἐν γυναιξίν)",
+    "titulo": "acréscimo do Textus Receptus",
+    "texto": "O Textus Receptus, o Texto Bizantino e Tregelles acrescentam: “bendita é você entre as mulheres”. A frase está no v. 42, nos lábios de Isabel, e foi provavelmente trazida de lá para cá por copistas que harmonizaram as duas saudações. O texto-base segue os manuscritos mais antigos, que não a têm."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "O Senhor está com você",
+    "termo": "ὁ κύριος μετὰ σοῦ",
+    "titulo": "fórmula de vocação",
+    "texto": "Fórmula com que Deus encoraja quem é chamado para uma missão (Jz 6:12, a Gideão; Êx 3:12; Jr 1:8). Não há verbo no grego; pode ser afirmação (“está”) ou desejo (“esteja”). O contexto de anúncio favorece a afirmação."
+   }
+  ]
+ },
+ "Luk.1.29": {
+  "t": "Ela ficou muito perturbada com essas palavras e se perguntava o que significaria aquela saudação.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "muito perturbada",
+    "termo": "διεταράχθη (dietarachthē)",
+    "titulo": "diatarassō, hápax",
+    "texto": "Forma intensiva de tarassō, usado para Zacarias no v. 12. Zacarias se perturba com a visão; Maria, com as palavras."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Ela ficou muito perturbada",
+    "termo": "ἡ δὲ ... διεταράχθη (+ ἰδοῦσα)",
+    "titulo": "“ao vê-lo”",
+    "texto": "O Textus Receptus e o Texto Bizantino acrescentam idousa (“ao vê-lo”) e trazem a ordem “ao vê-lo, ficou perturbada com as palavras dele”. O texto-base, mais breve, põe a perturbação nas palavras."
+   }
+  ]
+ },
+ "Luk.1.30": {
+  "t": "Então o anjo lhe disse: “Não tenha medo, Maria, pois você encontrou graça diante de Deus.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "você encontrou graça diante de Deus",
+    "termo": "εὗρες γὰρ χάριν παρὰ τῷ θεῷ",
+    "titulo": "uma expressão do AT",
+    "texto": "Fórmula do AT para quem recebe o favor de Deus (Gn 6:8, Noé; Êx 33:17, Moisés; 1Sm 1:18). Charis é da mesma raiz de kecharitōmenē (v. 28)."
+   }
+  ]
+ },
+ "Luk.1.31": {
+  "t": "Eis que você conceberá e dará à luz um filho, e lhe dará o nome de Jesus.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Eis que você conceberá e dará à luz um filho",
+    "termo": "ἰδοὺ συλλήμψῃ ἐν γαστρὶ καὶ τέξῃ υἱὸν",
+    "titulo": "o eco de Isaías 7:14",
+    "texto": "A frase segue de perto Is 7:14 na Septuaginta: “eis que a virgem (parthenos) conceberá e dará à luz um filho, e o chamará Emanuel”. Lucas não cita Isaías como Mateus (Mt 1:23), mas, com parthenos dito duas vezes (v. 27), a alusão é clara. Fórmula semelhante em Gn 16:11 e Jz 13:3, 5."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "você conceberá",
+    "termo": "συλλήμψῃ ἐν γαστρὶ (syllēmpsē en gastri)",
+    "titulo": "“conceberá no ventre”",
+    "texto": "Lit. “conceberá no ventre”, expressão hebraizante. “No ventre” foi omitido por ser redundante em português."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Jesus",
+    "termo": "Ἰησοῦν (Iēsoun)",
+    "titulo": "o nome",
+    "texto": "Forma grega de Yeshua, abreviação de Yehoshua (Josué), “o SENHOR salva”. Lucas não explica o nome, como faz Mateus (Mt 1:21), mas o tema da salvação percorre os cânticos (1:47, 69, 71, 77; 2:11, 30)."
+   }
+  ]
+ },
+ "Luk.1.32": {
+  "t": "Ele será grande e será chamado Filho do Altíssimo. O Senhor Deus lhe dará o trono de Davi, seu pai,",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Filho do Altíssimo",
+    "termo": "υἱὸς ὑψίστου (huios hypsistou)",
+    "titulo": "Filho e rei",
+    "texto": "“Altíssimo” (hypsistos, hebraico Elyon) é nome de Deus no AT (Gn 14:18; Sl 7:17). Os vv. 32-33 retomam a promessa feita a Davi em 2Sm 7:12-16: “eu serei seu pai, e ele será meu filho... estabelecerei para sempre o trono do seu reino”. No v. 35, Lucas mostra que a filiação de Jesus vai além da realeza davídica."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "o trono de Davi, seu pai",
+    "termo": "τὸν θρόνον Δαυὶδ τοῦ πατρὸς αὐτοῦ",
+    "titulo": "“pai”",
+    "texto": "“Pai” no sentido de antepassado. Jesus é herdeiro de Davi pela linhagem legal de José (v. 27; 3:23-31)."
+   }
+  ]
+ },
+ "Luk.1.33": {
+  "t": "e ele reinará sobre a casa de Jacó para sempre, e o seu reino não terá fim.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "o seu reino não terá fim",
+    "termo": "τῆς βασιλείας αὐτοῦ οὐκ ἔσται τέλος",
+    "titulo": "um reino eterno",
+    "texto": "Ecos de 2Sm 7:16, Is 9:7 e Dn 7:14 (o reino do “filho de homem”, que não será destruído). A frase entrou no Credo Niceno-Constantinopolitano (381): “e o seu reino não terá fim”."
+   }
+  ]
+ },
+ "Luk.1.34": {
+  "t": "Maria perguntou ao anjo: “Como acontecerá isso, se eu não tenho relações com homem algum?”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "se eu não tenho relações com homem algum",
+    "termo": "ἐπεὶ ἄνδρα οὐ γινώσκω",
+    "titulo": "“não conheço homem”",
+    "texto": "Lit. “visto que não conheço homem”. “Conhecer” é eufemismo bíblico para a relação sexual (Gn 4:1; 19:8). O presente descreve a condição dela: é virgem."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Como acontecerá isso",
+    "termo": "πῶς ἔσται τοῦτο",
+    "titulo": "por que a pergunta?",
+    "texto": "Se Maria ia casar, por que estranhar a promessa de um filho? A explicação mais simples é que ela entendeu que a concepção seria imediata, antes da vida em comum com José. Agostinho e parte da tradição católica viram aqui um propósito de virgindade, leitura que o texto não exige. Diferentemente de Zacarias (v. 18), Maria não pede prova; pergunta pelo modo, e o anjo responde sem repreendê-la."
+   }
+  ]
+ },
+ "Luk.1.35": {
+  "t": "O anjo respondeu: “O Espírito Santo virá sobre você, e o poder do Altíssimo a cobrirá com a sua sombra. Por isso o santo que vai nascer será chamado Filho de Deus.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "a cobrirá com a sua sombra",
+    "termo": "ἐπισκιάσει σοι (episkiasei soi)",
+    "titulo": "a nuvem da presença",
+    "texto": "Episkiazō é o verbo da Septuaginta para a nuvem que cobria a tenda do encontro quando a glória do SENHOR a enchia (Êx 40:35). Lucas o usa de novo para a nuvem na transfiguração (9:34). A linguagem é reservada e sem nenhuma conotação sexual: a concepção é obra criadora de Deus (cf. Gn 1:2)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "o santo que vai nascer será chamado Filho de Deus",
+    "termo": "τὸ γεννώμενον ἅγιον κληθήσεται υἱὸς θεοῦ",
+    "titulo": "duas construções possíveis",
+    "texto": "O grego permite (1) “o santo que vai nascer será chamado Filho de Deus”, com hagion como sujeito, ou (2) “o que vai nascer será chamado santo, Filho de Deus”, com hagion como predicado. As duas são gramaticalmente possíveis e defendidas por bons comentaristas; o sentido é o mesmo. Seguiu-se a primeira, mais fluente. “Por isso” (dio kai) liga a filiação divina à concepção pelo Espírito."
+   }
+  ]
+ },
+ "Luk.1.36": {
+  "t": "Veja: Isabel, sua parenta, também concebeu um filho na velhice, e já está no sexto mês, ela que era chamada estéril.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "sua parenta",
+    "termo": "ἡ συγγενίς σου (hē syngenis sou)",
+    "titulo": "syngenis, hápax",
+    "texto": "Parente, da mesma família, sem especificar o grau. A tradição de que Isabel fosse prima de Maria não está no texto. Uma mulher da tribo de Levi (v. 5) podia ser parenta de uma mulher de Judá por casamentos entre as tribos."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "na velhice",
+    "termo": "ἐν γήρει αὐτῆς (en gērei autēs)",
+    "titulo": "gēras, hápax",
+    "texto": "Palavra comum no grego para “velhice”; só aqui no NT. A gravidez de Isabel é o sinal oferecido a Maria, sem que ela o peça."
+   }
+  ]
+ },
+ "Luk.1.37": {
+  "t": "Pois nenhuma palavra que vem de Deus deixará de se cumprir.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "nenhuma palavra que vem de Deus deixará de se cumprir",
+    "termo": "οὐκ ἀδυνατήσει παρὰ τοῦ θεοῦ πᾶν ῥῆμα",
+    "titulo": "“nada é impossível” ou “nenhuma palavra falhará”",
+    "texto": "Lit. “não será impossível (ou: sem poder) da parte de Deus toda palavra”. Rhēma pode ser “coisa” (sentido hebraizante de davar) ou “palavra”. No texto-base, com o genitivo para tou theou (“da parte de Deus”), a leitura mais natural é que a palavra que procede de Deus não ficará sem efeito; com o dativo do Textus Receptus (para tō theō, “junto de Deus”), a leitura “para Deus nada é impossível” é mais natural. A escolha liga o versículo ao seguinte, em que Maria responde com a mesma palavra rhēma: “conforme a sua palavra”. A forma tradicional, “para Deus nada é impossível”, continua sendo uma leitura legítima.",
+    "revisar": true
+   },
+   {
+    "tipo": "sn",
+    "ancora": "deixará de se cumprir",
+    "termo": "ἀδυνατήσει (adynatēsei)",
+    "titulo": "a pergunta feita a Abraão",
+    "texto": "Eco de Gn 18:14 na Septuaginta, dito a Abraão quando Sara riu da promessa: “Acaso alguma coisa (rhēma) é impossível (adynatei) para Deus?”. Sara era estéril e idosa, como Isabel."
+   }
+  ]
+ },
+ "Luk.1.38": {
+  "t": "Maria disse: “Aqui está a serva do Senhor. Que aconteça comigo conforme a sua palavra.” E o anjo a deixou.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "serva",
+    "termo": "δούλη (doulē)",
+    "titulo": "doulē: “serva” ou “escrava”",
+    "texto": "Doulē é, literalmente, a escrava, a mulher que pertence a outro. A APV usa “servo” e “serva” para a família de doulos, por causa do eco do AT, em que os servos do SENHOR são os que lhe pertencem e o servem (1Sm 1:11, Ana; 25:41). A nota guarda a força da palavra: Maria se entrega por inteiro ao Senhor."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Que aconteça comigo",
+    "termo": "γένοιτό μοι (genoito moi)",
+    "titulo": "optativo",
+    "texto": "O optativo expressa desejo e consentimento: “que me aconteça”. Não é mera resignação, mas aceitação ativa da palavra."
+   }
+  ]
+ },
+ "Luk.1.39": {
+  "t": "Naqueles dias, Maria se pôs a caminho e foi depressa para a região montanhosa, a uma cidade de Judá.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "se pôs a caminho",
+    "termo": "Ἀναστᾶσα (anastasa)",
+    "titulo": "“levantando-se”",
+    "texto": "Lit. “tendo-se levantado”. Na narrativa bíblica, o verbo marca o início de uma ação ou viagem, sem indicar que a pessoa estivesse sentada."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "a uma cidade de Judá",
+    "termo": "εἰς πόλιν Ἰούδα",
+    "titulo": "cidade não nomeada",
+    "texto": "A região montanhosa de Judá ficava ao sul de Jerusalém, a vários dias de caminhada de Nazaré. Lucas não nomeia a cidade; a identificação com Ein Karem é tradição posterior."
+   }
+  ]
+ },
+ "Luk.1.40": {
+  "t": "Entrou na casa de Zacarias e saudou Isabel.",
+  "n": []
+ },
+ "Luk.1.41": {
+  "t": "Quando Isabel ouviu a saudação de Maria, a criança saltou em seu ventre, e Isabel ficou cheia do Espírito Santo.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "a criança saltou",
+    "termo": "ἐσκίρτησεν τὸ βρέφος (eskirtēsen to brephos)",
+    "titulo": "skirtaō",
+    "texto": "Skirtaō é saltar, pular de alegria (6:23). Na Septuaginta, o verbo descreve Esaú e Jacó se agitando no ventre de Rebeca, sinal do que viria (Gn 25:22). O v. 44 explica: foi um salto de alegria. A promessa do v. 15 começa a se cumprir."
+   }
+  ]
+ },
+ "Luk.1.42": {
+  "t": "e exclamou em alta voz: “Bendita é você entre as mulheres, e bendito é o fruto do seu ventre!",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "exclamou em alta voz",
+    "termo": "ἀνεφώνησεν κραυγῇ μεγάλῃ (anephōnēsen kraugē megalē)",
+    "titulo": "anaphōneō, hápax",
+    "texto": "“Levantar a voz, clamar”. Única ocorrência no NT. Na Septuaginta, aparece em Crônicas para o som festivo dos levitas diante da arca (1Cr 15:28; 16:4-5). Alguns intérpretes veem aqui, junto com o v. 43 e o v. 56, alusões a 2Sm 6, a subida da arca: Maria seria apresentada como a nova arca que leva a presença de Deus. A tipologia é sugestiva, mas discutida.",
+    "revisar": true
+   },
+   {
+    "tipo": "tc",
+    "ancora": "exclamou em alta voz",
+    "termo": "κραυγῇ (kraugē) / φωνῇ (phōnē)",
+    "titulo": "“grito” ou “voz”",
+    "texto": "O texto-base traz kraugē (“grito, clamor”); o Textus Receptus e o Texto Bizantino, phōnē (“voz”). A tradução é a mesma."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Bendita é você entre as mulheres",
+    "termo": "εὐλογημένη σὺ ἐν γυναιξίν",
+    "titulo": "as mulheres benditas",
+    "texto": "Forma hebraica de superlativo: “a mais bendita das mulheres”. O AT fala assim de Jael (Jz 5:24), e o livro deuterocanônico de Judite, de Judite (Jt 13:18), mulheres por meio das quais Deus livrou o seu povo."
+   }
+  ]
+ },
+ "Luk.1.43": {
+  "t": "Quem sou eu para que a mãe do meu Senhor venha me visitar?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Quem sou eu",
+    "termo": "πόθεν μοι τοῦτο (pothen moi touto)",
+    "titulo": "“de onde me vem isto?”",
+    "texto": "Lit. “De onde me vem isto, que venha a mãe do meu Senhor a mim?”. Expressão de humildade diante de uma honra imerecida. Pode ecoar 2Sm 6:9: “Como virá a mim a arca do SENHOR?”."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "meu Senhor",
+    "termo": "τοῦ κυρίου μου (tou kyriou mou)",
+    "titulo": "Jesus como Senhor",
+    "texto": "Primeira vez que Lucas aplica kyrios a Jesus, ainda no ventre. Nos vv. 16-17 e 45, “Senhor” é Deus. A frase lembra Sl 110:1 (“o Senhor disse ao meu Senhor”), que Jesus cita em 20:41-44. Lucas usa o mesmo título para Deus e para Jesus de modo intencional (2:11)."
+   }
+  ]
+ },
+ "Luk.1.44": {
+  "t": "Pois, assim que a voz da sua saudação chegou aos meus ouvidos, a criança saltou de alegria no meu ventre.",
+  "n": []
+ },
+ "Luk.1.45": {
+  "t": "Bem-aventurada aquela que creu, porque se cumprirá o que lhe foi dito da parte do Senhor!”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Bem-aventurada",
+    "termo": "μακαρία (makaria)",
+    "titulo": "makarios",
+    "texto": "Makarios é o termo das bem-aventuranças (6:20-22): não um sentimento passageiro, mas a condição de quem é favorecido por Deus. “Bem-aventurada” mantém o elo com as bem-aventuranças; “feliz” seria mais coloquial."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "porque se cumprirá",
+    "termo": "ὅτι ἔσται τελείωσις",
+    "titulo": "“que” ou “porque”",
+    "texto": "Hoti pode introduzir o conteúdo da fé (“creu que se cumprirá”) ou a razão da bem-aventurança (“porque se cumprirá”). Seguiu-se a segunda, que faz da fidelidade de Deus o fundamento da bem-aventurança; a primeira é igualmente possível. Teleiōsis (só aqui e em Hb 7:11) é “cumprimento, realização”. Contraste com Zacarias, que não creu (v. 20)."
+   }
+  ]
+ },
+ "Luk.1.46": {
+  "t": "Então Maria disse: “A minha alma engrandece o Senhor,",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "A minha alma engrandece o Senhor",
+    "termo": "μεγαλύνει ἡ ψυχή μου τὸν κύριον",
+    "titulo": "o cântico de Maria",
+    "texto": "O cântico (vv. 46-55), conhecido pela primeira palavra latina, Magnificat, é tecido com linguagem do AT, sobretudo do cântico de Ana (1Sm 2:1-10): “o meu coração exulta no SENHOR”. Há também ecos dos Salmos e dos profetas. Como na poesia hebraica, cada linha costuma ser repetida ou completada pela seguinte (paralelismo). “Engrandecer” é declarar a grandeza de alguém. Kyrios aqui é Deus, como mostra o verso seguinte."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Então Maria disse",
+    "termo": "καὶ εἶπεν Μαριάμ",
+    "titulo": "Maria ou Isabel?",
+    "texto": "Todos os manuscritos gregos trazem “Maria”. Alguns poucos testemunhos latinos antigos e alusões em escritores dos primeiros séculos atribuem o cântico a Isabel, que, como Ana, era estéril. A atribuição a Maria é a leitura do texto grego em toda a tradição e é seguida por todas as edições críticas (Metzger)."
+   }
+  ]
+ },
+ "Luk.1.47": {
+  "t": "e o meu espírito exulta em Deus, meu Salvador,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "exulta",
+    "termo": "ἠγαλλίασεν (ēgalliasen)",
+    "titulo": "aoristo",
+    "texto": "O verbo está no aoristo (tempo que costuma narrar o passado: “exultou”), em paralelo com o presente “engrandece”. Na poesia semítica, a alternância de tempos é comum, e o aoristo pode descrever uma alegria que começou e continua. “Exulta” mantém o paralelismo com o verso anterior."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Deus, meu Salvador",
+    "termo": "τῷ θεῷ τῷ σωτῆρί μου",
+    "titulo": "o Deus que salva",
+    "texto": "Expressão dos Salmos e dos profetas (Sl 25:5; Hc 3:18 LXX: “me alegrarei em Deus, meu salvador”). “Alma” e “espírito” não são duas partes da pessoa aqui, mas o paralelismo para dizer “todo o meu ser”."
+   }
+  ]
+ },
+ "Luk.1.48": {
+  "t": "porque olhou para a humilde condição da sua serva. Pois eis que, de agora em diante, todas as gerações me chamarão bem-aventurada,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "a humilde condição",
+    "termo": "τὴν ταπείνωσιν (tēn tapeinōsin)",
+    "titulo": "tapeinōsis",
+    "texto": "Pode ser humildade de espírito ou baixa condição social, humilhação. O contexto (v. 52, “os humildes”, e a oração de Ana em 1Sm 1:11: “se olhares para a aflição da tua serva”) favorece a condição de pequenez e pobreza. Não é Maria elogiando a própria humildade."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "me chamarão bem-aventurada",
+    "termo": "μακαριοῦσίν με (makariousin me)",
+    "titulo": "o eco de Lia",
+    "texto": "Eco de Gn 30:13, em que Lia diz ao nascer Aser: “as mulheres me chamarão bem-aventurada” (LXX makariousin me). O motivo de toda geração chamá-la assim é o que Deus fez (v. 49)."
+   }
+  ]
+ },
+ "Luk.1.49": {
+  "t": "porque o Poderoso fez grandes coisas por mim. Santo é o seu nome,",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "o Poderoso fez grandes coisas",
+    "termo": "ἐποίησέν μοι μεγάλα ὁ δυνατός",
+    "titulo": "o Guerreiro de Israel",
+    "texto": "Ho dynatos (“o Poderoso”) lembra o Deus guerreiro que salva (Sf 3:17 LXX, Sl 24:8 = 23:8 LXX). “Fez grandes coisas” ecoa Dt 10:21, onde Moisés diz que Deus fez por Israel “estas coisas grandes e terríveis”."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "grandes coisas",
+    "termo": "μεγάλα (megala) / μεγαλεῖα (megaleia)",
+    "titulo": "duas formas",
+    "texto": "O texto-base traz megala; o Textus Receptus e o Texto Bizantino, megaleia (“maravilhas”). O sentido é o mesmo."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Santo é o seu nome",
+    "termo": "ἅγιον τὸ ὄνομα αὐτοῦ",
+    "titulo": "o nome santo",
+    "texto": "Sl 111:9 (110:9 LXX): “santo e terrível é o seu nome”. O “nome” é Deus mesmo, como ele se revelou."
+   }
+  ]
+ },
+ "Luk.1.50": {
+  "t": "e a sua misericórdia se estende de geração em geração sobre os que o temem.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "a sua misericórdia",
+    "termo": "τὸ ἔλεος αὐτοῦ (to eleos autou)",
+    "titulo": "eleos e hesed",
+    "texto": "Na Septuaginta, eleos traduz geralmente o hebraico hesed, a bondade leal de Deus para com a aliança. O verso segue de perto Sl 103:17 (102:17 LXX). “Misericórdia” volta nos vv. 54, 58, 72 e 78: é a palavra-chave dos dois cânticos."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "de geração em geração",
+    "termo": "εἰς γενεὰς καὶ γενεὰς",
+    "titulo": "duas formas",
+    "texto": "O texto-base traz “para gerações e gerações”; o Textus Receptus e o Texto Bizantino, “para gerações de gerações”. A tradução é a mesma."
+   }
+  ]
+ },
+ "Luk.1.51": {
+  "t": "Agiu com poder por seu braço; dispersou os que se exaltam nos pensamentos do próprio coração.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "por seu braço",
+    "termo": "ἐν βραχίονι αὐτοῦ (en brachioni autou)",
+    "titulo": "o braço do SENHOR",
+    "texto": "O braço de Deus é imagem do seu poder salvador, sobretudo no êxodo (Êx 6:6; Dt 4:34; Sl 89:10, 13; Is 51:9). Os aoristos dos vv. 51-54 (“agiu”, “dispersou”, “derrubou”) podem descrever o que Deus fez na história de Israel ou, como profecia, o que ele fará pelo Messias como coisa já certa. Provavelmente as duas ideias estão presentes."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "os que se exaltam nos pensamentos do próprio coração",
+    "termo": "ὑπερηφάνους διανοίᾳ καρδίας αὐτῶν",
+    "titulo": "os soberbos",
+    "texto": "Lit. “os soberbos no pensamento do seu coração”. O dativo indica onde está a soberba: no íntimo, nos planos. Cf. Sl 89:10 (88:11 LXX), em que Deus dispersa os inimigos “com o braço do seu poder”."
+   }
+  ]
+ },
+ "Luk.1.52": {
+  "t": "Derrubou dos tronos os poderosos e exaltou os humildes.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Derrubou dos tronos os poderosos",
+    "termo": "καθεῖλεν δυνάστας ἀπὸ θρόνων",
+    "titulo": "a grande inversão",
+    "texto": "Tema central de Lucas: Deus inverte as posições (6:20-26; 14:11; 16:25; 18:14). Ecos de 1Sm 2:7-8, Jó 12:19 e Ez 21:26. Dynastēs (raro no NT) é o soberano, o que detém o poder."
+   }
+  ]
+ },
+ "Luk.1.53": {
+  "t": "Aos famintos cumulou de bens, e aos ricos despediu de mãos vazias.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Aos famintos cumulou de bens",
+    "termo": "πεινῶντας ἐνέπλησεν ἀγαθῶν",
+    "titulo": "fome e fartura",
+    "texto": "Ecos de 1Sm 2:5 e Sl 107:9 (106:9 LXX: “encheu de bens a alma faminta”). A fome é física e espiritual, mas Lucas não espiritualiza os pobres (6:21, 25). A ordem do grego (objeto, verbo; objeto, verbo) foi mantida para conservar o paralelismo invertido."
+   }
+  ]
+ },
+ "Luk.1.54": {
+  "t": "Socorreu Israel, seu servo, lembrando-se de sua misericórdia,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "seu servo",
+    "termo": "παιδὸς αὐτοῦ (paidos autou)",
+    "titulo": "pais",
+    "texto": "Pais pode ser “menino, filho” ou “servo”. Aqui é o título de Israel como servo de Deus em Isaías (Is 41:8-9: “tu, Israel, meu servo, a quem tomei pela mão”). O mesmo título é dado a Davi em 1:69."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "lembrando-se de sua misericórdia",
+    "termo": "μνησθῆναι ἐλέους (mnēsthēnai eleous)",
+    "titulo": "o lembrar de Deus",
+    "texto": "Na Bíblia, Deus “lembrar-se” não é recuperar uma memória perdida, mas agir de acordo com o que prometeu (Gn 8:1; Êx 2:24; Sl 98:3)."
+   }
+  ]
+ },
+ "Luk.1.55": {
+  "t": "como havia prometido a nossos pais, em favor de Abraão e de sua descendência para sempre.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "como havia prometido",
+    "termo": "καθὼς ἐλάλησεν (kathōs elalēsen)",
+    "titulo": "“como falou”",
+    "texto": "Lit. “como falou”. Trata-se das promessas da aliança; “prometido” deixa isso claro."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "em favor de Abraão",
+    "termo": "τῷ Ἀβραὰμ καὶ τῷ σπέρματι αὐτοῦ",
+    "titulo": "a quem se refere?",
+    "texto": "O dativo pode estar em paralelo com “a nossos pais” (“como falou a nossos pais, a Abraão e à sua descendência”) ou ligar-se ao v. 54 (“lembrando-se da misericórdia para com Abraão”). A segunda leitura combina com Mq 7:20 (“mostrarás a Abraão a misericórdia que juraste a nossos pais”), e “para sempre” se encaixa melhor nela. “Em favor de” conserva a ligação com a misericórdia."
+   }
+  ]
+ },
+ "Luk.1.56": {
+  "t": "Maria ficou com Isabel cerca de três meses e depois voltou para casa.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "cerca de três meses",
+    "termo": "ὡς μῆνας τρεῖς",
+    "titulo": "até o parto?",
+    "texto": "Somados aos seis meses do v. 36, os três meses chegam perto do nascimento de João. Lucas, porém, conclui a cena de Maria antes de narrar o parto, como costuma fazer. A arca da aliança também ficou três meses na casa de Obede-Edom (2Sm 6:11), detalhe que os defensores da tipologia da arca destacam (veja a nota no v. 42)."
+   }
+  ]
+ },
+ "Luk.1.57": {
+  "t": "Chegou para Isabel o tempo de dar à luz, e ela teve um filho.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Chegou para Isabel o tempo",
+    "termo": "Τῇ δὲ Ἐλισάβετ ἐπλήσθη ὁ χρόνος",
+    "titulo": "“cumpriu-se o tempo”",
+    "texto": "Lit. “cumpriu-se para Isabel o tempo”. Lucas usa o verbo “cumprir” para os tempos marcados por Deus (1:23; 2:6, 21-22)."
+   }
+  ]
+ },
+ "Luk.1.58": {
+  "t": "Os vizinhos e os parentes souberam que o Senhor tinha sido grande em misericórdia para com ela, e se alegravam com ela.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "tinha sido grande em misericórdia",
+    "termo": "ἐμεγάλυνεν κύριος τὸ ἔλεος αὐτοῦ",
+    "titulo": "“engrandeceu a sua misericórdia”",
+    "texto": "Lit. “o Senhor engrandeceu a sua misericórdia com ela”, expressão da Septuaginta (Gn 19:19). O verbo é o mesmo de 1:46: Maria engrandece o Senhor; o Senhor engrandece a sua misericórdia."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "vizinhos",
+    "termo": "περίοικοι (perioikoi)",
+    "titulo": "perioikos, hápax",
+    "texto": "“Os que moram ao redor”. Sentido seguro."
+   }
+  ]
+ },
+ "Luk.1.59": {
+  "t": "No oitavo dia vieram circuncidar o menino e iam dar-lhe o nome do pai, Zacarias.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "No oitavo dia",
+    "termo": "ἐν τῇ ἡμέρᾳ τῇ ὀγδόῃ",
+    "titulo": "a circuncisão",
+    "texto": "A Lei mandava circuncidar o menino no oitavo dia (Gn 17:12; Lv 12:3). No AT, o nome era dado em geral no nascimento; aqui, como em 2:21, é dado na circuncisão, provavelmente costume da época."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "iam dar-lhe",
+    "termo": "ἐκάλουν (ekaloun)",
+    "titulo": "imperfeito de tentativa",
+    "texto": "O imperfeito indica ação começada e não concluída: “queriam chamá-lo, estavam para chamá-lo”. Era comum dar ao menino o nome do avô ou do pai."
+   }
+  ]
+ },
+ "Luk.1.60": {
+  "t": "Mas a mãe dele interveio: “Não! Ele vai se chamar João.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Ele vai se chamar João",
+    "termo": "κληθήσεται Ἰωάννης",
+    "titulo": "como Isabel sabia?",
+    "texto": "Lucas não diz como Isabel soube do nome, se por Zacarias, por escrito, ou pelo Espírito (v. 41). A concordância entre os dois, sem comunicação aparente, faz parte do espanto do v. 63."
+   }
+  ]
+ },
+ "Luk.1.61": {
+  "t": "Disseram-lhe: “Não há ninguém na sua família que tenha esse nome.”",
+  "n": []
+ },
+ "Luk.1.62": {
+  "t": "Então perguntaram por sinais ao pai como ele queria que o menino se chamasse.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "perguntaram por sinais",
+    "termo": "ἐνένευον (enenevon)",
+    "titulo": "enneuō, hápax",
+    "texto": "“Fazer sinal com a cabeça, acenar”. Sentido seguro. O fato de usarem sinais reforça a impressão de que Zacarias também não ouvia (v. 22)."
+   }
+  ]
+ },
+ "Luk.1.63": {
+  "t": "Ele pediu uma tabuinha e escreveu: “O nome dele é João.” E todos ficaram admirados.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "tabuinha",
+    "termo": "πινακίδιον (pinakidion)",
+    "titulo": "pinakidion, hápax",
+    "texto": "Diminutivo de pinax: pequena tábua de escrever, em geral de madeira coberta de cera, em que se escrevia com estilete."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "O nome dele é João",
+    "termo": "Ἰωάννης ἐστὶν ὄνομα αὐτοῦ",
+    "titulo": "“é”, não “será”",
+    "texto": "Zacarias não propõe um nome; constata o que Deus já decidiu (v. 13)."
+   }
+  ]
+ },
+ "Luk.1.64": {
+  "t": "No mesmo instante, a sua boca se abriu, a sua língua se soltou, e ele começou a falar, bendizendo a Deus.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "a sua língua se soltou",
+    "termo": "καὶ ἡ γλῶσσα αὐτοῦ",
+    "titulo": "um só verbo para dois sujeitos",
+    "texto": "O grego usa um só verbo (“foi aberta”) para boca e língua. “Se soltou” foi acrescentado porque “a língua se abriu” não soa natural em português."
+   }
+  ]
+ },
+ "Luk.1.65": {
+  "t": "Todos os vizinhos ficaram com temor, e por toda a região montanhosa da Judeia se comentavam todos esses acontecimentos.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "esses acontecimentos",
+    "termo": "τὰ ῥήματα ταῦτα (ta rhēmata tauta)",
+    "titulo": "rhēmata",
+    "texto": "Lit. “estas palavras”. Como o hebraico davar, rhēma pode significar “palavra” ou “coisa, acontecimento” (cf. 2:15, 19). Aqui são os fatos e o que se dizia deles."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "ficaram com temor",
+    "termo": "ἐγένετο ... φόβος",
+    "titulo": "temor diante de Deus",
+    "texto": "Em Lucas, o temor é a reação comum diante da ação de Deus (1:12; 2:9; 5:26; 7:16). Não é pavor, mas assombro reverente."
+   }
+  ]
+ },
+ "Luk.1.66": {
+  "t": "Todos os que ouviam guardavam isso no coração e diziam: “O que virá a ser este menino?” Pois a mão do Senhor estava com ele.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "Pois a mão do Senhor estava com ele",
+    "termo": "καὶ γὰρ χεὶρ κυρίου ἦν μετ᾽ αὐτοῦ",
+    "titulo": "kai gar",
+    "texto": "O texto-base traz kai gar (“pois de fato”), que torna a frase um comentário do narrador. O Textus Receptus e o Texto Bizantino trazem só kai (“e”), o que permitiria ler a frase como parte da fala do povo: “E a mão do Senhor está com ele”."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "a mão do Senhor",
+    "termo": "χεὶρ κυρίου",
+    "titulo": "a mão do Senhor",
+    "texto": "Expressão do AT para o poder de Deus que acompanha e capacita alguém (1Rs 18:46; Ed 7:6; At 11:21)."
+   }
+  ]
+ },
+ "Luk.1.67": {
+  "t": "Então Zacarias, seu pai, ficou cheio do Espírito Santo e profetizou, dizendo:",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "profetizou",
+    "termo": "ἐπροφήτευσεν (eprophēteusen)",
+    "titulo": "profecia em forma de hino",
+    "texto": "O cântico de Zacarias (vv. 68-79), chamado Benedictus pela primeira palavra latina, é apresentado como profecia inspirada. Tem duas partes: louvor pelo que Deus fez na casa de Davi (vv. 68-75) e palavra sobre o papel do menino João (vv. 76-79). Quase todas as linhas ecoam Salmos e Profetas."
+   }
+  ]
+ },
+ "Luk.1.68": {
+  "t": "“Bendito seja o Senhor, o Deus de Israel, porque visitou o seu povo e o redimiu.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Bendito seja o Senhor, o Deus de Israel",
+    "termo": "εὐλογητὸς κύριος ὁ θεὸς τοῦ Ἰσραήλ",
+    "titulo": "fórmula dos Salmos",
+    "texto": "A abertura repete a doxologia que fecha livros dos Salmos (Sl 41:13; 72:18; 106:48). Kyrios aqui traduz o nome divino YHWH dessas passagens."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "visitou o seu povo e o redimiu",
+    "termo": "ἐπεσκέψατο καὶ ἐποίησεν λύτρωσιν τῷ λαῷ αὐτοῦ",
+    "titulo": "visitar e redimir",
+    "texto": "Lit. “visitou e fez redenção para o seu povo”. “Visitar” (episkeptomai) é intervenção de Deus para salvar (Gn 50:24; Êx 4:31; Rt 1:6). Lytrōsis é resgate, libertação mediante preço; na Septuaginta descreve a libertação do Egito e do exílio (Sl 111:9). Os aoristos tratam como já realizado o que começou com a vinda do Messias."
+   }
+  ]
+ },
+ "Luk.1.69": {
+  "t": "Levantou para nós um poderoso Salvador na casa de Davi, seu servo,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "um poderoso Salvador",
+    "termo": "κέρας σωτηρίας (keras sōtērias)",
+    "titulo": "“chifre de salvação”",
+    "texto": "Lit. “um chifre de salvação”. O chifre do touro é, no AT, imagem de força (Dt 33:17; Sl 18:2, “o SENHOR é o chifre da minha salvação”), e o “chifre de Davi” é o rei que Deus faria brotar (Sl 132:17; Ez 29:21). Em português do Brasil, “chifre” tem conotação vulgar que esconderia a imagem; por isso a APV traduz o sentido. A maiúscula indica que a expressão se refere a uma pessoa da casa de Davi, o Messias.",
+    "revisar": true
+   },
+   {
+    "tipo": "tn",
+    "ancora": "seu servo",
+    "termo": "παιδὸς αὐτοῦ (paidos autou)",
+    "titulo": "pais",
+    "texto": "Davi é chamado “servo” de Deus no AT (2Sm 7:5; Sl 18 título). Mesma palavra usada para Israel em 1:54 e, em Atos, para Jesus (At 3:13; 4:27)."
+   }
+  ]
+ },
+ "Luk.1.70": {
+  "t": "como tinha falado, desde os tempos antigos, pela boca dos seus santos profetas:",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "desde os tempos antigos",
+    "termo": "ἀπ᾽ αἰῶνος (ap’ aiōnos)",
+    "titulo": "“desde a era”",
+    "texto": "Lit. “desde o século”. Aqui não significa “desde a eternidade”, mas “desde muito tempo”, desde os profetas de outrora (At 3:21)."
+   }
+  ]
+ },
+ "Luk.1.71": {
+  "t": "salvação dos nossos inimigos e da mão de todos os que nos odeiam,",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "da mão de todos os que nos odeiam",
+    "termo": "ἐκ χειρὸς πάντων τῶν μισούντων ἡμᾶς",
+    "titulo": "o eco do êxodo",
+    "texto": "Eco quase literal de Sl 106:10 (105:10 LXX), que descreve o êxodo: Deus “os salvou da mão dos que os odiavam”. A salvação aqui tem dimensão concreta e histórica; os vv. 74-75 e 77 mostram que ela visa também ao serviço a Deus e ao perdão dos pecados."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "salvação",
+    "termo": "σωτηρίαν (sōtērian)",
+    "titulo": "sintaxe",
+    "texto": "O acusativo retoma, como aposto, o “poderoso Salvador” (lit. “chifre de salvação”) do v. 69; o v. 70 é um parêntese."
+   }
+  ]
+ },
+ "Luk.1.72": {
+  "t": "para usar de misericórdia com os nossos pais e se lembrar da sua santa aliança,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "usar de misericórdia com",
+    "termo": "ποιῆσαι ἔλεος μετὰ (poiēsai eleos meta)",
+    "titulo": "“fazer misericórdia com”",
+    "texto": "Lit. “fazer misericórdia com”, tradução da Septuaginta para ‘asah hesed, “agir com bondade leal” (Gn 24:12; Rt 1:8). A misericórdia alcança os pais porque Deus cumpre aos filhos o que lhes prometeu."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "se lembrar da sua santa aliança",
+    "termo": "μνησθῆναι διαθήκης ἁγίας αὐτοῦ",
+    "titulo": "a aliança lembrada",
+    "texto": "Ecos de Sl 105:8-9 (lembra-se da sua aliança, ... do juramento a Isaque) e Sl 106:45; Lv 26:42. Há quem note um jogo com os nomes da família: Zacarias (“o SENHOR se lembrou”), Isabel (“meu Deus é juramento”) e João (“o SENHOR é gracioso”) correspondem a “lembrar”, “juramento” (v. 73) e “misericórdia” (v. 72). A observação é antiga e sugestiva, mas não é certo que Lucas a tivesse em vista."
+   }
+  ]
+ },
+ "Luk.1.73": {
+  "t": "o juramento que fez a Abraão, nosso pai, de nos conceder",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "o juramento que fez a Abraão",
+    "termo": "ὅρκον ὃν ὤμοσεν πρὸς Ἀβραὰμ",
+    "titulo": "o juramento a Abraão",
+    "texto": "Gn 22:16-18: depois do monte Moriá, Deus jura por si mesmo abençoar Abraão e dar à sua descendência a vitória sobre os inimigos (“possuirá a porta dos seus inimigos”). O v. 74 retoma essa promessa. “Juramento” está em aposição a “aliança” (v. 72)."
+   }
+  ]
+ },
+ "Luk.1.74": {
+  "t": "que, livres da mão dos inimigos, o servíssemos sem medo,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "o servíssemos",
+    "termo": "λατρεύειν αὐτῷ (latreuein autō)",
+    "titulo": "latreuō",
+    "texto": "Latreuō é servir a Deus no culto, adorar (2:37; 4:8). O objetivo da libertação não é só a segurança, mas a adoração livre, como no êxodo: “deixe o meu povo ir para que me sirva” (Êx 7:16, mesmo verbo na Septuaginta)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "sem medo",
+    "termo": "ἀφόβως (aphobōs)",
+    "titulo": "posição enfática",
+    "texto": "O advérbio abre a frase grega, em destaque. Pode ligar-se a “servíssemos” (servir sem medo) ou a “livres” (libertados sem temor). A primeira é a leitura mais natural."
+   }
+  ]
+ },
+ "Luk.1.75": {
+  "t": "em santidade e justiça diante dele, todos os nossos dias.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "santidade e justiça",
+    "termo": "ὁσιότητι καὶ δικαιοσύνῃ (hosiotēti kai dikaiosynē)",
+    "titulo": "par de virtudes",
+    "texto": "Hosiotēs (só aqui e em Ef 4:24, também com “justiça”) é a piedade para com Deus; dikaiosynē, a retidão na conduta. O par descreve a vida inteira diante de Deus (Sb 9:3)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "todos os nossos dias",
+    "termo": "πάσαις ταῖς ἡμέραις ἡμῶν (+ τῆς ζωῆς)",
+    "titulo": "“da nossa vida”",
+    "texto": "O Textus Receptus e o Texto Bizantino trazem “todos os dias da nossa vida”. O sentido é o mesmo."
+   }
+  ]
+ },
+ "Luk.1.76": {
+  "t": "E você, menino, será chamado profeta do Altíssimo, pois irá adiante do Senhor para preparar os seus caminhos,",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "irá adiante do Senhor para preparar os seus caminhos",
+    "termo": "προπορεύσῃ γὰρ ἐνώπιον κυρίου ἑτοιμάσαι ὁδοὺς αὐτοῦ",
+    "titulo": "o mensageiro que prepara o caminho",
+    "texto": "Eco de Ml 3:1 (“eis que envio o meu mensageiro, que preparará o caminho diante de mim”) e de Is 40:3 (“preparem o caminho do SENHOR”), citado em 3:4. Nesses textos, kyrios é YHWH. Depois de 1:43 (“meu Senhor”), o leitor de Lucas entende que o Senhor que vem é Jesus. O NT aplica assim a Jesus textos que falam da vinda do próprio Deus."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "irá adiante do Senhor",
+    "termo": "ἐνώπιον κυρίου (+ προσώπου)",
+    "titulo": "“diante da face”",
+    "texto": "O Textus Receptus, o Texto Bizantino e Tregelles leem pro prosōpou kyriou (“diante da face do Senhor”), forma que aproxima o texto de Ml 3:1. O texto-base traz enōpion kyriou (“diante do Senhor”). A tradução é a mesma."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "você, menino",
+    "termo": "σὺ δέ, παιδίον",
+    "titulo": "tratamento",
+    "texto": "Zacarias se volta para o filho recém-nascido. A APV usa “você” em todo diálogo entre pessoas, também na poesia."
+   }
+  ]
+ },
+ "Luk.1.77": {
+  "t": "para dar ao seu povo o conhecimento da salvação, pelo perdão dos seus pecados,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "pelo perdão dos seus pecados",
+    "termo": "ἐν ἀφέσει ἁμαρτιῶν αὐτῶν",
+    "titulo": "en",
+    "texto": "A preposição en pode indicar o meio (“por meio do perdão”) ou o conteúdo (“que consiste no perdão”). Em ambos os casos, a salvação anunciada por João inclui o perdão (3:3). Aphesis é “soltura, libertação”: a mesma palavra que Jesus usará para a “libertação” dos cativos em 4:18."
+   }
+  ]
+ },
+ "Luk.1.78": {
+  "t": "graças à terna misericórdia do nosso Deus, pela qual o sol nascente nos visitará do alto,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "terna misericórdia",
+    "termo": "σπλάγχνα ἐλέους (splanchna eleous)",
+    "titulo": "“entranhas de misericórdia”",
+    "texto": "Splanchna são as entranhas, que os antigos tinham por sede das emoções. A expressão indica a compaixão mais profunda. “Terna misericórdia” transmite o sentido sem a imagem física."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "o sol nascente",
+    "termo": "ἀνατολὴ (anatolē)",
+    "titulo": "anatolē: “aurora”, “sol nascente” ou “Renovo”",
+    "texto": "Anatolē é o nascer do sol (daí “oriente”). Na Septuaginta, a mesma palavra traduz o hebraico tsemah, “Renovo, Rebento”, título messiânico do descendente de Davi (Jr 23:5; Zc 3:8; 6:12). Lucas pode jogar com os dois sentidos: “do alto” e “brilhar” (v. 79) pedem a imagem da luz (Ml 4:2, “o sol da justiça”; Nm 24:17, “uma estrela procederá de Jacó”). “Sol nascente” mantém a imagem; a nota guarda o eco messiânico.",
+    "revisar": true
+   },
+   {
+    "tipo": "tc",
+    "ancora": "nos visitará",
+    "termo": "ἐπισκέψεται (episkepsetai) / ἐπεσκέψατο (epeskepsato)",
+    "titulo": "futuro ou passado",
+    "texto": "O texto-base traz o futuro episkepsetai (“visitará”); o Textus Receptus e o Texto Bizantino, o aoristo epeskepsato (“visitou”), talvez assimilado ao v. 68. O futuro tem bom apoio entre os manuscritos antigos e combina com o tom profético da segunda parte do cântico."
+   }
+  ]
+ },
+ "Luk.1.79": {
+  "t": "para brilhar sobre os que estão sentados nas trevas e na sombra da morte, e para guiar os nossos pés no caminho da paz.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "sentados nas trevas e na sombra da morte",
+    "termo": "τοῖς ἐν σκότει καὶ σκιᾷ θανάτου καθημένοις",
+    "titulo": "Isaías 9",
+    "texto": "Eco de Is 9:2 (9:1 no hebraico e na Septuaginta): “o povo que andava em trevas viu uma grande luz; sobre os que habitavam na terra da sombra da morte resplandeceu a luz”. Também Is 42:7 e Sl 107:10. Mateus cita o mesmo texto no início do ministério de Jesus (Mt 4:16)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "guiar",
+    "termo": "κατευθῦναι (kateuthynai)",
+    "titulo": "kateuthynō",
+    "texto": "“Endireitar, dirigir em linha reta” (1Ts 3:11; 2Ts 3:5). A imagem é a de quem tira os pés de um viajante perdido no escuro e os põe no caminho certo."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "no caminho da paz",
+    "termo": "εἰς ὁδὸν εἰρήνης",
+    "titulo": "a paz",
+    "texto": "A paz (shalom) é a plenitude que o Messias traz (Is 9:6-7; 59:8). O tema reaparece no cântico dos anjos (2:14) e no de Simeão (2:29)."
+   }
+  ]
+ },
+ "Luk.1.80": {
+  "t": "O menino crescia e se fortalecia em espírito, e viveu nos lugares desertos até o dia em que se apresentou publicamente a Israel.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "se fortalecia em espírito",
+    "termo": "ἐκραταιοῦτο πνεύματι (ekrataiouto pneumati)",
+    "titulo": "espírito ou Espírito",
+    "texto": "Pode ser o espírito humano de João, que amadurecia, ou o Espírito Santo, de quem ele estava cheio (v. 15). A frase repete a fórmula usada para Sansão e Samuel (Jz 13:24-25; 1Sm 2:21, 26) e para Jesus (2:40). Minúscula, porque a construção descreve o crescimento do menino; a outra leitura é possível."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "se apresentou publicamente",
+    "termo": "ἀναδείξεως (anadeixeōs)",
+    "titulo": "anadeixis, hápax",
+    "texto": "“Manifestação, apresentação pública”, termo usado para a posse de alguém num cargo. Indica o início do ministério de João (3:2)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "nos lugares desertos",
+    "termo": "ἐν ταῖς ἐρήμοις",
+    "titulo": "o deserto",
+    "texto": "O deserto de Judá, a leste, perto do mar Morto. É lugar de preparação e de novo começo na história de Israel (Os 2:14). Alguns relacionaram João à comunidade de Qumran, que ficava nessa região, mas o texto não sugere essa ligação, e ela permanece hipotética."
+   }
+  ]
+ },
+ "Luk.2.1": {
+  "t": "Naqueles dias, saiu um decreto de César Augusto ordenando que se fizesse o recenseamento de todo o mundo habitado.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "César Augusto",
+    "termo": "Καίσαρος Αὐγούστου",
+    "titulo": "o imperador",
+    "texto": "Otaviano, primeiro imperador de Roma, que recebeu do Senado o título de Augusto (“venerável”) e reinou de 27 a.C. a 14 d.C. Inscrições do império o chamavam “salvador” e celebravam seu nascimento como “boa notícia” e início de uma era de paz. Lucas põe lado a lado o imperador e o menino que os anjos chamarão “Salvador” (v. 11) e que traz paz (v. 14)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "todo o mundo habitado",
+    "termo": "πᾶσαν τὴν οἰκουμένην (pasan tēn oikoumenēn)",
+    "titulo": "oikoumenē",
+    "texto": "Lit. “toda a terra habitada”. No uso romano, a expressão designava o território do império (At 11:28; 17:6). Não há registro de um único censo de todo o império sob Augusto; a frase pode referir-se à política geral de recenseamentos provinciais que ele promoveu."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "recenseamento",
+    "termo": "ἀπογράφεσθαι (apographesthai)",
+    "titulo": "apographō",
+    "texto": "Registrar-se numa lista oficial, para fins de impostos. Não é contagem de pessoas, mas inscrição de pessoas e bens."
+   }
+  ]
+ },
+ "Luk.2.2": {
+  "t": "Este primeiro recenseamento foi feito quando Quirino era governador da Síria.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "quando Quirino era governador da Síria",
+    "termo": "ἡγεμονεύοντος τῆς Συρίας Κυρηνίου",
+    "titulo": "a questão de Quirino",
+    "texto": "Públio Sulpício Quirino foi legado da Síria a partir de 6 d.C., quando, segundo o historiador Josefo, fez um censo na Judeia, que acabava de passar ao governo romano direto (cf. At 5:37). Herodes, o Grande, porém, morreu em 4 a.C. (cf. 1:5; Mt 2:1). As principais propostas de solução: (1) Quirino teria exercido algum comando na região antes, por volta de 6-4 a.C.; (2) prōtē, com o genitivo, poderia ser lido “antes de Quirino ser governador”, isto é, um registro anterior ao famoso censo de 6 d.C.; (3) Lucas teria confundido as datas. A segunda leitura é gramaticalmente possível, mas incomum. A APV traduz a forma mais natural da frase e deixa a questão aberta.",
+    "revisar": true
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Este primeiro recenseamento",
+    "termo": "αὕτη ἀπογραφὴ πρώτη ἐγένετο",
+    "titulo": "“primeiro”",
+    "texto": "“Primeiro” pode distinguir este registro de um posterior (o de 6 d.C.) ou ser o primeiro realizado sob a administração de Quirino. Veja a nota seguinte."
+   }
+  ]
+ },
+ "Luk.2.3": {
+  "t": "Todos iam se registrar, cada um na sua própria cidade.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "cada um na sua própria cidade",
+    "termo": "ἕκαστος εἰς τὴν ἑαυτοῦ πόλιν",
+    "titulo": "a cidade de origem",
+    "texto": "Um documento do Egito romano (um édito do prefeito de 104 d.C.) manda que os que moravam fora voltassem às suas casas para o recenseamento. Em Israel, a ligação de cada família à terra dos antepassados tornava natural o registro na cidade de origem."
+   }
+  ]
+ },
+ "Luk.2.4": {
+  "t": "Também José subiu da Galileia, da cidade de Nazaré, para a Judeia, à cidade de Davi, chamada Belém, porque era da casa e da família de Davi,",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "à cidade de Davi, chamada Belém",
+    "termo": "εἰς πόλιν Δαυὶδ ἥτις καλεῖται Βηθλέεμ",
+    "titulo": "Belém",
+    "texto": "No AT, “cidade de Davi” é Jerusalém (2Sm 5:7). Lucas a aplica a Belém, onde Davi nasceu e foi ungido (1Sm 16:1-13; 17:12). Mq 5:2 anunciava que de Belém sairia o governante de Israel. Belém fica a cerca de 8 km ao sul de Jerusalém."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "subiu",
+    "termo": "ἀνέβη (anebē)",
+    "titulo": "subir",
+    "texto": "“Subir” é o verbo usado para viagens rumo à Judeia e a Jerusalém, situadas nas montanhas."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "da casa e da família de Davi",
+    "termo": "ἐξ οἴκου καὶ πατριᾶς Δαυίδ",
+    "titulo": "patria",
+    "texto": "Patria (raro no NT) é o clã, a linhagem paterna. Os dois termos juntos reforçam a descendência davídica de José."
+   }
+  ]
+ },
+ "Luk.2.5": {
+  "t": "para se registrar com Maria, sua noiva, que estava grávida.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "sua noiva",
+    "termo": "τῇ ἐμνηστευμένῃ αὐτῷ (tē emnēsteumenē autō)",
+    "titulo": "“prometida a ele”",
+    "texto": "Lit. “a que lhe tinha sido prometida”. Mateus diz que José a recebeu como esposa, mas não teve relações com ela até o nascimento (Mt 1:24-25). Lucas mantém a palavra “prometida”, talvez para lembrar que a criança não é filha de José."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "sua noiva",
+    "termo": "τῇ ἐμνηστευμένῃ αὐτῷ (+ γυναικί)",
+    "titulo": "“sua mulher prometida”",
+    "texto": "O Textus Receptus e o Texto Bizantino acrescentam gynaiki: “a mulher que lhe estava prometida”. O texto-base, mais breve, tem apoio dos manuscritos mais antigos."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "grávida",
+    "termo": "ἐγκύῳ (enkyō)",
+    "titulo": "enkyos, hápax",
+    "texto": "Palavra comum no grego para mulher grávida. Sentido seguro."
+   }
+  ]
+ },
+ "Luk.2.6": {
+  "t": "Enquanto estavam ali, completaram-se os dias em que ela devia dar à luz,",
+  "n": []
+ },
+ "Luk.2.7": {
+  "t": "e ela deu à luz o seu filho primogênito. Envolveu-o em faixas e o deitou numa manjedoura, porque não havia lugar para eles no alojamento.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "primogênito",
+    "termo": "τὸν πρωτότοκον (ton prōtotokon)",
+    "titulo": "prōtotokos",
+    "texto": "O primeiro filho, com os direitos e a consagração que a Lei lhe dava (Êx 13:2; Lc 2:23). A palavra não afirma nem exclui que Maria tenha tido outros filhos depois; o debate sobre os “irmãos” de Jesus (8:19-20) se decide em outros textos. Paulo usa o termo para Cristo em sentido de preeminência (Cl 1:15, 18; Rm 8:29)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Envolveu-o em faixas",
+    "termo": "ἐσπαργάνωσεν (esparganōsen)",
+    "titulo": "sparganoō",
+    "texto": "Envolver o recém-nascido em tiras de pano, cuidado normal de mãe (Ez 16:4; Sb 7:4). Não indica pobreza extrema, mas cuidado. As faixas e a manjedoura serão o sinal dado aos pastores (v. 12)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "manjedoura",
+    "termo": "φάτνῃ (phatnē)",
+    "titulo": "phatnē",
+    "texto": "O cocho onde se põe a comida dos animais (13:15). Pode ter estado num estábulo, numa gruta (tradição antiga registrada por Justino) ou na parte baixa de uma casa camponesa, onde os animais ficavam à noite. Is 1:3 LXX: “o jumento conhece a manjedoura do seu dono”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "no alojamento",
+    "termo": "ἐν τῷ καταλύματι (en tō katalymati)",
+    "titulo": "katalyma: “hospedaria” ou “quarto de hóspedes”",
+    "texto": "Katalyma é o lugar onde se desfaz a bagagem para pousar. Em 22:11 designa o cômodo de hóspedes de uma casa; para a hospedaria comercial, Lucas usa outra palavra (pandocheion, 10:34). Por isso muitos estudiosos (p. ex., K. E. Bailey) entendem que a família estava numa casa de parentes, cujo quarto de hóspedes estava ocupado, e que o bebê foi posto na manjedoura da parte da casa usada pelos animais. “Hospedaria”, forma tradicional, também é possível. “Alojamento” deixa as duas leituras abertas.",
+    "revisar": true
+   }
+  ]
+ },
+ "Luk.2.8": {
+  "t": "Naquela mesma região havia pastores que passavam a noite no campo, guardando o seu rebanho nas vigílias da noite.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "passavam a noite no campo",
+    "termo": "ἀγραυλοῦντες (agraulountes)",
+    "titulo": "agrauleō, hápax",
+    "texto": "“Viver ao ar livre, acampar no campo”. Sentido seguro pelo uso fora do NT."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "guardando o seu rebanho nas vigílias da noite",
+    "termo": "φυλάσσοντες φυλακὰς τῆς νυκτὸς",
+    "titulo": "“guardando guardas”",
+    "texto": "Lit. “guardando as guardas da noite sobre o rebanho”: revezavam-se nos turnos noturnos."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "pastores",
+    "termo": "ποιμένες (poimenes)",
+    "titulo": "os primeiros a ouvir",
+    "texto": "Davi foi pastor em Belém (1Sm 16:11), e Deus se apresenta como pastor de Israel (Sl 23; Ez 34). A primeira notícia do nascimento vai a trabalhadores simples, não às autoridades, de acordo com o tema da inversão em Lucas (1:52). A afirmação de que pastores eram desprezados vem sobretudo de textos rabínicos posteriores e não deve ser exagerada."
+   }
+  ]
+ },
+ "Luk.2.9": {
+  "t": "Um anjo do Senhor se pôs diante deles, e a glória do Senhor brilhou ao redor deles; e ficaram tomados de grande temor.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "a glória do Senhor",
+    "termo": "δόξα κυρίου (doxa kyriou)",
+    "titulo": "a glória",
+    "texto": "A manifestação visível da presença de Deus, como na nuvem do deserto e no templo (Êx 16:10; 40:34-35; 1Rs 8:11). Agora ela brilha num campo, diante de pastores."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "ficaram tomados de grande temor",
+    "termo": "ἐφοβήθησαν φόβον μέγαν",
+    "titulo": "“temeram um grande temor”",
+    "texto": "Lit. “temeram um grande temor”, construção hebraizante que intensifica o verbo."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Um anjo do Senhor",
+    "termo": "καὶ (+ ἰδοὺ) ἄγγελος κυρίου",
+    "titulo": "“eis que”",
+    "texto": "O Textus Receptus, o Texto Bizantino e Tregelles acrescentam idou (“eis que”). Sem efeito no sentido."
+   }
+  ]
+ },
+ "Luk.2.10": {
+  "t": "Mas o anjo lhes disse: “Não tenham medo. Eu lhes anuncio uma boa notícia que será de grande alegria para todo o povo:",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Eu lhes anuncio uma boa notícia que será de grande alegria",
+    "termo": "εὐαγγελίζομαι ὑμῖν χαρὰν μεγάλην",
+    "titulo": "“anuncio-lhes grande alegria”",
+    "texto": "Lit. “anuncio-lhes como boa notícia uma grande alegria”. O verbo euangelizomai (veja a nota em 1:19) tem por objeto a própria alegria. Desdobrou-se a frase para manter as duas ideias: boa notícia e grande alegria."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "para todo o povo",
+    "termo": "παντὶ τῷ λαῷ",
+    "titulo": "o povo",
+    "texto": "Em Lucas, laos (“povo”) com artigo é quase sempre Israel. A abertura às nações vem logo depois, no cântico de Simeão (v. 32)."
+   }
+  ]
+ },
+ "Luk.2.11": {
+  "t": "hoje, na cidade de Davi, nasceu para vocês um Salvador, que é o Cristo, o Senhor.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "o Cristo",
+    "termo": "χριστὸς (christos)",
+    "titulo": "Cristo: “Messias, Ungido”",
+    "texto": "Christos é a tradução grega do hebraico mashiach, “ungido”, de onde vem “Messias”. No AT, eram ungidos os reis, os sacerdotes e, às vezes, profetas; o título passou a designar o rei prometido da linhagem de Davi. Nos Evangelhos é um título, não ainda um nome próprio; por isso a APV escreve “o Cristo” quando o contexto pede o título."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "um Salvador, que é o Cristo, o Senhor",
+    "termo": "σωτὴρ ὅς ἐστιν χριστὸς κύριος",
+    "titulo": "três títulos",
+    "texto": "Os três títulos aparecem juntos só aqui nos Evangelhos. “Salvador” era título dado a Deus no AT (1:47) e, no mundo romano, ao imperador. A combinação “Cristo Senhor”, sem artigo e sem conjunção, é rara: aparece na Septuaginta de Lm 4:20 e nos Salmos de Salomão (17:32). Pode ser entendida como “o Messias, que é Senhor” ou “o Messias do Senhor” (cf. v. 26). A tradução põe os dois títulos em sequência, como no grego."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "hoje",
+    "termo": "σήμερον (sēmeron)",
+    "titulo": "o “hoje” de Lucas",
+    "texto": "Palavra marcante em Lucas para o tempo em que a salvação se torna presente (4:21; 19:9; 23:43)."
+   }
+  ]
+ },
+ "Luk.2.12": {
+  "t": "E este será o sinal para vocês: encontrarão um bebê envolto em faixas e deitado numa manjedoura.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "o sinal",
+    "termo": "τὸ σημεῖον (to sēmeion)",
+    "titulo": "um sinal humilde",
+    "texto": "Como Acaz em Is 7:14, os pastores recebem um sinal. O contraste é intencional: o Salvador, Cristo e Senhor se reconhece por estar num cocho de animais."
+   }
+  ]
+ },
+ "Luk.2.13": {
+  "t": "De repente, juntou-se ao anjo uma multidão do exército celestial, que louvava a Deus, dizendo:",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "exército celestial",
+    "termo": "στρατιᾶς οὐρανίου (stratias ouraniou)",
+    "titulo": "stratia",
+    "texto": "“Exército, tropa”. Na Septuaginta, “exército do céu” designa as hostes de anjos (1Rs 22:19) ou os astros. É a corte celeste de Deus, “o SENHOR dos Exércitos”."
+   }
+  ]
+ },
+ "Luk.2.14": {
+  "t": "“Glória a Deus nas maiores alturas, e na terra, paz entre os homens do seu agrado!”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Glória a Deus nas maiores alturas",
+    "termo": "δόξα ἐν ὑψίστοις θεῷ",
+    "titulo": "o cântico dos anjos",
+    "texto": "Um dístico em paralelismo perfeito: glória / paz; nas alturas / na terra; a Deus / aos homens. Na tradição latina chama-se Gloria in excelsis. Não há verbo no grego: pode ser declaração (“há glória”) ou desejo (“seja dada glória”). “Nas maiores alturas” traduz o plural en hypsistois, “nos lugares altíssimos”, como em Jó 16:19 e Sl 148:1 (LXX)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "do seu agrado",
+    "termo": "εὐδοκίας (eudokias) / εὐδοκία (eudokia)",
+    "titulo": "uma letra, dois sentidos",
+    "texto": "O texto-base traz o genitivo eudokias: “paz entre os homens da boa vontade (de Deus)”, isto é, os que recebem o favor de Deus. O Textus Receptus e o Texto Bizantino trazem o nominativo eudokia, e o verso se divide em três partes: “glória a Deus nas alturas, paz na terra, boa vontade para com os homens” (assim ARC). Os manuscritos mais antigos, gregos e latinos (a Vulgata traduz hominibus bonae voluntatis), apoiam o genitivo, e a forma tem paralelo em hinos de Qumran (“filhos do seu agrado”). A diferença no grego é uma única letra final (um sigma), que podia ser omitida ou acrescentada facilmente (Metzger)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "os homens do seu agrado",
+    "termo": "ἀνθρώποις εὐδοκίας (anthrōpois eudokias)",
+    "titulo": "eudokia",
+    "texto": "Eudokia é o agrado, a vontade favorável de Deus (10:21; Ef 1:5, 9). O agrado é de Deus, não “boa vontade” humana: a paz não é prêmio para quem tem boas disposições, mas dom para aqueles a quem Deus quer bem. “Homens” é genérico, inclui homens e mulheres."
+   }
+  ]
+ },
+ "Luk.2.15": {
+  "t": "Quando os anjos os deixaram e voltaram para o céu, os pastores disseram uns aos outros: “Vamos agora mesmo a Belém, para ver isso que aconteceu e que o Senhor nos deu a conhecer.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "isso que aconteceu",
+    "termo": "τὸ ῥῆμα τοῦτο τὸ γεγονὸς",
+    "titulo": "rhēma",
+    "texto": "Lit. “esta palavra que aconteceu”. Rhēma, como o hebraico davar, une “palavra” e “fato”: o que foi dito e o que aconteceu (1:37, 65)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Vamos agora mesmo",
+    "termo": "διέλθωμεν δὴ (dielthōmen dē)",
+    "titulo": "dē",
+    "texto": "A partícula dē dá urgência à exortação: “vamos, então!”, “vamos já”."
+   }
+  ]
+ },
+ "Luk.2.16": {
+  "t": "Foram depressa e encontraram Maria, José e o bebê deitado na manjedoura.",
+  "n": []
+ },
+ "Luk.2.17": {
+  "t": "Ao vê-lo, contaram o que lhes tinha sido dito a respeito desse menino.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "contaram",
+    "termo": "ἐγνώρισαν (egnōrisan)",
+    "titulo": "os primeiros anunciadores",
+    "texto": "O verbo é o mesmo do v. 15: o Senhor “deu a conhecer” aos pastores, e eles “dão a conhecer” aos outros. Os pastores tornam-se as primeiras testemunhas do nascimento."
+   }
+  ]
+ },
+ "Luk.2.18": {
+  "t": "E todos os que ouviram ficaram admirados com o que os pastores lhes diziam.",
+  "n": []
+ },
+ "Luk.2.19": {
+  "t": "Maria, porém, guardava todas essas coisas, meditando sobre elas em seu coração.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "meditando sobre elas",
+    "termo": "συμβάλλουσα (symballousa)",
+    "titulo": "symballō",
+    "texto": "Lit. “pondo junto, comparando”. Maria não só guarda os fatos na memória, mas os compara e procura entender o seu sentido. Synthēreō (“guardar, conservar”, raro no NT) indica cuidado em preservar."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "todas essas coisas",
+    "termo": "πάντα ... τὰ ῥήματα ταῦτα",
+    "titulo": "Maria como testemunha",
+    "texto": "Muitos intérpretes veem nesta observação (e em 2:51) uma indicação de que as memórias de Maria estão por trás das narrativas da infância, de acordo com o que Lucas diz das testemunhas em 1:2. O texto não o afirma diretamente."
+   }
+  ]
+ },
+ "Luk.2.20": {
+  "t": "Os pastores voltaram glorificando e louvando a Deus por tudo o que tinham ouvido e visto, conforme lhes fora dito.",
+  "n": []
+ },
+ "Luk.2.21": {
+  "t": "Completados os oito dias para a circuncisão do menino, deram-lhe o nome de Jesus, o nome dado pelo anjo antes de ele ser concebido no ventre.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "deram-lhe o nome de Jesus",
+    "termo": "ἐκλήθη τὸ ὄνομα αὐτοῦ Ἰησοῦς",
+    "titulo": "obediência à Lei e à palavra",
+    "texto": "Lit. “foi chamado o seu nome Jesus”. Os pais cumprem a Lei (a circuncisão, Lv 12:3) e a palavra do anjo (1:31). Os vv. 21-39 insistem que tudo foi feito “segundo a Lei” (vv. 22, 23, 24, 27, 39)."
+   }
+  ]
+ },
+ "Luk.2.22": {
+  "t": "Quando se completaram os dias da purificação deles, segundo a Lei de Moisés, levaram-no a Jerusalém para apresentá-lo ao Senhor,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "da purificação deles",
+    "termo": "τοῦ καθαρισμοῦ αὐτῶν (tou katharismou autōn)",
+    "titulo": "de quem?",
+    "texto": "Segundo Lv 12:1-8, só a mãe precisava ser purificada, quarenta dias depois do parto de um menino. O plural “deles” pode incluir José, que participava da viagem e da oferta, ou unir a purificação da mãe e o resgate do primogênito numa só cerimônia familiar. A APV mantém o plural do original."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "para apresentá-lo ao Senhor",
+    "termo": "παραστῆσαι τῷ κυρίῳ",
+    "titulo": "a consagração do primogênito",
+    "texto": "A Lei mandava resgatar o primogênito com cinco siclos (Nm 18:15-16), sem exigir que fosse levado ao templo. A apresentação lembra a de Samuel, entregue ao SENHOR no santuário (1Sm 1:22-28). Lucas não menciona o pagamento do resgate."
+   }
+  ]
+ },
+ "Luk.2.23": {
+  "t": "como está escrito na Lei do Senhor: “Todo primogênito do sexo masculino será consagrado ao Senhor”,",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "na Lei do Senhor",
+    "termo": "ἐν νόμῳ κυρίου",
+    "titulo": "citação de Êxodo 13",
+    "texto": "Citação livre de Êx 13:2, 12, 15. Nas duas ocorrências de kyrios no versículo, o hebraico tem o nome divino YHWH."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Todo primogênito do sexo masculino",
+    "termo": "πᾶν ἄρσεν διανοῖγον μήτραν",
+    "titulo": "“todo macho que abre o útero”",
+    "texto": "Lit. “todo macho que abre o útero”, expressão hebraica para o primeiro filho. Traduzida pelo sentido. “Será consagrado” traduz “será chamado santo”, isto é, separado para Deus."
+   }
+  ]
+ },
+ "Luk.2.24": {
+  "t": "e para oferecer um sacrifício, conforme o que é dito na Lei do Senhor: “um par de rolinhas ou dois pombinhos”.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "um par de rolinhas ou dois pombinhos",
+    "termo": "ζεῦγος τρυγόνων ἢ δύο νοσσοὺς περιστερῶν",
+    "titulo": "a oferta dos pobres",
+    "texto": "Citação de Lv 12:8 (cf. 5:11). A oferta normal era um cordeiro e uma ave; quem não podia pagar o cordeiro oferecia duas aves. A família de Jesus era pobre. Kyrios aqui traduz YHWH do texto da Lei."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "rolinhas",
+    "termo": "τρυγόνων (trygonōn)",
+    "titulo": "trygōn e neossos, hápax",
+    "texto": "Trygōn é a rola; neossos, o filhote de ave. As duas palavras só aparecem aqui no NT, vindas da Septuaginta de Levítico. Sentido seguro."
+   }
+  ]
+ },
+ "Luk.2.25": {
+  "t": "Havia em Jerusalém um homem chamado Simeão. Era justo e piedoso, e esperava a consolação de Israel; e o Espírito Santo estava sobre ele.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "piedoso",
+    "termo": "εὐλαβὴς (eulabēs)",
+    "titulo": "eulabēs",
+    "texto": "Cuidadoso nas coisas de Deus, reverente (At 2:5; 8:2). “Piedoso” é o equivalente mais próximo."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "a consolação de Israel",
+    "termo": "παράκλησιν τοῦ Ἰσραήλ",
+    "titulo": "Isaías 40",
+    "texto": "A expressão retoma Is 40:1 (“consolem, consolem o meu povo”) e 49:13; 66:13, onde a consolação é a restauração messiânica de Israel. Equivale à “redenção de Jerusalém” do v. 38."
+   }
+  ]
+ },
+ "Luk.2.26": {
+  "t": "O Espírito Santo lhe havia revelado que ele não veria a morte antes de ver o Cristo do Senhor.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "lhe havia revelado",
+    "termo": "ἦν αὐτῷ κεχρηματισμένον (ēn autō kechrēmatismenon)",
+    "titulo": "chrēmatizō",
+    "texto": "Verbo usado para uma comunicação divina, um oráculo (Mt 2:12; At 10:22; Hb 8:5)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "o Cristo do Senhor",
+    "termo": "τὸν χριστὸν κυρίου",
+    "titulo": "o ungido do SENHOR",
+    "texto": "Expressão do AT para o rei ungido por Deus (1Sm 24:6; 26:9; Sl 2:2). Aqui designa o Messias esperado. Kyrios é Deus."
+   }
+  ]
+ },
+ "Luk.2.27": {
+  "t": "Movido pelo Espírito, ele foi ao templo. Quando os pais trouxeram o menino Jesus para fazer por ele o que a Lei costumava exigir,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Movido pelo Espírito",
+    "termo": "ἐν τῷ πνεύματι (en tō pneumati)",
+    "titulo": "“no Espírito”",
+    "texto": "Lit. “no Espírito”: sob a direção do Espírito Santo, mencionado nos dois versículos anteriores."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "templo",
+    "termo": "ἱερόν (hieron)",
+    "titulo": "hieron",
+    "texto": "O conjunto do templo com seus pátios, onde homens e mulheres podiam estar. Veja a nota em 1:9 sobre naos (“santuário”)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "o que a Lei costumava exigir",
+    "termo": "κατὰ τὸ εἰθισμένον τοῦ νόμου",
+    "titulo": "ethizō, hápax",
+    "texto": "Lit. “segundo o costume da Lei”, isto é, o que a Lei prescrevia e era praticado habitualmente."
+   }
+  ]
+ },
+ "Luk.2.28": {
+  "t": "Simeão o tomou nos braços e bendisse a Deus, dizendo:",
+  "n": []
+ },
+ "Luk.2.29": {
+  "t": "“Agora, Soberano, deixas partir em paz o teu servo, segundo a tua palavra,",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "deixas partir em paz o teu servo",
+    "termo": "νῦν ἀπολύεις τὸν δοῦλόν σου",
+    "titulo": "o cântico de Simeão",
+    "texto": "O cântico (vv. 29-32), conhecido como Nunc dimittis por suas primeiras palavras latinas, é feito quase só de frases de Isaías. Apolyō é “soltar, despedir”: pode ser o senhor que liberta o escravo ou dispensa a sentinela no fim do turno. Simeão, como servo que viu o que esperava, recebe licença para morrer em paz (cf. Gn 15:15; 46:30, Jacó: “agora posso morrer, depois de ver o seu rosto”). O presente “deixas” pode ser lido como pedido (“deixa agora”)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Soberano",
+    "termo": "δέσποτα (despota)",
+    "titulo": "despotēs",
+    "texto": "Despotēs é o senhor absoluto, dono de escravos; doulos (“servo”) é o seu correlato. A APV traduz despotēs por “Soberano” para distingui-lo de kyrios (“Senhor”). Veja a nota em 1:38 sobre doulē, “serva” ou “escrava”."
+   }
+  ]
+ },
+ "Luk.2.30": {
+  "t": "porque os meus olhos viram a tua salvação,",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "a tua salvação",
+    "termo": "τὸ σωτήριόν σου (to sōtērion sou)",
+    "titulo": "Isaías 40:5",
+    "texto": "Sōtērion (forma neutra, “o meio de salvação”) é a palavra da Septuaginta em Is 40:5: “e toda carne verá a salvação de Deus” (citado por Lucas em 3:6). Ver o menino é ver a salvação, porque ele é a salvação de Deus em pessoa. Também Is 52:10."
+   }
+  ]
+ },
+ "Luk.2.31": {
+  "t": "que preparaste diante de todos os povos:",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "diante de todos os povos",
+    "termo": "κατὰ πρόσωπον πάντων τῶν λαῶν",
+    "titulo": "“diante da face”",
+    "texto": "Lit. “diante da face de todos os povos”. O plural laoi inclui Israel e as nações, que o v. 32 distingue. Eco de Is 52:10: “o SENHOR desnudou o seu santo braço à vista de todas as nações”."
+   }
+  ]
+ },
+ "Luk.2.32": {
+  "t": "luz para revelação às nações e glória do teu povo, Israel.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "luz para revelação às nações",
+    "termo": "φῶς εἰς ἀποκάλυψιν ἐθνῶν",
+    "titulo": "o Servo de Isaías",
+    "texto": "O Servo do SENHOR é chamado “luz das nações” em Is 42:6 e 49:6 (texto que Paulo aplica à sua missão em At 13:47). A salvação de Israel é também para os gentios, tema que Lucas desenvolve em todo o evangelho e em Atos. “Glória” retoma Is 46:13 (“darei a salvação em Sião, e a minha glória a Israel”)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "e glória do teu povo",
+    "termo": "καὶ δόξαν λαοῦ σου Ἰσραήλ",
+    "titulo": "sintaxe",
+    "texto": "“Luz” e “glória” podem estar ambas em aposição a “salvação” (v. 30), ou “glória” pode depender de eis, em paralelo com “revelação” (“luz para revelação às nações e para glória do teu povo”). O sentido final é o mesmo: o Messias é luz para as nações e glória de Israel."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "nações",
+    "termo": "ἐθνῶν (ethnōn)",
+    "titulo": "ethnē",
+    "texto": "Ethnē, “nações”, designa os povos não judeus, os gentios."
+   }
+  ]
+ },
+ "Luk.2.33": {
+  "t": "O pai e a mãe do menino estavam admirados com o que se dizia a respeito dele.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "O pai e a mãe do menino",
+    "termo": "ὁ πατὴρ αὐτοῦ καὶ ἡ μήτηρ / Ἰωσὴφ καὶ ἡ μήτηρ αὐτοῦ",
+    "titulo": "“seu pai” ou “José”",
+    "texto": "O texto-base traz “o pai dele e a mãe”. O Textus Receptus e o Texto Bizantino trazem “José e a mãe dele”. A troca parece obra de copistas que quiseram evitar chamar José de “pai”, por zelo pela concepção virginal (Metzger). Lucas, que narra essa concepção (1:34-35), usa “pai” e “pais” para José sem constrangimento (2:41, 48), no sentido legal e de criação."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "O pai e a mãe do menino",
+    "termo": "ὁ πατὴρ αὐτοῦ καὶ ἡ μήτηρ",
+    "titulo": "“o pai dele e a mãe”",
+    "texto": "Lit. “o pai dele e a mãe”. O verbo está no singular no grego, concordando com o primeiro sujeito, como é comum. “Do menino” foi posto para evitar ambiguidade com Simeão."
+   }
+  ]
+ },
+ "Luk.2.34": {
+  "t": "Simeão os abençoou e disse a Maria, mãe do menino: “Eis que este está destinado a causar a queda e o reerguimento de muitos em Israel, e a ser um sinal que será contestado",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "está destinado",
+    "termo": "κεῖται (keitai)",
+    "titulo": "keimai",
+    "texto": "Lit. “está posto”, como uma pedra posta por Deus. Eco de Is 8:14-15 (pedra de tropeço) e 28:16 (pedra angular), textos que o NT aplica a Jesus (20:17-18; Rm 9:33; 1Pe 2:6-8)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "a queda e o reerguimento de muitos",
+    "termo": "εἰς πτῶσιν καὶ ἀνάστασιν πολλῶν",
+    "titulo": "um grupo ou dois?",
+    "texto": "Pode significar dois grupos (uns caem, outros se levantam: 1:52) ou o mesmo grupo (muitos caem para depois se levantar). A leitura de dois grupos combina melhor com “sinal que será contestado”. Anastasis é a palavra usada para “ressurreição”; aqui tem o sentido mais amplo de “levantar-se”, mas o leitor cristão percebe o eco."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "um sinal que será contestado",
+    "termo": "σημεῖον ἀντιλεγόμενον (sēmeion antilegomenon)",
+    "titulo": "antilegō",
+    "texto": "“Um sinal contra o qual se fala”: Jesus será objeto de oposição (At 28:22). O presente do particípio indica oposição contínua."
+   }
+  ]
+ },
+ "Luk.2.35": {
+  "t": "(e uma espada atravessará também a sua própria alma), para que se revelem os pensamentos de muitos corações.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "e uma espada atravessará também a sua própria alma",
+    "termo": "καὶ σοῦ δὲ αὐτῆς τὴν ψυχὴν διελεύσεται ῥομφαία",
+    "titulo": "parêntese",
+    "texto": "A frase interrompe a sequência entre o v. 34 e “para que se revelem os pensamentos”; por isso os parênteses, adotados por várias edições. Rhomphaia é uma espada grande. A maioria dos intérpretes vê aqui a dor de Maria diante da rejeição e da cruz do filho (Jo 19:25). Outros, apoiados em Ez 14:17 LXX (“uma espada passe pela terra”), entendem uma espada de divisão e juízo que também alcança Maria, chamada a decidir-se diante do filho (8:19-21; 11:27-28)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "os pensamentos",
+    "termo": "διαλογισμοί (dialogismoi)",
+    "titulo": "dialogismos",
+    "texto": "Em Lucas, quase sempre pensamentos ou questionamentos de oposição (5:22; 6:8; 9:47; 24:38). Diante de Jesus, o que está oculto no coração vem à tona."
+   }
+  ]
+ },
+ "Luk.2.36": {
+  "t": "Havia também uma profetisa, Ana, filha de Fanuel, da tribo de Aser. Era de idade muito avançada. Depois de se casar virgem, tinha vivido sete anos com o marido,",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Ana, filha de Fanuel, da tribo de Aser",
+    "termo": "Ἅννα ... Φανουήλ ... Ἀσήρ",
+    "titulo": "uma profetisa do norte",
+    "texto": "Ana tem o nome da mãe de Samuel (1Sm 1-2), cujo cântico ecoa no de Maria. Aser era uma das tribos do norte, levadas no exílio assírio; havia famílias que mantinham a memória da sua tribo. Fanuel é a forma grega de Penuel, “face de Deus”. Simeão e Ana, um homem e uma mulher, são duas testemunhas, como a Lei exigia (Dt 19:15)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Depois de se casar virgem",
+    "termo": "ἀπὸ τῆς παρθενίας αὐτῆς",
+    "titulo": "parthenia, hápax",
+    "texto": "Lit. “desde a sua virgindade”, isto é, desde que se casou ainda virgem. Sentido seguro."
+   }
+  ]
+ },
+ "Luk.2.37": {
+  "t": "e depois ficou viúva até os oitenta e quatro anos. Não se afastava do templo, servindo a Deus noite e dia com jejuns e orações.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "ficou viúva até os oitenta e quatro anos",
+    "termo": "χήρα ἕως ἐτῶν ὀγδοήκοντα τεσσάρων",
+    "titulo": "idade ou tempo de viuvez?",
+    "texto": "O grego permite (1) “viúva até a idade de 84 anos”, isto é, ela tinha 84 anos, ou (2) “viúva por 84 anos”, o que daria mais de cem anos de idade (por volta de 105, a idade de Judite em Jt 16:23). A primeira é a leitura mais natural de heōs (“até”); a segunda é defendida por alguns comentaristas. Em qualquer caso, o ponto é a longa fidelidade de uma viúva que não se casou de novo."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "servindo a Deus",
+    "termo": "λατρεύουσα (latreuousa)",
+    "titulo": "latreuō",
+    "texto": "Servir a Deus no culto. Veja a nota em 1:74. “A Deus” foi acrescentado para clareza."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Não se afastava do templo",
+    "termo": "οὐκ ἀφίστατο τοῦ ἱεροῦ",
+    "titulo": "hipérbole",
+    "texto": "Expressão hiperbólica: estava sempre no templo, em todas as horas de oração. Não significa necessariamente que morasse ali."
+   }
+  ]
+ },
+ "Luk.2.38": {
+  "t": "Chegando naquela mesma hora, ela dava graças a Deus e falava do menino a todos os que esperavam a redenção de Jerusalém.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "dava graças",
+    "termo": "ἀνθωμολογεῖτο (anthōmologeito)",
+    "titulo": "anthomologeomai, hápax",
+    "texto": "“Louvar, render graças em resposta”. Na Septuaginta, usado para o louvor público a Deus (Sl 79:13 = 78:13 LXX; Ed 3:11 LXX). Sentido seguro."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "a redenção de Jerusalém",
+    "termo": "λύτρωσιν Ἰερουσαλήμ",
+    "titulo": "Isaías 52:9",
+    "texto": "Eco de Is 52:9: “o SENHOR consolou o seu povo, redimiu Jerusalém”. A expressão é paralela à “consolação de Israel” (v. 25) e retoma a “redenção” do cântico de Zacarias (1:68)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "a redenção de Jerusalém",
+    "termo": "λύτρωσιν Ἰερουσαλήμ / λύτρωσιν ἐν Ἰερουσαλήμ",
+    "titulo": "“em Jerusalém”",
+    "texto": "O Textus Receptus e o Texto Bizantino trazem “a redenção em Jerusalém”, isto é, os que esperavam a redenção, ali em Jerusalém. Também trazem “ao Senhor” em lugar de “a Deus”. O texto-base tem apoio dos manuscritos mais antigos e corresponde ao eco de Isaías."
+   }
+  ]
+ },
+ "Luk.2.39": {
+  "t": "Depois de cumprirem tudo o que a Lei do Senhor exigia, voltaram para a Galileia, para Nazaré, a cidade deles.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "voltaram para a Galileia",
+    "termo": "ἐπέστρεψαν εἰς τὴν Γαλιλαίαν",
+    "titulo": "Lucas e Mateus",
+    "texto": "Lucas não narra a visita dos magos nem a fuga para o Egito (Mt 2), e passa do templo para Nazaré. Os dois relatos são independentes e seletivos; a ordem exata dos fatos entre eles não é dada por nenhum dos evangelistas."
+   }
+  ]
+ },
+ "Luk.2.40": {
+  "t": "O menino crescia e se fortalecia, cheio de sabedoria, e a graça de Deus estava sobre ele.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "se fortalecia",
+    "termo": "ἐκραταιοῦτο (+ πνεύματι)",
+    "titulo": "“em espírito”",
+    "texto": "O Textus Receptus e o Texto Bizantino acrescentam pneumati (“em espírito”), provavelmente trazido de 1:80, onde se diz o mesmo de João."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "a graça de Deus estava sobre ele",
+    "termo": "χάρις θεοῦ ἦν ἐπ᾽ αὐτό",
+    "titulo": "crescimento humano verdadeiro",
+    "texto": "Como João (1:80) e Samuel (1Sm 2:21, 26), Jesus cresce de verdade. A fé cristã confessa que o Filho eterno assumiu uma natureza humana completa, com desenvolvimento físico, intelectual e espiritual (Hb 2:17; 5:8; cf. a definição de Calcedônia, 451). “Cheio de sabedoria” traduz o particípio presente: a sabedoria ia enchendo o menino."
+   }
+  ]
+ },
+ "Luk.2.41": {
+  "t": "Todos os anos, os pais de Jesus iam a Jerusalém para a festa da Páscoa.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "a festa da Páscoa",
+    "termo": "τῇ ἑορτῇ τοῦ πάσχα",
+    "titulo": "a peregrinação",
+    "texto": "A Lei mandava que os homens subissem ao santuário nas três festas de peregrinação (Êx 23:14-17; Dt 16:16). Os que moravam longe iam ao menos na Páscoa. Que Maria fosse com José mostra a devoção da família."
+   }
+  ]
+ },
+ "Luk.2.42": {
+  "t": "Quando ele completou doze anos, subiram para a festa, segundo o costume.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "doze anos",
+    "termo": "ἐτῶν δώδεκα",
+    "titulo": "a idade",
+    "texto": "Aos treze anos o menino judeu passava a ser considerado responsável pelos mandamentos, segundo fontes judaicas posteriores. Aos doze, Jesus está às portas da vida adulta. Esta é a única cena dos Evangelhos entre a infância e o ministério."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "subiram para a festa",
+    "termo": "ἀναβαινόντων αὐτῶν (+ εἰς Ἱεροσόλυμα)",
+    "titulo": "“a Jerusalém”",
+    "texto": "O Textus Receptus, o Texto Bizantino e Tregelles acrescentam “a Jerusalém”. Sem efeito no sentido."
+   }
+  ]
+ },
+ "Luk.2.43": {
+  "t": "Terminados os dias da festa, quando voltavam, o menino Jesus ficou em Jerusalém, sem que os pais dele percebessem.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "os pais dele",
+    "termo": "οἱ γονεῖς αὐτοῦ / Ἰωσὴφ καὶ ἡ μήτηρ αὐτοῦ",
+    "titulo": "“os pais” ou “José e a mãe”",
+    "texto": "Como no v. 33, o Textus Receptus e o Texto Bizantino trocam “os pais dele” por “José e a mãe dele”, provavelmente para evitar que José fosse chamado de pai. O texto-base é o dos manuscritos mais antigos."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "o menino",
+    "termo": "ὁ παῖς (ho pais)",
+    "titulo": "pais",
+    "texto": "Pais aqui é “menino”, não mais paidion (“criancinha”, v. 40). A troca de palavra marca o crescimento."
+   }
+  ]
+ },
+ "Luk.2.44": {
+  "t": "Pensando que ele estivesse na caravana, andaram um dia de viagem e começaram a procurá-lo entre os parentes e conhecidos.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "caravana",
+    "termo": "συνοδίᾳ (synodia)",
+    "titulo": "synodia, hápax",
+    "texto": "Grupo de viajantes que caminham juntos. Peregrinos da mesma região viajavam em grupo, por segurança; um menino de doze anos podia estar com outros parentes."
+   }
+  ]
+ },
+ "Luk.2.45": {
+  "t": "Como não o encontraram, voltaram a Jerusalém à procura dele.",
+  "n": []
+ },
+ "Luk.2.46": {
+  "t": "Três dias depois, encontraram-no no templo, sentado no meio dos mestres, ouvindo-os e fazendo-lhes perguntas.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Três dias depois",
+    "termo": "μετὰ ἡμέρας τρεῖς",
+    "titulo": "três dias",
+    "texto": "Provavelmente contados a partir da saída: um dia de ida com a caravana, um de volta e um de busca em Jerusalém. Alguns intérpretes veem na expressão uma antecipação do terceiro dia da ressurreição (24:7, 46), mas Lucas não marca essa ligação."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "ouvindo-os e fazendo-lhes perguntas",
+    "termo": "ἀκούοντα αὐτῶν καὶ ἐπερωτῶντα αὐτούς",
+    "titulo": "o discípulo dos mestres",
+    "texto": "Jesus está na posição de quem aprende, conforme o costume de ensino por perguntas e respostas. O espanto (v. 47) vem da inteligência das respostas dele."
+   }
+  ]
+ },
+ "Luk.2.47": {
+  "t": "Todos os que o ouviam ficavam maravilhados com a sua inteligência e com as suas respostas.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "inteligência",
+    "termo": "συνέσει (synesei)",
+    "titulo": "synesis",
+    "texto": "Compreensão, entendimento profundo (Is 11:2 LXX: “espírito de sabedoria e de entendimento”)."
+   }
+  ]
+ },
+ "Luk.2.48": {
+  "t": "Quando seus pais o viram, ficaram espantados, e sua mãe lhe disse: “Filho, por que você fez isso conosco? Seu pai e eu estávamos aflitos à sua procura.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "estávamos aflitos à sua procura",
+    "termo": "ὀδυνώμενοι ἐζητοῦμέν σε",
+    "titulo": "odynaomai",
+    "texto": "Odynaomai é sofrer dor intensa, angústia (16:24-25; At 20:38). Maria descreve três dias de angústia."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Seu pai",
+    "termo": "ὁ πατήρ σου",
+    "titulo": "“seu pai” e “meu Pai”",
+    "texto": "Maria fala de José como “seu pai”; Jesus responde falando de “meu Pai” (v. 49). O contraste é a chave da cena."
+   }
+  ]
+ },
+ "Luk.2.49": {
+  "t": "Ele lhes respondeu: “Por que vocês estavam me procurando? Não sabiam que eu devia estar na casa de meu Pai?”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "na casa de meu Pai",
+    "termo": "ἐν τοῖς τοῦ πατρός μου (en tois tou patros mou)",
+    "titulo": "“nas coisas de meu Pai”",
+    "texto": "Lit. “nas (coisas ou lugares) de meu Pai”. A expressão grega com artigo neutro plural e genitivo é usada para “na casa de alguém” (Et 7:9 LXX; Jó 18:19 LXX) e também para “nos assuntos de alguém”. Como a pergunta é sobre onde procurá-lo, e ele está no templo, “na casa de meu Pai” é o sentido mais provável. “Nos negócios de meu Pai” (ARC) é uma alternativa antiga."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "eu devia",
+    "termo": "δεῖ (dei)",
+    "titulo": "o “é necessário” divino",
+    "texto": "Dei (“é necessário”) marca em Lucas o plano de Deus que Jesus cumpre (4:43; 9:22; 13:33; 24:7, 26, 44). São as primeiras palavras de Jesus no Evangelho, e nelas ele chama Deus de “meu Pai”."
+   }
+  ]
+ },
+ "Luk.2.50": {
+  "t": "Mas eles não entenderam o que ele lhes disse.",
+  "n": []
+ },
+ "Luk.2.51": {
+  "t": "Então desceu com eles para Nazaré e continuou a lhes ser obediente. Sua mãe guardava todas essas coisas no coração.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "continuou a lhes ser obediente",
+    "termo": "ἦν ὑποτασσόμενος αὐτοῖς",
+    "titulo": "perífrase contínua",
+    "texto": "Imperfeito perifrástico: obediência habitual, contínua. O Filho que reconhece Deus como Pai submete-se a seus pais terrenos (Êx 20:12)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "guardava todas essas coisas no coração",
+    "termo": "διετήρει πάντα τὰ ῥήματα ταῦτα ἐν τῇ καρδίᾳ αὐτῆς",
+    "titulo": "o eco de Jacó",
+    "texto": "Diatēreō (raro no NT) é o verbo da Septuaginta em Gn 37:11: os irmãos de José tinham inveja dele, “mas seu pai guardava a palavra”, sem entender ainda os sonhos. Cf. Dn 7:28. Veja também 2:19."
+   }
+  ]
+ },
+ "Luk.2.52": {
+  "t": "E Jesus crescia em sabedoria, em estatura e em graça diante de Deus e dos homens.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "estatura",
+    "termo": "ἡλικίᾳ (hēlikia)",
+    "titulo": "hēlikia: “estatura” ou “idade”",
+    "texto": "Hēlikia pode ser “idade” (Jo 9:21) ou “estatura” (19:3). Com “crescia” e ao lado de “sabedoria”, “estatura” é mais natural; “idade” também é possível."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "em graça diante de Deus e dos homens",
+    "termo": "χάριτι παρὰ θεῷ καὶ ἀνθρώποις",
+    "titulo": "o eco de Samuel",
+    "texto": "Eco de 1Sm 2:26: “o menino Samuel ia crescendo e era agradável tanto ao SENHOR como aos homens”; cf. Pv 3:4. Charis aqui é favor, aceitação."
+   }
+  ]
+ },
+ "Luk.3.1": {
+  "t": "No décimo quinto ano do governo de Tibério César, quando Pôncio Pilatos era governador da Judeia, Herodes era tetrarca da Galileia, seu irmão Filipe era tetrarca da região da Itureia e de Traconites, e Lisânias era tetrarca de Abilene,",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "No décimo quinto ano do governo de Tibério César",
+    "termo": "Ἐν ἔτει ... πεντεκαιδεκάτῳ τῆς ἡγεμονίας Τιβερίου Καίσαρος",
+    "titulo": "a data",
+    "texto": "Como os historiadores antigos, Lucas data o início da ação por governantes (cf. Jr 1:1-3). Tibério sucedeu Augusto em 14 d.C.; o 15º ano cai por volta de 28-29 d.C. Se Lucas contar desde que Tibério passou a governar as províncias junto com Augusto (c. 12 d.C.), seria 26-27 d.C. A segunda contagem ajusta-se melhor a 3:23 e a Jo 2:20, mas não há certeza sobre o sistema usado."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Pôncio Pilatos era governador da Judeia",
+    "termo": "ἡγεμονεύοντος Ποντίου Πιλάτου τῆς Ἰουδαίας",
+    "titulo": "Pilatos",
+    "texto": "Prefeito romano da Judeia de 26 a 36 d.C. Uma inscrição encontrada em Cesareia em 1961 dá a ele o título de prefectus (“prefeito”). “Governador” traduz o verbo genérico hēgemoneuō, usado também para Quirino (2:2)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "tetrarca",
+    "termo": "τετρααρχοῦντος (tetraarchountos)",
+    "titulo": "tetrarca",
+    "texto": "Lit. “governante de uma quarta parte”; no tempo romano, título de um príncipe vassalo de menor categoria que um rei. Herodes aqui é Herodes Antipas, filho de Herodes, o Grande, tetrarca da Galileia e da Pereia de 4 a.C. a 39 d.C. Filipe, outro filho, governou o nordeste do mar da Galileia até 34 d.C."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Lisânias era tetrarca de Abilene",
+    "termo": "Λυσανίου τῆς Ἀβιληνῆς τετρααρχοῦντος",
+    "titulo": "Lisânias",
+    "texto": "Abilene ficava a noroeste de Damasco. Houve um Lisânias que governou a região e foi morto por volta de 36 a.C.; por isso se pensou que Lucas errara. Uma inscrição de Abila, porém, menciona um tetrarca Lisânias no tempo de Tibério, o que confirma a existência de um governante posterior com esse nome."
+   }
+  ]
+ },
+ "Luk.3.2": {
+  "t": "durante o sumo sacerdócio de Anás e Caifás, a palavra de Deus veio a João, filho de Zacarias, no deserto.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "durante o sumo sacerdócio de Anás e Caifás",
+    "termo": "ἐπὶ ἀρχιερέως Ἅννα καὶ Καϊάφα",
+    "titulo": "dois nomes, um cargo",
+    "texto": "“Sumo sacerdote” está no singular, com dois nomes. Anás exerceu o cargo de 6 a 15 d.C. e foi deposto pelos romanos, mas continuou a ser chamado sumo sacerdote e a ter grande influência (Jo 18:13, 24; At 4:6). Caifás, seu genro, ocupou o cargo de 18 a 36 d.C."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "a palavra de Deus veio a João",
+    "termo": "ἐγένετο ῥῆμα θεοῦ ἐπὶ Ἰωάννην",
+    "titulo": "a vocação profética",
+    "texto": "Fórmula com que o AT apresenta a vocação dos profetas (Jr 1:1-2 LXX; Os 1:1; Jn 1:1). João é apresentado como profeta, o que cumpre 1:76."
+   }
+  ]
+ },
+ "Luk.3.3": {
+  "t": "Ele percorreu toda a região do Jordão, proclamando um batismo de arrependimento para o perdão dos pecados,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "um batismo de arrependimento",
+    "termo": "βάπτισμα μετανοίας (baptisma metanoias)",
+    "titulo": "genitivo descritivo",
+    "texto": "Um batismo que expressa e sela o arrependimento. Metanoia, “arrependimento”, é mudança de mente e de rumo de vida, não só remorso; os vv. 8-14 mostram o que ela significa na prática."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "para o perdão dos pecados",
+    "termo": "εἰς ἄφεσιν ἁμαρτιῶν",
+    "titulo": "eis",
+    "texto": "A preposição eis indica finalidade: o arrependimento expresso no batismo está voltado para o perdão que Deus concede. O debate sobre a relação entre batismo e perdão (cf. At 2:38) não se resolve só pela preposição; Lucas liga o perdão ao arrependimento (24:47)."
+   }
+  ]
+ },
+ "Luk.3.4": {
+  "t": "como está escrito no livro das palavras do profeta Isaías: “Voz de quem clama no deserto: ‘Preparem o caminho do Senhor, endireitem as suas veredas.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "como está escrito no livro das palavras do profeta Isaías",
+    "termo": "ὡς γέγραπται ἐν βίβλῳ λόγων Ἠσαΐου τοῦ προφήτου",
+    "titulo": "Isaías 40:3-5",
+    "texto": "Citação de Is 40:3-5 segundo a Septuaginta, com pequenas mudanças. Os outros Evangelhos citam só Is 40:3; Lucas continua até “toda carne verá a salvação de Deus” (v. 6), conforme o seu interesse pela salvação de todos os povos (2:30-32). No texto de Isaías, o caminho é preparado para o retorno do próprio Deus com o seu povo do exílio."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "o caminho do Senhor",
+    "termo": "τὴν ὁδὸν κυρίου",
+    "titulo": "o Senhor de Isaías 40",
+    "texto": "Em Is 40:3, kyrios traduz o nome divino YHWH. Lucas aplica o texto à vinda de Jesus, a quem já chamou “Senhor” (1:43; 2:11)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "endireitem as suas veredas",
+    "termo": "εὐθείας ποιεῖτε τὰς τρίβους αὐτοῦ",
+    "titulo": "“suas” em vez de “do nosso Deus”",
+    "texto": "A Septuaginta tem “as veredas do nosso Deus”; os Evangelhos trazem “as suas veredas”, o que permite aplicar o texto a Jesus."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Voz de quem clama no deserto",
+    "termo": "φωνὴ βοῶντος ἐν τῇ ἐρήμῳ",
+    "titulo": "onde fica o deserto?",
+    "texto": "No hebraico de Is 40:3, “no deserto” se liga a “preparem” (“uma voz clama: no deserto preparem o caminho”). Na Septuaginta, seguida pelos Evangelhos, liga-se a “voz”: quem clama está no deserto, como João (3:2)."
+   }
+  ]
+ },
+ "Luk.3.5": {
+  "t": "Todo vale será aterrado, e todo monte e colina, nivelados; os caminhos tortos se tornarão retos, e os ásperos, estradas planas;",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "vale",
+    "termo": "φάραγξ (pharanx)",
+    "titulo": "pharanx, hápax",
+    "texto": "Ravina, vale profundo. Leios (“plano, liso”) também é hápax. As duas palavras vêm da Septuaginta de Is 40:4."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "os caminhos tortos se tornarão retos",
+    "termo": "ἔσται τὰ σκολιὰ εἰς εὐθείαν",
+    "titulo": "a imagem da estrada real",
+    "texto": "A imagem é a de preparar a estrada para a chegada de um rei. Na pregação de João, a estrada a aplanar é a vida do povo: o orgulho rebaixado, a desonestidade corrigida (vv. 10-14). Skolios (“torto”) é usado também para a “geração perversa” (At 2:40)."
+   }
+  ]
+ },
+ "Luk.3.6": {
+  "t": "e toda carne verá a salvação de Deus.’”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "toda carne",
+    "termo": "πᾶσα σὰρξ (pasa sarx)",
+    "titulo": "“toda carne”",
+    "texto": "Expressão hebraica para “toda a humanidade”, sem o sentido moral negativo que sarx tem em Paulo. Mantida a forma literal, que é conhecida e soa bem na leitura pública; o sentido é “todos os seres humanos”."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "a salvação de Deus",
+    "termo": "τὸ σωτήριον τοῦ θεοῦ",
+    "titulo": "a salvação vista",
+    "texto": "A mesma palavra (sōtērion) do cântico de Simeão (2:30): Simeão viu em Jesus o que Isaías prometeu a “toda carne”. Atos termina com a mesma expressão (At 28:28)."
+   }
+  ]
+ },
+ "Luk.3.7": {
+  "t": "João dizia às multidões que saíam para ser batizadas por ele: “Filhotes de víboras! Quem os ensinou a fugir da ira que está para vir?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Filhotes de víboras",
+    "termo": "γεννήματα ἐχιδνῶν (gennēmata echidnōn)",
+    "titulo": "“crias de víboras”",
+    "texto": "Gennēma é o que é gerado, a cria. A imagem pode ser a de cobras que fogem do fogo no campo, como as pessoas que vinham ao batismo só para escapar do juízo. “Raça de víboras” (ARC) é a forma tradicional; “filhotes” guarda a ideia de descendência, que prepara o v. 8 (“temos Abraão por pai”)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "da ira que está para vir",
+    "termo": "ἀπὸ τῆς μελλούσης ὀργῆς",
+    "titulo": "a ira de Deus",
+    "texto": "O juízo de Deus no “dia do Senhor”, anunciado pelos profetas (Sf 1:14-18; Ml 4:1). Lucas dirige estas palavras às multidões em geral; Mateus, aos fariseus e saduceus (Mt 3:7)."
+   }
+  ]
+ },
+ "Luk.3.8": {
+  "t": "Produzam, pois, frutos que mostrem o arrependimento, e não comecem a dizer a si mesmos: ‘Temos Abraão por pai’. Pois eu lhes digo que destas pedras Deus pode fazer surgir filhos para Abraão.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "frutos que mostrem o arrependimento",
+    "termo": "καρποὺς ἀξίους τῆς μετανοίας",
+    "titulo": "“frutos dignos do arrependimento”",
+    "texto": "Lit. “frutos dignos do arrependimento”, isto é, que correspondam a ele. O arrependimento verdadeiro se vê em atos concretos (vv. 10-14)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "destas pedras Deus pode fazer surgir filhos para Abraão",
+    "termo": "ἐκ τῶν λίθων τούτων ἐγεῖραι τέκνα τῷ Ἀβραάμ",
+    "titulo": "pedras e filhos",
+    "texto": "Em hebraico e aramaico há jogo de palavras entre “pedras” (’avanim) e “filhos” (banim). Descender de Abraão não garante a salvação; Deus pode criar um povo novo, como tirou Isaque de um ventre estéril (Is 51:1-2: “olhem para a rocha de onde foram cortados... olhem para Abraão”). Lucas desenvolve a ideia dos verdadeiros filhos de Abraão em 13:16 e 19:9."
+   }
+  ]
+ },
+ "Luk.3.9": {
+  "t": "O machado já está posto à raiz das árvores; portanto, toda árvore que não produz bom fruto será cortada e lançada ao fogo.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "será cortada e lançada ao fogo",
+    "termo": "ἐκκόπτεται καὶ εἰς πῦρ βάλλεται",
+    "titulo": "presente profético",
+    "texto": "Os verbos estão no presente (“é cortada e é lançada”), descrevendo o juízo como algo já em curso. Traduzidos pelo futuro para clareza em português."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "O machado já está posto à raiz das árvores",
+    "termo": "ἤδη δὲ καὶ ἡ ἀξίνη πρὸς τὴν ῥίζαν τῶν δένδρων κεῖται",
+    "titulo": "o juízo iminente",
+    "texto": "Imagem profética do juízo sobre os orgulhosos (Is 10:33-34; Jr 46:22). O machado não está mais nos galhos, mas na raiz: o juízo é total e próximo."
+   }
+  ]
+ },
+ "Luk.3.10": {
+  "t": "As multidões lhe perguntavam: “Então, o que devemos fazer?”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "o que devemos fazer?",
+    "termo": "τί οὖν ποιήσωμεν;",
+    "titulo": "a pergunta do arrependimento",
+    "texto": "A pergunta se repete com três grupos (vv. 10, 12, 14) e volta em At 2:37 e 16:30. As respostas de João não exigem que ninguém abandone a profissão, mas que a exerça com justiça e generosidade."
+   }
+  ]
+ },
+ "Luk.3.11": {
+  "t": "Ele respondia: “Quem tem duas túnicas reparta com quem não tem nenhuma, e quem tem comida faça o mesmo.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "túnicas",
+    "termo": "χιτῶνας (chitōnas)",
+    "titulo": "chitōn",
+    "texto": "A túnica era a roupa de baixo, usada junto ao corpo; por cima vinha o manto (himation). Ter duas era ter uma de reserva."
+   }
+  ]
+ },
+ "Luk.3.12": {
+  "t": "Vieram também cobradores de impostos para ser batizados e lhe perguntaram: “Mestre, o que devemos fazer?”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "cobradores de impostos",
+    "termo": "τελῶναι (telōnai)",
+    "titulo": "telōnēs",
+    "texto": "“Publicanos” é a forma tradicional (do latim publicanus). Os telōnai eram em geral subcontratados que cobravam taxas e pedágios por conta de quem arrendava a cobrança; podiam lucrar cobrando além do devido. Por colaborarem com o poder estrangeiro e pela desonestidade comum na função, eram desprezados e tidos por pecadores (5:30; 19:7)."
+   }
+  ]
+ },
+ "Luk.3.13": {
+  "t": "Ele lhes disse: “Não cobrem nada além do que foi fixado para vocês.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Não cobrem",
+    "termo": "μηδὲν ... πράσσετε (mēden ... prassete)",
+    "titulo": "prassō",
+    "texto": "Prassō, normalmente “fazer, praticar”, tem aqui o sentido técnico de “cobrar” (19:23)."
+   }
+  ]
+ },
+ "Luk.3.14": {
+  "t": "Também alguns soldados lhe perguntavam: “E nós, o que devemos fazer?” Ele lhes disse: “Não tomem dinheiro de ninguém pela força nem por falsa acusação, e contentem-se com o seu soldo.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Não tomem dinheiro de ninguém pela força",
+    "termo": "μηδένα διασείσητε (mēdena diaseisēte)",
+    "titulo": "diaseiō, hápax",
+    "texto": "Lit. “não sacudam ninguém”: extorquir por intimidação ou violência. Sentido bem atestado nos papiros."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "nem por falsa acusação",
+    "termo": "μηδὲ συκοφαντήσητε (mēde sykophantēsēte)",
+    "titulo": "sykophanteō",
+    "texto": "Acusar falsamente para tirar proveito, chantagear. O mesmo verbo aparece na confissão de Zaqueu (19:8)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "soldados",
+    "termo": "στρατευόμενοι (strateuomenoi)",
+    "titulo": "que soldados?",
+    "texto": "Lit. “os que estão em serviço militar”. Provavelmente soldados judeus a serviço de Herodes Antipas ou que acompanhavam os cobradores de impostos, e não legionários romanos, embora isso não seja certo. João não manda que deixem o serviço militar."
+   }
+  ]
+ },
+ "Luk.3.15": {
+  "t": "O povo estava em expectativa, e todos se perguntavam em seu coração se João não seria o Cristo.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "se João não seria o Cristo",
+    "termo": "μήποτε αὐτὸς εἴη ὁ χριστός",
+    "titulo": "a expectativa messiânica",
+    "texto": "A esperança de um Messias era viva no tempo de João, embora houvesse diferentes ideias sobre ele (régio, sacerdotal, profético). O optativo indireto (eiē) apresenta a dúvida com cautela. Veja a nota em 2:11 sobre “o Cristo”."
+   }
+  ]
+ },
+ "Luk.3.16": {
+  "t": "João respondeu a todos: “Eu os batizo com água, mas vem aquele que é mais poderoso do que eu, de quem não sou digno de desamarrar a correia das sandálias. Ele os batizará com o Espírito Santo e com fogo.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "de quem não sou digno de desamarrar a correia das sandálias",
+    "termo": "οὗ οὐκ εἰμὶ ἱκανὸς λῦσαι τὸν ἱμάντα τῶν ὑποδημάτων αὐτοῦ",
+    "titulo": "tarefa de escravo",
+    "texto": "Desamarrar e carregar as sandálias do senhor era tarefa de escravo. João, embora profeta, coloca-se abaixo do mais humilde serviço diante de quem vem."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "com o Espírito Santo e com fogo",
+    "termo": "ἐν πνεύματι ἁγίῳ καὶ πυρί",
+    "titulo": "um batismo ou dois?",
+    "texto": "Uma só preposição (en) rege “Espírito Santo” e “fogo”: um só batismo com duas faces. As principais leituras: (1) o fogo purifica os que se arrependem (Ml 3:2-3; Is 4:4); (2) o fogo é o juízo sobre os que não se arrependem, como no v. 17; (3) há referência ao Pentecostes, com as “línguas como de fogo” (At 2:3). O v. 17 mostra que o juízo está presente; o conjunto de Lucas e Atos mostra que o derramamento do Espírito também está. A tradução literal deixa as leituras abertas."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "com água",
+    "termo": "ὕδατι (hydati)",
+    "titulo": "dativo e en",
+    "texto": "“Com água” traduz o dativo de instrumento; “com o Espírito” traduz en, que pode ser “em” ou “com”. “Batizar” vem de baptizō, “mergulhar, imergir”."
+   }
+  ]
+ },
+ "Luk.3.17": {
+  "t": "A pá de joeirar está na mão dele, para limpar a sua eira e recolher o trigo no seu celeiro; mas a palha ele queimará com fogo que não se apaga.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "A pá de joeirar",
+    "termo": "τὸ πτύον (to ptyon)",
+    "titulo": "a colheita",
+    "texto": "Na eira, o trigo debulhado era lançado ao ar com uma pá ou forquilha (ptyon): o vento levava a palha e os grãos caíam. A palha era depois queimada. A imagem é a do juízo que separa (Sl 1:4; Is 41:15-16; Jr 15:7). Ptyon, halōn (“eira”) e achyron (“palha”) só aparecem aqui e no paralelo de Mt 3:12; diakathairō (“limpar completamente”) é hápax."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "fogo que não se apaga",
+    "termo": "πυρὶ ἀσβέστῳ (pyri asbestō)",
+    "titulo": "fogo inextinguível",
+    "texto": "Imagem do juízo final, de Is 66:24 (“o seu fogo nunca se apagará”), retomada por Jesus em Mc 9:43-48."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "para limpar a sua eira e recolher o trigo",
+    "termo": "διακαθᾶραι ... συναγαγεῖν",
+    "titulo": "infinitivos ou futuros",
+    "texto": "O texto-base traz infinitivos de finalidade (“para limpar ... e recolher”); o Textus Receptus e o Texto Bizantino, futuros (“e limpará ... e recolherá”), como em Mt 3:12. O sentido é o mesmo."
+   }
+  ]
+ },
+ "Luk.3.18": {
+  "t": "Assim, com muitas outras exortações, João anunciava ao povo o evangelho.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "anunciava ao povo o evangelho",
+    "termo": "εὐηγγελίζετο τὸν λαόν (euēngelizeto ton laon)",
+    "titulo": "evangelho e juízo",
+    "texto": "Lit. “evangelizava o povo”. A pregação de João, com seu anúncio de juízo, é chamada de “boa notícia”: o juízo vem junto com a chegada do Messias e o perdão oferecido aos que se arrependem. Veja a nota em 1:19."
+   }
+  ]
+ },
+ "Luk.3.19": {
+  "t": "Mas o tetrarca Herodes, repreendido por João por causa de Herodias, mulher de seu irmão, e por todas as maldades que havia cometido,",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Herodias, mulher de seu irmão",
+    "termo": "Ἡρῳδιάδος τῆς γυναικὸς τοῦ ἀδελφοῦ αὐτοῦ",
+    "titulo": "o casamento de Antipas",
+    "texto": "Herodes Antipas repudiou a primeira mulher para se casar com Herodias, que era sua sobrinha e havia sido mulher de seu meio-irmão. A Lei proibia casar com a mulher do irmão ainda vivo (Lv 18:16; 20:21). O historiador judeu Josefo também narra a prisão e a morte de João por Antipas, na fortaleza de Maqueronte."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "mulher de seu irmão",
+    "termo": "τοῦ ἀδελφοῦ αὐτοῦ (+ Φιλίππου)",
+    "titulo": "“Filipe”",
+    "texto": "O Textus Receptus acrescenta o nome “Filipe”, trazido de Mc 6:17 e Mt 14:3. Segundo Josefo, o primeiro marido de Herodias se chamava Herodes; muitos supõem que ele tivesse também o nome Filipe, distinto do tetrarca Filipe de 3:1. O texto-base não traz o nome."
+   }
+  ]
+ },
+ "Luk.3.20": {
+  "t": "acrescentou a todas elas mais esta: encerrou João na prisão.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "encerrou João na prisão",
+    "termo": "κατέκλεισεν τὸν Ἰωάννην ἐν φυλακῇ",
+    "titulo": "a ordem do relato",
+    "texto": "Lucas conclui a história de João antes de narrar o batismo de Jesus (v. 21), em que nem menciona quem batizou. Não quer dizer que a prisão tenha vindo antes do batismo; é um arranjo literário que fecha o tempo de João antes de abrir o de Jesus (16:16)."
+   }
+  ]
+ },
+ "Luk.3.21": {
+  "t": "Quando todo o povo estava sendo batizado, Jesus também foi batizado. E, enquanto ele orava, o céu se abriu,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Quando todo o povo estava sendo batizado",
+    "termo": "Ἐγένετο δὲ ἐν τῷ βαπτισθῆναι ἅπαντα τὸν λαὸν",
+    "titulo": "uma só frase",
+    "texto": "Os vv. 21-22 formam no grego uma única frase com infinitivos dependentes de egeneto. O batismo de Jesus aparece num particípio subordinado; o foco da frase está no céu aberto, no Espírito e na voz."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "enquanto ele orava",
+    "termo": "καὶ προσευχομένου",
+    "titulo": "Jesus em oração",
+    "texto": "Só Lucas diz que Jesus orava. A oração de Jesus marca os momentos decisivos do Evangelho (5:16; 6:12; 9:18, 28-29; 22:41)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "o céu se abriu",
+    "termo": "ἀνεῳχθῆναι τὸν οὐρανὸν",
+    "titulo": "o céu aberto",
+    "texto": "Sinal de revelação (Ez 1:1; At 7:56). Eco de Is 64:1: “Ah, se rasgasses os céus e descesses!”."
+   }
+  ]
+ },
+ "Luk.3.22": {
+  "t": "e o Espírito Santo desceu sobre ele em forma corporal, como uma pomba. E veio uma voz do céu: “Tu és o meu Filho amado; em ti me agrado.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "em forma corporal, como uma pomba",
+    "termo": "σωματικῷ εἴδει ὡς περιστερὰν",
+    "titulo": "sōmatikos",
+    "texto": "Só Lucas acrescenta “em forma corporal” (sōmatikos, raro no NT): a descida foi visível. O texto não diz que o Espírito se tornou uma pomba, mas que desceu em forma visível semelhante a ela. A pomba pode lembrar o Espírito pairando sobre as águas (Gn 1:2) ou a pomba de Noé (Gn 8:8-12); nenhum dos dois ecos é certo."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Tu és o meu Filho amado; em ti me agrado",
+    "termo": "σὺ εἶ ὁ υἱός μου ὁ ἀγαπητός, ἐν σοὶ εὐδόκησα",
+    "titulo": "Salmo 2, Isaías 42 e Gênesis 22",
+    "texto": "A voz une três textos: Sl 2:7 (“Tu és o meu Filho”, palavra ao rei messiânico), Is 42:1 (“o meu escolhido, em quem a minha alma se agrada”, palavra ao Servo sobre quem Deus põe o seu Espírito) e talvez Gn 22:2 (“o teu filho, o teu único, a quem amas”, Isaque). Jesus é o Rei-Filho e o Servo. O aoristo eudokēsa (“me agradei”) expressa uma aprovação já decidida; traduzido pelo presente, como é natural em português."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "amado",
+    "termo": "ὁ ἀγαπητός (ho agapētos)",
+    "titulo": "agapētos",
+    "texto": "“Amado”, mas na Septuaginta agapētos traduz às vezes o hebraico yahid, “único” (Gn 22:2, 12, 16). Por isso alguns entendem “meu Filho único”. “Amado” é o sentido básico, e a nota guarda o outro."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Tu és o meu Filho amado; em ti me agrado",
+    "termo": "σὺ εἶ ὁ υἱός μου ὁ ἀγαπητός, ἐν σοὶ εὐδόκησα / υἱός μου εἶ σύ, ἐγὼ σήμερον γεγέννηκά σε",
+    "titulo": "a leitura do Salmo 2",
+    "texto": "O Códice de Beza (D) e vários testemunhos latinos antigos trazem aqui a citação completa de Sl 2:7: “Tu és o meu Filho; eu hoje te gerei”, leitura conhecida também por alguns escritores dos primeiros séculos. A maioria dos manuscritos, inclusive os mais antigos, traz o texto adotado, que concorda com Marcos (Mc 1:11). Alguns estudiosos defendem a leitura de D como original; a maioria a considera adaptação ao Salmo (Metzger)."
+   }
+  ]
+ },
+ "Luk.3.23": {
+  "t": "Jesus tinha cerca de trinta anos quando começou o seu ministério. Era, como se pensava, filho de José, filho de Eli,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "quando começou o seu ministério",
+    "termo": "ἀρχόμενος (archomenos)",
+    "titulo": "“começando”",
+    "texto": "Lit. “Jesus mesmo era, ao começar, de cerca de trinta anos”. O particípio sem complemento subentende o início do ministério (At 1:1, 22; 10:37). “Cerca de” mostra que a idade é aproximada. José tinha trinta anos quando passou a servir ao faraó (Gn 41:46), e Davi, quando começou a reinar (2Sm 5:4)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "como se pensava",
+    "termo": "ὡς ἐνομίζετο (hōs enomizeto)",
+    "titulo": "a filiação legal",
+    "texto": "Lucas, que narrou a concepção virginal (1:34-35), esclarece que José era considerado pai de Jesus. A genealogia é a da filiação legal, reconhecida publicamente, que dava a Jesus direito ao trono de Davi."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "filho de José, filho de Eli",
+    "termo": "Ἰωσὴφ τοῦ Ἠλὶ",
+    "titulo": "as duas genealogias",
+    "texto": "A genealogia de Lucas difere da de Mateus (Mt 1:1-17) em várias gerações entre Davi e José; em Mateus, o pai de José é Jacó (Mt 1:16). As principais explicações: (1) Júlio Africano (séc. III, citado por Eusébio, História Eclesiástica 1.7) propôs um casamento de levirato, em que um dos dois seria pai legal e o outro pai biológico de José; (2) Lucas daria a linhagem de Maria, sendo Eli pai dela e José seu genro; (3) Mateus daria a linha de sucessão real ao trono e Lucas a linha física. Nenhuma solução é certa. Lucas sobe de Jesus até Adão, ao contrário de Mateus, que desce de Abraão.",
+    "revisar": true
+   },
+   {
+    "tipo": "tn",
+    "ancora": "filho de Eli",
+    "termo": "τοῦ Ἠλὶ (tou Ēli)",
+    "titulo": "“filho de” não está no grego",
+    "texto": "O grego traz só o artigo no genitivo: “José, o (filho) de Eli, o (filho) de Matate...”. A palavra “filho” foi acrescentada em toda a lista, como exige o português."
+   }
+  ]
+ },
+ "Luk.3.24": {
+  "t": "filho de Matate, filho de Levi, filho de Melqui, filho de Janai, filho de José,",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "filho de Matate",
+    "termo": "τοῦ Μαθθὰτ",
+    "titulo": "os nomes",
+    "texto": "Os nomes seguem a forma tradicional das Bíblias em português ou, quando não há tradição firme, a transcrição mais próxima do grego. Dos vv. 24-31 (de Eli a Natã), os nomes não aparecem no AT, exceto Zorobabel e Salatiel (v. 27)."
+   }
+  ]
+ },
+ "Luk.3.25": {
+  "t": "filho de Matatias, filho de Amós, filho de Naum, filho de Esli, filho de Nagai,",
+  "n": []
+ },
+ "Luk.3.26": {
+  "t": "filho de Maate, filho de Matatias, filho de Semei, filho de Joseque, filho de Jodá,",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "filho de Joseque, filho de Jodá",
+    "termo": "τοῦ Ἰωσὴχ τοῦ Ἰωδὰ / τοῦ Ἰωσὴφ τοῦ Ἰούδα",
+    "titulo": "Joseque e Jodá ou José e Judá",
+    "texto": "O texto-base traz Iōsēch e Iōda; o Textus Receptus e o Texto Bizantino, Iōsēph e Iouda (“José, Judá”), nomes mais conhecidos, provável troca de copistas."
+   }
+  ]
+ },
+ "Luk.3.27": {
+  "t": "filho de Joanã, filho de Resa, filho de Zorobabel, filho de Salatiel, filho de Neri,",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "filho de Zorobabel, filho de Salatiel",
+    "termo": "τοῦ Ζοροβαβὲλ τοῦ Σαλαθιὴλ",
+    "titulo": "Zorobabel e Salatiel",
+    "texto": "Zorobabel, governador de Judá na volta do exílio, e seu pai Salatiel aparecem também em Mateus (Mt 1:12), mas lá Salatiel é filho do rei Jeconias, e aqui de Neri. Em 1Cr 3:17-19, Zorobabel aparece como filho de Pedaías, irmão de Salatiel. As relações podem envolver adoção ou levirato; o texto não as explica."
+   }
+  ]
+ },
+ "Luk.3.28": {
+  "t": "filho de Melqui, filho de Adi, filho de Cosã, filho de Elmadã, filho de Er,",
+  "n": []
+ },
+ "Luk.3.29": {
+  "t": "filho de Josué, filho de Eliézer, filho de Jorim, filho de Matate, filho de Levi,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Josué",
+    "termo": "Ἰησοῦ (Iēsou)",
+    "titulo": "Iēsous",
+    "texto": "O nome grego é o mesmo de Jesus, forma grega de Yehoshua. Para este antepassado, a APV usa a forma do AT, “Josué”, para evitar confusão."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Josué",
+    "termo": "Ἰησοῦ (Iēsou) / Ἰωσῆ (Iōsē)",
+    "titulo": "Josué ou José",
+    "texto": "O Textus Receptus e o Texto Bizantino trazem Iōsē (“José”). O texto-base segue os manuscritos mais antigos."
+   }
+  ]
+ },
+ "Luk.3.30": {
+  "t": "filho de Simeão, filho de Judá, filho de José, filho de Jonã, filho de Eliaquim,",
+  "n": []
+ },
+ "Luk.3.31": {
+  "t": "filho de Meleá, filho de Mená, filho de Matatá, filho de Natã, filho de Davi,",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "filho de Natã, filho de Davi",
+    "termo": "τοῦ Ναθὰμ τοῦ Δαυὶδ",
+    "titulo": "por Natã, não por Salomão",
+    "texto": "Natã era filho de Davi e Bate-Seba (2Sm 5:14; 1Cr 3:5). Mateus segue a linha real de Salomão; Lucas, a de Natã. Ambos afirmam a descendência davídica de Jesus."
+   }
+  ]
+ },
+ "Luk.3.32": {
+  "t": "filho de Jessé, filho de Obede, filho de Boaz, filho de Salá, filho de Naassom,",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "filho de Salá",
+    "termo": "τοῦ Σαλὰ / τοῦ Σαλμών",
+    "titulo": "Salá ou Salmom",
+    "texto": "O texto-base traz Sala; o Textus Receptus e o Texto Bizantino, Salmōn, a forma de Mt 1:4-5 e Rt 4:20-21 (na Septuaginta, Salmōn; no hebraico, Salma e Salmom). Trata-se da mesma pessoa, o pai de Boaz."
+   }
+  ]
+ },
+ "Luk.3.33": {
+  "t": "filho de Aminadabe, filho de Admim, filho de Arni, filho de Esrom, filho de Perez, filho de Judá,",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "filho de Admim, filho de Arni",
+    "termo": "τοῦ Ἀδμὶν τοῦ Ἀρνὶ / τοῦ Ἀράμ",
+    "titulo": "um dos trechos mais confusos",
+    "texto": "Os manuscritos divergem muito neste ponto. O texto-base traz “Admim, filho de Arni”; o Textus Receptus e o Texto Bizantino, só Aram (a forma de Mt 1:3-4 e de Rt 4:19 na Septuaginta; Rão no hebraico). As edições críticas escolhem a forma mais difícil, que dificilmente seria criada por um copista, mas a decisão é incerta (Metzger).",
+    "revisar": true
+   }
+  ]
+ },
+ "Luk.3.34": {
+  "t": "filho de Jacó, filho de Isaque, filho de Abraão, filho de Terá, filho de Naor,",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "filho de Abraão",
+    "termo": "τοῦ Ἀβραὰμ",
+    "titulo": "além de Abraão",
+    "texto": "Mateus começa em Abraão, pai de Israel. Lucas continua até Adão (v. 38): Jesus pertence a Israel e a toda a humanidade (cf. 2:32; 3:6)."
+   }
+  ]
+ },
+ "Luk.3.35": {
+  "t": "filho de Serugue, filho de Ragaú, filho de Faleque, filho de Éber, filho de Salá,",
+  "n": []
+ },
+ "Luk.3.36": {
+  "t": "filho de Cainã, filho de Arfaxade, filho de Sem, filho de Noé, filho de Lameque,",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "filho de Cainã",
+    "termo": "τοῦ Καϊνὰμ",
+    "titulo": "o Cainã da Septuaginta",
+    "texto": "No hebraico de Gn 11:12, Salá é filho de Arfaxade. A Septuaginta (Gn 10:24; 11:12-13) insere entre os dois um Cainã, que Lucas segue. Alguns poucos manuscritos de Lucas omitem esse nome aqui."
+   }
+  ]
+ },
+ "Luk.3.37": {
+  "t": "filho de Matusalém, filho de Enoque, filho de Jarede, filho de Maalalel, filho de Cainã,",
+  "n": []
+ },
+ "Luk.3.38": {
+  "t": "filho de Enos, filho de Sete, filho de Adão, filho de Deus.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "filho de Adão, filho de Deus",
+    "termo": "τοῦ Ἀδὰμ τοῦ θεοῦ",
+    "titulo": "o novo Adão",
+    "texto": "Adão é “filho de Deus” por ter sido criado diretamente por ele (Gn 1:26-27; 5:1-3). A genealogia está entre a voz do céu (“Tu és o meu Filho”, v. 22) e a tentação (“Se você é o Filho de Deus”, 4:3). Onde Adão caiu, Jesus, o Filho, permanece fiel. Lucas não iguala a filiação de Adão à de Jesus (1:35), mas põe Jesus como cabeça de uma nova humanidade (cf. Rm 5:12-21; 1Co 15:45)."
+   }
+  ]
+ }
+}

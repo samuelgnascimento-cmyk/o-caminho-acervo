@@ -798,5 +798,1388 @@
     "texto": "En hō pode ser causal (“visto que”) ou significar “naquilo em que”: ele socorre exatamente no ponto em que sofreu a prova. A tradução por particípio deixa os dois matizes. O perfeito (peponthen) indica que a experiência de sofrimento permanece nele."
    }
   ]
+ },
+ "Heb.3.1": {
+  "t": "Por isso, irmãos santos, participantes da vocação celestial, considerem atentamente Jesus, o apóstolo e sumo sacerdote da nossa confissão.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "considerem atentamente",
+    "termo": "κατανοήσατε (katanoēsate)",
+    "titulo": "katanoeō",
+    "texto": "Não é só “olhar”, mas “fixar a mente, observar com atenção até compreender”. O verbo é o mesmo de 10:24 (“prestemos atenção uns aos outros”)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "o apóstolo e sumo sacerdote",
+    "termo": "τὸν ἀπόστολον καὶ ἀρχιερέα",
+    "titulo": "dois títulos",
+    "texto": "Único lugar do NT em que Jesus é chamado “apóstolo”, isto é, “enviado”: ele é aquele por quem Deus falou (1:2; cf. Jo 17:3, 18). Como apóstolo, representa Deus diante do povo, como Moisés (3:2-6); como sumo sacerdote, representa o povo diante de Deus, como Arão (5:1-4). Os dois títulos, com um só artigo, descrevem uma só pessoa."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "da nossa confissão",
+    "termo": "τῆς ὁμολογίας ἡμῶν (tēs homologias hēmōn)",
+    "titulo": "homologia",
+    "texto": "Homologia é a fé confessada publicamente, talvez uma fórmula usada no batismo ou no culto (4:14; 10:23). “Da nossa confissão” significa “aquele que confessamos”."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Jesus",
+    "termo": "Ἰησοῦν (+ Χριστόν)",
+    "titulo": "“Cristo Jesus”",
+    "texto": "O Textus Receptus e o Texto Bizantino trazem “Cristo Jesus”. O texto crítico tem só “Jesus”. Hebreus gosta de usar o nome humano “Jesus” sozinho, em posição de destaque no fim da frase (2:9; 6:20; 12:2)."
+   }
+  ]
+ },
+ "Heb.3.2": {
+  "t": "Ele é fiel àquele que o constituiu, como também Moisés o foi em sua casa.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "àquele que o constituiu",
+    "termo": "τῷ ποιήσαντι αὐτὸν (tō poiēsanti auton)",
+    "titulo": "“ao que o fez”",
+    "texto": "Lit. “ao que o fez”. Aqui poieō tem o sentido de “nomear, estabelecer em um cargo”, como em 1Sm 12:6 (LXX: o Senhor “que fez Moisés e Arão”) e Mc 3:14. Não se refere à criação do Filho, que é o agente da criação (1:2, 10); os Pais da Igreja já rejeitavam o uso ariano deste versículo."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "como também Moisés o foi em sua casa",
+    "termo": "ὡς καὶ Μωϋσῆς ἐν τῷ οἴκῳ αὐτοῦ",
+    "titulo": "Números 12:7",
+    "texto": "Alusão a Nm 12:7, onde Deus diz de Moisés: “Ele é fiel em toda a minha casa”. A “casa” é o povo de Deus, a família da qual Deus é o dono. Os destinatários veneravam Moisés como o maior dos mediadores; o autor não o rebaixa, mas mostra que Jesus está acima dele."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "em sua casa",
+    "termo": "ἐν τῷ οἴκῳ αὐτοῦ (+ ὅλῳ)",
+    "titulo": "“em toda a sua casa”",
+    "texto": "As demais edições comparadas (NA28, THGNT, Westcott-Hort, Tregelles, Textus Receptus, Texto Bizantino) trazem “em toda (holō) a sua casa”, como em Nm 12:7 e no v. 5. O texto-base o omite aqui, com alguns manuscritos antigos; o acréscimo se explicaria pela harmonização com o v. 5. Sem mudança de sentido."
+   }
+  ]
+ },
+ "Heb.3.3": {
+  "t": "Pois ele foi considerado digno de maior glória que Moisés, tanto quanto o construtor da casa tem mais honra que a própria casa.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "o construtor da casa",
+    "termo": "ὁ κατασκευάσας αὐτόν (ho kataskeuasas auton)",
+    "titulo": "kataskeuazō",
+    "texto": "“Construir, preparar, equipar”. A comparação é simples: quem constrói vale mais que a construção. Moisés pertence à casa (é parte do povo); Jesus está ligado àquele que a construiu (v. 4)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "foi considerado digno",
+    "termo": "ἠξίωται (ēxiōtai)",
+    "titulo": "perfeito",
+    "texto": "O perfeito aponta para a situação estabelecida: Deus o declarou digno, na exaltação (2:9), e ele permanece nessa glória."
+   }
+  ]
+ },
+ "Heb.3.4": {
+  "t": "Pois toda casa é construída por alguém, mas quem construiu todas as coisas é Deus.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "quem construiu todas as coisas é Deus",
+    "termo": "ὁ δὲ πάντα κατασκευάσας θεός",
+    "titulo": "um parêntese",
+    "texto": "O versículo funciona como parêntese. Se a casa foi construída por Deus, e o Filho é aquele por meio de quem Deus fez todas as coisas (1:2, 10), o Filho está do lado do construtor, não da construção. O Textus Receptus e o Texto Bizantino trazem o artigo (“todas as coisas”), sem mudança de sentido."
+   }
+  ]
+ },
+ "Heb.3.5": {
+  "t": "Moisés, na verdade, foi fiel em toda a casa de Deus como servo, para dar testemunho das coisas que haveriam de ser anunciadas;",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "servo",
+    "termo": "θεράπων (therapōn)",
+    "titulo": "therapōn, hápax",
+    "texto": "Única ocorrência no NT. Não é doulos (“escravo”), mas o servo de confiança, assistente honrado; é a palavra da Septuaginta em Nm 12:7 (“meu servo Moisés”). O título é de honra, mas é título de quem serve dentro da casa, não de quem a possui."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "em toda a casa de Deus",
+    "termo": "ἐν ὅλῳ τῷ οἴκῳ αὐτοῦ",
+    "titulo": "“em toda a casa dele”",
+    "texto": "Lit. “em toda a casa dele”. O “dele” é Deus, como em Nm 12:7 (“minha casa”). Explicitado para que o leitor não pense na casa de Moisés."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "das coisas que haveriam de ser anunciadas",
+    "termo": "εἰς μαρτύριον τῶν λαληθησομένων",
+    "titulo": "Moisés aponta para frente",
+    "texto": "O ministério de Moisés tinha caráter de testemunho do que Deus ainda iria falar, isto é, da revelação final no Filho (1:2). Cf. Jo 5:46: “Moisés escreveu a meu respeito”."
+   }
+  ]
+ },
+ "Heb.3.6": {
+  "t": "Cristo, porém, é fiel como Filho sobre a casa de Deus. E essa casa somos nós, se conservarmos a confiança e a esperança de que nos orgulhamos.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Cristo",
+    "termo": "Χριστὸς (Christos)",
+    "titulo": "Christos",
+    "texto": "Primeira vez que Hebreus usa “Cristo”. Christos é a tradução grega do hebraico mashiaḥ, “Messias, Ungido” (cf. 1:9, “te ungiu”). Em Hebreus o título funciona quase como nome, mas guarda o sentido de rei messiânico. O contraste é de posição: Moisés, servo “em” a casa; Cristo, Filho “sobre” a casa."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "sobre a casa de Deus",
+    "termo": "ἐπὶ τὸν οἶκον αὐτοῦ (epi ton oikon autou)",
+    "titulo": "“sobre a casa dele”",
+    "texto": "Lit. “sobre a casa dele”. Pela sequência dos vv. 2-5, a casa é a de Deus; alguns entendem “sobre a sua própria casa”, a do Filho, o que o grego também permite. O sentido final é o mesmo: o Filho governa a casa como herdeiro (1:2)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "E essa casa somos nós",
+    "termo": "ὅς οἶκός ἐσμεν ἡμεῖς (hos / hou)",
+    "titulo": "formas do texto",
+    "texto": "O texto-base traz hos (“a qual casa somos nós”) e ean (“se”). As demais edições trazem hou oikos (“cuja casa somos nós”), e o NA28, o Textus Receptus e o Texto Bizantino, eanper (“se de fato”). Westcott-Hort, Tregelles, o Textus Receptus e o Texto Bizantino acrescentam ainda “firme até o fim” depois de “esperança”, expressão que parece vir do v. 14; o texto-base, o NA28 e o THGNT não a trazem. O sentido geral não muda."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "a confiança e a esperança de que nos orgulhamos",
+    "termo": "τὴν παρρησίαν καὶ τὸ καύχημα τῆς ἐλπίδος",
+    "titulo": "parrēsia e kauchēma",
+    "texto": "Lit. “a ousadia e o orgulho da esperança”. Parrēsia é a liberdade e a coragem de quem não tem do que se envergonhar, inclusive para se aproximar de Deus (4:16; 10:19, 35). Kauchēma é o motivo de “gloriar-se”: a esperança cristã é algo de que se gloriar publicamente, não algo a esconder. A condição (“se”) não põe em dúvida a graça, mas mostra que pertencer à casa se comprova pela perseverança (cf. v. 14)."
+   }
+  ]
+ },
+ "Heb.3.7": {
+  "t": "Por isso, como diz o Espírito Santo: “Hoje, se vocês ouvirem a sua voz,",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "como diz o Espírito Santo",
+    "termo": "καθὼς λέγει τὸ πνεῦμα τὸ ἅγιον",
+    "titulo": "Salmo 95:7-11",
+    "texto": "Os vv. 7-11 citam o Sl 95:7b-11 (LXX 94:7b-11), na forma da Septuaginta, com pequenas diferenças. O autor atribui o salmo ao Espírito Santo, que “diz”, no presente: a palavra dirigida a Israel no deserto fala agora aos leitores (cf. 9:8; 10:15)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Hoje",
+    "termo": "σήμερον (sēmeron)",
+    "titulo": "o “hoje” do salmo",
+    "texto": "A palavra-chave da exposição que segue (3:13, 15; 4:7). O salmo foi escrito muito depois do deserto, o que mostra que o convite de Deus continua aberto (4:7-8): cada geração vive o seu “hoje”."
+   }
+  ]
+ },
+ "Heb.3.8": {
+  "t": "não endureçam o coração, como na rebelião, no dia da provação no deserto,",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "como na rebelião, no dia da provação",
+    "termo": "ἐν τῷ παραπικρασμῷ ... τοῦ πειρασμοῦ",
+    "titulo": "Meribá e Massá",
+    "texto": "O hebraico do salmo traz os nomes de lugar Meribá (“contenda”) e Massá (“prova”), onde Israel exigiu água e pôs Deus à prova (Êx 17:1-7; Nm 20:1-13). A Septuaginta os traduziu como substantivos comuns: parapikrasmos (“rebelião, exasperação”, raro) e peirasmos (“prova, tentação”). Hebreus segue a Septuaginta, o que generaliza o episódio: é a rebelião de toda a geração do deserto, culminando em Cades (Nm 14; cf. vv. 16-19)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "o coração",
+    "termo": "τὰς καρδίας ὑμῶν (tas kardias hymōn)",
+    "titulo": "plural",
+    "texto": "Lit. “os corações de vocês”. Em português, o singular distributivo (“não endureçam o coração”) é mais natural."
+   }
+  ]
+ },
+ "Heb.3.9": {
+  "t": "onde os pais de vocês me tentaram, pondo-me à prova, e viram as minhas obras",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "me tentaram, pondo-me à prova",
+    "termo": "ἐπείρασαν ... ἐν δοκιμασίᾳ (en dokimasia)",
+    "titulo": "“em exame” ou “me provaram”",
+    "texto": "O texto crítico traz “tentaram em exame” (en dokimasia, hápax), sem o pronome; o Textus Receptus e o Texto Bizantino, “me tentaram, me provaram” (edokimasan me), forma mais próxima da Septuaginta do salmo (“tentaram, provaram”). O “me” foi explicitado porque o objeto é claramente Deus. Dokimasia é o exame que verifica se algo é genuíno: Israel exigiu de Deus provas que ele já tinha dado."
+   }
+  ]
+ },
+ "Heb.3.10": {
+  "t": "durante quarenta anos. Por isso me indignei contra esta geração e disse: ‘O coração deles anda sempre desviado; eles não conheceram os meus caminhos’.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "durante quarenta anos. Por isso",
+    "termo": "τεσσεράκοντα ἔτη· διὸ",
+    "titulo": "onde ficam os quarenta anos",
+    "texto": "No salmo (hebraico e Septuaginta), “quarenta anos” liga-se à ira de Deus: “durante quarenta anos me indignei”. Hebreus acrescenta “por isso” (dio) e liga os quarenta anos ao que Israel viu: viram as obras de Deus por quarenta anos e, mesmo assim, endureceram. No v. 17 o autor volta à ligação do salmo. Alguns sugerem que o autor pensa nos cerca de quarenta anos entre a obra de Jesus e os seus leitores, mas isso é incerto."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "me indignei",
+    "termo": "προσώχθισα (prosōchthisa)",
+    "titulo": "prosochthizō, raro",
+    "texto": "Só aqui e no v. 17 no NT; vem da Septuaginta. Significa “ficar irritado, sentir aversão”. “Indignar-se” guarda a força sem sugerir descontrole."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "esta geração",
+    "termo": "τῇ γενεᾷ ταύτῃ",
+    "titulo": "“esta” ou “aquela”",
+    "texto": "O texto crítico traz “esta” (tautē); o Textus Receptus e o Texto Bizantino, “aquela” (ekeinē), como a Septuaginta. O “esta” aproxima a geração do deserto dos leitores."
+   }
+  ]
+ },
+ "Heb.3.11": {
+  "t": "Assim jurei na minha ira: ‘Jamais entrarão no meu descanso’”.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Jamais entrarão",
+    "termo": "εἰ εἰσελεύσονται (ei eiseleusontai)",
+    "titulo": "fórmula de juramento",
+    "texto": "Lit. “se entrarem”. É a fórmula hebraica de juramento com a segunda parte omitida: “(que me aconteça tal coisa) se entrarem”, isto é, “de modo nenhum entrarão”. Traduzida pelo sentido."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "no meu descanso",
+    "termo": "εἰς τὴν κατάπαυσίν μου",
+    "titulo": "katapausis",
+    "texto": "No salmo, o “descanso” é a terra de Canaã, onde Israel teria paz (Dt 12:9-10). Hebreus desenvolve o tema no cap. 4: o descanso verdadeiro é o próprio descanso de Deus, do sétimo dia (4:3-10)."
+   }
+  ]
+ },
+ "Heb.3.12": {
+  "t": "Tomem cuidado, irmãos, para que nenhum de vocês tenha um coração mau e incrédulo, que se afaste do Deus vivo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "um coração mau e incrédulo",
+    "termo": "καρδία πονηρὰ ἀπιστίας (kardia ponēra apistias)",
+    "titulo": "“coração mau de incredulidade”",
+    "texto": "Lit. “coração mau de incredulidade”. O genitivo descreve a natureza do mal: é a falta de fé que torna o coração mau. Apistia é falta de fé e também de fidelidade; no contexto, é não confiar na promessa de Deus (v. 19)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "que se afaste",
+    "termo": "ἐν τῷ ἀποστῆναι (en tō apostēnai)",
+    "titulo": "aphistēmi",
+    "texto": "O verbo de onde vem “apostasia”: “retirar-se, abandonar”. O perigo não é só a dúvida, mas virar as costas ao Deus vivo, como Israel quis voltar ao Egito (Nm 14:4). “Deus vivo”, expressão de Hebreus (9:14; 10:31; 12:22), lembra que não se abandona um ídolo morto, mas o Deus que age e julga."
+   }
+  ]
+ },
+ "Heb.3.13": {
+  "t": "Pelo contrário, encorajem uns aos outros todos os dias, enquanto se diz “hoje”, para que nenhum de vocês seja endurecido pelo engano do pecado.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "encorajem uns aos outros",
+    "termo": "παρακαλεῖτε ἑαυτοὺς (parakaleite heautous)",
+    "titulo": "parakaleō",
+    "texto": "Parakaleō é “exortar, encorajar, consolar”. Heautous (lit. “a vocês mesmos”) tem aqui sentido recíproco. A defesa contra o endurecimento é o cuidado mútuo diário na comunidade (10:24-25)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "enquanto se diz “hoje”",
+    "termo": "ἄχρις οὗ τὸ σήμερον καλεῖται",
+    "titulo": "“enquanto o hoje é chamado”",
+    "texto": "Lit. “enquanto o ‘hoje’ é chamado”, isto é, enquanto dura o tempo em que o convite do salmo ainda soa. Esse tempo tem fim."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "nenhum de vocês",
+    "termo": "τις ἐξ ὑμῶν",
+    "titulo": "ordem das palavras",
+    "texto": "O Texto Bizantino traz outra ordem (ex hymōn tis). Sem efeito na tradução."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "pelo engano do pecado",
+    "termo": "ἀπάτῃ τῆς ἁμαρτίας",
+    "titulo": "o pecado engana",
+    "texto": "O pecado é apresentado como poder que seduz com promessas falsas; o endurecimento é gradual e não é percebido por quem é enganado."
+   }
+  ]
+ },
+ "Heb.3.14": {
+  "t": "Pois nos tornamos participantes de Cristo, se de fato mantivermos firme até o fim a confiança que tivemos no princípio.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "participantes de Cristo",
+    "termo": "μέτοχοι ... τοῦ Χριστοῦ (metochoi tou Christou)",
+    "titulo": "metochoi",
+    "texto": "Pode ser “participantes de Cristo” (partilham a vida dele) ou “companheiros do Cristo”, os que estão com o Messias, como os metochoi do rei em 1:9. As duas ideias se tocam: os crentes são o povo do Messias, que participa da sua herança."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "nos tornamos",
+    "termo": "γεγόναμεν (gegonamen)",
+    "titulo": "perseverança e participação",
+    "texto": "O perfeito diz que eles já se tornaram participantes. A condição não diz que se tornarão se perseverarem, mas que a perseverança mostra que de fato já participam. Na tradição reformada, o versículo é lido como sinal da verdadeira fé, que persevera; na arminiana e em outras, como advertência de que a participação pode ser perdida. O autor fala de modo pastoral, com confiança neles (6:9) e com advertência séria."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "a confiança que tivemos no princípio",
+    "termo": "τὴν ἀρχὴν τῆς ὑποστάσεως (tēn archēn tēs hypostaseōs)",
+    "titulo": "hypostasis",
+    "texto": "Lit. “o princípio da firmeza”. Aqui hypostasis é a convicção firme, a segurança (cf. 11:1), não o “ser” de 1:3. “O princípio” é a fé com que começaram, que deve ser mantida “firme” (bebaios, termo jurídico, como em 2:2) até o fim."
+   }
+  ]
+ },
+ "Heb.3.15": {
+  "t": "Enquanto se diz: “Hoje, se vocês ouvirem a sua voz, não endureçam o coração, como na rebelião”.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Enquanto se diz",
+    "termo": "ἐν τῷ λέγεσθαι (en tō legesthai)",
+    "titulo": "a que se liga?",
+    "texto": "Lit. “no ser dito”. Pode concluir o v. 14 (“mantenham firme ... enquanto se diz”), retomar o v. 13 ou introduzir os vv. 16-19 (“quando se diz ‘hoje’ ..., quem foram os que ouviram?”). A APV o trata como frase de transição, que repete o início da citação antes do comentário dos vv. 16-19."
+   }
+  ]
+ },
+ "Heb.3.16": {
+  "t": "Pois quem foram os que ouviram e se rebelaram? Não foram todos os que saíram do Egito por meio de Moisés?",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "quem foram",
+    "termo": "τίνες (tines) / τινές (tines)",
+    "titulo": "pergunta ou afirmação",
+    "texto": "Os manuscritos antigos não tinham acentos. Lido tines (interrogativo), é uma pergunta: “quem foram?”, seguida de outra pergunta, como nos vv. 17-18. Lido tines (indefinido), é uma afirmação: “alguns se rebelaram, mas não todos”, como na ARC, que pensa em Josué e Calebe. A série de perguntas dos vv. 16-18 favorece a leitura interrogativa, adotada no texto-base."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "se rebelaram",
+    "termo": "παρεπίκραναν (parepikranan)",
+    "titulo": "parapikrainō, hápax",
+    "texto": "Verbo da mesma família de parapikrasmos (v. 8): “provocar, exasperar, rebelar-se”. Liga o comentário à palavra “rebelião” do salmo."
+   }
+  ]
+ },
+ "Heb.3.17": {
+  "t": "E contra quem ele se indignou durante quarenta anos? Não foi contra os que pecaram, cujos cadáveres caíram no deserto?",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "cujos cadáveres caíram no deserto",
+    "termo": "ὧν τὰ κῶλα ἔπεσεν ἐν τῇ ἐρήμῳ",
+    "titulo": "Números 14:29",
+    "texto": "Eco de Nm 14:29, 32 (LXX), onde Deus diz que os “membros” daquela geração cairiam no deserto. Kōlon (hápax) é “membro do corpo”; no plural, os corpos mortos. A dura imagem foi mantida."
+   }
+  ]
+ },
+ "Heb.3.18": {
+  "t": "E a quem jurou que não entrariam no seu descanso, senão aos que desobedeceram?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "aos que desobedeceram",
+    "termo": "τοῖς ἀπειθήσασιν (tois apeithēsasin)",
+    "titulo": "apeitheō",
+    "texto": "Apeitheō é “não se deixar persuadir, desobedecer”. O v. 19 o une a apistia (“incredulidade”): para o autor, não crer na promessa e desobedecer à ordem de Deus são duas faces da mesma atitude (4:6, 11)."
+   }
+  ]
+ },
+ "Heb.3.19": {
+  "t": "Vemos, assim, que não puderam entrar por causa da incredulidade.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "não puderam entrar",
+    "termo": "οὐκ ἠδυνήθησαν εἰσελθεῖν",
+    "titulo": "a conclusão do argumento",
+    "texto": "A frase resume o cap. 3 e prepara o cap. 4: a geração do deserto ouviu a promessa, viu as obras de Deus e, mesmo assim, ficou de fora por não crer. “Não puderam” sublinha que a exclusão foi consequência da incredulidade, não falta de poder de Deus."
+   }
+  ]
+ },
+ "Heb.4.1": {
+  "t": "Portanto, enquanto ainda permanece a promessa de entrar no seu descanso, tenhamos cuidado e temor, para que nenhum de vocês pareça ter ficado para trás.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "tenhamos cuidado e temor",
+    "termo": "Φοβηθῶμεν (phobēthōmen)",
+    "titulo": "“temamos”",
+    "texto": "Lit. “temamos”. Não é pânico, mas o temor sério de quem leva a advertência a sério (cf. 10:27, 31; 12:28). “Tenhamos cuidado e temor” evita que “temamos” soe arcaico na leitura, mas mantém a palavra “temor”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "pareça ter ficado para trás",
+    "termo": "δοκῇ τις ἐξ ὑμῶν ὑστερηκέναι",
+    "titulo": "dokeō e hystereō",
+    "texto": "Hystereō é “chegar tarde, ficar para trás, faltar”, como quem não alcança o grupo (12:15). Dokeō pode ser “pareça” (aos olhos dos outros ou de Deus), “seja achado” (no julgamento) ou “pense” (alguém pense que chegou tarde demais, que a promessa já passou). A primeira é a mais comum; a última combina com o argumento de que a promessa continua aberta (vv. 6-9)."
+   }
+  ]
+ },
+ "Heb.4.2": {
+  "t": "Pois também a nós foi anunciado o evangelho, assim como a eles; mas a palavra que ouviram não lhes foi útil, porque não se uniram pela fé aos que a ouviram.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "também a nós foi anunciado o evangelho",
+    "termo": "ἐσμεν εὐηγγελισμένοι (esmen euēngelismenoi)",
+    "titulo": "euangelizomai",
+    "texto": "Lit. “nós fomos evangelizados”, isto é, recebemos uma boa notícia. Para Israel, a boa notícia era a promessa de entrar no descanso da terra; para os leitores, o evangelho de Cristo. O autor usa o mesmo verbo para as duas gerações para mostrar o paralelo."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "porque não se uniram pela fé aos que a ouviram",
+    "termo": "μὴ συγκεκερασμένους τῇ πίστει τοῖς ἀκούσασιν",
+    "titulo": "quem não estava “misturado”?",
+    "texto": "Texto difícil. O texto-base e as edições críticas trazem o plural acusativo synkekerasmenous, concordando com “eles”: “porque não se uniram (lit. ‘não estavam misturados’), pela fé, aos que ouviram”, isto é, a Josué e Calebe, que creram (Nm 14:6-9). O Textus Receptus traz o singular synkekramenos, concordando com “a palavra”: “não estando a palavra misturada com fé nos que a ouviram” (cf. ARC). A leitura do Textus Receptus dá um sentido mais simples, e por isso pode ser correção de copistas; a do texto-base tem apoio mais antigo. Pelo contexto, “os que a ouviram” são os que ouviram com fé e obediência.",
+    "revisar": true
+   }
+  ]
+ },
+ "Heb.4.3": {
+  "t": "Pois nós, os que cremos, estamos entrando no descanso, conforme ele disse: “Assim jurei na minha ira: ‘Jamais entrarão no meu descanso’”, embora as suas obras estivessem concluídas desde a fundação do mundo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "estamos entrando",
+    "termo": "Εἰσερχόμεθα (eiserchometha)",
+    "titulo": "presente",
+    "texto": "O presente pode ser lido como ação em curso (“estamos entrando”), como certeza futura (“entraremos”) ou como verdade geral (“os que creem entram”). Para Hebreus, o descanso é ao mesmo tempo realidade presente para quem crê e herança ainda por alcançar (v. 11). “Estamos entrando” guarda essa tensão."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "embora as suas obras estivessem concluídas desde a fundação do mundo",
+    "termo": "καίτοι τῶν ἔργων ἀπὸ καταβολῆς κόσμου γενηθέντων",
+    "titulo": "o descanso de Deus já existe",
+    "texto": "O argumento: o descanso de que fala o salmo (“meu descanso”) não é a terra de Canaã, mas o descanso do próprio Deus, que começou quando ele concluiu a criação (v. 4). Ele está pronto desde o princípio; o que falta é entrar nele. O texto-base não traz o artigo antes de “descanso”, que as outras edições têm, sem mudança de sentido."
+   }
+  ]
+ },
+ "Heb.4.4": {
+  "t": "Pois em certo lugar ele falou assim a respeito do sétimo dia: “E Deus descansou no sétimo dia de todas as suas obras”.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "E Deus descansou no sétimo dia",
+    "termo": "κατέπαυσεν ὁ θεὸς ἐν τῇ ἡμέρᾳ τῇ ἑβδόμῃ",
+    "titulo": "Gênesis 2:2",
+    "texto": "Citação de Gn 2:2, na forma da Septuaginta, que usa o verbo katapauō, da mesma família de katapausis (“descanso”) do salmo. O autor une os dois textos pela palavra comum, método conhecido na interpretação judaica (comparar textos que têm a mesma palavra)."
+   }
+  ]
+ },
+ "Heb.4.5": {
+  "t": "E de novo, neste lugar: “Jamais entrarão no meu descanso”.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "neste lugar",
+    "termo": "ἐν τούτῳ (en toutō)",
+    "titulo": "“neste”",
+    "texto": "Lit. “neste”, isto é, nesta passagem do salmo, já citada em 3:11. O autor põe lado a lado os dois textos: Deus tem um descanso (Gn 2:2), e Israel não entrou nele (Sl 95:11)."
+   }
+  ]
+ },
+ "Heb.4.6": {
+  "t": "Visto, então, que fica reservado a alguns entrar nele, e que aqueles a quem primeiro foi anunciado o evangelho não entraram por causa da desobediência,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "fica reservado a alguns entrar nele",
+    "termo": "ἀπολείπεται τινὰς εἰσελθεῖν εἰς αὐτήν",
+    "titulo": "apoleipō",
+    "texto": "Lit. “resta que alguns entrem nele”. O verbo indica algo que “fica de pé”, ainda disponível. Como Deus não deixaria o seu descanso sem ninguém, e a primeira geração não entrou, a promessa continua aberta para outros (v. 9)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "desobediência",
+    "termo": "ἀπείθειαν (apeitheian)",
+    "titulo": "apeitheia",
+    "texto": "Recusa a se deixar persuadir, desobediência; em 3:19, a mesma causa é chamada “incredulidade”."
+   }
+  ]
+ },
+ "Heb.4.7": {
+  "t": "Deus fixa de novo um dia, “hoje”, falando por meio de Davi tanto tempo depois, como já foi dito: “Hoje, se vocês ouvirem a sua voz, não endureçam o coração”.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "por meio de Davi",
+    "termo": "ἐν Δαυὶδ (en Dauid)",
+    "titulo": "“em Davi”",
+    "texto": "Lit. “em Davi”: pode ser “por meio de Davi” ou “no livro de Davi”, isto é, nos Salmos. A Septuaginta atribui o Sl 95 (LXX 94) a Davi no título; o hebraico não tem título. O argumento depende do tempo: séculos depois de Josué, Deus ainda fala de um “hoje”."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "como já foi dito",
+    "termo": "καθὼς προείρηται (proeirētai)",
+    "titulo": "proeirētai ou eirētai",
+    "texto": "O texto crítico traz proeirētai, “como foi dito antes” (em 3:7, 15); o Textus Receptus e o Texto Bizantino, eirētai, “como foi dito”. Sem efeito no sentido."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Deus fixa",
+    "termo": "ὁρίζει (horizei)",
+    "titulo": "sujeito implícito",
+    "texto": "O grego diz só “fixa” ou “determina”; o sujeito é Deus, que fala no salmo. Explicitado para clareza."
+   }
+  ]
+ },
+ "Heb.4.8": {
+  "t": "Pois, se Josué lhes tivesse dado descanso, Deus não falaria, depois disso, de outro dia.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Josué",
+    "termo": "Ἰησοῦς (Iēsous)",
+    "titulo": "o mesmo nome",
+    "texto": "Em grego, Josué e Jesus têm o mesmo nome, Iēsous (hebraico Yehoshua, “YHWH salva”). A ARC traduziu “Jesus” em At 7:45 e aqui, o que confunde o leitor. Os primeiros leitores ouviriam o jogo: o primeiro Iēsous levou o povo a Canaã, mas não ao descanso de Deus; o segundo leva."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "se Josué lhes tivesse dado descanso",
+    "termo": "εἰ ... αὐτοὺς Ἰησοῦς κατέπαυσεν",
+    "titulo": "a terra não era o descanso final",
+    "texto": "Js 21:44 e 22:4 dizem que o Senhor deu descanso a Israel na terra. O autor não nega isso, mas observa que, depois de Josué, Davi ainda fala de um descanso a ser alcançado. Logo, a terra era sinal de um descanso maior."
+   }
+  ]
+ },
+ "Heb.4.9": {
+  "t": "Resta, portanto, um descanso sabático para o povo de Deus.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "um descanso sabático",
+    "termo": "σαββατισμὸς (sabbatismos)",
+    "titulo": "sabbatismos, hápax",
+    "texto": "Única ocorrência no NT, palavra quase ausente da literatura grega anterior. Vem do verbo sabbatizō, “guardar o sábado”: é a celebração do sábado, o descanso festivo de Deus no sétimo dia, partilhado com o seu povo. A troca de katapausis por sabbatismos sugere não só repouso, mas alegria e culto."
+   }
+  ]
+ },
+ "Heb.4.10": {
+  "t": "Pois quem entrou no descanso de Deus também descansou das suas obras, como Deus descansou das dele.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "quem entrou no descanso de Deus",
+    "termo": "ὁ ... εἰσελθὼν εἰς τὴν κατάπαυσιν αὐτοῦ",
+    "titulo": "quem é “quem entrou”?",
+    "texto": "Lit. “o que entrou no descanso dele”. A maioria entende uma afirmação geral: todo aquele que entra no descanso de Deus cessa das próprias obras, isto é, dos trabalhos e lutas desta vida (cf. Ap 14:13), ou de buscar a salvação pelas próprias obras (leitura comum na tradição protestante, mas menos provável no contexto). Alguns intérpretes veem aqui Jesus, o novo Josué, que entrou no descanso ao terminar a sua obra (1:3; 10:12). “Dele” foi traduzido “de Deus” pela sequência dos vv. 3-5."
+   }
+  ]
+ },
+ "Heb.4.11": {
+  "t": "Esforcemo-nos, pois, para entrar naquele descanso, para que ninguém caia, seguindo o mesmo exemplo de desobediência.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Esforcemo-nos",
+    "termo": "Σπουδάσωμεν (spoudasōmen)",
+    "titulo": "spoudazō",
+    "texto": "“Apressar-se, empenhar-se com zelo”. Entrar no descanso exige empenho: o contraste com “descansar” é intencional. Não se trata de merecer o descanso, mas de não deixar de alcançá-lo por descuido (2:1-3)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "seguindo o mesmo exemplo de desobediência",
+    "termo": "ἐν τῷ αὐτῷ ... ὑποδείγματι ... τῆς ἀπειθείας",
+    "titulo": "hypodeigma",
+    "texto": "Lit. “no mesmo exemplo da desobediência”. Hypodeigma é o modelo ou exemplo, aqui negativo: a geração do deserto. “Caia” pode lembrar os cadáveres que “caíram” no deserto (3:17)."
+   }
+  ]
+ },
+ "Heb.4.12": {
+  "t": "Pois a palavra de Deus é viva e operante, mais afiada que qualquer espada de dois gumes. Ela penetra até o ponto de dividir alma e espírito, juntas e medulas, e julga as reflexões e as intenções do coração.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "a palavra de Deus",
+    "termo": "ὁ λόγος τοῦ θεοῦ (ho logos tou theou)",
+    "titulo": "a palavra que fala “hoje”",
+    "texto": "Não é aqui o título de Cristo de Jo 1:1, mas a palavra que Deus fala, como a do Sl 95, que acaba de ser exposta: palavra viva, que fala “hoje” e examina quem a ouve. Os vv. 12-13 fecham a seção começada em 3:7."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "operante",
+    "termo": "ἐνεργὴς (energēs)",
+    "titulo": "energēs, raro",
+    "texto": "“Ativa, eficaz, que produz efeito” (1Co 16:9; Fm 6). A palavra de Deus não é letra parada; age em quem a ouve."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "mais afiada que qualquer espada de dois gumes",
+    "termo": "τομώτερος ὑπὲρ πᾶσαν μάχαιραν δίστομον",
+    "titulo": "tomōteros e distomos",
+    "texto": "Tomōteros (hápax) é “mais cortante”. Distomos é lit. “de duas bocas”: a espada que corta dos dois lados. Machaira é a espada curta, também o punhal do sacerdote que abatia os animais; a imagem do v. 13 pode continuar essa ideia."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "dividir alma e espírito, juntas e medulas",
+    "termo": "μερισμοῦ ψυχῆς καὶ πνεύματος, ἁρμῶν τε καὶ μυελῶν",
+    "titulo": "o que é dividido?",
+    "texto": "Lit. “até a divisão de alma e espírito, de juntas e de medulas” (harmos e myelos, hápax). A maioria entende uma imagem poética de penetração total: a palavra atinge o mais íntimo da pessoa, como uma lâmina que chega às articulações e ao tutano dos ossos. Alguns veem aqui a distinção entre alma e espírito como partes do ser humano (tricotomia); o texto, porém, não diz que a palavra separa a alma do espírito, mas que chega até onde eles se dividem, isto é, ao fundo de tudo. O Textus Receptus e o Texto Bizantino acrescentam te, sem efeito na tradução."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "julga",
+    "termo": "κριτικὸς (kritikos)",
+    "titulo": "kritikos, hápax",
+    "texto": "“Capaz de julgar, que discerne”. A palavra de Deus não é julgada pelo ouvinte; é ela que o julga, até nos pensamentos (enthymēseis) e nas intenções (ennoiai) escondidos."
+   }
+  ]
+ },
+ "Heb.4.13": {
+  "t": "Nenhuma criatura fica escondida diante dele; pelo contrário, todas as coisas estão nuas e expostas aos olhos daquele a quem teremos de prestar contas.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "expostas",
+    "termo": "τετραχηλισμένα (tetrachēlismena)",
+    "titulo": "trachēlizō, hápax",
+    "texto": "Da palavra trachēlos, “pescoço”. O verbo era usado para o lutador que agarra o adversário pelo pescoço e o derruba, para o animal do sacrifício com o pescoço dobrado para trás, e talvez para o réu forçado a erguer o rosto diante do juiz. Em todos os casos, o sentido é “exposto, sem poder esconder-se”. Aphanēs (“escondida”) também é hápax."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "daquele a quem teremos de prestar contas",
+    "termo": "πρὸς ὃν ἡμῖν ὁ λόγος (pros hon hēmin ho logos)",
+    "titulo": "jogo com logos",
+    "texto": "Lit. “a quem para nós a palavra” ou “com quem é a nossa conta”. Logos significa também “conta, prestação de contas” (13:17; Lc 16:2). O autor fecha com um jogo: a palavra (logos) de Deus nos examina, e a ele teremos de dar a nossa palavra (logos), a nossa conta."
+   }
+  ]
+ },
+ "Heb.4.14": {
+  "t": "Tendo, pois, um grande sumo sacerdote que atravessou os céus, Jesus, o Filho de Deus, mantenhamos firme a confissão.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "que atravessou os céus",
+    "termo": "διεληλυθότα τοὺς οὐρανούς",
+    "titulo": "o Dia da Expiação",
+    "texto": "O sumo sacerdote de Israel atravessava o pátio e o Lugar Santo para entrar no Santo dos Santos (Lv 16). Jesus atravessou os céus e entrou na presença de Deus (9:24). Com este versículo começa a seção central da carta sobre o sacerdócio de Cristo (4:14-10:18), que retoma 2:17-3:1."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "mantenhamos firme",
+    "termo": "κρατῶμεν (kratōmen)",
+    "titulo": "krateō",
+    "texto": "“Segurar com força, não largar”. O mesmo apelo em 6:18 e 10:23. “A confissão” é a fé professada (3:1)."
+   }
+  ]
+ },
+ "Heb.4.15": {
+  "t": "Pois não temos um sumo sacerdote incapaz de compadecer-se das nossas fraquezas, mas um que, como nós, foi tentado em todas as coisas, porém sem pecado.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "compadecer-se",
+    "termo": "συμπαθῆσαι (sympathēsai)",
+    "titulo": "sympatheō, raro",
+    "texto": "Lit. “sofrer com”: não só sentir pena, mas partilhar a experiência de quem sofre (10:34). A dupla negação (“não temos um que não possa”) é uma afirmação forte."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "como nós, foi tentado em todas as coisas",
+    "termo": "πεπειρασμένον ... κατὰ πάντα καθ᾽ ὁμοιότητα",
+    "titulo": "kath’ homoiotēta",
+    "texto": "Lit. “tentado em todas as coisas segundo a semelhança”. Pode ser “à nossa semelhança” ou “segundo a semelhança” da sua humanidade com a nossa (2:17). O perfeito indica experiência que permanece nele. O Textus Receptus e o Texto Bizantino trazem a forma pepeiramenon, de mesmo sentido."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "porém sem pecado",
+    "termo": "χωρὶς ἁμαρτίας (chōris hamartias)",
+    "titulo": "sem pecado",
+    "texto": "A afirmação central é que Jesus nunca pecou (7:26; 2Co 5:21; 1Pe 2:22). Debate-se se podia ter pecado. A tradição ortodoxa afirma que não podia (impecabilidade), mas que a tentação foi real; outros acentuam que a tentação só é real se o pecado era possível. O texto afirma a semelhança real e a ausência de pecado, sem resolver a questão."
+   }
+  ]
+ },
+ "Heb.4.16": {
+  "t": "Aproximemo-nos, portanto, com confiança do trono da graça, para recebermos misericórdia e encontrarmos graça que nos socorra no momento oportuno.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Aproximemo-nos",
+    "termo": "προσερχώμεθα (proserchōmetha)",
+    "titulo": "verbo do culto",
+    "texto": "Proserchomai é o verbo usado na Septuaginta para os sacerdotes que se aproximavam de Deus no culto (Lv 9:7; 21:17). Por meio de Jesus, todo o povo pode fazer o que antes era reservado aos sacerdotes (7:25; 10:22; 12:22)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "com confiança",
+    "termo": "μετὰ παρρησίας (meta parrēsias)",
+    "titulo": "parrēsia",
+    "texto": "A liberdade de quem tem acesso garantido e não precisa temer (3:6; 10:19). O “trono da graça” lembra o propiciatório, a tampa da arca entre os querubins, onde Deus se encontrava com o povo (9:5)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "que nos socorra no momento oportuno",
+    "termo": "εἰς εὔκαιρον βοήθειαν (eis eukairon boētheian)",
+    "titulo": "“para socorro oportuno”",
+    "texto": "Lit. “para ajuda oportuna”. Eukairos é “no tempo certo”: a graça chega quando é preciso. O Textus Receptus traz a forma eleon em vez de eleos (“misericórdia”), sem mudança de sentido."
+   }
+  ]
+ },
+ "Heb.5.1": {
+  "t": "Pois todo sumo sacerdote, escolhido entre os homens, é constituído em favor dos homens nas coisas que dizem respeito a Deus, para oferecer dons e sacrifícios pelos pecados.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "todo sumo sacerdote",
+    "termo": "Πᾶς ... ἀρχιερεὺς",
+    "titulo": "o retrato do sumo sacerdote",
+    "texto": "Os vv. 1-4 descrevem o sumo sacerdote segundo a Lei: é humano, solidário com o povo, oferece sacrifícios também por si mesmo e é chamado por Deus. Os vv. 5-10 mostram como Cristo cumpre e supera esse retrato, em ordem inversa: chamado por Deus (vv. 5-6), solidário no sofrimento (vv. 7-8), causa de salvação (vv. 9-10)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "escolhido entre os homens",
+    "termo": "ἐξ ἀνθρώπων λαμβανόμενος (ex anthrōpōn lambanomenos)",
+    "titulo": "anthrōpoi",
+    "texto": "Anthrōpoi são “seres humanos”. “Homens” foi mantido pela repetição do grego (“entre os homens ... em favor dos homens”), que sublinha que o sacerdote é um deles. “Dons e sacrifícios” é expressão para todo tipo de oferta (8:3; 9:9)."
+   }
+  ]
+ },
+ "Heb.5.2": {
+  "t": "Ele é capaz de ser brando com os ignorantes e os que se desviam, visto que ele mesmo está cercado de fraqueza.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "ser brando",
+    "termo": "μετριοπαθεῖν (metriopathein)",
+    "titulo": "metriopatheō, hápax",
+    "texto": "Termo da ética filosófica grega: “moderar as paixões”, ter a justa medida no sentimento, sem dureza excessiva nem indulgência. Aqui é tratar os que pecam com mansidão e paciência. É diferente de sympatheō (4:15), “sofrer com”, que o autor reserva para Cristo."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "os ignorantes e os que se desviam",
+    "termo": "τοῖς ἀγνοοῦσιν καὶ πλανωμένοις",
+    "titulo": "pecados por ignorância",
+    "texto": "A Lei previa sacrifícios para os pecados cometidos por ignorância ou fraqueza (Lv 4:2, 13; Nm 15:22-29), mas não para o pecado “de mão levantada”, a rebelião deliberada (Nm 15:30-31). A distinção prepara as advertências de 6:4-6 e 10:26."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "está cercado de fraqueza",
+    "termo": "περίκειται ἀσθένειαν (perikeitai astheneian)",
+    "titulo": "“está revestido de fraqueza”",
+    "texto": "Lit. “está posto ao redor de fraqueza”, como uma roupa ou uma corrente que o envolve (cf. At 28:20). A fraqueza do sacerdote é moral, não só física: ele também peca (v. 3)."
+   }
+  ]
+ },
+ "Heb.5.3": {
+  "t": "E, por causa dela, deve oferecer sacrifícios pelos pecados tanto pelo povo como também por si mesmo.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "como também por si mesmo",
+    "termo": "οὕτως καὶ περὶ αὐτοῦ",
+    "titulo": "Levítico 16",
+    "texto": "No Dia da Expiação, o sumo sacerdote oferecia primeiro um novilho pelos próprios pecados e pelos da sua casa, e só depois o bode pelo povo (Lv 16:6, 11, 15; cf. Lv 9:7). Cristo não precisa disso (7:27). O Textus Receptus e o Texto Bizantino trazem tautēn (“esta”) e hyper (“por”), de mesmo sentido."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "deve oferecer sacrifícios",
+    "termo": "ὀφείλει ... προσφέρειν",
+    "titulo": "“deve oferecer”",
+    "texto": "O grego diz só “deve oferecer pelos pecados”; “sacrifícios” está implícito e foi explicitado para clareza. Opheilei indica obrigação imposta pela Lei."
+   }
+  ]
+ },
+ "Heb.5.4": {
+  "t": "E ninguém toma para si mesmo essa honra; ao contrário, é chamado por Deus, como também foi Arão.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "como também foi Arão",
+    "termo": "καθώσπερ καὶ Ἀαρών",
+    "titulo": "o chamado de Arão",
+    "texto": "Arão e seus filhos foram escolhidos por Deus (Êx 28:1), e a revolta de Corá, que quis o sacerdócio para si, foi punida (Nm 16-17). A “honra” (timē) é o ofício sacerdotal. Kathōsper (“como também”) é hápax, de mesmo sentido do kathaper do Textus Receptus e do Texto Bizantino."
+   }
+  ]
+ },
+ "Heb.5.5": {
+  "t": "Assim também Cristo não glorificou a si mesmo para se tornar sumo sacerdote, mas foi glorificado por aquele que lhe disse: “Tu és meu Filho; eu hoje te gerei”.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "mas foi glorificado por aquele que lhe disse",
+    "termo": "ἀλλ᾽ ὁ λαλήσας πρὸς αὐτόν",
+    "titulo": "elipse",
+    "texto": "Lit. “mas aquele que lhe disse”. O verbo está subentendido: “(glorificou-o) aquele que lhe disse”. Traduzido com a passiva para clareza. O artigo em ho Christos (“o Cristo”) acentua o título: o Messias não se nomeou sacerdote a si mesmo."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Tu és meu Filho; eu hoje te gerei",
+    "termo": "υἱός μου εἶ σύ, ἐγὼ σήμερον γεγέννηκά σε",
+    "titulo": "Salmo 2:7 de novo",
+    "texto": "O Sl 2:7, citado em 1:5, volta agora ligado ao Sl 110:4 (v. 6). Os dois salmos são dirigidos ao mesmo rei: aquele que Deus chama “Filho” é também o que ele declara “sacerdote”. A filiação e o sacerdócio de Cristo vêm da mesma palavra de Deus."
+   }
+  ]
+ },
+ "Heb.5.6": {
+  "t": "Como também diz em outro lugar: “Tu és sacerdote para sempre, segundo a ordem de Melquisedeque”.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Tu és sacerdote para sempre",
+    "termo": "σὺ ἱερεὺς εἰς τὸν αἰῶνα",
+    "titulo": "Salmo 110:4",
+    "texto": "Citação do Sl 110:4 (LXX 109:4), na forma da Septuaginta. É o texto que sustenta toda a argumentação dos caps. 5-7. O versículo 1 do mesmo salmo já foi citado em 1:13. Melquisedeque é o rei-sacerdote de Salém que abençoou Abraão (Gn 14:18-20); o cap. 7 desenvolve a comparação."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "segundo a ordem de",
+    "termo": "κατὰ τὴν τάξιν (kata tēn taxin)",
+    "titulo": "taxis",
+    "texto": "Taxis é “ordem, posição, categoria”, e também “maneira”. O hebraico ʿal dibrati pode significar “à maneira de” ou “por causa de”. “Ordem” é o termo tradicional; não indica uma linhagem de sacerdotes sucessores, mas um tipo de sacerdócio diferente do de Arão (7:11, 15, onde “semelhança” explica taxis)."
+   }
+  ]
+ },
+ "Heb.5.7": {
+  "t": "Durante os dias em que viveu na carne, ele ofereceu orações e súplicas, com forte clamor e lágrimas, àquele que podia salvá-lo da morte, e foi ouvido por causa da sua reverência.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Durante os dias em que viveu na carne",
+    "termo": "ἐν ταῖς ἡμέραις τῆς σαρκὸς αὐτοῦ",
+    "titulo": "“nos dias da sua carne”",
+    "texto": "Lit. “nos dias da sua carne”: a vida terrena de Jesus, na condição humana frágil e mortal (2:14), em contraste com a vida exaltada. Sarx aqui não tem sentido moral."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "com forte clamor e lágrimas",
+    "termo": "μετὰ κραυγῆς ἰσχυρᾶς καὶ δακρύων",
+    "titulo": "Getsêmani",
+    "texto": "O quadro lembra sobretudo a oração no Getsêmani (Mc 14:32-42; Lc 22:41-44) e talvez o clamor na cruz (Mc 15:34, 37). O autor também pode ter em mente os salmos de lamento do justo sofredor (Sl 22:24; 116:1-8). Os Evangelhos não falam de lágrimas no Getsêmani; o autor pode depender de tradição oral ou descrever a oração em linguagem dos salmos."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "súplicas",
+    "termo": "ἱκετηρίας (hiketērias)",
+    "titulo": "hiketēria, hápax",
+    "texto": "Originalmente o ramo de oliveira que o suplicante levava nas mãos; daí, “súplica humilde”. O par “orações e súplicas” é comum no grego para oração intensa."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "foi ouvido por causa da sua reverência",
+    "termo": "εἰσακουσθεὶς ἀπὸ τῆς εὐλαβείας",
+    "titulo": "ouvido como?",
+    "texto": "Eulabeia (raro) é “reverência, temor piedoso” (12:28). A leitura mais comum é causal: foi ouvido por causa da sua submissão reverente (“não o que eu quero”, Mc 14:36). Outra leitura, antiga, entende “foi livrado do medo”, mas eulabeia raramente significa “medo” no sentido de pavor. Se foi ouvido, por que morreu? Porque o pedido de ser salvo “da” morte (ek thanatou, lit. “para fora da morte”) foi atendido na ressurreição, não pela fuga da cruz."
+   }
+  ]
+ },
+ "Heb.5.8": {
+  "t": "Embora fosse Filho, aprendeu a obediência por meio daquilo que padeceu,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "aprendeu a obediência por meio daquilo que padeceu",
+    "termo": "ἔμαθεν ἀφ᾽ ὧν ἔπαθεν (emathen aph’ hōn epathen)",
+    "titulo": "jogo de palavras",
+    "texto": "No grego, emathen (“aprendeu”) e epathen (“padeceu”) rimam; a ligação entre aprender e sofrer era um ditado conhecido na literatura grega. “Aprendeu ... padeceu” tenta guardar o som. Não significa que Jesus passou da desobediência à obediência, mas que aprendeu, na experiência, o que a obediência custa, até a morte (Fp 2:8)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Embora fosse Filho",
+    "termo": "καίπερ ὢν υἱός",
+    "titulo": "o paradoxo",
+    "texto": "Seria de esperar que o Filho, herdeiro de todas as coisas (1:2), fosse poupado do sofrimento. O autor afirma o contrário: a filiação não o isentou; ele foi o Filho obediente no sofrimento, o que o torna modelo para os “filhos” que são disciplinados (12:5-11)."
+   }
+  ]
+ },
+ "Heb.5.9": {
+  "t": "e, uma vez aperfeiçoado, tornou-se causa de salvação eterna para todos os que lhe obedecem,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "uma vez aperfeiçoado",
+    "termo": "τελειωθεὶς (teleiōtheis)",
+    "titulo": "teleioō",
+    "texto": "Como em 2:10: plenamente qualificado como sumo sacerdote, ao completar o caminho de obediência, morte e exaltação. Não implica imperfeição moral anterior."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "causa",
+    "termo": "αἴτιος (aitios)",
+    "titulo": "aitios",
+    "texto": "“Causa, fonte, autor”. No grego da época, a expressão “causa de salvação” era usada para benfeitores e libertadores. “Salvação eterna” é a primeira das expressões com “eterno” em Hebreus (6:2; 9:12, 14, 15; 13:20)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "para todos os que lhe obedecem",
+    "termo": "πᾶσιν τοῖς ὑπακούουσιν αὐτῷ",
+    "titulo": "obediência e obediência",
+    "texto": "Ele aprendeu a obediência (v. 8) e salva os que lhe obedecem: a fé, em Hebreus, se mostra em obediência (cf. 3:18-19, onde desobediência e incredulidade se equivalem)."
+   }
+  ]
+ },
+ "Heb.5.10": {
+  "t": "tendo sido designado por Deus sumo sacerdote segundo a ordem de Melquisedeque.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "designado",
+    "termo": "προσαγορευθεὶς (prosagoreutheis)",
+    "titulo": "prosagoreuō, hápax",
+    "texto": "“Saudar, chamar por um título, proclamar oficialmente”. A palavra de Deus no Sl 110:4 é a proclamação solene que confere o título. O autor anuncia aqui o tema que só vai retomar em 6:20 e no cap. 7, depois da digressão de 5:11-6:20."
+   }
+  ]
+ },
+ "Heb.5.11": {
+  "t": "A respeito disso temos muito a dizer, e é difícil de explicar, porque vocês se tornaram lentos para ouvir.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "A respeito disso",
+    "termo": "περὶ οὗ (peri hou)",
+    "titulo": "“disso” ou “dele”",
+    "texto": "O relativo pode ser masculino (“a respeito dele”, Melquisedeque ou Cristo) ou neutro (“a respeito disso”, o sacerdócio segundo a ordem de Melquisedeque). O assunto, mais que a pessoa, é o que o autor acha difícil de explicar."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "difícil de explicar",
+    "termo": "δυσερμήνευτος (dysermēneutos)",
+    "titulo": "dysermēneutos, hápax",
+    "texto": "Lit. “difícil de interpretar”. A dificuldade não está no tema em si, mas nos ouvintes, como diz a segunda parte do versículo."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "lentos para ouvir",
+    "termo": "νωθροὶ ... ταῖς ἀκοαῖς (nōthroi tais akoais)",
+    "titulo": "nōthros, raro",
+    "texto": "Nōthros é “lento, preguiçoso, embotado”. A mesma palavra reaparece em 6:12 (“para que não se tornem preguiçosos”), emoldurando a advertência. O perfeito gegonate (“se tornaram”) indica que nem sempre foram assim: é um estado a que chegaram."
+   }
+  ]
+ },
+ "Heb.5.12": {
+  "t": "De fato, embora a esta altura já devessem ser mestres, vocês precisam de novo que alguém lhes ensine os princípios elementares das palavras de Deus; tornaram-se pessoas que precisam de leite, e não de alimento sólido.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "os princípios elementares",
+    "termo": "τὰ στοιχεῖα τῆς ἀρχῆς (ta stoicheia tēs archēs)",
+    "titulo": "“os elementos do princípio”",
+    "texto": "Stoicheia são as letras do alfabeto e, por extensão, os rudimentos de qualquer saber, o “bê-á-bá”. O autor diz que precisam voltar à primeira lição."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "das palavras de Deus",
+    "termo": "τῶν λογίων τοῦ θεοῦ (tōn logiōn tou theou)",
+    "titulo": "logia",
+    "texto": "Logia são “oráculos, palavras ditas por Deus”; em Rm 3:2 designa as Escrituras de Israel. Aqui pode ser o AT, que o autor interpreta, ou o ensino cristão básico (6:1-2)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "que alguém lhes ensine",
+    "termo": "τοῦ διδάσκειν ὑμᾶς τινὰ (tina / tína)",
+    "titulo": "“alguém” ou “quais”",
+    "texto": "Sem acentos nos manuscritos, tina pode ser indefinido (“que alguém lhes ensine os princípios”), como no texto-base, no NA28 e em Westcott-Hort, ou interrogativo (“que lhes ensinem quais são os princípios”), como no THGNT, em Tregelles, no Textus Receptus e no Texto Bizantino. O sentido final é próximo."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "leite, e não de alimento sólido",
+    "termo": "γάλακτος οὐ στερεᾶς τροφῆς",
+    "titulo": "leite e alimento sólido",
+    "texto": "Imagem comum na educação antiga, entre os filósofos e em Fílon, e também em Paulo (1Co 3:1-2). Em 1Pe 2:2 o “leite” é positivo; aqui, indica imaturidade que já devia ter passado."
+   }
+  ]
+ },
+ "Heb.5.13": {
+  "t": "Pois todo aquele que se alimenta de leite não tem experiência da palavra da justiça, porque ainda é criança.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "não tem experiência da palavra da justiça",
+    "termo": "ἄπειρος λόγου δικαιοσύνης (apeiros logou dikaiosynēs)",
+    "titulo": "duas leituras",
+    "texto": "Apeiros (hápax) é “sem experiência, inexperiente”. “A palavra da justiça” pode ser (1) o ensino sobre a justiça, isto é, a mensagem cristã madura; (2) a fala correta, adulta, em contraste com o balbucio da criança; ou (3) a palavra que forma para uma vida justa, ligando-se ao discernimento do bem e do mal (v. 14). A tradução literal deixa as leituras abertas; a terceira combina melhor com o versículo seguinte."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "criança",
+    "termo": "νήπιος (nēpios)",
+    "titulo": "nēpios",
+    "texto": "A criança pequena, que ainda não fala bem; termo da imagem educativa (Gl 4:1-3; 1Co 3:1). O “ainda” foi acrescentado porque o contraste é com a maturidade esperada (v. 12)."
+   }
+  ]
+ },
+ "Heb.5.14": {
+  "t": "Mas o alimento sólido é para os maduros, aqueles que, pela prática, têm as faculdades treinadas para distinguir o bem do mal.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "maduros",
+    "termo": "τελείων (teleiōn)",
+    "titulo": "teleioi",
+    "texto": "Lit. “perfeitos”, no sentido de adultos, desenvolvidos. A palavra é da mesma família do “aperfeiçoar” aplicado a Cristo (2:10; 5:9), e 6:1 convida a seguir “para a maturidade” (teleiotēs)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "pela prática, têm as faculdades treinadas",
+    "termo": "διὰ τὴν ἕξιν τὰ αἰσθητήρια γεγυμνασμένα ἐχόντων",
+    "titulo": "hexis e aisthētēria",
+    "texto": "Hexis (hápax) é o hábito ou estado adquirido pelo uso; aisthētēria (hápax) são os órgãos dos sentidos e, por extensão, as faculdades de percepção moral. Gymnazō é treinar como um atleta (12:11). A maturidade não vem só de saber mais, mas de exercitar o discernimento."
+   }
+  ]
+ },
+ "Heb.6.1": {
+  "t": "Por isso, deixando para trás o ensino elementar sobre Cristo, deixemo-nos levar adiante, rumo à maturidade, sem lançar de novo o alicerce do arrependimento de obras mortas e da fé em Deus,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "o ensino elementar sobre Cristo",
+    "termo": "τὸν τῆς ἀρχῆς τοῦ Χριστοῦ λόγον",
+    "titulo": "“a palavra do princípio do Cristo”",
+    "texto": "Lit. “a palavra do começo do Cristo”: a instrução básica sobre Cristo, o “bê-á-bá” de 5:12. “Deixar para trás” não é abandonar, mas não ficar parado nela, como o edifício não fica no alicerce. Alguns observam que os itens dos vv. 1-2 (arrependimento, fé em Deus, purificações, ressurreição, juízo) eram comuns ao judaísmo e ao cristianismo: os leitores corriam o risco de ficar no terreno comum, sem avançar no que é próprio de Cristo."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "deixemo-nos levar adiante",
+    "termo": "φερώμεθα (pherōmetha)",
+    "titulo": "passivo",
+    "texto": "O verbo está na voz passiva: “sejamos levados”. A imagem é a de um barco levado pelo vento: o avanço depende do esforço, mas a força vem de Deus (v. 3). “Maturidade” (teleiotēs, raro) retoma os “maduros” de 5:14."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "obras mortas",
+    "termo": "νεκρῶν ἔργων (nekrōn ergōn)",
+    "titulo": "“obras mortas”",
+    "texto": "Pode ser as obras pecaminosas, que levam à morte, ou os ritos que não dão vida (cf. 9:14, onde o sangue de Cristo purifica a consciência de “obras mortas”). A maioria entende o primeiro sentido, que combina com “arrependimento”."
+   }
+  ]
+ },
+ "Heb.6.2": {
+  "t": "do ensino sobre batismos e imposição de mãos, sobre ressurreição dos mortos e juízo eterno.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "batismos",
+    "termo": "βαπτισμῶν (baptismōn)",
+    "titulo": "baptismos no plural",
+    "texto": "O NT costuma usar baptisma para o batismo cristão; baptismos, no plural, designa em 9:10 e Mc 7:4 as abluções rituais judaicas. O ensino básico talvez explicasse a diferença entre o batismo cristão, o de João e as purificações judaicas. “Batismos” foi mantido para não esconder o termo, com esta nota sobre o sentido mais amplo de “lavagens, purificações”."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "do ensino",
+    "termo": "διδαχὴν / διδαχῆς (didachēn / didachēs)",
+    "titulo": "acusativo ou genitivo",
+    "texto": "O texto-base e Westcott-Hort trazem o acusativo didachēn, em aposição a “alicerce” (v. 1): “o alicerce ..., isto é, o ensino sobre batismos”. As outras edições trazem o genitivo didachēs, “alicerce ... de ensino sobre batismos”. O sentido é o mesmo."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "imposição de mãos",
+    "termo": "ἐπιθέσεώς τε χειρῶν",
+    "titulo": "imposição de mãos",
+    "texto": "No NT, ligada à recepção do Espírito (At 8:17; 19:6), à cura e à designação para um serviço (At 6:6; 1Tm 4:14). Os seis itens dos vv. 1-2 formam três pares: conversão (arrependimento e fé), ritos de iniciação (batismos e imposição de mãos) e esperança final (ressurreição e juízo)."
+   }
+  ]
+ },
+ "Heb.6.3": {
+  "t": "E isso faremos, se Deus o permitir.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "faremos",
+    "termo": "ποιήσομεν (poiēsomen)",
+    "titulo": "“faremos” ou “façamos”",
+    "texto": "O texto crítico e o Textus Receptus trazem o futuro poiēsomen (“faremos”); o Texto Bizantino, o subjuntivo poiēsōmen (“façamos”). As duas formas soavam iguais na pronúncia da época. “Isso” é avançar para a maturidade (v. 1). A condição (“se Deus o permitir”) prepara os vv. 4-6: há casos em que o avanço já não é possível."
+   }
+  ]
+ },
+ "Heb.6.4": {
+  "t": "Pois é impossível, quanto àqueles que uma vez foram iluminados, que provaram o dom celestial, que se tornaram participantes do Espírito Santo,",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "é impossível",
+    "termo": "ἀδύνατον (adynaton)",
+    "titulo": "a advertência mais severa",
+    "texto": "Os vv. 4-6 são uma única frase: “é impossível ... renová-los outra vez para o arrependimento” (v. 6). É um dos textos mais debatidos do NT. As principais leituras: (1) descrevem cristãos verdadeiros que podem perder a salvação pela apostasia deliberada (tradição arminiana e muitos intérpretes católicos e ortodoxos); (2) descrevem pessoas que tiveram uma experiência real da comunidade e do Espírito, mas sem conversão genuína, como mostra o contraste do v. 9 (“coisas melhores, que acompanham a salvação”; John Owen e muitos reformados); (3) é uma advertência hipotética, um caso que não acontece, usado para gerar perseverança, o meio pelo qual Deus guarda os seus (alguns reformados); (4) a perda é de recompensa, não de salvação (posição minoritária). Em todas as leituras, a falta em vista não é um pecado qualquer, mas o abandono consciente de Cristo, comparável à rebelião “de mão levantada” (Nm 15:30-31; cf. 10:26-29). A “impossibilidade” é afirmada do ponto de vista humano (“renová-los”); o texto não diz o que Deus pode fazer.",
+    "revisar": true
+   },
+   {
+    "tipo": "tn",
+    "ancora": "uma vez foram iluminados",
+    "termo": "τοὺς ἅπαξ φωτισθέντας (tous hapax phōtisthentas)",
+    "titulo": "phōtizō",
+    "texto": "“Iluminar”: receber a luz do evangelho (10:32; 2Co 4:4-6). No séc. II, “iluminação” já designava o batismo (Justino), mas não é certo que o termo tenha esse sentido técnico aqui. Hapax (“uma vez por todas”) sublinha que a experiência foi real e decisiva."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "provaram o dom celestial",
+    "termo": "γευσαμένους ... τῆς δωρεᾶς τῆς ἐπουρανίου",
+    "titulo": "“provar”",
+    "texto": "Geuomai é “provar, saborear” e, por extensão, “experimentar de verdade”, como Jesus “provou a morte” (2:9). Não indica um contato superficial. “O dom celestial” pode ser a salvação, o Espírito ou a própria graça de Deus."
+   }
+  ]
+ },
+ "Heb.6.5": {
+  "t": "que provaram a boa palavra de Deus e os poderes da era que há de vir,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "os poderes da era que há de vir",
+    "termo": "δυνάμεις τε μέλλοντος αἰῶνος",
+    "titulo": "dynameis",
+    "texto": "Os milagres e manifestações do Espírito (2:4), vistos como antecipação da nova criação. “Era que há de vir” traduz aiōn, aqui o tempo novo que começou com Cristo (cf. 2:5)."
+   }
+  ]
+ },
+ "Heb.6.6": {
+  "t": "e que caíram, renová-los outra vez para o arrependimento, eles que crucificam de novo, para si mesmos, o Filho de Deus e o expõem à desonra pública.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "e que caíram",
+    "termo": "καὶ παραπεσόντας (parapesontas)",
+    "titulo": "parapiptō, hápax",
+    "texto": "“Cair para o lado, desviar-se, apostatar”. A gramática liga este particípio aos anteriores, sem “se”: o autor descreve um grupo. Traduções que dizem “se caírem” tornam a frase condicional, o que o grego permite pelo sentido, mas não pela forma."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "renová-los outra vez",
+    "termo": "πάλιν ἀνακαινίζειν (palin anakainizein)",
+    "titulo": "anakainizō, hápax",
+    "texto": "“Renovar, restaurar”. O infinitivo ativo não diz quem renova: pode ser a comunidade, os mestres ou qualquer agente humano. Por isso alguns entendem a impossibilidade como humana, não como limite ao poder de Deus (cf. Mc 10:27)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "eles que crucificam de novo",
+    "termo": "ἀνασταυροῦντας (anastaurountas)",
+    "titulo": "anastauroō, hápax, e o particípio",
+    "texto": "No grego comum, anastauroō significa simplesmente “crucificar” (lit. “erguer na cruz”); os Pais gregos o entenderam como “crucificar de novo”, sentido que combina com “outra vez” no mesmo versículo. O particípio presente pode ser causal (“porque crucificam”: a impossibilidade decorre de continuarem rejeitando Cristo) ou temporal (“enquanto crucificam”: a impossibilidade dura enquanto persistirem). A tradução com aposto (“eles que crucificam”) deixa as duas leituras abertas."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "o expõem à desonra pública",
+    "termo": "παραδειγματίζοντας (paradeigmatizontas)",
+    "titulo": "paradeigmatizō, hápax",
+    "texto": "“Fazer de alguém um exemplo público, expor à vergonha”, como se fazia com o crucificado. Quem abandona Cristo publicamente se põe ao lado dos que o desprezaram na cruz."
+   }
+  ]
+ },
+ "Heb.6.7": {
+  "t": "Pois a terra que bebe a chuva que cai muitas vezes sobre ela e produz plantas úteis para aqueles por quem é cultivada recebe bênção da parte de Deus;",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "a terra que bebe a chuva",
+    "termo": "Γῆ ... ἡ πιοῦσα τὸν ... ὑετὸν",
+    "titulo": "a parábola da terra",
+    "texto": "Imagem agrícola comum no AT para o povo que recebe as bênçãos de Deus e deve dar fruto (Is 5:1-7; Dt 11:11). A mesma chuva cai sobre os dois terrenos (vv. 7-8); o que muda é o que cada um produz. Botanē (“plantas”) e geōrgeō (“cultivar”) são hápax; euthetos (“útil”) é raro."
+   }
+  ]
+ },
+ "Heb.6.8": {
+  "t": "mas, se produz espinhos e cardos, é rejeitada e está perto da maldição; o seu fim é ser queimada.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "espinhos e cardos",
+    "termo": "ἀκάνθας καὶ τριβόλους",
+    "titulo": "Gênesis 3:17-18",
+    "texto": "Eco de Gn 3:17-18 (LXX): a terra amaldiçoada produz “espinhos e cardos”. Tribolos (raro) é uma planta espinhosa, o “abrolho” das traduções antigas."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "o seu fim é ser queimada",
+    "termo": "ἧς τὸ τέλος εἰς καῦσιν",
+    "titulo": "“cujo fim é para queima”",
+    "texto": "Lit. “cujo fim é para a queima” (kausis, hápax). Os agricultores queimavam o campo tomado de espinhos. A imagem aponta para o juízo (10:27; 12:29), mas o autor diz “perto da maldição”, não “amaldiçoada”, e logo em seguida expressa confiança nos leitores (v. 9)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "é rejeitada",
+    "termo": "ἀδόκιμος (adokimos)",
+    "titulo": "adokimos",
+    "texto": "“Reprovada no teste, que não serve”. É o contrário de dokimos, aprovado. A tradução por verbo (“é rejeitada”) dá fluência à frase."
+   }
+  ]
+ },
+ "Heb.6.9": {
+  "t": "Quanto a vocês, porém, amados, mesmo falando assim, estamos convencidos de coisas melhores, coisas que acompanham a salvação.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "amados",
+    "termo": "ἀγαπητοί (agapētoi)",
+    "titulo": "única vez em Hebreus",
+    "texto": "O único lugar em que o autor chama os leitores de “amados”: a severidade dos vv. 4-8 nasce de cuidado pastoral, não de condenação."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "coisas que acompanham a salvação",
+    "termo": "ἐχόμενα σωτηρίας (echomena sōtērias)",
+    "titulo": "“coisas que se seguram à salvação”",
+    "texto": "Lit. “coisas que estão ligadas à salvação”. O autor distingue a situação dos leitores da dos que caíram (vv. 4-6): ele vê neles os sinais da salvação, que menciona no v. 10. Para a leitura reformada, este versículo indica que os descritos nos vv. 4-6 não tinham essas “coisas melhores”."
+   }
+  ]
+ },
+ "Heb.6.10": {
+  "t": "Pois Deus não é injusto para se esquecer do trabalho de vocês e do amor que mostraram para com o seu nome, ao servirem os santos e continuarem a servi-los.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "do trabalho de vocês e do amor",
+    "termo": "τοῦ ἔργου ὑμῶν καὶ τῆς ἀγάπης (+ τοῦ κόπου)",
+    "titulo": "“trabalho de amor”",
+    "texto": "O Textus Receptus e o Texto Bizantino trazem “do trabalho de vocês e do esforço (tou kopou) do amor”, talvez sob influência de 1Ts 1:3. O texto crítico não tem o acréscimo."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "ao servirem os santos e continuarem a servi-los",
+    "termo": "διακονήσαντες τοῖς ἁγίοις καὶ διακονοῦντες",
+    "titulo": "serviço passado e presente",
+    "texto": "O aoristo e o presente mostram que o serviço começou no passado (cf. 10:32-34, quando cuidaram dos presos e aceitaram o confisco dos bens) e continua. “Santos” são os cristãos, separados para Deus."
+   }
+  ]
+ },
+ "Heb.6.11": {
+  "t": "Desejamos, porém, que cada um de vocês mostre esse mesmo empenho até o fim, para que a esperança se torne plena certeza,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "para que a esperança se torne plena certeza",
+    "termo": "πρὸς τὴν πληροφορίαν τῆς ἐλπίδος",
+    "titulo": "plērophoria",
+    "texto": "Lit. “para a plena certeza da esperança”. Plērophoria pode ser “certeza plena” (10:22) ou “plena realização”. Os leitores já mostravam empenho no amor; o autor quer o mesmo empenho na esperança, até o fim."
+   }
+  ]
+ },
+ "Heb.6.12": {
+  "t": "para que não se tornem preguiçosos, mas imitadores daqueles que, pela fé e pela paciência, herdam as promessas.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "preguiçosos",
+    "termo": "νωθροὶ (nōthroi)",
+    "titulo": "nōthros, de novo",
+    "texto": "A mesma palavra de 5:11 (“lentos para ouvir”), que emoldura a seção. Lá descrevia um estado presente; aqui, um perigo a evitar."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "paciência",
+    "termo": "μακροθυμίας (makrothymias)",
+    "titulo": "makrothymia",
+    "texto": "Lit. “longanimidade”, a capacidade de esperar muito tempo sem desistir. Abraão é o exemplo (v. 15). O cap. 11 desenvolverá a lista dos que “herdam as promessas” pela fé."
+   }
+  ]
+ },
+ "Heb.6.13": {
+  "t": "Pois, quando Deus fez a promessa a Abraão, visto que não tinha ninguém maior por quem jurar, jurou por si mesmo,",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "jurou por si mesmo",
+    "termo": "ὤμοσεν καθ᾽ ἑαυτοῦ",
+    "titulo": "Gênesis 22:16",
+    "texto": "Depois do sacrifício de Isaque, Deus diz: “Juro por mim mesmo” (Gn 22:16). Fílon de Alexandria comenta o mesmo texto com raciocínio semelhante: Deus jura por si porque não há nada maior."
+   }
+  ]
+ },
+ "Heb.6.14": {
+  "t": "dizendo: “Certamente te abençoarei ricamente e te multiplicarei grandemente”.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Certamente te abençoarei",
+    "termo": "εἰ μὴν εὐλογῶν εὐλογήσω σε",
+    "titulo": "Gênesis 22:17",
+    "texto": "Citação de Gn 22:17, na forma da Septuaginta, com uma mudança: o Gênesis diz “multiplicarei a tua descendência”; Hebreus, “te multiplicarei”, concentrando a promessa em Abraão."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "abençoarei ricamente ... multiplicarei grandemente",
+    "termo": "εὐλογῶν εὐλογήσω ... πληθύνων πληθυνῶ",
+    "titulo": "“abençoando abençoarei”",
+    "texto": "Lit. “abençoando te abençoarei e multiplicando te multiplicarei”. A Septuaginta imita o infinitivo absoluto hebraico, que intensifica o verbo. “Ricamente” e “grandemente” traduzem essa ênfase."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Certamente",
+    "termo": "εἰ μὴν (ei mēn)",
+    "titulo": "ei mēn ou ē mēn",
+    "texto": "Fórmula de juramento: “com toda a certeza”. O texto crítico traz ei mēn (mēn é hápax), forma atestada na Septuaginta e em papiros; o Textus Receptus e o Texto Bizantino, ē mēn, a grafia clássica. Sem diferença de sentido."
+   }
+  ]
+ },
+ "Heb.6.15": {
+  "t": "E assim, depois de esperar com paciência, Abraão alcançou a promessa.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Abraão alcançou a promessa",
+    "termo": "ἐπέτυχεν τῆς ἐπαγγελίας",
+    "titulo": "sujeito implícito",
+    "texto": "O grego diz só “alcançou”; o sujeito é Abraão, explicitado. Ele alcançou a promessa em parte, com o nascimento e a restituição de Isaque; 11:13, 39 dirá que a plena realização ainda estava por vir."
+   }
+  ]
+ },
+ "Heb.6.16": {
+  "t": "Os homens juram por alguém maior do que eles, e, entre eles, o juramento serve de garantia e põe fim a toda discussão.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "serve de garantia",
+    "termo": "εἰς βεβαίωσιν (eis bebaiōsin)",
+    "titulo": "bebaiōsis, termo jurídico",
+    "texto": "Bebaiōsis (raro) é a garantia legal de um contrato (cf. Fp 1:7). O autor usa a prática humana conhecida: um juramento encerra a disputa. O Textus Receptus e o Texto Bizantino acrescentam men, sem efeito na tradução."
+   }
+  ]
+ },
+ "Heb.6.17": {
+  "t": "Por isso, querendo mostrar de modo ainda mais claro aos herdeiros da promessa que o seu propósito era imutável, Deus se comprometeu com um juramento,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "se comprometeu com um juramento",
+    "termo": "ἐμεσίτευσεν ὅρκῳ (emesiteusen horkō)",
+    "titulo": "mesiteuō, hápax",
+    "texto": "Mesiteuō é “agir como mediador ou fiador”. Deus se põe como garantidor da sua própria promessa, interpondo o juramento. Cristo será chamado mediador (mesitēs) da nova aliança (8:6; 9:15) e fiador dela (7:22)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "imutável",
+    "termo": "τὸ ἀμετάθετον (to ametatheton)",
+    "titulo": "ametathetos, raro",
+    "texto": "Termo jurídico para um testamento ou decisão que não pode ser alterado. Os “herdeiros da promessa” são Abraão e todos os que creem como ele, inclusive os leitores."
+   }
+  ]
+ },
+ "Heb.6.18": {
+  "t": "para que, por meio de duas coisas imutáveis, nas quais é impossível que Deus minta, tenhamos forte encorajamento, nós que buscamos refúgio para nos agarrarmos à esperança que está diante de nós.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "duas coisas imutáveis",
+    "termo": "δύο πραγμάτων ἀμεταθέτων",
+    "titulo": "promessa e juramento",
+    "texto": "A promessa e o juramento de Deus. Uma só já bastaria, porque Deus não mente (Nm 23:19; Tt 1:2); as duas juntas são concessão à fraqueza humana. O NA28 traz o artigo antes de “Deus”, sem efeito na tradução."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "nós que buscamos refúgio",
+    "termo": "οἱ καταφυγόντες (hoi kataphygontes)",
+    "titulo": "katapheugō, raro",
+    "texto": "“Fugir para um lugar seguro”. A imagem pode lembrar as cidades de refúgio (Nm 35; Dt 19), para onde fugia o perseguido, ou o fugitivo que se agarra ao altar (1Rs 1:50). “Agarrar-se” (krateō) é o verbo de 4:14 (“mantenhamos firme”)."
+   }
+  ]
+ },
+ "Heb.6.19": {
+  "t": "Temos essa esperança como âncora da alma, segura e firme, e que penetra no interior, por trás do véu,",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "âncora da alma",
+    "termo": "ἄγκυραν ... τῆς ψυχῆς",
+    "titulo": "a âncora",
+    "texto": "Imagem conhecida na literatura grega para estabilidade em meio às tempestades. A âncora já se fixou no lugar mais seguro: a presença de Deus. Na arte cristã antiga, a âncora foi símbolo da esperança."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "no interior, por trás do véu",
+    "termo": "εἰς τὸ ἐσώτερον τοῦ καταπετάσματος",
+    "titulo": "o Santo dos Santos",
+    "texto": "Expressão de Lv 16:2, 12, 15 (LXX): o lugar além da cortina que separava o Santo dos Santos, onde só o sumo sacerdote entrava uma vez por ano. A imagem mistura âncora e santuário: a esperança está presa ao lugar onde Cristo entrou (v. 20; 9:24; 10:19-20)."
+   }
+  ]
+ },
+ "Heb.6.20": {
+  "t": "onde Jesus entrou por nós como precursor, tendo se tornado sumo sacerdote para sempre, segundo a ordem de Melquisedeque.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "precursor",
+    "termo": "πρόδρομος (prodromos)",
+    "titulo": "prodromos, hápax",
+    "texto": "“O que corre à frente”: o batedor que vai na frente do exército, o que abre o caminho. O sumo sacerdote de Israel entrava sozinho; Jesus entra como precursor, isto é, abrindo o caminho para que os seus o sigam (10:19-20). O versículo retoma 5:10 e introduz o cap. 7."
+   }
+  ]
  }
 }
