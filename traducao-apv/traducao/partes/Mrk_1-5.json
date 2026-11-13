@@ -1,0 +1,998 @@
+{
+ "Mrk.1.1": {
+  "t": "Princípio do evangelho de Jesus Cristo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Princípio",
+    "termo": "Ἀρχή (archē)",
+    "titulo": "título do livro ou da abertura?",
+    "texto": "Archē é “começo, princípio”. Sem verbo e sem artigo, a frase funciona como título. Pode encabeçar o livro inteiro (todo o relato é o “começo” do evangelho que a igreja continua a anunciar) ou só a abertura (vv. 1-13, o ministério de João como ponto de partida). “Princípio” deixa as duas leituras abertas e conserva o eco de Gn 1:1 na Septuaginta (en archē)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "evangelho",
+    "termo": "εὐαγγελίου (euangeliou)",
+    "titulo": "euangelion: “boas notícias”",
+    "texto": "Euangelion é “boa notícia”, “anúncio de vitória”. Na Septuaginta de Isaías o verbo correspondente descreve o mensageiro que anuncia o reinado de Deus (Is 40:9; 52:7), e no mundo romano a palavra era usada para anúncios ligados ao imperador. Ainda não é o nome de um livro: é a mensagem. O genitivo “de Jesus Cristo” pode ser a notícia sobre Jesus ou a notícia que Jesus anuncia (1:14-15); Marcos parece incluir as duas."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Cristo",
+    "termo": "Χριστοῦ (Christou)",
+    "titulo": "Christos: “Messias, Ungido”",
+    "texto": "Christos traduz o hebraico mashiach, “ungido”, de onde vem “Messias”. Em Israel eram ungidos reis, sacerdotes e, às vezes, profetas; na esperança judaica do tempo de Jesus, o Ungido era sobretudo o rei da linhagem de Davi. Aqui, sem artigo, já funciona quase como nome próprio; no restante do Evangelho, com artigo, é título (“o Cristo”, 8:29; 14:61)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Jesus Cristo",
+    "termo": "Ἰησοῦ Χριστοῦ (+ υἱοῦ θεοῦ)",
+    "titulo": "“Filho de Deus”",
+    "texto": "O SBLGNT, texto-base da APV, termina o versículo em “Jesus Cristo”. O NA28, o NA27, o THGNT, Tregelles, o Textus Receptus e o Texto Bizantino acrescentam huiou theou: “Princípio do evangelho de Jesus Cristo, Filho de Deus”. A forma longa tem apoio amplo e antigo (entre eles o Códice Vaticano); a curta está na primeira mão do Códice Sinaítico e em citações de Orígenes. A favor da forma curta: é mais fácil um copista acrescentar um título solene do que omiti-lo. A favor da longa: um olho que salta entre terminações iguais (-ou, -ou) explica bem a omissão, e o título “Filho de Deus” emoldura o livro (1:11; 3:11; 15:39). Os especialistas continuam divididos (Metzger registra a dúvida da comissão). Seja qual for a leitura, a filiação divina de Jesus é afirmada no próprio Evangelho já no v. 11.",
+    "revisar": true
+   }
+  ]
+ },
+ "Mrk.1.2": {
+  "t": "Como está escrito no profeta Isaías: “Eis que envio o meu mensageiro adiante de ti; ele preparará o teu caminho;",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Eis que envio o meu mensageiro adiante de ti",
+    "termo": "ἰδοὺ ἀποστέλλω τὸν ἄγγελόν μου πρὸ προσώπου σου",
+    "titulo": "citação combinada",
+    "texto": "Esta primeira linha não é de Isaías: junta Êx 23:20 (Septuaginta, palavra por palavra no início) com Ml 3:1, onde o hebraico diz “diante de mim”. Marcos troca para “diante de ti”, de modo que o Senhor fala ao Messias. O v. 3 é que vem de Is 40:3. Marcos atribui o conjunto a Isaías, o profeta principal, cuja promessa de um novo êxodo enquadra a citação. Ml 3:1 e 4:5 identificam o mensageiro com Elias; o v. 6 vai mostrar João vestido como Elias."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "no profeta Isaías",
+    "termo": "ἐν τῷ Ἠσαΐᾳ τῷ προφήτῃ",
+    "titulo": "“em Isaías” ou “nos profetas”",
+    "texto": "O texto crítico traz “no profeta Isaías”, com os manuscritos mais antigos. O Textus Receptus e o Texto Bizantino leem “nos profetas” (en tois prophētais), o que resolve a dificuldade de uma citação que começa com Êxodo e Malaquias. Exatamente por isso a leitura “Isaías” é considerada a original: é a mais difícil, e explica a outra. O Textus Receptus e o Texto Bizantino acrescentam ainda, no fim, “diante de ti”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "mensageiro",
+    "termo": "ἄγγελον (angelon)",
+    "titulo": "angelos: “mensageiro” ou “anjo”",
+    "texto": "Angelos é quem leva uma mensagem, humano ou celestial. Aqui é João Batista; por isso “mensageiro”. Em 1:13 a mesma palavra designa anjos."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "adiante de ti",
+    "termo": "πρὸ προσώπου σου (pro prosōpou sou)",
+    "titulo": "“diante da tua face”",
+    "texto": "Lit. “diante da tua face”, expressão hebraica para “à tua frente”. Nas citações do AT em que Deus fala, a APV mantém “tu”, como na tradição das Bíblias em português."
+   }
+  ]
+ },
+ "Mrk.1.3": {
+  "t": "voz do que clama no deserto: ‘Preparem o caminho do Senhor, endireitem as suas veredas’”.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "do Senhor",
+    "termo": "κυρίου (kyriou)",
+    "titulo": "Isaías 40:3",
+    "texto": "Citação de Is 40:3 segundo a Septuaginta. No hebraico, “Senhor” é YHWH, o nome de Deus. Na última linha, onde a Septuaginta tem “as veredas do nosso Deus”, Marcos escreve “as suas veredas”: o caminho preparado para o Senhor é o caminho de Jesus. Em Isaías, a voz anuncia o retorno do exílio como novo êxodo pelo deserto."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "voz do que clama no deserto",
+    "termo": "φωνὴ βοῶντος ἐν τῇ ἐρήμῳ",
+    "titulo": "onde está “no deserto”?",
+    "texto": "No hebraico de Is 40:3 o mais natural é ligar “no deserto” ao preparo do caminho (“no deserto preparem o caminho”). A Septuaginta, seguida por Marcos, permite ligá-lo à voz: quem clama está no deserto. A tradução segue Marcos, que prepara assim o v. 4 (João “no deserto”)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "veredas",
+    "termo": "τρίβους (tribous)",
+    "titulo": "tribos, raro",
+    "texto": "Só três vezes no NT, sempre nesta citação (Mt 3:3; Lc 3:4). É o caminho batido, a trilha. “Veredas” é o termo tradicional e ainda claro."
+   }
+  ]
+ },
+ "Mrk.1.4": {
+  "t": "João, aquele que batizava, apareceu no deserto proclamando um batismo de arrependimento para o perdão dos pecados.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "aquele que batizava",
+    "termo": "ὁ βαπτίζων (ho baptizōn)",
+    "titulo": "“o batizador”",
+    "texto": "O particípio com artigo funciona como apelido: “o que batiza”, “o Batizador” (6:14, 24). A forma “o Batista” (Mt 3:1; Mc 6:25) é outra palavra (baptistēs). A tradução conserva a diferença."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "apareceu no deserto proclamando",
+    "termo": "ἐν τῇ ἐρήμῳ κηρύσσων (+ καί)",
+    "titulo": "artigo e conjunção",
+    "texto": "O NA28, o THGNT, o Textus Receptus e o Texto Bizantino trazem kai antes de “proclamando”; o Textus Receptus e o Texto Bizantino omitem também o artigo ho. Lido assim: “João estava batizando no deserto e proclamando”. O sentido geral é o mesmo; muda apenas se “batizava” é apelido ou ação."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "arrependimento",
+    "termo": "μετανοίας (metanoias)",
+    "titulo": "metanoia",
+    "texto": "Lit. “mudança de mente”. No uso bíblico, porém, corresponde ao hebraico shuv, “voltar”: dar meia-volta, retornar a Deus, com mudança de vida (cf. Lc 3:8-14). “Arrependimento” é o termo fixo da APV; a nota lembra que não é só remorso."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "para o perdão dos pecados",
+    "termo": "εἰς ἄφεσιν ἁμαρτιῶν (eis aphesin hamartiōn)",
+    "titulo": "eis: finalidade",
+    "texto": "A preposição eis indica direção ou finalidade: o batismo de arrependimento tem em vista o perdão. Aphesis é “soltura, remissão”, a mesma palavra usada para a libertação de presos e o perdão de dívidas (Lc 4:18)."
+   }
+  ]
+ },
+ "Mrk.1.5": {
+  "t": "Toda a região da Judeia e todos os moradores de Jerusalém iam até ele e, confessando os seus pecados, eram batizados por ele no rio Jordão.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "iam até ele",
+    "termo": "ἐξεπορεύετο (exeporeueto)",
+    "titulo": "imperfeito",
+    "texto": "Os verbos estão no imperfeito (“saía, iam saindo”; “eram batizados”): movimento contínuo, gente chegando dia após dia. “Toda a região” e “todos” são hipérbole comum na narrativa bíblica para indicar a grande afluência."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "confessando",
+    "termo": "ἐξομολογούμενοι (exomologoumenoi)",
+    "titulo": "exomologeomai",
+    "texto": "Confessar abertamente, reconhecer em público. O prefixo ex- reforça o caráter declarado da confissão."
+   }
+  ]
+ },
+ "Mrk.1.6": {
+  "t": "João usava roupa de pelos de camelo e um cinto de couro em volta da cintura, e comia gafanhotos e mel silvestre.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "um cinto de couro em volta da cintura",
+    "termo": "ζώνην δερματίνην περὶ τὴν ὀσφὺν αὐτοῦ",
+    "titulo": "vestido como Elias",
+    "texto": "Em 2Rs 1:8 (Septuaginta) Elias é reconhecido como “homem peludo, com um cinto de couro em volta da cintura”. A roupa identifica João com o Elias esperado de Ml 4:5 (cf. Mc 9:11-13). Dermatinos (“de couro”) só aparece aqui e em Mt 3:4."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "usava roupa de pelos de camelo",
+    "termo": "ἦν ... ἐνδεδυμένος τρίχας καμήλου",
+    "titulo": "“estava vestido de pelos de camelo”",
+    "texto": "Lit. “estava vestido de pelos de camelo”: o perfeito descreve o modo habitual de se vestir. Tecido grosseiro, de gente pobre ou de profeta (Zc 13:4)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "gafanhotos e mel silvestre",
+    "termo": "ἀκρίδας καὶ μέλι ἄγριον (akridas kai meli agrion)",
+    "titulo": "dieta do deserto",
+    "texto": "Akris é o gafanhoto, inseto permitido como alimento pela Lei (Lv 11:22). Meli agrion é o mel de abelhas silvestres; alguns pensam na seiva doce de certas árvores, mas o sentido comum de meli é mel. É comida de quem vive do que o deserto oferece."
+   }
+  ]
+ },
+ "Mrk.1.7": {
+  "t": "E proclamava: “Depois de mim vem aquele que é mais forte do que eu, e eu não sou digno nem de me abaixar para desamarrar a correia das suas sandálias.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Depois de mim",
+    "termo": "ὀπίσω μου (opisō mou)",
+    "titulo": "“atrás de mim”",
+    "texto": "Opisō é “atrás”. Pode ser temporal (“depois de mim”) ou indicar o discípulo que anda atrás do mestre (1:17, 20). O contraste com “mais forte do que eu” favorece o sentido temporal: o que vem depois é maior que o precursor."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "desamarrar a correia das suas sandálias",
+    "termo": "λῦσαι τὸν ἱμάντα τῶν ὑποδημάτων αὐτοῦ",
+    "titulo": "tarefa de escravo",
+    "texto": "Desamarrar e tirar as sandálias do senhor era serviço de escravo. João se coloca abaixo até disso. Kyptō (“abaixar-se”) acentua o gesto; no texto crítico só aparece aqui (também em Jo 8:6, 8, passagem de texto disputado)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "não sou digno",
+    "termo": "οὐκ εἰμὶ ἱκανός (ouk eimi hikanos)",
+    "titulo": "hikanos",
+    "texto": "Hikanos é “suficiente, à altura, capaz”. Aqui, “digno”, por se tratar de posição e não de força física."
+   }
+  ]
+ },
+ "Mrk.1.8": {
+  "t": "Eu batizei vocês com água, mas ele os batizará com o Espírito Santo”.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "batizei",
+    "termo": "ἐβάπτισα (ebaptisa)",
+    "titulo": "aoristo",
+    "texto": "O aoristo pode ver o ministério de João como já cumprido diante do que virá, ou ser um modo grego de afirmar algo como fato (“batizo”). Manteve-se o passado, que guarda o contraste com o futuro “batizará”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "com o Espírito Santo",
+    "termo": "ἐν πνεύματι ἁγίῳ (en pneumati hagiō)",
+    "titulo": "“com” ou “em”",
+    "texto": "A preposição en pode ser instrumental (“com”) ou local (“em”, imersos no Espírito). “Com” mantém o paralelo com “com água”. O batismo com o Espírito realiza promessas como Ez 36:25-27 e Jl 2:28."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "com água",
+    "termo": "ὕδατι (+ ἐν)",
+    "titulo": "preposição",
+    "texto": "O THGNT, Tregelles, o Textus Receptus e o Texto Bizantino trazem en hydati; o Textus Receptus e o Texto Bizantino acrescentam ainda men (“de fato”). Sem efeito na tradução."
+   }
+  ]
+ },
+ "Mrk.1.9": {
+  "t": "Naqueles dias, Jesus veio de Nazaré da Galileia e foi batizado por João no Jordão.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Naqueles dias",
+    "termo": "Καὶ ἐγένετο ἐν ἐκείναις ταῖς ἡμέραις",
+    "titulo": "“E aconteceu”",
+    "texto": "Lit. “E aconteceu naqueles dias”. A fórmula é hebraica (wayehi) e passou ao grego pela Septuaginta; marca o começo de nova cena. Em português corrente, “Naqueles dias” basta."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "no Jordão",
+    "termo": "εἰς τὸν Ἰορδάνην (eis ton Iordanēn)",
+    "titulo": "“para dentro do Jordão”",
+    "texto": "Eis indica movimento “para dentro”. Junto com “subindo da água” (v. 10), sugere imersão, embora no grego tardio eis às vezes equivalha a en (“em”)."
+   }
+  ]
+ },
+ "Mrk.1.10": {
+  "t": "Logo que subiu da água, ele viu os céus se rasgando e o Espírito descendo sobre ele como pomba.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Logo",
+    "termo": "εὐθύς (euthys)",
+    "titulo": "euthys: marca de Marcos",
+    "texto": "Euthys (“logo, imediatamente, em seguida”) aparece mais de quarenta vezes em Marcos, mais que no resto do NT. Às vezes é imediatez real; outras vezes é só o ritmo apressado da narrativa (“então”). A APV varia a tradução (“logo”, “imediatamente”, “no mesmo instante”, “então”) conforme o contexto."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "os céus se rasgando",
+    "termo": "σχιζομένους τοὺς οὐρανούς",
+    "titulo": "Isaías 64:1",
+    "texto": "Schizō é “rasgar”, verbo mais violento que o “abrir” de Mt 3:16 e Lc 3:21. Ecoa Is 64:1 (63:19 no hebraico): “Ah, se rasgasses os céus e descesses!”. O mesmo verbo volta em 15:38, quando o véu do templo se rasga: o Evangelho é emoldurado por dois rasgos."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "sobre ele",
+    "termo": "εἰς αὐτόν (eis auton)",
+    "titulo": "“sobre” ou “para dentro dele”",
+    "texto": "Eis pode significar “para dentro de” ou, no grego tardio, “sobre”. As outras versões do relato têm epi (“sobre”). “Sobre ele” é o mais natural em português; alguns veem no eis a ideia de que o Espírito entra nele e o capacita (cf. v. 12)."
+   }
+  ]
+ },
+ "Mrk.1.11": {
+  "t": "E veio uma voz dos céus: “Tu és o meu Filho amado; em ti me agradei”.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Tu és o meu Filho amado",
+    "termo": "σὺ εἶ ὁ υἱός μου ὁ ἀγαπητός",
+    "titulo": "Salmo 2, Gênesis 22 e Isaías 42",
+    "texto": "A voz combina ecos: Sl 2:7 (“Tu és meu filho”, dito ao rei ungido), Gn 22:2 (Isaque, “o teu filho amado”, na Septuaginta) e Is 42:1 (o Servo “em quem a minha alma se agrada”). Jesus é declarado Rei messiânico, Filho único e amado, e Servo do Senhor ao mesmo tempo."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "amado",
+    "termo": "ἀγαπητός (agapētos)",
+    "titulo": "agapētos: “amado” ou “único”",
+    "texto": "Na Septuaginta, agapētos traduz às vezes o hebraico yachid, “único” (Gn 22:2, 12, 16). Por isso alguns entendem “meu Filho único”. “Amado” é o sentido básico da palavra e o mais seguro; a nota registra a nuance."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "em ti me agradei",
+    "termo": "ἐν σοὶ εὐδόκησα (en soi eudokēsa)",
+    "titulo": "aoristo e tratamento",
+    "texto": "O aoristo pode indicar uma escolha já feita (“em ti me agradei”, “a ti escolhi”) ou um estado intemporal (“em ti me agrado”). Manteve-se o passado, que sugere a eleição. A voz de Deus fala ao Filho com “tu”, como a APV faz nas palavras dirigidas a Deus e nas falas divinas citadas do AT."
+   }
+  ]
+ },
+ "Mrk.1.12": {
+  "t": "Logo em seguida, o Espírito o impeliu para o deserto.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "impeliu",
+    "termo": "ἐκβάλλει (ekballei)",
+    "titulo": "“lança fora”, no presente",
+    "texto": "Ekballō é o verbo forte que Marcos usa para expulsar demônios (1:34, 39): “lançar fora, fazer sair”. Não indica violência contra Jesus, mas um impulso irresistível. O verbo está no presente histórico, recurso de Marcos para tornar a cena vívida; a APV traduz os presentes históricos de Marcos, em geral, por passados, para não alternar tempos de modo estranho em português."
+   }
+  ]
+ },
+ "Mrk.1.13": {
+  "t": "Ali, no deserto, ficou quarenta dias, sendo tentado por Satanás. Estava com as feras, e os anjos o serviam.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "quarenta dias",
+    "termo": "τεσσεράκοντα ἡμέρας",
+    "titulo": "Moisés, Elias e Israel",
+    "texto": "Quarenta dias lembram Moisés no monte (Êx 34:28), Elias a caminho do Horebe (1Rs 19:8) e os quarenta anos de Israel no deserto (Dt 8:2). Marcos não narra o conteúdo das tentações (cf. Mt 4:1-11; Lc 4:1-13)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "tentado",
+    "termo": "πειραζόμενος (peirazomenos)",
+    "titulo": "peirazō: tentar ou provar",
+    "texto": "Peirazō pode ser “provar, pôr à prova” ou “tentar, induzir ao mal”. Com Satanás como agente, “tentado” é o sentido; a prova vem de Deus pelo Espírito (v. 12). Satanas é palavra hebraica: “adversário”, “acusador”."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Estava com as feras",
+    "termo": "ἦν μετὰ τῶν θηρίων",
+    "titulo": "perigo ou paz?",
+    "texto": "Só Marcos registra este detalhe. Pode sublinhar o perigo e a solidão do deserto (Sl 22:12-21) ou anunciar a paz da nova criação, em que as feras convivem com o justo (Is 11:6-9; Jó 5:22-23; cf. Sl 91:11-13, onde anjos protegem o justo diante das feras). As duas leituras têm defensores; a segunda combina com o serviço dos anjos logo depois."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "o serviam",
+    "termo": "διηκόνουν αὐτῷ (diēkonoun autō)",
+    "titulo": "diakoneō",
+    "texto": "O imperfeito indica serviço contínuo, talvez com alimento, como no caso de Elias (1Rs 19:5-8). O mesmo verbo descreve a sogra de Simão (1:31) e a missão do próprio Jesus (10:45)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Ali, no deserto",
+    "termo": "ἐν τῇ ἐρήμῳ (+ ἐκεῖ)",
+    "titulo": "ekei",
+    "texto": "O Textus Receptus e o Texto Bizantino acrescentam ekei (“ali”). O “ali” da tradução é só para retomar o v. 12; sem efeito no sentido."
+   }
+  ]
+ },
+ "Mrk.1.14": {
+  "t": "Depois que João foi preso, Jesus foi para a Galileia, proclamando o evangelho de Deus",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "foi preso",
+    "termo": "παραδοθῆναι (paradothēnai)",
+    "titulo": "paradidōmi: “ser entregue”",
+    "texto": "Lit. “depois de João ser entregue”. É o verbo que Marcos usará para Jesus “entregue” nas mãos dos homens (9:31; 10:33; 14:41) e para os discípulos entregues aos tribunais (13:9-12): o destino do precursor antecipa o do Messias e o dos seus seguidores. “Foi preso” dá o sentido imediato; a nota guarda o vínculo. A prisão é narrada em 6:17."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "o evangelho de Deus",
+    "termo": "τὸ εὐαγγέλιον τοῦ θεοῦ (+ τῆς βασιλείας)",
+    "titulo": "“do Reino de Deus”",
+    "texto": "O Textus Receptus e o Texto Bizantino leem “o evangelho do Reino de Deus”, provável assimilação ao v. 15 e a Mt 4:23. Os manuscritos mais antigos trazem “o evangelho de Deus”. O NA28 e o Textus Receptus trazem ainda de (“e”, “mas”) no início, em vez de kai."
+   }
+  ]
+ },
+ "Mrk.1.15": {
+  "t": "e dizendo: “O tempo está cumprido, e o Reino de Deus está próximo. Arrependam-se e creiam no evangelho”.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "O tempo",
+    "termo": "ὁ καιρός (ho kairos)",
+    "titulo": "kairos",
+    "texto": "Kairos não é o tempo do relógio (chronos), mas o momento decisivo, a hora marcada por Deus. O perfeito “está cumprido” indica que esse momento chegou e permanece."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "está próximo",
+    "termo": "ἤγγικεν (ēngiken)",
+    "titulo": "chegou perto ou chegou?",
+    "texto": "O perfeito de engizō é “aproximou-se, está perto”. C. H. Dodd defendeu que aqui equivale a “chegou” (escatologia realizada); a maioria entende que o Reino está às portas, já irrompendo em Jesus, mas ainda não consumado. “Está próximo” conserva o sentido próprio do verbo sem negar que o Reino já age nos exorcismos e curas que seguem."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Reino de Deus",
+    "termo": "ἡ βασιλεία τοῦ θεοῦ (hē basileia tou theou)",
+    "titulo": "basileia",
+    "texto": "Basileia é antes o reinado, o exercício do governo de Deus, do que um território. A expressão resume a esperança dos profetas de que Deus reinaria (Is 52:7; Dn 2:44; 7:14)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "creiam no evangelho",
+    "termo": "πιστεύετε ἐν τῷ εὐαγγελίῳ",
+    "titulo": "pisteuō en",
+    "texto": "A construção com en é rara no NT (talvez semitismo: “crer em” como confiar). O sentido é confiar e apoiar-se na boa notícia, não apenas concordar com ela."
+   }
+  ]
+ },
+ "Mrk.1.16": {
+  "t": "Passando à beira do mar da Galileia, Jesus viu Simão e André, irmão de Simão, lançando a rede ao mar, pois eram pescadores.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "lançando a rede",
+    "termo": "ἀμφιβάλλοντας (amphiballontas)",
+    "titulo": "amphiballō, hápax",
+    "texto": "Única ocorrência no NT: “lançar em volta”, isto é, atirar a rede circular de mão, a tarrafa (amphiblēstron, Mt 4:18), que se abre no ar e cai sobre o cardume. O Textus Receptus e o Texto Bizantino acrescentam o objeto amphiblēstron; o texto crítico tem só o verbo."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "mar da Galileia",
+    "termo": "τὴν θάλασσαν τῆς Γαλιλαίας",
+    "titulo": "mar ou lago",
+    "texto": "É um lago de água doce, de uns 20 km de comprimento. O hebraico chama qualquer grande massa de água de yam (“mar”), e Marcos segue esse uso; Lucas, mais preciso, diz “lago” (Lc 5:1). Manteve-se “mar”, como no grego."
+   }
+  ]
+ },
+ "Mrk.1.17": {
+  "t": "Jesus lhes disse: “Venham atrás de mim, e eu farei de vocês pescadores de homens”.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Venham atrás de mim",
+    "termo": "δεῦτε ὀπίσω μου (deute opisō mou)",
+    "titulo": "linguagem do discipulado",
+    "texto": "Lit. “Vamos! Atrás de mim”. Andar atrás do mestre é a imagem do discípulo (cf. 8:34). “Sigam-me” seria idiomático, mas perderia o eco de opisō, que volta em 1:20 e 8:33-34."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "pescadores de homens",
+    "termo": "ἁλιεῖς ἀνθρώπων (halieis anthrōpōn)",
+    "titulo": "anthrōpoi",
+    "texto": "Anthrōpoi são “seres humanos”, homens e mulheres. Manteve-se a forma tradicional, porque “homens” em português também pode ter sentido genérico. Em Jr 16:16 os “pescadores” enviados por Deus recolhem o povo para o juízo; Jesus retoma a imagem para a missão de reunir gente para o Reino."
+   }
+  ]
+ },
+ "Mrk.1.18": {
+  "t": "No mesmo instante, eles deixaram as redes e o seguiram.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "o seguiram",
+    "termo": "ἠκολούθησαν αὐτῷ (ēkolouthēsan autō)",
+    "titulo": "seguir",
+    "texto": "Akoloutheō é o verbo técnico do discipulado em Marcos. A resposta imediata lembra Eliseu, que deixou os bois para seguir Elias (1Rs 19:19-21), mas aqui não há nem pedido para despedir-se."
+   }
+  ]
+ },
+ "Mrk.1.19": {
+  "t": "Indo um pouco adiante, viu Tiago, filho de Zebedeu, e João, irmão dele, que também estavam no barco, consertando as redes.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "filho de Zebedeu",
+    "termo": "τὸν τοῦ Ζεβεδαίου (ton tou Zebedaiou)",
+    "titulo": "“o de Zebedeu”",
+    "texto": "Lit. “o (filho) de Zebedeu”: o grego omite “filho”, como é comum em filiação. A palavra foi acrescentada por clareza."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "consertando",
+    "termo": "καταρτίζοντας (katartizontas)",
+    "titulo": "katartizō",
+    "texto": "“Pôr em ordem, deixar pronto”: consertar ou preparar as redes para a próxima pescaria."
+   }
+  ]
+ },
+ "Mrk.1.20": {
+  "t": "E logo os chamou. Eles deixaram o pai, Zebedeu, no barco com os empregados e foram atrás dele.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "empregados",
+    "termo": "μισθωτῶν (misthōtōn)",
+    "titulo": "misthōtos, raro",
+    "texto": "Três vezes no NT (aqui e Jo 10:12-13): trabalhador que recebe salário, diarista, em contraste com o escravo e com o filho. Indica que a família de Zebedeu tinha um pequeno negócio de pesca. Deixar o pai também era deixar a herança e a segurança do negócio."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "foram atrás dele",
+    "termo": "ἀπῆλθον ὀπίσω αὐτοῦ",
+    "titulo": "opisō outra vez",
+    "texto": "Lit. “partiram atrás dele”, retomando o “atrás de mim” do v. 17."
+   }
+  ]
+ },
+ "Mrk.1.21": {
+  "t": "Foram para Cafarnaum. E logo no sábado ele começou a ensinar na sinagoga.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "começou a ensinar na sinagoga",
+    "termo": "ἐδίδασκεν εἰς τὴν συναγωγήν (+ εἰσελθών)",
+    "titulo": "“entrando, ensinava”",
+    "texto": "O SBLGNT traz “ensinava na sinagoga”, sem particípio. O NA28, o THGNT, Westcott-Hort, Tregelles, o Textus Receptus e o Texto Bizantino leem eiselthōn eis tēn synagōgēn edidasken, “entrando na sinagoga, ensinava”. O sentido é o mesmo; a forma do SBLGNT usa eis com o sentido de “em”, traço do grego de Marcos."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "começou a ensinar",
+    "termo": "ἐδίδασκεν (edidasken)",
+    "titulo": "imperfeito incoativo",
+    "texto": "O imperfeito pode descrever ação contínua (“ensinava”) ou o começo de uma ação (“começou a ensinar”). No primeiro sábado em Cafarnaum, o sentido incoativo é natural."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "no sábado",
+    "termo": "τοῖς σάββασιν (tois sabbasin)",
+    "titulo": "plural",
+    "texto": "O grego usa o plural (“nos sábados”), forma comum para o dia de sábado, por influência do aramaico shabbeta. Refere-se a um único sábado, o primeiro após a chegada."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "sinagoga",
+    "termo": "συναγωγήν (synagōgēn)",
+    "titulo": "a sinagoga",
+    "texto": "Lugar de reunião judaica para leitura e explicação das Escrituras e oração. Um visitante instruído podia ser convidado a ler e comentar (Lc 4:16-21; At 13:15)."
+   }
+  ]
+ },
+ "Mrk.1.22": {
+  "t": "Eles ficavam admirados com o seu ensino, pois os ensinava como quem tem autoridade, e não como os escribas.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "ficavam admirados",
+    "termo": "ἐξεπλήσσοντο (exeplēssonto)",
+    "titulo": "ekplēssomai",
+    "texto": "“Ficar fora de si, atônito”. É verbo forte de espanto, não necessariamente de fé. Marcos registra muitas vezes a reação das multidões (1:27; 2:12; 5:20)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "escribas",
+    "termo": "γραμματεῖς (grammateis)",
+    "titulo": "grammateus",
+    "texto": "Os escribas eram especialistas na Lei de Moisés: copiavam, interpretavam e ensinavam as Escrituras, e muitos eram fariseus. “Mestres da lei” explica a função, mas “escribas” é o termo tradicional e preciso. Ensinavam apoiados na tradição de mestres anteriores; Jesus ensina com autoridade própria (cf. Mt 7:28-29)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "autoridade",
+    "termo": "ἐξουσίαν (exousian)",
+    "titulo": "exousia",
+    "texto": "Exousia é autoridade legítima, direito de agir e de mandar, não simples poder (dynamis). A palavra liga o ensino de Jesus ao exorcismo que segue (v. 27) e à autoridade de perdoar pecados (2:10)."
+   }
+  ]
+ },
+ "Mrk.1.23": {
+  "t": "Nesse momento, havia na sinagoga deles um homem possuído por um espírito impuro, que gritou:",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "possuído por um espírito impuro",
+    "termo": "ἐν πνεύματι ἀκαθάρτῳ (en pneumati akathartō)",
+    "titulo": "“em espírito impuro”",
+    "texto": "Lit. “em espírito impuro”: o homem está sob o domínio do espírito, como “em Cristo” indica estar na esfera de Cristo. “Possuído por” dá o sentido. Akathartos, “impuro”, opõe-se a “o Santo de Deus” (v. 24): o confronto é entre impureza e santidade. “Imundo” (ARC) hoje soa como sujeira física."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Nesse momento",
+    "termo": "Καὶ εὐθύς",
+    "titulo": "euthys",
+    "texto": "O Textus Receptus e o Texto Bizantino omitem euthys aqui. Sem efeito importante."
+   }
+  ]
+ },
+ "Mrk.1.24": {
+  "t": "“Que temos nós a ver com você, Jesus de Nazaré? Você veio para nos destruir? Sei quem você é: o Santo de Deus!”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Que temos nós a ver com você",
+    "termo": "τί ἡμῖν καὶ σοί (ti hēmin kai soi)",
+    "titulo": "expressão hebraica",
+    "texto": "Lit. “Que (há) para nós e para ti?”. Expressão do AT (Jz 11:12; 2Sm 16:10; 1Rs 17:18) que rejeita a interferência do outro: “Deixe-nos em paz”, “Não se meta conosco”. O plural pode indicar que o espírito fala por todos os demônios."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Jesus de Nazaré",
+    "termo": "Ἰησοῦ Ναζαρηνέ (Iēsou Nazarēne)",
+    "titulo": "Nazarēnos",
+    "texto": "Lit. “Jesus Nazareno”, isto é, de Nazaré (1:9). Traduzido pela origem, que é o sentido do adjetivo em Marcos."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "o Santo de Deus",
+    "termo": "ὁ ἅγιος τοῦ θεοῦ",
+    "titulo": "o título",
+    "texto": "No AT, “santo de Deus” se diz de quem é consagrado a Deus, como Arão (Sl 106:16) ou Eliseu (2Rs 4:9). Na boca do espírito impuro, reconhece em Jesus a santidade que vem destruir a impureza. Muitos estudiosos notam que, na Antiguidade, pronunciar o nome exato de um adversário era tentativa de controlá-lo; o demônio pode estar tentando se defender assim, sem sucesso."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Que temos nós",
+    "termo": "(+ ἔα)",
+    "titulo": "“Ah!”",
+    "texto": "O Textus Receptus e o Texto Bizantino começam com ea, interjeição de espanto ou de desprazer (“Ah!”), provavelmente vinda de Lc 4:34."
+   }
+  ]
+ },
+ "Mrk.1.25": {
+  "t": "Jesus o repreendeu: “Cale-se e saia dele!”.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Cale-se",
+    "termo": "φιμώθητι (phimōthēti)",
+    "titulo": "phimoō: “amordaçar”",
+    "texto": "Lit. “seja amordaçado, fique com a boca fechada”. O mesmo verbo aparece quando Jesus acalma o mar (4:39), assim como “repreender” (epitimaō): Jesus fala ao demônio e à tempestade da mesma maneira."
+   }
+  ]
+ },
+ "Mrk.1.26": {
+  "t": "O espírito impuro sacudiu o homem com violência e, dando um grande grito, saiu dele.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "sacudiu o homem com violência",
+    "termo": "σπαράξαν αὐτόν (sparaxan auton)",
+    "titulo": "sparassō, raro",
+    "texto": "Três vezes no NT (aqui, 9:26 e Lc 9:39): “dilacerar, convulsionar”. Descreve uma convulsão violenta. “O homem” substitui o pronome para evitar ambiguidade."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "dando um grande grito",
+    "termo": "φωνῆσαν φωνῇ μεγάλῃ",
+    "titulo": "kraxan",
+    "texto": "O Textus Receptus e o Texto Bizantino leem kraxan (“gritando”) em vez de phōnēsan (“chamando, bradando”). Sem efeito no sentido."
+   }
+  ]
+ },
+ "Mrk.1.27": {
+  "t": "Todos ficaram tão espantados que discutiam entre si: “Que é isto? Um ensino novo, com autoridade! Ele dá ordens até aos espíritos impuros, e eles lhe obedecem!”.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "ficaram tão espantados",
+    "termo": "ἐθαμβήθησαν (ethambēthēsan)",
+    "titulo": "thambeō, raro",
+    "texto": "Só em Marcos (aqui, 10:24, 32): espanto que deixa a pessoa atordoada."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Um ensino novo, com autoridade!",
+    "termo": "διδαχὴ καινὴ κατ᾽ ἐξουσίαν",
+    "titulo": "a quem se liga “com autoridade”?",
+    "texto": "Sem pontuação no original, “com autoridade” pode qualificar o ensino (“um ensino novo, com autoridade!”) ou a frase seguinte (“com autoridade ele dá ordens até aos espíritos impuros”). A primeira retoma o v. 22; a segunda liga a autoridade ao exorcismo. As duas ideias estão no contexto. Kainos é “novo” em qualidade, não apenas recente."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Que é isto?",
+    "termo": "τί ἐστιν τοῦτο; διδαχὴ καινή",
+    "titulo": "forma do TR",
+    "texto": "O Textus Receptus e o Texto Bizantino leem: “Que é isto? Que ensino novo é este? Pois com autoridade dá ordens até aos espíritos impuros...”. É uma forma que suaviza a sintaxe abrupta do texto mais antigo."
+   }
+  ]
+ },
+ "Mrk.1.28": {
+  "t": "E logo a fama dele se espalhou por toda parte, em toda a região da Galileia.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "em toda a região da Galileia",
+    "termo": "εἰς ὅλην τὴν περίχωρον τῆς Γαλιλαίας",
+    "titulo": "“a região ao redor”",
+    "texto": "Perichōros é “a região circunvizinha”. O genitivo pode indicar as terras em volta da Galileia ou, mais provavelmente, a própria Galileia como região que cerca Cafarnaum. A tradução segue a segunda leitura."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "fama",
+    "termo": "ἀκοή (akoē)",
+    "titulo": "akoē",
+    "texto": "Lit. “o ouvir”, isto é, o que se ouve a respeito de alguém: notícia, fama."
+   }
+  ]
+ },
+ "Mrk.1.29": {
+  "t": "Logo que saíram da sinagoga, foram com Tiago e João para a casa de Simão e André.",
+  "n": []
+ },
+ "Mrk.1.30": {
+  "t": "A sogra de Simão estava de cama, com febre, e logo falaram dela a Jesus.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "com febre",
+    "termo": "πυρέσσουσα (pyressousa)",
+    "titulo": "pyressō, raro",
+    "texto": "Duas vezes no NT (aqui e Mt 8:14). A febre, na época, era tratada como doença em si e podia ser grave."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "falaram dela a Jesus",
+    "termo": "λέγουσιν αὐτῷ περὶ αὐτῆς",
+    "titulo": "nome acrescentado",
+    "texto": "Lit. “dizem-lhe a respeito dela”. O nome de Jesus foi posto no lugar do pronome para clareza, e o presente histórico foi traduzido como passado."
+   }
+  ]
+ },
+ "Mrk.1.31": {
+  "t": "Ele se aproximou, tomou-a pela mão e a levantou. A febre a deixou, e ela começou a servi-los.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "a levantou",
+    "termo": "ἤγειρεν αὐτήν (ēgeiren autēn)",
+    "titulo": "egeirō",
+    "texto": "Egeirō é o verbo de “levantar” um doente e também de ressuscitar (5:41; 16:6). Marcos o usa em curas que antecipam a vitória sobre a morte."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "começou a servi-los",
+    "termo": "διηκόνει αὐτοῖς (diēkonei autois)",
+    "titulo": "diakoneō",
+    "texto": "Imperfeito incoativo: “passou a servi-los”. A cura é completa: ela retoma de imediato suas tarefas de anfitriã. O verbo é o mesmo dos anjos (1:13) e do serviço que define o discípulo e o próprio Jesus (10:43-45; 15:41). O Textus Receptus e o Texto Bizantino acrescentam eutheōs (“imediatamente”) depois de “a febre a deixou”."
+   }
+  ]
+ },
+ "Mrk.1.32": {
+  "t": "Ao anoitecer, depois do pôr do sol, traziam-lhe todos os doentes e os endemoninhados.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "depois do pôr do sol",
+    "termo": "ὅτε ἔδυ ὁ ἥλιος",
+    "titulo": "fim do sábado",
+    "texto": "Para os judeus, o dia começava ao pôr do sol. Com o fim do sábado (v. 21), podiam carregar os doentes sem violar o descanso (cf. Jr 17:21-22). Dynō (“pôr-se”, do sol) só aparece aqui e em Lc 4:40."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "endemoninhados",
+    "termo": "δαιμονιζομένους (daimonizomenous)",
+    "titulo": "daimonizomai",
+    "texto": "Lit. “os que estão sob demônios”, “demonizados”. Particípio que descreve pessoas dominadas por demônios. “Endemoninhados” é o termo usual."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "os doentes",
+    "termo": "τοὺς κακῶς ἔχοντας (tous kakōs echontas)",
+    "titulo": "“os que estavam mal”",
+    "texto": "Lit. “os que passavam mal”, expressão comum para doentes."
+   }
+  ]
+ },
+ "Mrk.1.33": {
+  "t": "A cidade inteira estava reunida à porta.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "estava reunida",
+    "termo": "ἦν ... ἐπισυνηγμένη (ēn ... episynēgmenē)",
+    "titulo": "perfeito perifrástico",
+    "texto": "A forma perifrástica (“estava reunida”) descreve a cena como estado: a multidão já tomava a porta da casa de Simão. “A cidade inteira” é hipérbole popular."
+   }
+  ]
+ },
+ "Mrk.1.34": {
+  "t": "Ele curou muitos que sofriam de várias doenças e expulsou muitos demônios. E não deixava que os demônios falassem, porque sabiam quem ele era.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "não deixava que os demônios falassem",
+    "termo": "οὐκ ἤφιεν λαλεῖν τὰ δαιμόνια",
+    "titulo": "o “segredo messiânico”",
+    "texto": "Marcos registra repetidas ordens de silêncio a demônios, curados e discípulos (1:44; 3:12; 5:43; 8:30). W. Wrede (1901) as explicou como recurso teológico do evangelista, o “segredo messiânico”. Muitos estudiosos hoje veem razões históricas: Jesus evitava expectativas políticas sobre o Messias e não aceitava testemunho de demônios. A identidade dele só se compreende plenamente à luz da cruz (15:39)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "sabiam quem ele era",
+    "termo": "ᾔδεισαν αὐτόν (ēdeisan auton)",
+    "titulo": "“o conheciam”",
+    "texto": "Lit. “o conheciam”. O sentido, pelo contexto (v. 24), é que conheciam a identidade dele."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "quem ele era",
+    "termo": "(+ Χριστὸν εἶναι)",
+    "titulo": "“que era o Cristo”",
+    "texto": "Westcott-Hort, com alguns manuscritos, acrescenta Christon einai: “porque sabiam que ele era o Cristo”, provavelmente sob influência de Lc 4:41. O SBLGNT, o NA28 e o Textus Receptus não trazem."
+   }
+  ]
+ },
+ "Mrk.1.35": {
+  "t": "De madrugada, quando ainda estava bem escuro, Jesus se levantou, saiu e foi para um lugar deserto, e ali orava.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "quando ainda estava bem escuro",
+    "termo": "πρωῒ ἔννυχα λίαν (prōi ennycha lian)",
+    "titulo": "ennychos, hápax",
+    "texto": "Lit. “de manhã, muito na noite”. Ennychos (só aqui no NT) é “noturno, de noite”. Prōi designava a última vigília da noite, das 3 às 6 horas."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "lugar deserto",
+    "termo": "ἔρημον τόπον (erēmon topon)",
+    "titulo": "o deserto outra vez",
+    "texto": "Não necessariamente um deserto de areia, mas um lugar despovoado. Retoma o tema do deserto (1:3-4, 12-13): longe da multidão, Jesus ora. Marcos registra três momentos de oração de Jesus, todos à noite e em momentos decisivos (1:35; 6:46; 14:32-39)."
+   }
+  ]
+ },
+ "Mrk.1.36": {
+  "t": "Simão e os que estavam com ele saíram no encalço de Jesus.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "saíram no encalço",
+    "termo": "κατεδίωξεν (katedioxen)",
+    "titulo": "katadiōkō, hápax",
+    "texto": "Única vez no NT. Diōkō é “perseguir”; o prefixo kata- intensifica: “ir no encalço, caçar”. Na Septuaginta, muitas vezes é perseguição hostil (Gn 31:36; Sl 23:6 tem o sentido positivo). Aqui mostra a insistência dos discípulos, que ainda não entendem a missão de Jesus. O verbo está no singular, concordando com Simão."
+   }
+  ]
+ },
+ "Mrk.1.37": {
+  "t": "Quando o encontraram, disseram-lhe: “Todos estão à sua procura!”.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Todos estão à sua procura",
+    "termo": "πάντες ζητοῦσίν σε",
+    "titulo": "zēteō",
+    "texto": "Zēteō é “procurar”. Em Marcos, “procurar” Jesus aparece muitas vezes em contextos de incompreensão ou hostilidade (3:32; 11:18; 12:12; 14:1). Aqui a multidão quer mais curas, e Jesus parte para pregar."
+   }
+  ]
+ },
+ "Mrk.1.38": {
+  "t": "Ele lhes respondeu: “Vamos para outro lugar, para os povoados vizinhos, para que eu pregue também lá, pois foi para isso que eu saí”.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "povoados",
+    "termo": "κωμοπόλεις (kōmopoleis)",
+    "titulo": "kōmopolis, hápax",
+    "texto": "Única vez no NT: “vila-cidade”, povoado maior que uma aldeia (kōmē) mas sem os direitos de uma cidade (polis). “Povoados” é o equivalente mais próximo."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "foi para isso que eu saí",
+    "termo": "εἰς τοῦτο γὰρ ἐξῆλθον (eis touto gar exēlthon)",
+    "titulo": "saí de onde?",
+    "texto": "Pode ser “saí de Cafarnaum” (v. 35) ou, num sentido mais profundo, “vim (de Deus)”. Lucas o entende assim: “para isso fui enviado” (Lc 4:43). A tradução literal mantém as duas leituras."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "pregue",
+    "termo": "κηρύξω (kēryxō)",
+    "titulo": "kēryssō",
+    "texto": "Kēryssō é “anunciar como arauto”, proclamar publicamente. A APV usa “proclamar” quando há objeto (“proclamando o evangelho”) e “pregar” quando o verbo está sozinho, como aqui."
+   }
+  ]
+ },
+ "Mrk.1.39": {
+  "t": "E foi por toda a Galileia, pregando nas sinagogas deles e expulsando os demônios.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "E foi",
+    "termo": "ἦλθεν (ēlthen)",
+    "titulo": "ēlthen ou ēn",
+    "texto": "O texto crítico traz ēlthen (“foi”); o Textus Receptus e o Texto Bizantino, ēn (“estava pregando”). Sem efeito importante."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "nas sinagogas",
+    "termo": "εἰς τὰς συναγωγὰς αὐτῶν",
+    "titulo": "eis = en",
+    "texto": "Lit. “para as sinagogas deles”. Como em 1:21, Marcos usa eis com o sentido de “em”."
+   }
+  ]
+ },
+ "Mrk.1.40": {
+  "t": "Um leproso veio até ele e, de joelhos, suplicou: “Se quiser, pode me purificar”.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "leproso",
+    "termo": "λεπρός (lepros)",
+    "titulo": "lepra bíblica",
+    "texto": "A lepra de Lv 13-14 abrangia várias doenças de pele (e até manchas em roupas e paredes), não só a hanseníase moderna. Quem a tinha era declarado impuro, vivia separado e devia gritar “Impuro!” (Lv 13:45-46). Mantido “leproso”, termo da tradição, com esta nota."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "purificar",
+    "termo": "καθαρίσαι (katharisai)",
+    "titulo": "katharizō",
+    "texto": "“Purificar, tornar puro”, e não só “curar”: o leproso pede para ser restituído ao culto e à vida em comunidade. Daí a ordem de se mostrar ao sacerdote (v. 44)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Se quiser",
+    "termo": "ἐὰν θέλῃς (ean thelēs)",
+    "titulo": "tratamento",
+    "texto": "O homem não usa título nenhum. A frase em português dispensa o pronome; a fé dele está no poder de Jesus, e a dúvida, na disposição."
+   }
+  ]
+ },
+ "Mrk.1.41": {
+  "t": "Indignado, estendeu a mão, tocou nele e lhe disse: “Quero, seja purificado!”.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "Indignado",
+    "termo": "ὀργισθείς (orgistheis)",
+    "titulo": "“indignado” ou “movido de compaixão”",
+    "texto": "O SBLGNT lê orgistheis, “irado, indignado”, com o Códice de Beza (D) e alguns manuscritos da Antiga Latina. O NA28, o NA27, o THGNT, Westcott-Hort, Tregelles, o Textus Receptus e o Texto Bizantino leem splanchnistheis, “movido de compaixão”, com a grande maioria dos manuscritos. A favor de orgistheis: é a leitura mais difícil, e é mais fácil entender um copista que trocasse a ira de Jesus por compaixão do que o contrário; Mateus e Lucas, que seguem Marcos de perto aqui, omitem o particípio, como se o achassem embaraçoso; e o v. 43 continua em tom áspero. A favor de splanchnistheis: o peso dos manuscritos. Se a ira é original, não se dirige ao leproso, mas à doença e ao poder do mal que o separava de Deus e do povo (cf. Jo 11:33, 38). A APV segue o texto-base, mas a questão é aberta.",
+    "revisar": true
+   },
+   {
+    "tipo": "sn",
+    "ancora": "tocou nele",
+    "termo": "ἥψατο (hēpsato)",
+    "titulo": "tocar o impuro",
+    "texto": "Pela Lei, tocar um leproso tornava a pessoa impura. Aqui o contágio corre ao contrário: a pureza de Jesus passa ao leproso. O Textus Receptus e o Texto Bizantino acrescentam “Jesus” como sujeito."
+   }
+  ]
+ },
+ "Mrk.1.42": {
+  "t": "No mesmo instante, a lepra o deixou, e ele ficou purificado.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "No mesmo instante",
+    "termo": "καὶ εὐθύς (+ εἰπόντος αὐτοῦ)",
+    "titulo": "“tendo ele dito isso”",
+    "texto": "O Textus Receptus e o Texto Bizantino acrescentam eipontos autou: “Logo que ele disse isso, a lepra o deixou”. Sem efeito no sentido."
+   }
+  ]
+ },
+ "Mrk.1.43": {
+  "t": "Jesus o advertiu severamente e logo o mandou embora,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "o advertiu severamente",
+    "termo": "ἐμβριμησάμενος αὐτῷ (embrimēsamenos autō)",
+    "titulo": "embrimaomai",
+    "texto": "O verbo descreve indignação forte, quase um bufar de cavalo; também em 14:5 e Jo 11:33, 38. Aqui é a severidade da ordem de silêncio do v. 44. “Advertiu severamente” diz o sentido sem atenuar."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "o mandou embora",
+    "termo": "ἐξέβαλεν αὐτόν (exebalen auton)",
+    "titulo": "ekballō",
+    "texto": "O mesmo verbo de “expulsar” demônios (1:34, 39): “pôs para fora”. Aqui, despachou-o depressa. O nome de Jesus foi acrescentado como sujeito por clareza."
+   }
+  ]
+ },
+ "Mrk.1.44": {
+  "t": "e lhe disse: “Cuidado! Não diga nada a ninguém. Mas vá, mostre-se ao sacerdote e ofereça pela sua purificação o que Moisés ordenou, para servir de testemunho para eles”.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "o que Moisés ordenou",
+    "termo": "ἃ προσέταξεν Μωϋσῆς",
+    "titulo": "Levítico 14",
+    "texto": "Lv 14:1-32 descreve o exame do sacerdote e os sacrifícios exigidos de quem era declarado curado. Jesus manda cumprir a Lei, e só o sacerdote podia reintegrar o homem à comunidade."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "para servir de testemunho para eles",
+    "termo": "εἰς μαρτύριον αὐτοῖς (eis martyrion autois)",
+    "titulo": "testemunho a favor ou contra?",
+    "texto": "Pode ser prova aos sacerdotes e ao povo de que o homem está curado (e, implicitamente, de quem o curou) ou testemunho contra eles, se não crerem (cf. 6:11; 13:9, onde a mesma expressão tem sentido acusatório). O dativo “para eles” deixa a questão aberta; a primeira leitura é a mais simples aqui."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Cuidado!",
+    "termo": "ὅρα (hora)",
+    "titulo": "“vê”",
+    "texto": "Lit. “vê”, imperativo que reforça a advertência: “Veja bem”, “Cuidado”."
+   }
+  ]
+ },
+ "Mrk.1.45": {
+  "t": "Ele, porém, saiu e começou a falar muito e a divulgar o que tinha acontecido, de modo que Jesus já não podia entrar abertamente em nenhuma cidade, mas ficava fora, em lugares desertos. E de toda parte vinham até ele.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "começou a falar muito",
+    "termo": "ἤρξατο κηρύσσειν πολλά (ērxato kēryssein polla)",
+    "titulo": "kēryssō",
+    "texto": "Lit. “começou a proclamar muitas coisas” ou “a proclamar muito”. É o mesmo verbo usado para João e para Jesus: o homem curado se torna um anunciador, mesmo desobedecendo à ordem de silêncio."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "o que tinha acontecido",
+    "termo": "τὸν λόγον (ton logon)",
+    "titulo": "logos: “o caso” ou “a palavra”",
+    "texto": "Logos pode ser “o assunto, o caso” ou “a palavra”, a mensagem (2:2; 4:14-20). O sentido imediato é o relato da cura; alguns veem uma alusão à “palavra” do evangelho. A tradução fica com o sentido imediato."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "ficava fora, em lugares desertos",
+    "termo": "ἔξω ἐπ᾽ ἐρήμοις τόποις ἦν",
+    "titulo": "inversão",
+    "texto": "Ironia da cena: o leproso, que vivia “fora do acampamento” (Lv 13:46), agora entra na cidade; Jesus, que o tocou, é quem passa a ficar fora. O nome de Jesus foi posto no lugar do pronome para evitar ambiguidade. Diaphēmizō (“divulgar”), phanerōs (“abertamente”) e pantothen (“de toda parte”) são palavras raras no NT."
+   }
+  ]
+ }
+}

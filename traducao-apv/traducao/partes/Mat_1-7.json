@@ -1,0 +1,1118 @@
+{
+ "Mat.1.1": {
+  "t": "Livro da origem de Jesus Cristo, filho de Davi, filho de Abraão.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Livro da origem",
+    "termo": "Βίβλος γενέσεως (biblos geneseōs)",
+    "titulo": "biblos geneseōs",
+    "texto": "Lit. “livro da gênese”. A mesma expressão aparece na Septuaginta em Gn 2:4 e 5:1 (“este é o livro da origem de...”). Pode designar só a genealogia (vv. 2-17), a história do nascimento (cap. 1-2) ou até o Evangelho inteiro. “Livro da origem” mantém a forma literal, que deixa as três leituras abertas e conserva o eco de Gênesis; “registro da genealogia” seria mais claro, mas limitaria o título à lista."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Cristo",
+    "termo": "Χριστοῦ (Christou)",
+    "titulo": "Christos: “Messias, Ungido”",
+    "texto": "Christos traduz o hebraico mashiach, “ungido”: o rei esperado da linhagem de Davi. Aqui funciona quase como nome próprio (“Jesus Cristo”); nos Evangelhos, porém, o título com artigo (“o Cristo”, 1:17; 2:4; 16:16) ainda pergunta quem é o Messias. A APV usa sempre “Cristo”, a forma que as igrejas reconhecem."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "filho de Davi, filho de Abraão",
+    "termo": "υἱοῦ Δαυὶδ υἱοῦ Ἀβραάμ",
+    "titulo": "dois títulos",
+    "texto": "“Filho de Davi” liga Jesus à promessa de um rei eterno da casa de Davi (2Sm 7:12-16); “filho de Abraão”, à promessa de bênção para todas as nações (Gn 12:3; 22:18). Mateus começa por Israel e termina com as nações (28:19)."
+   }
+  ]
+ },
+ "Mat.1.2": {
+  "t": "Abraão gerou Isaque; Isaque gerou Jacó; Jacó gerou Judá e seus irmãos;",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "gerou",
+    "termo": "ἐγέννησεν (egennēsen)",
+    "titulo": "gennaō: “gerou”",
+    "texto": "O verbo descreve a paternidade e pode indicar descendência indireta (avô, bisavô), como é comum nas genealogias bíblicas. “Gerou” mantém a fórmula repetida, que dá ritmo à lista, e é a forma usada também na genealogia de Rute (Rt 4:18-22)."
+   }
+  ]
+ },
+ "Mat.1.3": {
+  "t": "Judá gerou Perez e Zerá, de Tamar; Perez gerou Hezrom; Hezrom gerou Rão;",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "de Tamar",
+    "termo": "ἐκ τῆς Θαμάρ (ek tēs Thamar)",
+    "titulo": "as mulheres da genealogia",
+    "texto": "Genealogias judaicas raramente citam mulheres. Mateus nomeia quatro antes de Maria: Tamar (Gn 38), Raabe (Js 2), Rute (Rt 1-4) e “a mulher de Urias” (2Sm 11). As explicações mais comuns: todas eram estrangeiras ou ligadas a estrangeiros, e todas viveram uniões irregulares que Deus usou na história de Israel; assim preparam o nascimento inesperado por meio de Maria."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Perez e Zerá",
+    "termo": "Φάρες ... Ζάρα (Phares ... Zara)",
+    "titulo": "nomes",
+    "texto": "A APV usa as formas hebraicas que já adota no Antigo Testamento (Perez, Hezrom, Rão, como em Rt 4:18-19), em vez das formas gregas transliteradas (Farés, Esrom, Arão), para que o leitor reconheça as mesmas pessoas nas duas listas."
+   }
+  ]
+ },
+ "Mat.1.4": {
+  "t": "Rão gerou Aminadabe; Aminadabe gerou Naassom; Naassom gerou Salmom;",
+  "n": []
+ },
+ "Mat.1.5": {
+  "t": "Salmom gerou Boaz, de Raabe; Boaz gerou Obede, de Rute; Obede gerou Jessé;",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "de Raabe",
+    "termo": "ἐκ τῆς Ῥαχάβ (ek tēs Rhachab)",
+    "titulo": "Raabe",
+    "texto": "O Antigo Testamento não diz com quem Raabe, a cananeia de Jericó (Js 2; 6), se casou. Só Mateus a coloca como mãe de Boaz. Algumas tradições judaicas posteriores a casam com Josué; Mateus segue outra linha que não conhecemos por outras fontes."
+   }
+  ]
+ },
+ "Mat.1.6": {
+  "t": "Jessé gerou o rei Davi. Davi gerou Salomão, da mulher de Urias;",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "da mulher de Urias",
+    "termo": "ἐκ τῆς τοῦ Οὐρίου (ek tēs tou Ouriou)",
+    "titulo": "“da [mulher] de Urias”",
+    "texto": "Lit. “da de Urias”; o grego subentende “mulher”. Mateus não diz o nome de Bate-Seba e a liga ao marido que Davi mandou matar (2Sm 11-12), lembrando o pecado do rei no meio da linhagem real."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Davi gerou Salomão",
+    "termo": "Δαυὶδ δὲ ἐγέννησεν (+ ὁ βασιλεὺς)",
+    "titulo": "“o rei Davi”",
+    "texto": "O Textus Receptus e o Texto Bizantino repetem o título: “o rei Davi gerou Salomão”. O texto crítico não repete. Sem efeito no sentido."
+   }
+  ]
+ },
+ "Mat.1.7": {
+  "t": "Salomão gerou Roboão; Roboão gerou Abias; Abias gerou Asafe;",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "Asafe",
+    "termo": "Ἀσάφ (Asaph)",
+    "titulo": "Asafe ou Asa",
+    "texto": "O texto crítico (SBLGNT, NA28) traz Asaph, forma dos manuscritos mais antigos; o Textus Receptus e o Texto Bizantino, Asa, o nome do rei de Judá (1Rs 15:9-24). A APV segue o texto-base e mantém “Asafe”. A pessoa é certamente o rei Asa. A forma Asaph pode vir de uma grafia grega do nome usada na fonte de Mateus ou ser um eco deliberado de Asafe, o salmista (Sl 50; 73-83), assim como “Amós” no v. 10 lembra o profeta. Metzger considera Asaph a leitura original e a forma Asa uma correção de copistas.",
+    "revisar": true
+   }
+  ]
+ },
+ "Mat.1.8": {
+  "t": "Asafe gerou Josafá; Josafá gerou Jorão; Jorão gerou Uzias;",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Jorão gerou Uzias",
+    "termo": "Ἰωρὰμ δὲ ἐγέννησεν τὸν Ὀζίαν",
+    "titulo": "três reis omitidos",
+    "texto": "Entre Jorão e Uzias (também chamado Azarias) reinaram Acazias, Joás e Amazias (2Rs 8-14; 1Cr 3:11-12). “Gerou” aqui significa “foi antepassado de”. A omissão permite a Mateus organizar a lista em três blocos de catorze (v. 17)."
+   }
+  ]
+ },
+ "Mat.1.9": {
+  "t": "Uzias gerou Jotão; Jotão gerou Acaz; Acaz gerou Ezequias;",
+  "n": []
+ },
+ "Mat.1.10": {
+  "t": "Ezequias gerou Manassés; Manassés gerou Amós; Amós gerou Josias;",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "Amós",
+    "termo": "Ἀμώς (Amōs)",
+    "titulo": "Amós ou Amom",
+    "texto": "O texto crítico traz Amōs; o Textus Receptus e o Texto Bizantino, Amōn, o nome do rei filho de Manassés (2Rs 21:18-26). Como no caso de “Asafe” (v. 7), a APV segue o texto-base. A pessoa é o rei Amom; alguns manuscritos da Septuaginta também chamam esse rei de Amós, e a forma pode ser um eco do profeta Amós.",
+    "revisar": true
+   }
+  ]
+ },
+ "Mat.1.11": {
+  "t": "Josias gerou Jeconias e seus irmãos, no tempo da deportação para a Babilônia.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "deportação",
+    "termo": "μετοικεσίας (metoikesias)",
+    "titulo": "metoikesia",
+    "texto": "Lit. “mudança de moradia”. Na Septuaginta designa o exílio forçado de Judá para a Babilônia (2Rs 24:16). “Deportação” diz que a mudança foi imposta."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Josias gerou Jeconias",
+    "termo": "Ἰωσίας δὲ ἐγέννησεν τὸν Ἰεχονίαν",
+    "titulo": "uma geração omitida",
+    "texto": "Jeconias (Joaquim, 2Rs 24:6-15) era neto de Josias; o pai, Jeoaquim, não aparece. “Seus irmãos” pode lembrar os filhos de Josias que reinaram (Jeoacaz, Jeoaquim, Zedequias)."
+   }
+  ]
+ },
+ "Mat.1.12": {
+  "t": "Depois da deportação para a Babilônia, Jeconias gerou Salatiel; Salatiel gerou Zorobabel;",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Salatiel gerou Zorobabel",
+    "termo": "Σαλαθιὴλ δὲ ἐγέννησεν τὸν Ζοροβαβέλ",
+    "titulo": "Zorobabel",
+    "texto": "Zorobabel liderou a volta do exílio e a reconstrução do templo (Ed 3; Ag 1-2). Ag 1:1 o chama “filho de Salatiel”; 1Cr 3:19, filho de Pedaías, irmão de Salatiel. A diferença pode refletir adoção ou casamento de levirato. Depois dele, os nomes não aparecem no Antigo Testamento."
+   }
+  ]
+ },
+ "Mat.1.13": {
+  "t": "Zorobabel gerou Abiúde; Abiúde gerou Eliaquim; Eliaquim gerou Azor;",
+  "n": []
+ },
+ "Mat.1.14": {
+  "t": "Azor gerou Sadoque; Sadoque gerou Aquim; Aquim gerou Eliúde;",
+  "n": []
+ },
+ "Mat.1.15": {
+  "t": "Eliúde gerou Eleazar; Eleazar gerou Matã; Matã gerou Jacó;",
+  "n": []
+ },
+ "Mat.1.16": {
+  "t": "Jacó gerou José, marido de Maria, da qual nasceu Jesus, que é chamado Cristo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "da qual nasceu Jesus",
+    "termo": "ἐξ ἧς ἐγεννήθη Ἰησοῦς (ex hēs egennēthē Iēsous)",
+    "titulo": "a fórmula muda",
+    "texto": "Depois de 39 vezes “fulano gerou”, a fórmula se quebra: José não “gerou” Jesus. O verbo passa à voz passiva (“foi gerado, nasceu”) e o pronome relativo é feminino (“da qual”), apontando só para Maria. Os vv. 18-25 explicam a quebra: Jesus é filho legal de José, herdeiro de Davi, mas não seu filho biológico."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "José, marido de Maria",
+    "termo": "τὸν Ἰωσὴφ τὸν ἄνδρα Μαρίας",
+    "titulo": "uma variante antiga",
+    "texto": "Uma antiga versão siríaca (a Siríaca Sinaítica) diz que José “gerou Jesus”, e alguns manuscritos gregos trazem uma forma que fala de “Maria, a virgem”. A esmagadora maioria dos manuscritos, seguida por todas as edições, tem o texto traduzido aqui. Metzger discute as formas e conclui que derivam do texto comum."
+   }
+  ]
+ },
+ "Mat.1.17": {
+  "t": "Assim, todas as gerações de Abraão até Davi são catorze gerações; de Davi até a deportação para a Babilônia, catorze gerações; e da deportação para a Babilônia até o Cristo, catorze gerações.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "catorze gerações",
+    "termo": "γενεαὶ δεκατέσσαρες (geneai dekatessares)",
+    "titulo": "por que catorze?",
+    "texto": "A divisão é deliberada (v. 8 omite reis). Muitos estudiosos notam que as consoantes hebraicas do nome Davi (DWD) somam 14 (4+6+4), o que faria da lista uma assinatura davídica; a explicação é plausível, mas Mateus não a declara. O terceiro bloco, contado de Jeconias a Jesus, tem só 13 nomes, e não há consenso sobre como Mateus contava."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "até o Cristo",
+    "termo": "ἕως τοῦ Χριστοῦ (heōs tou Christou)",
+    "titulo": "com artigo",
+    "texto": "Aqui Christos tem artigo e funciona como título: a lista culmina no Messias esperado. Por isso “o Cristo”."
+   }
+  ]
+ },
+ "Mat.1.18": {
+  "t": "A origem de Jesus Cristo foi assim: Maria, sua mãe, estava prometida em casamento a José; mas, antes que viessem a viver juntos, ela se achou grávida pelo Espírito Santo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "prometida em casamento",
+    "termo": "μνηστευθείσης (mnēsteutheisēs)",
+    "titulo": "mnēsteuō, raro",
+    "texto": "Só aqui e em Lc 1:27; 2:5. No judaísmo da época o noivado era um contrato legal, feito diante de testemunhas, que só se desfazia por divórcio; o noivo já era chamado “marido” (v. 19) e a noiva, “mulher” (v. 20). A noiva continuava na casa do pai até o casamento, em geral cerca de um ano depois. “Noiva” soaria compromisso mais frouxo do que era."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "antes que viessem a viver juntos",
+    "termo": "πρὶν ἢ συνελθεῖν αὐτούς (prin ē synelthein autous)",
+    "titulo": "synerchomai",
+    "texto": "Lit. “antes de se juntarem”. O verbo pode indicar a união sexual ou a ida da noiva para a casa do marido; as duas coisas iam juntas. A tradução mantém a ambiguidade discreta do grego; o v. 25 é explícito."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "ela se achou grávida",
+    "termo": "εὑρέθη ἐν γαστρὶ ἔχουσα (heurethē en gastri echousa)",
+    "titulo": "“foi achada tendo no ventre”",
+    "texto": "Expressão idiomática da Septuaginta para a gravidez (Gn 16:4). “Foi achada” indica que a gravidez se tornou visível, sem dizer quem a percebeu."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "A origem",
+    "termo": "γένεσις / γέννησις (genesis / gennēsis)",
+    "titulo": "“origem” ou “nascimento”",
+    "texto": "O texto crítico traz genesis (“origem”), a mesma palavra do v. 1; o Textus Receptus e o Texto Bizantino, gennēsis (“nascimento”). As duas palavras eram confundidas pelos copistas; a primeira tem melhor apoio e retoma o título do livro. O Textus Receptus e o Texto Bizantino acrescentam ainda gar (“pois”) depois de “Maria”, sem efeito no sentido."
+   }
+  ]
+ },
+ "Mat.1.19": {
+  "t": "José, seu marido, sendo justo e não querendo expô-la publicamente, resolveu divorciar-se dela em segredo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "divorciar-se dela",
+    "termo": "ἀπολῦσαι αὐτήν (apolysai autēn)",
+    "titulo": "apolyō: “despedir”",
+    "texto": "Lit. “despedi-la, soltá-la”. É o verbo técnico do divórcio em Mateus (5:31-32; 19:3-9). Como o noivado era vínculo legal (v. 18), rompê-lo exigia divórcio. “Deixá-la” (ARC) esconde o termo jurídico."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "sendo justo e não querendo",
+    "termo": "δίκαιος ὢν καὶ μὴ θέλων",
+    "titulo": "justiça e misericórdia",
+    "texto": "A relação entre as duas ideias é discutida: (1) por ser justo, isto é, fiel à Lei, não podia casar-se com quem parecia adúltera, mas por bondade não quis expô-la; (2) sua justiça já incluía a misericórdia. O grego apenas une as duas com “e”, e a tradução também."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "expô-la publicamente",
+    "termo": "δειγματίσαι (deigmatisai)",
+    "titulo": "deigmatizō, raro",
+    "texto": "Só aqui e em Cl 2:15: “expor ao público”, “fazer exemplo de”. Um processo de adultério tornaria o caso público. O Textus Receptus e o Texto Bizantino trazem o composto paradeigmatisai, de mesmo sentido."
+   }
+  ]
+ },
+ "Mat.1.20": {
+  "t": "Mas, quando ele estava considerando isso, um anjo do Senhor lhe apareceu em sonho e disse: “José, filho de Davi, não tenha medo de receber Maria como sua mulher, pois o que foi gerado nela vem do Espírito Santo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "quando ele estava considerando isso",
+    "termo": "ταῦτα δὲ αὐτοῦ ἐνθυμηθέντος (tauta de autou enthymēthentos)",
+    "titulo": "enthymeomai, raro",
+    "texto": "Só aqui e em 9:4: “ponderar, refletir”. José ainda não tinha agido; a frase descreve a decisão em andamento."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "um anjo do Senhor lhe apareceu",
+    "termo": "ἰδοὺ ἄγγελος κυρίου ... ἐφάνη (idou angelos kyriou ephanē)",
+    "titulo": "idou",
+    "texto": "Mateus usa idou (“eis”) mais de 60 vezes para chamar a atenção do leitor para algo novo. A APV traduz “eis que” quando o português o comporta e o omite quando a frase ficaria pesada, como aqui, onde o próprio aparecimento do anjo já marca a surpresa."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "anjo do Senhor",
+    "termo": "ἄγγελος κυρίου (angelos kyriou)",
+    "titulo": "o anjo do SENHOR",
+    "texto": "Expressão comum na Septuaginta para o mensageiro de Deus (Gn 16:7; Jz 13:3), onde o hebraico tem mal'akh YHWH. Em Mateus 1-2, o anjo do Senhor sempre fala em sonho (1:20; 2:13, 19)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "vem do Espírito Santo",
+    "termo": "ἐκ πνεύματός ἐστιν ἁγίου",
+    "titulo": "“é do Espírito Santo”",
+    "texto": "O grego afirma a origem (ek, “de, a partir de”), não um ato sexual: o Espírito é a fonte da vida gerada, como na criação (Gn 1:2). “Vem do” expressa a preposição sem sugerir mais do que o texto diz."
+   }
+  ]
+ },
+ "Mat.1.21": {
+  "t": "Ela dará à luz um filho, e você lhe dará o nome de Jesus, porque é ele que salvará o seu povo dos pecados deles.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Jesus",
+    "termo": "Ἰησοῦν (Iēsoun)",
+    "titulo": "“o SENHOR salva”",
+    "texto": "Iēsous é a forma grega de Yeshua (Josué), “o SENHOR salva” ou “o SENHOR é salvação”. O anjo explica o nome com o verbo “salvar” (sōzō); o jogo de palavras só é visível em hebraico ou aramaico. Ao dar o nome, José reconhece o menino como seu filho legal e o insere na casa de Davi."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "é ele que salvará",
+    "termo": "αὐτὸς γὰρ σώσει (autos gar sōsei)",
+    "titulo": "pronome enfático",
+    "texto": "O pronome autos, desnecessário no grego, dá ênfase: ele, e não outro. Salvar “dos pecados” mostra que a salvação esperada não é, antes de tudo, política (cf. Sl 130:8)."
+   }
+  ]
+ },
+ "Mat.1.22": {
+  "t": "Tudo isso aconteceu para que se cumprisse o que o Senhor tinha dito por meio do profeta:",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "para que se cumprisse",
+    "termo": "ἵνα πληρωθῇ (hina plērōthē)",
+    "titulo": "as citações de cumprimento",
+    "texto": "É a primeira de cerca de dez citações em que Mateus apresenta um fato da vida de Jesus como cumprimento das Escrituras (2:15, 17, 23; 4:14; 8:17; 12:17; 13:35; 21:4; 27:9). “Cumprir” em Mateus nem sempre é realizar uma predição direta; muitas vezes é levar ao ponto máximo um padrão da história de Israel."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "o que o Senhor tinha dito por meio do profeta",
+    "termo": "τὸ ῥηθὲν ὑπὸ κυρίου διὰ τοῦ προφήτου",
+    "titulo": "duas preposições",
+    "texto": "Hypo (“por”) indica o autor da palavra, o Senhor; dia (“por meio de”), o instrumento, o profeta. A fórmula expressa a convicção de que Deus fala nas palavras dos profetas."
+   }
+  ]
+ },
+ "Mat.1.23": {
+  "t": "“Eis que a virgem ficará grávida e dará à luz um filho, e o chamarão pelo nome de Emanuel”, que traduzido quer dizer “Deus conosco”.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Eis que a virgem ficará grávida",
+    "termo": "ἰδοὺ ἡ παρθένος ἐν γαστρὶ ἕξει",
+    "titulo": "Is 7:14",
+    "texto": "Citação de Is 7:14 conforme a Septuaginta, que traduz o hebraico ʿalmah (“moça em idade de casar”) por parthenos, palavra que, em grego, designa normalmente a virgem. Em Isaías, o sinal foi dado ao rei Acaz num contexto imediato; Mateus o lê como cumprido de modo pleno no nascimento de Jesus. Há debate sobre se Isaías previa diretamente um nascimento virginal; para Mateus, o texto grego descreve exatamente o que aconteceu com Maria (vv. 18, 25)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "o chamarão",
+    "termo": "καλέσουσιν (kalesousin)",
+    "titulo": "“chamarão”",
+    "texto": "O hebraico tem “ela chamará” e a Septuaginta, “você chamará”. Mateus usa a terceira pessoa do plural, “chamarão”, que faz do nome uma confissão de todo o povo."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Deus conosco",
+    "termo": "μεθ᾽ ἡμῶν ὁ θεός (meth’ hēmōn ho theos)",
+    "titulo": "Emanuel",
+    "texto": "Hebraico ʿimmanu ʾel, “conosco [está] Deus” (Is 8:8, 10). O Evangelho se fecha com a mesma promessa: “eu estou com vocês todos os dias” (28:20)."
+   }
+  ]
+ },
+ "Mat.1.24": {
+  "t": "Quando José despertou do sono, fez como o anjo do Senhor lhe havia ordenado e recebeu sua mulher em casa.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "recebeu sua mulher em casa",
+    "termo": "παρέλαβεν τὴν γυναῖκα αὐτοῦ (parelaben tēn gynaika autou)",
+    "titulo": "paralambanō",
+    "texto": "Lit. “tomou consigo a sua mulher”: a cerimônia em que a noiva passava a morar na casa do marido. “Em casa” explicita o que o verbo descreve."
+   }
+  ]
+ },
+ "Mat.1.25": {
+  "t": "Mas não teve relações com ela até que ela deu à luz um filho. E ele lhe deu o nome de Jesus.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "não teve relações com ela",
+    "termo": "οὐκ ἐγίνωσκεν αὐτήν (ouk eginōsken autēn)",
+    "titulo": "“não a conhecia”",
+    "texto": "“Conhecer” é eufemismo bíblico para a relação sexual (Gn 4:1). O imperfeito indica uma situação contínua durante todo esse tempo."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "até que",
+    "termo": "ἕως οὗ (heōs hou)",
+    "titulo": "“até que” e a virgindade perpétua",
+    "texto": "A frase afirma que não houve união antes do nascimento; seu interesse é garantir a concepção virginal. Se houve depois é debatido: a tradição católica e a ortodoxa sustentam a virgindade perpétua de Maria e notam que heōs nem sempre implica mudança posterior (cf. 28:20); muitos intérpretes protestantes entendem que a expressão sugere vida conjugal normal depois, e leem 12:46 e 13:55 como irmãos de Jesus. O texto, por si, não decide a questão."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "um filho",
+    "termo": "υἱόν (huion)",
+    "titulo": "“seu filho primogênito”",
+    "texto": "O Textus Receptus e o Texto Bizantino trazem “seu filho primogênito”, provavelmente vindo de Lc 2:7. Os manuscritos mais antigos têm só “um filho”."
+   }
+  ]
+ },
+ "Mat.2.1": {
+  "t": "Depois que Jesus nasceu em Belém da Judeia, nos dias do rei Herodes, eis que magos vindos do Oriente chegaram a Jerusalém",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "magos",
+    "termo": "μάγοι (magoi)",
+    "titulo": "magoi",
+    "texto": "Originalmente uma casta sacerdotal persa; na época, o termo cobria sábios, intérpretes de sonhos e observadores dos astros (Dn 2:2 na Septuaginta). Em At 13:6, 8 tem sentido negativo (“feiticeiro”). Aqui são estudiosos dos astros vindos do Oriente, talvez da Babilônia ou da Pérsia. O texto não diz que eram reis nem que eram três; isso vem da tradição posterior, a partir dos três presentes (v. 11) e de textos como Sl 72:10-11 e Is 60:3-6."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "rei Herodes",
+    "termo": "Ἡρῴδου τοῦ βασιλέως (Hērōdou tou basileōs)",
+    "titulo": "Herodes, o Grande",
+    "texto": "Herodes, o Grande, idumeu, foi nomeado rei da Judeia por Roma e reinou de 37 a 4 a.C. Famoso pelas grandes construções, entre elas a reforma do templo, e pela crueldade, mandou matar até membros da própria família. Como morreu em 4 a.C. (v. 19), Jesus nasceu um pouco antes, já que o calendário cristão foi calculado com um pequeno erro."
+   }
+  ]
+ },
+ "Mat.2.2": {
+  "t": "e perguntaram: “Onde está o rei dos judeus que acaba de nascer? Pois vimos a sua estrela quando surgiu e viemos adorá-lo.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "quando surgiu",
+    "termo": "ἐν τῇ ἀνατολῇ (en tē anatolē)",
+    "titulo": "“no oriente” ou “ao surgir”",
+    "texto": "Anatolē é o “nascer” de um astro e, por extensão, o Oriente, onde o sol nasce. No v. 1 o plural sem artigo (apo anatolōn) indica a região de onde os magos vieram; aqui o singular com artigo parece ter sentido astronômico: viram a estrela no momento em que despontou. “No Oriente” (ARC) também é possível. Há quem veja eco de Nm 24:17 (“uma estrela procederá de Jacó”)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "adorá-lo",
+    "termo": "προσκυνῆσαι αὐτῷ (proskynēsai autō)",
+    "titulo": "proskyneō",
+    "texto": "O verbo descreve o gesto de prostrar-se diante de alguém e cobre desde a homenagem a um rei até a adoração a Deus. Os magos talvez pensassem só em homenagem real, mas Mateus usa o verbo de propósito: Jesus recebe proskynēsis em todo o Evangelho (8:2; 14:33; 28:9, 17), e em 4:10 ela é devida só a Deus. Por isso a APV mantém “adorar”."
+   }
+  ]
+ },
+ "Mat.2.3": {
+  "t": "Ao ouvir isso, o rei Herodes ficou perturbado, e com ele toda Jerusalém.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "toda Jerusalém",
+    "termo": "πᾶσα Ἱεροσόλυμα (pasa Hierosolyma)",
+    "titulo": "Jerusalém perturbada",
+    "texto": "A cidade que deveria receber o rei com alegria se perturba com o rei que já tem. Mateus antecipa a rejeição em Jerusalém (21:10; 23:37)."
+   }
+  ]
+ },
+ "Mat.2.4": {
+  "t": "Reuniu todos os chefes dos sacerdotes e escribas do povo e lhes perguntava onde o Cristo havia de nascer.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "chefes dos sacerdotes",
+    "termo": "ἀρχιερεῖς (archiereis)",
+    "titulo": "archiereus no plural",
+    "texto": "No singular é o sumo sacerdote. No plural inclui o sumo sacerdote em exercício, os que já tinham exercido o cargo e os membros das famílias sacerdotais mais importantes. “Chefes dos sacerdotes” mostra que se trata de um grupo."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "escribas",
+    "termo": "γραμματεῖς (grammateis)",
+    "titulo": "grammateus",
+    "texto": "Não eram meros copistas, mas os especialistas na Lei de Moisés, que a interpretavam e ensinavam; muitos eram fariseus. “Mestres da Lei” descreve a função; a APV mantém “escribas”, termo que o leitor de Mateus reconhece (5:20; 7:29; 23:2), com esta nota."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "o Cristo",
+    "termo": "ὁ χριστός (ho christos)",
+    "titulo": "título",
+    "texto": "Com artigo, christos é título: “o Messias”, o rei esperado. Herodes não pergunta por um nome, mas pelo lugar de nascimento do rei prometido."
+   }
+  ]
+ },
+ "Mat.2.5": {
+  "t": "Eles responderam: “Em Belém da Judeia, porque assim está escrito por meio do profeta:",
+  "n": []
+ },
+ "Mat.2.6": {
+  "t": "‘E você, Belém, terra de Judá, de modo nenhum é a menor entre os governantes de Judá; pois de você sairá um líder que pastoreará o meu povo, Israel’.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "E você, Belém, terra de Judá",
+    "termo": "καὶ σὺ Βηθλέεμ γῆ Ἰούδα",
+    "titulo": "Mq 5:2 e 2Sm 5:2",
+    "texto": "Citação livre de Mq 5:2 (5:1 no texto hebraico), que não segue exatamente nem o hebraico nem a Septuaginta, unida a 2Sm 5:2, onde Deus diz a Davi: “Você pastoreará o meu povo, Israel”. Assim o Messias de Belém é apresentado como o novo Davi, o rei-pastor."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "de modo nenhum é a menor",
+    "termo": "οὐδαμῶς ἐλαχίστη εἶ (oudamōs elachistē ei)",
+    "titulo": "oudamōs, hápax",
+    "texto": "Única ocorrência no NT: “de modo algum”. Miqueias diz que Belém é “pequena demais para estar entre os clãs de Judá”; Mateus inverte: por causa do Messias, Belém já não é pequena. A mudança parece intencional, uma leitura da profecia à luz do cumprimento."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "entre os governantes de Judá",
+    "termo": "ἐν τοῖς ἡγεμόσιν Ἰούδα (en tois hēgemosin Iouda)",
+    "titulo": "“governantes” ou “clãs”",
+    "texto": "O hebraico de Mq 5:1 tem ʾalphê, “milhares, clãs”; com outras vogais a mesma palavra se lê ʾalluphê, “chefes”. Mateus segue esta segunda leitura. Aqui os “governantes” representam as cidades principais de Judá."
+   }
+  ]
+ },
+ "Mat.2.7": {
+  "t": "Então Herodes chamou os magos em segredo e se informou com precisão, por meio deles, sobre o tempo em que a estrela tinha aparecido.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "se informou com precisão",
+    "termo": "ἠκρίβωσεν (ēkribōsen)",
+    "titulo": "akriboō, raro",
+    "texto": "Só aqui e no v. 16: “averiguar com exatidão”. Herodes quer a data para calcular a idade do menino; o v. 16 mostra para quê."
+   }
+  ]
+ },
+ "Mat.2.8": {
+  "t": "E os enviou a Belém, dizendo: “Vão e investiguem cuidadosamente a respeito do menino. Quando o encontrarem, avisem-me, para que eu também vá adorá-lo.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "investiguem cuidadosamente",
+    "termo": "ἐξετάσατε ἀκριβῶς (exetasate akribōs)",
+    "titulo": "exetazō, raro",
+    "texto": "Exetazō (só aqui, em 10:11 e em Jo 21:12) é “examinar, inquirir”. O advérbio akribōs repete a raiz do v. 7: Herodes quer exatidão."
+   }
+  ]
+ },
+ "Mat.2.9": {
+  "t": "Depois de ouvirem o rei, eles partiram. E eis que a estrela que tinham visto surgir ia adiante deles, até que chegou e parou sobre o lugar onde estava o menino.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "parou",
+    "termo": "ἐστάθη (estathē)",
+    "titulo": "estathē ou estē",
+    "texto": "O texto crítico traz estathē (“foi parada, se deteve”); o Textus Receptus e o Texto Bizantino, estē (“parou”). Mesmo sentido."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "ia adiante deles",
+    "termo": "προῆγεν αὐτούς (proēgen autous)",
+    "titulo": "uma estrela que guia",
+    "texto": "A estrela que se move e para sobre um lugar não se comporta como astro comum. Têm sido propostas uma conjunção de planetas, um cometa ou uma nova; Mateus a apresenta como sinal enviado por Deus, sem explicar o fenômeno."
+   }
+  ]
+ },
+ "Mat.2.10": {
+  "t": "Quando viram a estrela, alegraram-se com imensa alegria.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "alegraram-se com imensa alegria",
+    "termo": "ἐχάρησαν χαρὰν μεγάλην σφόδρα",
+    "titulo": "acúmulo de termos",
+    "texto": "Lit. “alegraram-se com uma alegria grande, muito”. O verbo com o substantivo da mesma raiz e dois intensificadores formam uma expressão hebraizante de alegria transbordante; a tradução guarda a repetição."
+   }
+  ]
+ },
+ "Mat.2.11": {
+  "t": "Entraram na casa, viram o menino com Maria, sua mãe, e, prostrando-se, o adoraram. Depois abriram os seus cofres e lhe ofereceram presentes: ouro, incenso e mirra.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "cofres",
+    "termo": "θησαυρούς (thēsaurous)",
+    "titulo": "thēsauros",
+    "texto": "Lit. “tesouros”, mas aqui é o recipiente onde se guardam objetos de valor: cofres, caixas, alforjes."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "incenso e mirra",
+    "termo": "λίβανον καὶ σμύρναν (libanon kai smyrnan)",
+    "titulo": "duas resinas raras",
+    "texto": "Libanos (só aqui e em Ap 18:13) é o olíbano, resina aromática queimada no culto (Êx 30:34). Smyrna (só aqui e em Jo 19:39) é a mirra, resina usada em perfumes, unguentos e no sepultamento. São presentes dignos de rei; ouro e incenso ecoam Is 60:6 e Sl 72:10-15. Desde os Pais da Igreja se viu neles um simbolismo (realeza, divindade, morte), que o texto não explicita."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "na casa",
+    "termo": "εἰς τὴν οἰκίαν (eis tēn oikian)",
+    "titulo": "casa, não estábulo",
+    "texto": "Mateus fala de uma casa; Lucas fala de uma manjedoura (Lc 2:7). A visita dos magos pode ter ocorrido algum tempo depois do nascimento, o que combina com a ordem de Herodes sobre meninos de até dois anos (v. 16)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "viram o menino",
+    "termo": "εἶδον (eidon)",
+    "titulo": "“viram” ou “acharam”",
+    "texto": "O Textus Receptus traz heuron (“acharam”); o texto crítico e o Texto Bizantino, eidon (“viram”)."
+   }
+  ]
+ },
+ "Mat.2.12": {
+  "t": "E, avisados por Deus em sonho para não voltarem a Herodes, regressaram à sua terra por outro caminho.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "avisados por Deus",
+    "termo": "χρηματισθέντες (chrēmatisthentes)",
+    "titulo": "chrēmatizō",
+    "texto": "Na voz passiva, o verbo designa o aviso ou a resposta dada por Deus (Lc 2:26; Hb 8:5; 11:7). O texto não diz “por Deus”, mas o verbo o implica; a APV o explicita para que “avisados” não pareça um recado humano."
+   }
+  ]
+ },
+ "Mat.2.13": {
+  "t": "Depois que eles partiram, eis que um anjo do Senhor apareceu em sonho a José e disse: “Levante-se, tome o menino e a mãe dele, fuja para o Egito e fique lá até que eu lhe diga, pois Herodes vai procurar o menino para matá-lo.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "fuja para o Egito",
+    "termo": "φεῦγε εἰς Αἴγυπτον (pheuge eis Aigypton)",
+    "titulo": "o Egito como refúgio",
+    "texto": "O Egito, terra da escravidão, foi também refúgio de perseguidos (1Rs 11:40; Jr 26:21). Havia grandes comunidades judaicas lá, sobretudo em Alexandria. A história de Jesus ecoa a de Moisés, salvo de um rei que matava meninos (Êx 1-2)."
+   }
+  ]
+ },
+ "Mat.2.14": {
+  "t": "Ele se levantou, tomou o menino e a mãe dele, de noite, e partiu para o Egito.",
+  "n": []
+ },
+ "Mat.2.15": {
+  "t": "Ali ficou até a morte de Herodes, para que se cumprisse o que o Senhor tinha dito por meio do profeta: “Do Egito chamei o meu filho”.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Do Egito chamei o meu filho",
+    "termo": "ἐξ Αἰγύπτου ἐκάλεσα τὸν υἱόν μου",
+    "titulo": "Os 11:1",
+    "texto": "Citação de Os 11:1 segundo o hebraico; a Septuaginta diz “chamei os filhos dele”. Em Oseias, o “filho” é Israel, tirado do Egito no Êxodo. Mateus não diz que Oseias previa a fuga de Jesus: vê em Jesus o Filho que resume e realiza a história de Israel. Assim como Israel passou pelo Egito, pelo mar e pelo deserto, Jesus passará pelo Egito, pelas águas do batismo (3:13-17) e pelo deserto (4:1-11)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "morte",
+    "termo": "τελευτῆς (teleutēs)",
+    "titulo": "teleutē, hápax",
+    "texto": "Única ocorrência no NT: “fim”, eufemismo comum para a morte. O verbo correspondente aparece no v. 19."
+   }
+  ]
+ },
+ "Mat.2.16": {
+  "t": "Quando Herodes viu que tinha sido enganado pelos magos, ficou furioso e mandou matar todos os meninos de Belém e de toda a região ao redor, de dois anos para baixo, de acordo com o tempo de que se informara com precisão pelos magos.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "enganado",
+    "termo": "ἐνεπαίχθη (enepaichthē)",
+    "titulo": "empaizō",
+    "texto": "Lit. “foi feito de bobo, foi ludibriado”. Em outros lugares de Mateus o verbo significa “zombar” (20:19; 27:29). Do ponto de vista de Herodes, os magos zombaram dele."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "ficou furioso",
+    "termo": "ἐθυμώθη λίαν (ethymōthē lian)",
+    "titulo": "thymoō, hápax",
+    "texto": "Única ocorrência no NT: “encher-se de ira”. Com lian (“muito”), indica fúria intensa."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "meninos",
+    "termo": "τοὺς παῖδας (tous paidas)",
+    "titulo": "paides",
+    "texto": "O artigo masculino plural indica meninos. Belém era uma vila pequena; o número de crianças mortas talvez fosse pequeno, o que explicaria a ausência do fato em fontes como Josefo, embora combine com o que Josefo conta da crueldade de Herodes."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "de dois anos para baixo",
+    "termo": "ἀπὸ διετοῦς καὶ κατωτέρω (apo dietous kai katōterō)",
+    "titulo": "duas palavras únicas",
+    "texto": "Dietēs (“de dois anos”) e katōterō (“para baixo”) só aparecem aqui no NT. O sentido é claro."
+   }
+  ]
+ },
+ "Mat.2.17": {
+  "t": "Então se cumpriu o que foi dito por meio do profeta Jeremias:",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Então se cumpriu",
+    "termo": "τότε ἐπληρώθη (tote eplērōthē)",
+    "titulo": "sem “para que”",
+    "texto": "Nas outras citações de cumprimento Mateus diz “para que se cumprisse”. Aqui e em 27:9, os dois textos que falam de crimes, diz apenas “então se cumpriu”, evitando apresentar o mal como propósito de Deus."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "por meio do profeta",
+    "termo": "διὰ (dia)",
+    "titulo": "dia ou hypo",
+    "texto": "O Textus Receptus e o Texto Bizantino trazem hypo (“pelo profeta”). Sem efeito na tradução."
+   }
+  ]
+ },
+ "Mat.2.18": {
+  "t": "“Ouviu-se uma voz em Ramá, choro e grande lamento: é Raquel chorando por seus filhos; e não quis ser consolada, porque eles já não existem”.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Ouviu-se uma voz em Ramá",
+    "termo": "φωνὴ ἐν Ῥαμὰ ἠκούσθη",
+    "titulo": "Jr 31:15",
+    "texto": "Citação de Jr 31:15 (38:15 na Septuaginta), mais próxima do hebraico. Raquel, mãe de José e Benjamim, chora pelos filhos levados ao exílio; Ramá era o ponto de partida dos deportados (Jr 40:1), e a tradição situava o túmulo de Raquel perto de Belém (Gn 35:19). O capítulo seguinte de Jeremias anuncia a nova aliança (Jr 31:31-34): o choro precede a consolação."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "grande lamento",
+    "termo": "ὀδυρμὸς πολύς (odyrmos polys)",
+    "titulo": "odyrmos, raro",
+    "texto": "Só aqui e em 2Co 7:7: lamentação em voz alta."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "choro e grande lamento",
+    "termo": "κλαυθμὸς καὶ ὀδυρμὸς πολύς (+ θρῆνος καί)",
+    "titulo": "três ou dois termos",
+    "texto": "O Textus Receptus e o Texto Bizantino trazem “lamentação, choro e grande lamento”, acrescentando thrēnos, termo da Septuaginta de Jeremias. O texto crítico tem só dois termos."
+   }
+  ]
+ },
+ "Mat.2.19": {
+  "t": "Depois que Herodes morreu, eis que um anjo do Senhor apareceu em sonho a José, no Egito,",
+  "n": []
+ },
+ "Mat.2.20": {
+  "t": "e disse: “Levante-se, tome o menino e a mãe dele e vá para a terra de Israel, pois já morreram os que procuravam tirar a vida do menino.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "já morreram os que procuravam tirar a vida",
+    "termo": "τεθνήκασιν γὰρ οἱ ζητοῦντες τὴν ψυχήν",
+    "titulo": "eco de Moisés",
+    "texto": "Quase as mesmas palavras de Êx 4:19, quando Deus manda Moisés voltar ao Egito: “morreram todos os que procuravam tirar a sua vida”. O plural, estranho aqui, pois só Herodes é mencionado, reforça o eco."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "tirar a vida",
+    "termo": "ζητοῦντες τὴν ψυχήν (zētountes tēn psychēn)",
+    "titulo": "“buscavam a alma”",
+    "texto": "Lit. “procuravam a alma”, isto é, a vida. Expressão hebraica para quem quer matar alguém."
+   }
+  ]
+ },
+ "Mat.2.21": {
+  "t": "Ele se levantou, tomou o menino e a mãe dele e entrou na terra de Israel.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "entrou",
+    "termo": "εἰσῆλθεν (eisēlthen)",
+    "titulo": "eisēlthen ou ēlthen",
+    "texto": "O Textus Receptus e o Texto Bizantino trazem ēlthen (“veio”). Mesmo sentido."
+   }
+  ]
+ },
+ "Mat.2.22": {
+  "t": "Mas, ao ouvir que Arquelau reinava na Judeia no lugar de seu pai, Herodes, teve medo de ir para lá. E, avisado por Deus em sonho, retirou-se para a região da Galileia",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Arquelau",
+    "termo": "Ἀρχέλαος (Archelaos)",
+    "titulo": "Arquelau",
+    "texto": "Filho de Herodes, governou a Judeia, a Samaria e a Idumeia de 4 a.C. a 6 d.C., com o título de etnarca, não de rei; o verbo “reinava” é descrição popular. Foi tão violento que Roma o depôs a pedido de judeus e samaritanos. A Galileia ficou com seu irmão Herodes Antipas (14:1)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "avisado por Deus",
+    "termo": "χρηματισθείς (chrēmatistheis)",
+    "titulo": "chrēmatizō",
+    "texto": "Ver nota no v. 12."
+   }
+  ]
+ },
+ "Mat.2.23": {
+  "t": "e foi morar numa cidade chamada Nazaré, para que se cumprisse o que foi dito por meio dos profetas: que ele seria chamado Nazareno.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "que ele seria chamado Nazareno",
+    "termo": "ὅτι Ναζωραῖος κληθήσεται (hoti Nazōraios klēthēsetai)",
+    "titulo": "uma profecia sem texto",
+    "texto": "Nenhum texto do Antigo Testamento diz isso. Mateus fala de “profetas” no plural e introduz a frase com hoti (“que”), o que sugere um resumo do sentido de vários textos, não uma citação; por isso a APV usa discurso indireto, sem aspas. As explicações principais: (1) jogo com netser, “renovo”, o rebento de Jessé (Is 11:1; cf. Jr 23:5; Zc 3:8); (2) eco de nazir, o consagrado a Deus (Jz 13:5), embora Jesus não fosse nazireu; (3) Nazaré era vila sem prestígio (Jo 1:46), e “nazareno” evocaria o Messias desprezado anunciado pelos profetas (Is 53:3; Sl 22:6). As três podem estar juntas."
+   }
+  ]
+ },
+ "Mat.3.1": {
+  "t": "Naqueles dias apareceu João Batista, pregando no deserto da Judeia",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "deserto da Judeia",
+    "termo": "τῇ ἐρήμῳ τῆς Ἰουδαίας (tē erēmō tēs Ioudaias)",
+    "titulo": "erēmos",
+    "texto": "Erēmos é a região despovoada, não necessariamente de areia: aqui, as colinas áridas entre Jerusalém e o mar Morto, junto ao vale do Jordão. A APV mantém “deserto” porque a palavra carrega o eco bíblico do êxodo e de Is 40:3 (v. 3)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "apareceu",
+    "termo": "παραγίνεται (paraginetai)",
+    "titulo": "presente histórico",
+    "texto": "Lit. “aparece”. Mateus usa o presente para narrar fatos passados e dar vivacidade à cena; em português o pretérito é mais natural."
+   }
+  ]
+ },
+ "Mat.3.2": {
+  "t": "e dizendo: “Arrependam-se, porque o Reino dos céus está próximo.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Arrependam-se",
+    "termo": "μετανοεῖτε (metanoeite)",
+    "titulo": "metanoeō",
+    "texto": "Lit. “mudem de mente”. No uso bíblico, porém, corresponde ao hebraico shuv, “voltar”: uma mudança de direção de toda a vida, que se volta para Deus e produz frutos (v. 8). Não é só sentir remorso. A APV mantém o termo fixo “arrepender-se”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "o Reino dos céus",
+    "termo": "ἡ βασιλεία τῶν οὐρανῶν (hē basileia tōn ouranōn)",
+    "titulo": "“Reino dos céus”",
+    "texto": "Mateus prefere “Reino dos céus” onde Marcos e Lucas dizem “Reino de Deus”; a expressão segue o costume judaico de evitar o nome de Deus por reverência, e não indica um reino diferente (19:23-24 usa as duas formas lado a lado). Basileia é antes o reinado, o exercício do governo de Deus, do que um território: o tempo em que Deus age como rei para salvar e julgar."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "está próximo",
+    "termo": "ἤγγικεν (ēngiken)",
+    "titulo": "perfeito de engizō",
+    "texto": "O perfeito diz que o Reino “se aproximou” e agora está perto. Discute-se se Jesus e João o anunciavam como já presente ou ainda iminente; Mateus mostra as duas coisas (12:28; 6:10). “Está próximo” guarda essa tensão."
+   }
+  ]
+ },
+ "Mat.3.3": {
+  "t": "Este é aquele de quem falou o profeta Isaías, quando disse: “Voz de quem clama no deserto: ‘Preparem o caminho do Senhor, endireitem as suas veredas’”.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Preparem o caminho do Senhor",
+    "termo": "ἑτοιμάσατε τὴν ὁδὸν κυρίου",
+    "titulo": "Is 40:3",
+    "texto": "Citação de Is 40:3 segundo a Septuaginta. No hebraico, o Senhor (kyrios) é YHWH, e a “voz” clama: “no deserto preparem o caminho do SENHOR”. Em Isaías, Deus volta para libertar o povo do exílio; Mateus aplica o caminho do Senhor à vinda de Jesus. Onde Isaías diz “as veredas do nosso Deus”, os Evangelhos dizem “as suas veredas”, permitindo ler “Senhor” como referência a Jesus."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "veredas",
+    "termo": "τρίβους (tribous)",
+    "titulo": "tribos, raro",
+    "texto": "Só aqui e nos paralelos (Mc 1:3; Lc 3:4): caminho batido, trilha."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "falou o profeta Isaías",
+    "termo": "ὁ ῥηθεὶς διὰ Ἠσαΐου",
+    "titulo": "dia ou hypo",
+    "texto": "O Textus Receptus e o Texto Bizantino trazem hypo (“por”) em vez de dia (“por meio de”). Sem efeito na tradução."
+   }
+  ]
+ },
+ "Mat.3.4": {
+  "t": "O próprio João usava uma roupa de pelos de camelo e um cinto de couro em volta da cintura; e o seu alimento era gafanhotos e mel silvestre.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "roupa de pelos de camelo e um cinto de couro",
+    "termo": "τὸ ἔνδυμα αὐτοῦ ἀπὸ τριχῶν καμήλου καὶ ζώνην δερματίνην",
+    "titulo": "as roupas de Elias",
+    "texto": "A descrição lembra Elias, “homem vestido de pelos, com um cinto de couro na cintura” (2Rs 1:8; cf. Zc 13:4). Mateus identificará João com o Elias prometido em Ml 4:5 (11:14; 17:12-13). Dermatinos (“de couro”) só aparece aqui e em Mc 1:6."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "gafanhotos e mel silvestre",
+    "termo": "ἀκρίδες καὶ μέλι ἄγριον (akrides kai meli agrion)",
+    "titulo": "alimento do deserto",
+    "texto": "Akris é o gafanhoto, inseto que a Lei permitia comer (Lv 11:22) e que ainda hoje é comido na região. A ideia de que seriam vagens de alfarrobeira é posterior e não tem base no termo. O “mel silvestre” pode ser mel de abelhas selvagens ou a seiva doce de certas árvores. Agrios (“silvestre”) só aparece aqui, em Mc 1:6 e em Jd 13."
+   }
+  ]
+ },
+ "Mat.3.5": {
+  "t": "Então iam até ele os de Jerusalém, de toda a Judeia e de toda a região ao redor do Jordão,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "os de Jerusalém",
+    "termo": "Ἱεροσόλυμα καὶ πᾶσα ἡ Ἰουδαία (Hierosolyma kai pasa hē Ioudaia)",
+    "titulo": "metonímia",
+    "texto": "Lit. “saíam até ele Jerusalém e toda a Judeia”. O lugar está pelos habitantes; “os de” torna isso claro sem perder o tom de multidão. “Toda” é hipérbole de grande afluência."
+   }
+  ]
+ },
+ "Mat.3.6": {
+  "t": "e eram batizados por ele no rio Jordão, confessando os seus pecados.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "eram batizados",
+    "termo": "ἐβαπτίζοντο (ebaptizonto)",
+    "titulo": "o batismo de João",
+    "texto": "Baptizō é “mergulhar, imergir”. Os judeus conheciam lavagens rituais repetidas, e mais tarde o banho dos convertidos gentios. João dava um batismo único, ligado à confissão de pecados e à preparação para a vinda de Deus, e o aplicava aos próprios judeus, como se também eles precisassem entrar de novo no povo de Deus."
+   }
+  ]
+ },
+ "Mat.3.7": {
+  "t": "Mas, quando viu que muitos dos fariseus e saduceus vinham ao seu batismo, disse-lhes: “Raça de víboras! Quem os advertiu a fugir da ira que está para vir?",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "fariseus e saduceus",
+    "termo": "τῶν Φαρισαίων καὶ Σαδδουκαίων",
+    "titulo": "dois partidos",
+    "texto": "Os fariseus eram um movimento leigo, respeitado pelo povo, dedicado à observância rigorosa da Lei e das tradições orais. Os saduceus eram a aristocracia sacerdotal ligada ao templo; aceitavam só a Lei escrita e negavam a ressurreição (22:23). Os dois grupos eram rivais; Mateus os junta como representantes da liderança religiosa (16:1-12)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Raça de víboras",
+    "termo": "γεννήματα ἐχιδνῶν (gennēmata echidnōn)",
+    "titulo": "“filhotes de víboras”",
+    "texto": "Lit. “crias de víboras”. A imagem pode ser de cobras que fogem de um incêndio no campo, como eles fogem da ira. “Raça” capta o insulto à origem, que contrasta com o orgulho de serem filhos de Abraão (v. 9). Jesus repete a expressão (12:34; 23:33)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "a ira que está para vir",
+    "termo": "τῆς μελλούσης ὀργῆς (tēs mellousēs orgēs)",
+    "titulo": "orgē",
+    "texto": "A ira de Deus no juízo final, anunciada pelos profetas para o “dia do SENHOR” (Sf 1:14-18; Ml 4:1). A APV não a suaviza."
+   }
+  ]
+ },
+ "Mat.3.8": {
+  "t": "Produzam, portanto, fruto que corresponda ao arrependimento.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "fruto que corresponda ao arrependimento",
+    "termo": "καρπὸν ἄξιον τῆς μετανοίας (karpon axion tēs metanoias)",
+    "titulo": "“fruto digno do arrependimento”",
+    "texto": "Axios é “de peso equivalente”, “condizente”. O arrependimento verdadeiro se mostra numa vida que muda. O Textus Receptus traz o plural, “frutos dignos”; o sentido é o mesmo."
+   }
+  ]
+ },
+ "Mat.3.9": {
+  "t": "E não pensem que podem dizer a si mesmos: ‘Temos Abraão como pai’. Pois eu lhes digo que até destas pedras Deus pode fazer surgir filhos para Abraão.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "não pensem que podem dizer",
+    "termo": "μὴ δόξητε λέγειν (mē doxēte legein)",
+    "titulo": "“não presumam dizer”",
+    "texto": "Lit. “não pensem dizer”: não se iludam com a ideia de que basta dizer. “Até” foi acrescentado para dar a ênfase que o grego tem na ordem das palavras."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "destas pedras",
+    "termo": "ἐκ τῶν λίθων τούτων (ek tōn lithōn toutōn)",
+    "titulo": "pedras e filhos",
+    "texto": "Em hebraico e aramaico, “pedras” (ʾabanim) e “filhos” (banim) soam parecidos, e muitos veem aqui um jogo de palavras. A ascendência não garante lugar no povo de Deus; Deus pode criar filhos de Abraão onde quiser, o que prepara a entrada dos gentios (8:11)."
+   }
+  ]
+ },
+ "Mat.3.10": {
+  "t": "O machado já está posto à raiz das árvores. Toda árvore, portanto, que não produz bom fruto é cortada e lançada ao fogo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "machado",
+    "termo": "ἀξίνη (axinē)",
+    "titulo": "axinē, raro",
+    "texto": "Só aqui e em Lc 3:9. A imagem é do lenhador que já encostou o machado na raiz para medir o golpe."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "é cortada e lançada",
+    "termo": "ἐκκόπτεται καὶ ... βάλλεται (ekkoptetai kai balletai)",
+    "titulo": "presente de certeza",
+    "texto": "Os verbos estão no presente, embora se refiram ao juízo que vem: o fato é tão certo que já pode ser descrito como acontecendo."
+   }
+  ]
+ },
+ "Mat.3.11": {
+  "t": "Eu os batizo com água para arrependimento; mas aquele que vem depois de mim é mais forte do que eu, e não sou digno nem de levar as sandálias dele. Ele os batizará com o Espírito Santo e com fogo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "com água",
+    "termo": "ἐν ὕδατι (en hydati)",
+    "titulo": "en: “com” ou “em”",
+    "texto": "A preposição pode ser instrumental (“com água”) ou local (“na água”). “Com” foi escolhido para manter o paralelo com “com o Espírito Santo e com fogo”, onde “em” soaria estranho."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "levar as sandálias dele",
+    "termo": "τὰ ὑποδήματα βαστάσαι (ta hypodēmata bastasai)",
+    "titulo": "tarefa de escravo",
+    "texto": "Carregar ou desatar as sandálias do senhor era serviço do escravo mais humilde. Mateus diz “levar”; Marcos e Lucas, “desatar a correia”. Hikanos é “capaz, digno”."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "com o Espírito Santo e com fogo",
+    "termo": "ἐν πνεύματι ἁγίῳ καὶ πυρί (en pneumati hagiō kai pyri)",
+    "titulo": "Espírito e fogo",
+    "texto": "Uma só preposição rege os dois termos, sugerindo uma única ação. Leituras: (1) o fogo purifica, como o fogo do fundidor (Ml 3:2-3; Is 4:4); (2) o fogo é o juízo sobre os que rejeitam, como nos vv. 10 e 12; (3) cumprimento em Pentecostes, com as línguas como de fogo (At 2:3-4). Muitos combinam (1) e (2): o Espírito purifica quem se arrepende e o fogo consome quem resiste. O Texto Bizantino omite “e com fogo”, provavelmente por influência de Mc 1:8."
+   }
+  ]
+ },
+ "Mat.3.12": {
+  "t": "A pá de joeirar está na mão dele; ele limpará toda a sua eira e recolherá o seu trigo no celeiro, mas queimará a palha num fogo que não se apaga.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "A pá de joeirar",
+    "termo": "τὸ πτύον (to ptyon)",
+    "titulo": "a colheita no campo",
+    "texto": "Ptyon (só aqui e em Lc 3:17) é a pá ou forcado com que se joga o grão debulhado para o alto, para que o vento leve a palha e o grão caia. A halōn (“eira”, também só aqui e em Lc 3:17) é o terreno plano onde se debulhava o cereal. Diakathairō (“limpar de ponta a ponta”) é hápax. Achyron (“palha”) aparece só aqui e em Lc 3:17."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "num fogo que não se apaga",
+    "termo": "πυρὶ ἀσβέστῳ (pyri asbestō)",
+    "titulo": "asbestos, raro",
+    "texto": "Lit. “com fogo inextinguível” (também Mc 9:43; Lc 3:17). A palha costumava ser queimada; aqui o fogo não se apaga, o que mostra que se fala do juízo final (Is 66:24)."
+   }
+  ]
+ },
+ "Mat.3.13": {
+  "t": "Então Jesus foi da Galileia ao Jordão, até João, para ser batizado por ele.",
+  "n": []
+ },
+ "Mat.3.14": {
+  "t": "Mas João tentava impedi-lo, dizendo: “Eu é que preciso ser batizado por você, e você vem a mim?”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "tentava impedi-lo",
+    "termo": "διεκώλυεν (diekōlyen)",
+    "titulo": "diakōlyō, hápax",
+    "texto": "Única ocorrência no NT: “impedir de todo”. O imperfeito indica tentativa: João insistia em impedir, mas não conseguiu."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Eu é que preciso",
+    "termo": "ἐγὼ χρείαν ἔχω (egō chreian echō)",
+    "titulo": "ênfase",
+    "texto": "Os pronomes egō e sy (“eu” e “você”) estão em destaque e em contraste; “eu é que” reproduz a ênfase. João, que batiza para o perdão de pecados, reconhece que Jesus não precisa dele."
+   }
+  ]
+ },
+ "Mat.3.15": {
+  "t": "Jesus lhe respondeu: “Deixe assim por agora, pois desse modo nos convém cumprir toda a justiça.” Então João consentiu.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "cumprir toda a justiça",
+    "termo": "πληρῶσαι πᾶσαν δικαιοσύνην (plērōsai pasan dikaiosynēn)",
+    "titulo": "o sentido da frase",
+    "texto": "É a primeira fala de Jesus em Mateus, e o sentido é discutido. Dikaiosynē em Mateus é sobretudo a conduta que agrada a Deus (5:6, 20; 6:1, 33). Leituras: (1) Jesus faz tudo o que Deus requer, inclusive o batismo que Deus enviou por meio de João (21:25, 32); (2) Jesus se identifica com o povo pecador que se arrepende, como o Servo “contado com os transgressores” (Is 53:11-12); (3) “cumprir” liga a frase às citações de cumprimento: Jesus realiza o plano de Deus. As leituras não se excluem. “Nos” inclui João."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Então João consentiu",
+    "termo": "τότε ἀφίησιν αὐτόν (tote aphiēsin auton)",
+    "titulo": "“então o deixa”",
+    "texto": "Lit. “então o deixa”, com o mesmo verbo do início (“deixe”). O português pede o sujeito explícito e o pretérito."
+   }
+  ]
+ },
+ "Mat.3.16": {
+  "t": "Logo que foi batizado, Jesus saiu da água. E eis que os céus se abriram, e ele viu o Espírito de Deus descendo como uma pomba e vindo sobre ele.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "como uma pomba",
+    "termo": "ὡσεὶ περιστεράν (hōsei peristeran)",
+    "titulo": "forma ou modo?",
+    "texto": "Pode descrever o modo da descida (desceu como desce uma pomba) ou a forma visível (em forma de pomba, Lc 3:22). A pomba pode lembrar o Espírito pairando sobre as águas na criação (Gn 1:2) ou a pomba de Noé que anuncia uma terra nova (Gn 8:8-12)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "os céus se abriram",
+    "termo": "ἠνεῴχθησαν (+ αὐτῷ) οἱ οὐρανοί",
+    "titulo": "“se lhe abriram”",
+    "texto": "O NA28 (entre colchetes), o THGNT, o Textus Receptus e o Texto Bizantino trazem autō: “os céus se lhe abriram”. O SBLGNT omite, com alguns manuscritos antigos. Essas edições também têm “o Espírito de Deus” com artigo e “e vindo”, sem mudar o sentido. Com ou sem autō, a visão é de Jesus (“ele viu”)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "o Espírito de Deus",
+    "termo": "πνεῦμα θεοῦ (pneuma theou)",
+    "titulo": "o Pai, o Filho e o Espírito",
+    "texto": "Na cena do batismo, o Filho sobe da água, o Espírito desce e o Pai fala (v. 17). A Igreja antiga viu aqui uma das revelações mais claras da Trindade. O Espírito vem sobre Jesus como sobre o Messias prometido (Is 11:2; 42:1; 61:1)."
+   }
+  ]
+ },
+ "Mat.3.17": {
+  "t": "E eis que uma voz dos céus disse: “Este é o meu Filho amado, em quem tenho prazer.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Este é o meu Filho amado, em quem tenho prazer",
+    "termo": "οὗτός ἐστιν ὁ υἱός μου ὁ ἀγαπητὸς ἐν ᾧ εὐδόκησα",
+    "titulo": "Sl 2, Is 42 e Gn 22",
+    "texto": "A voz combina três ecos: Sl 2:7 (“Tu és meu Filho”, o rei messiânico), Is 42:1 (“o meu escolhido, em quem a minha alma se agrada”, o Servo sobre quem Deus põe o seu Espírito) e talvez Gn 22:2 (“o teu filho, o teu único filho, a quem amas”, Isaque). Jesus é ao mesmo tempo o Filho-rei e o Servo que sofrerá. Em Marcos e Lucas a voz fala a Jesus (“Tu és”); em Mateus a voz o apresenta aos presentes (“Este é”)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "em quem tenho prazer",
+    "termo": "ἐν ᾧ εὐδόκησα (en hō eudokēsa)",
+    "titulo": "aoristo de eudokeō",
+    "texto": "O aoristo não indica aqui um momento passado, mas uma aprovação plena e definitiva, como o qatal hebraico de Is 42:1. O presente “tenho prazer” é o equivalente natural em português; “em quem me comprazo” soaria arcaico."
+   }
+  ]
+ }
+}

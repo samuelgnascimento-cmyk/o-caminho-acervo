@@ -1,0 +1,940 @@
+{
+ "1Co.1.1": {
+  "t": "Paulo, chamado para ser apóstolo de Cristo Jesus pela vontade de Deus, e o irmão Sóstenes,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "chamado para ser apóstolo",
+    "termo": "κλητὸς ἀπόστολος (klētos apostolos)",
+    "titulo": "“apóstolo chamado”",
+    "texto": "Lit. “chamado apóstolo”. Klētos é adjetivo verbal: Paulo não se fez apóstolo, foi chamado para isso. A mesma palavra volta no v. 2 (“chamados para ser santos”) e liga o apóstolo e a igreja ao mesmo chamado de Deus."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Cristo",
+    "termo": "Χριστοῦ (Christou)",
+    "titulo": "Christos",
+    "texto": "Tradução grega do hebraico mashiach, “Messias, Ungido”. Nas cartas de Paulo funciona quase como nome próprio, mas sem perder o sentido de título: Jesus é o Rei ungido prometido a Israel."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Sóstenes",
+    "termo": "Σωσθένης (Sōsthenēs)",
+    "titulo": "quem era Sóstenes",
+    "texto": "Um Sóstenes, chefe da sinagoga de Corinto, foi espancado diante do tribunal de Gálio (At 18:17). Pode ser o mesmo homem, agora cristão e conhecido dos coríntios, mas o nome era comum e a identificação não é certa."
+   }
+  ]
+ },
+ "1Co.1.2": {
+  "t": "à igreja de Deus que está em Corinto, aos que foram santificados em Cristo Jesus, chamados para ser santos, com todos os que em todo lugar invocam o nome de nosso Senhor Jesus Cristo, Senhor deles e nosso:",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "igreja",
+    "termo": "ἐκκλησίᾳ (ekklēsia)",
+    "titulo": "ekklēsia",
+    "texto": "Na cidade grega, ekklēsia era a assembleia dos cidadãos convocados; na Septuaginta, a assembleia (qahal) de Israel reunida diante de Deus. Paulo fala de pessoas reunidas, não de prédio. “Igreja” é o termo consagrado; o sentido é “assembleia, comunidade convocada”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "chamados para ser santos",
+    "termo": "κλητοῖς ἁγίοις (klētois hagiois)",
+    "titulo": "“chamados santos”",
+    "texto": "Lit. “santos chamados” ou “chamados santos”. Não é um convite para que um dia se tornem santos: o perfeito “santificados” mostra que já foram separados para Deus. São santos porque Deus os chamou. Ecoa Êx 12:16 (LXX), onde Israel é “convocação santa”."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "invocam o nome de nosso Senhor Jesus Cristo",
+    "termo": "ἐπικαλουμένοις τὸ ὄνομα τοῦ κυρίου",
+    "titulo": "invocar o nome",
+    "texto": "“Invocar o nome do SENHOR” é a linguagem do culto a YHWH no AT (Gn 4:26; Jl 2:32). Paulo a aplica a Jesus, como em Rm 10:13, onde cita Joel e “Senhor” é Cristo."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Senhor deles e nosso",
+    "termo": "αὐτῶν καὶ ἡμῶν (autōn kai hēmōn)",
+    "titulo": "“deles e nosso” de quê?",
+    "texto": "Lit. “deles e nosso”. Pode completar “nosso Senhor” (Jesus é Senhor deles e nosso) ou “em todo lugar” (o lugar deles e o nosso). A primeira leitura é a da maioria dos intérpretes e se encaixa no tema da carta: os coríntios não são donos de um Cristo à parte (1:13). “Senhor” foi repetido em português para deixar clara a ligação."
+   }
+  ]
+ },
+ "1Co.1.3": {
+  "t": "graça e paz a vocês da parte de Deus, nosso Pai, e do Senhor Jesus Cristo.",
+  "n": []
+ },
+ "1Co.1.4": {
+  "t": "Dou graças ao meu Deus sempre por vocês, por causa da graça de Deus que lhes foi dada em Cristo Jesus.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "por causa da graça de Deus",
+    "termo": "ἐπὶ τῇ χάριτι τοῦ θεοῦ",
+    "titulo": "epi",
+    "texto": "A preposição epi com dativo dá o motivo da ação de graças: Paulo agradece pela graça, não pelos coríntios em si. Até o v. 9 o sujeito das ações é sempre Deus."
+   }
+  ]
+ },
+ "1Co.1.5": {
+  "t": "Pois nele vocês foram enriquecidos em tudo, em toda palavra e em todo conhecimento,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "foram enriquecidos",
+    "termo": "ἐπλουτίσθητε (eploutisthēte)",
+    "titulo": "ploutizō, raro",
+    "texto": "Só três vezes no NT, todas em Paulo (aqui; 2Co 6:10; 9:11). Passivo: a riqueza veio de Deus. Há ironia suave, que Paulo retoma em 4:8 (“já estão ricos!”)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "em toda palavra e em todo conhecimento",
+    "termo": "ἐν παντὶ λόγῳ καὶ πάσῃ γνώσει",
+    "titulo": "logos e gnōsis",
+    "texto": "Logos aqui é a capacidade de falar (discurso, eloquência, dons de fala como línguas e profecia); gnōsis, o conhecimento. São exatamente os dons de que os coríntios mais se orgulhavam (caps. 8, 12-14). Paulo agradece por eles, mas os atribui à graça, não a mérito."
+   }
+  ]
+ },
+ "1Co.1.6": {
+  "t": "assim como o testemunho de Cristo foi confirmado entre vocês,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "o testemunho de Cristo",
+    "termo": "τὸ μαρτύριον τοῦ Χριστοῦ (to martyrion tou Christou)",
+    "titulo": "genitivo",
+    "texto": "Pode ser o testemunho a respeito de Cristo, isto é, o evangelho pregado por Paulo (genitivo objetivo), ou o que o próprio Cristo testemunha. A primeira leitura é a mais provável (cf. 2:1). “Entre vocês” pode ser também “em vocês”: o evangelho firmou-se na vida da comunidade."
+   }
+  ]
+ },
+ "1Co.1.7": {
+  "t": "de modo que não lhes falta nenhum dom, enquanto aguardam ansiosamente a revelação de nosso Senhor Jesus Cristo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "nenhum dom",
+    "termo": "χαρίσματι (charismati)",
+    "titulo": "charisma",
+    "texto": "Da mesma raiz de charis (“graça”): um dom concedido gratuitamente. Paulo usa a palavra para os dons do Espírito (12:4-11), mas aqui ela pode abranger toda dádiva de Deus. Por isso “dom”, sem acrescentar “espiritual”."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "a revelação de nosso Senhor Jesus Cristo",
+    "termo": "τὴν ἀποκάλυψιν (tēn apokalypsin)",
+    "titulo": "a vinda futura",
+    "texto": "Apokalypsis é o desvendar de algo oculto. Aqui é a vinda gloriosa de Cristo no fim, quando ele será visto por todos (2Ts 1:7; 1Pe 1:7). Os dons são para o tempo da espera, não sinal de que o fim já chegou (cf. 4:8; 13:8-12)."
+   }
+  ]
+ },
+ "1Co.1.8": {
+  "t": "Ele também os manterá firmes até o fim, irrepreensíveis no dia de nosso Senhor Jesus Cristo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Ele",
+    "termo": "ὅς (hos)",
+    "titulo": "quem sustenta?",
+    "texto": "Lit. “o qual”. O antecedente mais próximo é “Jesus Cristo” (v. 7), mas “o dia de nosso Senhor Jesus Cristo”, no mesmo versículo, e o v. 9 (“Fiel é Deus”) levam muitos a pensar que o sujeito é Deus. O sentido teológico é o mesmo. A tradução mantém o pronome sem decidir."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "irrepreensíveis",
+    "termo": "ἀνεγκλήτους (anenklētous)",
+    "titulo": "anenklētos",
+    "texto": "Termo jurídico: “sem acusação que se sustente”. A imagem é a de um tribunal no “dia do Senhor”, expressão que no AT designa o dia do juízo de YHWH (Am 5:18; Jl 2:31) e que Paulo aplica a Jesus."
+   }
+  ]
+ },
+ "1Co.1.9": {
+  "t": "Fiel é Deus, pelo qual vocês foram chamados à comunhão com seu Filho, Jesus Cristo, nosso Senhor.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "comunhão com seu Filho",
+    "termo": "κοινωνίαν τοῦ υἱοῦ αὐτοῦ (koinōnian tou huiou autou)",
+    "titulo": "koinōnia",
+    "texto": "Koinōnia é participação, parceria. Pode ser a comunhão pessoal com Cristo ou a participação no próprio Cristo e no que é dele, inclusive na comunidade que é o seu corpo (10:16-17). “Comunhão com” cobre as duas ideias."
+   }
+  ]
+ },
+ "1Co.1.10": {
+  "t": "Peço a vocês, irmãos, pelo nome de nosso Senhor Jesus Cristo, que todos estejam de acordo no que dizem e que não haja divisões entre vocês; antes, estejam perfeitamente unidos no mesmo modo de pensar e no mesmo parecer.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "irmãos",
+    "termo": "ἀδελφοί (adelphoi)",
+    "titulo": "adelphoi",
+    "texto": "O plural masculino inclui as irmãs, como mostra a própria carta (Cloe, v. 11; as mulheres que oram e profetizam, 11:5). Mantido “irmãos”, forma usada nas igrejas, com esta nota."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "estejam de acordo no que dizem",
+    "termo": "τὸ αὐτὸ λέγητε πάντες (to auto legēte pantes)",
+    "titulo": "“digam todos a mesma coisa”",
+    "texto": "Lit. “que todos digam a mesma coisa”. Era expressão corrente da política grega para partidos que entram em acordo. Paulo não pede uniformidade de frases, mas o fim das facções (M. M. Mitchell, Paul and the Rhetoric of Reconciliation, 1991, estuda esse vocabulário)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "divisões",
+    "termo": "σχίσματα (schismata)",
+    "titulo": "schisma",
+    "texto": "Rasgo, como o de uma roupa (Mc 2:21). Não são ainda grupos separados com reuniões próprias, mas rachas dentro da mesma igreja (11:18). “Cisma” seria anacrônico."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "perfeitamente unidos",
+    "termo": "κατηρτισμένοι (katērtismenoi)",
+    "titulo": "katartizō",
+    "texto": "Verbo usado para consertar redes (Mc 1:19) e para recolocar ossos no lugar: restaurar à condição devida. O particípio perfeito indica um estado: “estejam ajustados, unidos por completo”."
+   }
+  ]
+ },
+ "1Co.1.11": {
+  "t": "Pois, meus irmãos, fui informado a respeito de vocês, pelos da casa de Cloe, de que há brigas entre vocês.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "pelos da casa de Cloe",
+    "termo": "ὑπὸ τῶν Χλόης (hypo tōn Chloēs)",
+    "titulo": "“pelos de Cloe”",
+    "texto": "Lit. “pelos de Cloe”. Podem ser parentes, escravos ou libertos que trabalhavam para ela e viajavam a negócios. Cloe é desconhecida fora deste versículo; não se sabe se morava em Corinto ou em Éfeso."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "brigas",
+    "termo": "ἔριδες (erides)",
+    "titulo": "eris",
+    "texto": "Contenda, rivalidade. Na lista de Gl 5:20 está entre as obras da carne. “Brigas” é a palavra portuguesa mais próxima e corrente."
+   }
+  ]
+ },
+ "1Co.1.12": {
+  "t": "Quero dizer o seguinte: cada um de vocês diz: “Eu sou de Paulo”, “Eu, de Apolo”, “Eu, de Cefas”, “Eu, de Cristo”.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Cefas",
+    "termo": "Κηφᾶ (Kēpha)",
+    "titulo": "Cefas",
+    "texto": "Forma grega do aramaico kepha, “rocha”, nome que Jesus deu a Simão (Jo 1:42). É o apóstolo Pedro. Não se sabe se Pedro esteve em Corinto ou se o grupo apenas se apoiava em sua autoridade."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "“Eu, de Cristo”",
+    "termo": "ἐγὼ δὲ Χριστοῦ",
+    "titulo": "um partido de Cristo?",
+    "texto": "Debate antigo: (1) havia um grupo que dizia ser “de Cristo” para se pôr acima dos líderes humanos; (2) é a réplica do próprio Paulo ou de cristãos fiéis aos outros lemas. A forma igual às três frases anteriores e 2Co 10:7 favorecem a primeira leitura. Em qualquer caso, transformar Cristo em bandeira de facção é o erro denunciado no v. 13."
+   }
+  ]
+ },
+ "1Co.1.13": {
+  "t": "Cristo está dividido? Por acaso Paulo foi crucificado em favor de vocês? Ou vocês foram batizados em nome de Paulo?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Cristo está dividido?",
+    "termo": "μεμέρισται ὁ Χριστός; (memeristai ho Christos?)",
+    "titulo": "pergunta ou afirmação",
+    "texto": "Os manuscritos antigos não tinham pontuação. Pode ser pergunta (“Cristo está dividido?”) ou afirmação irônica (“Cristo foi repartido!”). As duas perguntas seguintes, introduzidas por mē, que espera resposta negativa, favorecem a pergunta."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "em nome de Paulo",
+    "termo": "εἰς τὸ ὄνομα Παύλου (eis to onoma Paulou)",
+    "titulo": "eis to onoma",
+    "texto": "Lit. “para o nome de”. A fórmula, usada nos papiros para transferir uma propriedade para a conta de alguém, indica pertença: quem é batizado “para o nome” de Cristo passa a pertencer a ele. Por isso ninguém pode pertencer a Paulo."
+   }
+  ]
+ },
+ "1Co.1.14": {
+  "t": "Dou graças por não ter batizado nenhum de vocês, exceto Crispo e Gaio,",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "Dou graças",
+    "termo": "εὐχαριστῶ (+ τῷ θεῷ)",
+    "titulo": "“Dou graças a Deus”",
+    "texto": "O NA28, Tregelles, o Textus Receptus e o Texto Bizantino acrescentam tō theō (“a Deus”); o SBLGNT o omite, com parte dos manuscritos antigos. O sentido é o mesmo."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Crispo e Gaio",
+    "termo": "Κρίσπον καὶ Γάϊον",
+    "titulo": "quem eram",
+    "texto": "Crispo era o chefe da sinagoga de Corinto que creu com toda a sua casa (At 18:8). Gaio provavelmente é o anfitrião de Paulo e de toda a igreja quando ele escreveu Romanos em Corinto (Rm 16:23)."
+   }
+  ]
+ },
+ "1Co.1.15": {
+  "t": "para que ninguém diga que vocês foram batizados em meu nome.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "vocês foram batizados",
+    "termo": "ἐβαπτίσθητε (ebaptisthēte)",
+    "titulo": "ebaptisthēte ou ebaptisa",
+    "texto": "O texto crítico traz ebaptisthēte (“vocês foram batizados”); o Textus Receptus e o Texto Bizantino, ebaptisa (“eu batizei”). A forma passiva retoma o v. 13 e tem melhor apoio antigo."
+   }
+  ]
+ },
+ "1Co.1.16": {
+  "t": "Batizei também a casa de Estéfanas; além desses, não sei se batizei mais alguém.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "a casa de Estéfanas",
+    "termo": "τὸν Στεφανᾶ οἶκον (ton Stephana oikon)",
+    "titulo": "oikos",
+    "texto": "“Casa” no sentido de família ampliada: parentes, escravos e dependentes. Estéfanas e os seus foram os primeiros convertidos da Acaia (16:15-17). O texto não diz se havia crianças; o debate sobre o batismo de crianças não pode ser decidido por este versículo."
+   }
+  ]
+ },
+ "1Co.1.17": {
+  "t": "Pois Cristo não me enviou para batizar, mas para anunciar o evangelho; e não com sabedoria de palavras, para que a cruz de Cristo não seja esvaziada.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "anunciar o evangelho",
+    "termo": "εὐαγγελίζεσθαι (euangelizesthai)",
+    "titulo": "euangelizomai",
+    "texto": "Lit. “anunciar boas notícias”. Paulo não despreza o batismo; diz que sua tarefa específica era pregar, e que o batismo podia ser feito por outros."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "sabedoria de palavras",
+    "termo": "σοφίᾳ λόγου (sophia logou)",
+    "titulo": "“sabedoria de palavra”",
+    "texto": "Lit. “sabedoria de palavra”. É a eloquência e a filosofia admiradas na cultura grega, em que o orador persuadia pela arte retórica. Paulo recusa um evangelho que dependa do brilho do pregador (2:1-5)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "seja esvaziada",
+    "termo": "κενωθῇ (kenōthē)",
+    "titulo": "kenoō",
+    "texto": "“Tornar vazio, sem efeito”. Se a fé dependesse da retórica, a cruz perderia o seu poder e ficaria oca."
+   }
+  ]
+ },
+ "1Co.1.18": {
+  "t": "Pois a palavra da cruz é loucura para os que estão se perdendo, mas para nós, que estamos sendo salvos, é poder de Deus.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "a palavra da cruz",
+    "termo": "ὁ λόγος ὁ τοῦ σταυροῦ (ho logos ho tou staurou)",
+    "titulo": "logos",
+    "texto": "Também possível: “a mensagem da cruz”. Manteve-se “palavra” para preservar o jogo com o v. 17: não a “sabedoria de palavra” (logos), mas a “palavra (logos) da cruz”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "para os que estão se perdendo",
+    "termo": "τοῖς ἀπολλυμένοις (tois apollymenois)",
+    "titulo": "particípios presentes",
+    "texto": "Os dois particípios presentes (“os que estão se perdendo”, “os que estão sendo salvos”) descrevem dois caminhos já em curso, que terminam na perdição ou na salvação final. A salvação em Paulo tem um passado (Rm 8:24), um presente (aqui) e um futuro (Rm 5:9)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "loucura",
+    "termo": "μωρία (mōria)",
+    "titulo": "mōria",
+    "texto": "Tolice, insensatez; dela vem “moron”. É uma das palavras-chave de 1:18-2:5, onde a raiz mōr- aparece várias vezes. Manteve-se “loucura” em todas as ocorrências para conservar o fio."
+   }
+  ]
+ },
+ "1Co.1.19": {
+  "t": "Pois está escrito: “Destruirei a sabedoria dos sábios e anularei o entendimento dos entendidos”.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Destruirei a sabedoria dos sábios",
+    "termo": "ἀπολῶ τὴν σοφίαν τῶν σοφῶν",
+    "titulo": "citação de Is 29:14",
+    "texto": "Citação de Is 29:14 segundo a Septuaginta, que difere pouco do hebraico. A única mudança de Paulo é o último verbo: a Septuaginta tem kryspō (“esconderei”) e Paulo, athetēsō (“anularei”), talvez sob influência de Sl 33:10 (LXX 32:10). Em Isaías, Deus fala contra os conselheiros de Jerusalém que confiavam na própria esperteza política."
+   }
+  ]
+ },
+ "1Co.1.20": {
+  "t": "Onde está o sábio? Onde está o escriba? Onde está o debatedor desta era? Acaso Deus não tornou louca a sabedoria do mundo?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "escriba",
+    "termo": "γραμματεύς (grammateus)",
+    "titulo": "grammateus",
+    "texto": "No mundo judaico, o especialista na Lei; no grego comum, também o secretário público. Ao lado do “sábio” (o filósofo grego) e do “debatedor”, representa a erudição judaica. Ecoa Is 33:18 (no hebraico, “onde está o escriba?”) e Is 19:11-12."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "debatedor",
+    "termo": "συζητητής (syzētētēs)",
+    "titulo": "syzētētēs, hápax",
+    "texto": "Única ocorrência no NT e sem uso conhecido antes de Paulo. Vem de syzēteō, “discutir, disputar”. Designa o mestre de argumentação, seja o retor grego, seja o rabino que debate a Lei. “Debatedor” é o sentido mais seguro."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "desta era",
+    "termo": "τοῦ αἰῶνος τούτου (tou aiōnos toutou)",
+    "titulo": "aiōn",
+    "texto": "Aiōn é uma época do mundo. Paulo, como o judaísmo de seu tempo, distingue “esta era” da era vindoura inaugurada por Cristo. “Século” (ARC) hoje sugere cem anos; “era” guarda o sentido."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "a sabedoria do mundo",
+    "termo": "τοῦ κόσμου (+ τούτου)",
+    "titulo": "“deste mundo”",
+    "texto": "O Textus Receptus e o Texto Bizantino acrescentam toutou: “deste mundo”, assimilando à expressão anterior. O texto crítico tem só “do mundo”."
+   }
+  ]
+ },
+ "1Co.1.21": {
+  "t": "Visto que, na sabedoria de Deus, o mundo não conheceu a Deus por meio da sabedoria, agradou a Deus salvar os que creem por meio da loucura da pregação.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "na sabedoria de Deus",
+    "termo": "ἐν τῇ σοφίᾳ τοῦ θεοῦ (en tē sophia tou theou)",
+    "titulo": "como entender",
+    "texto": "Expressão debatida. As leituras principais: (1) foi pelo sábio plano de Deus que o mundo não chegou a ele pela própria sabedoria; (2) o mundo, mesmo cercado da sabedoria de Deus revelada na criação (Rm 1:19-20), não o reconheceu. A tradução literal deixa as duas abertas; a primeira combina melhor com a ênfase de Paulo na iniciativa de Deus."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "da pregação",
+    "termo": "τοῦ κηρύγματος (tou kērygmatos)",
+    "titulo": "kērygma",
+    "texto": "Kērygma é o conteúdo proclamado (a mensagem do Cristo crucificado), não o ato de pregar. A loucura não está no método da pregação, mas no que é anunciado."
+   }
+  ]
+ },
+ "1Co.1.22": {
+  "t": "Pois os judeus pedem sinais, e os gregos buscam sabedoria;",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "sinais",
+    "termo": "σημεῖα (sēmeia)",
+    "titulo": "plural ou singular",
+    "texto": "O texto crítico traz o plural sēmeia; o Textus Receptus e o Texto Bizantino, o singular sēmeion (“um sinal”), talvez por influência de Mt 12:38-39. Sem diferença real de sentido."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "gregos",
+    "termo": "Ἕλληνες (Hellēnes)",
+    "titulo": "Hellēnes",
+    "texto": "Não só os nascidos na Grécia: os não judeus de cultura grega. No v. 23 Paulo troca por ethnē (“gentios”), com o mesmo alcance."
+   }
+  ]
+ },
+ "1Co.1.23": {
+  "t": "mas nós pregamos Cristo crucificado, pedra de tropeço para os judeus e loucura para os gentios;",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Cristo crucificado",
+    "termo": "Χριστὸν ἐσταυρωμένον (Christon estaurōmenon)",
+    "titulo": "particípio perfeito",
+    "texto": "O particípio perfeito indica um estado permanente: o Cristo que foi crucificado continua sendo “o crucificado”, mesmo ressuscitado. Paulo não prega a cruz como um episódio já superado."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "pedra de tropeço",
+    "termo": "σκάνδαλον (skandalon)",
+    "titulo": "skandalon",
+    "texto": "Armadilha, obstáculo em que se tropeça. “Escândalo” (ARC) é o empréstimo da palavra, mas hoje sugere apenas fato vergonhoso. Para judeus, um Messias crucificado era contradição: Dt 21:23 declara maldito quem é pendurado no madeiro (Gl 3:13)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "para os gentios",
+    "termo": "ἔθνεσιν (ethnesin)",
+    "titulo": "ethnesin ou Hellēsin",
+    "texto": "O texto crítico traz ethnesin (“gentios”); o Textus Receptus e o Texto Bizantino, Hellēsin (“gregos”), por influência dos vv. 22 e 24. Mesmo sentido."
+   }
+  ]
+ },
+ "1Co.1.24": {
+  "t": "mas, para os que foram chamados, tanto judeus como gregos, Cristo, poder de Deus e sabedoria de Deus.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Cristo, poder de Deus e sabedoria de Deus",
+    "termo": "Χριστὸν θεοῦ δύναμιν καὶ θεοῦ σοφίαν",
+    "titulo": "frase sem verbo",
+    "texto": "“Cristo” está no acusativo e continua regido por “pregamos” do v. 23; não há novo verbo. A tradução mantém a construção elíptica, com o sentido de “para estes pregamos Cristo, que é poder de Deus e sabedoria de Deus”. Os dois termos respondem aos “sinais” e à “sabedoria” do v. 22."
+   }
+  ]
+ },
+ "1Co.1.25": {
+  "t": "Porque a loucura de Deus é mais sábia que os homens, e a fraqueza de Deus é mais forte que os homens.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "a loucura de Deus",
+    "termo": "τὸ μωρὸν τοῦ θεοῦ (to mōron tou theou)",
+    "titulo": "“o louco de Deus”",
+    "texto": "Lit. “o que é louco de Deus” e “o que é fraco de Deus”. É ironia: o que no agir de Deus parece loucura e fraqueza aos olhos humanos, a cruz, supera tudo o que os homens chamam de sabedoria e força."
+   }
+  ]
+ },
+ "1Co.1.26": {
+  "t": "Pois considerem o chamado de vocês, irmãos: não muitos eram sábios segundo a carne, não muitos eram poderosos, não muitos eram de nascimento nobre.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "considerem",
+    "termo": "βλέπετε (blepete)",
+    "titulo": "imperativo ou indicativo",
+    "texto": "Lit. “vejam”. A forma pode ser imperativo (“vejam, considerem”) ou indicativo (“vocês veem”). O imperativo convém a um apelo. O grego não tem verbo nas três frases seguintes (“não muitos sábios...”); “eram” foi suprido, pois Paulo fala da condição deles quando foram chamados."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "segundo a carne",
+    "termo": "κατὰ σάρκα (kata sarka)",
+    "titulo": "kata sarka",
+    "texto": "Isto é, pelos padrões humanos de avaliação. Mantido “carne” para conservar a expressão que Paulo usa em outros lugares (2Co 5:16), sem sentido moral aqui."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "de nascimento nobre",
+    "termo": "εὐγενεῖς (eugeneis)",
+    "titulo": "eugenēs, raro",
+    "texto": "Só três vezes no NT (aqui; Lc 19:12; At 17:11). Literalmente “bem-nascido”, de família importante. “Não muitos” mostra que havia alguns: Erasto, tesoureiro da cidade (Rm 16:23), e talvez Crispo e Gaio."
+   }
+  ]
+ },
+ "1Co.1.27": {
+  "t": "Mas Deus escolheu o que é loucura no mundo para envergonhar os sábios, e Deus escolheu o que é fraco no mundo para envergonhar o que é forte;",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "o que é loucura no mundo",
+    "termo": "τὰ μωρὰ τοῦ κόσμου (ta mōra tou kosmou)",
+    "titulo": "neutros",
+    "texto": "Lit. “as coisas loucas do mundo”. Paulo usa neutros plurais (“o que é louco, fraco, humilde”) para falar de pessoas, pondo em relevo o que elas são aos olhos do mundo. “Do mundo” significa “segundo a avaliação do mundo”."
+   }
+  ]
+ },
+ "1Co.1.28": {
+  "t": "e Deus escolheu o que no mundo é de origem humilde e desprezado, o que não é, para reduzir a nada o que é,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "de origem humilde",
+    "termo": "ἀγενῆ (agenē)",
+    "titulo": "agenēs, hápax",
+    "texto": "Única ocorrência no NT. É o contrário de eugenēs (v. 26): sem linhagem, de família sem importância; no grego da época, também “vil, desprezível”. O contraste com o v. 26 favorece “de origem humilde”."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "o que não é",
+    "termo": "(καὶ) τὰ μὴ ὄντα",
+    "titulo": "kai",
+    "texto": "Westcott-Hort, o Textus Receptus e o Texto Bizantino trazem kai antes: “e as coisas que não são”, como um quarto item da lista. Sem o kai (SBLGNT), “o que não é” resume os itens anteriores. A diferença é pequena."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "reduzir a nada",
+    "termo": "καταργήσῃ (katargēsē)",
+    "titulo": "katargeō",
+    "texto": "Um dos verbos preferidos de Paulo: tornar inoperante, anular, abolir (2:6; 13:8; 15:24, 26). Ecoa a criação do nada: Deus chama à existência o que não existe (Rm 4:17)."
+   }
+  ]
+ },
+ "1Co.1.29": {
+  "t": "a fim de que ninguém se glorie diante de Deus.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "ninguém",
+    "termo": "πᾶσα σάρξ (pasa sarx)",
+    "titulo": "“nenhuma carne”",
+    "texto": "Lit. “que toda carne não se glorie”, hebraísmo (kol basar) para “nenhum ser humano”. A expressão sublinha a fragilidade humana diante de Deus."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "se glorie",
+    "termo": "καυχήσηται (kauchēsētai)",
+    "titulo": "kauchaomai",
+    "texto": "Gloriar-se, vangloriar-se, pôr a confiança em algo e se orgulhar disso. Palavra-chave da carta (3:21; 4:7; 5:6). Pode ter sentido bom, quando o objeto é o Senhor (v. 31)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "diante de Deus",
+    "termo": "ἐνώπιον τοῦ θεοῦ",
+    "titulo": "“diante dele”",
+    "texto": "O Textus Receptus traz autou (“diante dele”) em vez de tou theou. Mesmo sentido."
+   }
+  ]
+ },
+ "1Co.1.30": {
+  "t": "É por ele que vocês estão em Cristo Jesus, o qual se tornou para nós sabedoria da parte de Deus: justiça, santificação e redenção,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "É por ele",
+    "termo": "ἐξ αὐτοῦ δὲ ὑμεῖς ἐστε",
+    "titulo": "“dele vocês são”",
+    "texto": "Lit. “mas dele vocês são em Cristo Jesus”. “Dele” é Deus: a existência dos coríntios em Cristo tem origem em Deus, não em mérito deles."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "sabedoria da parte de Deus: justiça, santificação e redenção",
+    "termo": "σοφία ... δικαιοσύνη τε καὶ ἁγιασμὸς καὶ ἀπολύτρωσις",
+    "titulo": "uma lista de quatro ou três?",
+    "texto": "A construção grega (te kai ... kai) sugere que os três últimos termos explicam o primeiro: a sabedoria de Deus é Cristo, que se tornou para nós justiça, santificação e redenção. Outros leem uma lista simples de quatro termos. Os dois pontos seguem a leitura mais provável."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "redenção",
+    "termo": "ἀπολύτρωσις (apolytrōsis)",
+    "titulo": "apolytrōsis",
+    "texto": "Libertação mediante resgate, como a de um escravo ou prisioneiro. Ecoa o êxodo, em que Deus resgatou Israel (Dt 7:8)."
+   }
+  ]
+ },
+ "1Co.1.31": {
+  "t": "para que, como está escrito: “Quem se gloria, glorie-se no Senhor”.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "para que, como está escrito",
+    "termo": "ἵνα καθὼς γέγραπται",
+    "titulo": "frase incompleta",
+    "texto": "Lit. “para que, como está escrito, ‘quem se gloria...’”. O grego deixa a frase sem verbo principal depois de “para que”; o sentido é “para que se cumpra o que está escrito”. A tradução mantém a elipse."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Quem se gloria, glorie-se no Senhor",
+    "termo": "ὁ καυχώμενος ἐν κυρίῳ καυχάσθω",
+    "titulo": "Jr 9:24",
+    "texto": "Resumo de Jr 9:23-24 (LXX 9:22-23; também em 1Sm 2:10 da Septuaginta), onde o sábio, o forte e o rico não devem gloriar-se, mas sim em conhecer o SENHOR. No hebraico, “Senhor” é YHWH; Paulo provavelmente aplica a palavra a Cristo, de quem acaba de falar no v. 30 (cf. 2Co 10:17)."
+   }
+  ]
+ },
+ "1Co.2.1": {
+  "t": "Assim também eu, irmãos, quando fui até vocês, não fui com eloquência ou sabedoria superiores, ao lhes anunciar o testemunho de Deus.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "o testemunho de Deus",
+    "termo": "τὸ μαρτύριον τοῦ θεοῦ / τὸ μυστήριον τοῦ θεοῦ",
+    "titulo": "“testemunho” ou “mistério”",
+    "texto": "Os manuscritos se dividem. Uma parte dos mais antigos traz mystērion (“o mistério de Deus”); outros, também antigos, e a maioria dos manuscritos trazem martyrion (“o testemunho de Deus”). NA28, NA27 e Westcott-Hort preferem “mistério”, que prepararia o v. 7 (“sabedoria de Deus em mistério”); Metzger relata essa decisão da comissão do texto da UBS. O SBLGNT, base desta tradução, segue “testemunho”, como também o THGNT, o Textus Receptus e o Texto Bizantino: um copista poderia ter trocado “testemunho” por “mistério” por influência do v. 7, e “testemunho” retoma 1:6. As duas palavras diferem em poucas letras em grego, e o sentido geral não muda: Paulo anunciou o que Deus revelou, não uma filosofia própria.",
+    "revisar": true
+   },
+   {
+    "tipo": "tn",
+    "ancora": "com eloquência ou sabedoria superiores",
+    "termo": "καθ᾽ ὑπεροχὴν λόγου ἢ σοφίας (kath’ hyperochēn logou ē sophias)",
+    "titulo": "hyperochē, raro",
+    "texto": "Lit. “segundo superioridade de palavra ou de sabedoria”. Hyperochē (só aqui e em 1Tm 2:2) é proeminência, excelência. Logos aqui é a fala trabalhada, a eloquência dos oradores públicos, muito apreciada em Corinto."
+   }
+  ]
+ },
+ "1Co.2.2": {
+  "t": "Pois decidi não saber coisa alguma entre vocês, a não ser Jesus Cristo, e este crucificado.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "decidi não saber coisa alguma",
+    "termo": "οὐ γὰρ ἔκρινά τι εἰδέναι",
+    "titulo": "a negação",
+    "texto": "Lit. “pois não decidi saber coisa alguma”. Em grego a negação vem antes do verbo principal, mas recai sobre o infinitivo: Paulo decidiu de propósito concentrar-se só em Cristo crucificado. Não é anti-intelectualismo, mas escolha do conteúdo da pregação."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "e este crucificado",
+    "termo": "καὶ τοῦτον ἐσταυρωμένον",
+    "titulo": "ênfase",
+    "texto": "Lit. “e este, crucificado”. O pronome dá ênfase: não um Cristo qualquer, mas precisamente o crucificado (cf. 1:23)."
+   }
+  ]
+ },
+ "1Co.2.3": {
+  "t": "E eu estive com vocês em fraqueza, em temor e em muito tremor.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "em fraqueza, em temor e em muito tremor",
+    "termo": "ἐν ἀσθενείᾳ καὶ ἐν φόβῳ καὶ ἐν τρόμῳ πολλῷ",
+    "titulo": "a chegada a Corinto",
+    "texto": "Paulo chegou a Corinto depois de ser expulso de Tessalônica e Bereia e de pouco resultado em Atenas (At 17). Em Corinto, o Senhor lhe disse em visão: “Não tenha medo” (At 18:9-10). “Temor e tremor” é dupla comum do AT (Sl 2:11; Is 19:16 na Septuaginta) e de Paulo (2Co 7:15; Fp 2:12)."
+   }
+  ]
+ },
+ "1Co.2.4": {
+  "t": "A minha palavra e a minha pregação não se apoiaram em recursos persuasivos da sabedoria, mas na demonstração do Espírito e de poder,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "recursos persuasivos da sabedoria",
+    "termo": "πειθοῖς σοφίας (peithois sophias)",
+    "titulo": "peithos, hápax",
+    "texto": "Peithos não aparece em nenhum outro texto grego conhecido; é adjetivo derivado de peithō (“persuadir”), “persuasivo”. No SBLGNT o adjetivo plural está sem substantivo, e por isso a tradução supre “recursos”. Paulo rejeita a técnica retórica que convence pela habilidade do orador.",
+    "revisar": true
+   },
+   {
+    "tipo": "tc",
+    "ancora": "recursos persuasivos da sabedoria",
+    "termo": "πειθοῖς σοφίας λόγοις / πειθοῖ σοφίας",
+    "titulo": "várias formas",
+    "texto": "NA28, THGNT, Westcott-Hort, Tregelles, o Textus Receptus e o Texto Bizantino acrescentam logois: “palavras persuasivas de sabedoria”; o Textus Receptus e o Texto Bizantino trazem ainda anthrōpinēs, “de sabedoria humana”. Alguns manuscritos antigos leem peithoi, “pela persuasão da sabedoria”. Todas as formas dizem o mesmo no essencial."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "demonstração do Espírito e de poder",
+    "termo": "ἀποδείξει πνεύματος καὶ δυνάμεως (apodeixei pneumatos kai dynameōs)",
+    "titulo": "apodeixis, hápax",
+    "texto": "Única ocorrência no NT. Na retórica grega, apodeixis era a prova conclusiva de um argumento. Paulo usa o termo técnico com ironia: a prova não foi um silogismo, mas a ação do Espírito. “Do Espírito e de poder” pode ser lido como uma só ideia: “do poder do Espírito”. Se inclui milagres (2Co 12:12; Rm 15:19) ou a conversão dos ouvintes, o texto não especifica."
+   }
+  ]
+ },
+ "1Co.2.5": {
+  "t": "para que a fé de vocês não se apoiasse na sabedoria humana, mas no poder de Deus.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "não se apoiasse na sabedoria humana",
+    "termo": "μὴ ᾖ ἐν σοφίᾳ ἀνθρώπων",
+    "titulo": "“não estivesse em”",
+    "texto": "Lit. “não estivesse na sabedoria de homens, mas no poder de Deus”. O “em” indica o fundamento da fé."
+   }
+  ]
+ },
+ "1Co.2.6": {
+  "t": "Contudo, falamos sabedoria entre os maduros; não, porém, a sabedoria desta era, nem a dos governantes desta era, que estão sendo reduzidos a nada.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "os maduros",
+    "termo": "τοῖς τελείοις (tois teleiois)",
+    "titulo": "teleioi",
+    "texto": "Teleios é o que chegou ao fim (telos): completo, adulto, maduro. Em 3:1 e 14:20 contrasta com “criancinhas”. “Perfeitos” (ARC) sugeriria impecabilidade. Alguns pensam que era palavra usada pelos próprios coríntios para se distinguirem dos demais (Fee); Paulo a retoma e redefine: maduro é quem aceita a cruz."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "governantes desta era",
+    "termo": "τῶν ἀρχόντων τοῦ αἰῶνος τούτου",
+    "titulo": "humanos ou espirituais?",
+    "texto": "Archontes pode designar as autoridades humanas que crucificaram Jesus (v. 8; At 3:17; 13:27) ou poderes espirituais por trás delas (Ef 2:2; Cl 2:15). A primeira leitura é a mais simples e se apoia no v. 8; a segunda é defendida por muitos intérpretes antigos e modernos. Talvez Paulo veja as duas realidades juntas. A tradução “governantes” serve a ambas.",
+    "revisar": true
+   },
+   {
+    "tipo": "tn",
+    "ancora": "que estão sendo reduzidos a nada",
+    "termo": "τῶν καταργουμένων (tōn katargoumenōn)",
+    "titulo": "presente contínuo",
+    "texto": "O mesmo verbo de 1:28. O particípio presente indica um processo já em andamento desde a cruz: o poder desses governantes está sendo anulado."
+   }
+  ]
+ },
+ "1Co.2.7": {
+  "t": "Ao contrário, falamos a sabedoria de Deus em mistério, a sabedoria que estava oculta e que Deus predeterminou antes das eras para a nossa glória.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "em mistério",
+    "termo": "ἐν μυστηρίῳ (en mystēriō)",
+    "titulo": "mystērion",
+    "texto": "Em Paulo, mystērion não é segredo impossível de entender nem rito secreto como nas religiões de mistério, mas o plano de Deus antes oculto e agora revelado (Rm 16:25-26; Cl 1:26), como em Dn 2:28 na Septuaginta. “Em mistério” pode ligar-se a “falamos” ou a “sabedoria”; o sentido é quase o mesmo."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "predeterminou",
+    "termo": "προώρισεν (proōrisen)",
+    "titulo": "proorizō",
+    "texto": "“Determinar de antemão”. O plano de salvação centrado na cruz não foi improviso, mas decisão de Deus antes das eras, com a finalidade de levar os seus à glória."
+   }
+  ]
+ },
+ "1Co.2.8": {
+  "t": "Nenhum dos governantes desta era a conheceu; pois, se a tivessem conhecido, não teriam crucificado o Senhor da glória.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "o Senhor da glória",
+    "termo": "τὸν κύριον τῆς δόξης",
+    "titulo": "título divino",
+    "texto": "Expressão única em Paulo (cf. Tg 2:1). No AT, a glória pertence a Deus: ele é “o Rei da glória” (Sl 24:7-10) e “o Deus da glória” (Sl 29:3; At 7:2). Aplicar o título ao crucificado põe Jesus do lado de Deus e cria um choque proposital: o Senhor da glória morreu na cruz da vergonha."
+   }
+  ]
+ },
+ "1Co.2.9": {
+  "t": "Mas, como está escrito: “O que olho nenhum viu, o que ouvido nenhum ouviu, o que não chegou ao coração do homem, tudo o que Deus preparou para os que o amam”.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "O que olho nenhum viu",
+    "termo": "ἃ ὀφθαλμὸς οὐκ εἶδεν",
+    "titulo": "de onde vem a citação",
+    "texto": "Não corresponde exatamente a nenhum texto do AT. É próxima de Is 64:4 (LXX 64:3), com ecos de Is 52:15 e 65:17. Orígenes já dizia tê-la encontrado num escrito apócrifo atribuído a Elias, mas a fórmula “como está escrito” indica que Paulo a toma como Escritura; a maioria vê aqui uma citação livre de Isaías, talvez já combinada na tradição judaica."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "o que não chegou ao coração do homem",
+    "termo": "ἐπὶ καρδίαν ἀνθρώπου οὐκ ἀνέβη",
+    "titulo": "“não subiu ao coração”",
+    "texto": "Lit. “não subiu sobre o coração do homem”, expressão hebraica para “não veio à mente” (Jr 3:16; Is 65:17). Na Bíblia, o coração é também a sede do pensamento."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "tudo o que Deus preparou",
+    "termo": "ὅσα ἡτοίμασεν (hosa hētoimasen)",
+    "titulo": "frase sem verbo principal",
+    "texto": "A citação não tem verbo principal; o objeto de tudo é retomado no v. 10 (“Deus o revelou”). O SBLGNT traz hosa (“tudo o que”); NA28 e a maioria dos manuscritos, ha (“o que”). Sem diferença de sentido."
+   }
+  ]
+ },
+ "1Co.2.10": {
+  "t": "Pois a nós Deus o revelou por meio do Espírito; porque o Espírito sonda todas as coisas, até as profundezas de Deus.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "Pois a nós",
+    "termo": "ἡμῖν γὰρ (hēmin gar)",
+    "titulo": "gar ou de",
+    "texto": "O SBLGNT traz gar (“pois”), com parte dos manuscritos antigos; NA28, THGNT, Tregelles, o Textus Receptus e o Texto Bizantino, de (“mas”). Com “mas”, o v. 10 contrasta com os governantes do v. 8; com “pois”, explica o v. 9. O Textus Receptus e o Texto Bizantino trazem ainda “por meio do seu Espírito”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "sonda",
+    "termo": "ἐραυνᾷ (eraunaa)",
+    "titulo": "eraunaō",
+    "texto": "Investigar, examinar a fundo (Rm 8:27; Ap 2:23). Não sugere que o Espírito ignore algo e precise descobrir; diz que nada de Deus lhe é oculto."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "as profundezas de Deus",
+    "termo": "τὰ βάθη τοῦ θεοῦ",
+    "titulo": "ta bathē",
+    "texto": "A sabedoria e os planos de Deus que nenhum ser humano alcança (Rm 11:33). O Espírito, que é de Deus, conhece Deus por dentro, como o v. 11 explica. A expressão contrasta com as “profundezas de Satanás” de que se gabavam alguns em Ap 2:24."
+   }
+  ]
+ },
+ "1Co.2.11": {
+  "t": "Pois quem, entre os seres humanos, conhece as coisas do homem, senão o espírito do homem, que está nele? Assim também ninguém conhece as coisas de Deus, senão o Espírito de Deus.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "o espírito do homem",
+    "termo": "τὸ πνεῦμα τοῦ ἀνθρώπου",
+    "titulo": "minúscula e maiúscula",
+    "texto": "Minúscula para o espírito humano, a consciência interior da pessoa; maiúscula para o Espírito de Deus. A analogia é parcial: assim como só o próprio espírito de alguém conhece o seu íntimo, só o Espírito de Deus conhece o íntimo de Deus."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "ninguém conhece",
+    "termo": "οὐδεὶς ἔγνωκεν (oudeis egnōken)",
+    "titulo": "egnōken ou oiden",
+    "texto": "O Textus Receptus e o Texto Bizantino trazem oiden em vez de egnōken. Ambos significam “conhece”."
+   }
+  ]
+ },
+ "1Co.2.12": {
+  "t": "Nós, porém, não recebemos o espírito do mundo, mas o Espírito que vem de Deus, para que conheçamos o que Deus nos deu gratuitamente.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "o espírito do mundo",
+    "termo": "τὸ πνεῦμα τοῦ κόσμου",
+    "titulo": "espírito ou Espírito",
+    "texto": "Pode ser a mentalidade do mundo, a maneira humana de pensar oposta à cruz, ou um poder espiritual mau por trás dela (Ef 2:2). Minúscula, porque o contraste principal é com a “sabedoria desta era” (v. 6)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "o que Deus nos deu gratuitamente",
+    "termo": "τὰ ὑπὸ τοῦ θεοῦ χαρισθέντα ἡμῖν",
+    "titulo": "charizomai",
+    "texto": "Da mesma raiz de charis (“graça”). São as bênçãos da salvação, inclusive o próprio Cristo crucificado como sabedoria de Deus (1:30)."
+   }
+  ]
+ },
+ "1Co.2.13": {
+  "t": "E disso também falamos, não com palavras ensinadas pela sabedoria humana, mas com palavras ensinadas pelo Espírito, explicando coisas espirituais com palavras espirituais.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "explicando coisas espirituais com palavras espirituais",
+    "termo": "πνευματικοῖς πνευματικὰ συγκρίνοντες (pneumatikois pneumatika synkrinontes)",
+    "titulo": "frase muito debatida",
+    "texto": "Três palavras, três dificuldades. Pneumatikois pode ser neutro (“com coisas/palavras espirituais”) ou masculino (“para pessoas espirituais”); synkrinō (raro: aqui e 2Co 10:12 duas vezes) pode ser “combinar”, “comparar” ou, como na Septuaginta (Gn 40-41; Dn 5), “interpretar”. As leituras principais: (1) “explicando coisas espirituais com palavras espirituais”, ligada ao “palavras” que acaba de aparecer; (2) “interpretando coisas espirituais para pessoas espirituais”, que prepara os vv. 14-15; (3) “comparando coisas espirituais com espirituais”. A tradução segue a primeira, por causa do paralelo imediato; a segunda é igualmente defensável.",
+    "revisar": true
+   },
+   {
+    "tipo": "tc",
+    "ancora": "ensinadas pelo Espírito",
+    "termo": "διδακτοῖς πνεύματος (+ ἁγίου)",
+    "titulo": "“Espírito Santo”",
+    "texto": "O Textus Receptus e o Texto Bizantino trazem “ensinadas pelo Espírito Santo”. O texto crítico tem só “pelo Espírito”. Sem diferença de sentido."
+   }
+  ]
+ },
+ "1Co.2.14": {
+  "t": "Mas a pessoa natural não aceita as coisas do Espírito de Deus, porque para ela são loucura; e não é capaz de entendê-las, porque elas se discernem espiritualmente.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "a pessoa natural",
+    "termo": "ψυχικὸς ... ἄνθρωπος (psychikos anthrōpos)",
+    "titulo": "psychikos",
+    "texto": "Lit. “o homem da alma (psychē)”: a pessoa que vive só no plano da vida humana natural, sem o Espírito de Deus (Jd 19). Em 15:44-46 psychikos se opõe a pneumatikos (“espiritual”), como aqui. “Natural” guarda o contraste; “animal” (ARC) hoje soa estranho, e “carnal” confundiria com sarkikos (3:1-3)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "não aceita",
+    "termo": "οὐ δέχεται (ou dechetai)",
+    "titulo": "dechomai",
+    "texto": "Receber, acolher. Não se trata só de incapacidade intelectual, mas de recusa: a mensagem lhe parece loucura."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "elas se discernem espiritualmente",
+    "termo": "πνευματικῶς ἀνακρίνεται (pneumatikōs anakrinetai)",
+    "titulo": "anakrinō",
+    "texto": "Anakrinō é examinar, avaliar, julgar, como num interrogatório. Aparece dez vezes nesta carta (2:14-15; 4:3-4; 9:3; 10:25, 27; 14:24) e em nenhuma outra de Paulo, talvez porque os coríntios se punham a avaliar os pregadores. “Espiritualmente” (pneumatikōs, raro) é “pelo Espírito”."
+   }
+  ]
+ },
+ "1Co.2.15": {
+  "t": "Mas a pessoa espiritual discerne todas as coisas, e ela mesma não é julgada por ninguém.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "a pessoa espiritual",
+    "termo": "ὁ ... πνευματικὸς (ho pneumatikos)",
+    "titulo": "pneumatikos",
+    "texto": "Não é uma elite de iniciados, mas quem tem e segue o Espírito de Deus. Os coríntios se consideravam “espirituais”; em 3:1 Paulo dirá que não podia tratá-los assim."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "não é julgada por ninguém",
+    "termo": "ὑπ᾽ οὐδενὸς ἀνακρίνεται",
+    "titulo": "anakrinō",
+    "texto": "O mesmo verbo traduzido por “discernir”. Não quer dizer que o cristão está acima de toda correção (o próprio Paulo os corrige), mas que quem não tem o Espírito não está em condições de avaliar quem o tem. Paulo aplicará isso a si mesmo em 4:3-4."
+   }
+  ]
+ },
+ "1Co.2.16": {
+  "t": "Pois “quem conheceu a mente do Senhor, para que possa instruí-lo?” Nós, porém, temos a mente de Cristo.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "quem conheceu a mente do Senhor",
+    "termo": "τίς γὰρ ἔγνω νοῦν κυρίου",
+    "titulo": "Is 40:13",
+    "texto": "Citação de Is 40:13 segundo a Septuaginta, que traz noun kyriou (“a mente do Senhor”); o hebraico tem “o Espírito do SENHOR” (ruach YHWH). Em Isaías, “Senhor” traduz YHWH. Paulo aplica a resposta a Cristo: os crentes têm “a mente de Cristo”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "instruí-lo",
+    "termo": "συμβιβάσει αὐτόν (symbibasei auton)",
+    "titulo": "symbibazō",
+    "texto": "Na Septuaginta, “ensinar, instruir” (Êx 4:12, 15). A pergunta retórica espera a resposta “ninguém”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "temos a mente de Cristo",
+    "termo": "νοῦν Χριστοῦ ἔχομεν",
+    "titulo": "nous",
+    "texto": "Nous é o entendimento, o modo de pensar. Paulo não diz que os crentes sabem tudo o que Cristo sabe, mas que, pelo Espírito, compartilham o modo de pensar de Cristo, centrado na cruz."
+   }
+  ]
+ }
+}

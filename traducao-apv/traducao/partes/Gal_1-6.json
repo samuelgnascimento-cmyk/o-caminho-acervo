@@ -1,0 +1,1069 @@
+{
+ "Gal.1.1": {
+  "t": "Paulo, apóstolo — não da parte de homens nem por meio de homem, mas por meio de Jesus Cristo e de Deus Pai, que o ressuscitou dentre os mortos —",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Cristo",
+    "termo": "Χριστοῦ (Christou)",
+    "titulo": "Christos: “Cristo”, “Messias”",
+    "texto": "Christos é o adjetivo verbal de chriō, “ungir”, e traduz o hebraico mashiaḥ, “ungido”, de onde vem “Messias”. Nas cartas de Paulo funciona quase como nome próprio, sem perder o sentido de título: Jesus é o Rei ungido esperado por Israel. A APV mantém “Cristo”, forma consagrada em português."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "apóstolo",
+    "termo": "ἀπόστολος (apostolos)",
+    "titulo": "apostolos",
+    "texto": "“Enviado”, alguém comissionado para agir em nome de quem o envia. Paulo abre a carta defendendo a origem do seu envio, porque os adversários na Galácia punham em dúvida a sua autoridade (1:11–2:14)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "não da parte de homens nem por meio de homem",
+    "termo": "οὐκ ἀπ᾽ ἀνθρώπων οὐδὲ δι᾽ ἀνθρώπου",
+    "titulo": "duas preposições",
+    "texto": "Apo (“da parte de”) nega a origem humana; dia (“por meio de”) nega a mediação humana. A passagem do plural (“homens”) para o singular (“homem”) pode visar alguém em particular que os adversários apresentavam como fonte da comissão de Paulo, ou ser só variação de estilo. A tradução conserva as duas preposições e os dois números."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "por meio de Jesus Cristo e de Deus Pai",
+    "termo": "διὰ Ἰησοῦ Χριστοῦ καὶ θεοῦ πατρὸς",
+    "titulo": "uma só preposição",
+    "texto": "Uma única preposição (dia) rege “Jesus Cristo” e “Deus Pai”: o Filho e o Pai aparecem juntos como a única fonte do apostolado, em oposição a qualquer fonte humana. É uma das muitas maneiras pelas quais Paulo põe Jesus do lado de Deus."
+   }
+  ]
+ },
+ "Gal.1.2": {
+  "t": "e todos os irmãos que estão comigo, às igrejas da Galácia:",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "irmãos",
+    "termo": "ἀδελφοί (adelphoi)",
+    "titulo": "adelphoi",
+    "texto": "O plural masculino grego inclui as irmãs (cf. 3:28; 4:12). Aqui designa os companheiros que estavam com Paulo ao escrever; mais adiante, os próprios gálatas (1:11). Mantido “irmãos”, forma usada nas igrejas, com esta nota."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "igrejas",
+    "termo": "ἐκκλησίαις (ekklēsiais)",
+    "titulo": "ekklēsia",
+    "texto": "Assembleia, comunidade convocada. No mundo grego era a assembleia dos cidadãos; na Septuaginta traduz qahal, a congregação de Israel reunida diante de Deus. O plural aponta para várias comunidades da região, que deviam ler a carta entre si."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Galácia",
+    "termo": "Γαλατίας (Galatias)",
+    "titulo": "que Galácia?",
+    "texto": "Pode ser a região étnica do centro-norte da Ásia Menor, habitada pelos gálatas, de origem celta (hipótese norte-gálata, defendida por J. B. Lightfoot), ou a província romana da Galácia, que incluía ao sul Antioquia da Pisídia, Icônio, Listra e Derbe, cidades evangelizadas em At 13–14 (hipótese sul-gálata, defendida por W. M. Ramsay e F. F. Bruce). A questão afeta a data da carta e a relação entre Gl 2 e At 15."
+   }
+  ]
+ },
+ "Gal.1.3": {
+  "t": "graça e paz a vocês da parte de Deus, nosso Pai, e do Senhor Jesus Cristo,",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "graça e paz",
+    "termo": "χάρις ... καὶ εἰρήνη (charis ... kai eirēnē)",
+    "titulo": "a saudação cristã",
+    "texto": "As cartas gregas começavam com chairein (“saudações”). Paulo troca por charis (“graça”), palavra de som parecido e de sentido evangélico, e acrescenta a saudação judaica shalom (“paz”, eirēnē). A mesma preposição (apo) liga Deus Pai e o Senhor Jesus Cristo como fonte da graça e da paz."
+   }
+  ]
+ },
+ "Gal.1.4": {
+  "t": "que se entregou a si mesmo pelos nossos pecados, para nos livrar desta presente era má, segundo a vontade do nosso Deus e Pai,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "desta presente era má",
+    "termo": "ἐκ τοῦ αἰῶνος τοῦ ἐνεστῶτος πονηροῦ",
+    "titulo": "aiōn: “era” ou “mundo”",
+    "texto": "Aiōn é antes de tudo um período de tempo. O judaísmo da época distinguia “esta era”, marcada pelo pecado, e “a era vindoura”, quando Deus agiria de forma definitiva. Paulo diz que a morte de Cristo já arrancou os crentes da era presente: a nova era começou. “Século” (ARC) hoje confunde; “mundo” perderia a dimensão de tempo. Por isso “era”."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "pelos nossos pecados",
+    "termo": "ὑπὲρ τῶν ἁμαρτιῶν ἡμῶν",
+    "titulo": "hyper ou peri",
+    "texto": "O texto crítico traz hyper (“em favor de, por”); o Texto Bizantino e o Textus Receptus, peri (“acerca de, por”). Nesta construção as duas preposições têm o mesmo sentido, e a tradução não muda."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "nos livrar",
+    "termo": "ἐξέληται (exelētai)",
+    "titulo": "exaireō",
+    "texto": "“Arrancar, resgatar” de um perigo (At 7:10, 34; 12:11). É linguagem de libertação, não de simples afastamento."
+   }
+  ]
+ },
+ "Gal.1.5": {
+  "t": "a quem seja a glória para todo o sempre. Amém.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "a quem seja a glória",
+    "termo": "ᾧ ἡ δόξα",
+    "titulo": "verbo ausente",
+    "texto": "O grego não tem verbo. Pode-se entender “seja” (desejo, como nas doxologias judaicas) ou “é” (constatação). A tradução segue a forma optativa, mais comum em português nas doxologias."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "para todo o sempre",
+    "termo": "εἰς τοὺς αἰῶνας τῶν αἰώνων",
+    "titulo": "“pelas eras das eras”",
+    "texto": "Fórmula hebraizante de eternidade, lit. “para as eras das eras”. Traduzida pelo equivalente comum em português."
+   }
+  ]
+ },
+ "Gal.1.6": {
+  "t": "Estou espantado de que vocês estejam abandonando tão depressa aquele que os chamou na graça de Cristo e passando para outro evangelho,",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Estou espantado",
+    "termo": "Θαυμάζω (Thaumazō)",
+    "titulo": "sem ação de graças",
+    "texto": "Em todas as outras cartas de Paulo às igrejas, depois da saudação vem uma ação de graças. Aqui ela falta, e em seu lugar vem esta censura. Thaumazō era usado nas cartas da época para expressar repreensão e decepção. O silêncio é intencional."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "estejam abandonando",
+    "termo": "μετατίθεσθε (metatithesthe)",
+    "titulo": "metatithēmi",
+    "texto": "O verbo se usava para quem mudava de lado, como o soldado que deserta ou o filósofo que troca de escola. O presente indica que a deserção está em curso e ainda pode ser detida. A deserção não é só de uma doutrina, mas de uma pessoa: “aquele que os chamou”, isto é, Deus."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "na graça de Cristo",
+    "termo": "ἐν χάριτι Χριστοῦ",
+    "titulo": "“de Cristo”",
+    "texto": "Alguns manuscritos antigos omitem “de Cristo”; outros trazem “de Jesus Cristo” ou “de Deus”. As edições críticas mantêm “de Cristo”, que tem o apoio mais amplo (Metzger)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "outro evangelho",
+    "termo": "ἕτερον εὐαγγέλιον (heteron euangelion)",
+    "titulo": "heteros e allos",
+    "texto": "Paulo usa heteros aqui e allos no v. 7. Os dois podem significar “outro”, mas o jogo é claro: os gálatas passam a um evangelho “diferente”, que na realidade não é “outro” evangelho, porque só existe um. “Evangelho” (euangelion) significa “boa notícia”."
+   }
+  ]
+ },
+ "Gal.1.7": {
+  "t": "o qual não é outro; o que há são alguns que estão perturbando vocês e querem distorcer o evangelho de Cristo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "o que há são alguns",
+    "termo": "εἰ μή τινές εἰσιν",
+    "titulo": "ei mē",
+    "texto": "Lit. “a não ser que há alguns”. A expressão limita a afirmação anterior: não existe outro evangelho; existem apenas pessoas que causam confusão. Traduzido pelo sentido."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "distorcer",
+    "termo": "μεταστρέψαι (metastrepsai)",
+    "titulo": "metastrephō, raro",
+    "texto": "Só aqui e em At 2:20 (o sol “se transformará” em trevas). É “virar ao contrário, inverter”: não é um ajuste do evangelho, mas a sua inversão. “Perverter” (ARC) também serve; “distorcer” é mais comum no português de hoje."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "perturbando",
+    "termo": "ταράσσοντες (tarassontes)",
+    "titulo": "tarassō",
+    "texto": "Agitar, inquietar, como a água revolvida (Jo 5:7). O mesmo verbo em At 15:24 descreve os que inquietavam os gentios exigindo a circuncisão."
+   }
+  ]
+ },
+ "Gal.1.8": {
+  "t": "Mas, ainda que nós ou um anjo do céu lhes anuncie um evangelho diferente do que lhes anunciamos, seja maldito!",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "um evangelho diferente do que",
+    "termo": "παρ᾽ ὃ (par’ ho)",
+    "titulo": "para: “contrário a” ou “além de”",
+    "texto": "Para com acusativo pode ser “contrário a” ou “além de, fora de”. As duas leituras se encaixam: o “outro evangelho” acrescenta exigências (a circuncisão) e por isso contradiz o evangelho da graça. “Diferente do que” cobre as duas."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "seja maldito!",
+    "termo": "ἀνάθεμα ἔστω (anathema estō)",
+    "titulo": "anathema",
+    "texto": "Na Septuaginta, anathema traduz ḥerem, aquilo que era entregue a Deus para destruição (Lv 27:28-29; Js 6:17). Paulo invoca o juízo de Deus, não apenas a exclusão da igreja. A tradução não suaviza a fórmula."
+   }
+  ]
+ },
+ "Gal.1.9": {
+  "t": "Como já dissemos, agora volto a dizer: se alguém lhes anuncia um evangelho diferente do que vocês receberam, seja maldito!",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Como já dissemos",
+    "termo": "ὡς προειρήκαμεν (hōs proeirēkamen)",
+    "titulo": "quando?",
+    "texto": "O perfeito pode remeter ao v. 8 ou a uma advertência feita na visita anterior de Paulo. “Agora” (arti) parece contrastar com uma ocasião passada; por isso muitos preferem a segunda leitura. A tradução deixa as duas abertas."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "receberam",
+    "termo": "παρελάβετε (parelabete)",
+    "titulo": "paralambanō",
+    "texto": "Termo técnico para receber uma tradição transmitida (1Co 11:23; 15:1, 3). O evangelho não é invenção de quem o recebe, mas algo entregue e guardado."
+   }
+  ]
+ },
+ "Gal.1.10": {
+  "t": "Pois estou agora procurando a aprovação dos homens ou a de Deus? Ou estou tentando agradar aos homens? Se eu ainda estivesse agradando aos homens, não seria servo de Cristo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "procurando a aprovação",
+    "termo": "πείθω (peithō)",
+    "titulo": "peithō: “persuadir”",
+    "texto": "Lit. “estou persuadindo os homens ou Deus?”. Aqui peithō tem o sentido de “ganhar o favor, conquistar”, como em At 12:20. A acusação implícita parece ser a de que Paulo dispensava a circuncisão para agradar aos gentios. Os vv. 8-9, duros como são, respondem: quem quer agradar não amaldiçoa."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "servo",
+    "termo": "δοῦλος (doulos)",
+    "titulo": "doulos: “servo” ou “escravo”",
+    "texto": "Doulos é o escravo, que pertence a outro. “Escravo” seria o literal, mas no Brasil a palavra evoca de imediato a escravidão africana e esconde o eco bíblico: na Septuaginta, Moisés e os profetas são douloi de Deus. A APV usa “servo”, e esta nota guarda a força: Paulo pertence inteiramente a Cristo e só a ele presta contas."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Se eu ainda",
+    "termo": "εἰ ἔτι",
+    "titulo": "gar",
+    "texto": "O Textus Receptus e o Texto Bizantino acrescentam gar (“pois”) depois de ei. Sem efeito no sentido."
+   }
+  ]
+ },
+ "Gal.1.11": {
+  "t": "Pois eu lhes faço saber, irmãos, que o evangelho anunciado por mim não é de origem humana;",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "não é de origem humana",
+    "termo": "οὐκ ἔστιν κατὰ ἄνθρωπον (ouk estin kata anthrōpon)",
+    "titulo": "“não é segundo homem”",
+    "texto": "Lit. “não é segundo o homem”. A expressão pode indicar a origem ou o caráter do evangelho; o v. 12 mostra que Paulo pensa sobretudo na origem."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Pois",
+    "termo": "Γνωρίζω γὰρ",
+    "titulo": "gar ou de",
+    "texto": "O texto crítico traz gar (“pois”); o Textus Receptus e o Texto Bizantino, de (“e, mas”). A diferença é só de conexão."
+   }
+  ]
+ },
+ "Gal.1.12": {
+  "t": "Pois eu não o recebi de homem algum, nem me foi ensinado, mas veio por revelação de Jesus Cristo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "por revelação de Jesus Cristo",
+    "termo": "δι᾽ ἀποκαλύψεως Ἰησοῦ Χριστοῦ",
+    "titulo": "genitivo",
+    "texto": "Pode ser revelação “vinda de” Jesus Cristo (ele revela) ou revelação “de” Jesus Cristo (ele é revelado). O v. 16 (“revelar o seu Filho em mim”) favorece a segunda, mas a primeira também é possível. “De” em português mantém as duas."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "não o recebi de homem algum",
+    "termo": "οὐδὲ ... παρὰ ἀνθρώπου παρέλαβον",
+    "titulo": "e 1Co 15:3?",
+    "texto": "Em 1Co 15:3 Paulo diz que “recebeu” e transmitiu tradições sobre a morte e ressurreição de Jesus. Não há contradição: aqui ele fala do evangelho como mensagem e da sua comissão, que vieram do encontro com o Cristo ressuscitado; os fatos e as fórmulas da igreja ele recebeu depois e confirmou."
+   }
+  ]
+ },
+ "Gal.1.13": {
+  "t": "Vocês ouviram falar do meu modo de vida no judaísmo: como eu perseguia com violência a igreja de Deus e procurava destruí-la.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "judaísmo",
+    "termo": "Ἰουδαϊσμῷ (Ioudaismō)",
+    "titulo": "Ioudaismos",
+    "texto": "Só aqui e no v. 14 no NT. Em 2Mc 2:21; 8:1; 14:38 designa a fidelidade ao modo de vida judaico diante da pressão helenizante. Não é o nome de uma religião rival do cristianismo, mas o zelo pela lei e pelos costumes dos pais."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "com violência",
+    "termo": "καθ᾽ ὑπερβολὴν (kath’ hyperbolēn)",
+    "titulo": "“ao extremo”",
+    "texto": "Lit. “segundo excesso”, isto é, além de toda medida. “Com violência” traduz o sentido no contexto da perseguição."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "procurava destruí-la",
+    "termo": "ἐπόρθουν (eporthoun)",
+    "titulo": "portheō, raro",
+    "texto": "Só aqui, no v. 23 e em At 9:21. Era usado para a devastação de cidades por exércitos. O imperfeito indica tentativa repetida: “procurava destruir”."
+   }
+  ]
+ },
+ "Gal.1.14": {
+  "t": "E eu avançava no judaísmo mais do que muitos da minha idade entre o meu povo, sendo extremamente zeloso das tradições dos meus antepassados.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "muitos da minha idade",
+    "termo": "πολλοὺς συνηλικιώτας (pollous synēlikiōtas)",
+    "titulo": "synēlikiōtēs, hápax",
+    "texto": "Hápax é a palavra que ocorre uma única vez no NT. Synēlikiōtēs é “contemporâneo, da mesma idade”. O sentido é seguro pela formação da palavra (syn, “com”, e hēlikia, “idade”)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "extremamente zeloso",
+    "termo": "περισσοτέρως ζηλωτὴς (perissoterōs zēlōtēs)",
+    "titulo": "o zelo",
+    "texto": "Zēlōtēs evoca a tradição de zelo violento pela lei: Fineias (Nm 25:11-13), Elias (1Rs 19:10) e Matatias (1Mc 2:24-27). Não indica necessariamente o partido dos zelotes, formado mais tarde, mas a mesma disposição que levou Paulo a perseguir a igreja (Fp 3:6)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "tradições dos meus antepassados",
+    "termo": "τῶν πατρικῶν μου παραδόσεων",
+    "titulo": "patrikos, hápax",
+    "texto": "Patrikos é “herdado dos pais”. As “tradições” são provavelmente a interpretação oral da lei mantida pelos fariseus (Mc 7:3-13; At 22:3; 26:5)."
+   }
+  ]
+ },
+ "Gal.1.15": {
+  "t": "Mas, quando aquele que me separou desde o ventre de minha mãe e me chamou pela sua graça houve por bem",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "aquele que",
+    "termo": "ὁ (+ θεὸς)",
+    "titulo": "“aquele” ou “Deus”",
+    "texto": "O SBLGNT traz só ho (“aquele que”). O NA28, o THGNT, Westcott-Hort, Tregelles, o Textus Receptus e o Texto Bizantino acrescentam theos (“Deus”). A forma curta tem apoio antigo, e o acréscimo seria natural para explicitar o sujeito. O sentido é o mesmo: é Deus quem age."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "me separou desde o ventre de minha mãe",
+    "termo": "ὁ ἀφορίσας με ἐκ κοιλίας μητρός μου",
+    "titulo": "o chamado dos profetas",
+    "texto": "Paulo descreve seu chamado com as palavras do chamado de Jeremias (Jr 1:5) e do Servo do Senhor (Is 49:1, 6, “luz para as nações”). Ele entende sua missão aos gentios na linha dos profetas, não como uma conversão de uma religião para outra."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "houve por bem",
+    "termo": "εὐδόκησεν (eudokēsen)",
+    "titulo": "eudokeō",
+    "texto": "“Agradar, decidir livremente com boa vontade”. Enfatiza a iniciativa soberana e generosa de Deus."
+   }
+  ]
+ },
+ "Gal.1.16": {
+  "t": "revelar o seu Filho em mim, para que eu o anunciasse entre os gentios, não fui logo consultar carne e sangue,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "em mim",
+    "termo": "ἐν ἐμοί (en emoi)",
+    "titulo": "“em mim” ou “a mim”",
+    "texto": "Pode ser revelação interior (“dentro de mim”) ou simplesmente “a mim” (dativo). Alguns entendem “por meio de mim” (cf. 1:24). A tradução mantém a forma literal, que permite as leituras e evita separar a experiência pessoal do encontro objetivo com o Ressuscitado (1Co 9:1; 15:8)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "gentios",
+    "termo": "ἔθνεσιν (ethnesin)",
+    "titulo": "ethnē",
+    "texto": "Lit. “nações”, os povos que não são Israel. Em contexto judaico, “gentios” é o equivalente mais claro."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "não fui logo consultar",
+    "termo": "οὐ προσανεθέμην (ou prosanethemēn)",
+    "titulo": "prosanatithēmi, raro",
+    "texto": "Só aqui e em 2:6. É “submeter algo a alguém para obter parecer”, consultar um intérprete ou especialista. Paulo nega que tenha buscado validação humana para a sua mensagem."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "carne e sangue",
+    "termo": "σαρκὶ καὶ αἵματι (sarki kai haimati)",
+    "titulo": "expressão hebraica",
+    "texto": "Expressão para o ser humano em sua fragilidade, em contraste com Deus (Mt 16:17; 1Co 15:50). Mantida a forma literal, que é conhecida em português; o sentido é “nenhum ser humano”."
+   }
+  ]
+ },
+ "Gal.1.17": {
+  "t": "nem subi a Jerusalém, aos que eram apóstolos antes de mim, mas parti para a Arábia e depois voltei a Damasco.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "subi",
+    "termo": "ἀνῆλθον (anēlthon)",
+    "titulo": "anerchomai, raro",
+    "texto": "Só aqui, no v. 18 e em Jo 6:3. “Subir” a Jerusalém é a linguagem habitual de peregrinação, pois a cidade fica nos montes da Judeia."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Arábia",
+    "termo": "Ἀραβίαν (Arabian)",
+    "titulo": "o que Paulo fez lá?",
+    "texto": "Provavelmente o reino nabateu, a leste e ao sul de Damasco, cujo rei Aretas tentou prender Paulo (2Co 11:32). Uns entendem que Paulo foi anunciar o evangelho ali, o que explicaria a hostilidade de Aretas; outros, que buscou retiro e reflexão. N. T. Wright sugere um eco de Elias, que, depois do zelo, foi ao Horebe (1Rs 19), e Paulo chama o Sinai de monte “na Arábia” (4:25). O texto não decide."
+   }
+  ]
+ },
+ "Gal.1.18": {
+  "t": "Depois, três anos mais tarde, subi a Jerusalém para conhecer Cefas e fiquei com ele quinze dias.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "para conhecer",
+    "termo": "ἱστορῆσαι (historēsai)",
+    "titulo": "historeō, hápax",
+    "texto": "Da raiz de “história”. No grego da época era “visitar para conhecer pessoalmente”, como quem visita uma cidade ou uma pessoa importante; o verbo pode incluir a ideia de obter informação (J. D. G. Dunn). “Para conhecer” deixa as duas nuances. Paulo não nega ter aprendido de Pedro sobre Jesus; nega ter recebido dele o evangelho e a comissão."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Cefas",
+    "termo": "Κηφᾶν (Kēphan)",
+    "titulo": "Cefas ou Pedro",
+    "texto": "O texto crítico traz Kēphas, transcrição do aramaico kêpha, “pedra”; o Textus Receptus e o Texto Bizantino trazem Petros, o equivalente grego. Paulo usa normalmente Cefas (1:18; 2:9, 11, 14) e Pedro só em 2:7-8. A troca nos manuscritos tardios uniformiza o nome."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "três anos mais tarde",
+    "termo": "μετὰ ἔτη τρία",
+    "titulo": "contados de quando?",
+    "texto": "Mais provavelmente a partir do chamado de Paulo (v. 15-16). Na contagem antiga, que incluía o ano inicial e o final, “três anos” pode significar pouco mais de dois."
+   }
+  ]
+ },
+ "Gal.1.19": {
+  "t": "Não vi nenhum outro dos apóstolos, a não ser Tiago, o irmão do Senhor.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "a não ser",
+    "termo": "εἰ μὴ (ei mē)",
+    "titulo": "Tiago era apóstolo?",
+    "texto": "Ei mē pode ser exceptivo (“nenhum outro apóstolo, exceto Tiago”, contando Tiago entre os apóstolos em sentido amplo, cf. 1Co 15:7) ou adversativo (“não vi nenhum outro apóstolo, mas vi Tiago”). A tradução conserva a ambiguidade."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "o irmão do Senhor",
+    "termo": "τὸν ἀδελφὸν τοῦ κυρίου",
+    "titulo": "parentesco",
+    "texto": "Há três posições antigas: filho de José e Maria, nascido depois de Jesus (Helvídio, século IV; cf. Mc 6:3); filho de José de um casamento anterior (Epifânio, tradição oriental); primo de Jesus (Jerônimo, tradição latina). A palavra adelphos tem sentido próprio de irmão, mas no grego bíblico pode cobrir parentes próximos. Este Tiago liderou a igreja de Jerusalém (2:9, 12; At 15:13; 21:18)."
+   }
+  ]
+ },
+ "Gal.1.20": {
+  "t": "E, quanto ao que lhes escrevo, declaro diante de Deus que não estou mentindo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "declaro diante de Deus",
+    "termo": "ἰδοὺ ἐνώπιον τοῦ θεοῦ",
+    "titulo": "fórmula de juramento",
+    "texto": "Lit. “eis, diante de Deus, que não minto”. É fórmula solene de juramento (cf. Rm 9:1; 2Co 11:31). O verbo “declaro” foi acrescentado para a frase fazer sentido em português."
+   }
+  ]
+ },
+ "Gal.1.21": {
+  "t": "Depois fui para as regiões da Síria e da Cilícia.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "regiões",
+    "termo": "κλίματα (klimata)",
+    "titulo": "klima, raro",
+    "texto": "Só aqui, em Rm 15:23 e 2Co 11:10. “Região, distrito”. A Cilícia incluía Tarso, cidade natal de Paulo (At 9:30; 11:25)."
+   }
+  ]
+ },
+ "Gal.1.22": {
+  "t": "E eu continuava desconhecido, pessoalmente, das igrejas da Judeia que estão em Cristo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "pessoalmente",
+    "termo": "τῷ προσώπῳ (tō prosōpō)",
+    "titulo": "“de rosto”",
+    "texto": "Lit. “desconhecido quanto ao rosto”. As igrejas da Judeia sabiam quem ele era, mas não o conheciam em pessoa. Isso reforça que Paulo não foi formado pelas igrejas de Jerusalém e arredores."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "que estão em Cristo",
+    "termo": "ταῖς ἐν Χριστῷ",
+    "titulo": "distinção",
+    "texto": "A expressão distingue as comunidades cristãs da Judeia das sinagogas judaicas da mesma região."
+   }
+  ]
+ },
+ "Gal.1.23": {
+  "t": "apenas ouviam dizer: “Aquele que antes nos perseguia agora anuncia a fé que antes procurava destruir”.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "apenas ouviam dizer",
+    "termo": "μόνον δὲ ἀκούοντες ἦσαν",
+    "titulo": "imperfeito perifrástico",
+    "texto": "O particípio com o verbo “ser” indica ação repetida: a notícia corria de boca em boca."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "a fé",
+    "termo": "τὴν πίστιν (tēn pistin)",
+    "titulo": "a fé como mensagem",
+    "texto": "Aqui “a fé” é o conteúdo crido e anunciado, quase sinônimo de “o evangelho” ou do movimento cristão. É um dos usos mais antigos dessa expressão (cf. 3:23, 25; At 6:7)."
+   }
+  ]
+ },
+ "Gal.1.24": {
+  "t": "E glorificavam a Deus por minha causa.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "por minha causa",
+    "termo": "ἐν ἐμοί (en emoi)",
+    "titulo": "“em mim”",
+    "texto": "Lit. “em mim”: Paulo era o motivo do louvor. Contraste implícito com os gálatas: as igrejas da Judeia, que ele havia perseguido, louvavam a Deus por ele, enquanto os gálatas, que ele havia evangelizado, davam ouvidos a quem o atacava."
+   }
+  ]
+ },
+ "Gal.2.1": {
+  "t": "Depois, catorze anos mais tarde, subi outra vez a Jerusalém com Barnabé, levando também Tito.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "catorze anos mais tarde",
+    "termo": "διὰ δεκατεσσάρων ἐτῶν",
+    "titulo": "dia com genitivo",
+    "texto": "Lit. “através de catorze anos”, isto é, depois de passados catorze anos. Não se sabe se a contagem parte do chamado de Paulo (1:15) ou da visita de 1:18."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "subi outra vez a Jerusalém",
+    "termo": "πάλιν ἀνέβην εἰς Ἱεροσόλυμα",
+    "titulo": "qual visita?",
+    "texto": "Os estudiosos discutem se esta é a visita da ajuda contra a fome (At 11:27-30) ou a do concílio de Jerusalém (At 15). A primeira explicaria por que Paulo não menciona a decisão do concílio, e combina com a hipótese sul-gálata (1:2); a segunda explica a semelhança dos temas (circuncisão dos gentios, Barnabé, Pedro e Tiago). Os dois lados têm defensores sérios (F. F. Bruce, a primeira; J. B. Lightfoot, a segunda)."
+   }
+  ]
+ },
+ "Gal.2.2": {
+  "t": "Subi em resposta a uma revelação e lhes expus o evangelho que prego entre os gentios — em particular, porém, aos que eram tidos como importantes —, para que de algum modo eu não estivesse correndo nem tivesse corrido em vão.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "em resposta a uma revelação",
+    "termo": "κατὰ ἀποκάλυψιν (kata apokalypsin)",
+    "titulo": "“segundo revelação”",
+    "texto": "Paulo subiu porque Deus o orientou, não porque foi convocado. Alguns ligam essa revelação à profecia de Ágabo (At 11:28), o que é possível, mas não demonstrável."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "expus",
+    "termo": "ἀνεθέμην (anethemēn)",
+    "titulo": "anatithēmi, raro",
+    "texto": "Só aqui e em At 25:14, onde Festo “expõe” o caso de Paulo ao rei Agripa. É apresentar algo para exame e opinião, não pedir licença."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "aos que eram tidos como importantes",
+    "termo": "τοῖς δοκοῦσιν (tois dokousin)",
+    "titulo": "hoi dokountes",
+    "texto": "Lit. “aos que parecem”, isto é, os que têm reputação. A expressão se repete nos vv. 6 e 9. Não é desprezo, mas há certa distância: Paulo reconhece a reputação deles sem fazer dela a fonte do seu evangelho."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "não estivesse correndo nem tivesse corrido em vão",
+    "termo": "μή πως εἰς κενὸν τρέχω ἢ ἔδραμον",
+    "titulo": "imagem da corrida",
+    "texto": "Imagem de atletismo (cf. Fp 2:16). Paulo não duvidava da verdade do seu evangelho; temia que uma ruptura com Jerusalém dividisse a igreja e deixasse sem fruto o trabalho entre os gentios."
+   }
+  ]
+ },
+ "Gal.2.3": {
+  "t": "Mas nem mesmo Tito, que estava comigo, sendo grego, foi obrigado a circuncidar-se.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "foi obrigado a circuncidar-se",
+    "termo": "ἠναγκάσθη περιτμηθῆναι",
+    "titulo": "o caso de teste",
+    "texto": "Tito era gentio de nascimento (“grego” no sentido de não judeu). Se os líderes de Jerusalém não exigiram que ele fosse circuncidado, os gálatas também não precisavam ser. Compare com Timóteo, de mãe judia, que Paulo circuncidou (At 16:3): a situação era outra."
+   }
+  ]
+ },
+ "Gal.2.4": {
+  "t": "Isso por causa dos falsos irmãos infiltrados, que entraram às escondidas para espionar a liberdade que temos em Cristo Jesus, a fim de nos escravizar.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Isso por causa",
+    "termo": "διὰ δὲ τοὺς",
+    "titulo": "frase interrompida",
+    "texto": "Os vv. 4-5 são um anacoluto, frase que começa e não se completa conforme a gramática. Paulo escreve com emoção. “Isso” liga o v. 4 ao 3: a questão da circuncisão de Tito foi levantada por causa desses falsos irmãos."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "infiltrados",
+    "termo": "παρεισάκτους (pareisaktous)",
+    "titulo": "pareisaktos, hápax",
+    "texto": "“Introduzido às escondidas”, como alguém posto num grupo por trás. O verbo seguinte, pareiserchomai (raro; também em Rm 5:20), reforça a ideia de entrada furtiva."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "espionar",
+    "termo": "κατασκοπῆσαι (kataskopēsai)",
+    "titulo": "kataskopeō, hápax",
+    "texto": "“Observar como espião, inspecionar com intenção hostil” (cf. kataskopos em Hb 11:31, os espias recebidos por Raabe)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "nos escravizar",
+    "termo": "καταδουλώσουσιν (katadoulōsousin)",
+    "titulo": "futuro ou subjuntivo",
+    "texto": "O texto crítico traz o futuro do indicativo katadoulōsousin, uso tardio depois de hina; o Textus Receptus e o Texto Bizantino, o subjuntivo katadoulōsōntai. Sem efeito na tradução."
+   }
+  ]
+ },
+ "Gal.2.5": {
+  "t": "A eles não cedemos em submissão nem por um instante, para que a verdade do evangelho permanecesse com vocês.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "não cedemos",
+    "termo": "οὐδὲ ... εἴξαμεν (oude ... eixamen)",
+    "titulo": "eikō, hápax",
+    "texto": "“Ceder, dar lugar”. “Nem por um instante” traduz lit. “nem por uma hora”."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "A eles não cedemos",
+    "termo": "οἷς οὐδὲ",
+    "titulo": "a negação",
+    "texto": "Alguns testemunhos ocidentais, sobretudo latinos, omitem “a eles não”, e a frase passa a dizer que Paulo “cedeu por um momento” (talvez lendo At 16:3). Todas as edições críticas e o Textus Receptus trazem a negação, que tem o apoio da grande maioria dos manuscritos gregos (Metzger)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "a verdade do evangelho",
+    "termo": "ἡ ἀλήθεια τοῦ εὐαγγελίου",
+    "titulo": "a expressão-chave",
+    "texto": "Volta no v. 14. É o evangelho na sua forma verdadeira, com as consequências práticas: os gentios são aceitos por Deus sem se tornarem judeus."
+   }
+  ]
+ },
+ "Gal.2.6": {
+  "t": "Quanto aos que eram tidos como importantes — o que eles eram antes não me faz diferença; Deus não leva em conta a aparência das pessoas —, esses que eram tidos como importantes nada me acrescentaram.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "o que eles eram antes",
+    "termo": "ὁποῖοί ποτε ἦσαν (hopoioi pote ēsan)",
+    "titulo": "pote",
+    "texto": "Pote pode ser “antigamente” (o que eram antes: talvez o fato de terem andado com Jesus) ou só reforço do relativo (“quaisquer que fossem”). A tradução segue a primeira leitura, que dá sentido ao imperfeito ēsan; a segunda também é possível."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Deus não leva em conta a aparência das pessoas",
+    "termo": "πρόσωπον θεὸς ἀνθρώπου οὐ λαμβάνει",
+    "titulo": "“receber o rosto”",
+    "texto": "Lit. “Deus não recebe o rosto do homem”. Expressão hebraica para favoritismo, para julgar pela posição social ou pela aparência (Dt 10:17; Lv 19:15). A tradução diz o sentido."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "nada me acrescentaram",
+    "termo": "οὐδὲν προσανέθεντο (ouden prosanethento)",
+    "titulo": "prosanatithēmi",
+    "texto": "O mesmo verbo raro de 1:16. Aqui é “impor, acrescentar” algo ao evangelho que Paulo lhes expôs: eles não exigiram nada além dele, como a circuncisão."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Deus",
+    "termo": "θεὸς (+ ὁ)",
+    "titulo": "artigo",
+    "texto": "O NA28 e Westcott-Hort trazem o artigo (ho theos). Sem efeito na tradução."
+   }
+  ]
+ },
+ "Gal.2.7": {
+  "t": "Pelo contrário, quando viram que a mim fora confiado o evangelho da incircuncisão, assim como a Pedro o da circuncisão",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "o evangelho da incircuncisão",
+    "termo": "τὸ εὐαγγέλιον τῆς ἀκροβυστίας",
+    "titulo": "“incircuncisão” e “circuncisão”",
+    "texto": "Os termos designam os povos: os incircuncisos (gentios) e os circuncisos (judeus). Não se trata de dois evangelhos com conteúdos diferentes, mas de um só evangelho dirigido a dois campos de missão."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "a Pedro",
+    "termo": "Πέτρος (Petros)",
+    "titulo": "Pedro e Cefas",
+    "texto": "Só aqui e no v. 8 Paulo usa o nome grego Pedro; em todo o resto, Cefas (aramaico). Alguns veem nisso o eco de uma fórmula oficial do acordo de Jerusalém."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "a mim fora confiado",
+    "termo": "πεπίστευμαι (pepisteumai)",
+    "titulo": "pisteuō passivo",
+    "texto": "Pisteuō na voz passiva com objeto é “ser encarregado de, receber em confiança” (1Ts 2:4; 1Tm 1:11). O perfeito indica um encargo permanente."
+   }
+  ]
+ },
+ "Gal.2.8": {
+  "t": "(pois aquele que agiu em Pedro para o apostolado da circuncisão agiu também em mim em favor dos gentios),",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "agiu em Pedro",
+    "termo": "ὁ ... ἐνεργήσας Πέτρῳ",
+    "titulo": "energeō",
+    "texto": "“Operar com eficácia”. O dativo pode ser “em Pedro”, “por meio de Pedro” ou “em favor de Pedro”. O sujeito é Deus. A prova de que o apostolado de Paulo era legítimo estava no fruto que Deus produzia."
+   }
+  ]
+ },
+ "Gal.2.9": {
+  "t": "e, quando reconheceram a graça que me fora dada, Tiago, Cefas e João, que eram tidos como colunas, deram a mim e a Barnabé a mão direita em sinal de comunhão, para que nós fôssemos aos gentios, e eles à circuncisão.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "colunas",
+    "termo": "στῦλοι (styloi)",
+    "titulo": "a imagem do templo",
+    "texto": "A imagem vem provavelmente do templo: a igreja como novo santuário (1Co 3:16; Ap 3:12). A tradição judaica chamava os patriarcas de colunas do mundo. Tiago aparece em primeiro lugar, sinal da sua liderança na igreja de Jerusalém."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "a mão direita em sinal de comunhão",
+    "termo": "δεξιὰς ἔδωκαν ... κοινωνίας",
+    "titulo": "“direitas de comunhão”",
+    "texto": "Dar a mão direita selava um acordo entre iguais (1Mc 6:58; 11:50). Koinōnia indica parceria: não uma concessão, mas o reconhecimento de que ambos serviam ao mesmo evangelho."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "para que nós fôssemos aos gentios",
+    "termo": "ἵνα ἡμεῖς εἰς τὰ ἔθνη",
+    "titulo": "verbo ausente",
+    "texto": "O grego não tem verbo nesta frase final. “Fôssemos” é o mais natural; outros entendem “pregássemos”. A divisão era de campo de trabalho, não de igrejas separadas."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "nós",
+    "termo": "ἡμεῖς (+ μὲν)",
+    "titulo": "men",
+    "texto": "O Texto Bizantino acrescenta men, que marca o contraste com “eles”. Sem efeito na tradução."
+   }
+  ]
+ },
+ "Gal.2.10": {
+  "t": "Pediram apenas que nos lembrássemos dos pobres, e foi isso mesmo que eu me empenhei em fazer.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "dos pobres",
+    "termo": "τῶν πτωχῶν (tōn ptōchōn)",
+    "titulo": "quem eram",
+    "texto": "Provavelmente os pobres da igreja de Jerusalém, para os quais Paulo depois organizou a coleta entre as igrejas gentílicas (Rm 15:26; 1Co 16:1-4; 2Co 8–9). Alguns estudiosos pensam que “os pobres” era também um nome que a igreja de Jerusalém dava a si mesma, mas isso não é certo."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "foi isso mesmo que eu me empenhei em fazer",
+    "termo": "ὃ καὶ ἐσπούδασα αὐτὸ τοῦτο ποιῆσαι",
+    "titulo": "aoristo",
+    "texto": "O aoristo espoudasa pode descrever o empenho já demonstrado (talvez a ajuda de At 11:29-30) ou o empenho assumido a partir dali. A tradução fica com o sentido geral."
+   }
+  ]
+ },
+ "Gal.2.11": {
+  "t": "Mas, quando Cefas veio a Antioquia, eu me opus a ele face a face, porque ele estava claramente errado.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "estava claramente errado",
+    "termo": "κατεγνωσμένος ἦν (kategnōsmenos ēn)",
+    "titulo": "kataginōskō, raro",
+    "texto": "Lit. “estava condenado”. Pode ser “condenado pelos próprios atos” (a conduta o acusava) ou “condenado diante de Deus”. Em 1Jo 3:20-21 o verbo se refere ao coração que acusa. A tradução segue o sentido de culpa evidente."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Cefas",
+    "termo": "Κηφᾶς (Kēphas)",
+    "titulo": "Cefas ou Pedro",
+    "texto": "O Textus Receptus e o Texto Bizantino trazem Petros (“Pedro”), como em 1:18."
+   }
+  ]
+ },
+ "Gal.2.12": {
+  "t": "Pois, antes que chegassem alguns da parte de Tiago, ele comia com os gentios; mas, quando eles chegaram, foi se retirando e se afastando, por medo dos da circuncisão.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "comia com os gentios",
+    "termo": "μετὰ τῶν ἐθνῶν συνήσθιεν",
+    "titulo": "imperfeito",
+    "texto": "O imperfeito indica hábito: Pedro comia regularmente com os cristãos gentios, provavelmente também na ceia do Senhor. Comer junto era sinal de aceitação plena (At 10–11)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "foi se retirando e se afastando",
+    "termo": "ὑπέστελλεν καὶ ἀφώριζεν ἑαυτὸν",
+    "titulo": "imperfeitos",
+    "texto": "Os dois imperfeitos sugerem um afastamento gradual. Hypostellō pode descrever a retirada tática de tropas; aphorizō é “separar-se”, o mesmo verbo de 1:15 em outro sentido."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "dos da circuncisão",
+    "termo": "τοὺς ἐκ περιτομῆς",
+    "titulo": "quem eram",
+    "texto": "Podem ser os cristãos judeus que exigiam a circuncisão dos gentios ou judeus não cristãos que pressionavam a igreja de Jerusalém. A expressão em At 11:2 e Cl 4:11 designa cristãos de origem judaica."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "quando eles chegaram",
+    "termo": "ὅτε δὲ ἦλθον",
+    "titulo": "plural ou singular",
+    "texto": "Alguns manuscritos antigos trazem o singular ēlthen (“quando ele chegou”). As edições críticas preferem o plural, que corresponde a “alguns” no início do versículo."
+   }
+  ]
+ },
+ "Gal.2.13": {
+  "t": "E os demais judeus também se juntaram a ele nessa hipocrisia, de modo que até Barnabé foi arrastado pela hipocrisia deles.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "se juntaram a ele nessa hipocrisia",
+    "termo": "συνυπεκρίθησαν αὐτῷ",
+    "titulo": "synypokrinomai, hápax",
+    "texto": "“Representar junto um papel”. Hypokrisis vem do teatro: o ator que fala por trás de uma máscara. Paulo diz que a conduta deles não correspondia à convicção que tinham."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "foi arrastado",
+    "termo": "συναπήχθη (synapēchthē)",
+    "titulo": "synapagō, raro",
+    "texto": "Só aqui, em Rm 12:16 e 2Pe 3:17 (“arrastados pelo erro”). “Ser levado junto” pela corrente. Barnabé tinha sido companheiro de Paulo na missão aos gentios; por isso o “até”."
+   }
+  ]
+ },
+ "Gal.2.14": {
+  "t": "Mas, quando vi que não estavam andando retamente segundo a verdade do evangelho, eu disse a Cefas diante de todos: “Se você, sendo judeu, vive como gentio e não como judeu, como pode obrigar os gentios a viverem como judeus?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "andando retamente",
+    "termo": "ὀρθοποδοῦσιν (orthopodousin)",
+    "titulo": "orthopodeō, hápax",
+    "texto": "Lit. “andar com pé reto”, não desviar do caminho. A preposição pros pode ser “em direção a” ou “de acordo com”; a segunda é mais provável."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "a viverem como judeus",
+    "termo": "ἰουδαΐζειν (ioudaizein)",
+    "titulo": "ioudaizō, hápax",
+    "texto": "“Judaizar”: adotar costumes judaicos. Em Et 8:17 (LXX), muitos gentios “judaizavam” e se circuncidavam. Por isso os adversários de Paulo são chamados, por estudiosos, de “judaizantes”, embora o verbo, aqui, descreva o que se impunha aos gentios."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "eu disse a Cefas",
+    "termo": "εἶπον τῷ Κηφᾷ",
+    "titulo": "onde termina a fala?",
+    "texto": "Não há aspas no grego. A fala a Pedro pode terminar no v. 14 ou seguir até o v. 21, passando aos poucos do episódio de Antioquia para os gálatas. A APV abre as aspas aqui e as fecha no fim do v. 21, porque o “nós, judeus por natureza” (v. 15) continua dirigido a Pedro; mas é provável que Paulo já esteja falando também aos leitores."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "não como judeu",
+    "termo": "οὐκ Ἰουδαϊκῶς",
+    "titulo": "ouk ou ouchi",
+    "texto": "O NA28 traz ouchi, forma enfática da negação. O Textus Receptus e o Texto Bizantino trazem “Pedro” em vez de “Cefas” e ti (“por que”) em vez de pōs (“como”). Nenhuma diferença altera o sentido."
+   }
+  ]
+ },
+ "Gal.2.15": {
+  "t": "Nós somos judeus por nascimento, e não pecadores dentre os gentios;",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "por nascimento",
+    "termo": "φύσει (physei)",
+    "titulo": "“por natureza”",
+    "texto": "Lit. “por natureza”, isto é, por origem. “Por nascimento” é o sentido mais claro em português."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "pecadores dentre os gentios",
+    "termo": "ἐξ ἐθνῶν ἁμαρτωλοί",
+    "titulo": "a linguagem judaica",
+    "texto": "Paulo repete a forma como judeus falavam dos gentios: pecadores porque estavam fora da lei (cf. 1Sm 15:18; Sl 9:17). Ele cita o rótulo para depois mostrar, no v. 16, que até os judeus precisam ser justificados pela fé."
+   }
+  ]
+ },
+ "Gal.2.16": {
+  "t": "sabemos, porém, que o ser humano não é justificado pelas obras da lei, mas pela fé em Jesus Cristo. Assim, também nós cremos em Cristo Jesus, para sermos justificados pela fé em Cristo, e não pelas obras da lei, porque pelas obras da lei nenhum ser humano será justificado.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "justificado",
+    "termo": "δικαιοῦται (dikaioutai)",
+    "titulo": "dikaioō: “justificar”",
+    "texto": "Primeira ocorrência na carta. Dikaioō, no uso bíblico, é “declarar justo, absolver”, linguagem de tribunal (Dt 25:1; Pv 17:15). Na leitura da Reforma é a declaração de Deus que absolve o pecador por causa de Cristo. N. T. Wright e outros acentuam que inclui ser reconhecido como membro do povo da aliança, e o contexto (comer com gentios, vv. 11-14) mostra que essa dimensão está presente. As duas ênfases não se excluem."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "obras da lei",
+    "termo": "ἔργων νόμου (ergōn nomou)",
+    "titulo": "o que são?",
+    "texto": "As obras exigidas pela lei de Moisés. A leitura tradicional (Lutero, Calvino) entende toda obediência à lei como tentativa de obter a aceitação de Deus. J. D. G. Dunn e a chamada “nova perspectiva” acentuam as práticas que separavam judeus de gentios: circuncisão, leis alimentares e sábado, justamente as questões dos vv. 3-14. Não há necessidade de escolher entre as duas: o contexto fala dessas práticas, e o princípio vale para a lei inteira (3:10; 5:3)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "mas pela fé em Jesus Cristo",
+    "termo": "ἐὰν μὴ διὰ πίστεως Ἰησοῦ Χριστοῦ",
+    "titulo": "ean mē",
+    "texto": "Lit. “se não por meio de”, normalmente “exceto”. Alguns leram “não é justificado pelas obras, a não ser que (as acompanhe) a fé”, mas o fim do versículo opõe fé e obras de modo exclusivo. Por isso “mas”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "fé em Jesus Cristo",
+    "termo": "πίστεως Ἰησοῦ Χριστοῦ (pisteōs Iēsou Christou)",
+    "titulo": "pistis Christou",
+    "texto": "O genitivo pode ser objetivo (“fé em Jesus Cristo”, a fé do crente que tem Cristo por objeto) ou subjetivo (“fidelidade de Jesus Cristo”, a obediência fiel de Cristo até a cruz). A APV segue o objetivo, como em Fp 3:9, com a tradição da Reforma e J. D. G. Dunn: a frase do meio (“também nós cremos em Cristo Jesus”) explica os dois genitivos com o verbo crer, e Paulo nunca chama Cristo de sujeito de pisteuō. A leitura subjetiva, defendida por R. B. Hays e por muitos estudiosos recentes, não nega a fé do crente: entende que a frase do meio a acrescenta. A tradução “fé em” não exclui que a fé descanse na fidelidade de Cristo.",
+    "revisar": true
+   },
+   {
+    "tipo": "sn",
+    "ancora": "nenhum ser humano será justificado",
+    "termo": "οὐ δικαιωθήσεται πᾶσα σάρξ",
+    "titulo": "Salmo 143:2",
+    "texto": "Eco de Sl 143:2 (142:2 na LXX), “diante de ti não será justificado nenhum vivente”. Paulo troca “vivente” por “carne” e acrescenta “pelas obras da lei”, tornando explícita a aplicação. Lit. “toda carne não será justificada”, expressão hebraica para “ninguém”; “ser humano” traduz sarx pelo sentido."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "sabemos, porém",
+    "termo": "εἰδότες δὲ",
+    "titulo": "de",
+    "texto": "O Textus Receptus e o Texto Bizantino omitem de (“porém”) e trazem dioti em vez de hoti no fim. Sem efeito no sentido. O particípio “sabendo” foi traduzido por verbo finito."
+   }
+  ]
+ },
+ "Gal.2.17": {
+  "t": "Mas, se, procurando ser justificados em Cristo, nós mesmos também fomos achados pecadores, será então Cristo servidor do pecado? De modo nenhum!",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "fomos achados pecadores",
+    "termo": "εὑρέθημεν καὶ αὐτοὶ ἁμαρτωλοί",
+    "titulo": "o argumento",
+    "texto": "Pensamento dos adversários: ao deixar a lei para comer com gentios, os judeus cristãos se tornam “pecadores” como os gentios (v. 15). Então Cristo os teria levado ao pecado. Paulo rejeita a conclusão."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "será então",
+    "termo": "ἆρα (ara)",
+    "titulo": "ara ou āra",
+    "texto": "Os manuscritos antigos não tinham acentos. Lida com acento circunflexo (āra), é partícula interrogativa: “será então Cristo...?”; com acento agudo (ara), é conclusiva: “então Cristo é servidor do pecado!”. O “de modo nenhum” que segue em Paulo responde normalmente a perguntas (Rm 3:3-6; 6:1-2). Por isso a pergunta."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "De modo nenhum!",
+    "termo": "μὴ γένοιτο (mē genoito)",
+    "titulo": "“que não aconteça”",
+    "texto": "Lit. “que isso não aconteça”. É a rejeição mais forte que Paulo usa (3:21; 6:14). Traduzida pelo equivalente enfático."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "servidor",
+    "termo": "διάκονος (diakonos)",
+    "titulo": "diakonos",
+    "texto": "“Ministro, servidor, agente”. Aqui não é o ofício de diácono, mas quem promove algo: Cristo seria um promotor do pecado."
+   }
+  ]
+ },
+ "Gal.2.18": {
+  "t": "Pois, se volto a construir aquilo que destruí, mostro que eu mesmo sou transgressor.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "se volto a construir aquilo que destruí",
+    "termo": "εἰ γὰρ ἃ κατέλυσα, ταῦτα πάλιν οἰκοδομῶ",
+    "titulo": "a primeira pessoa",
+    "texto": "Paulo fala em “eu”, mas pensa em Pedro: quem derrubou o muro das leis de separação (comendo com gentios) e depois o reconstrói (afastando-se deles) se condena a si mesmo. O pecado não está em ter derrubado, mas em reconstruir o que Deus mandou abandonar."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "transgressor",
+    "termo": "παραβάτην (parabatēn)",
+    "titulo": "parabatēs",
+    "texto": "Quem ultrapassa um limite estabelecido. Alguns entendem: transgressor da lei, que agora o acusa; outros: transgressor da vontade de Deus revelada em Cristo. O v. 19 favorece a primeira leitura."
+   }
+  ]
+ },
+ "Gal.2.19": {
+  "t": "Pois eu, por meio da lei, morri para a lei, a fim de viver para Deus. Estou crucificado com Cristo;",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "por meio da lei, morri para a lei",
+    "termo": "διὰ νόμου νόμῳ ἀπέθανον",
+    "titulo": "como?",
+    "texto": "A lei condenou o pecador à morte, e essa sentença foi executada em Cristo, com quem o crente morreu (3:13; Rm 7:4). Assim, a própria lei levou o crente a morrer para o domínio dela. Outros entendem que a lei, ao revelar o pecado, mostrou a Paulo que ela não podia dar vida (3:21-24)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Estou crucificado com Cristo",
+    "termo": "Χριστῷ συνεσταύρωμαι (Christō synestaurōmai)",
+    "titulo": "perfeito",
+    "texto": "O perfeito indica um fato passado com efeito presente: Paulo foi crucificado com Cristo e permanece nessa condição. Por isso “estou”, não “fui”. Em algumas edições esta frase abre o v. 20."
+   }
+  ]
+ },
+ "Gal.2.20": {
+  "t": "e já não sou eu quem vive, mas Cristo vive em mim. E a vida que agora vivo no corpo, vivo-a pela fé no Filho de Deus, que me amou e se entregou por mim.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "no corpo",
+    "termo": "ἐν σαρκί (en sarki)",
+    "titulo": "sarx",
+    "texto": "Lit. “na carne”. Aqui sarx é a existência física e mortal, sem o sentido moral negativo que terá em 5:13-24. “Na carne” levaria o leitor a pensar em pecado; por isso “no corpo”, como em Fp 1:22."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "pela fé no Filho de Deus",
+    "termo": "ἐν πίστει ... τῇ τοῦ υἱοῦ τοῦ θεοῦ",
+    "titulo": "o mesmo debate de 2:16",
+    "texto": "O genitivo pode ser objetivo (“fé no Filho de Deus”) ou subjetivo (“fidelidade do Filho de Deus”). Os particípios que seguem (“que me amou e se entregou”) descrevem a obra fiel de Cristo, e por isso os defensores da leitura subjetiva veem aqui um forte apoio. A APV mantém a leitura objetiva, coerente com 2:16; a outra é registrada como alternativa séria.",
+    "revisar": true
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Filho de Deus",
+    "termo": "τοῦ υἱοῦ τοῦ θεοῦ",
+    "titulo": "“Filho de Deus” ou “Deus e Cristo”",
+    "texto": "Alguns manuscritos antigos, seguidos por Tregelles, leem “de Deus e de Cristo”. As edições críticas preferem “do Filho de Deus”, que é a expressão de Paulo e explica o particípio que segue; a outra leitura parece nascer de um erro de cópia (Metzger)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "que me amou e se entregou por mim",
+    "termo": "τοῦ ἀγαπήσαντός με καὶ παραδόντος ἑαυτὸν ὑπὲρ ἐμοῦ",
+    "titulo": "amor pessoal",
+    "texto": "Retoma 1:4 (“se entregou a si mesmo pelos nossos pecados”), agora no singular. O amor de Cristo, que em outras passagens é pela igreja (Ef 5:2, 25), é aqui dito de cada crente."
+   }
+  ]
+ },
+ "Gal.2.21": {
+  "t": "Não anulo a graça de Deus; pois, se a justiça vem por meio da lei, então Cristo morreu em vão.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "anulo",
+    "termo": "ἀθετῶ (athetō)",
+    "titulo": "atheteō",
+    "texto": "“Rejeitar, tornar sem efeito”, como quem anula um testamento (3:15). Talvez responda a uma acusação: os adversários diriam que Paulo anulava a lei; ele responde que eles anulam a graça."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "em vão",
+    "termo": "δωρεὰν (dōrean)",
+    "titulo": "dōrean",
+    "texto": "Normalmente “de graça, gratuitamente”. Aqui é “sem motivo, inutilmente” (como em Jo 15:25). Se a lei bastasse, a morte de Cristo seria desnecessária."
+   }
+  ]
+ }
+}

@@ -1,0 +1,802 @@
+{
+ "Heb.1.1": {
+  "t": "Em muitos momentos e de muitos modos, Deus falou outrora aos pais por meio dos profetas;",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Em muitos momentos e de muitos modos",
+    "termo": "Πολυμερῶς καὶ πολυτρόπως (polymerōs kai polytropōs)",
+    "titulo": "dois hápax em aliteração",
+    "texto": "Os dois advérbios só aparecem aqui no NT (hápax: palavra de uma única ocorrência). Polymerōs é lit. “em muitas partes, em muitas porções”: a revelação veio aos pedaços, ao longo do tempo; polytropōs é “de muitas maneiras” (sonhos, visões, leis, oráculos). O grego abre a carta com aliteração em p; “muitos momentos e muitos modos” tenta guardar o som e o sentido. “Partes” seria mais literal, mas soaria estranho na leitura em voz alta."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Deus falou",
+    "termo": "ὁ θεὸς λαλήσας (ho theos lalēsas)",
+    "titulo": "o começo de Hebreus",
+    "texto": "Hebreus não tem a saudação de uma carta: não diz quem escreve nem a quem. Começa como um sermão (o próprio autor o chama “palavra de exortação”, 13:22). O primeiro tema é Deus que fala; “falar” volta em 2:2-3; 3:7; 12:25. No grego, “falou” é um particípio que prepara o verbo principal do v. 2: a frase forma um só bloco com o versículo seguinte."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "aos pais",
+    "termo": "τοῖς πατράσιν (tois patrasin)",
+    "titulo": "“pais” ou “antepassados”",
+    "texto": "Os antepassados de Israel, as gerações do AT. Mantido “pais”, como no uso bíblico (Rm 9:5), sem o possessivo “nossos”, que o grego não traz."
+   }
+  ]
+ },
+ "Heb.1.2": {
+  "t": "no fim destes dias, falou a nós por meio do Filho, a quem constituiu herdeiro de todas as coisas e por meio de quem também fez o universo.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "no fim destes dias",
+    "termo": "ἐπ᾽ ἐσχάτου τῶν ἡμερῶν τούτων",
+    "titulo": "os últimos dias",
+    "texto": "Lit. “no último destes dias”. A expressão vem da Septuaginta (a antiga tradução grega do AT; Nm 24:14; Dt 4:30) e designa o tempo final esperado pelos profetas. O autor diz que esse tempo já começou com a vinda do Filho. O Textus Receptus traz o plural eschatōn (“nestes últimos dias”), sem mudança de sentido."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "por meio do Filho",
+    "termo": "ἐν υἱῷ (en huiō)",
+    "titulo": "“em Filho”, sem artigo",
+    "texto": "Lit. “em Filho”. A ausência do artigo põe o peso na categoria: Deus falou não por mais um profeta, mas por alguém que é Filho. “Num Filho” soaria indefinido demais em português; por isso “o Filho”, com esta nota. O en tem sentido instrumental, como em “por meio dos profetas” (v. 1)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "o universo",
+    "termo": "τοὺς αἰῶνας (tous aiōnas)",
+    "titulo": "“as eras”",
+    "texto": "Lit. “as eras” ou “os séculos”. Aqui designa o mundo criado em toda a sua extensão no tempo e no espaço, como em 11:3. “Os mundos” (ARC) também é possível; “o universo” dá o sentido sem perder a ideia de totalidade."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "herdeiro de todas as coisas",
+    "termo": "κληρονόμον πάντων",
+    "titulo": "o Filho herdeiro",
+    "texto": "Eco do Sl 2:8, onde Deus promete ao rei ungido as nações como herança; o Sl 2:7 será citado no v. 5. O Filho é ao mesmo tempo o fim (herdeiro) e o agente (por meio de quem fez) da criação; cf. Jo 1:3; Cl 1:16."
+   }
+  ]
+ },
+ "Heb.1.3": {
+  "t": "Ele, que é o resplendor da glória e a representação exata do seu ser, e que sustenta todas as coisas pela sua palavra poderosa, depois de fazer, por si mesmo, a purificação dos pecados, sentou-se à direita da Majestade nas alturas.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "resplendor",
+    "termo": "ἀπαύγασμα (apaugasma)",
+    "titulo": "apaugasma, hápax: “resplendor” ou “reflexo”",
+    "texto": "A palavra pode ter sentido ativo, a luz que irradia de uma fonte (“resplendor, irradiação”), ou passivo, a luz refletida (“reflexo”). Em Sabedoria 7:26 a Sabedoria é apaugasma da luz eterna, e Fílon de Alexandria usa o termo de modo semelhante. A maioria dos intérpretes antigos e modernos prefere o sentido ativo: o Filho não é um espelho fora de Deus, mas a própria luz de Deus que se irradia. Os Pais da Igreja usaram o versículo para explicar a fórmula de Niceia, “luz de luz”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "representação exata",
+    "termo": "χαρακτὴρ (charaktēr)",
+    "titulo": "charaktēr, hápax",
+    "texto": "Charaktēr é a marca gravada por um sinete na cera ou o cunho de uma moeda: a figura que reproduz com exatidão o original. “Representação exata” dá o sentido; o leitor deve ouvir a imagem do selo e da moeda. A frase completa com “resplendor”: o primeiro termo fala da unidade com Deus (a luz não se separa da fonte), o segundo da distinção (a impressão não é o sinete)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "do seu ser",
+    "termo": "τῆς ὑποστάσεως αὐτοῦ (tēs hypostaseōs autou)",
+    "titulo": "hypostasis",
+    "texto": "Aqui hypostasis é a realidade essencial, o que Deus é em si mesmo (“substância” na tradução latina e na ARC). Nos debates trinitários do séc. IV, a palavra passou a significar “pessoa” (uma natureza, três hipóstases). Esse sentido técnico é posterior e não deve ser lido aqui: o Filho não é a impressão da “pessoa” do Pai, mas do ser de Deus. Em 3:14 e 11:1 a mesma palavra tem o sentido de “firmeza, garantia”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "pela sua palavra poderosa",
+    "termo": "τῷ ῥήματι τῆς δυνάμεως (tō rhēmati tēs dynameōs)",
+    "titulo": "“pela palavra do poder”",
+    "texto": "Lit. “pela palavra do poder”. O genitivo foi traduzido como adjetivo (“poderosa”), e o possessivo “sua” explicita que a palavra é a do próprio Filho, sujeito da frase. “Sustenta” traduz pherōn, “carrega, leva”: não só mantém o mundo de pé, mas o conduz ao seu fim."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "por si mesmo",
+    "termo": "δι᾽ ἑαυτοῦ (di’ heautou) / αὐτοῦ",
+    "titulo": "duas formas do texto",
+    "texto": "O texto-base (SBLGNT, que grafa di’ hautou), com o Textus Receptus e o Texto Bizantino, traz “por si mesmo” e não traz autou depois de “poder”. O NA28, o THGNT, Westcott-Hort e Tregelles fazem o inverso: “pela palavra do seu poder, depois de fazer a purificação dos pecados”, sem “por si mesmo”. O Textus Receptus e o Texto Bizantino trazem ainda “dos nossos pecados” (hēmōn). O sentido geral não muda; “por si mesmo” sublinha que o Filho fez a purificação pessoalmente, com o próprio sangue (9:12-14)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "sentou-se à direita da Majestade",
+    "termo": "ἐκάθισεν ἐν δεξιᾷ τῆς μεγαλωσύνης",
+    "titulo": "Salmo 110:1",
+    "texto": "Primeira alusão ao Sl 110:1, o texto do AT mais usado em Hebreus (1:13; 8:1; 10:12; 12:2). “A Majestade” (megalōsynē, raro no NT) é forma reverente de dizer “Deus”, como no judaísmo da época. O sacerdote do AT nunca se sentava no santuário; o Filho se sentou porque a obra estava concluída (10:11-12)."
+   }
+  ]
+ },
+ "Heb.1.4": {
+  "t": "tornando-se tão superior aos anjos quanto o nome que herdou é mais excelente que o deles.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "superior",
+    "termo": "κρείττων (kreittōn)",
+    "titulo": "kreittōn, palavra-chave",
+    "texto": "“Melhor, superior” é uma das palavras-chave de Hebreus (13 vezes): melhor esperança, melhor aliança, melhores promessas, melhor sacrifício. Aqui, “superior” por se tratar de posição."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "tornando-se",
+    "termo": "γενόμενος (genomenos)",
+    "titulo": "como o Filho “se tornou” superior?",
+    "texto": "O Filho, que já é o resplendor da glória de Deus (v. 3), não passou a ser algo que não era. O verbo se refere à exaltação depois da obra realizada: como homem, que por um pouco foi feito menor que os anjos (2:9), ele foi entronizado acima deles. O “nome” herdado é, pelo v. 5, o de “Filho”, proclamado na entronização."
+   }
+  ]
+ },
+ "Heb.1.5": {
+  "t": "Pois a qual dos anjos Deus disse alguma vez: “Tu és meu Filho; eu hoje te gerei”? E ainda: “Eu serei Pai para ele, e ele será Filho para mim”?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Deus disse",
+    "termo": "εἶπέν (eipen)",
+    "titulo": "sujeito implícito",
+    "texto": "O grego diz só “disse”; o sujeito é Deus, do v. 1. Explicitado para clareza na leitura. Hebreus apresenta quase todas as citações do AT como palavras ditas por Deus (ou pelo Filho, ou pelo Espírito, 3:7), e não como algo “escrito”."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Tu és meu Filho; eu hoje te gerei",
+    "termo": "υἱός μου εἶ σύ, ἐγὼ σήμερον γεγέννηκά σε",
+    "titulo": "Salmo 2:7",
+    "texto": "Citação do Sl 2:7, igual na Septuaginta e no hebraico. No salmo, é a palavra de Deus ao rei de Davi no dia da sua entronização. O NT a aplica à ressurreição e exaltação de Jesus (At 13:33; Hb 5:5). Muitos Pais da Igreja leram o “hoje” como a geração eterna do Filho; a maioria dos comentaristas modernos o liga à entronização, sem negar a filiação eterna, já afirmada nos vv. 2-3."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Eu serei Pai para ele, e ele será Filho para mim",
+    "termo": "ἐγὼ ἔσομαι αὐτῷ εἰς πατέρα",
+    "titulo": "2 Samuel 7:14",
+    "texto": "Citação de 2Sm 7:14 (1Cr 17:13), a promessa de Deus a Davi sobre o seu descendente. A forma segue a Septuaginta, que reproduz o hebraico (lit. “serei para ele por pai”). Os dois textos já aparecem juntos, lidos como promessas sobre o Messias, num comentário de Qumran (4QFlorilégio, 4Q174)."
+   }
+  ]
+ },
+ "Heb.1.6": {
+  "t": "E, quando introduz de novo o Primogênito no mundo, ele diz: “Que todos os anjos de Deus o adorem”.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "quando introduz de novo",
+    "termo": "ὅταν δὲ πάλιν εἰσαγάγῃ (hotan de palin eisagagē)",
+    "titulo": "a que se liga “de novo”?",
+    "texto": "Palin pode (1) introduzir mais uma citação (“e outra vez, quando introduz”), como nos vv. 5 e 2:13; ou (2) modificar o verbo (“quando introduz de novo”), referindo-se à volta de Cristo ou à sua entrada triunfal no mundo futuro na exaltação. A posição de palin, entre a conjunção e o verbo, favorece a ligação com o verbo, e o “mundo” (oikoumenē) que há de vir é retomado em 2:5. Outros (p. ex., os que pensam no nascimento de Jesus) preferem a primeira leitura.",
+    "revisar": true
+   },
+   {
+    "tipo": "tn",
+    "ancora": "o Primogênito",
+    "termo": "τὸν πρωτότοκον (ton prōtotokon)",
+    "titulo": "prōtotokos",
+    "texto": "Título de posição e herança, não só de ordem de nascimento: Israel é chamado “primogênito” de Deus (Êx 4:22), e o rei, “primogênito, o mais alto dos reis da terra” (Sl 89:27). Cf. Rm 8:29; Cl 1:15, 18."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Que todos os anjos de Deus o adorem",
+    "termo": "προσκυνησάτωσαν αὐτῷ πάντες ἄγγελοι θεοῦ",
+    "titulo": "Deuteronômio 32:43 na Septuaginta",
+    "texto": "A citação segue a Septuaginta de Dt 32:43 (também o Cântico de Moisés nas Odes gregas), que é mais longa que o texto hebraico massorético: esta linha não está no hebraico tradicional. Um manuscrito hebraico de Qumran (4QDeut-q) traz uma linha semelhante, “prostrem-se diante dele todos os deuses”, o que indica que a Septuaginta traduzia um texto hebraico antigo. Ver também Sl 97:7 (LXX 96:7). No Deuteronômio o “ele” é Deus; Hebreus aplica o texto ao Filho."
+   }
+  ]
+ },
+ "Heb.1.7": {
+  "t": "Quanto aos anjos, ele diz: “Ele faz dos seus anjos ventos, e dos seus servos, labaredas de fogo”.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Ele faz dos seus anjos ventos",
+    "termo": "ὁ ποιῶν τοὺς ἀγγέλους αὐτοῦ πνεύματα",
+    "titulo": "Salmo 104:4 na Septuaginta",
+    "texto": "Citação do Sl 104:4 (LXX 103:4), na forma da Septuaginta. O hebraico é normalmente lido “faz dos ventos os seus mensageiros, e das chamas de fogo os seus servos”: os elementos da natureza servem a Deus. A Septuaginta entende o inverso: Deus faz dos seus anjos ventos e fogo. Hebreus segue a Septuaginta para mostrar que os anjos são servos, mutáveis como vento e chama, em contraste com o trono eterno do Filho (vv. 8-12)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "ventos",
+    "termo": "πνεύματα (pneumata)",
+    "titulo": "“ventos” ou “espíritos”",
+    "texto": "Pneuma significa “vento” e “espírito”. “Espíritos” (ARC) liga o versículo ao v. 14 (“espíritos ministrantes”); “ventos” combina com “labaredas de fogo” e com o hebraico do salmo. Escolheu-se “ventos” pelo paralelo da própria frase."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "servos",
+    "termo": "λειτουργοὺς (leitourgous)",
+    "titulo": "leitourgos",
+    "texto": "Quem presta serviço público ou cultual; na Septuaginta, muitas vezes o serviço no templo. Cristo será chamado leitourgos do santuário em 8:2."
+   }
+  ]
+ },
+ "Heb.1.8": {
+  "t": "Mas, quanto ao Filho: “O teu trono, ó Deus, é para todo o sempre, e o cetro da retidão é o cetro do teu reino.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "O teu trono, ó Deus",
+    "termo": "ὁ θρόνος σου ὁ θεός (ho thronos sou ho theos)",
+    "titulo": "vocativo ou predicado?",
+    "texto": "No Sl 45:6 (LXX 44:7) e aqui, ho theos pode ser (1) vocativo, “o teu trono, ó Deus, é para sempre”, ou (2) sujeito ou predicado, “Deus é o teu trono” ou “o teu trono é Deus”. A APV segue a primeira leitura, a de quase toda a tradição: o grego do NT usa com frequência o nominativo com artigo como vocativo; o paralelo com o v. 10 (“Tu, Senhor”) mostra o autor dirigindo-se ao Filho; e o texto foi introduzido como palavra dita “ao Filho”. Assim, Hebreus chama o Filho de “Deus”, enquanto o v. 9 distingue o Filho de “o teu Deus”, o Pai. A segunda leitura foi proposta por alguns intérpretes modernos (a RSV a adota no Sl 45:6) e afastaria essa afirmação; é gramaticalmente possível, mas menos natural.",
+    "revisar": true
+   },
+   {
+    "tipo": "sn",
+    "ancora": "para todo o sempre",
+    "termo": "εἰς τὸν αἰῶνα τοῦ αἰῶνος",
+    "titulo": "Salmo 45:6-7",
+    "texto": "Lit. “para o século do século”. O Sl 45 é um canto de casamento do rei. No hebraico, o rei davídico é chamado ʾelohim (“Deus”), linguagem de exaltação que o judaísmo antigo já lia em sentido messiânico. Hebreus cita a Septuaginta, que aqui acompanha o hebraico, e vê no Filho o cumprimento pleno do salmo."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "do teu reino",
+    "termo": "τῆς βασιλείας σου",
+    "titulo": "“teu” ou “seu”",
+    "texto": "Alguns manuscritos antigos (𝔓46, ℵ, B) leem autou, “do seu reino”, o que favoreceria a leitura “Deus é o teu trono”. A maioria dos manuscritos e as edições críticas trazem sou, “do teu reino”, que corresponde ao salmo (Metzger). Antes de “o cetro”, o Textus Receptus e o Texto Bizantino não têm o “e” (kai), sem mudar o sentido."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "o cetro da retidão",
+    "termo": "ἡ ῥάβδος τῆς εὐθύτητος (hē rhabdos tēs euthytētos)",
+    "titulo": "euthytēs, hápax",
+    "texto": "Euthytēs é “o que é reto, direito”, como uma linha sem desvio; daí retidão, equidade no julgamento. O cetro reto é o governo justo."
+   }
+  ]
+ },
+ "Heb.1.9": {
+  "t": "Amaste a justiça e odiaste a iniquidade; por isso Deus, o teu Deus, te ungiu com óleo de alegria acima dos teus companheiros”.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Deus, o teu Deus",
+    "termo": "ὁ θεός, ὁ θεός σου",
+    "titulo": "outro vocativo?",
+    "texto": "Também aqui o primeiro ho theos poderia ser vocativo: “por isso, ó Deus, o teu Deus te ungiu”. A leitura como sujeito repetido (“Deus, o teu Deus”) é a mais simples; o hebraico do salmo tem a mesma ambiguidade. Nas duas leituras, o Filho tem um “Deus” acima dele, o que se explica pela sua missão como rei messiânico e homem (2:17; 5:7)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "te ungiu",
+    "termo": "ἔχρισέν σε (echrisen se)",
+    "titulo": "chriō e Christos",
+    "texto": "O verbo chriō, “ungir”, é a raiz de Christos, “Ungido” (Messias). O óleo de alegria era o da festa e da coroação. “Companheiros” (metochoi) volta em 3:1, 14: os que participam com Cristo da vocação celestial."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "iniquidade",
+    "termo": "ἀνομίαν (anomian)",
+    "titulo": "anomia",
+    "texto": "Lit. “ausência de lei, ilegalidade”: o desprezo da vontade de Deus. “Iniquidade” é o termo tradicional e guarda o contraste com “justiça”."
+   }
+  ]
+ },
+ "Heb.1.10": {
+  "t": "E ainda: “Tu, Senhor, no princípio lançaste os alicerces da terra, e os céus são obra das tuas mãos.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Tu, Senhor",
+    "termo": "σὺ ... κύριε (sy ... kyrie)",
+    "titulo": "Salmo 102:25-27",
+    "texto": "Os vv. 10-12 citam o Sl 102:25-27 (LXX 101:26-28), na forma da Septuaginta. O salmo é dirigido a YHWH, o Deus de Israel, criador do céu e da terra; o vocativo “Senhor” (kyrie) aparece na Septuaginta, mas não no hebraico deste versículo, embora o salmo fale o tempo todo de YHWH (102:1, 12, 15). Hebreus aplica ao Filho o que o salmo diz do Criador: ele é o agente da criação (v. 2) e permanece quando a criação passa."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "no princípio",
+    "termo": "κατ᾽ ἀρχάς (kat’ archas)",
+    "titulo": "plural",
+    "texto": "Lit. “nos princípios”, expressão idiomática da Septuaginta para “no começo, desde a origem”."
+   }
+  ]
+ },
+ "Heb.1.11": {
+  "t": "Eles perecerão, mas tu permaneces; todos envelhecerão como uma roupa.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Eles",
+    "termo": "αὐτοὶ (autoi)",
+    "titulo": "quem perece?",
+    "texto": "O masculino plural retoma “os céus” (masculino em grego) e, por extensão, a terra: toda a criação visível. “Permaneces” é presente: a permanência do Filho não tem fim."
+   }
+  ]
+ },
+ "Heb.1.12": {
+  "t": "Tu os enrolarás como um manto; como uma roupa, eles serão trocados. Mas tu és o mesmo, e os teus anos não terão fim”.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "enrolarás",
+    "termo": "ἑλίξεις (helixeis)",
+    "titulo": "helissō, raro",
+    "texto": "Helissō é enrolar, como se enrola um rolo de escrita ou uma roupa que se guarda (Ap 6:14; Is 34:4, onde o céu se enrola como um livro). O hebraico do salmo diz “tu os mudarás como roupa”. A forma de Hebreus pode vir de uma forma da Septuaginta ou da lembrança de Is 34:4. Periboloion (“manto”) é uma capa que envolve o corpo."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "como uma roupa, eles serão trocados",
+    "termo": "ὡς ἱμάτιον καὶ ἀλλαγήσονται",
+    "titulo": "repetição de “como uma roupa”",
+    "texto": "O texto crítico repete “como uma roupa” (hōs himation), que não está na Septuaginta do salmo; o Textus Receptus e o Texto Bizantino não têm a repetição. Ela reforça a imagem: a criação é trocada como roupa velha."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "tu és o mesmo",
+    "termo": "σὺ δὲ ὁ αὐτὸς εἶ (sy de ho autos ei)",
+    "titulo": "a imutabilidade do Filho",
+    "texto": "No hebraico, ʾattah hu’, “tu és ele”, expressão ligada à autoafirmação de Deus em Isaías (Is 41:4; 43:10). Hebreus retoma a ideia em 13:8: “Jesus Cristo é o mesmo ontem, hoje e para sempre”."
+   }
+  ]
+ },
+ "Heb.1.13": {
+  "t": "E a qual dos anjos ele disse alguma vez: “Senta-te à minha direita, até que eu ponha os teus inimigos como estrado para os teus pés”?",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Senta-te à minha direita",
+    "termo": "κάθου ἐκ δεξιῶν μου",
+    "titulo": "Salmo 110:1",
+    "texto": "Citação do Sl 110:1 (LXX 109:1), de acordo com a Septuaginta e o hebraico. No hebraico, a frase é “oráculo de YHWH ao meu senhor”: YHWH fala ao rei, que o NT entende como o Messias (Mc 12:35-37; At 2:34-35). A série de citações, que começou com uma pergunta (v. 5), fecha com outra pergunta igual: ponto de partida e de chegada é a superioridade do Filho."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "estrado para os teus pés",
+    "termo": "ὑποπόδιον τῶν ποδῶν σου",
+    "titulo": "imagem de vitória",
+    "texto": "Lit. “estrado dos teus pés”. Os reis vencedores punham o pé sobre o pescoço dos vencidos (Js 10:24). “Estrado” é o banquinho onde o rei apoia os pés."
+   }
+  ]
+ },
+ "Heb.1.14": {
+  "t": "Não são todos eles espíritos ministrantes, enviados para servir em favor dos que hão de herdar a salvação?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "espíritos ministrantes",
+    "termo": "λειτουργικὰ πνεύματα (leitourgika pneumata)",
+    "titulo": "leitourgikos, hápax",
+    "texto": "Adjetivo da família de leitourgos (v. 7): espíritos dedicados ao serviço de Deus, com o sentido cultual da palavra. “Ministrantes” guarda a ideia de serviço sagrado. A pergunta, com ouchi, espera resposta “sim”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "em favor dos que hão de herdar a salvação",
+    "termo": "διὰ τοὺς μέλλοντας κληρονομεῖν σωτηρίαν",
+    "titulo": "salvação futura",
+    "texto": "Lit. “por causa dos que estão para herdar salvação”. Em Hebreus a salvação é sobretudo a herança futura que os crentes vão receber na volta de Cristo (9:28), e “herdar” liga os crentes ao Filho, que é o herdeiro (v. 2). O tema prepara a advertência de 2:1-4."
+   }
+  ]
+ },
+ "Heb.2.1": {
+  "t": "Por isso é preciso que prestemos ainda mais atenção ao que ouvimos, para que não sejamos arrastados à deriva.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "sejamos arrastados à deriva",
+    "termo": "παραρυῶμεν (pararyōmen)",
+    "titulo": "pararreō, hápax",
+    "texto": "O verbo é “escorrer ao lado, passar levado pela corrente”: um barco que passa o porto sem atracar, ou um anel que escorrega do dedo. Não descreve uma rebelião aberta, mas o afastamento lento de quem se descuida. “Desviar-se” perderia a imagem; “à deriva” a conserva. É a primeira das advertências da carta (2:1-4; 3:7-4:13; 5:11-6:12; 10:26-31; 12:14-29)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "ao que ouvimos",
+    "termo": "τοῖς ἀκουσθεῖσιν (tois akoustheisin)",
+    "titulo": "“às coisas ouvidas”",
+    "texto": "A mensagem de salvação anunciada pelo Senhor e transmitida pelos que o ouviram (v. 3). “Por isso” (dia touto) liga a advertência ao cap. 1: se o Filho é tão superior aos anjos, a palavra dele pede atenção ainda maior."
+   }
+  ]
+ },
+ "Heb.2.2": {
+  "t": "Pois, se a palavra anunciada por meio de anjos permaneceu válida, e toda transgressão e desobediência recebeu a justa retribuição,",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "a palavra anunciada por meio de anjos",
+    "termo": "ὁ δι᾽ ἀγγέλων λαληθεὶς λόγος",
+    "titulo": "a Lei dada por anjos",
+    "texto": "A Lei do Sinai. O AT hebraico não fala de anjos na entrega da Lei, mas a Septuaginta de Dt 33:2 menciona anjos com Deus no Sinai, e a tradição judaica e o NT supõem a sua mediação (At 7:38, 53; Gl 3:19). O argumento é do menor para o maior: se a palavra dada por mediadores tinha tal força, quanto mais a falada pelo Filho."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "permaneceu válida",
+    "termo": "ἐγένετο βέβαιος (egeneto bebaios)",
+    "titulo": "bebaios, termo jurídico",
+    "texto": "Bebaios é “firme, válido, em vigor”, termo usado para contratos e garantias legais; volta no v. 3 (“foi confirmada”). A Lei tinha força de lei: quem a violava sofria a sanção."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "desobediência",
+    "termo": "παρακοὴ (parakoē)",
+    "titulo": "parakoē, raro",
+    "texto": "Lit. “ouvir mal, recusar-se a ouvir”. Há jogo com o “ouvimos” do v. 1: o pecado em vista é o de quem ouve e não dá atenção. Misthapodosia (“retribuição”, lit. “pagamento de salário”) e endikos (“justa”) são raros no NT; a retribuição é merecida, não arbitrária."
+   }
+  ]
+ },
+ "Heb.2.3": {
+  "t": "como escaparemos nós, se descuidarmos de tão grande salvação? Essa salvação, anunciada no começo pelo Senhor, nos foi confirmada pelos que o ouviram,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "se descuidarmos",
+    "termo": "ἀμελήσαντες (amelēsantes)",
+    "titulo": "ameleō",
+    "texto": "“Não fazer caso, negligenciar”. O perigo descrito não é rejeitar abertamente, mas tratar com descaso. O particípio foi traduzido como condição (“se descuidarmos”)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "anunciada no começo pelo Senhor",
+    "termo": "ἀρχὴν λαβοῦσα λαλεῖσθαι διὰ τοῦ κυρίου",
+    "titulo": "“tendo recebido início de ser falada”",
+    "texto": "Lit. “a qual, tendo recebido início de ser falada por meio do Senhor”. O “Senhor” é Jesus, cuja pregação foi o começo do anúncio da salvação (Mc 1:14-15). O período grego foi dividido em dois para a leitura."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "pelos que o ouviram",
+    "termo": "ὑπὸ τῶν ἀκουσάντων",
+    "titulo": "o autor e a segunda geração",
+    "texto": "O autor se inclui entre os que receberam o evangelho por testemunhas que tinham ouvido Jesus. Isso dificulta a atribuição da carta a Paulo, que insiste ter recebido o evangelho diretamente do Senhor (Gl 1:11-12). O autor de Hebreus não é nomeado; desde a Antiguidade se propuseram Paulo, Barnabé (Tertuliano), Lucas, Apolo (Lutero), entre outros. Orígenes concluiu que só Deus sabe quem a escreveu."
+   }
+  ]
+ },
+ "Heb.2.4": {
+  "t": "enquanto Deus também dava testemunho com eles, por meio de sinais, prodígios e milagres de toda espécie, e por dons do Espírito Santo distribuídos segundo a sua vontade.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "dava testemunho com eles",
+    "termo": "συνεπιμαρτυροῦντος (synepimartyrountos)",
+    "titulo": "synepimartyreō, hápax",
+    "texto": "Verbo composto: “testemunhar junto, confirmar acrescentando o próprio testemunho”. Deus acrescentou o seu testemunho ao dos que pregavam. O presente indica ação contínua."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "dons do Espírito Santo distribuídos",
+    "termo": "πνεύματος ἁγίου μερισμοῖς (pneumatos hagiou merismois)",
+    "titulo": "“distribuições do Espírito Santo”",
+    "texto": "Lit. “com distribuições do Espírito Santo”. Pode ser o Espírito que distribui dons (genitivo subjetivo, cf. 1Co 12:11) ou o próprio Espírito distribuído aos crentes em medidas (genitivo objetivo; 6:4 fala dos que “se tornaram participantes do Espírito Santo”). “Dons ... distribuídos” cobre as duas leituras."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "segundo a sua vontade",
+    "termo": "κατὰ τὴν αὐτοῦ θέλησιν (thelēsin)",
+    "titulo": "a vontade de quem?",
+    "texto": "O mais natural é a vontade de Deus, sujeito da frase; alguns a entendem como a do Espírito, à luz de 1Co 12:11. Thelēsis, “vontade, querer”, só aparece aqui no NT."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "sinais, prodígios e milagres",
+    "termo": "σημείοις τε καὶ τέρασιν καὶ ποικίλαις δυνάμεσιν",
+    "titulo": "o trio dos sinais",
+    "texto": "A mesma combinação descreve os sinais do êxodo no AT (Dt 6:22; 34:11) e o ministério de Jesus e dos apóstolos no NT (At 2:22, 43; 2Co 12:12). Dynameis são “atos de poder”."
+   }
+  ]
+ },
+ "Heb.2.5": {
+  "t": "Pois não foi a anjos que ele sujeitou o mundo que há de vir, do qual estamos falando.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "o mundo que há de vir",
+    "termo": "τὴν οἰκουμένην τὴν μέλλουσαν (tēn oikoumenēn tēn mellousan)",
+    "titulo": "oikoumenē",
+    "texto": "Oikoumenē é o “mundo habitado”, a mesma palavra de 1:6. O autor diz que é “deste mundo que estamos falando”: a nova criação em que o Filho foi introduzido na exaltação. “Ele” é Deus."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "não foi a anjos",
+    "termo": "οὐ γὰρ ἀγγέλοις",
+    "titulo": "anjos e nações",
+    "texto": "Segundo a Septuaginta de Dt 32:8, Deus fixou as fronteiras dos povos “segundo o número dos anjos de Deus” (cf. Dn 10:13, 20-21, os “príncipes” das nações). Se este mundo foi posto sob anjos, o mundo futuro não será: será sujeito ao ser humano, na pessoa de Jesus."
+   }
+  ]
+ },
+ "Heb.2.6": {
+  "t": "Pelo contrário, alguém testemunhou em certo lugar: “Que é o homem, para que te lembres dele, ou o filho do homem, para que cuides dele?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "alguém testemunhou em certo lugar",
+    "termo": "διεμαρτύρατο δέ πού τις",
+    "titulo": "citação sem autor",
+    "texto": "Lit. “alguém em algum lugar testemunhou”. Não é esquecimento: para o autor, quem fala no AT é Deus, e o autor humano não importa ao argumento. Fílon de Alexandria usa fórmula semelhante."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Que é o homem",
+    "termo": "τί ἐστιν ἄνθρωπος",
+    "titulo": "Salmo 8:4-6 na Septuaginta",
+    "texto": "Os vv. 6-8 citam o Sl 8:4-6 (LXX 8:5-7), na forma da Septuaginta. No salmo, “homem” e “filho do homem” são paralelos: o ser humano, frágil, a quem Deus deu domínio sobre a criação (Gn 1:26-28). Hebreus lê o salmo em duas etapas: o domínio ainda não se vê na humanidade (v. 8), mas já se vê em Jesus, o homem representativo (v. 9)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "o filho do homem",
+    "termo": "υἱὸς ἀνθρώπου (huios anthrōpou)",
+    "titulo": "“filho do homem” sem artigo",
+    "texto": "Expressão hebraica para “ser humano”, em paralelo com “homem”. Mantida a forma literal, com minúscula, porque o leitor cristão ouve nela o título que Jesus usou para si (“o Filho do Homem”); Hebreus, porém, não faz esse jogo explicitamente e não usa o título em outro lugar."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "cuides dele",
+    "termo": "ἐπισκέπτῃ αὐτόν (episkeptē auton)",
+    "titulo": "“o visites”",
+    "texto": "Lit. “o visites”. No uso bíblico, Deus “visita” para socorrer ou para julgar (Gn 21:1; Lc 1:68). “Cuidar” transmite o sentido de atenção favorável que o salmo tem em vista."
+   }
+  ]
+ },
+ "Heb.2.7": {
+  "t": "Tu o fizeste, por um pouco, menor que os anjos; de glória e de honra o coroaste",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "menor que os anjos",
+    "termo": "παρ᾽ ἀγγέλους (par’ angelous)",
+    "titulo": "a Septuaginta e o hebraico",
+    "texto": "No hebraico do Sl 8:5, “tu o fizeste pouco menor que ʾelohim”, palavra que pode significar “Deus”, “deuses” ou os seres celestiais. A Septuaginta traduziu “anjos”, e Hebreus segue a Septuaginta, que se encaixa na comparação entre o Filho e os anjos (caps. 1-2)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "por um pouco",
+    "termo": "βραχύ τι (brachy ti)",
+    "titulo": "grau ou tempo",
+    "texto": "Brachy ti pode indicar grau (“um pouco menor”), como no hebraico do salmo, ou tempo (“por pouco tempo”). Hebreus aplica a frase a Jesus, que foi rebaixado por um tempo e depois coroado (v. 9), o que favorece o sentido temporal. “Por um pouco” deixa as duas leituras abertas em português."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "o coroaste",
+    "termo": "ἐστεφάνωσας αὐτόν (+ καὶ κατέστησας αὐτὸν ἐπὶ τὰ ἔργα τῶν χειρῶν σου)",
+    "titulo": "linha a mais",
+    "texto": "Westcott-Hort, Tregelles e o Textus Receptus acrescentam: “e o constituíste sobre as obras das tuas mãos”. A linha está na Septuaginta do salmo, e os copistas tendiam a completar as citações; o texto-base, o NA28 e o THGNT não a trazem. Estephanōsas (“coroaste”) é verbo raro no NT."
+   }
+  ]
+ },
+ "Heb.2.8": {
+  "t": "e sujeitaste todas as coisas debaixo dos seus pés”. Ora, ao sujeitar todas as coisas, Deus nada deixou que não lhe estivesse sujeito. Agora, porém, ainda não vemos que todas as coisas lhe estejam sujeitas.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Deus nada deixou",
+    "termo": "οὐδὲν ἀφῆκεν (ouden aphēken)",
+    "titulo": "sujeito implícito",
+    "texto": "O grego diz só “nada deixou”; o sujeito é Deus, que no salmo sujeita tudo ao homem. Explicitado para clareza. O texto-base não tem o autō (“a ele”) que o NA28 e as outras edições trazem depois de “sujeitar”, sem mudança de sentido."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "ainda não vemos",
+    "termo": "νῦν δὲ οὔπω ὁρῶμεν",
+    "titulo": "a quem ainda não está tudo sujeito?",
+    "texto": "O “lhe” pode ser o ser humano em geral, de quem o salmo fala (a criação ainda não está sob o domínio da humanidade), ou Jesus, cujos inimigos ainda não foram postos debaixo dos pés (1:13; 10:13). As duas leituras se encontram no v. 9: o destino da humanidade se cumpre primeiro em Jesus."
+   }
+  ]
+ },
+ "Heb.2.9": {
+  "t": "Mas vemos aquele que foi feito, por um pouco, menor que os anjos, Jesus, coroado de glória e de honra por causa do sofrimento da morte, para que, sem Deus, ele provasse a morte em favor de todos.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "sem Deus",
+    "termo": "χωρὶς θεοῦ (chōris theou) / χάριτι θεοῦ (chariti theou)",
+    "titulo": "“sem Deus” ou “pela graça de Deus”",
+    "texto": "O texto-base (SBLGNT) traz chōris theou, “sem Deus, à parte de Deus”. Todas as outras edições comparadas (NA28, THGNT, Westcott-Hort, Tregelles, Textus Receptus e Texto Bizantino) trazem chariti theou, “pela graça de Deus”, que é a leitura da grande maioria dos manuscritos. Chōris theou tem apoio em poucos manuscritos gregos, mas era conhecida por Orígenes e outros Pais antigos, que a discutem como leitura difundida no seu tempo. A favor de chōris: é a leitura mais difícil, e é fácil explicar por que um copista a trocaria por chariti (palavras parecidas, e “sem Deus” soava ofensivo), mas não o contrário; e Hebreus insiste no abandono e no clamor de Jesus diante da morte (5:7; 13:12-13). A favor de chariti: o apoio dos manuscritos e o tema da graça na carta (4:16; 10:29; 12:15); Metzger, na comissão do texto da UBS, julga chōris uma nota de margem que entrou no texto. A APV segue o texto-base, como em todo o NT. Sentidos possíveis de “sem Deus”: Jesus morreu abandonado por Deus (cf. Mc 15:34); ou morreu por todos, exceto Deus (cf. 1Co 15:27). Quem preferir a leitura majoritária lerá: “para que, pela graça de Deus, ele provasse a morte em favor de todos”.",
+    "revisar": true
+   },
+   {
+    "tipo": "tn",
+    "ancora": "coroado de glória e de honra por causa do sofrimento da morte",
+    "termo": "διὰ τὸ πάθημα τοῦ θανάτου δόξῃ καὶ τιμῇ ἐστεφανωμένον",
+    "titulo": "a ordem do argumento",
+    "texto": "A coroação é consequência do sofrimento da morte (cf. Fp 2:8-9). A oração final (“para que ... provasse a morte”) não depende de “coroado”, mas de todo o movimento descrito: Jesus foi feito menor que os anjos, isto é, homem mortal, com a finalidade de morrer por todos."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "provasse a morte",
+    "termo": "γεύσηται θανάτου (geusētai thanatou)",
+    "titulo": "“provar a morte”",
+    "texto": "Expressão semítica para “experimentar a morte”, isto é, morrer de verdade (Mc 9:1; Jo 8:52). Não sugere um contato apenas superficial."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "em favor de todos",
+    "termo": "ὑπὲρ παντὸς (hyper pantos)",
+    "titulo": "“todos” ou “tudo”",
+    "texto": "Pantos pode ser masculino (“cada pessoa, todos”) ou neutro (“tudo”, toda a criação). O contexto, que fala dos “muitos filhos” e dos “irmãos” (vv. 10-12), favorece o masculino. O singular sublinha cada pessoa."
+   }
+  ]
+ },
+ "Heb.2.10": {
+  "t": "Pois convinha que aquele para quem e por meio de quem existem todas as coisas, ao conduzir muitos filhos à glória, aperfeiçoasse por meio de sofrimentos o pioneiro da salvação deles.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "convinha",
+    "termo": "ἔπρεπεν (eprepen)",
+    "titulo": "prepō",
+    "texto": "“Era apropriado, condizia com”. O autor diz que o caminho do sofrimento era digno de Deus, coerente com o seu caráter, e não uma derrota ou um acidente."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "ao conduzir muitos filhos à glória",
+    "termo": "πολλοὺς υἱοὺς εἰς δόξαν ἀγαγόντα",
+    "titulo": "quem conduz?",
+    "texto": "O particípio no acusativo pode referir-se a Deus (“Deus, ao conduzir muitos filhos”) ou ao pioneiro (“o pioneiro que conduz muitos filhos”). A APV o liga a Deus, sujeito lógico do infinitivo, mas a outra leitura combina com o sentido de “pioneiro”. “Filhos” (huioi) inclui as filhas: são todos os que participam da filiação do Filho."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "pioneiro",
+    "termo": "ἀρχηγὸν (archēgon)",
+    "titulo": "archēgos",
+    "texto": "O archēgos é o líder que vai à frente e abre caminho para os que o seguem; também o fundador ou iniciador. “Autor” (ARC) acentua a origem; “príncipe”, a autoridade. “Pioneiro” guarda a imagem de quem conduz e chega primeiro, que combina com “conduzir muitos filhos à glória” (cf. 6:20, “precursor”; 12:2)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "aperfeiçoasse",
+    "termo": "τελειῶσαι (teleiōsai)",
+    "titulo": "teleioō",
+    "texto": "“Levar à perfeição, ao fim, à plena realização”. Não significa que Jesus tivesse defeito moral (4:15). Na Septuaginta do Pentateuco, o verbo descreve a consagração do sacerdote (Êx 29:9; Lv 8:33). Em Hebreus, Jesus é “aperfeiçoado” ao completar, pelo sofrimento e pela obediência, o caminho que o torna sumo sacerdote plenamente qualificado (5:8-10; 7:28)."
+   }
+  ]
+ },
+ "Heb.2.11": {
+  "t": "Pois tanto o que santifica como os que são santificados vêm todos de uma só origem. Por isso ele não se envergonha de chamá-los irmãos,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "de uma só origem",
+    "termo": "ἐξ ἑνὸς (ex henos)",
+    "titulo": "“de um”",
+    "texto": "Lit. “de um”. Pode ser de um só Pai, Deus (leitura mais comum), de um só antepassado (Adão ou Abraão, v. 16) ou de uma mesma humanidade (“da mesma natureza”). “De uma só origem” deixa a questão aberta, como o grego."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "irmãos",
+    "termo": "ἀδελφοὺς (adelphous)",
+    "titulo": "adelphoi",
+    "texto": "O plural masculino inclui as irmãs: a palavra designa toda a família de fé. Mantido “irmãos”, forma usada nas igrejas, com esta nota."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "o que santifica",
+    "termo": "ὁ ἁγιάζων (ho hagiazōn)",
+    "titulo": "santificar",
+    "texto": "Santificar é separar para Deus e tornar apto para a sua presença. Em Hebreus é obra do sacrifício de Cristo (10:10, 14; 13:12), ligada à purificação dos pecados (1:3)."
+   }
+  ]
+ },
+ "Heb.2.12": {
+  "t": "dizendo: “Anunciarei o teu nome aos meus irmãos; no meio da assembleia cantarei louvores a ti”.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Anunciarei o teu nome aos meus irmãos",
+    "termo": "ἀπαγγελῶ τὸ ὄνομά σου τοῖς ἀδελφοῖς μου",
+    "titulo": "Salmo 22:22",
+    "texto": "Citação do Sl 22:22 (LXX 21:23). O salmo começa com o clamor que Jesus disse na cruz (“Meu Deus, meu Deus, por que me abandonaste?”, Mc 15:34) e termina com louvor na assembleia. Hebreus põe a segunda parte na boca de Jesus ressuscitado. Apangelō (“anunciarei”) difere do diēgēsomai (“narrarei”) da Septuaginta, sem mudança de sentido; o hebraico tem ʾasapperah, “contarei”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "assembleia",
+    "termo": "ἐκκλησίας (ekklēsias)",
+    "titulo": "ekklēsia",
+    "texto": "Nas cartas a APV traduz ekklēsia por “igreja”: “assembleia, comunidade convocada”. Aqui, numa citação do salmo, a palavra traduz o hebraico qahal, a assembleia de Israel reunida para o culto; por isso “assembleia”. O autor vê nela, porém, a comunidade dos irmãos de Cristo (cf. 12:23)."
+   }
+  ]
+ },
+ "Heb.2.13": {
+  "t": "E ainda: “Eu porei nele a minha confiança”. E ainda: “Aqui estou eu e os filhos que Deus me deu”.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Eu porei nele a minha confiança",
+    "termo": "ἐγὼ ἔσομαι πεποιθὼς ἐπ᾽ αὐτῷ",
+    "titulo": "Isaías 8:17",
+    "texto": "Lit. “eu estarei confiando nele”. A forma corresponde à Septuaginta de Is 8:17 (também 2Sm 22:3; Is 12:2). O hebraico de Is 8:17 diz “esperarei nele”. Jesus, como homem, vive em confiança em Deus, como os seus irmãos."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Aqui estou eu e os filhos que Deus me deu",
+    "termo": "ἰδοὺ ἐγὼ καὶ τὰ παιδία ἅ μοι ἔδωκεν ὁ θεός",
+    "titulo": "Isaías 8:18",
+    "texto": "Citação de Is 8:18, igual na Septuaginta e no hebraico. Em Isaías, o profeta e os seus filhos são sinais para Israel. Hebreus a põe na boca de Jesus: os “filhos” são os que Deus lhe deu, membros da mesma família (cf. Jo 6:37; 17:6)."
+   }
+  ]
+ },
+ "Heb.2.14": {
+  "t": "Portanto, visto que os filhos têm em comum sangue e carne, também ele, da mesma forma, participou dessas mesmas coisas, para que, por meio da morte, reduzisse à impotência aquele que tem o domínio da morte, isto é, o diabo,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "sangue e carne",
+    "termo": "αἵματος καὶ σαρκός (haimatos kai sarkos)",
+    "titulo": "a natureza humana",
+    "texto": "Expressão para a condição humana mortal (Mt 16:17; Gl 1:16). Aqui sarx é a humanidade frágil, sem o sentido moral negativo de Gl 5; mantido “carne” no par fixo. O Textus Receptus e o Texto Bizantino trazem a ordem “carne e sangue”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "participou",
+    "termo": "μετέσχεν (meteschen)",
+    "titulo": "do perfeito ao aoristo",
+    "texto": "Os filhos “têm em comum” (perfeito: é a condição permanente deles); o Filho “participou” (aoristo: um ato, a encarnação). Paraplēsiōs (“da mesma forma”, hápax) indica semelhança real, não aparente."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "reduzisse à impotência",
+    "termo": "καταργήσῃ (katargēsē)",
+    "titulo": "katargeō",
+    "texto": "“Tornar inoperante, tirar a força, anular”. O diabo não deixa de existir, mas perde o poder que tinha sobre os que temiam a morte. “Destruir” (ARC) é possível, mas sugere aniquilação."
+   }
+  ]
+ },
+ "Heb.2.15": {
+  "t": "e libertasse todos aqueles que, pelo medo da morte, estavam sujeitos à escravidão durante toda a vida.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "libertasse",
+    "termo": "ἀπαλλάξῃ (apallaxē)",
+    "titulo": "apallassō, raro",
+    "texto": "“Livrar, soltar, pôr em liberdade”; usado para a libertação de um escravo ou de um prisioneiro. Combina com “escravidão” no fim do versículo."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "pelo medo da morte",
+    "termo": "φόβῳ θανάτου",
+    "titulo": "o medo que escraviza",
+    "texto": "O medo da morte é apresentado como a corrente com que o diabo mantém os seres humanos cativos. A morte de Jesus quebra esse poder, porque a morte já não é a última palavra (cf. 1Co 15:54-57)."
+   }
+  ]
+ },
+ "Heb.2.16": {
+  "t": "Pois é claro que não é de anjos que ele cuida, mas da descendência de Abraão.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "cuida",
+    "termo": "ἐπιλαμβάνεται (epilambanetai)",
+    "titulo": "epilambanomai",
+    "texto": "Lit. “toma pela mão”, “segura”; daí “socorrer, vir em auxílio” (cf. 8:9, citando Jr 31:32: “quando os tomei pela mão”). Muitos Pais e a ARC (“não tomou os anjos, mas tomou a descendência de Abraão”) entenderam “assumir a natureza”, mas o verbo no presente e o contexto (vv. 15, 18) apontam para o socorro."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "descendência de Abraão",
+    "termo": "σπέρματος Ἀβραὰμ (spermatos Abraam)",
+    "titulo": "“semente de Abraão”",
+    "texto": "Lit. “semente de Abraão”. O povo de Deus, herdeiro das promessas (6:13-20; cf. Gl 3:29). Os destinatários, provavelmente cristãos de origem judaica, se reconheceriam nessa expressão."
+   }
+  ]
+ },
+ "Heb.2.17": {
+  "t": "Por isso era necessário que ele se tornasse em tudo semelhante aos irmãos, para ser um sumo sacerdote misericordioso e fiel nas coisas que dizem respeito a Deus, a fim de fazer propiciação pelos pecados do povo.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "sumo sacerdote",
+    "termo": "ἀρχιερεὺς (archiereus)",
+    "titulo": "o tema central",
+    "texto": "Primeira vez que Jesus é chamado “sumo sacerdote”, o tema central da carta (3:1; 4:14-10:18). No AT, o sumo sacerdote entrava uma vez por ano no Santo dos Santos, no Dia da Expiação, com sangue pelos pecados do povo (Lv 16)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "fazer propiciação",
+    "termo": "ἱλάσκεσθαι (hilaskesthai)",
+    "titulo": "hilaskomai",
+    "texto": "Hilaskomai e a família de hilastērion (9:5) descrevem o sacrifício que afasta a ira de Deus contra o pecado (propiciação) e, ao mesmo tempo, apaga o pecado (expiação). Como aqui o objeto é “os pecados”, alguns preferem “fazer expiação pelos pecados” (C. H. Dodd); outros (L. Morris) mostram que a ideia de aplacar a ira não pode ser separada do termo. A APV usa “propiciação” como termo fixo, com o duplo sentido."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "misericordioso e fiel",
+    "termo": "ἐλεήμων ... καὶ πιστὸς (eleēmōn ... kai pistos)",
+    "titulo": "dois adjetivos-tema",
+    "texto": "Os dois adjetivos anunciam as duas seções seguintes: Jesus é fiel (3:1-6) e é misericordioso, capaz de compadecer-se (4:14-5:10). Pistos pode ser “fiel” ou “digno de confiança”; aqui as duas ideias se juntam."
+   }
+  ]
+ },
+ "Heb.2.18": {
+  "t": "Porque, tendo ele mesmo sofrido ao ser tentado, é capaz de socorrer os que estão sendo tentados.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "ao ser tentado",
+    "termo": "πειρασθείς (peirastheis)",
+    "titulo": "peirazō: “tentar” ou “provar”",
+    "texto": "Peirazō significa “pôr à prova” e também “tentar” para o mal. Para Jesus, a prova foi sobretudo o sofrimento e a pressão para fugir do caminho da cruz (5:7-8); 4:15 dirá que foi tentado em tudo, sem pecado. Mantido “tentar” pela continuidade com 4:15, entendendo-se a prova inteira."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "tendo ele mesmo sofrido",
+    "termo": "ἐν ᾧ γὰρ πέπονθεν αὐτὸς",
+    "titulo": "en hō",
+    "texto": "En hō pode ser causal (“visto que”) ou significar “naquilo em que”: ele socorre exatamente no ponto em que sofreu a prova. A tradução por particípio deixa os dois matizes. O perfeito (peponthen) indica que a experiência de sofrimento permanece nele."
+   }
+  ]
+ }
+}

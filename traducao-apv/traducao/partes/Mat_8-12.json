@@ -1,0 +1,698 @@
+{
+ "Mat.8.1": {
+  "t": "Quando ele desceu do monte, grandes multidões o seguiram.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "desceu do monte",
+    "termo": "Καταβάντος ... ἀπὸ τοῦ ὄρους",
+    "titulo": "depois do Sermão do Monte",
+    "texto": "Fecha a moldura aberta em 5:1 (“subiu ao monte”). Depois de mostrar Jesus com autoridade nas palavras (caps. 5-7), Mateus o mostra com autoridade nas obras (caps. 8-9): dez milagres em três blocos, entremeados de chamados ao discipulado."
+   }
+  ]
+ },
+ "Mat.8.2": {
+  "t": "E eis que um leproso se aproximou, prostrou-se diante dele e disse: “Senhor, se quiser, pode me purificar.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "leproso",
+    "termo": "λεπρός (lepros)",
+    "titulo": "lepros",
+    "texto": "Na Bíblia, “lepra” (hebraico tsara‘at, grego lepra) designa várias doenças de pele que tornavam a pessoa ritualmente impura (Lv 13-14), não apenas a hanseníase moderna. Mantida a palavra tradicional; o leitor deve saber que o termo era mais amplo."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "prostrou-se diante dele",
+    "termo": "προσεκύνει αὐτῷ (prosekynei autō)",
+    "titulo": "proskyneō",
+    "texto": "Inclinar-se até o chão diante de alguém. Pode ser homenagem a um superior ou adoração a Deus. Mateus usa o verbo com frequência para os que se aproximam de Jesus (2:11; 14:33; 28:9, 17). “Prostrou-se” descreve o gesto sem decidir quanto o leproso entendia; o leitor de Mateus sabe a quem o gesto se dirige."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "purificar",
+    "termo": "καθαρίσαι (katharisai)",
+    "titulo": "katharizō",
+    "texto": "Lit. “limpar”. O leproso não pede só cura, mas purificação: voltar a ser limpo diante da Lei e poder voltar ao convívio e ao culto. Por isso “purificar”, e não “curar”."
+   }
+  ]
+ },
+ "Mat.8.3": {
+  "t": "Ele estendeu a mão, tocou nele e disse: “Quero. Seja purificado.” E no mesmo instante ele ficou purificado da lepra.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "tocou nele",
+    "termo": "ἥψατο αὐτοῦ (hēpsato autou)",
+    "titulo": "o toque",
+    "texto": "Tocar um leproso tornava a pessoa impura (Lv 5:3; 13:45-46). Aqui a pureza passa na direção contrária: Jesus não fica impuro; o leproso fica limpo."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "ele ficou purificado da lepra",
+    "termo": "ἐκαθαρίσθη αὐτοῦ ἡ λέπρα",
+    "titulo": "“foi purificada a sua lepra”",
+    "texto": "Lit. “foi purificada a lepra dele”. Em português, “purificar a lepra” soa estranho; por isso o sujeito passou a ser o homem. O sentido não muda."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Ele estendeu a mão",
+    "termo": "καὶ ἐκτείνας τὴν χεῖρα",
+    "titulo": "“Jesus”",
+    "texto": "O Textus Receptus e o Texto Bizantino acrescentam “Jesus” como sujeito. O texto crítico não traz o nome; o sujeito fica claro pelo contexto."
+   }
+  ]
+ },
+ "Mat.8.4": {
+  "t": "Então Jesus lhe disse: “Olhe, não conte isso a ninguém. Mas vá, mostre-se ao sacerdote e apresente a oferta que Moisés ordenou, para que sirva de testemunho a eles.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "mostre-se ao sacerdote e apresente a oferta que Moisés ordenou",
+    "termo": "σεαυτὸν δεῖξον τῷ ἱερεῖ καὶ προσένεγκον τὸ δῶρον",
+    "titulo": "Levítico 14",
+    "texto": "O ritual de purificação do leproso curado está em Lv 14:1-32: o sacerdote examinava a pessoa e oferecia sacrifícios em seu favor. Jesus não dispensa a Lei; manda cumpri-la."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "não conte isso a ninguém",
+    "termo": "ὅρα μηδενὶ εἴπῃς",
+    "titulo": "a ordem de silêncio",
+    "texto": "Lit. “vê, a ninguém digas”. É a primeira das ordens de silêncio em Mateus (9:30; 12:16; 16:20; 17:9). A razão mais provável é evitar que Jesus fosse visto apenas como curandeiro ou como libertador político antes da hora (12:16-21)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "para que sirva de testemunho a eles",
+    "termo": "εἰς μαρτύριον αὐτοῖς (eis martyrion autois)",
+    "titulo": "testemunho a quem?",
+    "texto": "“A eles” pode ser os sacerdotes ou o povo em geral. O testemunho pode ser a prova pública de que o homem está limpo ou a prova de quem Jesus é (cf. 11:5). Também pode ter o sentido de “testemunho contra eles”, se não crerem (10:18). A tradução literal deixa as possibilidades abertas."
+   }
+  ]
+ },
+ "Mat.8.5": {
+  "t": "Quando Jesus entrou em Cafarnaum, um centurião se aproximou dele, suplicando-lhe",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "centurião",
+    "termo": "ἑκατόνταρχος (hekatontarchos)",
+    "titulo": "hekatontarchos",
+    "texto": "Oficial que comandava cerca de cem soldados. Na Galileia de Herodes Antipas, provavelmente servia às tropas do tetrarca, organizadas à maneira romana. Pelo contexto (vv. 10-12), era gentio."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Quando Jesus entrou",
+    "termo": "Εἰσελθόντος δὲ αὐτοῦ (eiselthontos de autou)",
+    "titulo": "“quando ele entrou”",
+    "texto": "O grego diz “ele”. O nome foi usado para clareza, porque o versículo introduz outra personagem. O Textus Receptus traz mesmo o nome (tō Iēsou), em outra construção."
+   }
+  ]
+ },
+ "Mat.8.6": {
+  "t": "dizendo: “Senhor, o meu servo está de cama em casa, paralítico, sofrendo terrivelmente.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "servo",
+    "termo": "παῖς (pais)",
+    "titulo": "pais: “servo” ou “menino”",
+    "texto": "Pais pode ser “menino, filho” ou “servo, criado”. No v. 9 o centurião fala do seu doulos (“servo”), e em Lc 7:2 o mesmo doente é chamado doulos. Por isso “servo”. Alguns leem “filho” (cf. Jo 4:46-53), mas o paralelo de Lucas favorece “servo”. Pais não é a palavra técnica para escravo; sugere um servo jovem da casa."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "sofrendo terrivelmente",
+    "termo": "δεινῶς βασανιζόμενος (deinōs basanizomenos)",
+    "titulo": "deinōs, raro",
+    "texto": "Deinōs (só aqui e em Lc 11:53) é “terrivelmente, de modo assustador”. Basanizō é “atormentar”, usado também para tortura. A expressão descreve dor intensa."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "está de cama",
+    "termo": "βέβληται (beblētai)",
+    "titulo": "“está lançado”",
+    "texto": "Perfeito passivo de ballō, “lançar”: “está prostrado, jogado na cama” e não consegue se levantar."
+   }
+  ]
+ },
+ "Mat.8.7": {
+  "t": "Ele lhe disse: “Eu irei curá-lo.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Eu irei curá-lo",
+    "termo": "ἐγὼ ἐλθὼν θεραπεύσω αὐτόν",
+    "titulo": "afirmação ou pergunta?",
+    "texto": "O grego não tinha sinais de pontuação, e a frase pode ser lida como afirmação (“Eu irei curá-lo”) ou como pergunta (“Devo eu ir curá-lo?”). A pergunta explicaria a resposta humilde do centurião (v. 8) e lembraria a reserva de Jesus com a mulher cananeia (15:24-26), já que um judeu entrar na casa de um gentio era problema (At 10:28). A afirmação é a leitura tradicional e mais simples, e foi mantida; o “eu” enfático (egō) pode servir às duas leituras.",
+    "revisar": true
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Ele lhe disse",
+    "termo": "καὶ λέγει αὐτῷ",
+    "titulo": "“Jesus”",
+    "texto": "Tregelles, o Textus Receptus e o Texto Bizantino trazem “Jesus” como sujeito; o SBLGNT e o NA28 não. Sem efeito no sentido."
+   }
+  ]
+ },
+ "Mat.8.8": {
+  "t": "O centurião respondeu: “Senhor, não sou digno de que o senhor entre debaixo do meu teto. Mas diga apenas uma palavra, e o meu servo será curado.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "não sou digno",
+    "termo": "οὐκ εἰμὶ ἱκανός (ouk eimi hikanos)",
+    "titulo": "hikanos",
+    "texto": "Lit. “não sou suficiente, apto”. É o mesmo adjetivo de João Batista em 3:11 (“não sou digno de levar as sandálias”). Aqui expressa humildade diante de Jesus, e talvez a consciência de que a casa de um gentio tornaria impuro um judeu."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "diga apenas uma palavra",
+    "termo": "μόνον εἰπὲ λόγῳ (monon eipe logō)",
+    "titulo": "“dize com uma palavra”",
+    "texto": "Lit. “somente dize com palavra”. O dativo logō indica o meio: basta a palavra, sem presença física. O Textus Receptus traz logon (“dize uma palavra”), sem diferença de sentido."
+   }
+  ]
+ },
+ "Mat.8.9": {
+  "t": "Pois eu também sou homem sujeito a autoridade e tenho soldados sob as minhas ordens. Digo a este: ‘Vá’, e ele vai; e a outro: ‘Venha’, e ele vem; e ao meu servo: ‘Faça isto’, e ele faz.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "servo",
+    "termo": "δούλῳ (doulō)",
+    "titulo": "doulos: “servo” ou “escravo”",
+    "texto": "Primeira ocorrência de doulos em Mateus. A palavra designa o escravo, que pertence a outro e não dispõe de si. A APV traduz por “servo” em todo o NT, porque “escravo”, no Brasil, evoca de imediato a escravidão africana e esconde o eco bíblico (Moisés e Davi são “servos” de Deus). O leitor deve lembrar que a relação era de propriedade. Note que o doente do v. 6 é chamado pais, palavra diferente."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "eu também sou homem sujeito a autoridade",
+    "termo": "καὶ γὰρ ἐγὼ ἄνθρωπός εἰμι ὑπὸ ἐξουσίαν",
+    "titulo": "o raciocínio do centurião",
+    "texto": "O argumento vai do menor ao maior: o centurião obedece a superiores e é obedecido pelos subordinados; sua palavra tem força porque ele está numa cadeia de autoridade. Jesus tem autoridade sobre a doença, e por isso basta uma palavra dele. O “também” (kai) supõe que Jesus exerce autoridade recebida de Deus (cf. 28:18)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "sujeito a autoridade",
+    "termo": "ὑπὸ ἐξουσίαν (+ τασσόμενος)",
+    "titulo": "acréscimo de Westcott-Hort",
+    "texto": "Westcott-Hort acrescenta tassomenos (“posto sob autoridade”), forma que aparece no paralelo de Lc 7:8. Os demais textos-base não a trazem. Sem efeito no sentido."
+   }
+  ]
+ },
+ "Mat.8.10": {
+  "t": "Ao ouvir isso, Jesus ficou admirado e disse aos que o seguiam: “Em verdade lhes digo: não encontrei em ninguém em Israel uma fé tão grande.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "não encontrei em ninguém em Israel uma fé tão grande",
+    "termo": "παρ᾽ οὐδενὶ τοσαύτην πίστιν ἐν τῷ Ἰσραὴλ εὗρον",
+    "titulo": "“em ninguém” ou “nem mesmo”",
+    "texto": "O texto crítico traz par’ oudeni (“junto de ninguém”). O Textus Receptus e o Texto Bizantino trazem oude en tō Israēl (“nem mesmo em Israel encontrei tanta fé”), forma igual à do paralelo de Lc 7:9. O sentido é muito próximo; a forma crítica é mais contundente."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Jesus ficou admirado",
+    "termo": "ὁ Ἰησοῦς ἐθαύμασεν",
+    "titulo": "a admiração de Jesus",
+    "texto": "Só duas vezes os Evangelhos dizem que Jesus se admirou: aqui, com a fé de um gentio, e em Mc 6:6, com a incredulidade da sua própria terra."
+   }
+  ]
+ },
+ "Mat.8.11": {
+  "t": "Eu lhes digo que muitos virão do oriente e do ocidente e se sentarão à mesa com Abraão, Isaque e Jacó no Reino dos céus.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "se sentarão à mesa",
+    "termo": "ἀνακλιθήσονται (anaklithēsontai)",
+    "titulo": "anaklinomai",
+    "texto": "Lit. “reclinar-se”. Nos banquetes, os convidados comiam reclinados em divãs. A imagem é a do banquete messiânico (Is 25:6-8). “Sentar-se à mesa” é o equivalente natural em português."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "muitos virão do oriente e do ocidente",
+    "termo": "πολλοὶ ἀπὸ ἀνατολῶν καὶ δυσμῶν ἥξουσιν",
+    "titulo": "a reunião dos povos",
+    "texto": "Os profetas falam da reunião dos dispersos de Israel vindos de todas as direções (Sl 107:3; Is 43:5-6; 49:12). Jesus aplica a imagem aos gentios, como o centurião, que se assentam com os patriarcas (cf. Is 2:2-3; Ml 1:11)."
+   }
+  ]
+ },
+ "Mat.8.12": {
+  "t": "Mas os filhos do Reino serão lançados para fora, nas trevas exteriores. Ali haverá choro e ranger de dentes.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "os filhos do Reino",
+    "termo": "οἱ υἱοὶ τῆς βασιλείας",
+    "titulo": "expressão semítica",
+    "texto": "“Filhos de” indica pertença: os que seriam herdeiros naturais do Reino, isto é, Israel, que tinha as promessas. A advertência não diz que todo Israel será excluído, mas que pertencer ao povo por nascimento não garante lugar no banquete. Mantida a forma literal, porque a expressão volta em 13:38 com sentido diferente (os que pertencem de fato ao Reino)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "trevas exteriores",
+    "termo": "τὸ σκότος τὸ ἐξώτερον (to skotos to exōteron)",
+    "titulo": "exōteros, raro",
+    "texto": "Exōteros (“o de fora, o mais exterior”) só aparece em Mateus (8:12; 22:13; 25:30), sempre nesta expressão. A imagem é a da escuridão fora da sala iluminada do banquete. Mantida a forma tradicional, que é compreensível."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "choro e ranger de dentes",
+    "termo": "ὁ κλαυθμὸς καὶ ὁ βρυγμὸς τῶν ὀδόντων",
+    "titulo": "fórmula de juízo",
+    "texto": "Mateus usa a fórmula seis vezes (13:42, 50; 22:13; 24:51; 25:30). O choro é dor; o ranger de dentes, angústia e raiva (Sl 112:10). A tradução não suaviza a imagem."
+   }
+  ]
+ },
+ "Mat.8.13": {
+  "t": "Então Jesus disse ao centurião: “Vá. Seja feito a você conforme você creu.” E naquela mesma hora o servo foi curado.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Seja feito a você conforme você creu",
+    "termo": "ὡς ἐπίστευσας γενηθήτω σοι",
+    "titulo": "imperativo passivo",
+    "texto": "Lit. “como creste, seja-te feito”. O imperativo passivo é uma ordem que se cumpre por poder divino. A mesma estrutura volta em 9:29 e 15:28."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "o servo foi curado",
+    "termo": "ἰάθη ὁ παῖς (+ αὐτοῦ)",
+    "titulo": "“o servo” ou “o seu servo”",
+    "texto": "O NA28, o Textus Receptus e o Texto Bizantino trazem autou (“o seu servo”); o SBLGNT não. Sem efeito no sentido."
+   }
+  ]
+ },
+ "Mat.8.14": {
+  "t": "Jesus entrou na casa de Pedro e viu a sogra dele deitada, com febre.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "a sogra dele",
+    "termo": "τὴν πενθερὰν αὐτοῦ",
+    "titulo": "Pedro era casado",
+    "texto": "Pedro era casado, e mais tarde a esposa o acompanhava nas viagens missionárias (1Co 9:5). A casa ficava em Cafarnaum (Mc 1:21, 29)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "deitada",
+    "termo": "βεβλημένην (beblēmenēn)",
+    "titulo": "“lançada”",
+    "texto": "O mesmo verbo do v. 6: “jogada na cama”, sem forças. Pyressō (“ter febre”) é raro (aqui e em Mc 1:30)."
+   }
+  ]
+ },
+ "Mat.8.15": {
+  "t": "Ele tocou a mão dela, e a febre a deixou. Ela se levantou e começou a servi-lo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "começou a servi-lo",
+    "termo": "διηκόνει αὐτῷ (diēkonei autō)",
+    "titulo": "diakoneō",
+    "texto": "O imperfeito indica o início de uma ação que continua: “passou a servi-lo”. Diakoneō é servir à mesa, mas no NT também é o serviço aos outros que caracteriza o discípulo (20:26-28). A cura devolve a mulher à vida e ao serviço."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "servi-lo",
+    "termo": "αὐτῷ (autō)",
+    "titulo": "“servi-lo” ou “servi-los”",
+    "texto": "O Textus Receptus traz autois (“servi-los”), como em Mc 1:31 e Lc 4:39. O texto crítico e o Texto Bizantino trazem o singular, que concentra a cena em Jesus."
+   }
+  ]
+ },
+ "Mat.8.16": {
+  "t": "Ao cair da tarde, trouxeram-lhe muitos endemoninhados. Ele expulsou os espíritos com uma palavra e curou todos os que estavam doentes,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "endemoninhados",
+    "termo": "δαιμονιζομένους (daimonizomenous)",
+    "titulo": "daimonizomai",
+    "texto": "Lit. “os que estavam sob a ação de demônios”. “Endemoninhados” é a palavra tradicional. O NT distingue com frequência a possessão da doença comum, como aqui: “expulsou os espíritos” e “curou os doentes”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "com uma palavra",
+    "termo": "λόγῳ (logō)",
+    "titulo": "a palavra que basta",
+    "texto": "Retoma o v. 8 (“diga apenas uma palavra”): a autoridade de Jesus está na sua palavra, sem ritos nem fórmulas mágicas."
+   }
+  ]
+ },
+ "Mat.8.17": {
+  "t": "para que se cumprisse o que foi dito por meio do profeta Isaías: “Ele tomou as nossas enfermidades e carregou as nossas doenças.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Ele tomou as nossas enfermidades e carregou as nossas doenças",
+    "termo": "αὐτὸς τὰς ἀσθενείας ἡμῶν ἔλαβεν καὶ τὰς νόσους ἐβάστασεν",
+    "titulo": "Isaías 53:4",
+    "texto": "Citação de Is 53:4, o canto do Servo sofredor. Mateus segue o hebraico (“as nossas enfermidades ele levou, e as nossas dores carregou”), e não a Septuaginta, que diz “ele carrega os nossos pecados e sofre por nós”. Para Mateus, as curas de Jesus já mostram a obra do Servo que leva sobre si o mal humano."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "tomou",
+    "termo": "ἔλαβεν (elaben)",
+    "titulo": "cura e expiação",
+    "texto": "O versículo é central no debate sobre a cura “na expiação”. Tradições pentecostais e carismáticas veem aqui a base para esperar cura física como fruto da obra de Cristo; outras entendem que Mateus aplica Is 53:4 ao ministério terreno de Jesus, e que a cura completa do corpo pertence à ressurreição. As duas posições concordam que Jesus cura, e que o texto liga as curas ao Servo de Isaías 53, que também morre pelos pecados (Is 53:5-12)."
+   }
+  ]
+ },
+ "Mat.8.18": {
+  "t": "Quando Jesus viu grandes multidões ao seu redor, deu ordem para passarem para a outra margem.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "grandes multidões",
+    "termo": "πολλοὺς ὄχλους (pollous ochlous)",
+    "titulo": "“multidões” ou “a multidão”",
+    "texto": "O SBLGNT, Tregelles, o Textus Receptus e o Texto Bizantino trazem “muitas multidões”; o NA28 e Westcott-Hort, só “a multidão” (ochlon), com manuscritos antigos como B. Sem efeito importante no sentido."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "a outra margem",
+    "termo": "τὸ πέραν (to peran)",
+    "titulo": "“o outro lado”",
+    "texto": "Lit. “o outro lado”, isto é, do mar da Galileia. O destino é a margem oriental, região de população em boa parte gentia (v. 28)."
+   }
+  ]
+ },
+ "Mat.8.19": {
+  "t": "Então um escriba se aproximou e lhe disse: “Mestre, eu seguirei você aonde quer que você vá.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Mestre",
+    "termo": "διδάσκαλε (didaskale)",
+    "titulo": "como chamam Jesus",
+    "texto": "Em Mateus, os discípulos chamam Jesus de “Senhor” (kyrie, v. 21), enquanto escribas, fariseus e outros de fora o chamam de “Mestre” (12:38; 19:16; 22:16). O tratamento pode sugerir que o escriba ainda não compreende quem é Jesus. Judas também o chama de “Rabi” (26:25, 49)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "um escriba",
+    "termo": "εἷς γραμματεύς (heis grammateus)",
+    "titulo": "heis",
+    "texto": "Lit. “um só escriba”. O numeral heis funciona aqui como artigo indefinido, uso comum no grego da época (cf. 9:18)."
+   }
+  ]
+ },
+ "Mat.8.20": {
+  "t": "Jesus lhe respondeu: “As raposas têm tocas, e as aves do céu têm ninhos, mas o Filho do Homem não tem onde reclinar a cabeça.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "o Filho do Homem",
+    "termo": "ὁ υἱὸς τοῦ ἀνθρώπου (ho huios tou anthrōpou)",
+    "titulo": "Filho do Homem",
+    "texto": "Primeira ocorrência em Mateus. Em hebraico e aramaico, “filho de homem” significa simplesmente “ser humano” (Sl 8:4; Ez 2:1). Mas em Dn 7:13-14 “um como filho de homem” vem com as nuvens do céu e recebe de Deus domínio eterno sobre todos os povos. Nos Evangelhos, a expressão é quase sempre usada por Jesus para si mesmo, e reúne as duas ideias: a humildade e o sofrimento do verdadeiro homem (como aqui) e a glória do que virá para julgar (24:30; 26:64). Mantida a forma tradicional, com maiúsculas, por ser título."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "ninhos",
+    "termo": "κατασκηνώσεις (kataskēnōseis)",
+    "titulo": "kataskēnōsis, raro",
+    "texto": "Lit. “abrigos, lugares onde se pousa” (só aqui e em Lc 9:58). A palavra não é a específica para ninho, mas o lugar onde a ave se abriga; “ninhos” é a equivalência natural. Phōleos (“toca”, também raro) é o covil de animais."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "não tem onde reclinar a cabeça",
+    "termo": "οὐκ ἔχει ποῦ τὴν κεφαλὴν κλίνῃ",
+    "titulo": "o custo de seguir",
+    "texto": "Jesus não diz que é pobre a ponto de não ter abrigo, mas que segui-lo significa partilhar uma vida sem lugar fixo, com rejeição (cf. 8:34). O escriba precisa saber o preço do que promete."
+   }
+  ]
+ },
+ "Mat.8.21": {
+  "t": "Outro dos discípulos lhe disse: “Senhor, permita-me ir primeiro sepultar o meu pai.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "sepultar o meu pai",
+    "termo": "θάψαι τὸν πατέρα μου",
+    "titulo": "o dever de sepultar",
+    "texto": "Sepultar os pais era um dos deveres mais sagrados do judaísmo, ligado ao mandamento de honrá-los (Êx 20:12; cf. Tb 4:3). Há três leituras: (1) o pai acabara de morrer, e o enterro seria no mesmo dia; (2) o pai ainda vivia, e o filho queria esperar a morte dele; (3) tratava-se do segundo sepultamento, quando os ossos eram recolhidos num ossuário cerca de um ano depois. Em qualquer delas, Jesus põe o seu chamado acima do dever mais alto da família."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Outro dos discípulos",
+    "termo": "Ἕτερος δὲ τῶν μαθητῶν (+ αὐτοῦ)",
+    "titulo": "“dos discípulos” ou “dos seus discípulos”",
+    "texto": "O NA28, o Textus Receptus e o Texto Bizantino trazem autou (“dos seus discípulos”). Sem efeito no sentido. “Outro” (heteros) pode sugerir que o escriba também era tido como discípulo."
+   }
+  ]
+ },
+ "Mat.8.22": {
+  "t": "Mas Jesus lhe disse: “Siga-me, e deixe que os mortos sepultem os seus próprios mortos.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "deixe que os mortos sepultem os seus próprios mortos",
+    "termo": "ἄφες τοὺς νεκροὺς θάψαι τοὺς ἑαυτῶν νεκρούς",
+    "titulo": "duas espécies de mortos",
+    "texto": "Os primeiros “mortos” são os que não respondem ao chamado do Reino, espiritualmente mortos; os segundos, os mortos físicos. A frase é propositalmente chocante e foi mantida literal, sem suavizar."
+   }
+  ]
+ },
+ "Mat.8.23": {
+  "t": "Ele entrou no barco, e os seus discípulos o seguiram.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "o seguiram",
+    "termo": "ἠκολούθησαν αὐτῷ (ēkolouthēsan autō)",
+    "titulo": "seguir",
+    "texto": "O mesmo verbo dos vv. 19 e 22. Logo depois de falar do custo de segui-lo, Mateus mostra os discípulos seguindo Jesus para dentro da tempestade. Muitos leem o episódio como imagem da vida dos discípulos."
+   }
+  ]
+ },
+ "Mat.8.24": {
+  "t": "E eis que se levantou no mar uma tempestade tão violenta que as ondas cobriam o barco. Ele, porém, dormia.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "tempestade tão violenta",
+    "termo": "σεισμὸς μέγας (seismos megas)",
+    "titulo": "seismos",
+    "texto": "Lit. “grande abalo”. Seismos é a palavra comum para terremoto (24:7; 27:54; 28:2); aqui designa a agitação violenta do mar. Mateus é o único a usar essa palavra no relato; “tempestade” dá o sentido."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Ele, porém, dormia",
+    "termo": "αὐτὸς δὲ ἐκάθευδεν",
+    "titulo": "o sono confiante",
+    "texto": "No AT, dormir em paz é sinal de confiança em Deus (Sl 3:5; 4:8). O contraste com o pavor dos discípulos é intencional."
+   }
+  ]
+ },
+ "Mat.8.25": {
+  "t": "Eles se aproximaram e o acordaram, dizendo: “Senhor, salve-nos! Estamos perecendo!”",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "Eles se aproximaram",
+    "termo": "καὶ προσελθόντες (+ οἱ μαθηταὶ αὐτοῦ)",
+    "titulo": "acréscimos",
+    "texto": "O Textus Receptus e o Texto Bizantino acrescentam “os seus discípulos” como sujeito e hēmas (“nos”) depois de “salva”. O texto crítico tem só “Senhor, salva! Perecemos!”. O português exige o objeto (“salve-nos”), que fica claro pelo que segue."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "salve-nos",
+    "termo": "σῶσον (sōson)",
+    "titulo": "sōzō",
+    "texto": "Sōzō é “salvar” do perigo físico e também da perdição. O clamor dos discípulos é ao mesmo tempo grito de socorro e oração, como no Sl 107:28-29."
+   }
+  ]
+ },
+ "Mat.8.26": {
+  "t": "Ele lhes disse: “Por que vocês estão com tanto medo, homens de pouca fé?” Então se levantou, repreendeu os ventos e o mar, e fez-se grande calmaria.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "homens de pouca fé",
+    "termo": "ὀλιγόπιστοι (oligopistoi)",
+    "titulo": "oligopistos",
+    "texto": "Uma só palavra: “de-pouca-fé”. Mateus a usa só para os discípulos (6:30; 14:31; 16:8; cf. 17:20). “Homens” foi acrescentado porque o português pede um substantivo. Os discípulos têm fé, mas pequena diante do perigo; não são chamados de incrédulos."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "com tanto medo",
+    "termo": "δειλοί (deiloi)",
+    "titulo": "deilos, raro",
+    "texto": "Deilos (só aqui, em Mc 4:40 e Ap 21:8) é “medroso, covarde”. “Por que vocês são covardes?” seria duro demais para o tom da repreensão; “com tanto medo” mantém o sentido."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "repreendeu os ventos e o mar",
+    "termo": "ἐπετίμησεν τοῖς ἀνέμοις καὶ τῇ θαλάσσῃ",
+    "titulo": "o domínio sobre o mar",
+    "texto": "No AT, só Deus domina o mar e o repreende (Sl 104:7; 106:9; 107:29; Jó 26:12). Jesus faz o que o AT atribui a Deus; daí a pergunta do v. 27."
+   }
+  ]
+ },
+ "Mat.8.27": {
+  "t": "Os homens ficaram admirados e diziam: “Que tipo de homem é este, que até os ventos e o mar lhe obedecem?”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Que tipo de homem é este",
+    "termo": "ποταπός ἐστιν οὗτος (potapos estin houtos)",
+    "titulo": "potapos",
+    "texto": "Lit. “de que espécie é este?”. O grego não diz “homem”; a pergunta é exatamente sobre o que ele é. “Que tipo de homem” é a forma natural em português e deixa a pergunta aberta, como no original."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Os homens",
+    "termo": "Οἱ δὲ ἄνθρωποι (hoi de anthrōpoi)",
+    "titulo": "quem são?",
+    "texto": "Podem ser os discípulos ou outras pessoas presentes no barco ou que souberam do fato. Mateus talvez use anthrōpoi para contrastar os seres humanos com aquele a quem até o vento obedece."
+   }
+  ]
+ },
+ "Mat.8.28": {
+  "t": "Quando ele chegou à outra margem, à região dos gadarenos, vieram ao seu encontro dois endemoninhados que saíam dos sepulcros. Eram tão violentos que ninguém conseguia passar por aquele caminho.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "gadarenos",
+    "termo": "Γαδαρηνῶν (Gadarēnōn)",
+    "titulo": "gadarenos, gerasenos ou gergesenos",
+    "texto": "O texto crítico traz Gadarēnōn (de Gadara, cidade a uns 10 km do mar). O Textus Receptus e o Texto Bizantino trazem Gergesēnōn (“gergesenos”), e Marcos e Lucas, nos melhores manuscritos, “gerasenos” (de Gerasa). Os copistas tentaram harmonizar os Evangelhos e acertar a geografia. “Região” pode designar o território dependente de uma cidade, o que explicaria nomes diferentes para a mesma área (Metzger)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "dois endemoninhados",
+    "termo": "δύο δαιμονιζόμενοι",
+    "titulo": "dois ou um",
+    "texto": "Marcos (5:2) e Lucas (8:27) falam de um homem só. Mateus traz pares também em 9:27 e 20:30. Explicações comuns: Mateus conhecia a presença de dois, e os outros focalizam o mais conhecido; ou Mateus segue o princípio de duas testemunhas (Dt 19:15)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Eram tão violentos",
+    "termo": "χαλεποὶ λίαν (chalepoi lian)",
+    "titulo": "chalepos, raro",
+    "texto": "Chalepos (só aqui e em 2Tm 3:1) é “difícil, perigoso, feroz”. Com lian (“muito”), descreve homens perigosos para quem passasse por perto."
+   }
+  ]
+ },
+ "Mat.8.29": {
+  "t": "E eis que gritaram: “Que temos nós a ver com você, Filho de Deus? Você veio aqui para nos atormentar antes do tempo?”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Que temos nós a ver com você",
+    "termo": "τί ἡμῖν καὶ σοί (ti hēmin kai soi)",
+    "titulo": "expressão semítica",
+    "texto": "Lit. “que a nós e a ti?”. Expressão hebraica (Jz 11:12; 1Rs 17:18; 2Sm 16:10) que rejeita a interferência do outro: “o que você tem contra nós?”, “deixe-nos em paz”. Os demônios reconhecem quem Jesus é antes dos discípulos (cf. v. 27)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "antes do tempo",
+    "termo": "πρὸ καιροῦ (pro kairou)",
+    "titulo": "o tempo do juízo",
+    "texto": "Os demônios sabem que haverá um tempo determinado para o seu castigo (25:41; Ap 20:10). A vinda de Jesus antecipa esse juízo: o Reino já está irrompendo (12:28)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Filho de Deus",
+    "termo": "υἱὲ τοῦ θεοῦ (+ Ἰησοῦ)",
+    "titulo": "“Jesus, Filho de Deus”",
+    "texto": "O Textus Receptus e o Texto Bizantino trazem “Jesus, Filho de Deus”, como no paralelo de Mc 5:7. O texto crítico não traz o nome."
+   }
+  ]
+ },
+ "Mat.8.30": {
+  "t": "A certa distância deles, estava pastando uma grande manada de porcos.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "porcos",
+    "termo": "χοίρων (choirōn)",
+    "titulo": "animais impuros",
+    "texto": "O porco era impuro pela Lei (Lv 11:7; Dt 14:8). A manada indica região de população gentia, a leste do mar da Galileia."
+   }
+  ]
+ },
+ "Mat.8.31": {
+  "t": "Os demônios lhe suplicavam: “Se você vai nos expulsar, mande-nos para a manada de porcos.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "demônios",
+    "termo": "δαίμονες (daimones)",
+    "titulo": "daimōn, hápax",
+    "texto": "Única ocorrência de daimōn no NT; em todo o resto aparece o diminutivo daimonion, com o mesmo sentido. No grego comum, daimōn podia ser uma divindade ou espírito, não necessariamente mau; aqui são espíritos impuros. Traduzido como “demônios”, igual a daimonion."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "mande-nos para",
+    "termo": "ἀπόστειλον ἡμᾶς (aposteilon hēmas)",
+    "titulo": "“mande-nos” ou “permite-nos ir”",
+    "texto": "O texto crítico traz aposteilon hēmas (“envia-nos”). O Textus Receptus e o Texto Bizantino trazem epitrepson hēmin apelthein (“permite-nos ir”), como em Lc 8:32. O sentido é próximo; no texto crítico os demônios pedem uma ordem, no outro uma licença."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Se você vai nos expulsar",
+    "termo": "εἰ ἐκβάλλεις ἡμᾶς",
+    "titulo": "condicional real",
+    "texto": "Lit. “se nos expulsas”. É condição tida como certa: os demônios sabem que serão expulsos."
+   }
+  ]
+ },
+ "Mat.8.32": {
+  "t": "Ele lhes disse: “Vão!” Eles saíram e entraram nos porcos. E eis que a manada inteira se precipitou pelo despenhadeiro no mar, e morreram nas águas.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "despenhadeiro",
+    "termo": "κρημνοῦ (krēmnou)",
+    "titulo": "krēmnos, raro",
+    "texto": "“Encosta íngreme, precipício” (só nos três relatos deste episódio). “Despenhadeiro” guarda a imagem da queda."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "entraram nos porcos",
+    "termo": "ἀπῆλθον εἰς τοὺς χοίρους",
+    "titulo": "“nos porcos” ou “na manada”",
+    "texto": "O texto crítico traz “entraram nos porcos”; o Textus Receptus e o Texto Bizantino, “na manada dos porcos”. Sem efeito no sentido."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "morreram nas águas",
+    "termo": "ἀπέθανον ἐν τοῖς ὕδασιν",
+    "titulo": "por que os porcos?",
+    "texto": "O texto não explica por que Jesus permitiu a ação. A destruição da manada torna visível a saída dos demônios e mostra o seu poder destrutivo; o mar, no imaginário bíblico, é lugar do caos (cf. Ap 20:13). O valor dos dois homens é posto acima do da manada (cf. 12:12)."
+   }
+  ]
+ },
+ "Mat.8.33": {
+  "t": "Os que cuidavam dos porcos fugiram, foram à cidade e contaram tudo, inclusive o que tinha acontecido com os endemoninhados.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "o que tinha acontecido com os endemoninhados",
+    "termo": "τὰ τῶν δαιμονιζομένων",
+    "titulo": "“as coisas dos endemoninhados”",
+    "texto": "Lit. “as coisas dos endemoninhados”. Traduzido pelo sentido."
+   }
+  ]
+ },
+ "Mat.8.34": {
+  "t": "E eis que a cidade inteira saiu ao encontro de Jesus e, quando o viram, pediram-lhe que se retirasse do território deles.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "saiu ao encontro de",
+    "termo": "ἐξῆλθεν εἰς ὑπάντησιν (exēlthen eis hypantēsin)",
+    "titulo": "hypantēsis, raro",
+    "texto": "Hypantēsis (só aqui, em Jo 12:13 e numa variante de 25:1) é o “encontro”, muitas vezes a recepção pública a um visitante ilustre. A cena é irônica: a cidade sai como para receber alguém importante, mas é para pedir que ele vá embora. O Textus Receptus e o Texto Bizantino trazem synantēsis, de sentido igual."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "pediram-lhe que se retirasse",
+    "termo": "παρεκάλεσαν ὅπως μεταβῇ",
+    "titulo": "a rejeição",
+    "texto": "O texto não diz o motivo: medo diante de um poder tão grande, prejuízo com a perda da manada, ou ambos. O capítulo termina como o v. 20 anunciou: o Filho do Homem não tem onde reclinar a cabeça."
+   }
+  ]
+ }
+}

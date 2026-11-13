@@ -1,0 +1,603 @@
+{
+ "Act.1.1": {
+  "t": "No primeiro relato, ó Teófilo, tratei de tudo o que Jesus começou a fazer e a ensinar,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "No primeiro relato",
+    "termo": "τὸν μὲν πρῶτον λόγον (ton men prōton logon)",
+    "titulo": "“o primeiro relato”",
+    "texto": "Logos aqui não é “a Palavra” de Jo 1:1, mas uma obra escrita, um relato. O “primeiro relato” é o Evangelho de Lucas, também dedicado a Teófilo (Lc 1:3). Prōtos pode significar “o primeiro de dois” ou “o anterior”; não prova que Lucas planejava um terceiro livro. O men (“por um lado”) não tem o de correspondente: o resumo do segundo livro fica implícito."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Teófilo",
+    "termo": "Θεόφιλε (Theophile)",
+    "titulo": "quem era Teófilo?",
+    "texto": "O nome significa “amigo de Deus” ou “amado por Deus”. Em Lc 1:3 é chamado kratiste (“excelentíssimo”), tratamento dado a autoridades (At 23:26; 24:3; 26:25). Por isso a maioria o entende como pessoa real, talvez o patrono da obra. A leitura de que seria um nome simbólico para todo leitor “amigo de Deus” é antiga, mas menos provável."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "começou a fazer e a ensinar",
+    "termo": "ἤρξατο ... ποιεῖν τε καὶ διδάσκειν (ērxato ... poiein te kai didaskein)",
+    "titulo": "“começou”",
+    "texto": "Archomai com infinitivo às vezes é só um modo de dizer “fez”, sem ênfase no início (uso frequente em Lucas). Muitos intérpretes, porém, veem aqui uma ênfase real: o Evangelho conta o que Jesus começou; Atos conta o que ele continua a fazer pelo Espírito e pelos apóstolos. A tradução literal deixa as duas leituras possíveis."
+   }
+  ]
+ },
+ "Act.1.2": {
+  "t": "até o dia em que foi levado para o alto, depois de dar instruções, por meio do Espírito Santo, aos apóstolos que havia escolhido.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "foi levado para o alto",
+    "termo": "ἀνελήμφθη (anelēmphthē)",
+    "titulo": "analambanō",
+    "texto": "Lit. “foi tomado para cima”. É o verbo da Septuaginta para o arrebatamento de Elias (2Rs 2:9-11) e o que o NT usa para a ascensão (At 1:11, 22; 1Tm 3:16; cf. Lc 9:51, analēmpsis). A voz passiva indica que foi Deus quem o elevou."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "por meio do Espírito Santo",
+    "termo": "διὰ πνεύματος ἁγίου (dia pneumatos hagiou)",
+    "titulo": "a que se liga?",
+    "texto": "No grego, a expressão está entre “depois de dar instruções” e “que havia escolhido”, e pode ligar-se a qualquer dos dois. A maioria a liga às instruções, como aqui; ligá-la à escolha também é gramaticalmente possível (cf. Lc 6:12-13, onde Jesus escolhe os Doze depois de uma noite de oração). Desde o início, Lucas mostra Jesus agindo no Espírito (Lc 4:1, 14, 18)."
+   }
+  ]
+ },
+ "Act.1.3": {
+  "t": "A eles também, depois de ter sofrido, apresentou-se vivo com muitas provas convincentes, aparecendo-lhes durante quarenta dias e falando das coisas do Reino de Deus.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "provas convincentes",
+    "termo": "τεκμηρίοις (tekmēriois)",
+    "titulo": "tekmērion, hápax",
+    "texto": "Hápax é a palavra que ocorre uma só vez no NT. Na retórica grega, tekmērion era a prova conclusiva, que não admite contestação, em contraste com o simples sinal. “Provas convincentes” transmite essa força; “provas infalíveis” (ARC) também é possível."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "depois de ter sofrido",
+    "termo": "μετὰ τὸ παθεῖν αὐτόν (meta to pathein auton)",
+    "titulo": "paschō",
+    "texto": "“Sofrer” em Lucas-Atos resume a paixão inteira, incluindo a morte (Lc 22:15; 24:26, 46; At 3:18; 17:3)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "quarenta dias",
+    "termo": "δι᾽ ἡμερῶν τεσσεράκοντα (di’ hēmerōn tesserakonta)",
+    "titulo": "o período das aparições",
+    "texto": "Só aqui o NT dá a duração do período das aparições. Quarenta é número de preparação na Bíblia: Moisés no monte (Êx 24:18), Elias a caminho do Horebe (1Rs 19:8), Jesus no deserto (Lc 4:2). Lc 24 conta os fatos em sequência rápida, sem marcar o intervalo; Atos o explicita."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "falando das coisas do Reino de Deus",
+    "termo": "λέγων τὰ περὶ τῆς βασιλείας τοῦ θεοῦ (legōn ta peri tēs basileias tou theou)",
+    "titulo": "o Reino como tema",
+    "texto": "Lit. “dizendo as coisas acerca do Reino de Deus”. O Reino abre e fecha o livro (1:3; 28:23, 31): a pregação dos apóstolos continua a de Jesus."
+   }
+  ]
+ },
+ "Act.1.4": {
+  "t": "Certa vez, enquanto comia com eles, ordenou-lhes que não se afastassem de Jerusalém, mas esperassem a promessa do Pai, “que vocês ouviram de mim”, disse ele;",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "enquanto comia com eles",
+    "termo": "συναλιζόμενος (synalizomenos)",
+    "titulo": "synalizomai, hápax",
+    "texto": "Sentido incerto. Três explicações: (1) de hals, “sal”: “comendo sal junto”, isto é, partilhando a refeição; combina com Lc 24:41-43 e At 10:41 (“comemos e bebemos com ele”); (2) de synalizō, “reunir”: “estando reunido com eles”; (3) erro antigo de cópia ou grafia por synaulizomenos, “passando a noite com eles”. A primeira é a preferida por muitos léxicos modernos (BDAG) e foi adotada aqui; a segunda é a das traduções tradicionais.",
+    "revisar": true
+   },
+   {
+    "tipo": "tn",
+    "ancora": "“que vocês ouviram de mim”, disse ele",
+    "termo": "ἣν ἠκούσατέ μου (hēn ēkousate mou)",
+    "titulo": "do discurso indireto ao direto",
+    "texto": "O grego passa sem aviso do discurso indireto (“ordenou que não se afastassem”) para o direto (“que vocês ouviram de mim”). Para que o leitor perceba a mudança, foram acrescentadas as aspas e as palavras “disse ele”, que não estão no original."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "a promessa do Pai",
+    "termo": "τὴν ἐπαγγελίαν τοῦ πατρός (tēn epangelian tou patros)",
+    "titulo": "a promessa é o Espírito",
+    "texto": "A promessa é o próprio Espírito Santo, como explica o v. 5 e repete 2:33, 39. Retoma Lc 24:49 e ecoa as promessas do AT sobre o derramamento do Espírito (Is 32:15; 44:3; Ez 36:26-27; Jl 2:28-32). Em João, Jesus fala do Espírito que o Pai enviará (Jo 14:16, 26)."
+   }
+  ]
+ },
+ "Act.1.5": {
+  "t": "“pois João batizou com água, mas vocês serão batizados com o Espírito Santo daqui a poucos dias.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "batizados com o Espírito Santo",
+    "termo": "ἐν πνεύματι βαπτισθήσεσθε ἁγίῳ (en pneumati baptisthēsesthe hagiō)",
+    "titulo": "“com” ou “no” Espírito",
+    "texto": "A preposição en pode ser instrumental (“com”) ou locativa (“no”, “imersos no”). “Com” foi escolhido para manter o paralelo com “com água” (hydati, sem preposição), como em Lc 3:16, de onde vem a frase. A imagem do batismo sugere imersão: o Espírito envolve e enche a pessoa, assim como a água envolve quem é batizado."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "batizados com o Espírito Santo",
+    "termo": "βαπτίζω ἐν πνεύματι (baptizō en pneumati)",
+    "titulo": "batismo no Espírito: o debate",
+    "texto": "A promessa de João Batista (Lc 3:16) se cumpre em Pentecostes (2:1-4; 11:16). O sentido da expressão é debatido. A tradição pentecostal e carismática, à qual a APV se filia, entende o batismo no Espírito em Atos sobretudo como revestimento de poder para o testemunho (1:8), que pode ocorrer distinto da conversão e ser seguido de sinais como as línguas (2:4; 8:14-17; 19:1-6). Outros, sobretudo na tradição reformada, o identificam com a entrada na nova aliança, recebida por todo crente na conversão (1Co 12:13); J. D. G. Dunn, Baptism in the Holy Spirit (1970), é a defesa clássica dessa leitura. Ver as notas em 2:4 e 2:38."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "daqui a poucos dias",
+    "termo": "οὐ μετὰ πολλὰς ταύτας ἡμέρας (ou meta pollas tautas hēmeras)",
+    "titulo": "litotes",
+    "texto": "Lit. “não depois de muitos destes dias”. A negação de “muitos” (figura chamada litotes) equivale a “poucos”. Pentecostes viria cerca de dez dias depois."
+   }
+  ]
+ },
+ "Act.1.6": {
+  "t": "Então os que estavam reunidos lhe perguntavam: “Senhor, é neste tempo que o senhor vai restaurar o reino a Israel?”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "perguntavam",
+    "termo": "ἠρώτων (ērōtōn)",
+    "titulo": "imperfeito",
+    "texto": "O imperfeito pode indicar que perguntavam com insistência ou que a pergunta começava a ser feita. O Textus Receptus e o Texto Bizantino têm epērōtōn, com o mesmo sentido."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "restaurar o reino a Israel",
+    "termo": "ἀποκαθιστάνεις τὴν βασιλείαν τῷ Ἰσραήλ (apokathistaneis tēn basileian tō Israēl)",
+    "titulo": "a esperança de Israel",
+    "texto": "“Reino” aqui não é o termo fixo “Reino de Deus”, mas o reino de Israel, como nos dias de Davi; por isso a minúscula. Apokathistēmi é o verbo da restauração prometida pelos profetas (Ml 4:6 LXX; cf. 3:21, apokatastasis). Jesus não nega a esperança, mas corrige a curiosidade pelo calendário (v. 7) e redireciona os discípulos para a missão (v. 8). Intérpretes divergem sobre se Lucas espera uma restauração futura de Israel como nação (cf. Lc 22:30; Rm 11:26) ou se a vê cumprida no reino do Messias que inclui as nações."
+   }
+  ]
+ },
+ "Act.1.7": {
+  "t": "Ele lhes respondeu: “Não cabe a vocês conhecer tempos ou épocas que o Pai fixou por sua própria autoridade.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "tempos ou épocas",
+    "termo": "χρόνους ἢ καιρούς (chronous ē kairous)",
+    "titulo": "chronos e kairos",
+    "texto": "Chronos é a duração; kairos, o momento oportuno ou a época marcada. O par aparece também em 1Ts 5:1 e funciona quase como uma só expressão: “datas”."
+   }
+  ]
+ },
+ "Act.1.8": {
+  "t": "Mas vocês receberão poder quando o Espírito Santo vier sobre vocês, e serão minhas testemunhas tanto em Jerusalém como em toda a Judeia e Samaria, e até os confins da terra.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "receberão poder quando o Espírito Santo vier sobre vocês",
+    "termo": "λήμψεσθε δύναμιν ἐπελθόντος τοῦ ἁγίου πνεύματος ἐφ᾽ ὑμᾶς",
+    "titulo": "poder para testemunhar",
+    "texto": "O verbo eperchomai (“vir sobre”) é o mesmo de Lc 1:35 (o Espírito sobre Maria) e ecoa Is 32:15 LXX (“até que venha sobre vocês o Espírito do alto”). Em Lucas-Atos, a vinda do Espírito é ligada sobretudo a poder (dynamis) para o testemunho e para obras poderosas (Lc 24:49)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "minhas testemunhas",
+    "termo": "μου μάρτυρες (mou martyres)",
+    "titulo": "mou ou moi",
+    "texto": "O texto crítico traz mou (“minhas testemunhas”); o Textus Receptus e o Texto Bizantino, moi (“testemunhas para mim”). Sentido praticamente igual."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "até os confins da terra",
+    "termo": "ἕως ἐσχάτου τῆς γῆς (heōs eschatou tēs gēs)",
+    "titulo": "o roteiro do livro",
+    "texto": "A expressão vem de Is 49:6 LXX, citado em At 13:47 (o servo como “luz das nações”). O versículo resume o plano de Atos: Jerusalém (cap. 1-7), Judeia e Samaria (cap. 8-12), e daí até Roma e além (cap. 13-28)."
+   }
+  ]
+ },
+ "Act.1.9": {
+  "t": "Tendo dito isso, foi elevado enquanto eles olhavam, e uma nuvem o envolveu, tirando-o da vista deles.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "uma nuvem o envolveu, tirando-o da vista deles",
+    "termo": "νεφέλη ὑπέλαβεν αὐτὸν ἀπὸ τῶν ὀφθαλμῶν αὐτῶν (nephelē hypelaben auton apo tōn ophthalmōn autōn)",
+    "titulo": "hypolambanō",
+    "texto": "Lit. “uma nuvem o tomou por baixo, longe dos olhos deles”. Hypolambanō é erguer por baixo ou receber; a nuvem o recolhe e o subtrai à vista. A nuvem é sinal da presença de Deus (Êx 40:34; Lc 9:34-35) e lembra o Filho do Homem que vem com as nuvens (Dn 7:13; Lc 21:27)."
+   }
+  ]
+ },
+ "Act.1.10": {
+  "t": "Enquanto estavam com os olhos fixos no céu, para onde ele ia, eis que dois homens vestidos de branco se puseram junto deles",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "dois homens vestidos de branco",
+    "termo": "ἄνδρες δύο ... ἐν ἐσθήσεσι λευκαῖς (andres dyo ... en esthēsesi leukais)",
+    "titulo": "anjos",
+    "texto": "Lucas descreve anjos como “homens” de vestes brilhantes, como no túmulo vazio (Lc 24:4; cf. 24:23) e na transfiguração (Lc 9:30). Dois é o número das testemunhas (Dt 19:15). O Textus Receptus tem o singular esthēti leukē (“em veste branca”), sem diferença de sentido."
+   }
+  ]
+ },
+ "Act.1.11": {
+  "t": "e disseram: “Homens da Galileia, por que vocês estão parados olhando para o céu? Este Jesus, que do meio de vocês foi levado para o céu, virá do mesmo modo como vocês o viram ir para o céu.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "virá do mesmo modo",
+    "termo": "οὕτως ἐλεύσεται ὃν τρόπον (houtōs eleusetai hon tropon)",
+    "titulo": "a volta de Cristo",
+    "texto": "A promessa liga a ascensão à volta de Cristo: o mesmo Jesus, de modo pessoal e visível, com a nuvem (Lc 21:27; 1Ts 4:16-17; Ap 1:7). A volta prometida (a parousia) é afirmação comum a todo o NT e aos credos (“de onde virá para julgar os vivos e os mortos”)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "olhando",
+    "termo": "βλέποντες (blepontes)",
+    "titulo": "blepontes ou emblepontes",
+    "texto": "O SBLGNT traz blepontes; o NA28, o Textus Receptus e o Texto Bizantino, emblepontes (“fitando”). Sem efeito na tradução."
+   }
+  ]
+ },
+ "Act.1.12": {
+  "t": "Então voltaram para Jerusalém, do monte chamado das Oliveiras, que fica perto de Jerusalém, à distância da caminhada permitida num sábado.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "monte chamado das Oliveiras",
+    "termo": "ὄρους τοῦ καλουμένου Ἐλαιῶνος (orous tou kaloumenou Elaiōnos)",
+    "titulo": "Elaiōn",
+    "texto": "Lit. “monte chamado Olival”. Elaiōn é “olival”, um bosque de oliveiras. Mantido o nome tradicional em português. Betânia, onde Lc 24:50 situa a ascensão, fica na encosta do mesmo monte."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "à distância da caminhada permitida num sábado",
+    "termo": "σαββάτου ἔχον ὁδόν (sabbatou echon hodon)",
+    "titulo": "caminho de sábado",
+    "texto": "Lit. “tendo caminho de sábado”. A tradição judaica, a partir de Êx 16:29 e Nm 35:5, limitava a caminhada no sábado a dois mil côvados, pouco menos de um quilômetro. Lucas usa a medida para indicar a proximidade; não diz que aquele dia era sábado."
+   }
+  ]
+ },
+ "Act.1.13": {
+  "t": "Quando entraram na cidade, subiram à sala de cima, onde estavam hospedados: Pedro e João, Tiago e André, Filipe e Tomé, Bartolomeu e Mateus, Tiago, filho de Alfeu, Simão, o Zelote, e Judas, filho de Tiago.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "sala de cima",
+    "termo": "τὸ ὑπερῷον (to hyperōon)",
+    "titulo": "hyperōon",
+    "texto": "O cômodo do andar superior de uma casa (9:37, 39; 20:8). A tradição chama este lugar de “cenáculo”, palavra que vem do latim cenaculum. O texto não diz que é a mesma sala da última ceia (Lc 22:12 usa outra palavra, anagaion), embora seja possível."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "estavam hospedados",
+    "termo": "ἦσαν καταμένοντες (ēsan katamenontes)",
+    "titulo": "katamenō, hápax",
+    "texto": "“Permanecer, alojar-se”. O particípio com o imperfeito indica estadia contínua: era ali que o grupo ficava naqueles dias."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Simão, o Zelote",
+    "termo": "Σίμων ὁ ζηλωτής (Simōn ho zēlōtēs)",
+    "titulo": "zēlōtēs",
+    "texto": "Pode indicar que Simão pertencia a um grupo nacionalista judeu que resistia a Roma, ou apenas que era conhecido por seu zelo pela Lei (cf. 21:20; 22:3, onde a mesma palavra significa “zeloso”). Se o partido dos zelotes já existia como movimento organizado antes da guerra de 66-70 d.C. é discutido."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Judas, filho de Tiago",
+    "termo": "Ἰούδας Ἰακώβου (Ioudas Iakōbou)",
+    "titulo": "“Judas de Tiago”",
+    "texto": "O grego diz apenas “Judas de Tiago”. O genitivo de parentesco indica, em geral, o pai, como em “Tiago, filho de Alfeu”, na mesma frase. Almeida traduziu “irmão de Tiago”, pensando em Jd 1. Ele é provavelmente o mesmo Tadeu de Mt 10:3 e Mc 3:18."
+   }
+  ]
+ },
+ "Act.1.14": {
+  "t": "Todos estes perseveravam unânimes em oração, junto com as mulheres, com Maria, a mãe de Jesus, e com os irmãos dele.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "unânimes",
+    "termo": "ὁμοθυμαδόν (homothymadon)",
+    "titulo": "homothymadon",
+    "texto": "“De um só ânimo, de comum acordo”. Palavra característica de Atos (2:46; 4:24; 5:12; 15:25), que descreve a unidade da primeira comunidade. Às vezes significa apenas “todos juntos”."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "em oração",
+    "termo": "τῇ προσευχῇ (tē proseuchē)",
+    "titulo": "acréscimo do Textus Receptus",
+    "texto": "O Textus Receptus e o Texto Bizantino acrescentam kai tē deēsei: “em oração e súplica”. O texto crítico não o tem."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "junto com as mulheres",
+    "termo": "σὺν γυναιξίν (syn gynaixin)",
+    "titulo": "sem artigo",
+    "texto": "O grego não tem artigo: “com mulheres”. O contexto sugere as discípulas que seguiam Jesus desde a Galileia e testemunharam a cruz, o sepultamento e o túmulo vazio (Lc 8:2-3; 23:49, 55; 24:10). Alguns entendem “com suas mulheres”, isto é, as esposas dos apóstolos; o grego não especifica."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "com os irmãos dele",
+    "termo": "σὺν τοῖς ἀδελφοῖς αὐτοῦ (syn tois adelphois autou)",
+    "titulo": "os irmãos de Jesus",
+    "texto": "Durante o ministério eles não criam nele (Jo 7:5); agora estão entre os discípulos. Tiago recebeu uma aparição do ressuscitado (1Co 15:7) e veio a liderar a igreja de Jerusalém (12:17; 15:13; Gl 1:19). A maioria dos protestantes os entende como filhos de Maria e José, nascidos depois de Jesus (Mc 6:3); a tradição católica os vê como primos (Jerônimo), e a ortodoxa, como filhos de José de um casamento anterior (Epifânio). Adelphos admite parentes próximos, mas o sentido comum é “irmão”."
+   }
+  ]
+ },
+ "Act.1.15": {
+  "t": "Naqueles dias, Pedro se levantou no meio dos irmãos (havia ali, reunidas, cerca de cento e vinte pessoas) e disse:",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "irmãos",
+    "termo": "ἀδελφῶν (adelphōn)",
+    "titulo": "adelphoi",
+    "texto": "Primeira vez em Atos que “irmãos” designa a comunidade dos crentes, não os parentes de Jesus (v. 14). O plural masculino inclui as irmãs: o grupo tem mulheres (v. 14). Mantido “irmãos”, forma usada nas igrejas. O Textus Receptus e o Texto Bizantino têm mathētōn (“discípulos”)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "pessoas",
+    "termo": "ὀνομάτων (onomatōn)",
+    "titulo": "“nomes”",
+    "texto": "Lit. “uma multidão de nomes”: uso semítico de “nome” para “pessoa” (cf. Ap 3:4). Ochlos (“multidão”) aqui é apenas “grupo”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "reunidas",
+    "termo": "ἐπὶ τὸ αὐτό (epi to auto)",
+    "titulo": "“no mesmo lugar”",
+    "texto": "Lit. “sobre o mesmo”. Expressão que, em Atos, quase se torna termo para a comunidade reunida (2:1, 44, 47)."
+   }
+  ]
+ },
+ "Act.1.16": {
+  "t": "“Irmãos, era necessário que se cumprisse a Escritura que o Espírito Santo predisse pela boca de Davi a respeito de Judas, que se tornou guia dos que prenderam Jesus.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Irmãos",
+    "termo": "ἄνδρες ἀδελφοί (andres adelphoi)",
+    "titulo": "“homens, irmãos”",
+    "texto": "Lit. “homens irmãos”, fórmula de tratamento em discursos públicos (2:29, 37; 7:2). Em português, “Homens irmãos” soaria estranho; por isso “Irmãos”. Fórmulas semelhantes (andres Ioudaioi, andres Israēlitai) são tratadas do mesmo modo."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "era necessário",
+    "termo": "ἔδει (edei)",
+    "titulo": "a necessidade divina",
+    "texto": "Dei (“é preciso”) é palavra de Lucas para o plano de Deus que se cumpre na história (Lc 24:26, 44; At 3:21; 4:12). Nem a traição de Judas escapou desse plano."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "o Espírito Santo predisse pela boca de Davi",
+    "termo": "προεῖπε τὸ πνεῦμα τὸ ἅγιον διὰ στόματος Δαυίδ (proeipe to pneuma to hagion dia stomatos Dauid)",
+    "titulo": "a Escritura e o Espírito",
+    "texto": "O Espírito é o autor que fala; Davi é o instrumento. A mesma visão da Escritura aparece em 4:25 e 28:25 e em 2Pe 1:21. O Textus Receptus e o Texto Bizantino acrescentam tautēn: “esta Escritura”."
+   }
+  ]
+ },
+ "Act.1.17": {
+  "t": "Ele era contado entre nós e recebeu a sua parte neste ministério.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "recebeu a sua parte",
+    "termo": "ἔλαχεν τὸν κλῆρον (elachen ton klēron)",
+    "titulo": "klēros",
+    "texto": "Klēros é a “sorte” lançada e, daí, a porção que cabe a alguém. A palavra antecipa o v. 26, onde as “sortes” (klērous) indicam o substituto de Judas. Lanchanō é “obter por sorte”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "ministério",
+    "termo": "διακονίας (diakonias)",
+    "titulo": "diakonia",
+    "texto": "“Serviço”. Aqui é a função apostólica (v. 25). A mesma palavra designa a distribuição diária de alimentos em 6:1 e o “ministério da palavra” em 6:4."
+   }
+  ]
+ },
+ "Act.1.18": {
+  "t": "(Esse homem adquiriu um terreno com o pagamento da sua injustiça; e, caindo de cabeça, rebentou-se pelo meio, e todas as suas entranhas se derramaram.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Esse homem adquiriu um terreno",
+    "termo": "οὗτος μὲν οὖν ἐκτήσατο χωρίον (houtos men oun ektēsato chōrion)",
+    "titulo": "os vv. 18-19 como parêntese",
+    "texto": "Os vv. 18-19 interrompem o discurso para explicar ao leitor o fim de Judas: Pedro dificilmente diria a moradores de Jerusalém “na língua deles” (v. 19). Por isso a tradução os põe entre parênteses, como comentário de Lucas. O discurso continua no v. 20."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "adquiriu um terreno com o pagamento da sua injustiça",
+    "termo": "ἐκτήσατο χωρίον ἐκ μισθοῦ τῆς ἀδικίας",
+    "titulo": "Atos e Mateus",
+    "texto": "Em Mt 27:3-10, Judas devolve o dinheiro, enforca-se, e os sacerdotes compram com ele o campo do oleiro. Duas harmonizações antigas: Judas “adquiriu” o campo indiretamente, porque foi comprado com o dinheiro dele; e o corpo do enforcado teria caído e se rompido. Outros veem duas tradições independentes sobre o mesmo fato: a morte vergonhosa do traidor e o campo ligado a ela, chamado “Campo de Sangue”. “Pagamento da sua injustiça” é lit. “salário da injustiça” (2Pe 2:15)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "caindo de cabeça",
+    "termo": "πρηνὴς γενόμενος (prēnēs genomenos)",
+    "titulo": "prēnēs, hápax",
+    "texto": "Prēnēs é “de bruços, com a cabeça para a frente”: daí “caindo de cabeça”. Alguns estudiosos propuseram ligar a palavra a pimprēmi (“inchar”) e traduzir “tendo inchado”, em harmonia com uma tradição antiga, transmitida por Papias, sobre o inchaço do corpo de Judas. O sentido comum da palavra favorece “caindo de cabeça”.",
+    "revisar": true
+   },
+   {
+    "tipo": "tn",
+    "ancora": "rebentou-se",
+    "termo": "ἐλάκησεν (elakēsen)",
+    "titulo": "laskō, hápax",
+    "texto": "“Estalar, rachar com estrondo, rebentar”. A descrição é crua de propósito: é o fim do traidor (cf. a morte de Herodes, 12:23)."
+   }
+  ]
+ },
+ "Act.1.19": {
+  "t": "Isso se tornou conhecido de todos os habitantes de Jerusalém, de modo que aquele terreno passou a ser chamado, na língua deles, Aceldama, isto é, Campo de Sangue.)",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "na língua deles",
+    "termo": "τῇ ἰδίᾳ διαλέκτῳ αὐτῶν (tē idia dialektō autōn)",
+    "titulo": "aramaico",
+    "texto": "A língua dos moradores de Jerusalém era o aramaico. Lucas, escrevendo em grego para leitores de fora, explica o nome."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Aceldama",
+    "termo": "Ἁκελδαμάχ (Hakeldamach)",
+    "titulo": "ḥăqēl dəmā",
+    "texto": "Transcrição do aramaico ḥăqēl dəmā, “campo de sangue”. O -ch final pode refletir a pronúncia do alef final. Grafia tradicional em português: Aceldama (Almeida)."
+   }
+  ]
+ },
+ "Act.1.20": {
+  "t": "Pois está escrito no livro dos Salmos: ‘Fique deserta a sua morada, e não haja quem nela habite’, e: ‘Que outro tome o seu cargo.’",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Fique deserta a sua morada, e não haja quem nela habite",
+    "termo": "γενηθήτω ἡ ἔπαυλις αὐτοῦ ἔρημος (genēthētō hē epaulis autou erēmos)",
+    "titulo": "Sl 69:25 (68:26 LXX)",
+    "texto": "Citação livre do Salmo 69:25 conforme a Septuaginta. O salmo fala no plural (“a morada deles”) dos inimigos do justo sofredor; Pedro aplica ao singular, a Judas. O NT lê o Salmo 69 como salmo do Messias rejeitado (Jo 2:17; 15:25; Rm 15:3)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "morada",
+    "termo": "ἔπαυλις (epaulis)",
+    "titulo": "epaulis, hápax",
+    "texto": "“Habitação, propriedade rural, acampamento”. A ligação com o “terreno” de Judas (v. 18-19) parece intencional: o lugar dele fica deserto."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Que outro tome o seu cargo",
+    "termo": "τὴν ἐπισκοπὴν αὐτοῦ λαβέτω ἕτερος (tēn episkopēn autou labetō heteros)",
+    "titulo": "Sl 109:8 (108:8 LXX)",
+    "texto": "Citação exata da Septuaginta. Episkopē é a função de supervisão; da mesma família vem episkopos (“supervisor”, “bispo”). O primeiro salmo explica o fim de Judas; o segundo justifica escolher um substituto. O Textus Receptus tem labot (optativo), “tome”, com o mesmo sentido."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "e:",
+    "termo": "καί (kai)",
+    "titulo": "duas citações unidas",
+    "texto": "O grego une as duas citações com um simples kai (“e”). Elas vêm de salmos diferentes."
+   }
+  ]
+ },
+ "Act.1.21": {
+  "t": "Portanto, dentre os homens que nos acompanharam durante todo o tempo em que o Senhor Jesus andou entre nós,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "andou entre nós",
+    "termo": "εἰσῆλθεν καὶ ἐξῆλθεν ἐφ᾽ ἡμᾶς (eisēlthen kai exēlthen eph’ hēmas)",
+    "titulo": "“entrou e saiu”",
+    "texto": "Lit. “entrou e saiu sobre nós”. Expressão semítica para a convivência diária, a vida pública de alguém (Dt 31:2; 1Sm 18:16)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "dentre os homens",
+    "termo": "τῶν ... ἀνδρῶν (tōn ... andrōn)",
+    "titulo": "anēr",
+    "texto": "Pedro usa anēr (“homem”, varão), não anthrōpos (“ser humano”): o substituto deveria ser homem, como os Doze. Os Doze representam as doze tribos de Israel (Lc 22:30)."
+   }
+  ]
+ },
+ "Act.1.22": {
+  "t": "começando desde o batismo de João até o dia em que do meio de nós foi levado para o alto, é necessário que um deles se torne conosco testemunha da sua ressurreição.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "testemunha da sua ressurreição",
+    "termo": "μάρτυρα τῆς ἀναστάσεως αὐτοῦ (martyra tēs anastaseōs autou)",
+    "titulo": "o critério dos Doze",
+    "texto": "O substituto precisava ter acompanhado Jesus desde o batismo de João até a ascensão e ter visto o ressuscitado. O testemunho apostólico é testemunho ocular, da vida inteira de Jesus e da ressurreição (2:32; 3:15; 10:39-41). Paulo, chamado depois, é apóstolo em outro sentido (9:15; 1Co 15:8-9)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "é necessário que um deles se torne",
+    "termo": "γενέσθαι ἕνα τούτων (genesthai hena toutōn)",
+    "titulo": "a construção",
+    "texto": "O dei (“é necessário”) do v. 21 só é completado aqui, depois de longa descrição. A tradução repete “é necessário” para que a frase seja clara em português. O Textus Receptus e o Texto Bizantino põem genesthai em outra posição, sem efeito na tradução."
+   }
+  ]
+ },
+ "Act.1.23": {
+  "t": "Então apresentaram dois: José, chamado Barsabás, que tinha o sobrenome de Justo, e Matias.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "apresentaram",
+    "termo": "ἔστησαν (estēsan)",
+    "titulo": "quem apresentou?",
+    "texto": "Lit. “puseram de pé”. O sujeito é o grupo inteiro (os cento e vinte). Um manuscrito antigo, o Códice de Beza (D), lê o singular estēsen (“ele”, Pedro, apresentou), mas o plural é o texto bem atestado."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Barsabás",
+    "termo": "Βαρσαββᾶν (Barsabban)",
+    "titulo": "nome aramaico e nome latino",
+    "texto": "Barsabás é aramaico: “filho do sábado” (nascido num sábado) ou “filho de Sabá”. Justo é sobrenome latino (Iustus), comum entre judeus da época. Um Judas Barsabás aparece em 15:22. De Matias nada mais se sabe pelo NT."
+   }
+  ]
+ },
+ "Act.1.24": {
+  "t": "E oraram assim: “Tu, Senhor, que conheces o coração de todos, mostra qual destes dois escolheste",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "que conheces o coração de todos",
+    "termo": "καρδιογνῶστα πάντων (kardiognōsta pantōn)",
+    "titulo": "kardiognōstēs",
+    "texto": "Lit. “conhecedor de corações de todos”. Palavra rara (aqui e em 15:8, onde se refere a Deus). Conhecer o coração é prerrogativa divina (1Sm 16:7; Jr 17:10)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Tu, Senhor",
+    "termo": "σὺ κύριε (sy kyrie)",
+    "titulo": "Senhor Deus ou Senhor Jesus?",
+    "texto": "Pode ser Deus (como em 15:8, onde o mesmo título é dado a Deus) ou Jesus, que havia escolhido os apóstolos (1:2) e é chamado “Senhor” no v. 21. Muitos preferem Jesus por causa do v. 2. Seja como for, a oração dirigida ao Senhor que conhece corações é oração ao Deus de Israel."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "mostra",
+    "termo": "ἀνάδειξον (anadeixon)",
+    "titulo": "anadeiknymi",
+    "texto": "“Mostrar claramente, designar publicamente” (cf. Lc 10:1, onde designa os setenta). Raro no NT."
+   }
+  ]
+ },
+ "Act.1.25": {
+  "t": "para ocupar o lugar neste ministério e apostolado, do qual Judas se desviou para ir ao lugar que era seu.”",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "ocupar o lugar",
+    "termo": "τὸν τόπον (ton topon)",
+    "titulo": "topon ou klēron",
+    "texto": "O texto crítico traz topon (“lugar”); o Textus Receptus e o Texto Bizantino, klēron (“a parte, a sorte”). O texto crítico cria jogo de palavras com o fim do versículo: Judas deixou o seu lugar entre os apóstolos para ir “ao lugar que era seu”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "se desviou",
+    "termo": "παρέβη (parebē)",
+    "titulo": "parabainō",
+    "texto": "“Passar ao lado, transgredir, desviar-se”. Raro no NT (Mt 15:2-3 no sentido de transgredir). Judas abandonou o posto."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "ir ao lugar que era seu",
+    "termo": "πορευθῆναι εἰς τὸν τόπον τὸν ἴδιον (poreuthēnai eis ton topon ton idion)",
+    "titulo": "eufemismo",
+    "texto": "Expressão contida, que indica o destino de Judas depois da morte. O texto não descreve esse lugar; a expressão contrasta o “lugar” do ministério que ele recebeu com o destino que ele mesmo escolheu."
+   }
+  ]
+ },
+ "Act.1.26": {
+  "t": "Então lançaram sortes a respeito deles, e a sorte caiu sobre Matias; e ele foi contado com os onze apóstolos.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "lançaram sortes",
+    "termo": "ἔδωκαν κλήρους (edōkan klērous)",
+    "titulo": "a sorte",
+    "texto": "Lit. “deram sortes”: provavelmente pedras marcadas sacudidas num vaso até uma sair. Era modo bíblico de buscar a decisão de Deus (Lv 16:8; Pv 16:33; Lc 1:9). Depois de Pentecostes, Atos não volta a mencioná-lo; as decisões passam a ser atribuídas à direção do Espírito (13:2; 15:28). O texto não critica a escolha de Matias."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "foi contado com",
+    "termo": "συγκατεψηφίσθη (synkatepsēphisthē)",
+    "titulo": "synkatapsēphizomai, hápax",
+    "texto": "De psēphos, a pedrinha usada para votar: “foi computado junto, incluído por votação”. Aqui não indica votação, mas o reconhecimento de Matias como um dos Doze."
+   }
+  ]
+ }
+}

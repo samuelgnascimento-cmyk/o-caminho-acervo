@@ -1,0 +1,1287 @@
+{
+ "Jhn.1.1": {
+  "t": "No princípio era a Palavra, e a Palavra estava com Deus, e a Palavra era Deus.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "No princípio",
+    "termo": "Ἐν ἀρχῇ (en archē)",
+    "titulo": "eco de Gênesis 1:1",
+    "texto": "As duas primeiras palavras são as mesmas de Gn 1:1 na Septuaginta. João reconta o começo de tudo: antes da criação, a Palavra já existia. O imperfeito ēn (“era”), repetido três vezes, descreve existência contínua, em contraste com egeneto (“veio a existir”), usado para a criação no v. 3."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "a Palavra",
+    "termo": "ὁ λόγος (ho logos)",
+    "titulo": "logos: “a Palavra” ou “o Verbo”",
+    "texto": "Logos é palavra, discurso, razão. A tradição em português consagrou “o Verbo” (do latim Verbum), mas hoje “verbo” lembra antes de tudo a classe gramatical. “A Palavra” é o sentido corrente do termo e mantém o eco do AT, em que Deus cria e age pela sua palavra (Gn 1:3; Sl 33:6; Is 55:11). O termo também dialogava com a filosofia grega, para a qual o logos era a razão que ordena o mundo; João, porém, diz algo que nenhum filósofo disse: o Logos é pessoa e se fez carne (v. 14). O gênero feminino de “Palavra” em português não diz nada sobre a pessoa de Cristo; é só concordância gramatical."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "estava com Deus",
+    "termo": "ἦν πρὸς τὸν θεόν (ēn pros ton theon)",
+    "titulo": "pros: “com”, “junto de”",
+    "texto": "Pros com acusativo indica, em geral, direção (“para”, “em direção a”); aqui, com o verbo “ser”, significa “junto de, em companhia de” (como em Mc 6:3). Alguns comentaristas veem também a ideia de relação pessoal, “voltada para Deus”, mas não se deve forçar a preposição. O artigo em ton theon indica o Pai: a Palavra é distinta dele."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "a Palavra era Deus",
+    "termo": "θεὸς ἦν ὁ λόγος (theos ēn ho logos)",
+    "titulo": "por que não “um deus”",
+    "texto": "A ordem grega é “e Deus era a Palavra”. O artigo está em logos e não em theos: isso marca logos como sujeito e theos como predicado. Se João tivesse escrito ho theos ēn ho logos, as duas palavras seriam intercambiáveis, e a frase diria que a Palavra é idêntica a toda a realidade de Deus, inclusive ao Pai, com quem ela “estava” (o erro chamado depois de sabelianismo). Sem o artigo e posto antes do verbo, theos descreve a natureza da Palavra: tudo o que Deus é, a Palavra é. A tradução “um deus” (da Tradução do Novo Mundo, das Testemunhas de Jeová) não se sustenta: no mesmo capítulo theos sem artigo designa o único Deus (vv. 6, 12, 13, 18), e o monoteísmo judaico de João não admite um segundo deus menor. “Divina” também enfraquece o texto, pois João dispunha do adjetivo theios e não o usou. Sobre a gramática, ver E. C. Colwell, “A Definite Rule for the Use of the Article in the Greek New Testament”, JBL 52 (1933); P. B. Harner, “Qualitative Anarthrous Predicate Nouns”, JBL 92 (1973); D. B. Wallace, Greek Grammar Beyond the Basics (1996). A frase sustenta a confissão de Niceia: o Filho é “Deus verdadeiro de Deus verdadeiro”, distinto do Pai e da mesma substância."
+   }
+  ]
+ },
+ "Jhn.1.2": {
+  "t": "Ela estava no princípio com Deus.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Ela",
+    "termo": "οὗτος (houtos)",
+    "titulo": "o pronome",
+    "texto": "Lit. “Este”. O grego usa o masculino porque logos é masculino; o português usa o feminino porque “Palavra” é feminino. A partir do v. 10, quando o texto passa a falar da pessoa que veio ao mundo, o grego usa o masculino mesmo onde a palavra anterior era neutra (“a luz”), e a tradução passa para “ele”."
+   }
+  ]
+ },
+ "Jhn.1.3": {
+  "t": "Todas as coisas vieram a existir por meio dela, e sem ela não veio a existir nem uma só coisa do que existe.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "vieram a existir",
+    "termo": "ἐγένετο (egeneto)",
+    "titulo": "ginomai",
+    "texto": "“Vir a ser, vir a existir”, em contraste com o ēn (“era”) do v. 1: a Palavra sempre foi; o mundo começou a existir. “Por meio dela” (di’ autou) apresenta a Palavra como agente da criação, sem negar que o Pai é o Criador (1Co 8:6; Cl 1:16; Hb 1:2)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "do que existe",
+    "termo": "ὃ γέγονεν (ho gegonen)",
+    "titulo": "a pontuação",
+    "texto": "Os manuscritos antigos não tinham pontuação. O texto-base liga ho gegonen ao v. 3: “nem uma só coisa do que existe”. Muitos escritores cristãos dos primeiros séculos, e algumas edições modernas, ligam a expressão ao v. 4: “o que veio a existir, nele era vida”. A leitura seguida aqui é a mais simples e faz do v. 3 uma afirmação completa, com o perfeito gegonen (“veio a existir e existe”) fechando a frase.",
+    "revisar": true
+   }
+  ]
+ },
+ "Jhn.1.4": {
+  "t": "Nela estava a vida, e a vida era a luz dos homens.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "a vida era a luz",
+    "termo": "ἡ ζωὴ ἦν τὸ φῶς (hē zōē ēn to phōs)",
+    "titulo": "vida e luz",
+    "texto": "Duas palavras centrais do Evangelho. A vida (zōē) é, em João, a vida de Deus dada aos que creem (3:16; 20:31); a luz (phōs) é a revelação que vem com ela (8:12). Eco da criação: no princípio, a primeira coisa criada foi a luz (Gn 1:3)."
+   }
+  ]
+ },
+ "Jhn.1.5": {
+  "t": "A luz brilha nas trevas, e as trevas não a venceram.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "não a venceram",
+    "termo": "οὐ κατέλαβεν (ou katelaben)",
+    "titulo": "katalambanō: “vencer” ou “compreender”",
+    "texto": "O verbo pode significar “apoderar-se, vencer, alcançar” ou “compreender”. A tradição em português (“não a compreenderam”) seguiu o segundo sentido. Em 12:35, porém, o mesmo verbo descreve as trevas que “alcançam” o caminhante, e o contraste do versículo é de luta, não de entendimento. Por isso “venceram”. É possível que João jogue com os dois sentidos."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "brilha",
+    "termo": "φαίνει (phainei)",
+    "titulo": "presente e aoristo",
+    "texto": "“Brilha” está no presente: a luz continua brilhando. “Venceram” está no aoristo, que olha o conflito como fato concluído: as trevas não prevaleceram."
+   }
+  ]
+ },
+ "Jhn.1.6": {
+  "t": "Veio um homem enviado por Deus; o seu nome era João.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "João",
+    "termo": "Ἰωάννης (Iōannēs)",
+    "titulo": "João Batista",
+    "texto": "Trata-se de João Batista, não do apóstolo João. Este Evangelho nunca o chama de “Batista”, só de “João”. “Veio” (egeneto, “surgiu”) marca o contraste com a Palavra, que “era” (v. 1): João aparece num momento da história; a Palavra sempre existiu."
+   }
+  ]
+ },
+ "Jhn.1.7": {
+  "t": "Ele veio como testemunha, para testemunhar a respeito da luz, a fim de que todos cressem por meio dele.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "como testemunha",
+    "termo": "εἰς μαρτυρίαν (eis martyrian)",
+    "titulo": "“para testemunho”",
+    "texto": "Lit. “para testemunho”. Martyria (testemunho) e martyreō (testemunhar) são palavras-chave do Evangelho, que se apresenta como um processo em que várias testemunhas falam a favor de Jesus (5:31-40). “Por meio dele” refere-se a João, cujo testemunho leva à fé em Jesus."
+   }
+  ]
+ },
+ "Jhn.1.8": {
+  "t": "Ele não era a luz, mas veio para testemunhar a respeito da luz.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "mas veio para testemunhar",
+    "termo": "ἀλλ᾽ ἵνα μαρτυρήσῃ",
+    "titulo": "elipse",
+    "texto": "Lit. “mas para que testemunhasse”. O grego omite o verbo principal; “veio” foi tomado do v. 7. A insistência em que João não era a luz pode refletir a existência de seguidores de João Batista que o exaltavam demais (cf. At 19:1-7)."
+   }
+  ]
+ },
+ "Jhn.1.9": {
+  "t": "A luz verdadeira, que ilumina todo ser humano, estava vindo ao mundo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "estava vindo ao mundo",
+    "termo": "ἦν ... ἐρχόμενον εἰς τὸν κόσμον (ēn ... erchomenon)",
+    "titulo": "quem vem ao mundo?",
+    "texto": "O particípio erchomenon (“vindo”) pode concordar com “a luz” (neutro) ou com “todo ser humano” (masculino acusativo; as formas coincidem). A tradição latina e a ARC entenderam “todo homem que vem ao mundo”. Mas João fala muitas vezes de Jesus como aquele que “vem ao mundo” (3:19; 6:14; 11:27; 12:46), e o v. 10 continua com a luz já no mundo. Por isso a ligação com “luz”, formando com ēn um tempo composto: “estava vindo”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "ser humano",
+    "termo": "ἄνθρωπον (anthrōpon)",
+    "titulo": "anthrōpos",
+    "texto": "Anthrōpos designa o ser humano, homem ou mulher. Aqui, onde a palavra está sozinha e o sentido é claramente geral, foi traduzida por “ser humano”."
+   }
+  ]
+ },
+ "Jhn.1.10": {
+  "t": "Ele estava no mundo, e o mundo veio a existir por meio dele, e o mundo não o reconheceu.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "não o reconheceu",
+    "termo": "αὐτὸν οὐκ ἔγνω (auton ouk egnō)",
+    "titulo": "o masculino",
+    "texto": "Ginōskō é “conhecer”; aqui, conhecer quem ele era: “reconhecer”. O pronome autos passa a ser masculino, embora a palavra anterior, “luz”, seja neutra em grego: João já fala da pessoa que veio. O terceiro “e” tem valor adversativo (“e, no entanto”), traço frequente do estilo de João."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "mundo",
+    "termo": "κόσμος (kosmos)",
+    "titulo": "kosmos em João",
+    "texto": "Kosmos aparece cerca de 80 vezes em João. Pode ser o universo criado, a humanidade (3:16) ou a humanidade organizada contra Deus (15:18-19). Aqui os três sentidos se tocam: o mundo que ele criou é o mesmo que não o reconheceu."
+   }
+  ]
+ },
+ "Jhn.1.11": {
+  "t": "Veio para o que era seu, e os seus não o receberam.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "o que era seu",
+    "termo": "τὰ ἴδια ... οἱ ἴδιοι (ta idia ... hoi idioi)",
+    "titulo": "neutro e masculino",
+    "texto": "A primeira expressão é neutra (“as coisas próprias”: sua casa, sua terra); a segunda, masculina (“os próprios”: seu povo). Pode referir-se ao mundo como propriedade do Criador, ou a Israel, o povo que Deus escolheu como seu (Êx 19:5). A segunda leitura é a mais comum, mas as duas não se excluem. Em 19:27 ta idia é “a sua casa”."
+   }
+  ]
+ },
+ "Jhn.1.12": {
+  "t": "Mas, a todos os que o receberam, aos que creem no seu nome, deu o direito de se tornarem filhos de Deus;",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "o direito",
+    "termo": "ἐξουσίαν (exousian)",
+    "titulo": "exousia",
+    "texto": "Autoridade, direito legítimo, não “poder” no sentido de força (ARC: “poder”). Quem crê recebe o direito de tornar-se filho; não o conquista por si mesmo (v. 13)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "filhos de Deus",
+    "termo": "τέκνα θεοῦ (tekna theou)",
+    "titulo": "tekna e huios",
+    "texto": "João chama os crentes de tekna (“filhos, crianças”, palavra ligada a gerar) e reserva huios (“filho”) para Jesus. Paulo usa huioi para os crentes (Rm 8:14), com a imagem da adoção; João usa a do novo nascimento (v. 13; 3:3-8)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "creem no seu nome",
+    "termo": "πιστεύουσιν εἰς τὸ ὄνομα αὐτοῦ",
+    "titulo": "crer “em”",
+    "texto": "Pisteuō eis (“crer em”, lit. “crer para dentro de”) é construção típica de João: confiar-se à pessoa, não só aceitar uma informação. O “nome” representa a própria pessoa e o que ela é."
+   }
+  ]
+ },
+ "Jhn.1.13": {
+  "t": "os quais não nasceram do sangue, nem da vontade da carne, nem da vontade do homem, mas de Deus.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "do sangue",
+    "termo": "ἐξ αἱμάτων (ex haimatōn)",
+    "titulo": "“de sangues”",
+    "texto": "O grego tem o plural, “de sangues”, talvez segundo a ideia antiga de que a criança se formava do sangue dos pais. A expressão nega qualquer origem física ou hereditária: ser filho de Deus não vem da linhagem (cf. 8:33-39)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "do homem",
+    "termo": "ἀνδρός (andros)",
+    "titulo": "anēr",
+    "texto": "Anēr é o homem adulto, o marido. A frase exclui sucessivamente a origem física, o desejo humano (“vontade da carne”, sem sentido de pecado aqui) e a iniciativa do pai."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "os quais não nasceram",
+    "termo": "οἳ ... ἐγεννήθησαν (hoi ... egennēthēsan)",
+    "titulo": "plural ou singular",
+    "texto": "Todos os manuscritos gregos trazem o plural: os que creem nasceram de Deus. Algumas testemunhas latinas antigas e alguns escritores dos séculos II e III, como Tertuliano, leram o singular (“o qual ... nasceu”), aplicando a frase ao nascimento virginal de Cristo. O apoio grego unânime favorece o plural."
+   }
+  ]
+ },
+ "Jhn.1.14": {
+  "t": "E a Palavra se fez carne e habitou entre nós, e vimos a sua glória, glória como a do Filho único vindo do Pai, cheio de graça e de verdade.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "se fez carne",
+    "termo": "σὰρξ ἐγένετο (sarx egeneto)",
+    "titulo": "sarx",
+    "texto": "“Carne” aqui é a natureza humana completa, frágil e mortal, não uma aparência de corpo nem algo pecaminoso. A palavra é forte de propósito, contra quem negava que Cristo tivesse vindo em carne (1Jo 4:2). A Palavra não deixou de ser Deus; tornou-se também homem (Calcedônia, 451)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "habitou",
+    "termo": "ἐσκήνωσεν (eskēnōsen)",
+    "titulo": "“armou a sua tenda”",
+    "texto": "Skēnoō é “armar tenda, morar em tenda”. Evoca o tabernáculo (skēnē na Septuaginta), onde Deus habitava no meio de Israel e cuja glória o enchia (Êx 25:8-9; 40:34-35). Agora a presença de Deus habita entre os homens na carne de Jesus. Alguns notam a semelhança de som entre skēnē e o hebraico shakan (“habitar”), base do termo rabínico shekiná."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Filho único",
+    "termo": "μονογενοῦς (monogenous)",
+    "titulo": "monogenēs: “único” ou “unigênito”",
+    "texto": "Monogenēs significa “único em seu gênero, único”: é usado para o filho único (Lc 7:12; 9:38) e para Isaque, filho singular de Abraão, embora Abraão tivesse outros filhos (Hb 11:17). A palavra vem de genos (“espécie”) e não de gennaō (“gerar”); por isso “único” e não “unigênito”, forma tradicional que vem do latim unigenitus. O grego diz só “como de único da parte do Pai”; “Filho” está implícito na relação com o Pai. A doutrina da geração eterna do Filho não depende desta palavra, mas da relação Pai e Filho em todo o Evangelho."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "cheio de graça e de verdade",
+    "termo": "πλήρης χάριτος καὶ ἀληθείας",
+    "titulo": "eco de Êxodo 34:6",
+    "texto": "Na revelação a Moisés no Sinai, Deus se proclama “grande em amor leal e fidelidade” (hesed we’emet, Êx 34:6). “Graça e verdade” traduz bem esse par. O que Moisés pediu para ver (Êx 33:18) é agora visto na Palavra feita carne. Plērēs (“cheio”) é indeclinável nesta época e pode referir-se à Palavra ou à glória; o sentido é praticamente o mesmo."
+   }
+  ]
+ },
+ "Jhn.1.15": {
+  "t": "João testemunha a respeito dele e clama: “Este era aquele de quem eu disse: ‘Aquele que vem depois de mim passou à minha frente, porque existia antes de mim.’”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "passou à minha frente, porque existia antes de mim",
+    "termo": "ἔμπροσθέν μου γέγονεν, ὅτι πρῶτός μου ἦν",
+    "titulo": "jogo de tempo e posição",
+    "texto": "Lit. “o que vem atrás de mim veio a estar à minha frente, porque era primeiro do que eu”. João era mais velho e começou antes, mas Jesus o supera em dignidade, porque existia antes dele: alusão à preexistência (v. 1). “Clama” traduz o perfeito kekragen, que tem sentido de presente: o testemunho de João continua ecoando."
+   }
+  ]
+ },
+ "Jhn.1.16": {
+  "t": "Pois da sua plenitude todos nós recebemos, e graça sobre graça.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "graça sobre graça",
+    "termo": "χάριν ἀντὶ χάριτος (charin anti charitos)",
+    "titulo": "anti: “sobre” ou “em lugar de”",
+    "texto": "Anti significa normalmente “em lugar de”. Por isso alguns entendem: a graça da nova aliança veio em lugar da graça dada por meio da lei (v. 17). Outros entendem graça que se acumula, uma após outra, “graça sobre graça”. A segunda é a mais comum nas traduções e combina com “plenitude”; a primeira tem a favor o sentido habitual de anti e o v. 17.",
+    "revisar": true
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Pois",
+    "termo": "ὅτι (hoti)",
+    "titulo": "hoti ou kai",
+    "texto": "O texto crítico traz hoti (“pois”); o Textus Receptus e o Texto Bizantino, kai (“e”). Com hoti, o v. 16 explica o v. 14, e o v. 15 fica como um parêntese."
+   }
+  ]
+ },
+ "Jhn.1.17": {
+  "t": "Porque a lei foi dada por meio de Moisés; a graça e a verdade vieram por meio de Jesus Cristo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Cristo",
+    "termo": "Χριστοῦ (Christou)",
+    "titulo": "Christos: “Messias”, “Ungido”",
+    "texto": "Christos é a tradução grega do hebraico mashiah, “ungido”: o rei esperado da linhagem de Davi. João é o único autor do NT que conserva a palavra semítica, transliterada (Messias, 1:41; 4:25). Aqui aparece como nome (“Jesus Cristo”); quando é título, com artigo, a APV traduz “o Cristo” (1:20)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "a graça e a verdade vieram",
+    "termo": "ἡ χάρις καὶ ἡ ἀλήθεια ... ἐγένετο",
+    "titulo": "lei e graça",
+    "texto": "Não há “mas” no grego: as duas frases estão lado a lado. A lei foi dom de Deus por meio de Moisés; a graça e a verdade em sua plenitude (v. 14) vieram com Jesus. É contraste de grau e de cumprimento, não oposição entre um Deus da lei e um Deus da graça."
+   }
+  ]
+ },
+ "Jhn.1.18": {
+  "t": "Ninguém jamais viu Deus; o Único, que é Deus e está junto ao coração do Pai, foi quem o revelou.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "o Único, que é Deus",
+    "termo": "μονογενὴς θεός (monogenēs theos)",
+    "titulo": "“Deus único” ou “Filho único”",
+    "texto": "O texto crítico traz monogenēs theos (“Único, Deus”), com 𝔓66, 𝔓75 (este com artigo), ℵ e B, os manuscritos mais antigos. O THGNT também traz theos, com o artigo. O Textus Receptus e o Texto Bizantino, com A e a maioria dos manuscritos posteriores, trazem ho monogenēs huios (“o Filho único”), forma que aparece também em 3:16, 18 e 1Jo 4:9. A leitura theos é mais antiga e mais difícil, e é fácil entender um copista mudando-a para huios por harmonização; o contrário é menos provável (Metzger). B. D. Ehrman (The Orthodox Corruption of Scripture, 1993) defende huios, argumentando que theos seria acréscimo antiadocionista. Com theos, o prólogo termina como começou (v. 1): a Palavra é Deus.",
+    "revisar": true
+   },
+   {
+    "tipo": "tn",
+    "ancora": "o Único, que é Deus",
+    "termo": "μονογενὴς θεός",
+    "titulo": "como traduzir",
+    "texto": "Lit. “único Deus”. Traduzir “o Deus único” sugeriria o Pai, o “único Deus verdadeiro” (17:3), e confundiria o leitor, pois o versículo distingue o Único do Pai. As duas palavras estão em aposição: monogenēs (“o Único”, o Filho, cf. v. 14) é identificado como theos. Outras traduções possíveis: “Deus, o Filho único” ou “o único Filho, que é Deus”; estas acrescentam “Filho”, que não está no texto-base.",
+    "revisar": true
+   },
+   {
+    "tipo": "tn",
+    "ancora": "junto ao coração do Pai",
+    "termo": "εἰς τὸν κόλπον τοῦ πατρός (eis ton kolpon)",
+    "titulo": "“no seio do Pai”",
+    "texto": "Lit. “no seio (peito) do Pai”. Imagem de intimidade: à mesa, reclinado, o discípulo amado estava “no peito” de Jesus (13:23). “Junto ao coração” guarda a imagem sem o arcaísmo de “seio”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "o revelou",
+    "termo": "ἐξηγήσατο (exēgēsato)",
+    "titulo": "exēgeomai",
+    "texto": "“Narrar, explicar, dar a conhecer” (de onde vem “exegese”). O verbo não tem objeto no grego; “o” (a Deus) está implícito. Jesus é a explicação viva de Deus (14:9)."
+   }
+  ]
+ },
+ "Jhn.1.19": {
+  "t": "Este é o testemunho de João, quando os judeus enviaram de Jerusalém sacerdotes e levitas para lhe perguntarem: “Quem é você?”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "os judeus",
+    "termo": "οἱ Ἰουδαῖοι (hoi Ioudaioi)",
+    "titulo": "“os judeus” em João",
+    "texto": "Ioudaioi aparece cerca de 70 vezes em João, com sentidos diferentes. Às vezes é o povo judeu em geral, sem nota negativa (4:22; 11:19). Muitas vezes, como aqui, designa as autoridades religiosas de Jerusalém que se opõem a Jesus: são “os judeus” que enviam sacerdotes, embora Jesus, João e os discípulos fossem todos judeus. A palavra nunca deve ser lida como acusação contra o povo judeu de todos os tempos."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "levitas",
+    "termo": "Λευίτας (Leuitas)",
+    "titulo": "Leuitēs, raro",
+    "texto": "Só três vezes no NT (aqui, Lc 10:32; At 4:36). Membros da tribo de Levi que auxiliavam os sacerdotes no templo; alguns tinham funções de ensino e de guarda."
+   }
+  ]
+ },
+ "Jhn.1.20": {
+  "t": "Ele confessou e não negou; confessou: “Não sou eu o Cristo.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Não sou eu o Cristo",
+    "termo": "ἐγὼ οὐκ εἰμὶ ὁ χριστός (egō ouk eimi ho christos)",
+    "titulo": "ênfase",
+    "texto": "O pronome egō, que o grego pode dispensar, é enfático: “eu não sou”, isto é, o Cristo é outro. Ho christos com artigo é título, “o Cristo”, o Messias esperado (ver 1:17). A tripla afirmação (confessou, não negou, confessou) mostra a clareza da recusa."
+   }
+  ]
+ },
+ "Jhn.1.21": {
+  "t": "Então lhe perguntaram: “E então? Você é Elias?” Ele disse: “Não sou.” “Você é o Profeta?” Ele respondeu: “Não.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Elias",
+    "termo": "Ἠλίας (Ēlias)",
+    "titulo": "a volta de Elias",
+    "texto": "Ml 4:5 (3:23 no hebraico) promete a volta de Elias antes do dia do Senhor. João nega ser Elias em pessoa, voltando do céu, como muitos esperavam. Os Sinóticos o identificam com o Elias prometido no sentido da missão (Mt 11:14; 17:12; Lc 1:17: “no espírito e poder de Elias”). As duas afirmações tratam de coisas diferentes."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "o Profeta",
+    "termo": "ὁ προφήτης (ho prophētēs)",
+    "titulo": "o profeta como Moisés",
+    "texto": "O artigo indica uma figura esperada: o profeta semelhante a Moisés, prometido em Dt 18:15-18. Em João, a multidão o distingue às vezes do Cristo (7:40-41) e às vezes o identifica com Jesus (6:14). Pedro aplica a promessa a Jesus (At 3:22)."
+   }
+  ]
+ },
+ "Jhn.1.22": {
+  "t": "Disseram-lhe então: “Quem é você? Precisamos dar uma resposta aos que nos enviaram. O que você diz de si mesmo?”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Precisamos dar uma resposta",
+    "termo": "ἵνα ἀπόκρισιν δῶμεν (hina apokrisin dōmen)",
+    "titulo": "oração final",
+    "texto": "Lit. “para que demos resposta”. A oração de finalidade depende de uma ideia implícita (“diga-nos, para que...”); em português ficou como frase independente."
+   }
+  ]
+ },
+ "Jhn.1.23": {
+  "t": "Ele disse: “Eu sou a voz do que clama no deserto: ‘Endireitem o caminho do Senhor’, como disse o profeta Isaías.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Endireitem o caminho do Senhor",
+    "termo": "Is 40:3",
+    "titulo": "citação de Isaías 40:3",
+    "texto": "Os quatro Evangelhos aplicam Is 40:3 a João Batista. João segue em geral a Septuaginta, que liga “no deserto” à voz (“voz do que clama no deserto”); no hebraico, “no deserto” liga-se à ordem (“no deserto preparem o caminho”). João condensa as duas ordens de Isaías (“preparem” e “endireitem”) em uma só. Onde o grego tem kyrios (“Senhor”), o hebraico tem YHWH, o nome de Deus: o caminho preparado para o SENHOR é o caminho de Jesus."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Endireitem",
+    "termo": "εὐθύνατε (euthynate)",
+    "titulo": "euthynō, raro",
+    "texto": "Só aqui e em Tg 3:4 (onde é “pilotar, conduzir em linha reta”). “Tornar reto”: a imagem é a das estradas aplainadas para a chegada de um rei; o sentido é o arrependimento que prepara a vinda de Deus."
+   }
+  ]
+ },
+ "Jhn.1.24": {
+  "t": "Eles tinham sido enviados da parte dos fariseus.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "da parte dos fariseus",
+    "termo": "ἀπεσταλμένοι ἦσαν ἐκ τῶν Φαρισαίων",
+    "titulo": "quem foi enviado?",
+    "texto": "Sem o artigo (texto crítico), a frase pode significar “tinham sido enviados pelos fariseus” ou “alguns dos fariseus tinham sido enviados”, um segundo grupo. O Textus Receptus e o Texto Bizantino trazem o artigo (hoi apestalmenoi, “os enviados eram dos fariseus”). Seguiu-se a leitura que trata o versículo como explicação sobre a delegação do v. 19."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "fariseus",
+    "termo": "Φαρισαίων (Pharisaiōn)",
+    "titulo": "os fariseus",
+    "texto": "Movimento leigo judaico que se dedicava ao estudo e à observância rigorosa da lei, incluindo as tradições orais. Gozava de grande influência no povo. Sacerdotes e levitas (v. 19) pertenciam em geral a outro grupo, ligado ao templo."
+   }
+  ]
+ },
+ "Jhn.1.25": {
+  "t": "E lhe perguntaram: “Então por que você batiza, se não é o Cristo, nem Elias, nem o Profeta?”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "por que você batiza",
+    "termo": "τί οὖν βαπτίζεις",
+    "titulo": "o batismo de João",
+    "texto": "O batismo era praticado por alguns grupos judeus (há indícios de que os prosélitos gentios eram batizados ao entrar no judaísmo). Batizar o próprio povo de Israel, chamando-o ao arrependimento, parecia gesto de alguém com autoridade especial, ligada ao tempo final (cf. Ez 36:25; Zc 13:1)."
+   }
+  ]
+ },
+ "Jhn.1.26": {
+  "t": "João lhes respondeu: “Eu batizo com água; no meio de vocês está alguém que vocês não conhecem,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "com água",
+    "termo": "ἐν ὕδατι (en hydati)",
+    "titulo": "en: “com” ou “em”",
+    "texto": "En pode indicar o meio (“com água”) ou o elemento (“na água”). “Com” mantém o paralelo com “batiza com o Espírito Santo” (v. 33)."
+   }
+  ]
+ },
+ "Jhn.1.27": {
+  "t": "aquele que vem depois de mim, de quem eu não sou digno de desatar a correia da sandália.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "desatar a correia da sandália",
+    "termo": "λύσω αὐτοῦ τὸν ἱμάντα τοῦ ὑποδήματος",
+    "titulo": "serviço de escravo",
+    "texto": "Desatar e carregar as sandálias era tarefa de escravo. João se põe abaixo do mais humilde serviço diante daquele que vem."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "aquele que vem depois de mim",
+    "termo": "ὁ ὀπίσω μου ἐρχόμενος",
+    "titulo": "acréscimo do TR",
+    "texto": "O Textus Receptus e o Texto Bizantino acrescentam “este é o que passou à minha frente” (autos estin hos emprosthen mou gegonen), frase que vem dos vv. 15 e 30. Os manuscritos mais antigos não a trazem."
+   }
+  ]
+ },
+ "Jhn.1.28": {
+  "t": "Essas coisas aconteceram em Betânia, do outro lado do Jordão, onde João estava batizando.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "Betânia",
+    "termo": "Βηθανίᾳ (Bēthania)",
+    "titulo": "Betânia ou Betábara",
+    "texto": "O texto crítico traz “Betânia”, com os manuscritos mais antigos e a maioria. O Textus Receptus traz “Betábara” (por isso a ARC: “Betábara”), leitura que Orígenes preferiu por não conhecer em seu tempo nenhuma Betânia junto ao Jordão. Esta Betânia, “do outro lado do Jordão” (a leste), é distinta da Betânia de Marta e Maria, perto de Jerusalém (11:18); a localização exata é incerta."
+   }
+  ]
+ },
+ "Jhn.1.29": {
+  "t": "No dia seguinte, João viu Jesus vindo em sua direção e disse: “Eis o Cordeiro de Deus, que tira o pecado do mundo!",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "João viu",
+    "termo": "βλέπει (blepei)",
+    "titulo": "presente histórico",
+    "texto": "Lit. “vê ... e diz”. João usa com frequência o presente para narrar fatos passados, o que dá vivacidade ao relato; em português, o passado é mais natural. “João” foi explicitado para clareza; o Textus Receptus o traz no texto."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Cordeiro de Deus",
+    "termo": "ὁ ἀμνὸς τοῦ θεοῦ (ho amnos tou theou)",
+    "titulo": "que cordeiro?",
+    "texto": "A imagem reúne vários fios do AT: o cordeiro pascal, cujo sangue livrou Israel (Êx 12; João situa a morte de Jesus na hora do sacrifício pascal, 19:14, 36); o Servo de Is 53:7, levado “como cordeiro ao matadouro” e que carrega o pecado de muitos (53:12); e o cordeiro que Deus proveria (Gn 22:8). Alguns veem também o cordeiro guerreiro do Apocalipse judaico; o “tira o pecado” favorece o sentido sacrificial."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "tira o pecado do mundo",
+    "termo": "ὁ αἴρων τὴν ἁμαρτίαν (ho airōn tēn hamartian)",
+    "titulo": "airō",
+    "texto": "Airō é “levantar, carregar, remover”: o Cordeiro carrega o pecado e o remove. “Pecado” está no singular: a condição de todo o mundo, não só atos isolados."
+   }
+  ]
+ },
+ "Jhn.1.30": {
+  "t": "Este é aquele a respeito de quem eu disse: ‘Depois de mim vem um homem que passou à minha frente, porque existia antes de mim.’",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "a respeito de quem",
+    "termo": "ὑπὲρ οὗ (hyper hou)",
+    "titulo": "hyper ou peri",
+    "texto": "O texto crítico traz hyper hou; o Textus Receptus e o Texto Bizantino, peri hou. Mesmo sentido: “a respeito de quem”."
+   }
+  ]
+ },
+ "Jhn.1.31": {
+  "t": "Eu mesmo não o conhecia, mas foi para que ele fosse manifestado a Israel que eu vim batizando com água.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Eu mesmo não o conhecia",
+    "termo": "κἀγὼ οὐκ ᾔδειν αὐτόν",
+    "titulo": "o que João não sabia",
+    "texto": "Lucas apresenta João e Jesus como parentes (Lc 1:36), e não é preciso supor que nunca se tivessem visto. João diz que não sabia que Jesus era o Escolhido até receber o sinal prometido (v. 33)."
+   }
+  ]
+ },
+ "Jhn.1.32": {
+  "t": "E João deu testemunho, dizendo: “Vi o Espírito descer do céu como pomba e permanecer sobre ele.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "permanecer",
+    "termo": "ἔμεινεν (emeinen)",
+    "titulo": "menō",
+    "texto": "Menō (“permanecer, ficar, morar”) é palavra-chave de João (cerca de 40 vezes no Evangelho). O Espírito não só desce, mas permanece sobre Jesus, sinal do Messias sobre quem repousa o Espírito do Senhor (Is 11:2; 61:1). O mesmo verbo volta nos vv. 38-39 e na imagem da videira (15:4-10)."
+   }
+  ]
+ },
+ "Jhn.1.33": {
+  "t": "Eu não o conhecia, mas aquele que me enviou para batizar com água me disse: ‘Aquele sobre quem você vir o Espírito descer e permanecer, esse é o que batiza com o Espírito Santo.’",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "o Espírito Santo",
+    "termo": "πνεύματι ἁγίῳ (pneumati hagiō)",
+    "titulo": "sem artigo",
+    "texto": "O grego não tem artigo (“com espírito santo”), como é comum depois de preposição. A APV usa maiúscula para o Espírito de Deus. O batismo com o Espírito, anunciado pelos profetas (Ez 36:26-27; Jl 2:28), é o dom que Jesus dará depois da glorificação (7:39; 20:22)."
+   }
+  ]
+ },
+ "Jhn.1.34": {
+  "t": "Eu vi e dou testemunho de que este é o Escolhido de Deus.”",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "o Escolhido de Deus",
+    "termo": "ὁ ἐκλεκτὸς τοῦ θεοῦ (ho eklektos tou theou)",
+    "titulo": "“Escolhido” ou “Filho”",
+    "texto": "O SBLGNT traz ho eklektos (“o Escolhido”), com apoio de poucos manuscritos gregos antigos (entre eles ℵ, na forma original) e de versões siríacas e latinas antigas. NA28, NA27, THGNT, Westcott-Hort, Tregelles, o Textus Receptus e o Texto Bizantino trazem ho huios (“o Filho”), com 𝔓66, 𝔓75, B e a grande maioria dos manuscritos. A favor de “Escolhido”: é a leitura mais difícil, e um copista teria mais motivo para trocá-la por “Filho”, título frequente em João, do que o contrário; “Escolhido” ecoa Is 42:1, o Servo sobre quem Deus põe o seu Espírito, assim como os vv. 32-33. A favor de “Filho”: apoio muito mais amplo e antigo. A APV segue o texto-base, mas a questão está aberta.",
+    "revisar": true
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Eu vi e dou testemunho",
+    "termo": "ἑώρακα καὶ μεμαρτύρηκα (heōraka kai memartyrēka)",
+    "titulo": "perfeitos",
+    "texto": "Dois perfeitos: “vi (e continuo tendo visto) e dei (e mantenho) o testemunho”. Em português, “dou testemunho” transmite o efeito presente."
+   }
+  ]
+ },
+ "Jhn.1.35": {
+  "t": "No dia seguinte, João estava de novo ali com dois dos seus discípulos.",
+  "n": []
+ },
+ "Jhn.1.36": {
+  "t": "Fixando o olhar em Jesus, que passava, disse: “Eis o Cordeiro de Deus!”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Fixando o olhar",
+    "termo": "ἐμβλέψας (emblepsas)",
+    "titulo": "emblepō",
+    "texto": "“Olhar atentamente”. O mesmo verbo descreve Jesus olhando para Simão no v. 42."
+   }
+  ]
+ },
+ "Jhn.1.37": {
+  "t": "Os dois discípulos o ouviram falar e seguiram Jesus.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "seguiram",
+    "termo": "ἠκολούθησαν (ēkolouthēsan)",
+    "titulo": "seguir",
+    "texto": "Akoloutheō é seguir fisicamente e também tornar-se discípulo (v. 43; 8:12). Aqui começa no primeiro sentido e aponta para o segundo."
+   }
+  ]
+ },
+ "Jhn.1.38": {
+  "t": "Jesus se voltou e, vendo que eles o seguiam, perguntou-lhes: “O que vocês estão procurando?” Eles lhe disseram: “Rabi” (que, traduzido, quer dizer Mestre), “onde você mora?”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Rabi",
+    "termo": "ῥαββί (rhabbi)",
+    "titulo": "rabbi",
+    "texto": "Do hebraico e aramaico rabbi, “meu grande”, “meu mestre”: tratamento respeitoso dado a mestres da lei. João traduz para os leitores gregos. A APV usa “você” quando as pessoas se dirigem a Jesus sem chamá-lo de kyrie (“senhor”); quando o chamam assim, “o senhor”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "onde você mora",
+    "termo": "ποῦ μένεις (pou meneis)",
+    "titulo": "menō",
+    "texto": "“Onde você fica, onde está hospedado”. É o verbo do v. 32 (“permanecer”). A pergunta é concreta, mas o leitor de João percebe o sentido mais fundo: estar onde Jesus está (14:2-3; 15:4)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "O que vocês estão procurando?",
+    "termo": "τί ζητεῖτε; (ti zēteite?)",
+    "titulo": "as primeiras palavras de Jesus",
+    "texto": "São as primeiras palavras de Jesus no Evangelho. A mesma pergunta volta na prisão (18:4) e no jardim da ressurreição (20:15)."
+   }
+  ]
+ },
+ "Jhn.1.39": {
+  "t": "Ele lhes disse: “Venham e verão.” Foram, então, viram onde ele morava e ficaram com ele aquele dia. Era por volta da hora décima.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "hora décima",
+    "termo": "ὥρα ... δεκάτη (hōra ... dekatē)",
+    "titulo": "que horas?",
+    "texto": "Os judeus e os romanos dividiam o dia claro em doze horas, a partir do nascer do sol (cerca das 6h). A hora décima seria por volta das 16h; daí “ficaram com ele aquele dia”, isto é, o resto do dia. Alguns (como B. F. Westcott) propuseram que João contasse as horas a partir da meia-noite, o que daria 10h; não há prova firme desse uso, e a contagem comum é a mais provável."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Venham e verão",
+    "termo": "ἔρχεσθε καὶ ὄψεσθε (erchesthe kai opsesthe)",
+    "titulo": "opsesthe ou idete",
+    "texto": "O texto crítico traz opsesthe (“verão”); o Textus Receptus e o Texto Bizantino, idete (“vejam”), forma que harmoniza com o v. 46. Leve diferença de sentido: promessa, no texto crítico; convite, no TR."
+   }
+  ]
+ },
+ "Jhn.1.40": {
+  "t": "André, irmão de Simão Pedro, era um dos dois que ouviram o que João disse e seguiram Jesus.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "um dos dois",
+    "termo": "εἷς ἐκ τῶν δύο",
+    "titulo": "o outro discípulo",
+    "texto": "O outro discípulo não é nomeado. Desde a antiguidade muitos o identificam com o “discípulo a quem Jesus amava”, autor por trás do Evangelho (21:24), que também fica anônimo; é suposição plausível, não afirmação do texto."
+   }
+  ]
+ },
+ "Jhn.1.41": {
+  "t": "Ele encontrou primeiro o seu próprio irmão Simão e lhe disse: “Encontramos o Messias” (que, traduzido, quer dizer Cristo).",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Messias",
+    "termo": "Μεσσίαν (Messian)",
+    "titulo": "Messias",
+    "texto": "Transliteração grega do aramaico meshiha (hebraico mashiah), “ungido”. Só aqui e em 4:25 no NT. João traduz para o grego: Christos."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "primeiro",
+    "termo": "πρῶτον (prōton)",
+    "titulo": "prōton ou prōtos",
+    "texto": "O texto crítico traz prōton (advérbio: “antes de tudo, primeiro”); o Textus Receptus e o Texto Bizantino, prōtos (adjetivo: “ele foi o primeiro a encontrar”, sugerindo que o outro discípulo depois encontrou também o seu irmão). Com prōton, a ênfase está em que a primeira coisa que André fez foi buscar Simão."
+   }
+  ]
+ },
+ "Jhn.1.42": {
+  "t": "E o levou a Jesus. Fixando nele o olhar, Jesus disse: “Você é Simão, filho de João; você será chamado Cefas” (que quer dizer Pedro).",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Cefas",
+    "termo": "Κηφᾶς (Kēphas)",
+    "titulo": "Cefas e Pedro",
+    "texto": "Kēphas transcreve o aramaico kepha, “pedra, rocha”; Petros é o equivalente grego. Hermēneuō (“traduzir”, só três vezes no NT) introduz a explicação. Mudar o nome de alguém indica nova identidade e missão (Gn 17:5; 32:28)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "filho de João",
+    "termo": "υἱὸς Ἰωάννου (huios Iōannou)",
+    "titulo": "João ou Jonas",
+    "texto": "O texto crítico traz Iōannou (“de João”), com os manuscritos mais antigos, como também em 21:15-17. O Textus Receptus e o Texto Bizantino trazem Iōna (“de Jonas”), forma que harmoniza com Mt 16:17 (“Simão Barjonas”). Jonas pode ser forma abreviada de João."
+   }
+  ]
+ },
+ "Jhn.1.43": {
+  "t": "No dia seguinte, Jesus decidiu partir para a Galileia. Encontrou Filipe e lhe disse: “Siga-me.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Jesus decidiu partir",
+    "termo": "ἠθέλησεν ἐξελθεῖν ... λέγει αὐτῷ ὁ Ἰησοῦς",
+    "titulo": "o sujeito",
+    "texto": "No grego, o nome de Jesus aparece só no fim (“e Jesus lhe diz”); o sujeito de “decidiu” e “encontrou” não é dito. É quase certamente Jesus, e por isso o nome foi trazido para o começo. Alguns, a partir do “primeiro” do v. 41, pensam que foi André quem encontrou Filipe."
+   }
+  ]
+ },
+ "Jhn.1.44": {
+  "t": "Filipe era de Betsaida, a cidade de André e de Pedro.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Betsaida",
+    "termo": "Βηθσαϊδά (Bēthsaida)",
+    "titulo": "Betsaida",
+    "texto": "Cidade junto ao lago da Galileia, perto da foz do Jordão. Mc 1:29 mostra Simão e André com casa em Cafarnaum; podiam ter nascido em Betsaida e morar em Cafarnaum."
+   }
+  ]
+ },
+ "Jhn.1.45": {
+  "t": "Filipe encontrou Natanael e lhe disse: “Encontramos aquele sobre quem Moisés escreveu na Lei, e também os Profetas: Jesus, filho de José, de Nazaré.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Natanael",
+    "termo": "Ναθαναήλ (Nathanaēl)",
+    "titulo": "Natanael",
+    "texto": "Nome hebraico (“Deus deu”). Aparece só em João (aqui e 21:2, onde se diz que era de Caná). Muitos o identificam com Bartolomeu, que nos Sinóticos aparece ao lado de Filipe (Mc 3:18), mas isso é conjectura."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "filho de José",
+    "termo": "υἱὸν τοῦ Ἰωσήφ",
+    "titulo": "como era conhecido",
+    "texto": "É como Filipe e o povo conheciam Jesus (6:42). João não discute o nascimento virginal, mas o leitor já sabe, pelo prólogo, que a origem de Jesus está em Deus. A ironia é típica de João: as pessoas falam a verdade sem saber toda a verdade."
+   }
+  ]
+ },
+ "Jhn.1.46": {
+  "t": "Natanael lhe perguntou: “De Nazaré pode sair alguma coisa boa?” Filipe lhe disse: “Venha e veja.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "De Nazaré",
+    "termo": "ἐκ Ναζαρέτ",
+    "titulo": "Nazaré",
+    "texto": "Aldeia pequena da Galileia, nunca mencionada no AT nem nos escritos judaicos da época que conhecemos. Para Natanael, que era de Caná, ali perto (21:2), nada nas Escrituras apontava para ela. Ver 7:41-42, 52."
+   }
+  ]
+ },
+ "Jhn.1.47": {
+  "t": "Jesus viu Natanael vindo em sua direção e disse a respeito dele: “Eis aí um verdadeiro israelita, em quem não há falsidade!”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "não há falsidade",
+    "termo": "δόλος οὐκ ἔστιν (dolos ouk estin)",
+    "titulo": "eco de Jacó",
+    "texto": "Dolos é “engano, astúcia”. Na Septuaginta de Gn 27:35, Jacó toma a bênção de Esaú meta dolou, “com astúcia”. Jacó, o enganador, recebeu depois o nome de Israel (Gn 32:28). Natanael é um “israelita” sem a astúcia de Jacó; o v. 51 retoma a visão de Jacó em Betel."
+   }
+  ]
+ },
+ "Jhn.1.48": {
+  "t": "Natanael lhe perguntou: “De onde você me conhece?” Jesus lhe respondeu: “Antes que Filipe o chamasse, quando você estava debaixo da figueira, eu o vi.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Jesus lhe respondeu",
+    "termo": "ἀπεκρίθη Ἰησοῦς καὶ εἶπεν αὐτῷ",
+    "titulo": "“respondeu e disse”",
+    "texto": "Lit. “respondeu e lhe disse”, fórmula semítica frequente nos Evangelhos. Em português, um só verbo basta."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "debaixo da figueira",
+    "termo": "ὑπὸ τὴν συκῆν",
+    "titulo": "a figueira",
+    "texto": "Sentar-se debaixo da própria figueira é imagem de paz e segurança no AT (1Rs 4:25; Mq 4:4; Zc 3:10). Escritos rabínicos posteriores falam de mestres que estudavam a lei à sombra de árvores, mas o texto não diz o que Natanael fazia. O ponto é que Jesus o viu sem estar presente."
+   }
+  ]
+ },
+ "Jhn.1.49": {
+  "t": "Natanael respondeu: “Rabi, você é o Filho de Deus, você é o Rei de Israel!”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "o Filho de Deus",
+    "termo": "ὁ υἱὸς τοῦ θεοῦ",
+    "titulo": "título messiânico",
+    "texto": "Na boca de Natanael, “Filho de Deus” e “Rei de Israel” são títulos do Messias, o rei da linhagem de Davi a quem Deus chama de filho (2Sm 7:14; Sl 2:6-7). O Evangelho mostrará que o título tem sentido ainda mais alto (5:18; 20:28-31)."
+   }
+  ]
+ },
+ "Jhn.1.50": {
+  "t": "Jesus lhe respondeu: “Você crê porque eu lhe disse que o vi debaixo da figueira? Você verá coisas maiores do que estas.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Você crê",
+    "termo": "πιστεύεις (pisteueis)",
+    "titulo": "pergunta ou afirmação",
+    "texto": "Pode ser pergunta (“Você crê porque...?”) ou afirmação (“Você crê porque...”). O sentido é próximo: a fé de Natanael é verdadeira, mas ele verá muito mais. A pergunta soa mais natural no diálogo."
+   }
+  ]
+ },
+ "Jhn.1.51": {
+  "t": "E lhe disse: “Em verdade, em verdade lhes digo: vocês verão o céu aberto e os anjos de Deus subindo e descendo sobre o Filho do Homem.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Em verdade, em verdade lhes digo",
+    "termo": "ἀμὴν ἀμὴν λέγω ὑμῖν (amēn amēn legō hymin)",
+    "titulo": "amém duplo",
+    "texto": "Amēn é palavra hebraica (“firme, certo”) que normalmente encerra uma oração. Jesus a usa, de modo único, para introduzir o que diz com autoridade. Só em João ela aparece dobrada (25 vezes). “Lhes” e “vocês” estão no plural: Jesus fala a Natanael, mas a promessa é para todos os discípulos."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "subindo e descendo",
+    "termo": "ἀναβαίνοντας καὶ καταβαίνοντας",
+    "titulo": "a escada de Jacó",
+    "texto": "Alusão a Gn 28:12, o sonho de Jacó em Betel: anjos de Deus subindo e descendo por uma escada que ligava a terra ao céu. Agora o ponto de ligação entre céu e terra é o próprio Jesus, o verdadeiro “Betel” (“casa de Deus”). A ordem “subindo e descendo” segue a de Gênesis."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "o Filho do Homem",
+    "termo": "τὸν υἱὸν τοῦ ἀνθρώπου (ton huion tou anthrōpou)",
+    "titulo": "o Filho do Homem",
+    "texto": "Expressão preferida de Jesus para falar de si mesmo. Em aramaico, “filho de homem” pode ser simplesmente “ser humano”, mas com artigo remete à figura de Dn 7:13-14, “um como filho de homem” que vem com as nuvens e recebe do Ancião de Dias domínio eterno. Em João, o Filho do Homem é aquele que desceu do céu e para lá sobe (3:13), e cuja glória passa pela cruz (“ser levantado”, 3:14; 12:23, 34)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "vocês verão",
+    "termo": "ὄψεσθε (opsesthe)",
+    "titulo": "acréscimo de “daqui em diante”",
+    "texto": "O Textus Receptus e o Texto Bizantino acrescentam ap’ arti (“daqui em diante”), provavelmente sob influência de Mt 26:64. Os manuscritos mais antigos não o trazem."
+   }
+  ]
+ },
+ "Jhn.2.1": {
+  "t": "No terceiro dia houve um casamento em Caná da Galileia, e a mãe de Jesus estava ali.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "No terceiro dia",
+    "termo": "τῇ ἡμέρᾳ τῇ τρίτῃ",
+    "titulo": "a contagem dos dias",
+    "texto": "Contado a partir do último episódio (1:43). Desde 1:19 João marca uma sequência de dias (1:29, 35, 43), e muitos veem aí uma semana inaugural que culmina em Caná. Para o leitor cristão, “terceiro dia” também lembra a ressurreição, mas o texto não faz essa ligação."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "a mãe de Jesus",
+    "termo": "ἡ μήτηρ τοῦ Ἰησοῦ",
+    "titulo": "Maria em João",
+    "texto": "João nunca dá o nome de Maria, mãe de Jesus; chama-a sempre “a mãe de Jesus”. Ela aparece aqui, no começo dos sinais, e ao pé da cruz (19:25-27)."
+   }
+  ]
+ },
+ "Jhn.2.2": {
+  "t": "Jesus e os seus discípulos também tinham sido convidados para o casamento.",
+  "n": []
+ },
+ "Jhn.2.3": {
+  "t": "Quando acabou o vinho, a mãe de Jesus lhe disse: “Eles não têm mais vinho.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Eles não têm mais vinho",
+    "termo": "οἶνον οὐκ ἔχουσιν",
+    "titulo": "a falta de vinho",
+    "texto": "As festas de casamento duravam vários dias, e a hospitalidade era questão de honra para a família do noivo. Faltar vinho seria vergonha pública. Maria apenas constata o problema; o texto não diz o que esperava de Jesus."
+   }
+  ]
+ },
+ "Jhn.2.4": {
+  "t": "Jesus lhe disse: “Que há entre mim e você, mulher? A minha hora ainda não chegou.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Que há entre mim e você",
+    "termo": "τί ἐμοὶ καὶ σοί (ti emoi kai soi)",
+    "titulo": "expressão idiomática",
+    "texto": "Lit. “Que a mim e a você?”. Expressão hebraica (Jz 11:12; 2Sm 16:10; 1Rs 17:18; Mc 1:24) que marca distância: “que interesse temos em comum?” ou “isso não é assunto meu”. O tom vai da recusa forte à simples objeção, conforme o contexto. Aqui Jesus não rejeita a mãe, mas afirma que o seu agir depende do Pai e da sua hora, não de pedidos familiares. A tradução literal mantém a estranheza do original, que o leitor deve sentir."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "mulher",
+    "termo": "γύναι (gynai)",
+    "titulo": "“mulher”",
+    "texto": "Jesus chama assim também a samaritana (4:21), Maria Madalena (20:15) e a própria mãe na cruz (19:26). Era tratamento respeitoso, não rude, mas incomum de um filho para a mãe; não se conhece outro exemplo seguro disso na literatura antiga. Mostra que a relação de Jesus com ela passa agora pela sua missão."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "A minha hora",
+    "termo": "ἡ ὥρα μου (hē hōra mou)",
+    "titulo": "a hora de Jesus",
+    "texto": "Em João, “a hora” de Jesus é o tempo da sua morte e glorificação (7:30; 8:20; 12:23, 27; 13:1; 17:1). Ainda não chegou; mas o sinal de Caná antecipa a glória que se revelará plenamente na cruz e na ressurreição (v. 11)."
+   }
+  ]
+ },
+ "Jhn.2.5": {
+  "t": "A mãe dele disse aos serventes: “Façam o que ele lhes disser.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "serventes",
+    "termo": "διακόνοις (diakonois)",
+    "titulo": "diakonoi",
+    "texto": "Aqui diakonos é o que serve à mesa, o empregado da festa. A mesma palavra designa depois os diáconos (Fp 1:1)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Façam o que ele lhes disser",
+    "termo": "ὅ τι ἂν λέγῃ ὑμῖν, ποιήσατε",
+    "titulo": "eco de Gênesis 41:55",
+    "texto": "Quase as mesmas palavras do faraó sobre José, na fome do Egito: “o que ele lhes disser, façam” (Gn 41:55, LXX). Maria aceita a resposta de Jesus e deixa a ele a decisão."
+   }
+  ]
+ },
+ "Jhn.2.6": {
+  "t": "Estavam ali seis talhas de pedra, colocadas para os ritos de purificação dos judeus, cada uma com capacidade de oitenta a cento e vinte litros.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "de oitenta a cento e vinte litros",
+    "termo": "ἀνὰ μετρητὰς δύο ἢ τρεῖς (metrētas)",
+    "titulo": "metrētēs, hápax",
+    "texto": "Lit. “duas ou três metretas cada uma”. A metreta era medida de líquidos de cerca de 39 litros. As seis talhas somavam, portanto, uns 500 a 700 litros: abundância de festa messiânica (Am 9:13; Is 25:6)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "talhas de pedra",
+    "termo": "λίθιναι ὑδρίαι (lithinai hydriai)",
+    "titulo": "hydria e lithinos, raros",
+    "texto": "Hydria é o jarro grande de água (também em 4:28). Eram de pedra porque, segundo a tradição judaica, a pedra não contraía impureza ritual, ao contrário do barro (cf. Lv 11:33)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "purificação dos judeus",
+    "termo": "τὸν καθαρισμὸν τῶν Ἰουδαίων",
+    "titulo": "a água da purificação",
+    "texto": "Lavagens de mãos e utensílios antes das refeições (Mc 7:3-4). A água destinada à purificação se torna o vinho da festa: o sinal aponta para algo novo que Jesus traz."
+   }
+  ]
+ },
+ "Jhn.2.7": {
+  "t": "Jesus lhes disse: “Encham as talhas de água.” E eles as encheram até a borda.",
+  "n": []
+ },
+ "Jhn.2.8": {
+  "t": "Então lhes disse: “Agora tirem um pouco e levem ao encarregado do banquete.” E eles levaram.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "encarregado do banquete",
+    "termo": "ἀρχιτρικλίνῳ (architriklinō)",
+    "titulo": "architriklinos, raro",
+    "texto": "Só aqui e no v. 9 (duas vezes). Lit. “chefe do triclínio”, a sala com três divãs onde se comia reclinado. Pode ser um convidado de honra escolhido para presidir o banquete (cf. Eclesiástico 32:1-2) ou um empregado responsável pelo serviço. “Mestre-sala” (ARC) é tradução antiga."
+   }
+  ]
+ },
+ "Jhn.2.9": {
+  "t": "O encarregado do banquete provou a água transformada em vinho. Ele não sabia de onde vinha, mas os serventes que tinham tirado a água sabiam. Então o encarregado do banquete chamou o noivo",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "transformada em vinho",
+    "termo": "οἶνον γεγενημένον (oinon gegenēmenon)",
+    "titulo": "“tornada vinho”",
+    "texto": "Lit. “a água que se tornara vinho”. O perfeito descreve o estado resultante. O versículo grego é uma só frase longa, com um parêntese; foi dividido para a leitura."
+   }
+  ]
+ },
+ "Jhn.2.10": {
+  "t": "e lhe disse: “Todo mundo serve primeiro o vinho bom e, quando os convidados já estão embriagados, o inferior. Mas você guardou o vinho bom até agora.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "quando os convidados já estão embriagados",
+    "termo": "ὅταν μεθυσθῶσιν (hotan methysthōsin)",
+    "titulo": "methyskō",
+    "texto": "O verbo significa “embriagar-se”; não foi suavizado. É um dito geral sobre o costume das festas, não uma descrição destes convidados. “Os convidados” explicita o sujeito, que no grego está só no verbo."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "o inferior",
+    "termo": "τὸν ἐλάσσω (ton elassō)",
+    "titulo": "acréscimo de “então”",
+    "texto": "Tregelles, o Textus Receptus e o Texto Bizantino acrescentam tote (“então”). Sem efeito no sentido."
+   }
+  ]
+ },
+ "Jhn.2.11": {
+  "t": "Este, o primeiro dos seus sinais, Jesus o fez em Caná da Galileia; assim manifestou a sua glória, e os seus discípulos creram nele.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "o primeiro dos seus sinais",
+    "termo": "ἀρχὴν τῶν σημείων (archēn tōn sēmeiōn)",
+    "titulo": "sinais",
+    "texto": "João não chama os milagres de dynameis (“poderes”), como os Sinóticos, mas de sēmeia, “sinais”: atos que apontam para quem Jesus é e levam à fé (20:30-31). Archē (“princípio”) pode indicar não só o primeiro da série, mas o sinal que serve de modelo para os demais. O v. 4:54 conta o segundo sinal em Caná."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "manifestou a sua glória",
+    "termo": "ἐφανέρωσεν τὴν δόξαν αὐτοῦ",
+    "titulo": "a glória vista",
+    "texto": "Cumpre o que o prólogo anunciou: “vimos a sua glória” (1:14)."
+   }
+  ]
+ },
+ "Jhn.2.12": {
+  "t": "Depois disso, desceu a Cafarnaum com sua mãe, seus irmãos e seus discípulos, e ficaram ali não muitos dias.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "seus irmãos",
+    "termo": "οἱ ἀδελφοί (hoi adelphoi)",
+    "titulo": "os irmãos de Jesus",
+    "texto": "Os irmãos de Jesus aparecem também em 7:3-10, onde ainda não criam nele; Mc 6:3 dá os nomes de quatro deles. Há três interpretações antigas: filhos de Maria e José nascidos depois de Jesus (a leitura mais natural do grego, defendida por Helvídio no século IV e pela maioria dos protestantes); filhos de José de um casamento anterior (Epifânio; tradição ortodoxa oriental); primos (Jerônimo; tradição católica romana). Adelphos pode, em sentido amplo, designar parentes próximos, mas o NT tem palavra própria para “primo” (anepsios, Cl 4:10)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "seus irmãos",
+    "termo": "οἱ ἀδελφοί (+ αὐτοῦ)",
+    "titulo": "pronome",
+    "texto": "O SBLGNT não traz autou (“dele”) depois de “irmãos”; NA28, NA27, o Textus Receptus e o Texto Bizantino trazem. Sem efeito na tradução."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "desceu",
+    "termo": "κατέβη (katebē)",
+    "titulo": "“desceu”",
+    "texto": "Caná fica nas colinas da Galileia; Cafarnaum, à beira do lago, várias centenas de metros abaixo. O verbo descreve a geografia."
+   }
+  ]
+ },
+ "Jhn.2.13": {
+  "t": "Estava próxima a Páscoa dos judeus, e Jesus subiu a Jerusalém.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "a Páscoa",
+    "termo": "τὸ πάσχα (to pascha)",
+    "titulo": "três Páscoas",
+    "texto": "João menciona três Páscoas durante o ministério de Jesus (aqui, 6:4 e 11:55), e é daí que vem a ideia de um ministério de cerca de três anos. Os Sinóticos narram só uma ida a Jerusalém, na Páscoa final. “Subir” a Jerusalém é a expressão usual, pois a cidade fica nas montanhas."
+   }
+  ]
+ },
+ "Jhn.2.14": {
+  "t": "No templo, encontrou os que vendiam bois, ovelhas e pombas, e os cambistas sentados às suas mesas.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "cambistas",
+    "termo": "κερματιστάς (kermatistas)",
+    "titulo": "kermatistēs, hápax",
+    "texto": "De kerma, “moeda miúda”. Trocavam as moedas dos peregrinos pela moeda aceita para o imposto do templo (Êx 30:13), que segundo a tradição judaica devia ser a de Tiro, de prata de alta pureza. A venda de animais servia aos peregrinos que precisavam oferecer sacrifícios. “Às suas mesas” foi acrescentado a partir do v. 15."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "No templo",
+    "termo": "ἐν τῷ ἱερῷ (en tō hierō)",
+    "titulo": "a purificação do templo",
+    "texto": "Hieron é o conjunto do templo, com seus pátios; a cena se passa provavelmente no pátio dos gentios. Os Sinóticos põem a purificação do templo na última semana (Mc 11:15-17); João, no início do ministério. Alguns pensam em dois episódios; outros, em um só, que João colocou no começo por razão teológica. As duas posições são defendidas por estudiosos sérios."
+   }
+  ]
+ },
+ "Jhn.2.15": {
+  "t": "Ele fez um chicote de cordas e expulsou todos do templo, tanto as ovelhas como os bois; espalhou as moedas dos cambistas e virou as suas mesas.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "um chicote de cordas",
+    "termo": "φραγέλλιον ἐκ σχοινίων (phragellion ek schoiniōn)",
+    "titulo": "phragellion, hápax",
+    "texto": "Do latim flagellum. Feito na hora, com as cordas que estavam ali. Schoinion (“corda”) só aparece aqui e em At 27:32."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "todos do templo, tanto as ovelhas como os bois",
+    "termo": "πάντας ... τά τε πρόβατα καὶ τοὺς βόας",
+    "titulo": "quem foi expulso?",
+    "texto": "Pantas (“todos”) é masculino; pode incluir os vendedores ou referir-se apenas aos animais, explicados em seguida (“tanto as ovelhas como os bois”). A construção grega favorece a segunda leitura: o chicote serviu para tocar os animais. Os vendedores saem com eles."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "as moedas",
+    "termo": "τὰ κέρματα (ta kermata)",
+    "titulo": "singular ou plural",
+    "texto": "O SBLGNT traz o plural ta kermata e anestrepsen (“virou”); NA28, THGNT, o Textus Receptus e o Texto Bizantino trazem o singular to kerma (“o dinheiro miúdo”), e NA28 e THGNT trazem anetrepsen (“derrubou”). Sem efeito na tradução. Kollybistēs (“cambista”, raro) é sinônimo de kermatistēs (v. 14)."
+   }
+  ]
+ },
+ "Jhn.2.16": {
+  "t": "Aos que vendiam pombas, disse: “Tirem isto daqui! Não façam da casa do meu Pai uma casa de comércio.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "casa de comércio",
+    "termo": "οἶκον ἐμπορίου (oikon emporiou)",
+    "titulo": "emporion, hápax",
+    "texto": "Lit. “casa de mercado”. Ecoa Zc 14:21: no dia do Senhor “não haverá mais comerciante na casa do SENHOR”. Nos Sinóticos Jesus cita Is 56:7 e Jr 7:11 (“covil de ladrões”); aqui a acusação é transformar em mercado a casa do Pai."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "a casa do meu Pai",
+    "termo": "τὸν οἶκον τοῦ πατρός μου",
+    "titulo": "“meu Pai”",
+    "texto": "Jesus chama Deus de “meu Pai” de modo exclusivo. Em 5:17-18 essa maneira de falar será entendida como pretensão de igualdade com Deus."
+   }
+  ]
+ },
+ "Jhn.2.17": {
+  "t": "Os seus discípulos se lembraram de que está escrito: “O zelo pela tua casa me consumirá.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "O zelo pela tua casa me consumirá",
+    "termo": "Sl 69:9 (68:10 LXX)",
+    "titulo": "citação do Salmo 69",
+    "texto": "Sl 69:9, salmo do justo que sofre, citado várias vezes no NT a respeito da paixão de Jesus (Jo 15:25; 19:28-29; Rm 15:3). A Septuaginta tem o passado (“me consumiu”); João usa o futuro, “me consumirá”: o zelo de Jesus pela casa de Deus o levará à morte."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "me consumirá",
+    "termo": "καταφάγεταί με (kataphagetai me)",
+    "titulo": "futuro ou aoristo",
+    "texto": "O texto crítico e o Texto Bizantino trazem o futuro kataphagetai; o Textus Receptus, o aoristo katephage (“me consumiu”), forma da Septuaginta."
+   }
+  ]
+ },
+ "Jhn.2.18": {
+  "t": "Então os judeus lhe perguntaram: “Que sinal você nos mostra, para agir assim?”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "para agir assim",
+    "termo": "ὅτι ταῦτα ποιεῖς (hoti tauta poieis)",
+    "titulo": "“visto que fazes estas coisas”",
+    "texto": "Lit. “porque você faz estas coisas”. Pedem um sinal que prove a autoridade para um gesto como o de um profeta. “Lhe perguntaram” traduz apekrithēsan ... kai eipan (“responderam e disseram”), fórmula semítica (ver 1:48)."
+   }
+  ]
+ },
+ "Jhn.2.19": {
+  "t": "Jesus lhes respondeu: “Destruam este santuário, e em três dias eu o levantarei.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "santuário",
+    "termo": "ναόν (naon)",
+    "titulo": "naos e hieron",
+    "texto": "Naos é o santuário propriamente dito, a casa de Deus; hieron (vv. 14-15) é todo o complexo do templo. A escolha de naos prepara o v. 21: o corpo de Jesus é o lugar da presença de Deus (1:14)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Destruam",
+    "termo": "λύσατε (lysate)",
+    "titulo": "imperativo irônico",
+    "texto": "O imperativo tem valor de condição desafiadora: “se vocês destruírem”. Jesus não manda destruir o templo; anuncia o que eles farão com o seu corpo. Nos Sinóticos esta frase reaparece, distorcida, na acusação contra ele (Mc 14:58)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "levantarei",
+    "termo": "ἐγερῶ (egerō)",
+    "titulo": "egeirō",
+    "texto": "Egeirō é “levantar” (um edifício) e também “ressuscitar”. O duplo sentido sustenta o mal-entendido do v. 20 e a explicação do v. 21."
+   }
+  ]
+ },
+ "Jhn.2.20": {
+  "t": "Os judeus disseram: “Este santuário levou quarenta e seis anos para ser construído, e você vai levantá-lo em três dias?”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "quarenta e seis anos",
+    "termo": "τεσσεράκοντα καὶ ἓξ ἔτεσιν",
+    "titulo": "a obra de Herodes",
+    "texto": "Segundo Flávio Josefo (Antiguidades 15.380), Herodes, o Grande, começou a reconstrução do templo no 18º ano do seu reinado, por volta de 20-19 a.C. Quarenta e seis anos depois dá cerca de 27-28 d.C., data compatível com Lc 3:1. A obra só foi concluída décadas depois, pouco antes de o templo ser destruído pelos romanos em 70 d.C."
+   }
+  ]
+ },
+ "Jhn.2.21": {
+  "t": "Mas o santuário de que ele falava era o seu corpo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "o santuário de que ele falava era o seu corpo",
+    "termo": "ἔλεγεν περὶ τοῦ ναοῦ τοῦ σώματος αὐτοῦ",
+    "titulo": "“o santuário do seu corpo”",
+    "texto": "Lit. “ele falava a respeito do santuário do seu corpo”: genitivo de aposição, o santuário que é o seu corpo. Comentário do evangelista, que olha para trás depois da ressurreição (v. 22)."
+   }
+  ]
+ },
+ "Jhn.2.22": {
+  "t": "Assim, quando ele ressuscitou dentre os mortos, os seus discípulos se lembraram de que ele tinha dito isso, e creram na Escritura e na palavra que Jesus havia dito.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "ressuscitou",
+    "termo": "ἠγέρθη (ēgerthē)",
+    "titulo": "passivo",
+    "texto": "Lit. “foi levantado”. O passivo pode apontar para a ação do Pai (passivo divino), mas a forma era usada também com sentido ativo, e o v. 19 atribui a ressurreição ao próprio Jesus (cf. 10:17-18). “Ressuscitou” deixa as duas ideias juntas."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "creram na Escritura",
+    "termo": "ἐπίστευσαν τῇ γραφῇ",
+    "titulo": "que Escritura?",
+    "texto": "João não diz qual texto. Pode ser o Sl 69:9, citado no v. 17, ou passagens que os primeiros cristãos liam como anúncio da ressurreição (Sl 16:10; cf. At 2:27-31). A memória dos discípulos, iluminada depois da Páscoa, é tema de João (12:16; 14:26)."
+   }
+  ]
+ },
+ "Jhn.2.23": {
+  "t": "Enquanto ele estava em Jerusalém, durante a festa da Páscoa, muitos creram no seu nome ao verem os sinais que ele fazia.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "muitos creram no seu nome",
+    "termo": "πολλοὶ ἐπίστευσαν εἰς τὸ ὄνομα αὐτοῦ",
+    "titulo": "uma fé insuficiente",
+    "texto": "A expressão é a mesma de 1:12, mas os vv. 24-25 mostram que essa fé, baseada só nos sinais, ainda não era firme (cf. 6:26; 8:31). João distingue entre a fé que se apoia em milagres e a que conhece verdadeiramente Jesus (4:48; 20:29)."
+   }
+  ]
+ },
+ "Jhn.2.24": {
+  "t": "Mas Jesus mesmo não se confiava a eles, porque conhecia a todos",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "não se confiava a eles",
+    "termo": "οὐκ ἐπίστευεν ἑαυτὸν αὐτοῖς",
+    "titulo": "jogo com pisteuō",
+    "texto": "O verbo é o mesmo do v. 23: “muitos creram (episteusan) nele, mas Jesus não se confiava (episteuen) a eles”. A tradução não pode repetir a palavra em português, mas o jogo mostra o contraste: eles “confiaram” nele, mas ele não lhes “confiou” a si mesmo."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "porque conhecia a todos",
+    "termo": "διὰ τὸ αὐτὸν γινώσκειν πάντας",
+    "titulo": "pronome",
+    "texto": "NA28, NA27 e Tregelles trazem auton (sujeito do infinitivo); o SBLGNT omite. O Textus Receptus e o Texto Bizantino trazem ho antes de Iēsous. Sem efeito na tradução."
+   }
+  ]
+ },
+ "Jhn.2.25": {
+  "t": "e não precisava de que ninguém lhe desse testemunho a respeito do homem, pois ele mesmo sabia o que havia no homem.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "do homem",
+    "termo": "τοῦ ἀνθρώπου (tou anthrōpou)",
+    "titulo": "anthrōpos",
+    "texto": "O sentido é geral (“o ser humano”), mas foi mantido “homem” porque o versículo seguinte começa com a mesma palavra: “Havia um homem (anthrōpos) dos fariseus” (3:1). Nicodemos será o exemplo de alguém que Jesus conhece por dentro."
+   }
+  ]
+ }
+}

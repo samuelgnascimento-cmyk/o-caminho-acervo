@@ -1,0 +1,1343 @@
+{
+ "Rom.1.1": {
+  "t": "Paulo, servo de Cristo Jesus, chamado para ser apóstolo, separado para o evangelho de Deus,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "servo",
+    "termo": "δοῦλος (doulos)",
+    "titulo": "doulos: “servo” ou “escravo”",
+    "texto": "Doulos é literalmente o escravo, alguém que pertence a outro. “Escravo” é o sentido de base, mas em português evoca de imediato a escravidão moderna e esconde o eco bíblico: na Septuaginta, Moisés, Josué, Davi e os profetas são douloi do SENHOR. “Servo” guarda o eco; esta nota guarda a força: Paulo se apresenta como propriedade de Cristo. A mesma palavra volta com peso em 6:16-22."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Cristo",
+    "termo": "Χριστοῦ (Christou)",
+    "titulo": "Christos: “Messias, Ungido”",
+    "texto": "Christos traduz o hebraico mashiach, “ungido”, o rei esperado da linhagem de Davi (v. 3). Em Paulo já funciona quase como nome próprio, mas nunca perde o sentido de título. A APV mantém “Cristo”, forma tradicional em português."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "chamado para ser apóstolo",
+    "termo": "κλητὸς ἀπόστολος (klētos apostolos)",
+    "titulo": "“apóstolo chamado”",
+    "texto": "Lit. “apóstolo chamado”, ou “apóstolo por chamado”. O adjetivo indica que o ofício não foi escolha de Paulo, mas convocação de Deus (Gl 1:15). A mesma construção volta no v. 7: “chamados para ser santos”."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "separado",
+    "termo": "ἀφωρισμένος (aphōrismenos)",
+    "titulo": "aphorizō",
+    "texto": "Particípio perfeito: posto à parte e assim mantido. Ecoa a separação dos profetas (Jr 1:5; cf. Gl 1:15). Alguns comentaristas veem aqui um jogo com “fariseu”, que vem de uma raiz hebraica ligada a “separar”: o antigo fariseu (Fl 3:5) foi agora separado para o evangelho. É sugestão possível, não certa."
+   }
+  ]
+ },
+ "Rom.1.2": {
+  "t": "que ele havia prometido de antemão por meio dos seus profetas nas Sagradas Escrituras,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "prometido de antemão",
+    "termo": "προεπηγγείλατο (proepēngeilato)",
+    "titulo": "proepangellomai, raro",
+    "texto": "Só aqui e em 2Co 9:5. O prefixo pro- (“antes”) sublinha que o evangelho não é novidade: estava anunciado nas Escrituras de Israel. Paulo provará isso ao longo da carta, sobretudo em 3:21 (“testemunhada pela Lei e pelos Profetas”) e no cap. 4."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "nas Sagradas Escrituras",
+    "termo": "ἐν γραφαῖς ἁγίαις (en graphais hagiais)",
+    "titulo": "sem artigo",
+    "texto": "Lit. “em escrituras santas”. A falta de artigo é comum em expressões consagradas; o sentido é o conjunto das Escrituras de Israel, por isso as maiúsculas."
+   }
+  ]
+ },
+ "Rom.1.3": {
+  "t": "acerca do seu Filho, que, segundo a carne, veio da descendência de Davi",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "segundo a carne",
+    "termo": "κατὰ σάρκα (kata sarka)",
+    "titulo": "kata sarka",
+    "texto": "Aqui sarx não tem sentido moral negativo (como em 7:5 ou 8:4-9), mas indica a origem humana e a linhagem natural de Jesus. Mantido “carne” para conservar o paralelo com “segundo o Espírito de santidade” (v. 4), central no versículo."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "veio da descendência de Davi",
+    "termo": "τοῦ γενομένου ἐκ σπέρματος Δαυίδ",
+    "titulo": "“que veio a ser da semente de Davi”",
+    "texto": "Lit. “que veio a ser da semente de Davi”. Ginomai (“vir a ser”) é usado também em Gl 4:4 (“nascido de mulher”). “Semente” é o hebraísmo para descendência; ligado a Davi, aponta para a promessa de 2Sm 7:12-16."
+   }
+  ]
+ },
+ "Rom.1.4": {
+  "t": "e que, segundo o Espírito de santidade, foi constituído Filho de Deus com poder, pela ressurreição dos mortos: Jesus Cristo, nosso Senhor.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "foi constituído",
+    "termo": "τοῦ ὁρισθέντος (tou horisthentos)",
+    "titulo": "horizō: “constituído” ou “declarado”",
+    "texto": "Horizō é “delimitar, determinar, designar” (At 10:42; 17:31). Não significa que Jesus passou a ser Filho na ressurreição: o v. 3 já o chama “seu Filho” antes de falar de Davi. A ideia é de entronização: o Filho, que já o era, foi instalado publicamente na condição de “Filho de Deus com poder”. “Declarado” (ARC) enfraquece o verbo; “constituído” guarda a ideia de designação oficial, ecoando o Sl 2:7."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Filho de Deus com poder",
+    "termo": "υἱοῦ θεοῦ ἐν δυνάμει (huiou theou en dynamei)",
+    "titulo": "a que se liga “com poder”?",
+    "texto": "Pode ligar-se ao verbo (“designado com poder”, isto é, de modo poderoso) ou ao título (“Filho-de-Deus-em-poder”, em contraste com a fraqueza da vida terrena). A ordem das palavras favorece a segunda leitura, seguida aqui; o português deixa as duas possíveis."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Espírito de santidade",
+    "termo": "πνεῦμα ἁγιωσύνης (pneuma hagiōsynēs)",
+    "titulo": "hagiōsynē, rara",
+    "texto": "Hagiōsynē aparece só aqui, em 2Co 7:1 e em 1Ts 3:13. “Espírito de santidade” é forma de cunho semítico, equivalente a “Espírito Santo” (cf. Sl 51:11 e Is 63:10-11, “espírito da tua santidade”). A maioria entende que é o Espírito Santo, que age na ressurreição (8:11); alguns entendem o espírito do próprio Cristo, em contraste com sua carne. A maiúscula segue a primeira leitura."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "pela ressurreição dos mortos",
+    "termo": "ἐξ ἀναστάσεως νεκρῶν (ex anastaseōs nekrōn)",
+    "titulo": "“a partir da ressurreição de mortos”",
+    "texto": "Ex pode ser temporal (“desde a ressurreição”) ou causal (“em virtude da ressurreição”); “pela” mantém as duas nuances. O grego diz “ressurreição de mortos”, no plural, e não “dentre os mortos”: a ressurreição de Jesus é vista como o começo da ressurreição final dos mortos (1Co 15:20)."
+   }
+  ]
+ },
+ "Rom.1.5": {
+  "t": "Por meio dele recebemos graça e apostolado, para promover a obediência da fé entre todos os gentios, por causa do seu nome,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "graça e apostolado",
+    "termo": "χάριν καὶ ἀποστολήν (charin kai apostolēn)",
+    "titulo": "dois termos ou um?",
+    "texto": "Pode ser “a graça do apostolado” (hendíade: duas palavras para uma ideia, cf. 15:15-16) ou duas coisas distintas. A tradução literal deixa as duas leituras. O plural “recebemos” é provavelmente o plural de autor e se refere a Paulo mesmo."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "a obediência da fé",
+    "termo": "ὑπακοὴν πίστεως (hypakoēn pisteōs)",
+    "titulo": "genitivo",
+    "texto": "As principais leituras: (1) a obediência que consiste em crer (genitivo de aposição; cf. 10:16, onde obedecer ao evangelho é crer); (2) a obediência que nasce da fé; (3) as duas ideias juntas, como em Cranfield e Moo. A expressão volta na conclusão da carta (16:26), emoldurando-a. A tradução literal mantém a amplitude; “promover” traduz a preposição eis (“para”)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "gentios",
+    "termo": "ἔθνεσιν (ethnesin)",
+    "titulo": "ethnē: “nações” ou “gentios”",
+    "texto": "Ethnē pode ser “nações” ou, do ponto de vista judaico, “gentios”, os povos que não são Israel. Em Romanos a distinção judeu/gentio é central (1:16; 3:29; 11:13), e a carta se dirige sobretudo a cristãos gentios (v. 13); por isso “gentios”. “Nações” é usado quando Paulo cita promessas a Abraão (4:17-18)."
+   }
+  ]
+ },
+ "Rom.1.6": {
+  "t": "entre os quais estão também vocês, chamados para pertencer a Jesus Cristo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "chamados para pertencer a Jesus Cristo",
+    "termo": "κλητοὶ Ἰησοῦ Χριστοῦ (klētoi Iēsou Christou)",
+    "titulo": "“chamados de Jesus Cristo”",
+    "texto": "Lit. “chamados de Jesus Cristo”. O genitivo indica posse (“chamados que pertencem a Jesus Cristo”) mais que autoria, pois em Paulo quem chama é normalmente Deus Pai (8:30). Traduzido pelo sentido."
+   }
+  ]
+ },
+ "Rom.1.7": {
+  "t": "A todos os que estão em Roma, amados de Deus, chamados para ser santos: graça e paz a vocês da parte de Deus, nosso Pai, e do Senhor Jesus Cristo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "chamados para ser santos",
+    "termo": "κλητοῖς ἁγίοις (klētois hagiois)",
+    "titulo": "“santos chamados”",
+    "texto": "Lit. “santos chamados” ou “santos por chamado”. Não é um convite a tornar-se santo um dia, mas a condição que o chamado de Deus criou: são separados para Deus, como Israel (Êx 19:6). “Santos” é o termo do Novo Testamento para todos os crentes."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "em Roma",
+    "termo": "ἐν Ῥώμῃ (en Rhōmē)",
+    "titulo": "omissão em poucos testemunhos",
+    "texto": "Um pequeno número de testemunhos antigos omite “em Roma” aqui e no v. 15. Metzger considera a omissão uma adaptação para uso da carta em outras igrejas, como carta geral. O nome da cidade está em quase todos os manuscritos e em todas as edições comparadas."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "da parte de Deus, nosso Pai, e do Senhor Jesus Cristo",
+    "termo": "ἀπὸ θεοῦ πατρὸς ἡμῶν καὶ κυρίου Ἰησοῦ Χριστοῦ",
+    "titulo": "uma só preposição",
+    "texto": "Uma só preposição (apo) rege “Deus nosso Pai” e “Senhor Jesus Cristo”: o Filho aparece ao lado do Pai como fonte da mesma graça e paz. O português repete “de” por clareza, sem separar as duas fontes."
+   }
+  ]
+ },
+ "Rom.1.8": {
+  "t": "Em primeiro lugar, dou graças ao meu Deus por meio de Jesus Cristo, por todos vocês, porque a fé que vocês têm está sendo anunciada no mundo inteiro.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Em primeiro lugar",
+    "termo": "Πρῶτον μέν (prōton men)",
+    "titulo": "um “primeiro” sem “segundo”",
+    "texto": "O men anuncia uma sequência que Paulo não completa. Não há um “em segundo lugar”; a expressão marca apenas a prioridade da ação de graças."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "no mundo inteiro",
+    "termo": "ἐν ὅλῳ τῷ κόσμῳ",
+    "titulo": "hipérbole",
+    "texto": "Expressão comum para “por toda parte”, isto é, entre as igrejas do mundo romano (cf. 1Ts 1:8). A igreja da capital era conhecida em todo o império."
+   }
+  ]
+ },
+ "Rom.1.9": {
+  "t": "Pois Deus, a quem sirvo em meu espírito no evangelho do seu Filho, é minha testemunha de como sem cessar me lembro de vocês",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "sirvo",
+    "termo": "λατρεύω (latreuō)",
+    "titulo": "latreuō",
+    "texto": "Na Septuaginta, latreuō é o serviço de culto prestado a Deus. Paulo entende seu trabalho com o evangelho como culto (cf. 12:1; 15:16, onde usa linguagem sacerdotal)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "em meu espírito",
+    "termo": "ἐν τῷ πνεύματί μου (en tō pneumati mou)",
+    "titulo": "espírito humano",
+    "texto": "É o espírito do próprio Paulo, o íntimo da pessoa; por isso a minúscula. A expressão diz que o serviço é sincero e interior, e não apenas externo."
+   }
+  ]
+ },
+ "Rom.1.10": {
+  "t": "sempre em minhas orações, pedindo que de algum modo, enfim, pela vontade de Deus, se abra o caminho para eu ir até vocês.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "se abra o caminho",
+    "termo": "εὐοδωθήσομαι (euodōthēsomai)",
+    "titulo": "euodoomai",
+    "texto": "Lit. “eu seja levado por bom caminho”, isto é, “eu tenha êxito”. O verbo guarda a imagem da viagem (hodos, “caminho”), que a tradução conserva."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "de algum modo, enfim",
+    "termo": "εἴ πως ἤδη ποτέ (ei pōs ēdē pote)",
+    "titulo": "partículas acumuladas",
+    "texto": "Quatro partículas seguidas expressam o desejo longamente adiado: “se de algum modo, agora finalmente”. A tradução mantém a hesitação e a expectativa."
+   }
+  ]
+ },
+ "Rom.1.11": {
+  "t": "Pois anseio vê-los, para lhes repartir algum dom espiritual, a fim de que vocês sejam fortalecidos,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "algum dom espiritual",
+    "termo": "τι ... χάρισμα ... πνευματικόν (ti charisma pneumatikon)",
+    "titulo": "charisma pneumatikon",
+    "texto": "Charisma é um dom concedido pela graça (charis). Paulo não diz que dom seria; o indefinido “algum” mantém a abertura. Pode ser um dos dons de 12:6-8 ou, de modo mais amplo, o benefício espiritual de sua visita e ensino."
+   }
+  ]
+ },
+ "Rom.1.12": {
+  "t": "isto é, para que, estando entre vocês, sejamos encorajados juntos pela fé que é comum a nós, tanto a de vocês como a minha.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "sejamos encorajados juntos",
+    "termo": "συμπαρακληθῆναι (symparaklēthēnai)",
+    "titulo": "symparakaleō, hápax",
+    "texto": "Hápax: palavra que ocorre uma só vez no NT. É parakaleō (“encorajar, consolar”) com o prefixo syn- (“junto”). Paulo corrige com delicadeza o que acabou de dizer: ele não vem apenas dar, mas também receber."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "pela fé que é comum a nós",
+    "termo": "διὰ τῆς ἐν ἀλλήλοις πίστεως (dia tēs en allēlois pisteōs)",
+    "titulo": "“a fé de uns nos outros”",
+    "texto": "Lit. “pela fé que está em uns e outros”. Não é fé de uns nos outros, mas a mesma fé presente em ambos os lados."
+   }
+  ]
+ },
+ "Rom.1.13": {
+  "t": "Não quero que vocês ignorem, irmãos, que muitas vezes me propus a ir visitá-los, mas até agora fui impedido, a fim de colher algum fruto também entre vocês, como entre os demais gentios.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "irmãos",
+    "termo": "ἀδελφοί (adelphoi)",
+    "titulo": "adelphoi",
+    "texto": "O plural masculino inclui as irmãs, como mostram Febe, Priscila, Júnia e outras saudadas no cap. 16. Mantido “irmãos”, forma usada nas igrejas, com esta nota."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "me propus",
+    "termo": "προεθέμην (proethemēn)",
+    "titulo": "protithemai, raro",
+    "texto": "Três ocorrências no NT (aqui, 3:25 e Ef 1:9). Aqui é “propor-se, planejar”. Em 3:25 o mesmo verbo terá outro sentido (“apresentar publicamente”)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "mas até agora fui impedido",
+    "termo": "καὶ ἐκωλύθην ἄχρι τοῦ δεῦρο (kai ekōlythēn achri tou deuro)",
+    "titulo": "parêntese",
+    "texto": "No grego, a frase é um parêntese ligado por kai (“e”), que aqui tem valor adversativo. Em 15:22 Paulo explica o impedimento: o trabalho ainda inacabado no Oriente."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "colher algum fruto",
+    "termo": "τινὰ καρπὸν σχῶ (tina karpon schō)",
+    "titulo": "“tenha algum fruto”",
+    "texto": "Lit. “tenha algum fruto”. A imagem agrícola indica resultado do trabalho apostólico: conversões e crescimento na fé."
+   }
+  ]
+ },
+ "Rom.1.14": {
+  "t": "Sou devedor tanto a gregos como a bárbaros, tanto a sábios como a ignorantes.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "bárbaros",
+    "termo": "βαρβάροις (barbarois)",
+    "titulo": "barbaroi",
+    "texto": "Para os gregos, “bárbaro” era quem não falava grego, sem o sentido de “selvagem” que a palavra tem hoje em português. Os pares “gregos e bárbaros” e “sábios e ignorantes” abrangem toda a humanidade gentílica, culta ou não."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Sou devedor",
+    "termo": "ὀφειλέτης εἰμί (opheiletēs eimi)",
+    "titulo": "opheiletēs",
+    "texto": "Paulo não deve nada a essas pessoas por algo que delas recebeu; está em dívida com elas por causa do encargo que recebeu de Cristo. O evangelho é dívida a ser paga a todos."
+   }
+  ]
+ },
+ "Rom.1.15": {
+  "t": "Por isso, de minha parte, estou disposto a anunciar o evangelho também a vocês que estão em Roma.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "de minha parte, estou disposto",
+    "termo": "τὸ κατ᾽ ἐμὲ πρόθυμον (to kat’ eme prothymon)",
+    "titulo": "prothymos, raro",
+    "texto": "Lit. “o que está da minha parte é disposição”. Prothymos (só aqui, em Mt 26:41 e Mc 14:38) é “pronto, de boa vontade”. Traduzido pelo sentido."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "anunciar o evangelho também a vocês",
+    "termo": "καὶ ὑμῖν ... εὐαγγελίσασθαι",
+    "titulo": "evangelizar quem já crê",
+    "texto": "Os destinatários já são cristãos (v. 8). “Anunciar o evangelho” inclui, para Paulo, o ensino que aprofunda a fé, e é o que a própria carta faz."
+   }
+  ]
+ },
+ "Rom.1.16": {
+  "t": "Pois não me envergonho do evangelho, porque ele é o poder de Deus para a salvação de todo aquele que crê, primeiro do judeu e também do grego.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "do evangelho",
+    "termo": "τὸ εὐαγγέλιον (+ τοῦ Χριστοῦ)",
+    "titulo": "“o evangelho de Cristo”",
+    "texto": "O Textus Receptus e o Texto Bizantino acrescentam “de Cristo” (“o evangelho de Cristo”, como na ARC). O texto crítico, com os manuscritos mais antigos, traz só “o evangelho”. O acréscimo é natural e não muda o sentido."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "não me envergonho",
+    "termo": "οὐ ... ἐπαισχύνομαι (ou epaischynomai)",
+    "titulo": "honra e vergonha",
+    "texto": "Num mundo regido por honra e vergonha, anunciar um crucificado era escândalo (1Co 1:23). A negação é uma forma enfática de afirmar orgulho e confiança. Há possível eco de textos como Sl 119:46 e Is 28:16 (citado em 9:33 e 10:11)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "grego",
+    "termo": "Ἕλληνι (Hellēni)",
+    "titulo": "Hellēn",
+    "texto": "Em pares com “judeu”, “grego” representa todos os gentios, e não apenas os de língua grega. “Primeiro do judeu” indica a prioridade histórica de Israel na promessa (3:2; 9:4-5), sem excluir ninguém."
+   }
+  ]
+ },
+ "Rom.1.17": {
+  "t": "Pois nele a justiça de Deus é revelada, de fé em fé, como está escrito: “Mas o justo viverá pela fé”.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "a justiça de Deus",
+    "termo": "δικαιοσύνη θεοῦ (dikaiosynē theou)",
+    "titulo": "dikaiosynē theou",
+    "texto": "Expressão central da carta (1:17; 3:5, 21, 22, 25, 26; 10:3). O genitivo “de Deus” admite leituras que não se excluem: (1) a justiça como atributo de Deus, sua retidão e fidelidade, que o fazem agir para salvar (cf. 3:5, onde se opõe à injustiça humana; nos Salmos e em Isaías 40-66, a “justiça” de Deus é paralela à sua salvação: Sl 98:2; Is 46:13; 51:5-8); (2) a justiça que vem de Deus como dom, o estado de justo que ele concede ao que crê (leitura de Lutero e da tradição reformada; cf. Fl 3:9, “a justiça que procede de Deus”); (3) a ação salvadora de Deus que é ao mesmo tempo poder e dom (E. Käsemann); (4) a fidelidade de Deus à sua aliança com Israel e com toda a criação (N. T. Wright). Neste versículo, ligado a “poder de Deus para a salvação” (v. 16), a ênfase recai na ação de Deus que se revela no evangelho; o dom ao que crê aparece com força em 3:22 e 5:17. A tradução literal mantém todas as leituras; “justiça” é termo fixo da APV para dikaiosynē."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "de fé em fé",
+    "termo": "ἐκ πίστεως εἰς πίστιν (ek pisteōs eis pistin)",
+    "titulo": "ek pisteōs eis pistin",
+    "texto": "Lit. “a partir de fé para fé”. Leituras principais: (1) expressão retórica de totalidade, “do começo ao fim pela fé” (cf. 2Co 2:16, “de morte para morte”); (2) da fidelidade de Deus para a fé humana (K. Barth; J. D. G. Dunn, entre outros); (3) da fé do pregador para a fé de quem ouve; (4) crescimento progressivo da fé. A primeira é a mais aceita e combina com a ênfase de “todo aquele que crê” (v. 16). A tradução literal deixa a questão aberta."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Mas o justo viverá pela fé",
+    "termo": "ὁ δὲ δίκαιος ἐκ πίστεως ζήσεται",
+    "titulo": "Habacuque 2:4",
+    "texto": "Citação de Hc 2:4. O hebraico diz “o justo viverá pela sua fidelidade” (be’emunato), isto é, pela firmeza confiante do justo; a Septuaginta tem “pela minha fidelidade” (de Deus). Paulo omite o pronome e lê a frase à luz da fé em Cristo; a mesma citação aparece em Gl 3:11 (e em Hb 10:38). “Pela fé” pode ligar-se a “o justo” (“quem é justo pela fé viverá”) ou a “viverá” (“o justo viverá pela fé”). A estrutura da carta, que trata primeiro de como alguém é justo pela fé (caps. 1-4) e depois da vida (caps. 5-8), dá peso à primeira leitura (A. Nygren); a ordem das palavras e o sentido original de Habacuque favorecem a segunda. A tradução segue a ordem do grego e deixa as duas possíveis."
+   }
+  ]
+ },
+ "Rom.1.18": {
+  "t": "Pois a ira de Deus é revelada do céu contra toda impiedade e injustiça dos homens que, por sua injustiça, suprimem a verdade.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "a ira de Deus é revelada",
+    "termo": "Ἀποκαλύπτεται ... ὀργὴ θεοῦ",
+    "titulo": "dois apocalipses",
+    "texto": "O mesmo verbo (“é revelada”) do v. 17 abre a seção 1:18-3:20. Ao lado da revelação da justiça no evangelho, há a revelação da ira. A ira de Deus não é descontrole, mas sua reação justa e pessoal ao mal; Paulo a vê já agindo no presente, ao entregar os homens às consequências de sua escolha (vv. 24, 26, 28), e espera sua manifestação final (2:5)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "injustiça",
+    "termo": "ἀδικίαν (adikian)",
+    "titulo": "adikia",
+    "texto": "Adikia é o oposto de dikaiosynē (“justiça”). “Maldade” seria mais corrente, mas “injustiça” mantém a ligação com a “justiça de Deus” do v. 17, que é o fio da argumentação. Asebeia (“impiedade”) é a ofensa contra Deus; adikia, o mal contra a ordem justa e o próximo."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "suprimem",
+    "termo": "κατεχόντων (katechontōn)",
+    "titulo": "katechō",
+    "texto": "Katechō é “reter, deter”. Aqui, no sentido negativo de “sufocar, abafar”: eles conhecem a verdade (vv. 19-21), mas a impedem de agir."
+   }
+  ]
+ },
+ "Rom.1.19": {
+  "t": "Porque o que se pode conhecer de Deus é manifesto entre eles, pois Deus o manifestou a eles.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "o que se pode conhecer de Deus",
+    "termo": "τὸ γνωστὸν τοῦ θεοῦ (to gnōston tou theou)",
+    "titulo": "to gnōston",
+    "texto": "Gnōstos pode ser “conhecido” ou “cognoscível”. Paulo não diz que tudo de Deus é conhecido, mas que aquilo que dele se pode conhecer pela criação está disponível a todos."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "entre eles",
+    "termo": "ἐν αὐτοῖς (en autois)",
+    "titulo": "“neles” ou “entre eles”",
+    "texto": "Pode ser “dentro deles” (na consciência) ou “entre eles”, diante dos seus olhos. O v. 20 aponta para a criação visível; por isso “entre eles”, sem excluir a outra nuance."
+   }
+  ]
+ },
+ "Rom.1.20": {
+  "t": "Pois, desde a criação do mundo, os atributos invisíveis dele, o seu eterno poder e a sua divindade, são claramente vistos, sendo compreendidos por meio das coisas que foram feitas, de modo que eles ficam sem desculpa.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "são claramente vistos",
+    "termo": "καθορᾶται (kathoratai)",
+    "titulo": "kathoraō, hápax",
+    "texto": "Hápax. O prefixo kata- intensifica: “ver com clareza”. Paulo junta, de propósito, “invisíveis” e “vistos”: o invisível de Deus é percebido pela mente (nooumena, “sendo compreendidos”) a partir do que ele fez."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "das coisas que foram feitas",
+    "termo": "τοῖς ποιήμασιν (tois poiēmasin)",
+    "titulo": "poiēma, raro",
+    "texto": "Poiēma é “obra, coisa feita”; só aqui e em Ef 2:10 (“somos feitura dele”). Aqui é a criação."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "eterno",
+    "termo": "ἀΐδιος (aidios)",
+    "titulo": "aidios, raro",
+    "texto": "Só aqui e em Jd 6. Termo comum na filosofia grega para o que não tem começo nem fim; Paulo usa linguagem que seus leitores gentios reconheceriam."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "divindade",
+    "termo": "θειότης (theiotēs)",
+    "titulo": "theiotēs, hápax",
+    "texto": "Hápax. Distingue-se de theotēs (Cl 2:9, “a plenitude da divindade”). Theiotēs é a natureza ou qualidade divina percebida na criação: que Deus é Deus, e não criatura. Não se trata aqui da revelação plena de Deus, mas do suficiente para tornar a humanidade responsável."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "sem desculpa",
+    "termo": "ἀναπολογήτους (anapologētous)",
+    "titulo": "anapologētos, raro",
+    "texto": "Só aqui e em 2:1. É “sem defesa” no tribunal (apologia). A construção eis to + infinitivo pode indicar resultado (“de modo que”) ou propósito (“para que”); o resultado é a leitura mais natural aqui."
+   }
+  ]
+ },
+ "Rom.1.21": {
+  "t": "Porque, tendo conhecido a Deus, não o glorificaram como Deus nem lhe deram graças; pelo contrário, tornaram-se vazios em seus raciocínios, e o seu coração insensato se obscureceu.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "tornaram-se vazios",
+    "termo": "ἐματαιώθησαν (emataiōthēsan)",
+    "titulo": "mataioomai, hápax",
+    "texto": "Hápax. Ligado a mataios, “vão, vazio”, palavra que a Septuaginta usa para os ídolos e seus adoradores (Jr 2:5: “seguiram a vaidade e se tornaram vãos”; 2Rs 17:15). “Vazios” mantém a ideia de futilidade e o eco da idolatria."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "coração",
+    "termo": "καρδία (kardia)",
+    "titulo": "kardia",
+    "texto": "No pensamento bíblico o coração é o centro da pessoa, inclusive do pensamento e da vontade, e não só das emoções. Por isso pode ser “insensato” e “obscurecer-se”."
+   }
+  ]
+ },
+ "Rom.1.22": {
+  "t": "Dizendo-se sábios, tornaram-se tolos",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Dizendo-se",
+    "termo": "φάσκοντες (phaskontes)",
+    "titulo": "phaskō, raro",
+    "texto": "Só aqui, em At 24:9 e 25:19. É “afirmar, alegar”, muitas vezes com a nuance de pretensão sem fundamento."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "tornaram-se tolos",
+    "termo": "ἐμωράνθησαν (emōranthēsan)",
+    "titulo": "eco de Jeremias",
+    "texto": "Eco de Jr 10:14 (“todo homem se embruteceu”, sobre quem faz ídolos). Cf. 1Co 1:20, onde Deus torna louca a sabedoria do mundo."
+   }
+  ]
+ },
+ "Rom.1.23": {
+  "t": "e trocaram a glória do Deus incorruptível por imagens semelhantes ao homem corruptível, a aves, a quadrúpedes e a répteis.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "por imagens semelhantes ao homem corruptível",
+    "termo": "ἐν ὁμοιώματι εἰκόνος φθαρτοῦ ἀνθρώπου",
+    "titulo": "“pela semelhança da imagem”",
+    "texto": "Lit. “pela semelhança da imagem de homem corruptível”. Homoiōma (semelhança) e eikōn (imagem) se reforçam. O ἐν com “trocar” segue o uso hebraico de preço (“trocar uma coisa por outra”)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "trocaram a glória",
+    "termo": "ἤλλαξαν τὴν δόξαν",
+    "titulo": "Salmo 106 e Gênesis 1",
+    "texto": "Eco quase literal do Sl 106:20 (LXX 105:20), sobre o bezerro de ouro: “trocaram a sua glória pela semelhança de um bezerro”; cf. Jr 2:11. A lista homem, aves, quadrúpedes e répteis lembra também Gn 1:20-26, onde aparecem “imagem” e “semelhança”: a humanidade, criada à imagem de Deus para governar os animais, passa a se curvar diante de imagens deles. Por isso muitos veem aqui também a história de Adão (M. D. Hooker)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "quadrúpedes",
+    "termo": "τετραπόδων (tetrapodōn)",
+    "titulo": "tetrapous, raro",
+    "texto": "Três ocorrências no NT (aqui, At 10:12 e 11:6). Lit. “de quatro pés”."
+   }
+  ]
+ },
+ "Rom.1.24": {
+  "t": "Por isso Deus os entregou, nos desejos do seu coração, à impureza, para que desonrassem o próprio corpo entre si.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Deus os entregou",
+    "termo": "παρέδωκεν αὐτοὺς ὁ θεός (paredōken autous ho theos)",
+    "titulo": "três vezes “entregou”",
+    "texto": "O verbo se repete nos vv. 24, 26 e 28 e marca o juízo de Deus no presente: ele deixa as pessoas entregues ao que escolheram. Não é só permissão passiva, mas ato judicial; a ira (v. 18) se manifesta assim. O mesmo verbo descreve, em 4:25 e 8:32, Deus entregando o Filho."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "desejos",
+    "termo": "ἐπιθυμίαις (epithymiais)",
+    "titulo": "epithymia",
+    "texto": "Desejo intenso; em Paulo, quase sempre desejo desordenado (7:7-8, onde é “cobiça”). “Concupiscências” (ARC) hoje soa arcaico."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Por isso",
+    "termo": "Διό (+ καί)",
+    "titulo": "“por isso também”",
+    "texto": "O Textus Receptus e o Texto Bizantino acrescentam kai (“por isso também”) e trazem heautois (“entre si mesmos”) no fim. Sem efeito no sentido."
+   }
+  ]
+ },
+ "Rom.1.25": {
+  "t": "Eles trocaram a verdade de Deus pela mentira e adoraram e serviram à criatura em lugar do Criador, que é bendito para sempre. Amém.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "trocaram",
+    "termo": "μετήλλαξαν (metēllaxan)",
+    "titulo": "metallassō, raro",
+    "texto": "Só aqui e no v. 26. É forma reforçada de allassō (v. 23). Paulo repete o verbo três vezes (vv. 23, 25, 26) para ligar a troca de Deus pelos ídolos à troca descrita no v. 26."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "pela mentira",
+    "termo": "ἐν τῷ ψεύδει (en tō pseudei)",
+    "titulo": "com artigo",
+    "texto": "Lit. “pela mentira”, com artigo: não uma mentira qualquer, mas a grande mentira, a idolatria (cf. Is 44:20; Jr 13:25)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "adoraram",
+    "termo": "ἐσεβάσθησαν (esebasthēsan)",
+    "titulo": "sebazomai, hápax",
+    "texto": "Hápax. É “venerar, prestar culto religioso”. Ao lado de latreuō (“servir” em culto, cf. v. 9), descreve a adoração completa dada à criatura."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "em lugar do",
+    "termo": "παρὰ τὸν κτίσαντα (para ton ktisanta)",
+    "titulo": "para",
+    "texto": "Para com acusativo pode ser “em lugar de” ou “mais do que”. Aqui o contexto (trocaram) pede “em lugar de”: a criatura toma o lugar do Criador."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "que é bendito para sempre. Amém.",
+    "termo": "ὅς ἐστιν εὐλογητὸς εἰς τοὺς αἰῶνας, ἀμήν",
+    "titulo": "doxologia",
+    "texto": "Ao mencionar a ofensa ao Criador, Paulo irrompe numa bênção, à maneira judaica (cf. 9:5). Lit. “para os séculos”."
+   }
+  ]
+ },
+ "Rom.1.26": {
+  "t": "Por isso Deus os entregou a paixões vergonhosas. Pois até as mulheres deles trocaram as relações naturais pelas que são contrárias à natureza;",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "paixões vergonhosas",
+    "termo": "πάθη ἀτιμίας (pathē atimias)",
+    "titulo": "pathos, raro",
+    "texto": "Pathos (só aqui, Cl 3:5 e 1Ts 4:5) é a paixão que domina a pessoa. Lit. “paixões de desonra”: a vergonha do v. 24 continua."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "as mulheres deles",
+    "termo": "θήλειαι αὐτῶν (thēleiai autōn)",
+    "titulo": "thēlys",
+    "texto": "Paulo não usa gynē (“mulher”), mas thēlys, “fêmea”, e no v. 27 arsēn, “macho”: os termos de Gn 1:27 na Septuaginta (“macho e fêmea os criou”). O vocabulário aponta para a ordem da criação. “Mulheres” e “homens” são o português natural; esta nota registra o eco."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "relações naturais",
+    "termo": "τὴν φυσικὴν χρῆσιν (tēn physikēn chrēsin)",
+    "titulo": "chrēsis, rara",
+    "texto": "Chrēsis (só aqui e no v. 27) é “uso”; em textos gregos da época aparece como eufemismo para relação sexual. “Relações” traduz o sentido sem a frieza de “uso”. Physikos (raro: aqui, v. 27 e 2Pe 2:12) é “conforme a natureza”."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "contrárias à natureza",
+    "termo": "παρὰ φύσιν (para physin)",
+    "titulo": "para physin",
+    "texto": "Lit. “contra a natureza”. Em Paulo, physis remete à ordem estabelecida pelo Criador, à luz do eco de Gênesis nos vv. 23-27 (R. B. Hays, The Moral Vision of the New Testament, 1996), e não apenas ao costume (cf. 1Co 11:14). A interpretação mais comum, antiga e moderna, entende que o versículo trata de relações sexuais entre mulheres, por causa do paralelo “do mesmo modo também os homens” (v. 27). Alguns intérpretes, antigos e modernos, entenderam práticas heterossexuais não procriativas. Paulo apresenta essas práticas como consequência da troca idólatra (vv. 23, 25), não como pecado mais grave que os da lista dos vv. 29-31, e a acusação prepara 2:1: ninguém está acima do juízo."
+   }
+  ]
+ },
+ "Rom.1.27": {
+  "t": "do mesmo modo também os homens, deixando a relação natural com a mulher, inflamaram-se em seu desejo uns pelos outros, homens com homens, praticando o que é vergonhoso e recebendo em si mesmos a retribuição devida ao seu desvio.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "inflamaram-se",
+    "termo": "ἐξεκαύθησαν (exekauthēsan)",
+    "titulo": "ekkaiō, hápax",
+    "texto": "Hápax. É “inflamar-se, arder”. A imagem do fogo descreve a força do desejo (orexis, também hápax, “apetite, desejo”)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "o que é vergonhoso",
+    "termo": "τὴν ἀσχημοσύνην (tēn aschēmosynēn)",
+    "titulo": "aschēmosynē, rara",
+    "texto": "Só aqui e em Ap 16:15 (“a vergonha da nudez”). É o indecoroso, o que expõe à vergonha. Lit. “realizando a indecência”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "a retribuição devida ao seu desvio",
+    "termo": "τὴν ἀντιμισθίαν ἣν ἔδει τῆς πλάνης αὐτῶν",
+    "titulo": "antimisthia, rara",
+    "texto": "Antimisthia (só aqui e em 2Co 6:13) é “pagamento em troca”. Plánē é “erro, extravio”, aqui o desvio da idolatria. A retribuição é provavelmente o próprio estado descrito: ser entregue a essas paixões é já o juízo (vv. 24, 26, 28). Paulo não especifica outra consequência."
+   }
+  ]
+ },
+ "Rom.1.28": {
+  "t": "E, como não aprovaram reter a Deus em seu conhecimento, Deus os entregou a uma mente reprovada, para fazerem o que não convém.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "não aprovaram",
+    "termo": "οὐκ ἐδοκίμασαν ... ἀδόκιμον (ouk edokimasan ... adokimon)",
+    "titulo": "jogo de palavras",
+    "texto": "Dokimazō é “testar e aprovar”; adokimos, “reprovado no teste, desqualificado”. Paulo faz um jogo: como eles não aprovaram reconhecer a Deus, Deus os entregou a uma mente reprovada. A tradução “aprovaram / reprovada” procura guardar o jogo."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "o que não convém",
+    "termo": "τὰ μὴ καθήκοντα (ta mē kathēkonta)",
+    "titulo": "kathēkō, raro",
+    "texto": "Só aqui e em At 22:22. Na filosofia estoica, to kathēkon era o dever, o que é apropriado. Paulo usa linguagem conhecida dos leitores gentios: até pelo critério deles essas ações são impróprias."
+   }
+  ]
+ },
+ "Rom.1.29": {
+  "t": "Encheram-se de toda injustiça, maldade, ganância e malícia; estão cheios de inveja, homicídio, rivalidade, engano e malignidade; são mexeriqueiros,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "inveja, homicídio",
+    "termo": "φθόνου, φόνου (phthonou, phonou)",
+    "titulo": "jogo sonoro",
+    "texto": "Paulo junta phthonos (“inveja”) e phonos (“homicídio”), quase iguais no som. O jogo se perde em português."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "malignidade",
+    "termo": "κακοηθείας (kakoētheias)",
+    "titulo": "kakoētheia, hápax",
+    "texto": "Hápax. Lit. “mau caráter”; os autores gregos a definem como a disposição de interpretar tudo pelo pior lado. “Malignidade” guarda o sentido geral."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "mexeriqueiros",
+    "termo": "ψιθυριστάς (psithyristas)",
+    "titulo": "psithyristēs, hápax",
+    "texto": "Hápax. Da raiz de “sussurrar”: quem espalha intrigas em segredo, em contraste com katalalos (v. 30), que difama abertamente."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "toda injustiça, maldade",
+    "termo": "πάσῃ ἀδικίᾳ πονηρίᾳ (+ πορνείᾳ)",
+    "titulo": "“imoralidade sexual”",
+    "texto": "O Textus Receptus e o Texto Bizantino acrescentam porneia (“imoralidade sexual”) e mudam a ordem da lista, como na ARC (“prostituição”). O texto crítico não o traz; a semelhança com ponēria (“maldade”) explica bem o acréscimo por erro de cópia."
+   }
+  ]
+ },
+ "Rom.1.30": {
+  "t": "difamadores, inimigos de Deus, insolentes, arrogantes, fanfarrões, inventores de maldades, desobedientes aos pais,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "difamadores",
+    "termo": "καταλάλους (katalalous)",
+    "titulo": "katalalos, hápax",
+    "texto": "Hápax. Quem fala contra outros, caluniador público."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "inimigos de Deus",
+    "termo": "θεοστυγεῖς (theostygeis)",
+    "titulo": "theostygēs, hápax",
+    "texto": "Hápax. No grego clássico, a palavra é quase sempre passiva: “odiados por Deus”. Numa lista de atitudes humanas, porém, o sentido ativo, “que odeiam a Deus”, é o mais natural, e é como a maioria das versões e dos comentaristas antigos entendem. “Inimigos de Deus” mantém o sentido ativo sem forçar a forma.",
+    "revisar": true
+   },
+   {
+    "tipo": "tn",
+    "ancora": "insolentes",
+    "termo": "ὑβριστάς (hybristas)",
+    "titulo": "hybristēs, raro",
+    "texto": "Só aqui e em 1Tm 1:13. É quem trata os outros com violência e desprezo (hybris)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "fanfarrões",
+    "termo": "ἀλαζόνας (alazonas)",
+    "titulo": "alazōn, raro",
+    "texto": "Só aqui e em 2Tm 3:2. O que se gaba do que não tem."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "inventores de maldades",
+    "termo": "ἐφευρετὰς κακῶν (epheuretas kakōn)",
+    "titulo": "epheuretēs, hápax",
+    "texto": "Hápax. Lit. “inventores de males”: não só praticam o mal, mas descobrem formas novas de praticá-lo."
+   }
+  ]
+ },
+ "Rom.1.31": {
+  "t": "insensatos, desleais, sem afeto natural, sem misericórdia.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "insensatos, desleais",
+    "termo": "ἀσυνέτους, ἀσυνθέτους (asynetous, asynthetous)",
+    "titulo": "asynthetos, hápax",
+    "texto": "Outro jogo sonoro: asynetos (“sem entendimento”) e asynthetos (hápax, “que não guarda acordos”). “Desleais” traduz o segundo: quem quebra a palavra empenhada."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "sem afeto natural",
+    "termo": "ἀστόργους (astorgous)",
+    "titulo": "astorgos, raro",
+    "texto": "Só aqui e em 2Tm 3:3. Storgē é o afeto da família, entre pais e filhos; astorgos é quem não o tem."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "sem misericórdia",
+    "termo": "ἀνελεήμονας (aneleēmonas)",
+    "titulo": "aneleēmōn, hápax",
+    "texto": "Hápax. Sem compaixão (eleos)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "sem afeto natural, sem misericórdia",
+    "termo": "ἀστόργους (+ ἀσπόνδους) ἀνελεήμονας",
+    "titulo": "“implacáveis”",
+    "texto": "O Textus Receptus e o Texto Bizantino acrescentam aspondous (“implacáveis”, que não aceitam trégua), provavelmente vindo de 2Tm 3:3, onde está junto de astorgous. O texto crítico não o traz."
+   }
+  ]
+ },
+ "Rom.1.32": {
+  "t": "Embora conheçam o justo decreto de Deus, de que os que praticam tais coisas são dignos de morte, não somente as fazem, mas também aprovam os que as praticam.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "o justo decreto",
+    "termo": "τὸ δικαίωμα (to dikaiōma)",
+    "titulo": "dikaiōma",
+    "texto": "Dikaiōma é o que a justiça determina: decreto, sentença ou exigência justa. A palavra volta em 2:26, 5:16, 5:18 e 8:4 com nuances diferentes; “justo decreto” mantém a raiz dikai-, ligada a “justiça”."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "dignos de morte",
+    "termo": "ἄξιοι θανάτου (axioi thanatou)",
+    "titulo": "morte",
+    "texto": "Não se refere à pena de morte aplicada por tribunais, mas à morte como consequência do pecado diante de Deus (Gn 2:17; Rm 5:12; 6:23). Paulo supõe que até os gentios sem a Lei percebem isso pela consciência (2:14-15)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "aprovam",
+    "termo": "συνευδοκοῦσιν (syneudokousin)",
+    "titulo": "syneudokeō",
+    "texto": "É “consentir, dar aprovação a”. O clímax da lista: não apenas cometem o mal, mas o aplaudem nos outros."
+   }
+  ]
+ },
+ "Rom.2.1": {
+  "t": "Por isso você não tem desculpa, ó homem, seja você quem for, que julga; pois naquilo em que julga o outro, condena a si mesmo, porque você, que julga, pratica as mesmas coisas.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "ó homem",
+    "termo": "ὦ ἄνθρωπε (ō anthrōpe)",
+    "titulo": "o interlocutor imaginário",
+    "texto": "Paulo passa a falar com um interlocutor imaginário, no estilo da diatribe, gênero de ensino da época em que o autor dialoga com um oponente fictício (cf. 2:17; 9:20). Quem é ele? Muitos entendem que já se trata do judeu que condena os gentios de 1:18-32 e que só é nomeado em 2:17; outros pensam em qualquer moralista, judeu ou gentio. O “por isso” liga o capítulo ao anterior: quem aprova o juízo sobre os outros reconhece o padrão pelo qual será julgado."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "não tem desculpa",
+    "termo": "ἀναπολόγητος εἶ (anapologētos ei)",
+    "titulo": "anapologētos, raro",
+    "texto": "A mesma palavra rara de 1:20 (só nestes dois lugares). O que valia para os idólatras vale também para quem os julga."
+   }
+  ]
+ },
+ "Rom.2.2": {
+  "t": "Ora, sabemos que o juízo de Deus contra os que praticam tais coisas é conforme a verdade.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "conforme a verdade",
+    "termo": "κατὰ ἀλήθειαν (kata alētheian)",
+    "titulo": "kata alētheian",
+    "texto": "Lit. “segundo a verdade”: justo, de acordo com a realidade dos fatos, sem aparência nem favoritismo (v. 11)."
+   }
+  ]
+ },
+ "Rom.2.3": {
+  "t": "E você, ó homem, que julga os que praticam tais coisas e as faz também, pensa que escapará do juízo de Deus?",
+  "n": []
+ },
+ "Rom.2.4": {
+  "t": "Ou despreza a riqueza da bondade, da tolerância e da paciência dele, sem reconhecer que a bondade de Deus o conduz ao arrependimento?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "tolerância",
+    "termo": "ἀνοχῆς (anochēs)",
+    "titulo": "anochē, rara",
+    "texto": "Só aqui e em 3:26. É a suspensão temporária do castigo, uma trégua. Em 3:25-26 Paulo explicará o que essa tolerância significa à luz da cruz."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "sem reconhecer",
+    "termo": "ἀγνοῶν (agnoōn)",
+    "titulo": "agnoeō",
+    "texto": "Lit. “ignorando”. Não é falta de informação, mas recusa de entender: a bondade de Deus é mal lida como indiferença."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "o conduz",
+    "termo": "ἄγει (agei)",
+    "titulo": "presente",
+    "texto": "O presente indica ação em curso: a bondade de Deus está levando, procura levar, ao arrependimento. Não garante o resultado; o v. 5 mostra que ela pode ser recusada."
+   }
+  ]
+ },
+ "Rom.2.5": {
+  "t": "Mas, por causa da sua dureza e do seu coração que não se arrepende, você está acumulando ira contra si mesmo para o dia da ira e da revelação do justo juízo de Deus,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "dureza",
+    "termo": "σκληρότητα (sklērotēta)",
+    "titulo": "sklērotēs, hápax",
+    "texto": "Hápax no NT. Na Septuaginta é usada para a “dureza” de Israel no deserto (Dt 9:27). Junto de “coração”, lembra a “dureza de coração” e a “dura cerviz” do povo."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "que não se arrepende",
+    "termo": "ἀμετανόητον (ametanoēton)",
+    "titulo": "ametanoētos, hápax",
+    "texto": "Hápax. Lit. “sem arrependimento”. Responde ao “arrependimento” do v. 4."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "está acumulando",
+    "termo": "θησαυρίζεις (thēsaurizeis)",
+    "titulo": "thēsaurizō",
+    "texto": "Lit. “entesoura”. Ironia: em vez de juntar tesouro, a pessoa junta ira para si mesma."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "justo juízo",
+    "termo": "δικαιοκρισίας (dikaiokrisias)",
+    "titulo": "dikaiokrisia, hápax",
+    "texto": "Hápax. Palavra composta: “juízo justo”. Pertence à mesma família de dikaiosynē, “justiça”."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "da revelação do justo juízo",
+    "termo": "ἀποκαλύψεως δικαιοκρισίας",
+    "titulo": "kai",
+    "texto": "O Texto Bizantino acrescenta kai: “da revelação e do justo juízo”. O texto crítico e o Textus Receptus não o têm. A diferença é pequena."
+   }
+  ]
+ },
+ "Rom.2.6": {
+  "t": "que retribuirá a cada um segundo as suas obras:",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "que retribuirá a cada um segundo as suas obras",
+    "termo": "ὃς ἀποδώσει ἑκάστῳ κατὰ τὰ ἔργα αὐτοῦ",
+    "titulo": "Salmo 62 e Provérbios 24",
+    "texto": "Retomada quase literal do Sl 62:12 (LXX 61:13) e de Pv 24:12 (LXX). O juízo segundo as obras é ensino constante da Bíblia (Mt 16:27; 2Co 5:10; Ap 22:12). Os vv. 7-10 o desenvolvem em duas colunas paralelas."
+   }
+  ]
+ },
+ "Rom.2.7": {
+  "t": "aos que, perseverando em fazer o bem, buscam glória, honra e incorruptibilidade, dará a vida eterna;",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "perseverando em fazer o bem",
+    "termo": "καθ᾽ ὑπομονὴν ἔργου ἀγαθοῦ (kath’ hypomonēn ergou agathou)",
+    "titulo": "“segundo a perseverança de obra boa”",
+    "texto": "Lit. “segundo a perseverança de obra boa”. O singular “obra” indica a orientação da vida inteira, não uma soma de atos."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "dará",
+    "termo": "ἀποδώσει (apodōsei)",
+    "titulo": "verbo implícito",
+    "texto": "O grego não repete o verbo; “dará” retoma “retribuirá” do v. 6, para que a frase fique completa em português."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "a vida eterna",
+    "termo": "ζωὴν αἰώνιον (zōēn aiōnion)",
+    "titulo": "juízo segundo as obras e justificação pela fé",
+    "texto": "Como harmonizar os vv. 6-13 com 3:20-28, onde ninguém é justificado pelas obras da Lei? Principais leituras: (1) Paulo descreve o princípio do juízo em si, que ninguém cumpre; a passagem prepara 3:20 (leitura luterana clássica); (2) Paulo fala de cristãos reais, cujas obras são fruto da graça e do Espírito, e que serão confirmados no juízo final (Agostinho; entre os modernos, T. R. Schreiner; cf. 2:29; 8:4); (3) os vv. 14-15 e 26-29 referem-se a gentios cristãos, nos quais se cumpre a nova aliança (N. T. Wright; C. E. B. Cranfield, para os vv. 14-15). A segunda e a terceira leituras se aproximam; muitos combinam a primeira com elas. A tradução não decide a questão."
+   }
+  ]
+ },
+ "Rom.2.8": {
+  "t": "mas aos que agem por ambição egoísta e desobedecem à verdade, mas obedecem à injustiça, haverá ira e indignação.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "ambição egoísta",
+    "termo": "ἐξ ἐριθείας (ex eritheias)",
+    "titulo": "eritheia",
+    "texto": "Fora do NT, eritheia descreve quem busca cargo ou vantagem por interesse próprio. Lit. “os que são de ambição egoísta”. Mesma tradução de Fl 1:17 e 2:3."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "haverá",
+    "termo": "ὀργὴ καὶ θυμός",
+    "titulo": "verbo implícito",
+    "texto": "No grego a frase muda de construção: “aos que..., ira e indignação”, sem verbo. “Haverá” completa o sentido. Orgē é a ira como atitude; thymos, a explosão de indignação. A ordem “indignação e ira” no Textus Receptus não muda o sentido."
+   }
+  ]
+ },
+ "Rom.2.9": {
+  "t": "Haverá tribulação e angústia sobre todo ser humano que pratica o mal, primeiro do judeu e também do grego;",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "todo ser humano",
+    "termo": "πᾶσαν ψυχὴν ἀνθρώπου (pasan psychēn anthrōpou)",
+    "titulo": "“toda alma de homem”",
+    "texto": "Lit. “toda alma de homem”. Psychē, como o hebraico nefesh, muitas vezes designa a pessoa inteira; a expressão equivale a “todo ser humano”."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "primeiro do judeu",
+    "termo": "Ἰουδαίου τε πρῶτον",
+    "titulo": "prioridade também no juízo",
+    "texto": "A mesma prioridade de 1:16 vale também para o juízo: quem recebeu mais luz responde primeiro (cf. Am 3:2)."
+   }
+  ]
+ },
+ "Rom.2.10": {
+  "t": "mas glória, honra e paz a todo aquele que pratica o bem, primeiro ao judeu e também ao grego.",
+  "n": []
+ },
+ "Rom.2.11": {
+  "t": "Pois Deus não faz acepção de pessoas.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "não faz acepção de pessoas",
+    "termo": "οὐ γάρ ἐστιν προσωπολημψία παρὰ τῷ θεῷ",
+    "titulo": "prosōpolēmpsia",
+    "texto": "Lit. “não há acepção de pessoas junto de Deus”. A palavra vem de uma expressão hebraica, “levantar o rosto” de alguém, isto é, favorecê-lo pela aparência ou posição (Dt 10:17; 2Cr 19:7). “Acepção de pessoas” é a forma consagrada em português; o sentido é parcialidade, favoritismo."
+   }
+  ]
+ },
+ "Rom.2.12": {
+  "t": "Pois todos os que pecaram sem a Lei também sem a Lei perecerão; e todos os que pecaram sob a Lei serão julgados pela Lei.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "sem a Lei",
+    "termo": "ἀνόμως (anomōs)",
+    "titulo": "anomōs, raro",
+    "texto": "Só aqui, duas vezes. Advérbio: “sem lei”, isto é, sem a Lei de Moisés, como os gentios. Não significa aqui “de modo iníquo”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "a Lei",
+    "termo": "νόμος (nomos)",
+    "titulo": "nomos: “Lei” e “lei”",
+    "texto": "Em Romanos, nomos é quase sempre a Lei de Moisés, a Torá; nesses casos a APV usa maiúscula, mesmo quando o grego não tem artigo. Em alguns textos nomos designa um princípio ou regra (2:14b; 3:27; 7:21-23; 8:2), e então a APV usa minúscula, com nota quando o sentido é debatido."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "sob a Lei",
+    "termo": "ἐν νόμῳ (en nomō)",
+    "titulo": "“na Lei”",
+    "texto": "Lit. “em lei”: dentro da esfera da Lei, tendo-a recebido. Refere-se aos judeus."
+   }
+  ]
+ },
+ "Rom.2.13": {
+  "t": "Porque não são os que ouvem a Lei que são justos diante de Deus, mas os que praticam a Lei é que serão justificados.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "serão justificados",
+    "termo": "δικαιωθήσονται (dikaiōthēsontai)",
+    "titulo": "dikaioō",
+    "texto": "Primeira ocorrência do verbo em Romanos. Dikaioō é termo de tribunal: “declarar justo, absolver, dar a sentença favorável”; não “tornar justo” por mudança interior. O futuro aponta para o juízo final."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "os que ouvem a Lei",
+    "termo": "οἱ ἀκροαταὶ νόμου (hoi akroatai nomou)",
+    "titulo": "ouvir e praticar",
+    "texto": "Na sinagoga, a Lei era ouvida em leitura pública todo sábado. Paulo concorda com um princípio judaico conhecido (cf. Tg 1:22-25): o que vale não é ouvir, mas fazer. Em 3:20 ele mostrará que ninguém é justificado pelas obras da Lei; ver a nota em 2:7."
+   }
+  ]
+ },
+ "Rom.2.14": {
+  "t": "De fato, quando os gentios, que não têm a Lei, fazem por natureza o que a Lei exige, eles, embora não tenham a Lei, são lei para si mesmos.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "fazem por natureza",
+    "termo": "φύσει ... ποιῶσιν (physei ... poiōsin)",
+    "titulo": "a que se liga “por natureza”?",
+    "texto": "Physei pode ligar-se ao verbo (“fazem por natureza”, isto é, por instinto moral, sem ter recebido a Lei) ou ao que vem antes (“os gentios que por natureza, isto é, por nascimento, não têm a Lei”; cf. 2:27; Gl 2:15, onde physei indica origem). A primeira é a leitura mais comum; a segunda é defendida por Cranfield e Wright, que veem aqui gentios cristãos. A ordem das palavras permite as duas.",
+    "revisar": true
+   },
+   {
+    "tipo": "tn",
+    "ancora": "são lei para si mesmos",
+    "termo": "ἑαυτοῖς εἰσιν νόμος (heautois eisin nomos)",
+    "titulo": "não “sem lei”",
+    "texto": "Não significa que fazem o que querem, como na expressão moderna, mas o contrário: trazem dentro de si uma norma moral, que o v. 15 descreve. Minúscula, porque não se trata da Lei de Moisés."
+   }
+  ]
+ },
+ "Rom.2.15": {
+  "t": "Eles mostram que a obra da Lei está escrita em seu coração, e disso dá testemunho também a sua consciência, e os seus pensamentos, entre si, ora os acusam, ora os defendem,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "a obra da Lei",
+    "termo": "τὸ ἔργον τοῦ νόμου (to ergon tou nomou)",
+    "titulo": "singular",
+    "texto": "Não “as obras da Lei” (plural, 3:20, 28), mas “a obra”: o que a Lei requer, sua exigência essencial."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "escrita em seu coração",
+    "termo": "γραπτὸν ἐν ταῖς καρδίαις αὐτῶν (grapton)",
+    "titulo": "Jeremias 31",
+    "texto": "Grapton é hápax. A expressão lembra a promessa da nova aliança: “porei a minha lei no íntimo deles e a escreverei no seu coração” (Jr 31:33; LXX 38:33). Para quem vê aqui gentios cristãos (nota no v. 14), Paulo alude ao cumprimento dessa promessa; para os demais, trata-se da consciência moral comum a todos, sem ligação direta com Jeremias."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "consciência",
+    "termo": "συνειδήσεως (syneidēseōs)",
+    "titulo": "syneidēsis",
+    "texto": "Termo do grego helenístico, sem equivalente exato no hebraico do AT: a capacidade de julgar a própria conduta. Syn-martyreō (raro, também em 8:16 e 9:1) é “testemunhar junto”: a consciência confirma o testemunho da lei interior."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "pensamentos",
+    "termo": "λογισμῶν (logismōn)",
+    "titulo": "logismos, raro",
+    "texto": "Só aqui e em 2Co 10:4. São os raciocínios que avaliam a conduta, como num tribunal interior, acusando ou defendendo."
+   }
+  ]
+ },
+ "Rom.2.16": {
+  "t": "no dia em que Deus julgar os segredos dos homens, segundo o meu evangelho, por meio de Cristo Jesus.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "no dia em que",
+    "termo": "ἐν ἡμέρᾳ ὅτε (en hēmera hote)",
+    "titulo": "ligação com o v. 15",
+    "texto": "A ligação é difícil: o tribunal interior do v. 15 acontece agora, e o dia do juízo é futuro. Muitos tomam os vv. 14-15 como parêntese, ligando o v. 16 ao v. 13 (“serão justificados no dia em que...”). Outros entendem que a consciência dará seu testemunho pleno naquele dia. A pontuação deixa as duas leituras."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "segundo o meu evangelho",
+    "termo": "κατὰ τὸ εὐαγγέλιόν μου",
+    "titulo": "juízo e evangelho",
+    "texto": "O juízo por meio de Cristo faz parte do evangelho que Paulo anuncia (At 17:31). Não é outro evangelho, mas o mesmo, pregado por ele aos gentios (16:25)."
+   }
+  ]
+ },
+ "Rom.2.17": {
+  "t": "Mas, se você se chama judeu, se apoia na Lei e se gloria em Deus,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "se chama",
+    "termo": "ἐπονομάζῃ (eponomazē)",
+    "titulo": "eponomazō, hápax",
+    "texto": "Hápax. “Ser chamado por um nome, levar o nome de”. O nome “judeu” é motivo de honra legítima (3:1-2; 9:4-5); Paulo questiona a confiança que se apoia apenas nele."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "se apoia",
+    "termo": "ἐπαναπαύῃ (epanapauē)",
+    "titulo": "epanapauomai, raro",
+    "texto": "Só aqui e em Lc 10:6. “Repousar sobre, confiar em”. Eco possível de Mq 3:11 (LXX), sobre os que se apoiam no SENHOR enquanto praticam a injustiça."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Mas, se",
+    "termo": "Εἰ δέ (ei de)",
+    "titulo": "“Eis que”",
+    "texto": "O texto crítico traz Ei de (“mas, se”). O Textus Receptus e o Texto Bizantino trazem Ide (“eis que”), como na ARC. A diferença nasce de uma troca de letras e de pronúncia semelhante no grego tardio. Com “se”, os vv. 17-20 formam uma condição que fica sem conclusão: o v. 21 começa nova frase."
+   }
+  ]
+ },
+ "Rom.2.18": {
+  "t": "se conhece a vontade dele e sabe distinguir o que é excelente, porque é instruído pela Lei,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "sabe distinguir o que é excelente",
+    "termo": "δοκιμάζεις τὰ διαφέροντα (dokimazeis ta diapheronta)",
+    "titulo": "“aprova as coisas que diferem”",
+    "texto": "Mesma expressão de Fl 1:10. Dokimazō é “testar e aprovar”; ta diapheronta, “as coisas que diferem”, isto é, as que realmente importam."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "instruído",
+    "termo": "κατηχούμενος (katēchoumenos)",
+    "titulo": "katēcheō",
+    "texto": "“Ser instruído oralmente”, de onde vem “catequese”. Particípio presente: instrução contínua na Lei, desde a infância."
+   }
+  ]
+ },
+ "Rom.2.19": {
+  "t": "e está convencido de que é guia de cegos, luz dos que estão nas trevas,",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "guia de cegos, luz dos que estão nas trevas",
+    "termo": "ὁδηγὸν ... τυφλῶν, φῶς τῶν ἐν σκότει",
+    "titulo": "a vocação de Israel",
+    "texto": "Ecos de Is 42:6-7 e 49:6: o Servo é posto como “luz das nações” para abrir os olhos dos cegos. Paulo não nega essa vocação de Israel; mostra que ela foi traída pela incoerência (vv. 21-24)."
+   }
+  ]
+ },
+ "Rom.2.20": {
+  "t": "educador de insensatos, mestre de crianças, por ter na Lei a expressão do conhecimento e da verdade.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "educador",
+    "termo": "παιδευτήν (paideutēn)",
+    "titulo": "paideutēs, raro",
+    "texto": "Só aqui e em Hb 12:9. É quem educa e disciplina, como um pai ou tutor."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "a expressão",
+    "termo": "τὴν μόρφωσιν (tēn morphōsin)",
+    "titulo": "morphōsis, rara",
+    "texto": "Só aqui e em 2Tm 3:5 (“forma de piedade”). Aqui o sentido é positivo: a Lei dá forma concreta ao conhecimento e à verdade. Em 2 Timóteo a mesma palavra é “aparência” sem conteúdo."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "da verdade.",
+    "termo": "τῆς ἀληθείας ἐν τῷ νόμῳ",
+    "titulo": "frase sem conclusão",
+    "texto": "Os vv. 17-20 são uma longa condição (“se você...”) que Paulo não conclui; ele quebra a construção e passa às perguntas do v. 21 (anacoluto, frase que muda de construção no meio). A tradução fecha o período aqui para que o português fique legível."
+   }
+  ]
+ },
+ "Rom.2.21": {
+  "t": "Você, então, que ensina o outro, não ensina a si mesmo? Você, que prega que não se deve roubar, rouba?",
+  "n": []
+ },
+ "Rom.2.22": {
+  "t": "Você, que diz que não se deve adulterar, adultera? Você, que abomina os ídolos, rouba templos?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "abomina",
+    "termo": "βδελυσσόμενος (bdelyssomenos)",
+    "titulo": "bdelyssomai, raro",
+    "texto": "Só aqui e em Ap 21:8. É sentir nojo, ter horror de algo. Na Septuaginta, os ídolos são “abominação” (bdelygma, Dt 7:25-26)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "rouba templos",
+    "termo": "ἱεροσυλεῖς (hierosyleis)",
+    "titulo": "hierosyleō, hápax",
+    "texto": "Hápax. Lit. “roubar coisas sagradas, saquear templos”. O sentido mais provável é o literal: tirar proveito de objetos de templos pagãos, o que Dt 7:25-26 proibia (cf. At 19:37, onde judeus de Éfeso negam que Paulo e seus companheiros sejam hierosyloi). Outros veem um sentido figurado: roubar de Deus a honra devida, ou profanar o culto. O paralelo com roubo e adultério (atos concretos) favorece o literal.",
+    "revisar": true
+   }
+  ]
+ },
+ "Rom.2.23": {
+  "t": "Você, que se gloria na Lei, desonra a Deus pela transgressão da Lei?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "desonra a Deus",
+    "termo": "τὸν θεὸν ἀτιμάζεις (ton theon atimazeis)",
+    "titulo": "pergunta ou afirmação",
+    "texto": "O grego não tem sinais de pontuação. O v. 23 pode ser a última pergunta da série ou uma afirmação que conclui a série e prepara a citação do v. 24 (“Você... desonra a Deus”). Mantida a pergunta, como nos versículos anteriores."
+   }
+  ]
+ },
+ "Rom.2.24": {
+  "t": "Pois o nome de Deus é blasfemado entre os gentios por causa de vocês, como está escrito.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "o nome de Deus é blasfemado entre os gentios por causa de vocês",
+    "termo": "τὸ γὰρ ὄνομα τοῦ θεοῦ δι᾽ ὑμᾶς βλασφημεῖται ἐν τοῖς ἔθνεσιν",
+    "titulo": "Isaías 52:5",
+    "texto": "Citação de Is 52:5 segundo a Septuaginta, que acrescenta “por causa de vocês” e “entre os gentios” ao hebraico (“o meu nome é blasfemado continuamente”). Em Isaías, o nome de Deus é desonrado porque Israel está no exílio, oprimido; Paulo aplica o texto à desonra causada pela incoerência do povo. Ez 36:20-23 desenvolve a mesma ideia. O plural “vocês” vem da citação."
+   }
+  ]
+ },
+ "Rom.2.25": {
+  "t": "Pois a circuncisão tem valor, se você pratica a Lei; mas, se você é transgressor da Lei, a sua circuncisão se tornou incircuncisão.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "incircuncisão",
+    "termo": "ἀκροβυστία (akrobystia)",
+    "titulo": "akrobystia",
+    "texto": "Lit. “prepúcio”. Por metonímia, a condição de incircunciso e, no v. 26, a pessoa incircuncisa, isto é, o gentio. O perfeito “se tornou” indica estado: diante de Deus, o transgressor fica na mesma posição do gentio."
+   }
+  ]
+ },
+ "Rom.2.26": {
+  "t": "Portanto, se o incircunciso guarda os justos preceitos da Lei, a sua incircuncisão não será considerada como circuncisão?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "o incircunciso",
+    "termo": "ἡ ἀκροβυστία (hē akrobystia)",
+    "titulo": "“a incircuncisão”",
+    "texto": "Lit. “a incircuncisão”, usada para a pessoa. Traduzido por “o incircunciso” para clareza; a mesma palavra fica literal logo depois (“a sua incircuncisão”)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "justos preceitos",
+    "termo": "τὰ δικαιώματα (ta dikaiōmata)",
+    "titulo": "dikaiōmata",
+    "texto": "As exigências justas da Lei, seus mandamentos (cf. 1:32; 8:4). Mantida a raiz dikai-, “justiça”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "será considerada",
+    "termo": "λογισθήσεται (logisthēsetai)",
+    "titulo": "logizomai",
+    "texto": "Verbo de contabilidade: “registrar na conta, considerar, creditar”. Será central no cap. 4, onde aparece onze vezes (“creditado como justiça”). O futuro aponta para o juízo de Deus."
+   }
+  ]
+ },
+ "Rom.2.27": {
+  "t": "E aquele que é fisicamente incircunciso, mas cumpre a Lei, julgará você, que, tendo a letra e a circuncisão, é transgressor da Lei.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "aquele que é fisicamente incircunciso",
+    "termo": "ἡ ἐκ φύσεως ἀκροβυστία (hē ek physeōs akrobystia)",
+    "titulo": "“a incircuncisão de natureza”",
+    "texto": "Lit. “a incircuncisão por natureza”, isto é, de nascimento, no corpo."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "tendo a letra e a circuncisão",
+    "termo": "διὰ γράμματος καὶ περιτομῆς (dia grammatos kai peritomēs)",
+    "titulo": "dia de circunstância",
+    "texto": "Dia aqui não indica meio, mas circunstância: “com a letra e a circuncisão”, isto é, apesar de tê-las. “Letra” (gramma) é a Lei escrita; volta no v. 29 em contraste com o Espírito. Alguns pontuam o versículo como pergunta."
+   }
+  ]
+ },
+ "Rom.2.28": {
+  "t": "Pois não é judeu quem o é apenas exteriormente, nem é circuncisão a que é apenas exterior, na carne;",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "apenas exteriormente",
+    "termo": "ὁ ἐν τῷ φανερῷ (ho en tō phanerō)",
+    "titulo": "“o que está no visível”",
+    "texto": "Lit. “o que é no visível”. O grego é elíptico. “Apenas” foi acrescentado porque Paulo não nega o valor do sinal (3:1-2), mas a sua suficiência sem a realidade interior."
+   }
+  ]
+ },
+ "Rom.2.29": {
+  "t": "mas judeu é quem o é interiormente, e circuncisão é a do coração, pelo Espírito, não pela letra. O louvor desse judeu não vem dos homens, mas de Deus.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "circuncisão é a do coração",
+    "termo": "περιτομὴ καρδίας (peritomē kardias)",
+    "titulo": "circuncisão do coração",
+    "texto": "Tema do AT: Dt 10:16; 30:6 (“o SENHOR, teu Deus, circuncidará o teu coração”); Jr 4:4; 9:25-26. Em Dt 30:6 é promessa da ação de Deus no futuro de Israel."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "pelo Espírito, não pela letra",
+    "termo": "ἐν πνεύματι οὐ γράμματι (en pneumati ou grammati)",
+    "titulo": "Espírito e letra",
+    "texto": "Primeira aparição do contraste Espírito/letra, retomado em 7:6 e 2Co 3:6. Pneuma pode ser “em espírito” (interiormente, em oposição ao exterior) ou “pelo Espírito” (Santo). O paralelo com 7:6 e 2Co 3:6, onde a letra é a Lei escrita e o Espírito é o Espírito de Deus, favorece a maiúscula."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "O louvor",
+    "termo": "ὁ ἔπαινος (ho epainos)",
+    "titulo": "jogo com “Judá”",
+    "texto": "Provável jogo de palavras: em hebraico, “Judá” (Yehudah), de onde vem “judeu”, soa como “louvar” (Gn 29:35; 49:8). O verdadeiro judeu é aquele cujo “louvor” vem de Deus. O jogo não aparece em grego, mas um leitor que conhecesse o hebraico o perceberia."
+   }
+  ]
+ }
+}
