@@ -1,0 +1,89 @@
+{
+ "revisor": "segundo modelo de IA, sem acesso às decisões do tradutor",
+ "itens": [
+  {
+   "ref": "Rut.2.1",
+   "gravidade": "média",
+   "problema": "Nota com Ketiv/Qere invertido. O texto consonantal (Ketiv) é מוֹדַע (môda', 'parente'); o Qere é מִיֻּדָּע (meyudda', 'conhecido'). A tradução 'parente' segue o Ketiv, não o Qere como a nota afirma (e contraria o princípio de seguir o Qere sem explicar).",
+   "sugestao": "Corrigir a nota: 'O Ketiv, seguido aqui, lê môda' (parente, palavra rara); o Qere lê meyudda' (conhecido, familiar).' Ou justificar a exceção.",
+   "decisao": "recusada: o TAHOT registra Qere = môda‘ (parente) e Ketiv = meyudda‘ (conhecido); a nota original está certa"
+  },
+  {
+   "ref": "Rut.1.8",
+   "gravidade": "média",
+   "problema": "A nota afirma haver Ketiv/Qere em ya'aseh/ya'as. O TM de 1:8 não tem Ketiv/Qere nesse ponto; a forma é yá'as (jussivo apocopado), sem variante marcada.",
+   "sugestao": "Remover a segunda parte da nota, ou trocar por: 'ya'as é forma jussiva (desejo): Que ele faça.'",
+   "decisao": "recusada: o TAHOT registra Ketiv/Qere em ya‘aseh/ya‘as (BHS); a nota está certa"
+  },
+  {
+   "ref": "Rut.3.3",
+   "gravidade": "média",
+   "problema": "Nota factualmente imprecisa: as formas do Ketiv (-ti) são terminações arcaicas de 2ª pessoa feminina singular, homógrafas da 1ª pessoa, e não 'formas de 1ª pessoa'. Os exemplos 'minha roupa' e 'e desci' também são duvidosos.",
+   "sugestao": "'Os verbos wesamt e weyaradt têm no Ketiv a terminação arcaica -tî da 2ª fem. sing., idêntica à da 1ª pessoa; o Qere, seguido aqui, lê -t. O sentido é o mesmo: você.'",
+   "decisao": "aceita em parte: nota reescrita com as duas leituras da terminação -tî; o Ketiv tem “roupa” no singular; “melhor” retirado do texto"
+  },
+  {
+   "ref": "Rut.3.3",
+   "gravidade": "baixa",
+   "problema": "'sua melhor roupa' acrescenta 'melhor', ausente no hebraico (simlotayikh = 'suas vestes'). A nota registra o literal, mas o texto impõe interpretação.",
+   "sugestao": "vista as suas roupas (ou 'vista o seu manto')",
+   "decisao": "aceita em parte: nota reescrita com as duas leituras da terminação -tî; o Ketiv tem “roupa” no singular; “melhor” retirado do texto"
+  },
+  {
+   "ref": "Rut.2.16",
+   "gravidade": "baixa",
+   "problema": "'Ao contrário' traduz wegam ('e também'), que é aditivo e não adversativo; cria oposição inexistente com a ordem anterior (v. 15).",
+   "sugestao": "Tirem também, de propósito, algumas espigas dos feixes e deixem-nas para que ela as recolha.",
+   "decisao": "aceita"
+  },
+  {
+   "ref": "Rut.2.18",
+   "gravidade": "baixa",
+   "problema": "'Ela a levou' tem objeto 'a' sem antecedente claro (o hebraico diz que ela carregou o que recolhera). Ambíguo.",
+   "sugestao": "Ela carregou o grão e foi para a cidade, e sua sogra viu o que tinha recolhido.",
+   "decisao": "aceita"
+  },
+  {
+   "ref": "Rut.3.1",
+   "gravidade": "baixa",
+   "problema": "'Certo dia' é acréscimo sem correspondente no hebraico, que apenas diz 'e disse-lhe Noemi, sua sogra'.",
+   "sugestao": "Noemi, sua sogra, lhe disse: ...",
+   "decisao": "aceita"
+  },
+  {
+   "ref": "Rut.4.4",
+   "gravidade": "baixa",
+   "problema": "O texto traduz 'se não quer' (2ª pessoa), seguindo emendas de manuscritos e versões, quando o TM tem 3ª pessoa (wə'im lo' yiga'al). Isso foge do princípio de seguir o TM, embora a nota registre o fato. O TM é inteligível: 'e se ele (o parente) não resgatar, diga-me'.",
+   "sugestao": "Manter o TM no texto ('se ele não resgatar, diga-me') e deixar a leitura em 2ª pessoa só na nota, ou justificar a escolha.",
+   "decisao": "aceita: texto segue o TM (3ª pessoa) e a nota traz a leitura das versões"
+  },
+  {
+   "ref": "Rut.4.1",
+   "gravidade": "baixa",
+   "problema": "A nota atribui ao narrador uma intenção ('omite o nome de quem não quis preservar o nome do morto'), que é inferência de leitura e não está no texto.",
+   "sugestao": "'O narrador não dá o nome dele; possivelmente há ironia, já que ele recusa preservar o nome do falecido (v. 6).'",
+   "decisao": "aceita"
+  },
+  {
+   "ref": "Rut.4.7",
+   "gravidade": "baixa",
+   "problema": "A nota chama temurah de 'termo jurídico raro'. A palavra é relativamente comum (Lv 27:10,33; Jó 15:31 etc.); rara é a combinação jurídica aqui. Te'udah ocorre poucas vezes (Is 8:16,20).",
+   "sugestao": "'Te'udah (atestação, confirmação) é rara; temurah (troca) ocorre também em Lv 27.'",
+   "decisao": "aceita"
+  },
+  {
+   "ref": "Rut.3.9",
+   "gravidade": "baixa",
+   "problema": "A nota afirma que 'amah é 'serva apta ao casamento', em oposição a shifhah. A distinção entre os termos é debatida e é leitura interpretativa apresentada como fato; ambos os termos são usados de mulheres que se tornam esposas secundárias.",
+   "sugestao": "'Amah e shifhah são termos próximos para serva; Rute usa aqui a palavra mais humilde e formal (cf. 1Sm 25:41), e ainda assim pede casamento.' Atenuar também a nota de 2:13.",
+   "decisao": "aceita (notas de 3:9 e 2:13 atenuadas)"
+  },
+  {
+   "ref": "Rut.1.13",
+   "gravidade": "baixa",
+   "problema": "A nota traz o rótulo interno 'Revisão humana:' (também em 2:7, 2:14, 2:16, 3:8), que é marcação de processo e não conteúdo para o leitor.",
+   "sugestao": "Retirar 'Revisão humana:' das notas e deixar só a observação sobre o hápax.",
+   "decisao": "aceita: marca interna virou campo “revisar”"
+  }
+ ]
+}

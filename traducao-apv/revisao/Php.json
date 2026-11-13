@@ -1,0 +1,89 @@
+{
+ "revisor": "segundo modelo de IA, sem acesso às decisões do tradutor",
+ "itens": [
+  {
+   "ref": "Php.1.19",
+   "gravidade": "média",
+   "problema": "A nota contém a marca editorial interna 'Revisão humana:' (resíduo de processo, não deve ir ao leitor). Além disso, 'libertação' para sōtēria impõe uma leitura (soltura da prisão) que o texto não exige; a maioria das versões e o eco de Jó 13:16 LXX favorecem 'salvação' (vindicação final, cf. v. 20-21). 'Paulo cita literalmente Jó' é exagero: é eco/alusão. Também 'o mesmo Espírito é chamado de Deus e de Cristo (Rm 8:9)' é impreciso: Rm 8:9 diz 'Espírito de Deus' e 'Espírito de Cristo', não que o Espírito 'é chamado de Deus'.",
+   "sugestao": "Texto: 'resultará na minha salvação' com nota 'sōtēria: soltura da prisão ou, mais provavelmente, vindicação/salvação final (eco de Jó 13:16 LXX)'. Remover 'Revisão humana:'. Trocar a 2ª parte da nota por: 'O \"Espírito de Jesus Cristo\" é o Espírito Santo, chamado em Rm 8:9 tanto \"Espírito de Deus\" quanto \"Espírito de Cristo\"'.",
+   "decisao": "aceita em parte: nota corrigida (Rm 8:9) e marcada para revisão; “libertação” mantida (ESV, NASB e NIV também usam “deliverance”); a frase de Jó 13:16 LXX é repetida palavra por palavra, então “cita” fica"
+  },
+  {
+   "ref": "Php.2.6",
+   "gravidade": "média",
+   "problema": "A nota contém 'Revisão humana:' (resíduo editorial). Também afirma que o particípio presente hyparchōn 'indica existência contínua: Cristo existia e continua a existir'; o particípio presente aqui expressa só ação simultânea/anterior ao verbo principal, e a continuidade eterna é inferência teológica, não gramatical. A leitura de harpagmos 'a que se agarrar' é apresentada como favorecida por Hoover sem mostrar que é debatida (res rapienda vs. res retinenda; Wright: 'explorar em proveito próprio').",
+   "sugestao": "Remover 'Revisão humana:'. Reescrever: 'Hyparchōn (particípio presente) descreve o estado de Cristo antes do esvaziamento; a tradição ortodoxa vê aí a preexistência divina.' Manter Hoover (HTR 64, 1971, pp. 95-119) e acrescentar N. T. Wright como defensor da leitura 'explorar'.",
+   "decisao": "aceita"
+  },
+  {
+   "ref": "Php.2.4",
+   "gravidade": "média",
+   "problema": "A nota diz que o NA28 traz o singular hekastos; na verdade NA27/NA28 trazem o plural hekastoi (ambas as ocorrências, com kai entre colchetes); o singular hekastos com skopeite (imperativo) é do Textus Receptus/Bizantino. A informação sobre o THGNT também precisa ser verificada. A nota confunde a distribuição dos testemunhos.",
+   "sugestao": "'O SBLGNT traz hekastoi apenas no fim; o NA28 traz hekastoi também após heautōn; o Textus Receptus e o Texto Bizantino trazem hekastos (singular) e skopeite (imperativo). O sentido não muda.'",
+   "decisao": "aceita em parte: o TAGNT mostra que o NA28 traz hekastos (sing.) e hekastoi (pl.); nota reescrita a partir dos dados"
+  },
+  {
+   "ref": "Php.3.21",
+   "gravidade": "baixa",
+   "problema": "O grego citado em ORIGINAL omite o pronome reflexivo/dativo depois de hypotaxai (SBLGNT: hypotaxai heautō ta panta), mas a nota e a tradução ('a si') o pressupõem. Inconsistência entre texto grego e nota.",
+   "sugestao": "Corrigir o grego para 'καὶ ὑποτάξαι ἑαυτῷ τὰ πάντα' (SBLGNT) ou ajustar a nota.",
+   "decisao": "aceita: o defeito estava no pipeline (o TAGNT registra αὑτῷ do SBLGNT como variante de sentido); regras.py corrigido e conferido contra o SBLGNT"
+  },
+  {
+   "ref": "Php.1.16",
+   "gravidade": "baixa",
+   "problema": "A nota chama de 'quiasmo' a ordem dos vv. 15-17 (inveja, boa vontade / amor, ambição). A sequência é paralela (A-B / B-A nos vv. 16-17 em relação ao 15 no texto crítico: boa vontade/amor, depois ambição), e o ponto é a ordem invertida entre 15 e 16-17, não um quiasmo estrito; descrição confusa.",
+   "sugestao": "'O texto crítico traz 15 (inveja, boa vontade) e depois 16 (amor) e 17 (ambição), em ordem inversa à do v. 15 (quiasmo); o Textus Receptus e o Bizantino trocam os vv. 16 e 17.'",
+   "decisao": "aceita"
+  },
+  {
+   "ref": "Php.1.23",
+   "gravidade": "baixa",
+   "problema": "A nota afirma como fato que Paulo espera estar com Cristo 'antes da ressurreição' (estado intermediário consciente). É posição majoritária, mas há leituras sérias divergentes (sono da alma, ressurreição imediata fora do tempo); a diretriz pede apresentar posições sérias.",
+   "sugestao": "'A maioria entende que Paulo espera estar com Cristo logo após a morte (estado intermediário; cf. 2Co 5:8); outros veem aqui uma expressão da proximidade da ressurreição do ponto de vista de quem morre.'",
+   "decisao": "aceita"
+  },
+  {
+   "ref": "Php.2.9",
+   "gravidade": "baixa",
+   "problema": "A nota afirma sem ressalva que 'o nome acima de todo nome' é 'Senhor'. Há outras leituras sérias: o nome é 'Jesus' (cf. v. 10 'ao nome de Jesus') ou o título de honra 'Filho'/'Deus'.",
+   "sugestao": "'O nome é mais comumente entendido como \"Senhor\" (Kyrios, v. 11), título da LXX para YHWH; alguns o entendem como \"Jesus\" (v. 10).'",
+   "decisao": "aceita"
+  },
+  {
+   "ref": "Php.2.23",
+   "gravidade": "baixa",
+   "problema": "Omissão de exautēs ('imediatamente, logo'). Além disso 'souber' traduz aphidō, que é 'eu vir/perceber', não 'saber'.",
+   "sugestao": "'Espero, portanto, enviá-lo logo que eu veja como ficam as coisas comigo.'",
+   "decisao": "aceita"
+  },
+  {
+   "ref": "Php.2.26",
+   "gravidade": "baixa",
+   "problema": "A nota sobre o acréscimo idein cita só Westcott-Hort e diz 'ℵ*'; o acréscimo também está no Textus Receptus, no Texto Bizantino e é colocado entre colchetes pelo NA28. A informação sobre ℵ* é incerta e a nota dá a impressão de leitura minoritária.",
+   "sugestao": "'O acréscimo idein (\"ver\") consta do Textus Receptus, do Texto Bizantino e, entre colchetes, do NA28 (com ℵ, A, C); falta no SBLGNT e em B.'",
+   "decisao": "recusada: segundo o TAGNT, idein está só em Westcott-Hort; NA28, Textus Receptus e Bizantino não o trazem no texto"
+  },
+  {
+   "ref": "Php.3.20",
+   "gravidade": "baixa",
+   "problema": "A nota diz que os filipenses eram 'cidadãos de Roma'; só parte deles (colonos e descendentes) o era. Generalização factualmente imprecisa.",
+   "sugestao": "'Filipos era colônia romana, e muitos de seus habitantes tinham cidadania romana e se orgulhavam dela.'",
+   "decisao": "aceita"
+  },
+  {
+   "ref": "Php.1.1",
+   "gravidade": "baixa",
+   "problema": "A nota afirma sem ressalva que episkopos e presbyteros 'designam o mesmo ofício'. É posição comum, mas debatida entre tradições (episcopal, presbiteriana, etc.).",
+   "sugestao": "'Em At 20:17,28 e Tt 1:5-7 os termos parecem intercambiáveis; as tradições divergem sobre a relação entre os ofícios.'",
+   "decisao": "aceita"
+  },
+  {
+   "ref": "Php.1.6",
+   "gravidade": "baixa",
+   "problema": "A nota afirma que enarchomai e epiteleō 'eram usados para iniciar e concluir sacrifícios' como fato estabelecido; é sugestão de alguns comentaristas, não uso técnico exclusivo.",
+   "sugestao": "'Alguns comentaristas notam que enarchomai e epiteleō ocorrem em contextos de início e conclusão de rituais; aqui indicam que Deus conclui o que começou.'",
+   "decisao": "aceita"
+  }
+ ]
+}

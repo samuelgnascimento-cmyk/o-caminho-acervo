@@ -1,0 +1,188 @@
+[
+ {
+  "ref": "Rom.6.16",
+  "gravidade": "alta",
+  "problema": "Decisão da onda 1 violada: δοῦλος/δουλεύω/δουλόω com contraste livre/senhor (Rm 6:16-22) deve ser \"escravo\". O texto usa \"servos\" e a nota tn declara expressamente manter \"servo\" e que \"escravos seria tradução legítima\", contrariando o guia.",
+  "sugestao": "Texto: \"Vocês não sabem que, quando se oferecem a alguém como escravos para obedecer, são escravos daquele a quem obedecem, seja do pecado, que leva à morte, seja da obediência, que leva à justiça?\" Nota: trocar o título para \"doulos: “escravo”\" e dizer que nos vv. 16-22 a APV traduz \"escravo\" porque o contexto contrasta com liberdade (vv. 18, 20, 22); \"servo\" volta nos demais casos (ver 1:1)."
+ },
+ {
+  "ref": "Rom.6.17",
+  "gravidade": "alta",
+  "problema": "δοῦλοι τῆς ἁμαρτίας em contexto de libertação (vv. 18, 20): deve ser \"escravos\", não \"servos\".",
+  "sugestao": "\"Mas graças a Deus porque vocês, que eram escravos do pecado, obedeceram de coração...\". Ajustar a nota tn (\"que eram servos do pecado\") e o termo na âncora."
+ },
+ {
+  "ref": "Rom.6.18",
+  "gravidade": "alta",
+  "problema": "ἐδουλώθητε τῇ δικαιοσύνῃ logo após ἐλευθερωθέντες: δουλόω deve ser \"escravizar\"; o texto traz \"foram feitos servos da justiça\" e a nota sn usa \"servo\".",
+  "sugestao": "\"e, libertados do pecado, foram escravizados à justiça.\" Na nota sn: \"Ser escravo da justiça e de Deus (v. 22)...\"."
+ },
+ {
+  "ref": "Rom.6.19",
+  "gravidade": "alta",
+  "problema": "δοῦλα (duas vezes) traduzido \"servos\" no mesmo contraste escravo/livre; Paulo ainda pede desculpas pela imagem (\"Ἀνθρώπινον λέγω\"), que só faz sentido com \"escravos\".",
+  "sugestao": "\"...ofereceram os seus membros como escravos da impureza e da iniquidade... ofereçam agora os seus membros como escravos da justiça, para a santificação.\""
+ },
+ {
+  "ref": "Rom.6.20",
+  "gravidade": "alta",
+  "problema": "δοῦλοι ... ἐλεύθεροι: o par escravo/livre é explícito; \"servos do pecado ... livres\" apaga o contraste que a decisão da onda 1 manda preservar.",
+  "sugestao": "\"Pois, quando vocês eram escravos do pecado, estavam livres em relação à justiça.\""
+ },
+ {
+  "ref": "Rom.6.22",
+  "gravidade": "alta",
+  "problema": "δουλωθέντες τῷ θεῷ após ἐλευθερωθέντες: \"feitos servos de Deus\" contraria a decisão (δουλόω = escravizar nesses contextos).",
+  "sugestao": "\"Mas agora, libertados do pecado e feitos escravos de Deus, vocês têm o seu fruto para a santificação, e o fim é a vida eterna.\""
+ },
+ {
+  "ref": "Rom.6.6",
+  "gravidade": "alta",
+  "problema": "δουλεύειν ἡμᾶς τῇ ἁμαρτίᾳ (escravidão ao pecado, de que Cristo liberta; cf. vv. 7, 18, 22) traduzido \"sirvamos\"; deve ser \"ser escravo\". A nota remete a \"servos\" do v. 16, o que também precisa mudar.",
+  "sugestao": "\"...a fim de que não sejamos mais escravos do pecado.\" Nota: \"Douleuō é “ser escravo”; ver a nota em 6:16.\""
+ },
+ {
+  "ref": "Rom.8.11",
+  "gravidade": "media",
+  "problema": "Omissão: o texto-base traz \"ὁ ἐγείρας Χριστὸν ἐκ νεκρῶν Ἰησοῦν\" (a folha mostra a palavra Ἰησοῦν); a tradução diz só \"aquele que ressuscitou Cristo dentre os mortos\". A variante da folha (τὸν Ἰησοῦν ausente em TR/Bizantino) mostra que a palavra é do texto-base e distingue as edições.",
+  "sugestao": "\"...aquele que ressuscitou Cristo Jesus dentre os mortos dará vida também aos seus corpos mortais...\" (a ordem Χριστὸν Ἰησοῦν é a do NA28; ver ORDEM da folha). Opcional: nota tc breve registrando que o TR/Bizantino omitem Ἰησοῦν."
+ },
+ {
+  "ref": "Rom.1.16",
+  "gravidade": "media",
+  "problema": "Dativo Ἰουδαίῳ τε πρῶτον καὶ Ἕλληνι traduzido \"primeiro do judeu e também do grego\": em português soa como genitivo (\"a salvação do judeu\"), invertendo a relação (salvação PARA o judeu). Contraste com 2:9 (genitivo real, onde \"do judeu\" é correto) e 2:10 (\"ao judeu\").",
+  "sugestao": "\"...para a salvação de todo aquele que crê, primeiro para o judeu e também para o grego.\""
+ },
+ {
+  "ref": "Rom.3.2",
+  "gravidade": "media",
+  "problema": "Afirmação duvidosa na nota: diz que \"A ARC traz “as palavras de Deus”\". A ARC traz \"oráculos de Deus\". A nota ainda descreve logia como \"oráculos\" e mantém \"palavras\" no texto atribuindo a escolha à ARC.",
+  "sugestao": "Corrigir a nota: \"A ARC traduz “oráculos de Deus”; a APV prefere “palavras”, mais clara hoje, sem perder o sentido de revelação confiada como depósito.\""
+ },
+ {
+  "ref": "Rom.3.23",
+  "gravidade": "media",
+  "problema": "Atribuição falsa na nota: \"“Carecem” (ARC)\". A ARC traz \"destituídos estão da glória de Deus\"; \"carecem\" é de outra tradução protegida.",
+  "sugestao": "Reescrever: \"“Destituídos” (ARC) sugere perda de algo que já se tinha; “estão privados” ...\" (ou apenas retirar a menção a tradução)."
+ },
+ {
+  "ref": "Rom.4.17",
+  "gravidade": "media",
+  "problema": "Tradução de καλοῦντος τὰ μὴ ὄντα ὡς ὄντα omite ὡς ὄντα (\"como existentes\") e fixa uma das leituras (criação do nada). A nota admite a segunda leitura, mas o texto não a permite. Além disso a nota atribui à ARC \"Como se existissem\", o que não é a redação da ARC (\"como se já fossem\").",
+  "sugestao": "Texto mais literal: \"...e chama as coisas que não existem como se existissem\" ou \"chama à existência o que não existe, como a existente\"; corrigir a citação da ARC (ou retirá-la)."
+ },
+ {
+  "ref": "Rom.1.7",
+  "gravidade": "baixa",
+  "problema": "Nota tc afirma omissão de \"em Roma\" em \"poucos testemunhos antigos\" no v. 7 e no v. 15 e cita Metzger, mas a folha não traz nenhuma VARIANTE para 1:7 nem 1:15; é dado sem base na folha (embora real). Também o v. 15 não tem nota correspondente.",
+  "sugestao": "Se mantida, reduzir a \"alguns manuscritos\" sem listar edições, e remover \"em todas as edições comparadas\" ou conferir; ou marcar revisar: true."
+ },
+ {
+  "ref": "Rom.1.17",
+  "gravidade": "baixa",
+  "problema": "Nota atribui a leitura \"da fidelidade de Deus para a fé humana\" de ἐκ πίστεως εἰς πίστιν a J. D. G. Dunn, o que é duvidoso (Dunn lê como ênfase em fé do início ao fim); Barth e Cranfield são os nomes mais seguros para essa leitura.",
+  "sugestao": "Trocar \"(K. Barth; J. D. G. Dunn, entre outros)\" por \"(K. Barth, entre outros)\" ou retirar nomes."
+ },
+ {
+  "ref": "Rom.1.24",
+  "gravidade": "baixa",
+  "problema": "τοῦ ἀτιμάζεσθαι τὰ σώματα αὐτῶν é infinitivo passivo/médio (\"para serem desonrados os seus corpos\"); \"para que desonrassem o próprio corpo\" fixa a leitura reflexiva ativa sem nota.",
+  "sugestao": "\"...à impureza, para que os seus corpos fossem desonrados entre eles\" ou manter e acrescentar nota tn com o literal."
+ },
+ {
+  "ref": "Rom.1.26",
+  "gravidade": "baixa",
+  "problema": "\"Pois até as mulheres deles\": \"até\" não tem base em αἵ τε γὰρ θήλειαι αὐτῶν (\"pois também/tanto as suas mulheres\").",
+  "sugestao": "\"Pois as suas mulheres trocaram...\" ou \"também as suas mulheres\"."
+ },
+ {
+  "ref": "Rom.1.29",
+  "gravidade": "baixa",
+  "problema": "Nota tc diz que TR/Bizantino \"mudam a ordem da lista\"; a folha só mostra a adição de πορνείᾳ, não ordem.",
+  "sugestao": "Remover \"e mudam a ordem da lista, como na ARC\" ou citar só a adição."
+ },
+ {
+  "ref": "Rom.1.30",
+  "gravidade": "baixa",
+  "problema": "Nota afirma que \"a maioria das versões e dos comentaristas antigos\" entendem θεοστυγεῖς em sentido ativo; afirmação sem base verificável (a leitura passiva \"odiados por Deus\" também tem peso antigo). Também o contraste ψιθυριστής/κατάλαλος (secreto x aberto) é convenção, não dado.",
+  "sugestao": "Reescrever: \"Os dicionários dividem entre sentido passivo (“odiados por Deus”) e ativo (“que odeiam a Deus”); o contexto, uma lista de vícios humanos, favorece o ativo.\" e suavizar o contraste."
+ },
+ {
+  "ref": "Rom.2.8",
+  "gravidade": "baixa",
+  "problema": "Nota fala da ordem \"indignação e ira\" no Textus Receptus, informação que não está na folha (só há VARIANTE de μέν).",
+  "sugestao": "Retirar a frase ou registrar sem edição (\"em alguns manuscritos a ordem se inverte\")."
+ },
+ {
+  "ref": "Rom.3.4",
+  "gravidade": "baixa",
+  "problema": "Nota diz \"Citação exata do Sl 51:4 (LXX 50:6)\", mas a LXX traz νικήσῃς (subjuntivo) e Paulo νικήσεις (futuro); a nota ainda diz que a LXX \"lê “vences”\".",
+  "sugestao": "\"Citação do Sl 51:4 (LXX 50:6), com mudança de νικήσῃς para νικήσεις\"; ajustar a descrição."
+ },
+ {
+  "ref": "Rom.3.7",
+  "gravidade": "baixa",
+  "problema": "ἐπερίσσευσεν traduzido \"se manifestou ainda mais\": acrescenta \"se manifestou\"; o verbo é \"abundou/transbordou\" (cf. 5:15 \"transbordaram\").",
+  "sugestao": "\"...a verdade de Deus transbordou para a sua glória...\""
+ },
+ {
+  "ref": "Rom.4.1",
+  "gravidade": "baixa",
+  "problema": "Nota tc cita a ARC entre aspas como \"Que acharemos que Abraão, nosso pai, alcançou segundo a carne?\"; a citação não confere com a redação da ARC e é frase inteira de tradução.",
+  "sugestao": "Remover as aspas e a frase; descrever só a ordem (\"liga “segundo a carne” a “obteve”\")."
+ },
+ {
+  "ref": "Rom.4.12",
+  "gravidade": "baixa",
+  "problema": "Nota afirma que a repetição de τοῖς é \"erro muito antigo de cópia\" sem apoio na folha.",
+  "sugestao": "Trocar por \"descuido de estilo ou erro de cópia, segundo alguns\"."
+ },
+ {
+  "ref": "Rom.5.5",
+  "gravidade": "baixa",
+  "problema": "Nota sn: \"Primeira menção do Espírito Santo na argumentação da carta\" é falsa ou ambígua: 1:4 (\"Espírito de santidade\") e 2:29 já mencionam o Espírito (e a própria nota de 1:4 o identifica com o Espírito Santo).",
+  "sugestao": "\"Primeira menção do Espírito dado aos crentes\" ou \"primeira menção do Espírito na seção sobre a vida em Cristo\"."
+ },
+ {
+  "ref": "Rom.5.10",
+  "gravidade": "baixa",
+  "problema": "Erro tipográfico na nota tn de ἐν τῇ ζωῇ: \"Ἐn\" (Ε grego + n latino).",
+  "sugestao": "\"En\" ou \"Ἐν\"."
+ },
+ {
+  "ref": "Rom.6.11",
+  "gravidade": "baixa",
+  "problema": "Nota afirma \"Primeiro imperativo da carta\" para λογίζεσθε; já há imperativo em 3:4 (γινέσθω); só é o primeiro imperativo de 2ª pessoa.",
+  "sugestao": "\"Primeiro imperativo dirigido aos leitores\"."
+ },
+ {
+  "ref": "Rom.6.12",
+  "gravidade": "baixa",
+  "problema": "Nota tc afirma que TR/Bizantino \"combinam duas leituras antigas\"; a folha só registra a adição de αὐτῇ ἐν, sem esse diagnóstico.",
+  "sugestao": "Retirar \"combinando duas leituras antigas\"."
+ },
+ {
+  "ref": "Rom.7.6",
+  "gravidade": "baixa",
+  "problema": "(a) \"na condição nova do Espírito... na condição antiga da letra\" para ἐν καινότητι ... παλαιότητι: troca \"novidade\" (usada em 6:4: \"novidade de vida\") por \"condição\", sem necessidade; (b) δουλεύειν traduzido \"servimos\" no mesmo bloco de imagens de libertação/escravidão (6:16-22); (c) a nota diz que o TR traz ἀποθανόντος, dado ausente na folha.",
+  "sugestao": "\"...de modo que sejamos escravos na novidade do Espírito, e não na velhice da letra\" (ou, se \"servir\" for mantido, nota explicando); manter paralelo com 6:4; marcar a informação sobre o TR como a conferir."
+ },
+ {
+  "ref": "Rom.7.9",
+  "gravidade": "baixa",
+  "problema": "Nota diz que ἀναζάω ocorre \"só aqui e em Lc 15:24, 32 (no texto crítico)\", mas a folha dá 2 ocorrências no total; as duas referências de Lucas tornariam 3, e o texto crítico (NA/SBL) lê ἔζησεν nesses versículos.",
+  "sugestao": "\"Raro (2x no NT segundo o TAGNT): aqui e em Ap 20:5 (TR)\" ou simplesmente \"raro\", conferindo no TAGNT antes."
+ },
+ {
+  "ref": "Rom.8.23",
+  "gravidade": "baixa",
+  "problema": "Nota tc afirma omissão de υἱοθεσίαν em \"alguns manuscritos antigos\" e sua explicação (\"porque parecia contradizer o v. 15\"); não há VARIANTE na folha.",
+  "sugestao": "Reduzir para \"alguns manuscritos omitem\" e marcar a hipótese de Metzger apenas se verificada."
+ },
+ {
+  "ref": "Rom.8.38",
+  "gravidade": "baixa",
+  "problema": "Nota afirma que TR/Bizantino reordenam δυνάμεις logo após ἀρχαί; a folha não registra ORDEM nem VARIANTE para isso.",
+  "sugestao": "Remover ou marcar a conferir."
+ }
+]

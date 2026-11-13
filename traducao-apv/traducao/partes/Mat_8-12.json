@@ -1,0 +1,3670 @@
+{
+ "Mat.8.1": {
+  "t": "Quando ele desceu do monte, grandes multidões o seguiram.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "desceu do monte",
+    "termo": "Καταβάντος ... ἀπὸ τοῦ ὄρους",
+    "titulo": "depois do Sermão do Monte",
+    "texto": "Fecha a moldura aberta em 5:1 (“subiu ao monte”). Depois de mostrar Jesus com autoridade nas palavras (caps. 5-7), Mateus o mostra com autoridade nas obras (caps. 8-9): dez milagres em três blocos, entremeados de chamados ao discipulado."
+   }
+  ]
+ },
+ "Mat.8.2": {
+  "t": "E eis que um leproso se aproximou, prostrou-se diante dele e disse: “Senhor, se quiser, pode me purificar.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "leproso",
+    "termo": "λεπρός (lepros)",
+    "titulo": "lepros",
+    "texto": "Na Bíblia, “lepra” (hebraico tsara‘at, grego lepra) designa várias doenças de pele que tornavam a pessoa ritualmente impura (Lv 13-14), não apenas a hanseníase moderna. Mantida a palavra tradicional; o leitor deve saber que o termo era mais amplo."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "prostrou-se diante dele",
+    "termo": "προσεκύνει αὐτῷ (prosekynei autō)",
+    "titulo": "proskyneō",
+    "texto": "Inclinar-se até o chão diante de alguém. Pode ser homenagem a um superior ou adoração a Deus. Mateus usa o verbo com frequência para os que se aproximam de Jesus (2:11; 14:33; 28:9, 17). “Prostrou-se” descreve o gesto sem decidir quanto o leproso entendia; o leitor de Mateus sabe a quem o gesto se dirige."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "purificar",
+    "termo": "καθαρίσαι (katharisai)",
+    "titulo": "katharizō",
+    "texto": "Lit. “limpar”. O leproso não pede só cura, mas purificação: voltar a ser limpo diante da Lei e poder voltar ao convívio e ao culto. Por isso “purificar”, e não “curar”."
+   }
+  ]
+ },
+ "Mat.8.3": {
+  "t": "Ele estendeu a mão, tocou nele e disse: “Quero. Seja purificado.” E no mesmo instante ele ficou purificado da lepra.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "tocou nele",
+    "termo": "ἥψατο αὐτοῦ (hēpsato autou)",
+    "titulo": "o toque",
+    "texto": "Tocar um leproso tornava a pessoa impura (Lv 5:3; 13:45-46). Aqui a pureza passa na direção contrária: Jesus não fica impuro; o leproso fica limpo."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "ele ficou purificado da lepra",
+    "termo": "ἐκαθαρίσθη αὐτοῦ ἡ λέπρα",
+    "titulo": "“foi purificada a sua lepra”",
+    "texto": "Lit. “foi purificada a lepra dele”. Em português, “purificar a lepra” soa estranho; por isso o sujeito passou a ser o homem. O sentido não muda."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Ele estendeu a mão",
+    "termo": "καὶ ἐκτείνας τὴν χεῖρα",
+    "titulo": "“Jesus”",
+    "texto": "O Textus Receptus e o Texto Bizantino acrescentam “Jesus” como sujeito. O texto crítico não traz o nome; o sujeito fica claro pelo contexto."
+   }
+  ]
+ },
+ "Mat.8.4": {
+  "t": "Então Jesus lhe disse: “Olhe, não conte isso a ninguém. Mas vá, mostre-se ao sacerdote e apresente a oferta que Moisés ordenou, para que sirva de testemunho a eles.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "mostre-se ao sacerdote e apresente a oferta que Moisés ordenou",
+    "termo": "σεαυτὸν δεῖξον τῷ ἱερεῖ καὶ προσένεγκον τὸ δῶρον",
+    "titulo": "Levítico 14",
+    "texto": "O ritual de purificação do leproso curado está em Lv 14:1-32: o sacerdote examinava a pessoa e oferecia sacrifícios em seu favor. Jesus não dispensa a Lei; manda cumpri-la."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "não conte isso a ninguém",
+    "termo": "ὅρα μηδενὶ εἴπῃς",
+    "titulo": "a ordem de silêncio",
+    "texto": "Lit. “vê, a ninguém digas”. É a primeira das ordens de silêncio em Mateus (9:30; 12:16; 16:20; 17:9). A razão mais provável é evitar que Jesus fosse visto apenas como curandeiro ou como libertador político antes da hora (12:16-21)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "para que sirva de testemunho a eles",
+    "termo": "εἰς μαρτύριον αὐτοῖς (eis martyrion autois)",
+    "titulo": "testemunho a quem?",
+    "texto": "“A eles” pode ser os sacerdotes ou o povo em geral. O testemunho pode ser a prova pública de que o homem está limpo ou a prova de quem Jesus é (cf. 11:5). Também pode ter o sentido de “testemunho contra eles”, se não crerem (10:18). A tradução literal deixa as possibilidades abertas."
+   }
+  ]
+ },
+ "Mat.8.5": {
+  "t": "Quando Jesus entrou em Cafarnaum, um centurião se aproximou dele, suplicando-lhe",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "centurião",
+    "termo": "ἑκατόνταρχος (hekatontarchos)",
+    "titulo": "hekatontarchos",
+    "texto": "Oficial que comandava cerca de cem soldados. Na Galileia de Herodes Antipas, provavelmente servia às tropas do tetrarca, organizadas à maneira romana. Pelo contexto (vv. 10-12), era gentio."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Quando Jesus entrou",
+    "termo": "Εἰσελθόντος δὲ αὐτοῦ (eiselthontos de autou)",
+    "titulo": "“quando ele entrou”",
+    "texto": "O grego diz “ele”. O nome foi usado para clareza, porque o versículo introduz outra personagem. O Textus Receptus traz mesmo o nome (tō Iēsou), em outra construção."
+   }
+  ]
+ },
+ "Mat.8.6": {
+  "t": "dizendo: “Senhor, o meu servo está de cama em casa, paralítico, sofrendo terrivelmente.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "servo",
+    "termo": "παῖς (pais)",
+    "titulo": "pais: “servo” ou “menino”",
+    "texto": "Pais pode ser “menino, filho” ou “servo, criado”. No v. 9 o centurião fala do seu doulos (“servo”), e em Lc 7:2 o mesmo doente é chamado doulos. Por isso “servo”. Alguns leem “filho” (cf. Jo 4:46-53), mas o paralelo de Lucas favorece “servo”. Pais não é a palavra técnica para escravo; sugere um servo jovem da casa."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "sofrendo terrivelmente",
+    "termo": "δεινῶς βασανιζόμενος (deinōs basanizomenos)",
+    "titulo": "deinōs, raro",
+    "texto": "Deinōs (só aqui e em Lc 11:53) é “terrivelmente, de modo assustador”. Basanizō é “atormentar”, usado também para tortura. A expressão descreve dor intensa."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "está de cama",
+    "termo": "βέβληται (beblētai)",
+    "titulo": "“está lançado”",
+    "texto": "Perfeito passivo de ballō, “lançar”: “está prostrado, jogado na cama” e não consegue se levantar."
+   }
+  ]
+ },
+ "Mat.8.7": {
+  "t": "Ele lhe disse: “Eu irei curá-lo.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Eu irei curá-lo",
+    "termo": "ἐγὼ ἐλθὼν θεραπεύσω αὐτόν",
+    "titulo": "afirmação ou pergunta?",
+    "texto": "O grego não tinha sinais de pontuação, e a frase pode ser lida como afirmação (“Eu irei curá-lo”) ou como pergunta (“Devo eu ir curá-lo?”). A pergunta explicaria a resposta humilde do centurião (v. 8) e lembraria a reserva de Jesus com a mulher cananeia (15:24-26), já que um judeu entrar na casa de um gentio era problema (At 10:28). A afirmação é a leitura tradicional e mais simples, e foi mantida; o “eu” enfático (egō) pode servir às duas leituras.",
+    "revisar": true
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Ele lhe disse",
+    "termo": "καὶ λέγει αὐτῷ",
+    "titulo": "“Jesus”",
+    "texto": "Tregelles, o Textus Receptus e o Texto Bizantino trazem “Jesus” como sujeito; o SBLGNT, o NA28, o THGNT e Westcott-Hort não. Sem efeito no sentido."
+   }
+  ]
+ },
+ "Mat.8.8": {
+  "t": "O centurião respondeu: “Senhor, não sou digno de que o senhor entre debaixo do meu teto. Mas diga apenas uma palavra, e o meu servo será curado.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "não sou digno",
+    "termo": "οὐκ εἰμὶ ἱκανός (ouk eimi hikanos)",
+    "titulo": "hikanos",
+    "texto": "Lit. “não sou suficiente, apto”. É o mesmo adjetivo de João Batista em 3:11 (“não sou digno de levar as sandálias”). Aqui expressa humildade diante de Jesus, e talvez a consciência de que a casa de um gentio tornaria impuro um judeu."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "diga apenas uma palavra",
+    "termo": "μόνον εἰπὲ λόγῳ (monon eipe logō)",
+    "titulo": "“dize com uma palavra”",
+    "texto": "Lit. “somente dize com palavra”. O dativo logō indica o meio: basta a palavra, sem presença física. O Textus Receptus traz logon (“dize uma palavra”), sem diferença de sentido."
+   }
+  ]
+ },
+ "Mat.8.9": {
+  "t": "Pois eu também sou homem sujeito a autoridade e tenho soldados sob as minhas ordens. Digo a este: ‘Vá’, e ele vai; e a outro: ‘Venha’, e ele vem; e ao meu servo: ‘Faça isto’, e ele faz.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "servo",
+    "termo": "δούλῳ (doulō)",
+    "titulo": "doulos: “servo” ou “escravo”",
+    "texto": "Primeira ocorrência de doulos em Mateus. A palavra designa o escravo, que pertence a outro e não dispõe de si. A APV traduz por “servo” quando o texto não põe em foco a condição de escravo, porque “escravo”, no Brasil, evoca de imediato a escravidão africana e esconde o eco bíblico (Moisés e Davi são “servos” de Deus). Quando o texto contrasta o escravo com o livre ou com o seu senhor, como condição social ou como figura, a APV usa “escravo” (cf. 10:24-25). O leitor deve lembrar que a relação era de propriedade. Note que o doente do v. 6 é chamado pais, palavra diferente."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "eu também sou homem sujeito a autoridade",
+    "termo": "καὶ γὰρ ἐγὼ ἄνθρωπός εἰμι ὑπὸ ἐξουσίαν",
+    "titulo": "o raciocínio do centurião",
+    "texto": "O argumento vai do menor ao maior: o centurião obedece a superiores e é obedecido pelos subordinados; sua palavra tem força porque ele está numa cadeia de autoridade. Jesus tem autoridade sobre a doença, e por isso basta uma palavra dele. O “também” (kai) supõe que Jesus exerce autoridade recebida de Deus (cf. 28:18)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "sujeito a autoridade",
+    "termo": "ὑπὸ ἐξουσίαν (+ τασσόμενος)",
+    "titulo": "acréscimo de Westcott-Hort",
+    "texto": "Westcott-Hort acrescenta tassomenos (“posto sob autoridade”), forma que aparece no paralelo de Lc 7:8. Os demais textos-base não a trazem. Sem efeito no sentido."
+   }
+  ]
+ },
+ "Mat.8.10": {
+  "t": "Ao ouvir isso, Jesus ficou admirado e disse aos que o seguiam: “Em verdade lhes digo: não encontrei em ninguém em Israel uma fé tão grande.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "não encontrei em ninguém em Israel uma fé tão grande",
+    "termo": "παρ᾽ οὐδενὶ τοσαύτην πίστιν ἐν τῷ Ἰσραὴλ εὗρον",
+    "titulo": "“em ninguém” ou “nem mesmo”",
+    "texto": "O texto crítico traz par’ oudeni (“junto de ninguém”). O Textus Receptus e o Texto Bizantino trazem oude en tō Israēl (“nem mesmo em Israel encontrei tanta fé”), forma igual à do paralelo de Lc 7:9. O sentido é muito próximo; a forma crítica é mais contundente."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Jesus ficou admirado",
+    "termo": "ὁ Ἰησοῦς ἐθαύμασεν",
+    "titulo": "a admiração de Jesus",
+    "texto": "Os Evangelhos raramente dizem que Jesus se admirou: aqui e no paralelo de Lc 7:9, com a fé de um gentio, e em Mc 6:6, com a incredulidade da sua própria terra."
+   }
+  ]
+ },
+ "Mat.8.11": {
+  "t": "Eu lhes digo que muitos virão do oriente e do ocidente e se sentarão à mesa com Abraão, Isaque e Jacó no Reino dos céus.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "se sentarão à mesa",
+    "termo": "ἀνακλιθήσονται (anaklithēsontai)",
+    "titulo": "anaklinomai",
+    "texto": "Lit. “reclinar-se”. Nos banquetes, os convidados comiam reclinados em divãs. A imagem é a do banquete messiânico (Is 25:6-8). “Sentar-se à mesa” é o equivalente natural em português."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "muitos virão do oriente e do ocidente",
+    "termo": "πολλοὶ ἀπὸ ἀνατολῶν καὶ δυσμῶν ἥξουσιν",
+    "titulo": "a reunião dos povos",
+    "texto": "Os profetas falam da reunião dos dispersos de Israel vindos de todas as direções (Sl 107:3; Is 43:5-6; 49:12). Jesus aplica a imagem aos gentios, como o centurião, que se assentam com os patriarcas (cf. Is 2:2-3; Ml 1:11)."
+   }
+  ]
+ },
+ "Mat.8.12": {
+  "t": "Mas os filhos do Reino serão lançados para fora, nas trevas exteriores. Ali haverá choro e ranger de dentes.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "os filhos do Reino",
+    "termo": "οἱ υἱοὶ τῆς βασιλείας",
+    "titulo": "expressão semítica",
+    "texto": "“Filhos de” indica pertença: os que seriam herdeiros naturais do Reino, isto é, Israel, que tinha as promessas. A advertência não diz que todo Israel será excluído, mas que pertencer ao povo por nascimento não garante lugar no banquete. Mantida a forma literal, porque a expressão volta em 13:38 com sentido diferente (os que pertencem de fato ao Reino)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "trevas exteriores",
+    "termo": "τὸ σκότος τὸ ἐξώτερον (to skotos to exōteron)",
+    "titulo": "exōteros, raro",
+    "texto": "Exōteros (“o de fora, o mais exterior”) só aparece em Mateus (8:12; 22:13; 25:30), sempre nesta expressão. A imagem é a da escuridão fora da sala iluminada do banquete. Mantida a forma tradicional, que é compreensível."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "choro e ranger de dentes",
+    "termo": "ὁ κλαυθμὸς καὶ ὁ βρυγμὸς τῶν ὀδόντων",
+    "titulo": "fórmula de juízo",
+    "texto": "Mateus usa a fórmula seis vezes (13:42, 50; 22:13; 24:51; 25:30). O choro é dor; o ranger de dentes, angústia e raiva (Sl 112:10). A tradução não suaviza a imagem."
+   }
+  ]
+ },
+ "Mat.8.13": {
+  "t": "Então Jesus disse ao centurião: “Vá. Seja feito a você conforme você creu.” E naquela mesma hora o servo foi curado.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Seja feito a você conforme você creu",
+    "termo": "ὡς ἐπίστευσας γενηθήτω σοι",
+    "titulo": "imperativo passivo",
+    "texto": "Lit. “como creste, seja-te feito”. O imperativo passivo é uma ordem que se cumpre por poder divino. A mesma estrutura volta em 9:29 e 15:28."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "o servo foi curado",
+    "termo": "ἰάθη ὁ παῖς (+ αὐτοῦ)",
+    "titulo": "“o servo” ou “o seu servo”",
+    "texto": "O NA28, o Textus Receptus e o Texto Bizantino trazem autou (“o seu servo”); o SBLGNT não. Sem efeito no sentido."
+   }
+  ]
+ },
+ "Mat.8.14": {
+  "t": "Jesus entrou na casa de Pedro e viu a sogra dele deitada, com febre.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "a sogra dele",
+    "termo": "τὴν πενθερὰν αὐτοῦ",
+    "titulo": "Pedro era casado",
+    "texto": "Pedro era casado, e mais tarde a esposa o acompanhava nas viagens missionárias (1Co 9:5). A casa ficava em Cafarnaum (Mc 1:21, 29)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "deitada",
+    "termo": "βεβλημένην (beblēmenēn)",
+    "titulo": "“lançada”",
+    "texto": "O mesmo verbo do v. 6: “jogada na cama”, sem forças. Pyressō (“ter febre”) é raro (aqui e em Mc 1:30)."
+   }
+  ]
+ },
+ "Mat.8.15": {
+  "t": "Ele tocou a mão dela, e a febre a deixou. Ela se levantou e começou a servi-lo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "começou a servi-lo",
+    "termo": "διηκόνει αὐτῷ (diēkonei autō)",
+    "titulo": "diakoneō",
+    "texto": "O imperfeito indica o início de uma ação que continua: “passou a servi-lo”. Diakoneō é servir à mesa, mas no NT também é o serviço aos outros que caracteriza o discípulo (20:26-28). A cura devolve a mulher à vida e ao serviço."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "servi-lo",
+    "termo": "αὐτῷ (autō)",
+    "titulo": "“servi-lo” ou “servi-los”",
+    "texto": "O Textus Receptus traz autois (“servi-los”), como em Mc 1:31 e Lc 4:39. O texto crítico e o Texto Bizantino trazem o singular, que concentra a cena em Jesus."
+   }
+  ]
+ },
+ "Mat.8.16": {
+  "t": "Ao cair da tarde, trouxeram-lhe muitos endemoninhados. Ele expulsou os espíritos com uma palavra e curou todos os que estavam doentes,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "endemoninhados",
+    "termo": "δαιμονιζομένους (daimonizomenous)",
+    "titulo": "daimonizomai",
+    "texto": "Lit. “os que estavam sob a ação de demônios”. “Endemoninhados” é a palavra tradicional. O NT distingue com frequência a possessão da doença comum, como aqui: “expulsou os espíritos” e “curou os doentes”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "com uma palavra",
+    "termo": "λόγῳ (logō)",
+    "titulo": "a palavra que basta",
+    "texto": "Retoma o v. 8 (“diga apenas uma palavra”): a autoridade de Jesus está na sua palavra, sem ritos nem fórmulas mágicas."
+   }
+  ]
+ },
+ "Mat.8.17": {
+  "t": "para que se cumprisse o que foi dito por meio do profeta Isaías: “Ele tomou as nossas enfermidades e carregou as nossas doenças.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Ele tomou as nossas enfermidades e carregou as nossas doenças",
+    "termo": "αὐτὸς τὰς ἀσθενείας ἡμῶν ἔλαβεν καὶ τὰς νόσους ἐβάστασεν",
+    "titulo": "Isaías 53:4",
+    "texto": "Citação de Is 53:4, o canto do Servo sofredor. Mateus segue o hebraico (“as nossas enfermidades ele levou, e as nossas dores carregou”), e não a Septuaginta, que diz “ele carrega os nossos pecados e sofre por nós”. Para Mateus, as curas de Jesus já mostram a obra do Servo que leva sobre si o mal humano."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "tomou",
+    "termo": "ἔλαβεν (elaben)",
+    "titulo": "cura e expiação",
+    "texto": "O versículo é central no debate sobre a cura “na expiação”. Tradições pentecostais e carismáticas veem aqui a base para esperar cura física como fruto da obra de Cristo; outras entendem que Mateus aplica Is 53:4 ao ministério terreno de Jesus, e que a cura completa do corpo pertence à ressurreição. As duas posições concordam que Jesus cura, e que o texto liga as curas ao Servo de Isaías 53, que também morre pelos pecados (Is 53:5-12)."
+   }
+  ]
+ },
+ "Mat.8.18": {
+  "t": "Quando Jesus viu grandes multidões ao seu redor, deu ordem para passarem para a outra margem.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "grandes multidões",
+    "termo": "πολλοὺς ὄχλους (pollous ochlous)",
+    "titulo": "“multidões” ou “a multidão”",
+    "texto": "O SBLGNT, Tregelles, o Textus Receptus e o Texto Bizantino trazem “muitas multidões”; o NA28 e Westcott-Hort, só “a multidão” (ochlon), com manuscritos antigos como B. Sem efeito importante no sentido."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "a outra margem",
+    "termo": "τὸ πέραν (to peran)",
+    "titulo": "“o outro lado”",
+    "texto": "Lit. “o outro lado”, isto é, do mar da Galileia. O destino é a margem oriental, região de população em boa parte gentia (v. 28)."
+   }
+  ]
+ },
+ "Mat.8.19": {
+  "t": "Então um escriba se aproximou e lhe disse: “Mestre, eu seguirei você aonde quer que você vá.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Mestre",
+    "termo": "διδάσκαλε (didaskale)",
+    "titulo": "como chamam Jesus",
+    "texto": "Em Mateus, os discípulos chamam Jesus de “Senhor” (kyrie, v. 21), enquanto escribas, fariseus e outros de fora o chamam de “Mestre” (12:38; 19:16; 22:16). O tratamento pode sugerir que o escriba ainda não compreende quem é Jesus. Judas também o chama de “Rabi” (26:25, 49)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "um escriba",
+    "termo": "εἷς γραμματεύς (heis grammateus)",
+    "titulo": "heis",
+    "texto": "Lit. “um só escriba”. O numeral heis funciona aqui como artigo indefinido, uso comum no grego da época (cf. 9:18)."
+   }
+  ]
+ },
+ "Mat.8.20": {
+  "t": "Jesus lhe respondeu: “As raposas têm tocas, e as aves do céu têm ninhos, mas o Filho do Homem não tem onde reclinar a cabeça.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "o Filho do Homem",
+    "termo": "ὁ υἱὸς τοῦ ἀνθρώπου (ho huios tou anthrōpou)",
+    "titulo": "Filho do Homem",
+    "texto": "Primeira ocorrência em Mateus. Em hebraico e aramaico, “filho de homem” significa simplesmente “ser humano” (Sl 8:4; Ez 2:1). Mas em Dn 7:13-14 “um como filho de homem” vem com as nuvens do céu e recebe de Deus domínio eterno sobre todos os povos. Nos Evangelhos, a expressão é quase sempre usada por Jesus para si mesmo, e reúne as duas ideias: a humildade e o sofrimento do verdadeiro homem (como aqui) e a glória do que virá para julgar (24:30; 26:64). Mantida a forma tradicional, com maiúsculas, por ser título."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "ninhos",
+    "termo": "κατασκηνώσεις (kataskēnōseis)",
+    "titulo": "kataskēnōsis, raro",
+    "texto": "Lit. “abrigos, lugares onde se pousa” (só aqui e em Lc 9:58). A palavra não é a específica para ninho, mas o lugar onde a ave se abriga; “ninhos” é a equivalência natural. Phōleos (“toca”, também raro) é o covil de animais."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "não tem onde reclinar a cabeça",
+    "termo": "οὐκ ἔχει ποῦ τὴν κεφαλὴν κλίνῃ",
+    "titulo": "o custo de seguir",
+    "texto": "Jesus não diz que é pobre a ponto de não ter abrigo, mas que segui-lo significa partilhar uma vida sem lugar fixo, com rejeição (cf. 8:34). O escriba precisa saber o preço do que promete."
+   }
+  ]
+ },
+ "Mat.8.21": {
+  "t": "Outro dos discípulos lhe disse: “Senhor, permita-me ir primeiro sepultar o meu pai.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "sepultar o meu pai",
+    "termo": "θάψαι τὸν πατέρα μου",
+    "titulo": "o dever de sepultar",
+    "texto": "Sepultar os pais era um dos deveres mais sagrados do judaísmo, ligado ao mandamento de honrá-los (Êx 20:12; cf. Tb 4:3). Há três leituras: (1) o pai acabara de morrer, e o enterro seria no mesmo dia; (2) o pai ainda vivia, e o filho queria esperar a morte dele; (3) tratava-se do segundo sepultamento, quando os ossos eram recolhidos num ossuário cerca de um ano depois. Em qualquer delas, Jesus põe o seu chamado acima do dever mais alto da família."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Outro dos discípulos",
+    "termo": "Ἕτερος δὲ τῶν μαθητῶν (+ αὐτοῦ)",
+    "titulo": "“dos discípulos” ou “dos seus discípulos”",
+    "texto": "O NA28, o Textus Receptus e o Texto Bizantino trazem autou (“dos seus discípulos”). Sem efeito no sentido. “Outro” (heteros) pode sugerir que o escriba também era tido como discípulo."
+   }
+  ]
+ },
+ "Mat.8.22": {
+  "t": "Mas Jesus lhe disse: “Siga-me, e deixe que os mortos sepultem os seus próprios mortos.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "deixe que os mortos sepultem os seus próprios mortos",
+    "termo": "ἄφες τοὺς νεκροὺς θάψαι τοὺς ἑαυτῶν νεκρούς",
+    "titulo": "duas espécies de mortos",
+    "texto": "Os primeiros “mortos” são os que não respondem ao chamado do Reino, espiritualmente mortos; os segundos, os mortos físicos. A frase é propositalmente chocante e foi mantida literal, sem suavizar."
+   }
+  ]
+ },
+ "Mat.8.23": {
+  "t": "Ele entrou no barco, e os seus discípulos o seguiram.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "o seguiram",
+    "termo": "ἠκολούθησαν αὐτῷ (ēkolouthēsan autō)",
+    "titulo": "seguir",
+    "texto": "O mesmo verbo dos vv. 19 e 22. Logo depois de falar do custo de segui-lo, Mateus mostra os discípulos seguindo Jesus para dentro da tempestade. Muitos leem o episódio como imagem da vida dos discípulos."
+   }
+  ]
+ },
+ "Mat.8.24": {
+  "t": "E eis que se levantou no mar uma tempestade tão violenta que as ondas cobriam o barco. Ele, porém, dormia.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "tempestade tão violenta",
+    "termo": "σεισμὸς μέγας (seismos megas)",
+    "titulo": "seismos",
+    "texto": "Lit. “grande abalo”. Seismos é a palavra comum para terremoto (24:7; 27:54; 28:2); aqui designa a agitação violenta do mar. Mateus é o único a usar essa palavra no relato; “tempestade” dá o sentido."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Ele, porém, dormia",
+    "termo": "αὐτὸς δὲ ἐκάθευδεν",
+    "titulo": "o sono confiante",
+    "texto": "No AT, dormir em paz é sinal de confiança em Deus (Sl 3:5; 4:8). O contraste com o pavor dos discípulos é intencional."
+   }
+  ]
+ },
+ "Mat.8.25": {
+  "t": "Eles se aproximaram e o acordaram, dizendo: “Senhor, salve-nos! Estamos perecendo!”",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "Eles se aproximaram",
+    "termo": "καὶ προσελθόντες (+ οἱ μαθηταὶ αὐτοῦ)",
+    "titulo": "acréscimos",
+    "texto": "O Textus Receptus e o Texto Bizantino acrescentam “os seus discípulos” como sujeito e hēmas (“nos”) depois de “salva”. O texto crítico tem só “Senhor, salva! Perecemos!”. O português exige o objeto (“salve-nos”), que fica claro pelo que segue."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "salve-nos",
+    "termo": "σῶσον (sōson)",
+    "titulo": "sōzō",
+    "texto": "Sōzō é “salvar” do perigo físico e também da perdição. O clamor dos discípulos é ao mesmo tempo grito de socorro e oração, como no Sl 107:28-29."
+   }
+  ]
+ },
+ "Mat.8.26": {
+  "t": "Ele lhes disse: “Por que vocês estão com tanto medo, gente de pouca fé?” Então se levantou, repreendeu os ventos e o mar, e fez-se grande calmaria.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "gente de pouca fé",
+    "termo": "ὀλιγόπιστοι (oligopistoi)",
+    "titulo": "oligopistos",
+    "texto": "Uma só palavra: “de-pouca-fé”. Mateus a usa só para os discípulos (6:30; 14:31; 16:8; cf. 17:20). “Gente” foi acrescentado porque o português pede um substantivo; a palavra não restringe o grupo nem acrescenta sentido. Os discípulos têm fé, mas pequena diante do perigo; não são chamados de incrédulos."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "com tanto medo",
+    "termo": "δειλοί (deiloi)",
+    "titulo": "deilos, raro",
+    "texto": "Deilos (só aqui, em Mc 4:40 e Ap 21:8) é “medroso, covarde”. “Por que vocês são covardes?” seria duro demais para o tom da repreensão; “com tanto medo” mantém o sentido."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "repreendeu os ventos e o mar",
+    "termo": "ἐπετίμησεν τοῖς ἀνέμοις καὶ τῇ θαλάσσῃ",
+    "titulo": "o domínio sobre o mar",
+    "texto": "No AT, só Deus domina o mar e o repreende (Sl 104:7; 106:9; 107:29; Jó 26:12). Jesus faz o que o AT atribui a Deus; daí a pergunta do v. 27."
+   }
+  ]
+ },
+ "Mat.8.27": {
+  "t": "Os homens ficaram admirados e diziam: “Quem é este, que até os ventos e o mar lhe obedecem?”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Quem é este",
+    "termo": "ποταπός ἐστιν οὗτος (potapos estin houtos)",
+    "titulo": "potapos",
+    "texto": "Lit. “de que espécie é este?”. O grego não diz “homem”; a pergunta é sobre o que ele é. “Que tipo de homem” acrescentaria uma palavra que o texto deixa de fora; “Quem é este” mantém a pergunta aberta, e a nota guarda o matiz de “que espécie”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Os homens",
+    "termo": "Οἱ δὲ ἄνθρωποι (hoi de anthrōpoi)",
+    "titulo": "quem são?",
+    "texto": "Podem ser os discípulos ou outras pessoas presentes no barco ou que souberam do fato. Mateus talvez use anthrōpoi para contrastar os seres humanos com aquele a quem até o vento obedece."
+   }
+  ]
+ },
+ "Mat.8.28": {
+  "t": "Quando ele chegou à outra margem, à região dos gadarenos, vieram ao seu encontro dois endemoninhados que saíam dos sepulcros. Eram tão violentos que ninguém conseguia passar por aquele caminho.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "gadarenos",
+    "termo": "Γαδαρηνῶν (Gadarēnōn)",
+    "titulo": "gadarenos, gerasenos ou gergesenos",
+    "texto": "O texto crítico traz Gadarēnōn (de Gadara, cidade a uns 10 km do mar). O Textus Receptus e o Texto Bizantino trazem Gergesēnōn (“gergesenos”), e Marcos e Lucas, nos melhores manuscritos, “gerasenos” (de Gerasa). Os copistas tentaram harmonizar os Evangelhos e acertar a geografia. “Região” pode designar o território dependente de uma cidade, o que explicaria nomes diferentes para a mesma área (Metzger)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "dois endemoninhados",
+    "termo": "δύο δαιμονιζόμενοι",
+    "titulo": "dois ou um",
+    "texto": "Marcos (5:2) e Lucas (8:27) falam de um homem só. Mateus traz pares também em 9:27 e 20:30. Explicações comuns: Mateus conhecia a presença de dois, e os outros focalizam o mais conhecido; ou Mateus segue o princípio de duas testemunhas (Dt 19:15)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Eram tão violentos",
+    "termo": "χαλεποὶ λίαν (chalepoi lian)",
+    "titulo": "chalepos, raro",
+    "texto": "Chalepos (só aqui e em 2Tm 3:1) é “difícil, perigoso, feroz”. Com lian (“muito”), descreve homens perigosos para quem passasse por perto."
+   }
+  ]
+ },
+ "Mat.8.29": {
+  "t": "E eis que gritaram: “Que temos nós a ver com você, Filho de Deus? Você veio aqui para nos atormentar antes do tempo?”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Que temos nós a ver com você",
+    "termo": "τί ἡμῖν καὶ σοί (ti hēmin kai soi)",
+    "titulo": "expressão semítica",
+    "texto": "Lit. “que a nós e a ti?”. Expressão hebraica (Jz 11:12; 1Rs 17:18; 2Sm 16:10) que rejeita a interferência do outro: “o que você tem contra nós?”, “deixe-nos em paz”. Os demônios reconhecem quem Jesus é antes dos discípulos (cf. v. 27)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "antes do tempo",
+    "termo": "πρὸ καιροῦ (pro kairou)",
+    "titulo": "o tempo do juízo",
+    "texto": "Os demônios sabem que haverá um tempo determinado para o seu castigo (25:41; Ap 20:10). A vinda de Jesus antecipa esse juízo: o Reino já está irrompendo (12:28)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Filho de Deus",
+    "termo": "υἱὲ τοῦ θεοῦ (+ Ἰησοῦ)",
+    "titulo": "“Jesus, Filho de Deus”",
+    "texto": "O Textus Receptus e o Texto Bizantino trazem “Jesus, Filho de Deus”, como no paralelo de Mc 5:7. O texto crítico não traz o nome."
+   }
+  ]
+ },
+ "Mat.8.30": {
+  "t": "A certa distância deles, estava pastando uma grande manada de porcos.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "porcos",
+    "termo": "χοίρων (choirōn)",
+    "titulo": "animais impuros",
+    "texto": "O porco era impuro pela Lei (Lv 11:7; Dt 14:8). A manada indica região de população gentia, a leste do mar da Galileia."
+   }
+  ]
+ },
+ "Mat.8.31": {
+  "t": "Os demônios lhe suplicavam: “Se você vai nos expulsar, mande-nos para a manada de porcos.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "demônios",
+    "termo": "δαίμονες (daimones)",
+    "titulo": "daimōn, hápax",
+    "texto": "Única ocorrência de daimōn no NT; em todo o resto aparece o diminutivo daimonion, com o mesmo sentido. No grego comum, daimōn podia ser uma divindade ou espírito, não necessariamente mau; aqui são espíritos impuros. Traduzido como “demônios”, igual a daimonion."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "mande-nos para",
+    "termo": "ἀπόστειλον ἡμᾶς (aposteilon hēmas)",
+    "titulo": "“mande-nos” ou “permite-nos ir”",
+    "texto": "O texto crítico traz aposteilon hēmas (“envia-nos”). O Textus Receptus e o Texto Bizantino trazem epitrepson hēmin apelthein (“permite-nos ir”), como em Lc 8:32. O sentido é próximo; no texto crítico os demônios pedem uma ordem, no outro uma licença."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Se você vai nos expulsar",
+    "termo": "εἰ ἐκβάλλεις ἡμᾶς",
+    "titulo": "condicional real",
+    "texto": "Lit. “se nos expulsas”. É condição tida como certa: os demônios sabem que serão expulsos."
+   }
+  ]
+ },
+ "Mat.8.32": {
+  "t": "Ele lhes disse: “Vão!” Eles saíram e entraram nos porcos. E eis que a manada inteira se precipitou pelo despenhadeiro no mar, e morreram nas águas.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "despenhadeiro",
+    "termo": "κρημνοῦ (krēmnou)",
+    "titulo": "krēmnos, raro",
+    "texto": "“Encosta íngreme, precipício” (só nos três relatos deste episódio). “Despenhadeiro” guarda a imagem da queda."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "entraram nos porcos",
+    "termo": "ἀπῆλθον εἰς τοὺς χοίρους",
+    "titulo": "“nos porcos” ou “na manada”",
+    "texto": "O texto crítico traz “entraram nos porcos”; o Textus Receptus e o Texto Bizantino, “na manada dos porcos”. Sem efeito no sentido."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "morreram nas águas",
+    "termo": "ἀπέθανον ἐν τοῖς ὕδασιν",
+    "titulo": "por que os porcos?",
+    "texto": "O texto não explica por que Jesus permitiu a ação. A destruição da manada torna visível a saída dos demônios e mostra o seu poder destrutivo; o mar, no imaginário bíblico, é lugar do caos (cf. Ap 20:13). O valor dos dois homens é posto acima do da manada (cf. 12:12)."
+   }
+  ]
+ },
+ "Mat.8.33": {
+  "t": "Os que cuidavam dos porcos fugiram, foram à cidade e contaram tudo, inclusive o que tinha acontecido com os endemoninhados.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "o que tinha acontecido com os endemoninhados",
+    "termo": "τὰ τῶν δαιμονιζομένων",
+    "titulo": "“as coisas dos endemoninhados”",
+    "texto": "Lit. “as coisas dos endemoninhados”. Traduzido pelo sentido."
+   }
+  ]
+ },
+ "Mat.8.34": {
+  "t": "E eis que a cidade inteira saiu ao encontro de Jesus e, quando o viram, pediram-lhe que se retirasse do território deles.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "saiu ao encontro de",
+    "termo": "ἐξῆλθεν εἰς ὑπάντησιν (exēlthen eis hypantēsin)",
+    "titulo": "hypantēsis, raro",
+    "texto": "Hypantēsis (só aqui, em Jo 12:13 e numa variante de 25:1) é o “encontro”, muitas vezes a recepção pública a um visitante ilustre. A cena é irônica: a cidade sai como para receber alguém importante, mas é para pedir que ele vá embora. O Textus Receptus e o Texto Bizantino trazem synantēsis, de sentido igual."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "pediram-lhe que se retirasse",
+    "termo": "παρεκάλεσαν ὅπως μεταβῇ",
+    "titulo": "a rejeição",
+    "texto": "O texto não diz o motivo: medo diante de um poder tão grande, prejuízo com a perda da manada, ou ambos. O capítulo termina como o v. 20 anunciou: o Filho do Homem não tem onde reclinar a cabeça."
+   }
+  ]
+ },
+ "Mat.9.1": {
+  "t": "Ele entrou num barco, atravessou o mar e chegou à sua própria cidade.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "sua própria cidade",
+    "termo": "τὴν ἰδίαν πόλιν (tēn idian polin)",
+    "titulo": "Cafarnaum",
+    "texto": "Não é Nazaré, onde Jesus foi criado, mas Cafarnaum, onde passou a morar (4:13). Mc 2:1 situa o episódio seguinte em Cafarnaum."
+   }
+  ]
+ },
+ "Mat.9.2": {
+  "t": "E eis que lhe trouxeram um paralítico deitado numa maca. Vendo a fé que eles tinham, Jesus disse ao paralítico: “Coragem, filho! Os seus pecados estão perdoados.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Os seus pecados estão perdoados",
+    "termo": "ἀφίενταί σου αἱ ἁμαρτίαι (aphientai sou hai hamartiai)",
+    "titulo": "presente passivo",
+    "texto": "Lit. “são perdoados os teus pecados”. O presente declara o perdão no próprio momento. A passiva pode indicar que Deus perdoa (passiva divina), mas o v. 6 mostra que Jesus o declara com autoridade própria. O Textus Receptus e o Texto Bizantino trazem o perfeito apheōntai (“foram perdoados”), sem diferença real na tradução."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Coragem, filho!",
+    "termo": "θάρσει τέκνον (tharsei teknon)",
+    "titulo": "tharsei",
+    "texto": "Tharseō é “ter ânimo, não ter medo”. Teknon (“filho, criança”) é tratamento afetuoso, não indica idade. O mesmo encorajamento volta no v. 22 e em 14:27."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "a fé que eles tinham",
+    "termo": "τὴν πίστιν αὐτῶν",
+    "titulo": "a fé de quem?",
+    "texto": "“Deles” inclui os que trouxeram o paralítico e, provavelmente, ele mesmo. Jesus vê a fé nos atos (Mc 2:4 conta que abriram o teto)."
+   }
+  ]
+ },
+ "Mat.9.3": {
+  "t": "Então alguns dos escribas disseram consigo mesmos: “Esse homem está blasfemando!”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "está blasfemando",
+    "termo": "βλασφημεῖ (blasphēmei)",
+    "titulo": "a acusação",
+    "texto": "Para os escribas, só Deus perdoa pecados (Mc 2:7); declarar o perdão por conta própria seria usurpar a honra de Deus. A blasfêmia era punida com a morte (Lv 24:16), e a mesma acusação levará à condenação de Jesus (26:65)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Esse homem",
+    "termo": "οὗτος (houtos)",
+    "titulo": "houtos",
+    "texto": "Lit. “este”. Na boca dos adversários, o pronome tem tom de desprezo (cf. 12:24; 26:61). “Esse homem” transmite o tom sem acrescentar adjetivos."
+   }
+  ]
+ },
+ "Mat.9.4": {
+  "t": "Mas Jesus, conhecendo os pensamentos deles, disse: “Por que vocês pensam coisas más no coração?",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "conhecendo",
+    "termo": "εἰδώς (eidōs)",
+    "titulo": "“conhecendo” ou “vendo”",
+    "texto": "O SBLGNT, Westcott-Hort e Tregelles trazem eidōs (“sabendo”); o NA28, o Textus Receptus e o Texto Bizantino, idōn (“vendo”). As duas formas diferem por uma letra e dizem o mesmo: Jesus percebe o que pensam sem que o digam (cf. 12:25)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "pensam",
+    "termo": "ἐνθυμεῖσθε (enthymeisthe)",
+    "titulo": "enthymeomai, raro",
+    "texto": "“Ponderar, refletir dentro de si” (só aqui e em At 10:19). Retoma enthymēseis (“pensamentos”) no início do versículo."
+   }
+  ]
+ },
+ "Mat.9.5": {
+  "t": "Pois o que é mais fácil? Dizer: ‘Os seus pecados estão perdoados’, ou dizer: ‘Levante-se e ande’?",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "o que é mais fácil?",
+    "termo": "τί γάρ ἐστιν εὐκοπώτερον",
+    "titulo": "a lógica da pergunta",
+    "texto": "Dizer “estão perdoados” é mais fácil, porque ninguém pode verificar. Dizer “levante-se” pode ser desmentido na hora. A cura visível servirá de prova do perdão invisível (v. 6)."
+   }
+  ]
+ },
+ "Mat.9.6": {
+  "t": "Mas, para que vocês saibam que o Filho do Homem tem autoridade na terra para perdoar pecados” — então disse ao paralítico: “Levante-se, pegue a sua maca e vá para casa.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "” — então disse ao paralítico",
+    "termo": "τότε λέγει τῷ παραλυτικῷ",
+    "titulo": "frase interrompida",
+    "texto": "Jesus começa a frase dirigida aos escribas e a interrompe para falar ao paralítico; o narrador intercala “então disse ao paralítico”. O travessão marca a quebra, que está no grego e nos três Evangelhos (Mc 2:10; Lc 5:24)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "o Filho do Homem tem autoridade na terra",
+    "termo": "ἐξουσίαν ἔχει ὁ υἱὸς τοῦ ἀνθρώπου ἐπὶ τῆς γῆς",
+    "titulo": "Daniel 7",
+    "texto": "Em Dn 7:14, ao “filho de homem” é dada autoridade (exousia, na Septuaginta) sobre todos os povos. Jesus afirma que essa autoridade já está presente “na terra”, e não só no céu: o perdão que pertence a Deus é dado agora por meio dele."
+   }
+  ]
+ },
+ "Mat.9.7": {
+  "t": "E o homem se levantou e foi para casa.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "o homem",
+    "termo": "καὶ ἐγερθείς (kai egertheis)",
+    "titulo": "sujeito explicitado",
+    "texto": "O grego diz só “e, levantando-se, foi”. “O homem” foi acrescentado para que não pareça que é Jesus quem sai."
+   }
+  ]
+ },
+ "Mat.9.8": {
+  "t": "Ao verem isso, as multidões ficaram cheias de temor e glorificaram a Deus, que tinha dado tal autoridade aos homens.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "ficaram cheias de temor",
+    "termo": "ἐφοβήθησαν (ephobēthēsan)",
+    "titulo": "“temeram” ou “maravilharam-se”",
+    "texto": "O texto crítico traz ephobēthēsan (“temeram”); o Textus Receptus e o Texto Bizantino, ethaumasan (“maravilharam-se”). O temor aqui é o assombro reverente diante da ação de Deus, não o medo comum."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "aos homens",
+    "termo": "τοῖς ἀνθρώποις (tois anthrōpois)",
+    "titulo": "por que o plural?",
+    "texto": "A multidão pode estar falando em termos gerais: Deus deu tal poder a um ser humano. Muitos comentaristas veem também uma antecipação de 16:19 e 18:18, onde Jesus confia à comunidade dos discípulos a autoridade de ligar e desligar, e de Jo 20:23."
+   }
+  ]
+ },
+ "Mat.9.9": {
+  "t": "Saindo dali, Jesus viu um homem chamado Mateus sentado na coletoria e lhe disse: “Siga-me.” Ele se levantou e o seguiu.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "coletoria",
+    "termo": "τελώνιον (telōnion)",
+    "titulo": "telōnion, raro",
+    "texto": "O posto onde se cobravam taxas e pedágios (só aqui e nos paralelos, Mc 2:14; Lc 5:27). Cafarnaum ficava numa rota comercial, na fronteira do território de Herodes Antipas; as mercadorias pagavam impostos ali."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Mateus",
+    "termo": "Μαθθαῖον (Maththaion)",
+    "titulo": "Mateus ou Levi",
+    "texto": "Marcos (2:14) e Lucas (5:27) chamam esse cobrador de “Levi”. Era comum ter dois nomes, e na lista dos Doze Mateus é chamado “o cobrador de impostos” (10:3). A tradição da igreja antiga atribuiu a ele este Evangelho."
+   }
+  ]
+ },
+ "Mat.9.10": {
+  "t": "Estando Jesus à mesa na casa, muitos cobradores de impostos e pecadores vieram e se sentaram à mesa com ele e com os seus discípulos.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "na casa",
+    "termo": "ἐν τῇ οἰκίᾳ (en tē oikia)",
+    "titulo": "de quem é a casa?",
+    "texto": "O grego diz “na casa”. Lc 5:29 diz que Levi deu um banquete na sua casa. Em Mateus, que usa “a casa” para o lugar onde Jesus estava em Cafarnaum (9:28; 13:1, 36), pode ser a casa onde Jesus morava. A tradução deixa a ambiguidade."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Estando Jesus à mesa",
+    "termo": "καὶ ἐγένετο αὐτοῦ ἀνακειμένου ... καὶ ἰδού",
+    "titulo": "“e aconteceu ... e eis que”",
+    "texto": "Lit. “e aconteceu, estando ele reclinado à mesa na casa, e eis que...”. A fórmula hebraizante foi simplificada. “Jesus” substitui o pronome para clareza."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "cobradores de impostos e pecadores",
+    "termo": "τελῶναι καὶ ἁμαρτωλοί (telōnai kai hamartōloi)",
+    "titulo": "à mesa com pecadores",
+    "texto": "Os cobradores de impostos (“publicanos” nas versões antigas) trabalhavam para os arrendatários das taxas, a serviço de Roma ou de Herodes, e eram vistos como desonestos e colaboradores. “Pecadores” designava os que viviam fora da Lei de modo notório. Comer junto era sinal de aceitação e comunhão; por isso a objeção do v. 11."
+   }
+  ]
+ },
+ "Mat.9.11": {
+  "t": "Vendo isso, os fariseus perguntavam aos discípulos dele: “Por que o mestre de vocês come com os cobradores de impostos e pecadores?”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "perguntavam",
+    "termo": "ἔλεγον (elegon)",
+    "titulo": "imperfeito",
+    "texto": "Lit. “diziam”. O imperfeito pode indicar a insistência da pergunta. O Textus Receptus e o Texto Bizantino trazem o aoristo eipon (“disseram”)."
+   }
+  ]
+ },
+ "Mat.9.12": {
+  "t": "Ele ouviu isso e disse: “Não são os que têm saúde que precisam de médico, mas sim os doentes.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "Ele ouviu isso e disse",
+    "termo": "ὁ δὲ ἀκούσας εἶπεν",
+    "titulo": "acréscimos",
+    "texto": "Tregelles, o Textus Receptus e o Texto Bizantino acrescentam “Jesus”, e o Textus Receptus e o Texto Bizantino, “a eles”. Sem efeito no sentido."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "os que têm saúde",
+    "termo": "οἱ ἰσχύοντες (hoi ischyontes)",
+    "titulo": "ischyō",
+    "texto": "Lit. “os fortes, os que têm vigor”. Provérbio conhecido no mundo antigo, aplicado por Jesus à sua missão."
+   }
+  ]
+ },
+ "Mat.9.13": {
+  "t": "Vão e aprendam o que significa isto: ‘Quero misericórdia, e não sacrifício’. Pois eu não vim chamar justos, mas pecadores.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Quero misericórdia, e não sacrifício",
+    "termo": "ἔλεος θέλω καὶ οὐ θυσίαν",
+    "titulo": "Oseias 6:6",
+    "texto": "Citação de Os 6:6, que Mateus repete em 12:7. A forma “e não” está mais próxima do hebraico (“quero amor leal, e não sacrifício”) do que da Septuaginta, que diz “mais do que sacrifício” (ē thysian). No hebraico, “isto e não aquilo” muitas vezes expressa prioridade, e a segunda metade de Oseias 6:6 confirma: “o conhecimento de Deus, mais do que holocaustos”. Jesus não abole o culto; põe a misericórdia acima dele."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Vão e aprendam",
+    "termo": "πορευθέντες δὲ μάθετε",
+    "titulo": "fórmula de ensino",
+    "texto": "Lit. “indo, aprendam”. Lembra a fórmula rabínica “vá e aprenda”, atestada em fontes judaicas posteriores, com que se mandava estudar um texto. Há ironia: Jesus manda os fariseus, mestres da Lei, aprenderem um texto que já conheciam."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "mas pecadores",
+    "termo": "ἀλλ᾽ ἁμαρτωλούς (+ εἰς μετάνοιαν)",
+    "titulo": "“ao arrependimento”",
+    "texto": "O Textus Receptus e o Texto Bizantino acrescentam “ao arrependimento”, que aparece no paralelo de Lc 5:32. Os manuscritos mais antigos de Mateus não trazem; o acréscimo veio provavelmente de Lucas."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "justos",
+    "termo": "δικαίους (dikaious)",
+    "titulo": "ironia",
+    "texto": "Os “justos” são os que se consideram assim. Jesus não diz que há pessoas sem necessidade de salvação, mas que só os que reconhecem a doença procuram o médico."
+   }
+  ]
+ },
+ "Mat.9.14": {
+  "t": "Então os discípulos de João vieram a ele e perguntaram: “Por que nós e os fariseus jejuamos muito, e os seus discípulos não jejuam?”",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "jejuamos muito",
+    "termo": "νηστεύομεν πολλά (nēsteuomen polla)",
+    "titulo": "polla",
+    "texto": "Westcott-Hort omite polla (“muito”); o SBLGNT, o NA28, o THGNT, Tregelles, o Textus Receptus e o Texto Bizantino o trazem. O sentido da pergunta não muda."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "jejuamos",
+    "termo": "νηστεύομεν (nēsteuomen)",
+    "titulo": "o jejum",
+    "texto": "A Lei prescrevia jejum só no Dia da Expiação (Lv 16:29-31). Os fariseus mais piedosos jejuavam duas vezes por semana (Lc 18:12), e os discípulos de João seguiam a vida austera do mestre (11:18)."
+   }
+  ]
+ },
+ "Mat.9.15": {
+  "t": "Jesus lhes respondeu: “Podem os convidados do noivo ficar de luto enquanto o noivo está com eles? Mas virão dias em que o noivo lhes será tirado, e então jejuarão.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "os convidados do noivo",
+    "termo": "οἱ υἱοὶ τοῦ νυμφῶνος (hoi huioi tou nymphōnos)",
+    "titulo": "“os filhos da câmara nupcial”",
+    "texto": "Lit. “os filhos da sala de núpcias”. Expressão semítica para os amigos do noivo e convidados da festa. Durante a festa de casamento, que durava dias, não se jejuava."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "o noivo",
+    "termo": "ὁ νυμφίος (ho nymphios)",
+    "titulo": "o noivo",
+    "texto": "No AT, Deus é o noivo ou marido de Israel (Is 54:5; 62:5; Os 2:19-20). Jesus se apresenta nesse papel, e a sua presença é tempo de festa (cf. 25:1-13)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "lhes será tirado",
+    "termo": "ἀπαρθῇ (aparthē)",
+    "titulo": "apairō, raro",
+    "texto": "“Ser levado embora, arrancado” (só aqui e nos paralelos, Mc 2:20; Lc 5:35). É a primeira alusão, ainda velada, à morte violenta de Jesus. Depois dela, o jejum volta a ter lugar entre os discípulos, como mostra a igreja de Atos (At 13:2-3; 14:23); o Sermão do Monte já supunha essa prática (6:16-18)."
+   }
+  ]
+ },
+ "Mat.9.16": {
+  "t": "Ninguém põe remendo de pano novo em roupa velha, porque o remendo repuxa a roupa, e o rasgo fica pior.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "pano novo",
+    "termo": "ῥάκους ἀγνάφου (rhakous agnaphou)",
+    "titulo": "agnaphos, raro",
+    "texto": "Agnaphos (só aqui e em Mc 2:21) é o pano que ainda não passou pelo pisoeiro, isto é, não foi lavado nem encolhido. Ao ser lavado, o remendo encolhe e repuxa o tecido velho. “Novo” dá o sentido; a nota guarda o detalhe."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "o remendo repuxa a roupa",
+    "termo": "αἴρει γὰρ τὸ πλήρωμα αὐτοῦ ἀπὸ τοῦ ἱματίου",
+    "titulo": "“o seu enchimento tira da roupa”",
+    "texto": "Lit. “pois o seu enchimento arranca da roupa”. Plērōma é o que preenche o buraco, o remendo. Traduzido pelo sentido."
+   }
+  ]
+ },
+ "Mat.9.17": {
+  "t": "Nem se põe vinho novo em odres velhos; do contrário, os odres se rompem, o vinho se derrama e os odres se perdem. Mas põe-se vinho novo em odres novos, e ambos se conservam.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "odres",
+    "termo": "ἀσκούς (askous)",
+    "titulo": "askos",
+    "texto": "Recipiente de couro de cabra para líquidos. O odre velho já está esticado e ressecado e se rompe com a fermentação do vinho novo."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "ambos se conservam",
+    "termo": "ἀμφότεροι συντηροῦνται",
+    "titulo": "o sentido das duas imagens",
+    "texto": "As duas imagens dizem que a novidade trazida por Jesus não cabe nas formas antigas de piedade, como o jejum dos fariseus. Só Mateus acrescenta “ambos se conservam”, o que pode indicar que o novo não destrói o que é antigo, mas o preserva na forma certa (cf. 5:17; 13:52). Synthēreō é raro (aqui, Mc 6:20 e Lc 2:19)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "os odres se perdem",
+    "termo": "οἱ ἀσκοὶ ἀπόλλυνται",
+    "titulo": "presente ou futuro",
+    "texto": "O texto crítico traz o presente apollyntai; o Textus Receptus e o Texto Bizantino, o futuro apolountai (“se perderão”). Sem efeito no sentido."
+   }
+  ]
+ },
+ "Mat.9.18": {
+  "t": "Enquanto ele lhes dizia essas coisas, eis que um chefe veio, prostrou-se diante dele e disse: “Minha filha acabou de morrer. Mas venha, ponha a mão sobre ela, e ela viverá.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "um chefe",
+    "termo": "ἄρχων εἷς (archōn heis)",
+    "titulo": "archōn",
+    "texto": "Lit. “um governante”. Marcos (5:22) e Lucas (8:41) dizem que era chefe da sinagoga e se chamava Jairo. Mateus conta o episódio de forma resumida."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "acabou de morrer",
+    "termo": "ἄρτι ἐτελεύτησεν (arti eteleutēsen)",
+    "titulo": "Mateus e Marcos",
+    "texto": "Em Marcos e Lucas, a menina está morrendo e a notícia da morte chega depois. Mateus, que abrevia o relato, junta as duas etapas e põe na boca do pai, desde o início, a fé de que Jesus pode dar vida a uma morta."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "ponha a mão sobre ela",
+    "termo": "ἐπίθες τὴν χεῖρά σου ἐπ᾽ αὐτήν",
+    "titulo": "imposição das mãos",
+    "texto": "Gesto de bênção e cura (19:13-15; Mc 6:5; At 28:8)."
+   }
+  ]
+ },
+ "Mat.9.19": {
+  "t": "Jesus se levantou e foi com ele, e os seus discípulos também.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "foi com ele",
+    "termo": "ἠκολούθει αὐτῷ (ēkolouthei autō)",
+    "titulo": "“o seguia”",
+    "texto": "Lit. “o seguia”. Aqui é Jesus quem segue o pai da menina; “foi com ele” evita confusão com o sentido de discipulado. O NA28, o Textus Receptus e o Texto Bizantino trazem o aoristo ēkolouthēsen, sem diferença na tradução."
+   }
+  ]
+ },
+ "Mat.9.20": {
+  "t": "E eis que uma mulher que havia doze anos sofria de hemorragia aproximou-se por trás e tocou na borla do manto dele.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "sofria de hemorragia",
+    "termo": "αἱμορροοῦσα (haimorroousa)",
+    "titulo": "haimorroeō, hápax",
+    "texto": "Lit. “fluindo sangue”. Única ocorrência no NT; na Septuaginta descreve a mulher com fluxo de sangue em Lv 15:33. Provavelmente um sangramento uterino contínuo, que a tornava ritualmente impura e transmitia impureza a quem ela tocasse (Lv 15:25-27). Por isso se aproxima por trás."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "borla",
+    "termo": "κρασπέδου (kraspedou)",
+    "titulo": "kraspedon",
+    "texto": "Pode ser a “orla” do manto ou as “borlas” (tsitsit) que a Lei mandava usar nos quatro cantos da roupa como lembrança dos mandamentos (Nm 15:38-39; Dt 22:12). Em 23:5 a palavra designa claramente essas borlas. “Borla” mostra que Jesus vestia como judeu observante; “orla” também é possível."
+   }
+  ]
+ },
+ "Mat.9.21": {
+  "t": "Pois dizia consigo mesma: “Se eu apenas tocar no manto dele, ficarei curada.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "ficarei curada",
+    "termo": "σωθήσομαι (sōthēsomai)",
+    "titulo": "sōzō: “curar” e “salvar”",
+    "texto": "Lit. “serei salva”. O verbo aparece três vezes nos vv. 21-22. Sōzō é usado para a cura física e para a salvação plena. A APV traduz “curada” onde a mulher pensa na doença e “salvou” na palavra de Jesus (v. 22), para que o leitor veja que a cura é sinal de uma salvação maior."
+   }
+  ]
+ },
+ "Mat.9.22": {
+  "t": "Jesus voltou-se, viu-a e disse: “Coragem, filha! A sua fé a salvou.” E desde aquela hora a mulher ficou curada.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "A sua fé a salvou",
+    "termo": "ἡ πίστις σου σέσωκέν σε (hē pistis sou sesōken se)",
+    "titulo": "perfeito",
+    "texto": "O perfeito indica resultado permanente. A mulher pensava que o toque bastava (v. 21); Jesus atribui a cura à fé, isto é, à confiança nele, e não ao contato com a roupa."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "ficou curada",
+    "termo": "ἐσώθη (esōthē)",
+    "titulo": "sōzō",
+    "texto": "Lit. “foi salva”. Ver nota no v. 21."
+   }
+  ]
+ },
+ "Mat.9.23": {
+  "t": "Quando Jesus chegou à casa do chefe e viu os flautistas e a multidão em alvoroço,",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "os flautistas",
+    "termo": "τοὺς αὐλητάς (tous aulētas)",
+    "titulo": "o luto",
+    "texto": "Flautistas e carpideiras eram contratados para os funerais. A Mishná (Ketubot 4:4) diz que até o mais pobre em Israel devia contratar pelo menos dois flautistas e uma carpideira para o enterro da esposa. A presença deles confirma que a menina estava morta. Aulētēs é raro (aqui e em Ap 18:22)."
+   }
+  ]
+ },
+ "Mat.9.24": {
+  "t": "disse: “Retirem-se, pois a menina não morreu; está dormindo.” E riam dele.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "a menina não morreu; está dormindo",
+    "termo": "οὐ γὰρ ἀπέθανεν τὸ κοράσιον ἀλλὰ καθεύδει",
+    "titulo": "sono e morte",
+    "texto": "Jesus não nega a morte, que todos ali tinham constatado; diz que, diante do seu poder, ela é como um sono do qual se acorda (cf. Jo 11:11-14). O NT usa o sono como imagem da morte dos que esperam a ressurreição (1Ts 4:13-14)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "riam dele",
+    "termo": "κατεγέλων αὐτοῦ (kategelōn autou)",
+    "titulo": "katagelaō, raro",
+    "texto": "“Rir com desprezo, zombar” (só nos três relatos deste episódio). O imperfeito indica que continuavam zombando."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "menina",
+    "termo": "κοράσιον (korasion)",
+    "titulo": "korasion",
+    "texto": "Diminutivo de korē, “moça”. Mc 5:42 diz que tinha doze anos."
+   }
+  ]
+ },
+ "Mat.9.25": {
+  "t": "Depois que a multidão foi posta para fora, ele entrou, tomou a menina pela mão, e ela se levantou.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "ela se levantou",
+    "termo": "ἠγέρθη (ēgerthē)",
+    "titulo": "egeirō",
+    "texto": "Lit. “foi levantada”. É o mesmo verbo usado para a ressurreição de Jesus (16:21; 28:6-7). “Levantou-se” guarda o duplo sentido de sair da cama e voltar da morte."
+   }
+  ]
+ },
+ "Mat.9.26": {
+  "t": "E a notícia disso se espalhou por toda aquela região.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "a notícia disso",
+    "termo": "ἡ φήμη αὕτη (hē phēmē hautē)",
+    "titulo": "phēmē, raro",
+    "texto": "“Fama, notícia que corre” (só aqui e em Lc 4:14). Lit. “esta notícia saiu por toda aquela terra”."
+   }
+  ]
+ },
+ "Mat.9.27": {
+  "t": "Quando Jesus saiu dali, dois cegos o seguiram, gritando: “Tenha compaixão de nós, Filho de Davi!”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Filho de Davi",
+    "termo": "υἱὲ Δαυίδ (huie Dauid)",
+    "titulo": "título messiânico",
+    "texto": "O Messias seria descendente de Davi (2Sm 7:12-16; Is 11:1). Em Mateus, quem chama Jesus de “Filho de Davi” costuma ser gente à margem, que pede cura: cegos, uma mulher cananeia, crianças (15:22; 20:30-31; 21:15). Os líderes resistem ao título (12:23-24)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Tenha compaixão de nós",
+    "termo": "ἐλέησον ἡμᾶς (eleēson hēmas)",
+    "titulo": "eleeō",
+    "texto": "“Tenha misericórdia”. O pedido ecoa as orações dos Salmos (Sl 6:2; 51:1) e deu origem à oração cristã Kyrie eleison."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Filho de Davi",
+    "termo": "υἱὲ / υἱός",
+    "titulo": "vocativo ou nominativo",
+    "texto": "O SBLGNT, Westcott-Hort, o Textus Receptus e o Texto Bizantino trazem o vocativo huie; o NA28 e Tregelles, o nominativo huios, usado como vocativo. Sem efeito na tradução."
+   }
+  ]
+ },
+ "Mat.9.28": {
+  "t": "Quando ele entrou em casa, os cegos se aproximaram dele, e Jesus lhes perguntou: “Vocês creem que eu posso fazer isso?” Eles responderam: “Sim, Senhor.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Vocês creem que eu posso fazer isso?",
+    "termo": "πιστεύετε ὅτι δύναμαι τοῦτο ποιῆσαι",
+    "titulo": "fé em Jesus",
+    "texto": "A pergunta não é sobre a fé em geral, mas sobre a confiança no poder de Jesus. Em resposta, os cegos passam de “Filho de Davi” para “Senhor”."
+   }
+  ]
+ },
+ "Mat.9.29": {
+  "t": "Então ele tocou nos olhos deles e disse: “Seja feito a vocês segundo a fé que vocês têm.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "segundo a fé que vocês têm",
+    "termo": "κατὰ τὴν πίστιν ὑμῶν",
+    "titulo": "kata",
+    "texto": "Lit. “segundo a vossa fé”. Kata pode indicar medida (“na proporção da fé”) ou correspondência (“conforme a fé que demonstraram”). A segunda é a mais provável: a cura responde à fé, como em 8:13."
+   }
+  ]
+ },
+ "Mat.9.30": {
+  "t": "E os olhos deles se abriram. Jesus os advertiu severamente: “Cuidem para que ninguém saiba disso.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "advertiu severamente",
+    "termo": "ἐνεβριμήθη (enebrimēthē)",
+    "titulo": "embrimaomai",
+    "texto": "Verbo forte: “bufar de indignação”, “repreender com dureza” (Mc 1:43; 14:5; Jo 11:33, 38). Mostra a seriedade da ordem de silêncio (ver nota em 8:4). O Textus Receptus e o Texto Bizantino trazem outra forma do mesmo verbo (enebrimēsato)."
+   }
+  ]
+ },
+ "Mat.9.31": {
+  "t": "Eles, porém, saíram e espalharam a fama dele por toda aquela região.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "espalharam a fama dele",
+    "termo": "διεφήμισαν αὐτόν (diephēmisan auton)",
+    "titulo": "diaphēmizō, raro",
+    "texto": "Lit. “divulgaram-no”: espalharam a notícia a respeito dele (só aqui, em 28:15 e em Mc 1:45). A desobediência dos curados é contada sem comentário."
+   }
+  ]
+ },
+ "Mat.9.32": {
+  "t": "Enquanto eles saíam, eis que lhe trouxeram um homem mudo, endemoninhado.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "mudo",
+    "termo": "κωφόν (kōphon)",
+    "titulo": "kōphos",
+    "texto": "Kōphos pode ser “surdo” (11:5), “mudo” ou ambos. Aqui é mudo, pois a cura se mostra quando ele fala (v. 33). O texto liga a mudez à ação do demônio, mas Mateus não trata toda doença como possessão (cf. 4:24)."
+   }
+  ]
+ },
+ "Mat.9.33": {
+  "t": "Depois que o demônio foi expulso, o mudo falou. As multidões ficaram admiradas e diziam: “Nunca se viu coisa assim em Israel!”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "o mudo falou",
+    "termo": "ἐλάλησεν ὁ κωφός",
+    "titulo": "sinais da era messiânica",
+    "texto": "Is 35:5-6 anuncia que no tempo da salvação os olhos dos cegos se abrirão e a língua do mudo cantará. Mateus põe juntos a cura de cegos (vv. 27-31) e de um mudo; Jesus remete a esses sinais em 11:5."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Nunca se viu coisa assim",
+    "termo": "οὐδέποτε ἐφάνη οὕτως",
+    "titulo": "“nunca apareceu assim”",
+    "texto": "Lit. “nunca apareceu assim em Israel”. Traduzido pelo sentido."
+   }
+  ]
+ },
+ "Mat.9.34": {
+  "t": "Mas os fariseus diziam: “É pelo chefe dos demônios que ele expulsa os demônios.”",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "Mas os fariseus diziam",
+    "termo": "οἱ δὲ Φαρισαῖοι ἔλεγον",
+    "titulo": "versículo omitido",
+    "texto": "O versículo falta em alguns testemunhos do texto chamado ocidental, entre eles o códice D e manuscritos latinos antigos. Todos os textos-base o trazem, e ele prepara 10:25 e 12:24 (Metzger)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "pelo chefe dos demônios",
+    "termo": "ἐν τῷ ἄρχοντι τῶν δαιμονίων",
+    "titulo": "a acusação",
+    "texto": "A mesma acusação será retomada e respondida por Jesus em 12:24-32. Os fariseus não negam os fatos; atribuem-nos a Satanás."
+   }
+  ]
+ },
+ "Mat.9.35": {
+  "t": "Jesus percorria todas as cidades e povoados, ensinando nas sinagogas deles, pregando o evangelho do Reino e curando toda doença e toda enfermidade.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "ensinando nas sinagogas deles, pregando o evangelho do Reino e curando",
+    "termo": "διδάσκων ... κηρύσσων ... θεραπεύων",
+    "titulo": "moldura dos caps. 5-9",
+    "texto": "O versículo repete quase palavra por palavra 4:23. Com ele Mateus fecha a seção aberta lá: o ensino (caps. 5-7) e as curas (caps. 8-9) mostram o Messias em palavra e ação. A mesma descrição passa, em 10:1, para a missão dos Doze."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "toda enfermidade",
+    "termo": "πᾶσαν μαλακίαν (+ ἐν τῷ λαῷ)",
+    "titulo": "“entre o povo”",
+    "texto": "O Textus Receptus e o Texto Bizantino acrescentam “entre o povo”, como em 4:23. Os manuscritos mais antigos não trazem."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "enfermidade",
+    "termo": "μαλακίαν (malakian)",
+    "titulo": "malakia, raro",
+    "texto": "“Fraqueza, indisposição” (só em Mateus: 4:23; 9:35; 10:1). Ao lado de nosos (“doença”), forma uma dupla que abrange todo tipo de mal."
+   }
+  ]
+ },
+ "Mat.9.36": {
+  "t": "Ao ver as multidões, ele teve compaixão delas, porque estavam aflitas e abatidas, como ovelhas que não têm pastor.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "teve compaixão",
+    "termo": "ἐσπλαγχνίσθη (esplanchnisthē)",
+    "titulo": "splanchnizomai",
+    "texto": "Da mesma raiz de splanchna (“entranhas”, sede dos sentimentos): “comover-se por dentro”. Nos Evangelhos o verbo é usado quase só para Jesus e para personagens das parábolas que representam Deus (18:27; Lc 15:20)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "aflitas e abatidas",
+    "termo": "ἐσκυλμένοι καὶ ἐρριμμένοι (eskylmenoi kai errimmenoi)",
+    "titulo": "duas imagens",
+    "texto": "Skyllō é “esfolar, maltratar, importunar”; rhiptō é “lançar ao chão”. As ovelhas estão feridas e caídas, sem quem cuide delas. O Textus Receptus traz eklelymenoi (“desfalecidas”)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "como ovelhas que não têm pastor",
+    "termo": "ὡσεὶ πρόβατα μὴ ἔχοντα ποιμένα",
+    "titulo": "eco do AT",
+    "texto": "Expressão de Nm 27:17, 1Rs 22:17 e Ez 34:5, onde o povo fica sem líder. Em Ez 34, Deus promete pastorear ele mesmo as ovelhas e levantar um pastor da casa de Davi (Ez 34:11-24)."
+   }
+  ]
+ },
+ "Mat.9.37": {
+  "t": "Então disse aos seus discípulos: “A colheita é grande, mas os trabalhadores são poucos.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "A colheita",
+    "termo": "ὁ θερισμός (ho therismos)",
+    "titulo": "imagem do fim",
+    "texto": "No AT e no NT a colheita é imagem do juízo e da reunião final do povo de Deus (Is 27:12; Jl 3:13; Mt 13:30, 39). Jesus vê nas multidões um campo pronto para a ceifa."
+   }
+  ]
+ },
+ "Mat.9.38": {
+  "t": "Peçam, pois, ao Senhor da colheita que mande trabalhadores para a sua colheita.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "mande",
+    "termo": "ἐκβάλῃ (ekbalē)",
+    "titulo": "ekballō",
+    "texto": "Lit. “lance para fora”, o mesmo verbo usado para expulsar demônios. Sugere urgência: enviar com força, com pressa."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Senhor da colheita",
+    "termo": "τοῦ κυρίου τοῦ θερισμοῦ",
+    "titulo": "kyrios",
+    "texto": "Kyrios é o dono da plantação. Aqui é Deus, e por isso a maiúscula. No capítulo seguinte, porém, é o próprio Jesus quem envia os trabalhadores (10:1, 5, 16)."
+   }
+  ]
+ },
+ "Mat.10.1": {
+  "t": "Jesus chamou os seus doze discípulos e lhes deu autoridade sobre os espíritos impuros, para expulsá-los e para curar toda doença e toda enfermidade.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "espíritos impuros",
+    "termo": "πνευμάτων ἀκαθάρτων (pneumatōn akathartōn)",
+    "titulo": "akathartos",
+    "texto": "Lit. “espíritos imundos”. Akathartos é termo da linguagem do culto: impuro, o contrário de santo. Os demônios são chamados assim porque se opõem à santidade de Deus. “Impuros” é mais claro hoje que “imundos” (ARC), que sugere sujeira física."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "curar toda doença e toda enfermidade",
+    "termo": "θεραπεύειν πᾶσαν νόσον καὶ πᾶσαν μαλακίαν",
+    "titulo": "a missão compartilhada",
+    "texto": "As mesmas palavras descrevem o ministério de Jesus em 4:23 e 9:35. Jesus dá aos Doze parte da sua própria autoridade e os envia a fazer o que ele faz."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Jesus chamou",
+    "termo": "προσκαλεσάμενος (proskalesamenos)",
+    "titulo": "sujeito explicitado",
+    "texto": "O grego não traz o nome; foi acrescentado para clareza no início do capítulo."
+   }
+  ]
+ },
+ "Mat.10.2": {
+  "t": "Os nomes dos doze apóstolos são estes: primeiro, Simão, chamado Pedro, e André, seu irmão; Tiago, filho de Zebedeu, e João, seu irmão;",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "apóstolos",
+    "termo": "ἀποστόλων (apostolōn)",
+    "titulo": "apostolos",
+    "texto": "Primeira e única ocorrência em Mateus. Apostolos é “enviado”, alguém mandado com autoridade para representar quem o envia (cf. v. 40). O verbo apostellō aparece logo no v. 5. Mantido “apóstolos”, a palavra que se tornou o título dos Doze."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "primeiro, Simão",
+    "termo": "Πρῶτος Σίμων (Prōtos Simōn)",
+    "titulo": "o primeiro",
+    "texto": "Só Mateus acrescenta “primeiro”. Não é só ordem na lista: Pedro aparece como líder e porta-voz dos Doze (14:28; 16:16-19). Os Doze lembram as doze tribos de Israel (19:28)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Tiago, filho de Zebedeu",
+    "termo": "Ἰάκωβος ὁ τοῦ Ζεβεδαίου",
+    "titulo": "“o de Zebedeu”",
+    "texto": "Lit. “Tiago, o de Zebedeu”. A forma grega subentende “filho”, como em v. 3 (“Tiago, o de Alfeu”)."
+   }
+  ]
+ },
+ "Mat.10.3": {
+  "t": "Filipe e Bartolomeu; Tomé e Mateus, o cobrador de impostos; Tiago, filho de Alfeu, e Tadeu;",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "Tadeu",
+    "termo": "Θαδδαῖος (Thaddaios)",
+    "titulo": "Tadeu ou Lebeu",
+    "texto": "O texto crítico traz só “Tadeu”. O Textus Receptus e o Texto Bizantino trazem “Lebeu, chamado Tadeu”, e alguns manuscritos trazem só “Lebeu”. Lucas (6:16; At 1:13) põe nesse lugar “Judas, filho de Tiago”. Provavelmente a mesma pessoa, com mais de um nome."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Mateus, o cobrador de impostos",
+    "termo": "Μαθθαῖος ὁ τελώνης",
+    "titulo": "a lembrança da origem",
+    "texto": "Só a lista de Mateus lembra a antiga profissão do apóstolo (cf. 9:9). Bartolomeu (“filho de Tolmai”) é muitas vezes identificado com o Natanael de Jo 1:45-49, mas o NT não faz essa ligação."
+   }
+  ]
+ },
+ "Mat.10.4": {
+  "t": "Simão, o Zelote, e Judas Iscariotes, aquele que também o entregou.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "o Zelote",
+    "termo": "ὁ Καναναῖος (ho Kananaios)",
+    "titulo": "Kananaios",
+    "texto": "Não quer dizer “de Caná” nem “de Canaã”, mas vem do aramaico qan’an, “zeloso”. Lucas traduz por zēlōtēs (Lc 6:15; At 1:13). Pode indicar ligação com o movimento nacionalista dos zelotes ou apenas zelo religioso. A APV escreve “o Zelote”, com maiúscula, como sobrenome, segundo a regra comum da tradução; “cananeu” (ARC) leva o leitor a pensar num habitante de Canaã. O Textus Receptus e o Texto Bizantino trazem a grafia Kananitēs, de mesmo sentido."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "o entregou",
+    "termo": "παραδούς (paradous)",
+    "titulo": "paradidōmi",
+    "texto": "Lit. “entregou”. É o verbo usado para Judas, mas também para a entrega de Jesus pelos líderes a Pilatos (27:2) e, no plano de Deus, para a entrega do Filho (17:22; Rm 8:32). “Traiu” é a interpretação; “entregou” mantém a ligação entre os textos."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Iscariotes",
+    "termo": "Ἰσκαριώτης (Iskariōtēs)",
+    "titulo": "o nome",
+    "texto": "A explicação mais comum é “homem de Queriote” (hebraico ’ish Qeriyyot), cidade da Judeia (Js 15:25); Judas seria o único dos Doze vindo do sul. Outras propostas (de sicarius, “homem do punhal”, ou de uma raiz que significa “entregar”) são menos prováveis."
+   }
+  ]
+ },
+ "Mat.10.5": {
+  "t": "Jesus enviou esses doze com estas instruções: “Não tomem o caminho dos gentios, nem entrem em cidade de samaritanos.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "o caminho dos gentios",
+    "termo": "ὁδὸν ἐθνῶν (hodon ethnōn)",
+    "titulo": "ethnē",
+    "texto": "Lit. “caminho das nações”: as estradas que levavam às regiões não judaicas. Ethnē (“nações”) designa os povos não judeus; “gentios” é o termo que deixa isso claro em português."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Não tomem o caminho dos gentios",
+    "termo": "εἰς ὁδὸν ἐθνῶν μὴ ἀπέλθητε",
+    "titulo": "limite temporário",
+    "texto": "A missão dos Doze, nesta fase, é dirigida a Israel (cf. 15:24). Não é exclusão permanente: o v. 18 já fala de testemunho aos gentios, e o Ressuscitado manda fazer discípulos de todas as nações (28:19). A ordem segue o princípio “primeiro o judeu” (Rm 1:16)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "samaritanos",
+    "termo": "Σαμαριτῶν (Samaritōn)",
+    "titulo": "os samaritanos",
+    "texto": "Habitantes da Samaria, entre a Judeia e a Galileia. Descendiam da mistura de israelitas com povos trazidos pelos assírios (2Rs 17:24-41), tinham o seu próprio templo no monte Gerizim e aceitavam só o Pentateuco. Judeus e samaritanos se evitavam (Jo 4:9)."
+   }
+  ]
+ },
+ "Mat.10.6": {
+  "t": "Vão antes às ovelhas perdidas da casa de Israel.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "às ovelhas perdidas da casa de Israel",
+    "termo": "πρὸς τὰ πρόβατα τὰ ἀπολωλότα οἴκου Ἰσραήλ",
+    "titulo": "quais ovelhas?",
+    "texto": "O genitivo pode ser partitivo (“as ovelhas perdidas que há em Israel”) ou explicativo (“as ovelhas perdidas, que são a casa de Israel”). O contexto (9:36: as multidões são ovelhas sem pastor) favorece a segunda: o povo inteiro está perdido e precisa do pastor. A tradução literal mantém as duas leituras."
+   }
+  ]
+ },
+ "Mat.10.7": {
+  "t": "Por onde forem, preguem: ‘O Reino dos céus está próximo’.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "está próximo",
+    "termo": "ἤγγικεν (ēngiken)",
+    "titulo": "perfeito de engizō",
+    "texto": "Lit. “aproximou-se, chegou perto”. A mesma mensagem de João (3:2) e de Jesus (4:17). O perfeito indica que a aproximação já aconteceu e seus efeitos estão presentes: os sinais do v. 8 mostram o Reino em ação."
+   }
+  ]
+ },
+ "Mat.10.8": {
+  "t": "Curem os enfermos, ressuscitem os mortos, purifiquem os leprosos, expulsem os demônios. Vocês receberam de graça; deem de graça.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "ressuscitem os mortos",
+    "termo": "νεκροὺς ἐγείρετε (nekrous egeirete)",
+    "titulo": "omissão bizantina",
+    "texto": "O Texto Bizantino omite “ressuscitem os mortos”; o texto crítico e o Textus Receptus trazem. A omissão pode ter acontecido por salto do olho entre terminações semelhantes (-ete) dos verbos vizinhos."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "de graça",
+    "termo": "δωρεάν (dōrean)",
+    "titulo": "dōrean",
+    "texto": "“Gratuitamente, como dom”. Os discípulos não devem cobrar pelas curas nem fazer do ministério um negócio (cf. At 8:18-20). Isso não proíbe receber sustento (v. 10)."
+   }
+  ]
+ },
+ "Mat.10.9": {
+  "t": "Não providenciem ouro, nem prata, nem cobre para levar nos cintos,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Não providenciem",
+    "termo": "Μὴ κτήσησθε (Mē ktēsēsthe)",
+    "titulo": "ktaomai",
+    "texto": "Ktaomai é “adquirir, obter”. Jesus proíbe que se abasteçam para a viagem, não apenas que levem o que já têm. O cinto, de pano dobrado, servia de bolsa. Os metais vão do mais valioso (ouro) ao mais comum (cobre, das moedas pequenas)."
+   }
+  ]
+ },
+ "Mat.10.10": {
+  "t": "nem alforje para a viagem, nem duas túnicas, nem sandálias, nem cajado; pois o trabalhador merece o seu sustento.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "alforje",
+    "termo": "πήραν (pēran)",
+    "titulo": "pēra",
+    "texto": "Bolsa de viagem para provisões; também a sacola em que pedintes recolhiam esmolas. Os discípulos não devem ir abastecidos nem pedir esmola: devem depender da hospitalidade (v. 11)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "nem sandálias, nem cajado",
+    "termo": "μηδὲ ὑποδήματα μηδὲ ῥάβδον",
+    "titulo": "Mateus e Marcos",
+    "texto": "Em Mc 6:8-9, Jesus permite o cajado e as sandálias. Explicações: Mateus proíbe “providenciar” (v. 9) um par a mais, não usar o que já se tem; ou cada Evangelho resume de modo próprio a ideia central, que é partir sem recursos próprios, confiando em Deus e na hospitalidade."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "o trabalhador merece o seu sustento",
+    "termo": "ἄξιος γὰρ ὁ ἐργάτης τῆς τροφῆς αὐτοῦ",
+    "titulo": "dito citado por Paulo",
+    "texto": "Lit. “digno é o trabalhador do seu alimento”. Lucas (10:7) traz “do seu salário”, forma citada em 1Tm 5:18; Paulo alude ao princípio em 1Co 9:14."
+   }
+  ]
+ },
+ "Mat.10.11": {
+  "t": "Em qualquer cidade ou povoado em que entrarem, informem-se sobre quem nela é digno e fiquem ali até partirem.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "informem-se",
+    "termo": "ἐξετάσατε (exetasate)",
+    "titulo": "exetazō, raro",
+    "texto": "“Investigar, indagar com cuidado” (só aqui, em Jo 21:12 e Mt 2:8). “Digno” é quem está disposto a receber os mensageiros e a mensagem, como mostram os vv. 13-14."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "fiquem ali",
+    "termo": "κἀκεῖ μείνατε (kakei meinate)",
+    "titulo": "não mudar de casa",
+    "texto": "Lit. “e ali permaneçam”. Os discípulos não devem trocar de hospedagem à procura de mais conforto (cf. Lc 10:7)."
+   }
+  ]
+ },
+ "Mat.10.12": {
+  "t": "Ao entrarem na casa, saúdem-na.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "saúdem-na",
+    "termo": "ἀσπάσασθε αὐτήν (aspasasthe autēn)",
+    "titulo": "a saudação de paz",
+    "texto": "A saudação judaica era “Paz” (shalom), como mostra o v. 13 e o paralelo de Lc 10:5 (“Paz a esta casa”). “A casa” são as pessoas que moram nela."
+   }
+  ]
+ },
+ "Mat.10.13": {
+  "t": "Se a casa for digna, que a paz de vocês venha sobre ela; mas, se não for digna, que a paz de vocês volte para vocês.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "que a paz de vocês volte para vocês",
+    "termo": "ἡ εἰρήνη ὑμῶν πρὸς ὑμᾶς ἐπιστραφήτω",
+    "titulo": "a bênção que volta",
+    "texto": "Na mentalidade bíblica, a palavra de bênção dita em nome de Deus não é vazia (Is 55:11). Se não é recebida, não se perde: volta para quem a pronunciou. Shalom inclui bem-estar completo e a salvação de Deus."
+   }
+  ]
+ },
+ "Mat.10.14": {
+  "t": "Se alguém não os receber nem ouvir as suas palavras, sacudam a poeira dos seus pés ao saírem daquela casa ou daquela cidade.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "sacudam a poeira dos seus pés",
+    "termo": "ἐκτινάξατε τὸν κονιορτὸν τῶν ποδῶν ὑμῶν",
+    "titulo": "o gesto",
+    "texto": "Gesto público de rompimento: os mensageiros não levam nada daquele lugar e deixam com ele a responsabilidade pela rejeição. Paulo e Barnabé o fazem em At 13:51 (cf. At 18:6). Costuma-se dizer que judeus piedosos faziam o mesmo ao voltar de terras gentias; o paralelo é provável, mas as fontes antigas não o descrevem com clareza."
+   }
+  ]
+ },
+ "Mat.10.15": {
+  "t": "Em verdade lhes digo: no dia do juízo haverá menos rigor para a terra de Sodoma e Gomorra do que para aquela cidade.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "haverá menos rigor",
+    "termo": "ἀνεκτότερον ἔσται (anektoteron estai)",
+    "titulo": "anektos",
+    "texto": "Lit. “será mais suportável”. A comparação supõe graus de juízo conforme a luz recebida (cf. 11:22-24)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Sodoma e Gomorra",
+    "termo": "Σοδόμων καὶ Γομόρρων",
+    "titulo": "exemplo de juízo",
+    "texto": "Cidades destruídas por fogo do céu (Gn 19:24-28), tornadas no AT e no NT o exemplo máximo do juízo de Deus (Is 1:9; Jd 7). Rejeitar os mensageiros do Reino é mais grave que o pecado delas."
+   }
+  ]
+ },
+ "Mat.10.16": {
+  "t": "Eis que eu os envio como ovelhas no meio de lobos. Portanto, sejam prudentes como as serpentes e sem malícia como as pombas.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "prudentes",
+    "termo": "φρόνιμοι (phronimoi)",
+    "titulo": "phronimos",
+    "texto": "“Sensato, astuto, previdente”. Em Gn 3:1 (Septuaginta), a serpente é chamada phronimōtatos, “a mais astuta”. Aqui a qualidade é positiva: saber discernir o perigo sem cair na ingenuidade."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "sem malícia",
+    "termo": "ἀκέραιοι (akeraioi)",
+    "titulo": "akeraios, raro",
+    "texto": "Lit. “sem mistura”, como metal puro ou vinho não adulterado (só aqui, em Rm 16:19 e Fp 2:15). “Simples” (ARC) hoje pode soar como “ingênuo”; “sem malícia” guarda a ideia de pureza de intenção. A prudência não deve virar esperteza enganosa."
+   }
+  ]
+ },
+ "Mat.10.17": {
+  "t": "Tenham cuidado com os homens, pois eles os entregarão aos tribunais e os açoitarão nas suas sinagogas.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "tribunais",
+    "termo": "συνέδρια (synedria)",
+    "titulo": "synedrion",
+    "texto": "Aqui são os conselhos locais que julgavam questões nas cidades judaicas, e não o Sinédrio de Jerusalém (26:59). Por isso o plural e “tribunais”."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "os açoitarão nas suas sinagogas",
+    "termo": "ἐν ταῖς συναγωγαῖς αὐτῶν μαστιγώσουσιν ὑμᾶς",
+    "titulo": "o açoite",
+    "texto": "A sinagoga tinha autoridade disciplinar; o castigo máximo era de quarenta açoites (Dt 25:2-3), aplicados como trinta e nove para não exceder o limite. Paulo o sofreu cinco vezes (2Co 11:24)."
+   }
+  ]
+ },
+ "Mat.10.18": {
+  "t": "Por minha causa vocês serão levados diante de governadores e reis, para dar testemunho a eles e aos gentios.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "a eles e aos gentios",
+    "termo": "αὐτοῖς καὶ τοῖς ἔθνεσιν",
+    "titulo": "a quem?",
+    "texto": "“A eles” pode ser os governadores e reis, ou os judeus que os entregaram (v. 17). Em qualquer caso, o horizonte já ultrapassa a missão imediata a Israel (v. 5): os vv. 17-22 descrevem a vida dos discípulos depois da Páscoa (cf. 24:9-14)."
+   }
+  ]
+ },
+ "Mat.10.19": {
+  "t": "Mas, quando os entregarem, não se preocupem com o modo ou com o que vão falar, pois naquela hora lhes será dado o que falar.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "não se preocupem",
+    "termo": "μὴ μεριμνήσητε (mē merimnēsēte)",
+    "titulo": "merimnaō",
+    "texto": "O verbo da ansiedade proibida em 6:25-34. A mesma confiança no Pai que alimenta as aves vale diante dos tribunais. Não é proibição de preparar-se, mas de deixar-se dominar pelo medo."
+   }
+  ]
+ },
+ "Mat.10.20": {
+  "t": "Porque não serão vocês que estarão falando, mas o Espírito do Pai de vocês é que falará por meio de vocês.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "o Espírito do Pai de vocês",
+    "termo": "τὸ πνεῦμα τοῦ πατρὸς ὑμῶν",
+    "titulo": "expressão única",
+    "texto": "Expressão que só aparece aqui; é o Espírito Santo (Mc 13:11; Lc 12:12). Os discípulos perseguidos são filhos de um Pai que não os abandona."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "por meio de vocês",
+    "termo": "ἐν ὑμῖν (en hymin)",
+    "titulo": "en",
+    "texto": "Lit. “em vocês”. O Espírito fala dentro deles e através deles. “Por meio de” deixa clara a função; “em vocês” também é possível."
+   }
+  ]
+ },
+ "Mat.10.21": {
+  "t": "O irmão entregará à morte o próprio irmão, e o pai, o filho; os filhos se levantarão contra os pais e os farão morrer.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "os filhos se levantarão contra os pais",
+    "termo": "ἐπαναστήσονται τέκνα ἐπὶ γονεῖς",
+    "titulo": "Miqueias 7:6",
+    "texto": "Alusão a Mq 7:6, citado em 10:35-36. Em Miqueias, a desagregação da família é sinal da corrupção do tempo; aqui, a divisão vem da lealdade a Jesus. Epanistēmi (“levantar-se contra”) é raro (aqui e em Mc 13:12)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "os farão morrer",
+    "termo": "θανατώσουσιν αὐτούς (thanatōsousin autous)",
+    "titulo": "thanatoō",
+    "texto": "“Entregar à morte, fazer executar”: a morte viria pela denúncia às autoridades, não necessariamente pelas mãos dos próprios filhos."
+   }
+  ]
+ },
+ "Mat.10.22": {
+  "t": "Vocês serão odiados por todos por causa do meu nome. Mas quem perseverar até o fim será salvo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "até o fim",
+    "termo": "εἰς τέλος (eis telos)",
+    "titulo": "que fim?",
+    "texto": "Pode ser o fim da vida do discípulo ou o fim desta era (24:13-14). A primeira leitura combina com o v. 21, que fala de morte. As duas se encontram: quem permanece fiel até morrer ou até a volta de Cristo será salvo."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "será salvo",
+    "termo": "σωθήσεται (sōthēsetai)",
+    "titulo": "salvação final",
+    "texto": "Não é promessa de escapar da morte (v. 21), mas da salvação no juízo final. A perseverança é a marca de quem de fato pertence a Cristo."
+   }
+  ]
+ },
+ "Mat.10.23": {
+  "t": "Quando os perseguirem numa cidade, fujam para outra. Pois em verdade lhes digo: vocês não terminarão de percorrer as cidades de Israel antes que venha o Filho do Homem.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "antes que venha o Filho do Homem",
+    "termo": "ἕως ἂν ἔλθῃ ὁ υἱὸς τοῦ ἀνθρώπου",
+    "titulo": "um dos versículos mais difíceis",
+    "texto": "As principais leituras: (1) A. Schweitzer entendeu que Jesus esperava a sua vinda final antes de terminar essa missão, e se enganou; a leitura não se harmoniza com o restante do Evangelho, que prevê missão a todas as nações antes do fim (24:14; 28:19). (2) A “vinda” é a vindicação do Filho do Homem na ressurreição e entronização (28:18; cf. Dn 7:13-14, em que o “filho de homem” vem até Deus). (3) A vinda em juízo sobre Jerusalém no ano 70 (cf. 24:30, 34; R. T. France). (4) A missão a Israel continuará, inacabada, até a volta de Cristo. A tradução é literal e não decide; as leituras (2) a (4) são as mais defendidas hoje.",
+    "revisar": true
+   },
+   {
+    "tipo": "tn",
+    "ancora": "terminarão de percorrer",
+    "termo": "οὐ μὴ τελέσητε (ou mē telesēte)",
+    "titulo": "teleō",
+    "texto": "Lit. “de modo nenhum completarão as cidades de Israel”. O verbo pode significar terminar de visitar todas ou concluir a missão nelas. A dupla negação ou mē é enfática."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "fujam para outra",
+    "termo": "φεύγετε εἰς τὴν ἑτέραν",
+    "titulo": "heteran ou allēn",
+    "texto": "O texto crítico traz tēn heteran; o Textus Receptus e o Texto Bizantino, tēn allēn. As duas significam “outra”, e nenhum dos textos-base traz frase a mais aqui. Alguns manuscritos acrescentam uma frase sobre fugir de novo se forem perseguidos na outra cidade; ela não está em nenhuma das edições."
+   }
+  ]
+ },
+ "Mat.10.24": {
+  "t": "O discípulo não está acima do seu mestre, nem o escravo acima do seu senhor.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "escravo",
+    "termo": "δοῦλος (doulos)",
+    "titulo": "doulos: aqui “escravo”",
+    "texto": "A APV usa “servo” para doulos (ver nota em 8:9), mas “escravo” quando o texto põe o doulos diante do seu senhor como figura da relação de dono e propriedade. Aqui a comparação depende exatamente disso: o escravo não tem posição acima do dono e partilha a sorte da casa (v. 25)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "senhor",
+    "termo": "κύριον (kyrion)",
+    "titulo": "kyrios",
+    "texto": "Aqui kyrios é o dono do escravo, e por isso a minúscula. A aplicação a Jesus é clara (v. 25)."
+   }
+  ]
+ },
+ "Mat.10.25": {
+  "t": "Basta ao discípulo ser como o seu mestre, e ao escravo, como o seu senhor. Se chamaram de Belzebu o dono da casa, quanto mais os membros da casa dele!",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Belzebu",
+    "termo": "Βεελζεβούλ (Beelzeboul)",
+    "titulo": "Beelzeboul",
+    "texto": "Nome dado ao chefe dos demônios (12:24). Pode vir de Baal-Zebub, “senhor das moscas”, deus de Ecrom (2Rs 1:2), ou de Baal-zebul, “senhor da morada”. A segunda forma combina com o jogo de palavras deste versículo: se o “dono da casa” (oikodespotēs) foi chamado “senhor da morada”, que dirão dos da casa? A forma Beelzebub, da Vulgata, deu o português “Belzebu”, mantido por ser o nome tradicional."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Basta",
+    "termo": "ἀρκετόν (arketon)",
+    "titulo": "arketos, raro",
+    "texto": "“Suficiente” (só aqui, em 6:34 e 1Pe 4:3). O discípulo deve contentar-se em partilhar a sorte do mestre, inclusive a rejeição."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "os membros da casa dele",
+    "termo": "τοὺς οἰκιακοὺς αὐτοῦ (tous oikiakous autou)",
+    "titulo": "oikiakos, raro",
+    "texto": "“Os da casa, os familiares” (só aqui e no v. 36). Os discípulos são a família de Jesus (12:49-50)."
+   }
+  ]
+ },
+ "Mat.10.26": {
+  "t": "Portanto, não tenham medo deles, pois não há nada encoberto que não venha a ser revelado, nem oculto que não venha a ser conhecido.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "não há nada encoberto que não venha a ser revelado",
+    "termo": "οὐδὲν γάρ ἐστιν κεκαλυμμένον ὃ οὐκ ἀποκαλυφθήσεται",
+    "titulo": "o que será revelado",
+    "texto": "Aqui, ligado ao v. 27, o sentido principal é que a mensagem de Jesus, agora restrita a poucos, será proclamada a todos; ninguém conseguirá abafá-la. Também há a ideia de que o juízo revelará a verdade sobre todos (cf. Lc 12:2-3)."
+   }
+  ]
+ },
+ "Mat.10.27": {
+  "t": "O que eu lhes digo na escuridão, digam à luz do dia; e o que vocês ouvem ao pé do ouvido, proclamem dos terraços.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "terraços",
+    "termo": "δωμάτων (dōmatōn)",
+    "titulo": "dōma",
+    "texto": "As casas da Palestina tinham teto plano, usado como terraço. Era o lugar mais público para anunciar algo à vizinhança. “Telhados” (ARC) faz pensar em telhas inclinadas."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "ao pé do ouvido",
+    "termo": "εἰς τὸ οὖς (eis to ous)",
+    "titulo": "“ao ouvido”",
+    "texto": "Lit. “ao ouvido”: o que é dito em segredo, em voz baixa."
+   }
+  ]
+ },
+ "Mat.10.28": {
+  "t": "Não tenham medo dos que matam o corpo, mas não podem matar a alma. Temam, antes, aquele que pode destruir tanto a alma como o corpo no inferno.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "alma",
+    "termo": "ψυχήν (psychēn)",
+    "titulo": "psychē",
+    "texto": "Psychē pode ser “vida” (v. 39) ou “alma”, a pessoa naquilo que sobrevive à morte do corpo. Aqui o contraste com o corpo pede “alma”: os homens podem tirar a vida física, mas não alcançam o que a pessoa é diante de Deus."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "aquele que pode destruir",
+    "termo": "τὸν δυνάμενον ... ἀπολέσαι",
+    "titulo": "quem deve ser temido?",
+    "texto": "É Deus, juiz de todos, e não o diabo, que não tem esse poder (cf. Lc 12:5; Tg 4:12). “Destruir” (apollymi) no inferno (geenna) é interpretado de dois modos: castigo eterno consciente, leitura histórica da maioria das igrejas (cf. 25:46), ou aniquilação final, defendida por uma minoria (como J. Stott, com reservas). A tradução não suaviza nem decide além do texto."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Não tenham medo",
+    "termo": "μὴ φοβεῖσθε (mē phobeisthe)",
+    "titulo": "forma do verbo",
+    "texto": "Há variação entre presente (phobeisthe) e aoristo (phobēthēte) nas duas ocorrências do verbo, conforme as edições. Sem efeito na tradução."
+   }
+  ]
+ },
+ "Mat.10.29": {
+  "t": "Não se vendem dois pardais por um asse? E, no entanto, nenhum deles cai no chão sem o Pai de vocês.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "asse",
+    "termo": "ἀσσαρίου (assariou)",
+    "titulo": "assarion, raro",
+    "texto": "Moeda romana de bronze, cerca de um dezesseis avos do denário, que era o salário de um dia (20:2). Só aqui e em Lc 12:6, onde cinco pardais custam dois asses."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "sem o Pai de vocês",
+    "termo": "ἄνευ τοῦ πατρὸς ὑμῶν",
+    "titulo": "“sem o Pai”",
+    "texto": "Tradução literal. O grego não diz “conhecimento” nem “vontade”; a ideia é que nada acontece à parte do Pai. Alguns traduzem “sem que o Pai saiba” (cf. Lc 12:6, “nenhum deles é esquecido diante de Deus”), outros “sem a vontade do Pai”. A forma literal não acrescenta nenhuma das duas interpretações."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "cai",
+    "termo": "πεσεῖται (peseitai)",
+    "titulo": "futuro gnômico",
+    "texto": "Lit. “cairá”. O futuro expressa uma verdade geral; em português, o presente."
+   }
+  ]
+ },
+ "Mat.10.30": {
+  "t": "Quanto a vocês, até os cabelos da cabeça estão todos contados.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "estão todos contados",
+    "termo": "πᾶσαι ἠριθμημέναι εἰσίν",
+    "titulo": "perfeito passivo",
+    "texto": "O perfeito indica estado: já estão contados. A passiva subentende Deus como quem conta. Arithmeō é raro (aqui, Lc 12:7 e Ap 7:9)."
+   }
+  ]
+ },
+ "Mat.10.31": {
+  "t": "Portanto, não tenham medo: vocês valem mais do que muitos pardais.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "valem mais",
+    "termo": "διαφέρετε (diapherete)",
+    "titulo": "diapherō",
+    "texto": "“Ser diferente, superar”. Argumento do menor para o maior, como em 6:26 e 12:12."
+   }
+  ]
+ },
+ "Mat.10.32": {
+  "t": "Portanto, todo aquele que me reconhecer publicamente diante dos homens, eu também o reconhecerei diante do meu Pai, que está nos céus.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "me reconhecer publicamente",
+    "termo": "ὁμολογήσει ἐν ἐμοί (homologēsei en emoi)",
+    "titulo": "“confessar em mim”",
+    "texto": "Lit. “confessar em mim” e “eu confessarei nele”, construção que reflete o aramaico. Homologeō é declarar publicamente a lealdade, como numa audiência. “Confessar” é o termo tradicional, mas hoje sugere admitir culpa; por isso “reconhecer publicamente” no primeiro caso e “reconhecer” no segundo."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "eu também o reconhecerei diante do meu Pai",
+    "termo": "ὁμολογήσω κἀγὼ ἐν αὐτῷ ἔμπροσθεν τοῦ πατρός μου",
+    "titulo": "Jesus no juízo",
+    "texto": "Jesus se apresenta como aquele cuja palavra decide o destino das pessoas diante de Deus no juízo (cf. 7:21-23; 25:31-46)."
+   }
+  ]
+ },
+ "Mat.10.33": {
+  "t": "Mas quem me negar diante dos homens, eu também o negarei diante do meu Pai, que está nos céus.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "quem me negar",
+    "termo": "ὅστις ... ἀρνήσηταί με",
+    "titulo": "Pedro",
+    "texto": "O mesmo verbo descreve a negação de Pedro (26:34, 70-75). Muitos intérpretes entendem que a advertência visa a negação definitiva, a apostasia de quem abandona a fé e não volta, e apontam a restauração de Pedro (Jo 21:15-19) como prova de que uma queda seguida de arrependimento não está em vista. Outros leem a frase como advertência que alcança toda negação, inclusive as passageiras, e que deve levar ao arrependimento, como aconteceu com Pedro. O texto não faz essa distinção."
+   }
+  ]
+ },
+ "Mat.10.34": {
+  "t": "Não pensem que eu vim trazer paz à terra; não vim trazer paz, mas espada.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "trazer",
+    "termo": "βαλεῖν (balein)",
+    "titulo": "ballō",
+    "texto": "Lit. “lançar”. Expressão vigorosa: Jesus “lança” sobre a terra algo que divide."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "mas espada",
+    "termo": "ἀλλὰ μάχαιραν (alla machairan)",
+    "titulo": "que espada?",
+    "texto": "Os vv. 35-36 explicam: a espada é a divisão que a lealdade a Jesus provoca, até dentro das famílias. Não é chamado à violência (cf. 26:52). A “paz” que Jesus nega é a tranquilidade sem decisão; a paz com Deus que ele traz (5:9; 10:13) não está em questão."
+   }
+  ]
+ },
+ "Mat.10.35": {
+  "t": "Pois eu vim pôr em conflito o homem com o seu pai, a filha com a sua mãe e a nora com a sua sogra;",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "pôr em conflito",
+    "termo": "διχάσαι (dichasai)",
+    "titulo": "dichazō, hápax",
+    "texto": "Única ocorrência no NT: “dividir em dois, separar”. O resultado inevitável da vinda de Jesus é apresentado como seu propósito, à maneira semítica."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "o homem com o seu pai, a filha com a sua mãe",
+    "termo": "ἄνθρωπον κατὰ τοῦ πατρὸς αὐτοῦ καὶ θυγατέρα κατὰ τῆς μητρὸς αὐτῆς",
+    "titulo": "Miqueias 7:6",
+    "texto": "Citação livre de Mq 7:6, sem fórmula de introdução. Mateus adapta a construção à frase (com o verbo dichazō e a preposição kata) e não segue literalmente nem o hebraico nem a Septuaginta."
+   }
+  ]
+ },
+ "Mat.10.36": {
+  "t": "e os inimigos do homem serão os da sua própria casa.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "os inimigos do homem serão os da sua própria casa",
+    "termo": "ἐχθροὶ τοῦ ἀνθρώπου οἱ οἰκιακοὶ αὐτοῦ",
+    "titulo": "fim da citação",
+    "texto": "Conclui a citação de Mq 7:6 (“os inimigos do homem são os da sua própria casa”). O grego não tem verbo; “serão” acompanha o futuro dos vv. 21-22."
+   }
+  ]
+ },
+ "Mat.10.37": {
+  "t": "Quem ama pai ou mãe mais do que a mim não é digno de mim; e quem ama filho ou filha mais do que a mim não é digno de mim.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "mais do que a mim",
+    "termo": "ὑπὲρ ἐμέ (hyper eme)",
+    "titulo": "Mateus e Lucas",
+    "texto": "Lucas (14:26) traz “quem não odeia pai e mãe”, forma semítica de comparação (cf. Gn 29:30-31). Mateus diz o mesmo de modo explícito: o amor a Jesus deve estar acima do amor à família. Jesus pede para si uma lealdade que o AT reserva a Deus (Dt 33:9)."
+   }
+  ]
+ },
+ "Mat.10.38": {
+  "t": "E quem não toma a sua cruz e não me segue não é digno de mim.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "a sua cruz",
+    "termo": "τὸν σταυρὸν αὐτοῦ",
+    "titulo": "primeira menção da cruz",
+    "texto": "Primeira vez que a cruz aparece em Mateus, antes de qualquer anúncio da morte de Jesus. O condenado carregava a trave da própria cruz até o lugar da execução, sob o olhar hostil de todos. A imagem não fala de incômodos comuns, mas da disposição de enfrentar rejeição e morte por causa de Jesus (16:24)."
+   }
+  ]
+ },
+ "Mat.10.39": {
+  "t": "Quem acha a sua vida vai perdê-la, e quem perde a sua vida por minha causa vai achá-la.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "vida",
+    "termo": "ψυχήν (psychēn)",
+    "titulo": "psychē",
+    "texto": "A mesma palavra traduzida por “alma” no v. 28. Aqui o paralelo pede “vida”: quem se agarra à vida presente perde a vida verdadeira; quem a entrega por Jesus a encontra. Os dois sentidos estão juntos no jogo de palavras."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "acha",
+    "termo": "ὁ εὑρών (ho heurōn)",
+    "titulo": "aoristo",
+    "texto": "Lit. “o que achou”. O particípio aoristo descreve quem fez a escolha de garantir a própria vida."
+   }
+  ]
+ },
+ "Mat.10.40": {
+  "t": "Quem recebe vocês recebe a mim; e quem me recebe recebe aquele que me enviou.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "recebe a mim",
+    "termo": "ἐμὲ δέχεται (eme dechetai)",
+    "titulo": "o enviado",
+    "texto": "Princípio conhecido no judaísmo: “o enviado de um homem é como o próprio homem” (Mishná, Berakhot 5:5). Os discípulos representam Jesus, e Jesus representa o Pai. É a base do sentido de apostolos (v. 2)."
+   }
+  ]
+ },
+ "Mat.10.41": {
+  "t": "Quem recebe um profeta por ser profeta receberá a recompensa de profeta; e quem recebe um justo por ser justo receberá a recompensa de justo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "por ser profeta",
+    "termo": "εἰς ὄνομα προφήτου (eis onoma prophētou)",
+    "titulo": "“em nome de profeta”",
+    "texto": "Lit. “em nome de profeta”: por causa da sua condição de profeta. Expressão semítica. Igualmente “em nome de justo” e “em nome de discípulo” (v. 42)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "a recompensa de profeta",
+    "termo": "μισθὸν προφήτου (misthon prophētou)",
+    "titulo": "que recompensa?",
+    "texto": "Pode ser a recompensa que o profeta recebe (quem o acolhe participa dela) ou a recompensa que o profeta traz. A primeira leitura é a mais aceita. “Profetas” e “justos” podem designar categorias de cristãos itinerantes ou simplesmente discípulos fiéis (cf. 13:17; 23:29, 34)."
+   }
+  ]
+ },
+ "Mat.10.42": {
+  "t": "E quem der de beber, ainda que seja só um copo de água fresca, a um destes pequeninos por ser discípulo, em verdade lhes digo: de modo nenhum perderá a sua recompensa.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "pequeninos",
+    "termo": "τῶν μικρῶν τούτων (tōn mikrōn toutōn)",
+    "titulo": "os pequenos",
+    "texto": "Em Mateus, “pequeninos” são os discípulos, vistos como gente sem importância aos olhos do mundo (18:6, 10, 14; cf. 25:40). Não se refere a crianças."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "água fresca",
+    "termo": "ψυχροῦ (psychrou)",
+    "titulo": "“de fria”",
+    "texto": "Lit. “um copo de fria”; “água” está subentendido. O menor gesto de acolhida não fica sem recompensa."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "por ser discípulo",
+    "termo": "εἰς ὄνομα μαθητοῦ (eis onoma mathētou)",
+    "titulo": "“em nome de discípulo”",
+    "texto": "Ver nota no v. 41. A forma é a mesma de “por ser profeta” e “por ser justo”. No contexto, trata-se de discípulo de Jesus."
+   }
+  ]
+ },
+ "Mat.11.1": {
+  "t": "Quando Jesus terminou de dar instruções aos seus doze discípulos, partiu dali para ensinar e pregar nas cidades da região.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Quando Jesus terminou",
+    "termo": "Καὶ ἐγένετο ὅτε ἐτέλεσεν ὁ Ἰησοῦς",
+    "titulo": "fim do segundo discurso",
+    "texto": "Fórmula com que Mateus encerra cada um dos cinco grandes discursos de Jesus (7:28; 13:53; 19:1; 26:1). Aqui fecha o discurso da missão (cap. 10)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "nas cidades da região",
+    "termo": "ἐν ταῖς πόλεσιν αὐτῶν (en tais polesin autōn)",
+    "titulo": "“nas cidades deles”",
+    "texto": "Lit. “nas cidades deles”. O pronome não se refere aos discípulos, mas aos habitantes da Galileia em geral, como em “as sinagogas deles” (9:35). “Da região” evita a confusão."
+   }
+  ]
+ },
+ "Mat.11.2": {
+  "t": "João, que estava na prisão, ouviu falar das obras do Cristo e mandou os seus discípulos",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "na prisão",
+    "termo": "ἐν τῷ δεσμωτηρίῳ (en tō desmōtēriō)",
+    "titulo": "a prisão de João",
+    "texto": "A prisão foi mencionada em 4:12 e é narrada em 14:3-5. Segundo Flávio Josefo (Antiguidades 18.5.2), João ficou preso na fortaleza de Maqueronte, a leste do mar Morto."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "as obras do Cristo",
+    "termo": "τὰ ἔργα τοῦ Χριστοῦ",
+    "titulo": "o narrador e João",
+    "texto": "É o narrador quem chama Jesus de “o Cristo”, isto é, o Messias; João pergunta justamente se Jesus é aquele que havia de vir. “As obras” resumem os caps. 8-9 e voltam no fim da seção (v. 19)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "mandou os seus discípulos",
+    "termo": "πέμψας διὰ τῶν μαθητῶν αὐτοῦ",
+    "titulo": "“por meio de” ou “dois”",
+    "texto": "O texto crítico traz dia (“enviou por meio dos seus discípulos”); o Textus Receptus e o Texto Bizantino, dyo (“enviou dois dos seus discípulos”), como em Lc 7:19. As palavras são parecidas em grego, e a forma bizantina parece ter vindo de Lucas."
+   }
+  ]
+ },
+ "Mat.11.3": {
+  "t": "para lhe perguntar: “Você é aquele que havia de vir, ou devemos esperar outro?”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "aquele que havia de vir",
+    "termo": "ὁ ἐρχόμενος (ho erchomenos)",
+    "titulo": "“o que vem”",
+    "texto": "Lit. “o que vem”. João tinha anunciado “aquele que vem depois de mim” (3:11), e a expressão lembra o Sl 118:26 (“bendito o que vem em nome do Senhor”, cf. 21:9) e Ml 3:1. Era um modo de falar do libertador esperado."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "ou devemos esperar outro?",
+    "termo": "ἢ ἕτερον προσδοκῶμεν",
+    "titulo": "a dúvida de João",
+    "texto": "João tinha anunciado um juiz com machado e fogo (3:10-12), e Jesus curava e comia com pecadores, enquanto o próprio João continuava preso. A pergunta mostra uma dúvida real, não apenas uma pergunta feita para instruir os discípulos, como alguns pais da Igreja propuseram. Jesus responde com as Escrituras (vv. 4-6)."
+   }
+  ]
+ },
+ "Mat.11.4": {
+  "t": "Jesus lhes respondeu: “Vão e contem a João o que vocês estão ouvindo e vendo:",
+  "n": []
+ },
+ "Mat.11.5": {
+  "t": "cegos voltam a ver, coxos andam, leprosos são purificados, surdos ouvem, mortos são ressuscitados, e aos pobres é anunciado o evangelho.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "cegos voltam a ver, coxos andam",
+    "termo": "τυφλοὶ ἀναβλέπουσιν καὶ χωλοὶ περιπατοῦσιν",
+    "titulo": "Isaías",
+    "texto": "A resposta junta frases de Isaías sobre o tempo da salvação: cegos, surdos, coxos (Is 35:5-6), mortos que revivem (Is 26:19) e boas notícias aos pobres (Is 61:1). Tudo isso aconteceu nos caps. 8-9. Um texto de Qumran (4Q521) associa ao Messias uma lista parecida, incluindo ressuscitar mortos e anunciar boas notícias aos pobres. O juízo de fogo que João esperava não é negado, mas o tempo presente é de salvação (cf. Is 61:1-2)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "aos pobres é anunciado o evangelho",
+    "termo": "πτωχοὶ εὐαγγελίζονται (ptōchoi euangelizontai)",
+    "titulo": "passiva",
+    "texto": "Lit. “pobres são evangelizados”. Em português a passiva com sujeito pessoal soaria estranha; a frase foi construída com “é anunciado o evangelho”. É o ponto alto da lista, como em Is 61:1."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "voltam a ver",
+    "termo": "ἀναβλέπουσιν (anablepousin)",
+    "titulo": "anablepō",
+    "texto": "“Recuperar a vista” ou simplesmente “ver”. “Voltam a ver” guarda o prefixo ana- (“de novo”)."
+   }
+  ]
+ },
+ "Mat.11.6": {
+  "t": "E bem-aventurado é aquele que não encontra em mim motivo de tropeço.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "não encontra em mim motivo de tropeço",
+    "termo": "μὴ σκανδαλισθῇ ἐν ἐμοί (mē skandalisthē en emoi)",
+    "titulo": "skandalizomai",
+    "texto": "Skandalon é a armadilha ou a pedra em que se tropeça. Skandalizomai é “ofender-se” a ponto de cair, de abandonar a fé. Jesus avisa que o seu modo de ser Messias pode decepcionar quem esperava outra coisa, como talvez o próprio João."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "bem-aventurado",
+    "termo": "μακάριος (makarios)",
+    "titulo": "makarios",
+    "texto": "A mesma palavra das bem-aventuranças (5:3-11). Declara a felicidade que vem de Deus, não um sentimento passageiro."
+   }
+  ]
+ },
+ "Mat.11.7": {
+  "t": "Enquanto eles se iam, Jesus começou a falar às multidões a respeito de João: “O que vocês foram ver no deserto? Um caniço agitado pelo vento?",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Um caniço agitado pelo vento",
+    "termo": "κάλαμον ὑπὸ ἀνέμου σαλευόμενον",
+    "titulo": "a imagem",
+    "texto": "Os caniços cresciam às margens do Jordão, onde João batizava. Um caniço que se dobra a qualquer vento é imagem de quem muda de opinião conforme a pressão. João não era assim: denunciou até Herodes (14:4). G. Theissen propôs que haveria também uma alusão a moedas de Herodes Antipas com a figura de um caniço; a hipótese é possível, mas não necessária."
+   }
+  ]
+ },
+ "Mat.11.8": {
+  "t": "Se não, o que vocês foram ver? Um homem vestido com roupas finas? Ora, os que usam roupas finas estão nos palácios dos reis.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "roupas finas",
+    "termo": "μαλακοῖς (malakois)",
+    "titulo": "“macias”",
+    "texto": "Lit. “em coisas macias”: tecidos finos e caros. O Textus Receptus e o Texto Bizantino acrescentam himatiois (“roupas”), que o português já precisa. Contraste com a roupa de pelo de camelo de João (3:4)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "palácios dos reis",
+    "termo": "τοῖς οἴκοις τῶν βασιλέων",
+    "titulo": "“casas dos reis”",
+    "texto": "Lit. “nas casas dos reis”. Há ironia: João estava, sim, num palácio de rei, mas como prisioneiro."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Se não, o que vocês foram ver?",
+    "termo": "ἀλλὰ τί ἐξήλθατε ἰδεῖν",
+    "titulo": "alla",
+    "texto": "Lit. “Mas o que saístes a ver?”. O alla introduz a pergunta seguinte depois de descartar a anterior; “se não” dá esse sentido."
+   }
+  ]
+ },
+ "Mat.11.9": {
+  "t": "Então, por que vocês saíram? Para ver um profeta? Sim, eu lhes digo, e muito mais do que um profeta.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "Então, por que vocês saíram? Para ver um profeta?",
+    "termo": "ἀλλὰ τί ἐξήλθατε; προφήτην ἰδεῖν;",
+    "titulo": "a ordem das palavras",
+    "texto": "O SBLGNT e Westcott-Hort leem “Mas por que saístes? Para ver um profeta?” (ti exēlthate; prophētēn idein?). O NA28, o THGNT, o Textus Receptus e o Texto Bizantino leem “Mas o que saístes a ver? Um profeta?” (ti exēlthate idein? prophētēn?), como nos vv. 7-8. A forma do SBLGNT quebra o paralelismo, o que pode indicar que é original (os copistas tenderiam a igualar), mas também pode ser erro. A APV segue o SBLGNT; o sentido final é o mesmo.",
+    "revisar": true
+   },
+   {
+    "tipo": "tn",
+    "ancora": "muito mais do que um profeta",
+    "termo": "περισσότερον προφήτου (perissoteron prophētou)",
+    "titulo": "perissoteron",
+    "texto": "“Algo mais que profeta”. João não só anuncia o futuro: ele mesmo é anunciado pela profecia (v. 10)."
+   }
+  ]
+ },
+ "Mat.11.10": {
+  "t": "Este é aquele de quem está escrito: ‘Eis que eu envio o meu mensageiro à tua frente; ele preparará o teu caminho diante de ti’.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Eis que eu envio o meu mensageiro à tua frente",
+    "termo": "ἰδοὺ ἐγὼ ἀποστέλλω τὸν ἄγγελόν μου πρὸ προσώπου σου",
+    "titulo": "Malaquias 3:1 e Êxodo 23:20",
+    "texto": "A primeira parte segue a Septuaginta de Êx 23:20 (o anjo que vai à frente de Israel no deserto); a segunda, Ml 3:1. Em Malaquias, Deus diz que o mensageiro preparará o caminho “diante de mim”; aqui o texto diz “diante de ti”. Se o mensageiro prepara o caminho de Deus, e o caminho preparado é o de Jesus, a vinda de Jesus é a vinda de Deus."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "mensageiro",
+    "termo": "ἄγγελον (angelon)",
+    "titulo": "angelos",
+    "texto": "Angelos pode ser “anjo” ou “mensageiro” humano. Aqui designa João, e por isso “mensageiro”. Em Ml 3:1 o hebraico é mal’akhi, “meu mensageiro”, que também deu nome ao livro."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "à tua frente",
+    "termo": "πρὸ προσώπου σου (pro prosōpou sou)",
+    "titulo": "“diante da tua face”",
+    "texto": "Lit. “diante da tua face”, expressão hebraica para “à frente de alguém”. Na citação, Deus fala àquele cujo caminho é preparado, isto é, a Jesus; por isso “tu”, como nas outras palavras do Pai ao Filho."
+   }
+  ]
+ },
+ "Mat.11.11": {
+  "t": "Em verdade lhes digo: entre os nascidos de mulher, não surgiu ninguém maior do que João Batista; no entanto, o menor no Reino dos céus é maior do que ele.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "nascidos de mulher",
+    "termo": "γεννητοῖς γυναικῶν (gennētois gynaikōn)",
+    "titulo": "expressão bíblica",
+    "texto": "Modo semítico de dizer “seres humanos” (Jó 14:1; 15:14). Gennētos só aqui e em Lc 7:28."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "o menor no Reino dos céus é maior do que ele",
+    "termo": "ὁ δὲ μικρότερος ἐν τῇ βασιλείᾳ τῶν οὐρανῶν μείζων αὐτοῦ ἐστιν",
+    "titulo": "maior em quê?",
+    "texto": "Não se trata de valor moral nem de exclusão de João da salvação (8:11). João está no limite entre as duas eras (v. 13); o menor discípulo que vive o tempo do Reino inaugurado por Jesus tem um privilégio maior que o do maior profeta, que apenas o anunciou (13:16-17). Alguns pais da Igreja entenderam o “menor” como o próprio Jesus, “mais novo” que João, mas a leitura é pouco provável."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "surgiu",
+    "termo": "ἐγήγερται (egēgertai)",
+    "titulo": "egeirō",
+    "texto": "Lit. “foi levantado”: suscitado por Deus, como se diz dos profetas e juízes (Jz 2:16; Dt 18:15)."
+   }
+  ]
+ },
+ "Mat.11.12": {
+  "t": "Desde os dias de João Batista até agora, o Reino dos céus sofre violência, e os violentos procuram arrebatá-lo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "sofre violência, e os violentos procuram arrebatá-lo",
+    "termo": "βιάζεται, καὶ βιασταὶ ἁρπάζουσιν αὐτήν",
+    "titulo": "um texto muito discutido",
+    "texto": "Biazetai pode ser passivo (“sofre violência”) ou médio (“avança com força”). Biastēs (hápax) é “homem violento”, e harpazō é “arrebatar, saquear”. Leituras principais: (1) negativa: o Reino é atacado por adversários, como Herodes, que prendeu João, e os que se opõem a Jesus; (2) positiva: o Reino avança com poder, e pessoas decididas se apoderam dele com empenho (cf. Lc 16:16, “todos se esforçam por entrar nele”). A APV segue a primeira, porque biastēs e harpazō têm em geral sentido negativo e o contexto fala de rejeição (vv. 16-19) e da prisão de João. O presente “arrebatam” foi traduzido por “procuram arrebatar”, valor de tentativa que o presente grego pode ter, porque o Reino não pode ser de fato tomado por eles.",
+    "revisar": true
+   }
+  ]
+ },
+ "Mat.11.13": {
+  "t": "Pois todos os Profetas e a Lei profetizaram até João.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "os Profetas e a Lei",
+    "termo": "οἱ προφῆται καὶ ὁ νόμος",
+    "titulo": "ordem invertida",
+    "texto": "A ordem comum é “a Lei e os Profetas” (5:17; 7:12; 22:40). Aqui os Profetas vêm primeiro, e até a Lei é dita “profetizar”: toda a Escritura aponta para o tempo que chega com João e Jesus."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "até João",
+    "termo": "ἕως Ἰωάννου (heōs Iōannou)",
+    "titulo": "inclusivo ou exclusivo?",
+    "texto": "Não diz que a Lei deixa de valer (5:17-18), mas que o tempo da profecia e da espera chega ao seu ponto final com João, que aponta para o cumprimento. Discute-se se João pertence à era antiga ou já à nova; o v. 11 sugere que está no limiar."
+   }
+  ]
+ },
+ "Mat.11.14": {
+  "t": "E, se vocês estão dispostos a aceitar, ele é o Elias que havia de vir.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "ele é o Elias que havia de vir",
+    "termo": "αὐτός ἐστιν Ἠλίας ὁ μέλλων ἔρχεσθαι",
+    "titulo": "Malaquias 4:5",
+    "texto": "Ml 4:5-6 (3:23-24 no hebraico) promete o envio do profeta Elias antes do grande dia do Senhor. Jesus identifica João com esse Elias (cf. 17:10-13). Em Jo 1:21, João nega ser Elias: não é Elias em pessoa, mas veio “no espírito e no poder de Elias” (Lc 1:17)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "se vocês estão dispostos a aceitar",
+    "termo": "εἰ θέλετε δέξασθαι",
+    "titulo": "aceitar o quê?",
+    "texto": "Lit. “se quereis receber”. O objeto não é dito: aceitar esta afirmação sobre João, ou aceitar o próprio João e a sua mensagem. Aceitar que João é Elias implica aceitar que Jesus é aquele que vem depois dele."
+   }
+  ]
+ },
+ "Mat.11.15": {
+  "t": "Quem tem ouvidos, ouça.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Quem tem ouvidos, ouça",
+    "termo": "ὁ ἔχων ὦτα ἀκουέτω",
+    "titulo": "chamado à atenção",
+    "texto": "Fórmula que pede atenção para algo que exige discernimento (13:9, 43). Ecoa a linguagem dos profetas sobre ouvidos que não ouvem (Is 6:9-10; Ez 12:2)."
+   }
+  ]
+ },
+ "Mat.11.16": {
+  "t": "A que vou comparar esta geração? É semelhante a crianças sentadas nas praças, que gritam para os outros:",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "esta geração",
+    "termo": "τὴν γενεὰν ταύτην (tēn genean tautēn)",
+    "titulo": "genea",
+    "texto": "Em Mateus, “esta geração” designa o povo contemporâneo de Jesus, sobretudo na sua recusa em crer (12:39-45; 23:36). Não se refere a todo o povo judeu de todos os tempos."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "para os outros",
+    "termo": "τοῖς ἑτέροις (tois heterois)",
+    "titulo": "“os outros” ou “os companheiros”",
+    "texto": "O texto crítico traz tois heterois (“aos outros”); o Textus Receptus e o Texto Bizantino, tois hetairois autōn (“aos seus companheiros”). As duas palavras eram pronunciadas de modo parecido na época. Sem diferença importante de sentido."
+   }
+  ]
+ },
+ "Mat.11.17": {
+  "t": "‘Tocamos flauta para vocês, e vocês não dançaram; cantamos lamentos, e vocês não bateram no peito’.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Tocamos flauta para vocês",
+    "termo": "ηὐλήσαμεν ... ἐθρηνήσαμεν",
+    "titulo": "brincadeira de casamento e de enterro",
+    "texto": "Crianças brincam de festa de casamento (flauta e dança) e de enterro (lamento e gesto de luto), e reclamam que os outros não entram em nenhuma das brincadeiras. Os vv. 18-19 explicam: João, austero, foi rejeitado; Jesus, que come e bebe, também. Discute-se quem são as crianças que chamam: a geração que exige que João e Jesus dancem conforme a sua música (leitura mais comum), ou João e Jesus que chamam a geração sem resposta. Aulēō é raro (aqui, Lc 7:32 e 1Co 14:7)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "bateram no peito",
+    "termo": "ἐκόψασθε (ekopsasthe)",
+    "titulo": "koptomai",
+    "texto": "Lit. “bater-se”, gesto de luto (24:30; Lc 23:27). “Bater no peito” deixa o gesto claro."
+   }
+  ]
+ },
+ "Mat.11.18": {
+  "t": "Pois veio João, que não comia nem bebia, e dizem: ‘Ele tem demônio’.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "não comia nem bebia",
+    "termo": "μήτε ἐσθίων μήτε πίνων",
+    "titulo": "exagero",
+    "texto": "Não significa jejum absoluto, mas vida austera, sem banquetes nem vinho (3:4; Lc 1:15). O contraste com o v. 19 é intencional."
+   }
+  ]
+ },
+ "Mat.11.19": {
+  "t": "Veio o Filho do Homem, que come e bebe, e dizem: ‘Eis aí um comilão e beberrão, amigo de cobradores de impostos e de pecadores’. Mas a sabedoria é justificada pelas suas obras.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "comilão e beberrão",
+    "termo": "φάγος καὶ οἰνοπότης (phagos kai oinopotēs)",
+    "titulo": "duas palavras raras",
+    "texto": "Phagos (“glutão”) e oinopotēs (“bebedor de vinho”) só aparecem aqui e em Lc 7:34. A acusação pode ecoar Dt 21:20, onde o filho rebelde, “glutão e beberrão”, devia ser apedrejado; nesse caso, a calúnia seria grave."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "a sabedoria é justificada",
+    "termo": "ἐδικαιώθη ἡ σοφία (edikaiōthē hē sophia)",
+    "titulo": "dikaioō",
+    "texto": "Aqui dikaioō não é “declarar justo um pecador”, mas “mostrar que alguém está certo”, “dar razão”. A APV mantém “justificar”, que em português também tem esse sentido. O aoristo é gnômico, uma verdade geral; daí o presente. A “sabedoria” é a de Deus, que se mostrou nos caminhos de João e de Jesus; muitos veem aqui Jesus identificado com a própria Sabedoria (cf. vv. 25-30; 1Co 1:24)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "pelas suas obras",
+    "termo": "ἀπὸ τῶν ἔργων αὐτῆς",
+    "titulo": "“obras” ou “filhos”",
+    "texto": "O texto crítico traz ergōn (“obras”), com manuscritos antigos como ℵ e B; o Textus Receptus e o Texto Bizantino, teknōn (“filhos”), forma de Lc 7:35. A leitura “obras” forma uma moldura com “as obras do Cristo” no v. 2: as obras de Jesus provam que a sabedoria de Deus está com ele."
+   }
+  ]
+ },
+ "Mat.11.20": {
+  "t": "Então Jesus começou a censurar as cidades em que tinha realizado a maior parte dos seus milagres, porque não se arrependeram:",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "milagres",
+    "termo": "δυνάμεις (dynameis)",
+    "titulo": "dynameis",
+    "texto": "Lit. “poderes”: atos que manifestam o poder de Deus. “Milagres” é o equivalente comum. Também nos vv. 21 e 23."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Então Jesus começou",
+    "termo": "Τότε ἤρξατο (Tote ērxato)",
+    "titulo": "sujeito explicitado",
+    "texto": "O grego diz só “começou”; o nome foi acrescentado para clareza."
+   }
+  ]
+ },
+ "Mat.11.21": {
+  "t": "“Ai de você, Corazim! Ai de você, Betsaida! Porque, se em Tiro e em Sidom tivessem sido realizados os milagres que foram realizados entre vocês, há muito tempo elas teriam se arrependido, vestindo pano de saco e sentando-se na cinza.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Ai de você",
+    "termo": "Οὐαί σοι (Ouai soi)",
+    "titulo": "ouai",
+    "texto": "Interjeição de lamento e de ameaça, comum nos profetas (Is 5:8-22). Mistura tristeza e anúncio de juízo."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Corazim",
+    "termo": "Χοραζίν ... Βηθσαϊδά",
+    "titulo": "as cidades",
+    "texto": "Corazim ficava a uns 3 km ao norte de Cafarnaum; Betsaida, junto ao mar, a leste do Jordão, era a cidade de Pedro, André e Filipe (Jo 1:44). Os Evangelhos não narram milagres em Corazim: Jesus fez muito mais do que foi registrado (Jo 21:25)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Tiro e em Sidom",
+    "termo": "Τύρῳ καὶ Σιδῶνι",
+    "titulo": "cidades pagãs",
+    "texto": "Cidades fenícias, ao norte da Galileia, alvo de oráculos de juízo dos profetas (Is 23; Ez 26-28; Jl 3:4-8). Que elas se arrependeriam é uma comparação que envergonha as cidades judaicas."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "vestindo pano de saco e sentando-se na cinza",
+    "termo": "ἐν σάκκῳ καὶ σποδῷ",
+    "titulo": "“em saco e cinza”",
+    "texto": "Lit. “em saco e cinza”. O saco era um tecido grosseiro de pelo, vestido no luto e no arrependimento; a cinza era posta na cabeça ou servia de assento (Jn 3:6; Dn 9:3). A tradução explicita os gestos."
+   }
+  ]
+ },
+ "Mat.11.22": {
+  "t": "Mas eu lhes digo: no dia do juízo haverá menos rigor para Tiro e Sidom do que para vocês.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "haverá menos rigor",
+    "termo": "ἀνεκτότερον ἔσται (anektoteron estai)",
+    "titulo": "graus de juízo",
+    "texto": "Lit. “será mais suportável”, como em 10:15. Quanto maior a revelação recebida, maior a responsabilidade."
+   }
+  ]
+ },
+ "Mat.11.23": {
+  "t": "E você, Cafarnaum, será elevada até o céu? Até o Hades você descerá! Porque, se em Sodoma tivessem sido realizados os milagres que foram realizados em você, ela teria permanecido até hoje.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Hades",
+    "termo": "ᾅδου (hadou)",
+    "titulo": "Hades",
+    "texto": "Primeira ocorrência em Mateus. Hades é o mundo dos mortos, equivalente grego do Sheol hebraico (a Septuaginta traduz Sheol por hadēs). Não é o mesmo que geenna, o lugar do castigo final (5:22; 10:28), e por isso a APV mantém “Hades”, e não “inferno”. Aqui, em oposição a “céu”, é o ponto mais baixo possível: a humilhação total da cidade orgulhosa."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "será elevada até o céu? Até o Hades você descerá",
+    "termo": "μὴ ἕως οὐρανοῦ ὑψωθήσῃ; ἕως ᾅδου καταβήσῃ",
+    "titulo": "Isaías 14:13-15",
+    "texto": "Eco de Is 14:13-15, a sátira contra o rei da Babilônia que dizia “subirei ao céu” e foi lançado ao Sheol. Cafarnaum, cidade onde Jesus morava (4:13), recebe a sentença de um império arrogante."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "será elevada até o céu?",
+    "termo": "μὴ ἕως οὐρανοῦ ὑψωθήσῃ;",
+    "titulo": "pergunta ou afirmação",
+    "texto": "O texto crítico traz mē ... hypsōthēsē (“por acaso serás elevada até o céu?”) e katabēsē (“descerás”). O Textus Receptus e o Texto Bizantino trazem hē ... hypsōtheisa (“tu, que foste elevada até o céu”) e katabibasthēsē (“serás abatida”). As formas são parecidas em grego. O sentido geral não muda: o orgulho de Cafarnaum termina em humilhação."
+   }
+  ]
+ },
+ "Mat.11.24": {
+  "t": "Mas eu lhes digo que no dia do juízo haverá menos rigor para a terra de Sodoma do que para você.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "a terra de Sodoma",
+    "termo": "γῇ Σοδόμων",
+    "titulo": "Sodoma",
+    "texto": "Ver nota em 10:15. Sodoma, símbolo da maldade e do juízo, estaria em melhor situação no juízo do que a cidade que viu os milagres de Jesus e não se arrependeu."
+   }
+  ]
+ },
+ "Mat.11.25": {
+  "t": "Naquela ocasião, Jesus disse: “Eu te louvo, Pai, Senhor do céu e da terra, porque escondeste estas coisas dos sábios e entendidos e as revelaste às crianças.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Jesus disse",
+    "termo": "ἀποκριθεὶς ὁ Ἰησοῦς εἶπεν",
+    "titulo": "“respondendo, disse”",
+    "texto": "Lit. “respondendo, Jesus disse”. Fórmula semítica para começar a falar, mesmo sem pergunta anterior; aqui pode indicar a reação de Jesus à rejeição descrita nos vv. 16-24."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Eu te louvo",
+    "termo": "ἐξομολογοῦμαί σοι (exomologoumai soi)",
+    "titulo": "exomologeomai",
+    "texto": "Lit. “confesso-te”: reconhecer publicamente, e daí louvar, dar graças. É o verbo dos Salmos de louvor na Septuaginta (Sl 9:1; 138:1). Jesus fala ao Pai com “tu”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "às crianças",
+    "termo": "νηπίοις (nēpiois)",
+    "titulo": "nēpios",
+    "texto": "Nēpios é a criança pequena; em sentido figurado, quem não tem instrução nem prestígio. São os discípulos e os simples que acolhem Jesus, em contraste com os “sábios e entendidos”, os mestres da Lei. O contraste não condena o saber, mas a autossuficiência (cf. Is 29:14; 1Co 1:19-29)."
+   }
+  ]
+ },
+ "Mat.11.26": {
+  "t": "Sim, Pai, porque assim foi do teu agrado.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "porque assim foi do teu agrado",
+    "termo": "ὅτι οὕτως εὐδοκία ἐγένετο ἔμπροσθέν σου",
+    "titulo": "“assim foi boa vontade diante de ti”",
+    "texto": "Lit. “porque assim houve agrado diante de ti”. A expressão “diante de ti” é modo reverente, à maneira judaica, de falar da vontade de Deus. O resultado da pregação não é acaso: corresponde ao propósito do Pai."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Sim, Pai",
+    "termo": "ναὶ ὁ πατήρ (nai ho patēr)",
+    "titulo": "nominativo como vocativo",
+    "texto": "O grego usa o nominativo com artigo (“o Pai”) em função de vocativo, uso comum no NT. Em português, vocativo simples."
+   }
+  ]
+ },
+ "Mat.11.27": {
+  "t": "Todas as coisas me foram entregues por meu Pai. Ninguém conhece o Filho, a não ser o Pai, e ninguém conhece o Pai, a não ser o Filho e aquele a quem o Filho quiser revelá-lo.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Ninguém conhece o Filho, a não ser o Pai",
+    "termo": "οὐδεὶς ἐπιγινώσκει τὸν υἱὸν εἰ μὴ ὁ πατήρ",
+    "titulo": "Pai e Filho",
+    "texto": "Uma das afirmações mais altas sobre Jesus nos Evangelhos sinóticos, tão próxima do estilo de João que é às vezes chamada de “raio joanino” (cf. Jo 10:15; 17:25). O conhecimento entre o Pai e o Filho é mútuo e exclusivo; os outros só conhecem o Pai pela revelação do Filho. A teologia cristã viu aqui a base da relação única do Filho com o Pai, afirmada nos credos."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "conhece",
+    "termo": "ἐπιγινώσκει (epiginōskei)",
+    "titulo": "epiginōskō",
+    "texto": "O prefixo epi- pode reforçar: “conhecer plenamente, intimamente”. Não é só saber a respeito, mas conhecer na relação."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "me foram entregues",
+    "termo": "μοι παρεδόθη (moi paredothē)",
+    "titulo": "paradidōmi",
+    "texto": "O mesmo verbo usado para transmitir uma tradição ou confiar uma autoridade. Pode referir-se ao conhecimento revelado ou a toda a autoridade, como em 28:18; as duas ideias se combinam no contexto."
+   }
+  ]
+ },
+ "Mat.11.28": {
+  "t": "Venham a mim, todos vocês que estão cansados e sobrecarregados, e eu lhes darei descanso.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "cansados e sobrecarregados",
+    "termo": "οἱ κοπιῶντες καὶ πεφορτισμένοι",
+    "titulo": "dois particípios",
+    "texto": "Kopiaō é cansar-se no trabalho pesado; phortizō (raro, só aqui e em Lc 11:46) é carregar um fardo. Em 23:4 os “fardos pesados” são as exigências que os mestres da Lei impõem; o convite inclui esses, sem se limitar a eles: vale para todo peso da vida e do pecado."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Venham a mim",
+    "termo": "Δεῦτε πρός με (Deute pros me)",
+    "titulo": "o convite da Sabedoria",
+    "texto": "Os vv. 28-30 lembram o convite da Sabedoria em Eclesiástico (Sirácida) 51:23-27: “aproximem-se de mim ... ponham o pescoço sob o seu jugo ... eu encontrei muito descanso”. Jesus fala como a Sabedoria de Deus em pessoa (cf. v. 19)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "eu lhes darei descanso",
+    "termo": "κἀγὼ ἀναπαύσω ὑμᾶς (kagō anapausō hymas)",
+    "titulo": "anapauō",
+    "texto": "“Fazer descansar, dar alívio”. O “eu” é enfático. Logo depois (12:1-14) vêm dois conflitos sobre o sábado, o dia de descanso."
+   }
+  ]
+ },
+ "Mat.11.29": {
+  "t": "Tomem sobre vocês o meu jugo e aprendam de mim, porque sou manso e humilde de coração, e vocês encontrarão descanso para a sua alma.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "o meu jugo",
+    "termo": "τὸν ζυγόν μου (ton zygon mou)",
+    "titulo": "imagem do jugo",
+    "texto": "O jugo era a peça de madeira que unia os animais de tração. No judaísmo, falava-se do “jugo da Torá” e do “jugo do Reino dos céus” (Mishná, Avot 3:5; Berakhot 2:2): a submissão à vontade de Deus. Jesus convida a tomar o jugo dele, isto é, o seu ensino e a relação com ele."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "vocês encontrarão descanso para a sua alma",
+    "termo": "εὑρήσετε ἀνάπαυσιν ταῖς ψυχαῖς ὑμῶν",
+    "titulo": "Jeremias 6:16",
+    "texto": "Citação de Jr 6:16, segundo o hebraico (“achareis descanso para a vossa alma”); a Septuaginta tem “purificação”. Em Jeremias, o descanso está em andar nos caminhos antigos de Deus; aqui está em vir a Jesus."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "porque sou manso",
+    "termo": "ὅτι πραΰς εἰμι",
+    "titulo": "“porque” ou “que”",
+    "texto": "Hoti pode dar a razão (“porque sou manso”) ou o conteúdo do que se aprende (“aprendam de mim que sou manso”). A primeira é a mais comum. Praus é a mesma palavra de 5:5 e de 21:5 (o rei que vem “manso”)."
+   }
+  ]
+ },
+ "Mat.11.30": {
+  "t": "Pois o meu jugo é suave, e o meu fardo é leve.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "suave",
+    "termo": "χρηστός (chrēstos)",
+    "titulo": "chrēstos",
+    "texto": "“Bom, agradável, que se ajusta bem”. Um jugo bem feito não fere o animal. O jugo de Jesus não é ausência de exigências (10:38), mas exigência levada com ele, que não esmaga. Elaphros (“leve”) é raro (aqui e em 2Co 4:17)."
+   }
+  ]
+ },
+ "Mat.12.1": {
+  "t": "Naquela ocasião, Jesus atravessou num sábado as plantações de cereais. Os seus discípulos tiveram fome e começaram a arrancar espigas e a comê-las.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "sábado",
+    "termo": "τοῖς σάββασιν (tois sabbasin)",
+    "titulo": "sabbaton",
+    "texto": "Primeira ocorrência em Mateus. Do hebraico shabbat, “cessar, descansar”: o sétimo dia, em que a Lei proibia o trabalho (Êx 20:8-11; Dt 5:12-15), sinal da aliança entre Deus e Israel (Êx 31:13-17). O grego usa muitas vezes o plural (ta sabbata) com sentido de um só dia, como aqui."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "começaram a arrancar espigas",
+    "termo": "ἤρξαντο τίλλειν στάχυας",
+    "titulo": "o que era permitido",
+    "texto": "Arrancar espigas com a mão no campo do vizinho era permitido pela Lei (Dt 23:25). O problema era o dia: os mestres classificavam o gesto como colheita, um dos trabalhos proibidos no sábado (cf. Êx 34:21; a Mishná, Shabbat 7:2, lista trinta e nove categorias de trabalho, entre elas ceifar e debulhar). Tillō (“arrancar”) e sporimos (“semeado”) são raros."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Naquela ocasião",
+    "termo": "Ἐν ἐκείνῳ τῷ καιρῷ",
+    "titulo": "ligação com 11:28-30",
+    "texto": "A mesma expressão de 11:25. Mateus coloca os dois conflitos sobre o sábado logo depois da promessa de descanso e do jugo suave (11:28-30)."
+   }
+  ]
+ },
+ "Mat.12.2": {
+  "t": "Vendo isso, os fariseus lhe disseram: “Veja! Os seus discípulos estão fazendo o que não é permitido fazer no sábado.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "não é permitido",
+    "termo": "οὐκ ἔξεστιν (ouk exestin)",
+    "titulo": "exestin",
+    "texto": "“Não é lícito”: contrário à Lei, tal como os fariseus a interpretavam. A palavra volta nos vv. 4, 10 e 12 e é o eixo do debate."
+   }
+  ]
+ },
+ "Mat.12.3": {
+  "t": "Ele lhes respondeu: “Vocês não leram o que fez Davi quando ele e os seus companheiros tiveram fome?",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "o que fez Davi",
+    "termo": "τί ἐποίησεν Δαυίδ",
+    "titulo": "1Samuel 21:1-6",
+    "texto": "Fugindo de Saul, Davi pediu pão ao sacerdote em Nobe e recebeu os pães consagrados. O argumento: a necessidade humana justificou uma exceção a uma regra do culto, e a Escritura não condena Davi. Há também um argumento implícito sobre a pessoa: se Davi pôde, quanto mais o Filho de Davi (cf. v. 6)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Vocês não leram",
+    "termo": "οὐκ ἀνέγνωτε (ouk anegnōte)",
+    "titulo": "ironia",
+    "texto": "Pergunta irônica dirigida a especialistas na Escritura. Repete-se no v. 5 e em 19:4; 21:16, 42; 22:31."
+   }
+  ]
+ },
+ "Mat.12.4": {
+  "t": "Ele entrou na casa de Deus, e eles comeram os pães da apresentação, que não era permitido comer, nem a ele nem aos seus companheiros, mas somente aos sacerdotes.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "pães da apresentação",
+    "termo": "τοὺς ἄρτους τῆς προθέσεως",
+    "titulo": "“pães da proposição”",
+    "texto": "Lit. “pães da exposição”: os doze pães postos diante de Deus no santuário a cada sábado e depois comidos só pelos sacerdotes (Lv 24:5-9). “Pães da proposição” (ARC) é forma antiga de dizer o mesmo."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "eles comeram",
+    "termo": "ἔφαγον (ephagon)",
+    "titulo": "“comeram” ou “comeu”",
+    "texto": "O SBLGNT, o NA28 e Westcott-Hort trazem ephagon (“comeram”); o THGNT, Tregelles, o Textus Receptus e o Texto Bizantino, ephagen (“comeu”, só Davi), como em Mc 2:26. No texto crítico, o pronome seguinte é neutro (ho, “o que”), e no Textus Receptus, plural (hous, “os quais”). O sentido geral não muda."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Ele entrou na casa de Deus",
+    "termo": "πῶς εἰσῆλθεν εἰς τὸν οἶκον τοῦ θεοῦ",
+    "titulo": "“como entrou”",
+    "texto": "Lit. “como entrou na casa de Deus”, continuação da pergunta do v. 3. Para não alongar demais a pergunta em português, o v. 4 foi feito afirmação. A “casa de Deus” era o santuário de Nobe; o templo ainda não existia."
+   }
+  ]
+ },
+ "Mat.12.5": {
+  "t": "Ou vocês não leram na Lei que, nos sábados, os sacerdotes no templo violam o sábado e ficam sem culpa?",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "os sacerdotes no templo violam o sábado",
+    "termo": "οἱ ἱερεῖς ἐν τῷ ἱερῷ τὸ σάββατον βεβηλοῦσιν",
+    "titulo": "o serviço do templo",
+    "texto": "A Lei mandava oferecer sacrifícios dobrados no sábado (Nm 28:9-10) e trocar os pães da apresentação (Lv 24:8). Os sacerdotes trabalhavam, e o serviço do templo tinha precedência sobre o descanso. O argumento vai para o v. 6: se o templo justifica, quanto mais aquilo que é maior que o templo."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "violam",
+    "termo": "βεβηλοῦσιν (bebēlousin)",
+    "titulo": "bebēloō, raro",
+    "texto": "“Profanar, tornar comum” (só aqui e em At 24:6). Anaitios (“inocente, sem culpa”), também raro, volta no v. 7."
+   }
+  ]
+ },
+ "Mat.12.6": {
+  "t": "Eu lhes digo que aqui está algo maior do que o templo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "algo maior",
+    "termo": "μεῖζον (meizon)",
+    "titulo": "neutro",
+    "texto": "O adjetivo é neutro: “algo maior”, e não “alguém maior”. Pode referir-se ao próprio Jesus, dito de modo velado, ou ao Reino de Deus presente no seu ministério. As duas ideias andam juntas. O mesmo neutro volta em 12:41-42 (“algo maior que Jonas ... que Salomão”)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "algo maior",
+    "termo": "μεῖζον / μείζων",
+    "titulo": "neutro ou masculino",
+    "texto": "O Textus Receptus traz o masculino meizōn (“alguém maior”). O texto crítico e o Texto Bizantino trazem o neutro, mais difícil e provavelmente original; o masculino torna explícita a referência a Jesus."
+   }
+  ]
+ },
+ "Mat.12.7": {
+  "t": "Se vocês tivessem entendido o que significa: ‘Quero misericórdia, e não sacrifício’, não teriam condenado os inocentes.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Quero misericórdia, e não sacrifício",
+    "termo": "ἔλεος θέλω καὶ οὐ θυσίαν",
+    "titulo": "Oseias 6:6 de novo",
+    "texto": "Segunda citação de Os 6:6 em Mateus (ver nota em 9:13). Aqui a misericórdia é a compaixão pelos discípulos famintos, que vale mais que a observância rigorosa. “Os inocentes” são os discípulos."
+   }
+  ]
+ },
+ "Mat.12.8": {
+  "t": "Pois o Filho do Homem é Senhor do sábado.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "o Filho do Homem é Senhor do sábado",
+    "termo": "κύριος γάρ ἐστιν τοῦ σαββάτου ὁ υἱὸς τοῦ ἀνθρώπου",
+    "titulo": "autoridade sobre o sábado",
+    "texto": "No grego, “Senhor” vem primeiro, em destaque. O sábado foi instituído por Deus (Gn 2:2-3; Êx 20:11); declarar-se senhor dele é reivindicar autoridade divina sobre a sua interpretação. Diferente de Marcos (2:27), Mateus não traz a frase “o sábado foi feito por causa do homem”, o que torna a afirmação mais claramente cristológica."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Senhor do sábado",
+    "termo": "κύριος ... τοῦ σαββάτου (+ καί)",
+    "titulo": "“até do sábado”",
+    "texto": "O Textus Receptus acrescenta kai (“também do sábado”), como em Mc 2:28 e Lc 6:5."
+   }
+  ]
+ },
+ "Mat.12.9": {
+  "t": "Partindo dali, ele entrou na sinagoga deles.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "na sinagoga deles",
+    "termo": "εἰς τὴν συναγωγὴν αὐτῶν",
+    "titulo": "“deles”",
+    "texto": "“Deles” remete aos fariseus do episódio anterior ou aos judeus do lugar em geral. Mateus usa a expressão com frequência (4:23; 9:35; 10:17; 13:54)."
+   }
+  ]
+ },
+ "Mat.12.10": {
+  "t": "E eis que ali estava um homem com a mão atrofiada. Para terem do que acusar Jesus, perguntaram-lhe: “É permitido curar no sábado?”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "atrofiada",
+    "termo": "ξηράν (xēran)",
+    "titulo": "xēros",
+    "texto": "Lit. “seca”: mão paralisada, sem movimento, talvez atrofiada. Para a tradição, a mão direita (Lc 6:6)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "É permitido curar no sábado?",
+    "termo": "εἰ ἔξεστιν τοῖς σάββασιν θεραπεύειν",
+    "titulo": "o debate",
+    "texto": "Os mestres judeus permitiam socorrer no sábado quem estivesse em perigo de morte (Mishná, Yoma 8:6). Uma mão atrofiada podia esperar até o dia seguinte. A pergunta é uma armadilha: se Jesus cura, poderá ser acusado de violar o sábado."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "curar",
+    "termo": "θεραπεύειν (therapeuein)",
+    "titulo": "presente ou aoristo",
+    "texto": "O SBLGNT e a maioria das edições trazem o infinitivo presente; o NA28, o aoristo therapeusai. Sem efeito na tradução."
+   }
+  ]
+ },
+ "Mat.12.11": {
+  "t": "Ele lhes respondeu: “Quem de vocês, se tiver uma só ovelha e ela cair numa cova num sábado, não vai pegá-la e tirá-la de lá?",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "não vai pegá-la e tirá-la de lá?",
+    "termo": "οὐχὶ κρατήσει αὐτὸ καὶ ἐγερεῖ",
+    "titulo": "uma questão real",
+    "texto": "A questão era discutida. O Documento de Damasco, da comunidade de Qumran (CD 11:13-14), proíbe tirar de uma cova, no sábado, um animal que caiu nela. Jesus apela ao que os seus ouvintes, na prática, fariam com o próprio animal. Bothynos (“cova, buraco”) é raro (aqui, 15:14 e Lc 6:39)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "uma só ovelha",
+    "termo": "πρόβατον ἕν (probaton hen)",
+    "titulo": "hen",
+    "texto": "O numeral pode ser só indefinido (“uma ovelha”), mas posto depois do substantivo sugere ênfase: a única ovelha do homem, que ele não deixaria perder."
+   }
+  ]
+ },
+ "Mat.12.12": {
+  "t": "Quanto mais vale um ser humano do que uma ovelha! Portanto, é permitido fazer o bem no sábado.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "um ser humano",
+    "termo": "ἄνθρωπος (anthrōpos)",
+    "titulo": "anthrōpos",
+    "texto": "Aqui anthrōpos é o ser humano em geral, em contraste com o animal. Argumento do menor para o maior, como em 6:26 e 10:31."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "fazer o bem",
+    "termo": "καλῶς ποιεῖν (kalōs poiein)",
+    "titulo": "kalōs poiein",
+    "texto": "“Agir bem, fazer o que é bom”. A pergunta deixa de ser “o que é proibido?” e passa a ser “o que o amor manda fazer?”."
+   }
+  ]
+ },
+ "Mat.12.13": {
+  "t": "Então disse ao homem: “Estenda a mão.” Ele a estendeu, e ela ficou sã como a outra.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "ficou sã",
+    "termo": "ἀπεκατεστάθη ὑγιής (apekatestathē hygiēs)",
+    "titulo": "apokathistēmi",
+    "texto": "Lit. “foi restabelecida sã”: devolvida ao estado original. Jesus cura só com a palavra, sem nenhum gesto que pudesse ser chamado de trabalho."
+   }
+  ]
+ },
+ "Mat.12.14": {
+  "t": "Os fariseus, porém, saíram e tramaram contra ele, para matá-lo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "tramaram",
+    "termo": "συμβούλιον ἔλαβον (symboulion elabon)",
+    "titulo": "“tomaram conselho”",
+    "texto": "Lit. “tomaram conselho”, expressão que corresponde ao latim consilium capere: deliberar, fazer um plano. Em Mateus aparece sempre em conspirações contra Jesus (22:15; 27:1, 7; 28:12)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "para matá-lo",
+    "termo": "ὅπως αὐτὸν ἀπολέσωσιν",
+    "titulo": "a ironia",
+    "texto": "Primeira vez em Mateus em que os adversários judeus planejam matar Jesus; antes, só Herodes procurou matar o menino (2:13, com o mesmo verbo apollymi). A ironia é clara: Jesus faz o bem no sábado, e os seus acusadores, no mesmo dia, planejam a morte (cf. Mc 3:4). Apollymi é “destruir”."
+   }
+  ]
+ },
+ "Mat.12.15": {
+  "t": "Jesus, sabendo disso, retirou-se dali. Muitos o seguiram, e ele curou a todos",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "Muitos o seguiram",
+    "termo": "ἠκολούθησαν αὐτῷ πολλοί (+ ὄχλοι)",
+    "titulo": "“muitos” ou “muitas multidões”",
+    "texto": "O SBLGNT e Westcott-Hort trazem só polloi (“muitos”), com parte dos manuscritos mais antigos. O NA28, o THGNT, Tregelles, o Textus Receptus e o Texto Bizantino acrescentam ochloi (“muitas multidões”). Sem diferença importante de sentido."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "retirou-se dali",
+    "termo": "ἀνεχώρησεν ἐκεῖθεν",
+    "titulo": "a retirada",
+    "texto": "Jesus não foge por medo nem enfrenta com força: retira-se e continua curando. Mateus verá nisso o cumprimento de Is 42 (vv. 18-21). O mesmo verbo descreve a retirada de José (2:14) e de Jesus depois da prisão de João (4:12)."
+   }
+  ]
+ },
+ "Mat.12.16": {
+  "t": "e lhes ordenou severamente que não o tornassem conhecido,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "ordenou severamente",
+    "termo": "ἐπετίμησεν (epetimēsen)",
+    "titulo": "epitimaō",
+    "texto": "O verbo usado para “repreender” os ventos (8:26) e os demônios (17:18): aqui, uma ordem firme. Ver nota em 8:4 sobre as ordens de silêncio."
+   }
+  ]
+ },
+ "Mat.12.17": {
+  "t": "para que se cumprisse o que foi dito por meio do profeta Isaías:",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "para que se cumprisse",
+    "termo": "ἵνα πληρωθῇ (hina plērōthē)",
+    "titulo": "hina ou hopōs",
+    "texto": "O texto crítico traz hina; o Textus Receptus e o Texto Bizantino, hopōs. As duas conjunções significam “para que”."
+   }
+  ]
+ },
+ "Mat.12.18": {
+  "t": "“Eis o meu servo, que escolhi, o meu amado, em quem a minha alma se agrada. Porei sobre ele o meu Espírito, e ele anunciará justiça às nações.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Eis o meu servo",
+    "termo": "ἰδοὺ ὁ παῖς μου",
+    "titulo": "Isaías 42:1-4",
+    "texto": "A citação mais longa do AT em Mateus (vv. 18-21) reproduz o primeiro canto do Servo do Senhor (Is 42:1-4). A forma não é igual à Septuaginta, que identifica o servo com “Jacó” e “Israel”, nem exatamente ao hebraico: Mateus parece traduzir ele mesmo, adaptando o texto à pessoa de Jesus. “O meu amado, em quem ... se agrada” lembra a voz do céu no batismo (3:17) e na transfiguração (17:5)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "servo",
+    "termo": "παῖς (pais)",
+    "titulo": "pais",
+    "texto": "Pais traduz o hebraico ‘eved, “servo”, como na Septuaginta de Isaías. Pode também significar “filho, menino”, e alguns leitores antigos ouviram aqui as duas ideias. Ver nota em 8:6."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "justiça",
+    "termo": "κρίσιν (krisin)",
+    "titulo": "krisis",
+    "texto": "Krisis traduz o hebraico mishpat: “juízo, direito, justiça”, a ordem justa que Deus estabelece. Não é dikaiosynē. “Justiça” é a palavra que melhor dá o sentido de Isaías; “juízo” sugeriria só condenação. O mesmo no v. 20."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "que escolhi",
+    "termo": "ὃν ᾑρέτισα (hon hēretisa)",
+    "titulo": "hairetizō, hápax",
+    "texto": "Única ocorrência no NT: “escolher, eleger”. Corresponde ao hebraico “o meu escolhido” (Is 42:1)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "em quem a minha alma se agrada",
+    "termo": "εἰς ὃν εὐδόκησεν ἡ ψυχή μου",
+    "titulo": "“a minha alma”",
+    "texto": "“A minha alma” é modo hebraico de dizer “eu mesmo”. Mantida a forma literal, porque o texto é poético e a expressão é conhecida."
+   }
+  ]
+ },
+ "Mat.12.19": {
+  "t": "Não discutirá nem gritará, e ninguém ouvirá a sua voz nas praças.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Não discutirá",
+    "termo": "οὐκ ἐρίσει (ouk erisei)",
+    "titulo": "erizō, hápax",
+    "texto": "Única ocorrência no NT: “brigar, disputar”. O hebraico de Is 42:2 diz “não clamará”. A escolha de Mateus combina com o contexto: Jesus se retira em vez de entrar em confronto (v. 15) e pede silêncio (v. 16)."
+   }
+  ]
+ },
+ "Mat.12.20": {
+  "t": "Não quebrará o caniço rachado nem apagará o pavio que ainda fumega, até que leve a justiça à vitória.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "o pavio que ainda fumega",
+    "termo": "λίνον τυφόμενον (linon typhomenon)",
+    "titulo": "linon e typhō",
+    "texto": "Linon é o linho, aqui a mecha da lamparina; typhō (hápax) é “fumegar”. Imagem de quem está quase apagado. O caniço rachado e o pavio fumegante são os fracos e feridos, que o Servo não descarta. Kalamos é a mesma palavra traduzida por “caniço” em 11:7."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "até que leve a justiça à vitória",
+    "termo": "ἕως ἂν ἐκβάλῃ εἰς νῖκος τὴν κρίσιν",
+    "titulo": "“até que lance a justiça para a vitória”",
+    "texto": "Lit. “até que lance o juízo para a vitória”. O hebraico de Is 42:3 diz “com fidelidade fará sair o direito”. Mateus acentua o triunfo final: a mansidão de agora não é fraqueza; a justiça vencerá."
+   }
+  ]
+ },
+ "Mat.12.21": {
+  "t": "E no seu nome as nações porão a sua esperança.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "no seu nome as nações porão a sua esperança",
+    "termo": "τῷ ὀνόματι αὐτοῦ ἔθνη ἐλπιοῦσιν",
+    "titulo": "segue a Septuaginta",
+    "texto": "Aqui Mateus segue a Septuaginta de Is 42:4 (“no seu nome as nações esperarão”); o hebraico diz “as ilhas esperarão a sua instrução”. A citação, que começa e termina com as nações (vv. 18 e 21), anuncia que a missão de Jesus alcançará os gentios (cf. 28:19). O Textus Receptus acrescenta en (“em”), sem efeito no sentido."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "as nações",
+    "termo": "ἔθνη (ethnē)",
+    "titulo": "ethnē",
+    "texto": "Na citação de Isaías, “nações” guarda a forma do profeta; o sentido é o mesmo de “gentios” (10:5, 18), os povos não judeus."
+   }
+  ]
+ },
+ "Mat.12.22": {
+  "t": "Então lhe trouxeram um endemoninhado cego e mudo, e Jesus o curou, de modo que o mudo passou a falar e a ver.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "o mudo passou a falar e a ver",
+    "termo": "τὸν κωφὸν λαλεῖν καὶ βλέπειν",
+    "titulo": "acréscimo",
+    "texto": "O Textus Receptus e o Texto Bizantino trazem “o cego e mudo” (ton typhlon kai kōphon) e repetem kai (“tanto falava como via”). O texto crítico menciona só “o mudo”. Sem efeito no sentido."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "e Jesus o curou",
+    "termo": "καὶ ἐθεράπευσεν αὐτόν",
+    "titulo": "sujeito explicitado",
+    "texto": "O grego diz “e o curou”; o nome foi acrescentado para clareza."
+   }
+  ]
+ },
+ "Mat.12.23": {
+  "t": "Todas as multidões ficaram assombradas e diziam: “Será que este é o Filho de Davi?”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Será que este é o Filho de Davi?",
+    "termo": "μήτι οὗτός ἐστιν ὁ υἱὸς Δαυίδ",
+    "titulo": "mēti",
+    "texto": "Mēti costuma introduzir pergunta que espera resposta negativa, mas também pode indicar dúvida hesitante: as multidões cogitam a ideia sem ousar afirmá-la. “Será que” guarda essa hesitação. A pergunta provoca a reação dos fariseus (v. 24)."
+   }
+  ]
+ },
+ "Mat.12.24": {
+  "t": "Mas os fariseus, ao ouvirem isso, disseram: “Esse homem só expulsa os demônios por Belzebu, o chefe dos demônios.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "por Belzebu, o chefe dos demônios",
+    "termo": "ἐν τῷ Βεελζεβοὺλ ἄρχοντι τῶν δαιμονίων",
+    "titulo": "a acusação",
+    "texto": "Retoma 9:34 e 10:25 (ver nota sobre Belzebu em 10:25). Os fariseus não negam o fato do exorcismo; atribuem-no ao poder de Satanás. Nos vv. 25-37, Jesus responde."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Esse homem",
+    "termo": "οὗτος (houtos)",
+    "titulo": "houtos",
+    "texto": "Lit. “este”, com tom de desprezo, como em 9:3."
+   }
+  ]
+ },
+ "Mat.12.25": {
+  "t": "Mas ele, conhecendo os pensamentos deles, disse-lhes: “Todo reino dividido contra si mesmo é arrasado, e toda cidade ou casa dividida contra si mesma não ficará de pé.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "Mas ele, conhecendo os pensamentos deles",
+    "termo": "Εἰδὼς δὲ τὰς ἐνθυμήσεις αὐτῶν",
+    "titulo": "“Jesus”",
+    "texto": "O Textus Receptus e o Texto Bizantino acrescentam “Jesus” como sujeito. Sem efeito no sentido."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "é arrasado",
+    "termo": "ἐρημοῦται (erēmoutai)",
+    "titulo": "erēmoō",
+    "texto": "“Tornar-se deserto, ficar devastado”. Stathēsetai (“ficará de pé”) é o verbo dos vv. 25-26: a divisão interna impede que algo se mantenha."
+   }
+  ]
+ },
+ "Mat.12.26": {
+  "t": "Se Satanás expulsa Satanás, está dividido contra si mesmo. Como, então, o seu reino ficará de pé?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Satanás",
+    "termo": "ὁ σατανᾶς (ho satanas)",
+    "titulo": "satanas",
+    "texto": "Do hebraico satan, “adversário, acusador” (Jó 1:6; Zc 3:1). Jesus identifica Belzebu com Satanás e lhe atribui um “reino”, em conflito com o Reino de Deus (v. 28)."
+   }
+  ]
+ },
+ "Mat.12.27": {
+  "t": "E, se eu expulso os demônios por Belzebu, por quem os seus filhos os expulsam? Por isso, eles mesmos serão os juízes de vocês.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "os seus filhos",
+    "termo": "οἱ υἱοὶ ὑμῶν (hoi huioi hymōn)",
+    "titulo": "“os vossos filhos”",
+    "texto": "Semitismo para “os seus seguidores”, “os do seu grupo”: exorcistas judeus ligados aos fariseus (cf. At 19:13-14). Se o exorcismo deles é aceito como obra de Deus, a acusação contra Jesus é incoerente."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "serão os juízes de vocês",
+    "termo": "κριταὶ ἔσονται ὑμῶν",
+    "titulo": "em que sentido?",
+    "texto": "Os próprios exorcistas judeus mostram a incoerência dos fariseus e servem de testemunhas contra eles. Alguns entendem que o futuro aponta para o juízo final."
+   }
+  ]
+ },
+ "Mat.12.28": {
+  "t": "Mas, se é pelo Espírito de Deus que eu expulso os demônios, então o Reino de Deus chegou até vocês.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "chegou até vocês",
+    "termo": "ἔφθασεν ἐφ᾽ ὑμᾶς (ephthasen eph’ hymas)",
+    "titulo": "phthanō",
+    "texto": "Phthanō é “chegar, alcançar” (1Ts 2:16; 4:15). Diferente de ēngiken (“está próximo”, 10:7), aqui o Reino já chegou: as expulsões de demônios são sinal de que o domínio de Deus está presente, embora ainda não consumado. É um dos textos centrais sobre o Reino “já” presente no ministério de Jesus."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "pelo Espírito de Deus",
+    "termo": "ἐν πνεύματι θεοῦ",
+    "titulo": "o Espírito e o Servo",
+    "texto": "Lc 11:20 diz “pelo dedo de Deus” (cf. Êx 8:19). Mateus fala do Espírito, retomando a citação de Is 42:1 (“porei sobre ele o meu Espírito”, v. 18) e preparando o dito sobre a blasfêmia contra o Espírito (vv. 31-32)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Reino de Deus",
+    "termo": "ἡ βασιλεία τοῦ θεοῦ",
+    "titulo": "e não “dos céus”",
+    "texto": "Mateus prefere “Reino dos céus”, mas usa “Reino de Deus” aqui e em mais três lugares (19:24; 21:31, 43). As duas expressões têm o mesmo sentido; aqui a forma combina com “Espírito de Deus”."
+   }
+  ]
+ },
+ "Mat.12.29": {
+  "t": "Ou, como alguém pode entrar na casa do homem forte e roubar os seus bens sem primeiro amarrar o homem forte? Só então poderá saquear a casa dele.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "o homem forte",
+    "termo": "τοῦ ἰσχυροῦ (tou ischyrou)",
+    "titulo": "Isaías 49:24-25",
+    "texto": "O homem forte é Satanás; os bens são as pessoas sob o seu domínio. Jesus, que venceu o tentador (4:1-11), é quem amarra o forte e liberta os cativos. Eco de Is 49:24-25: “Será tirada a presa do poderoso? ... Sim, a presa do valente será tirada”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "saquear",
+    "termo": "διαρπάσει (diarpasei)",
+    "titulo": "diarpazō, raro",
+    "texto": "“Saquear por completo” (só aqui e em Mc 3:27). O Textus Receptus e o Texto Bizantino trazem o mesmo verbo também no lugar de “roubar” (diarpasai em vez de harpasai), sem efeito no sentido."
+   }
+  ]
+ },
+ "Mat.12.30": {
+  "t": "Quem não está comigo está contra mim, e quem não ajunta comigo espalha.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "quem não ajunta comigo espalha",
+    "termo": "ὁ μὴ συνάγων μετ᾽ ἐμοῦ σκορπίζει",
+    "titulo": "não há neutralidade",
+    "texto": "Imagem do pastor que reúne o rebanho ou do ceifeiro que recolhe a colheita (9:36-38). Diante de Jesus não há posição neutra. Mc 9:40 (“quem não é contra nós é por nós”) trata de outra situação: pessoas que agem em nome de Jesus fora do grupo dos Doze."
+   }
+  ]
+ },
+ "Mat.12.31": {
+  "t": "Por isso eu lhes digo: todo pecado e toda blasfêmia serão perdoados aos homens, mas a blasfêmia contra o Espírito não será perdoada.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "a blasfêmia contra o Espírito",
+    "termo": "ἡ τοῦ πνεύματος βλασφημία",
+    "titulo": "o que é?",
+    "texto": "No contexto, é atribuir a Satanás a obra evidente do Espírito de Deus em Jesus (vv. 24, 28): não um pecado de fraqueza ou uma palavra impensada, mas a rejeição consciente e obstinada da luz recebida, que fecha a pessoa ao próprio perdão. Por isso a tradição pastoral observa que quem teme tê-lo cometido mostra, por esse temor, que não o cometeu. Agostinho entendeu-o como a impenitência final; outros o limitam à situação dos fariseus diante dos milagres de Jesus. O texto não suaviza a gravidade da advertência."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "contra o Espírito",
+    "termo": "τοῦ πνεύματος (tou pneumatos)",
+    "titulo": "genitivo objetivo",
+    "texto": "Lit. “a blasfêmia do Espírito”: a blasfêmia dirigida ao Espírito, como esclarece o v. 32."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "não será perdoada",
+    "termo": "οὐκ ἀφεθήσεται (+ τοῖς ἀνθρώποις)",
+    "titulo": "acréscimo",
+    "texto": "O Textus Receptus e o Texto Bizantino repetem “aos homens” no fim. Sem efeito no sentido."
+   }
+  ]
+ },
+ "Mat.12.32": {
+  "t": "Se alguém disser uma palavra contra o Filho do Homem, isso lhe será perdoado; mas, se alguém falar contra o Espírito Santo, isso não lhe será perdoado, nem nesta era nem na que há de vir.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "contra o Filho do Homem, isso lhe será perdoado",
+    "termo": "κατὰ τοῦ υἱοῦ τοῦ ἀνθρώπου, ἀφεθήσεται αὐτῷ",
+    "titulo": "por que a diferença?",
+    "texto": "A explicação mais comum: a identidade de Jesus como Filho do Homem estava velada, e era possível não compreendê-la (o próprio Pedro o negou e foi perdoado); a obra do Espírito nas libertações, porém, era evidente, e chamá-la de obra do diabo é recusar deliberadamente a Deus. Não se diz que o Espírito é maior que o Filho."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "nem nesta era nem na que há de vir",
+    "termo": "οὔτε ἐν τούτῳ τῷ αἰῶνι οὔτε ἐν τῷ μέλλοντι",
+    "titulo": "as duas eras",
+    "texto": "Aiōn é “era, século”. O judaísmo distinguia “esta era” e “a era que há de vir”, a do Reino consumado. A frase é modo enfático de dizer “nunca” (Mc 3:29: “jamais terá perdão”). Gregório Magno e outros, na tradição latina, deduziram daí que alguns pecados podem ser perdoados após a morte; a maioria dos intérpretes protestantes e muitos católicos modernos entendem que a frase só reforça o “nunca”."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "nesta era",
+    "termo": "ἐν τούτῳ τῷ αἰῶνι",
+    "titulo": "variante bizantina",
+    "texto": "O Texto Bizantino traz “agora” (nyn) em vez de “este”. Sem efeito no sentido."
+   }
+  ]
+ },
+ "Mat.12.33": {
+  "t": "Ou façam boa a árvore e bom o seu fruto, ou façam ruim a árvore e ruim o seu fruto, pois pelo fruto se conhece a árvore.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "façam boa a árvore",
+    "termo": "ποιήσατε (poiēsate)",
+    "titulo": "“façam”",
+    "texto": "Tradução literal do imperativo. Aqui “fazer” tem provavelmente o sentido de “considerar, declarar”: sejam coerentes no julgamento. Se o fruto (a libertação do endemoninhado) é bom, a árvore (Jesus) também é. Alguns entendem como chamado à conversão: “tornem boa a árvore”. A primeira leitura combina melhor com o debate."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "ruim",
+    "termo": "σαπρόν (sapron)",
+    "titulo": "sapros",
+    "texto": "“Podre, estragado, sem valor”. A mesma imagem de 7:17-18. “Ruim” é natural para árvore e fruto em português."
+   }
+  ]
+ },
+ "Mat.12.34": {
+  "t": "Raça de víboras! Como vocês podem falar coisas boas, sendo maus? Pois a boca fala daquilo de que o coração está cheio.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Raça de víboras",
+    "termo": "γεννήματα ἐχιδνῶν (gennēmata echidnōn)",
+    "titulo": "“crias de víboras”",
+    "texto": "Lit. “crias de víboras”. A mesma expressão que João Batista usou para fariseus e saduceus (3:7) e que Jesus retoma em 23:33. A tradução não suaviza o insulto."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "daquilo de que o coração está cheio",
+    "termo": "ἐκ τοῦ περισσεύματος τῆς καρδίας",
+    "titulo": "“da abundância do coração”",
+    "texto": "Lit. “do transbordamento do coração”: o que enche o coração extravasa pela boca. As palavras revelam o que a pessoa é."
+   }
+  ]
+ },
+ "Mat.12.35": {
+  "t": "O homem bom tira coisas boas do seu bom tesouro, e o homem mau tira coisas más do seu mau tesouro.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "tesouro",
+    "termo": "θησαυροῦ (thēsaurou)",
+    "titulo": "thēsauros",
+    "texto": "O depósito onde se guardam bens, de onde se tira o que se tem (13:52). Aqui é o interior da pessoa, o coração. O Textus Receptus acrescenta “do coração” depois do primeiro “tesouro”, explicitando o sentido."
+   }
+  ]
+ },
+ "Mat.12.36": {
+  "t": "Eu lhes digo que, no dia do juízo, as pessoas prestarão contas de toda palavra inútil que tiverem dito.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "palavra inútil",
+    "termo": "ῥῆμα ἀργόν (rhēma argon)",
+    "titulo": "argos",
+    "texto": "Argos é “ocioso, sem efeito, à toa”. Não se refere a toda conversa descontraída, mas às palavras ditas sem pensar, que revelam o coração, como a acusação leviana dos fariseus (v. 24). Se até essas serão julgadas, quanto mais as palavras maldosas."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "as pessoas prestarão contas",
+    "termo": "ὃ λαλήσουσιν οἱ ἄνθρωποι, ἀποδώσουσιν περὶ αὐτοῦ λόγον",
+    "titulo": "construção semítica",
+    "texto": "Lit. “toda palavra inútil que os homens falarem, darão conta dela”. A construção foi reorganizada para o português. “Os homens” são os seres humanos em geral."
+   }
+  ]
+ },
+ "Mat.12.37": {
+  "t": "Pois pelas suas palavras você será justificado, e pelas suas palavras você será condenado.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "você será justificado",
+    "termo": "δικαιωθήσῃ (dikaiōthēsē)",
+    "titulo": "dikaioō",
+    "texto": "Aqui “justificar” é ser declarado justo no tribunal do juízo final, em oposição a “ser condenado”. Jesus não ensina salvação pelas palavras: as palavras são prova do coração (vv. 34-35), e o juízo considera essa prova. A passagem do “vocês” ao “você” torna a advertência pessoal, como num provérbio."
+   }
+  ]
+ },
+ "Mat.12.38": {
+  "t": "Então alguns dos escribas e fariseus lhe responderam: “Mestre, queremos ver um sinal da sua parte.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "queremos ver um sinal",
+    "termo": "θέλομεν ἀπὸ σοῦ σημεῖον ἰδεῖν",
+    "titulo": "que sinal?",
+    "texto": "Não pedem mais uma cura, que acabaram de ver e atribuíram a Belzebu, mas uma prova espetacular que obrigasse a crer, talvez “do céu” (16:1). Jesus recusou sinais desse tipo já na tentação (4:5-7)."
+   }
+  ]
+ },
+ "Mat.12.39": {
+  "t": "Ele lhes respondeu: “Uma geração má e adúltera pede um sinal, mas nenhum sinal lhe será dado, a não ser o sinal do profeta Jonas.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "adúltera",
+    "termo": "μοιχαλίς (moichalis)",
+    "titulo": "moichalis",
+    "texto": "Imagem profética: Israel infiel à aliança é chamado de esposa adúltera (Os 2:2-13; Jr 3:6-10; Ez 16). Não se refere a adultério sexual, mas à infidelidade a Deus."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "pede",
+    "termo": "ἐπιζητεῖ (epizētei)",
+    "titulo": "epizēteō",
+    "texto": "“Procurar com insistência, exigir”. A geração exige provas em vez de responder com arrependimento."
+   }
+  ]
+ },
+ "Mat.12.40": {
+  "t": "Pois, assim como Jonas esteve três dias e três noites no ventre do grande peixe, assim o Filho do Homem estará três dias e três noites no coração da terra.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Jonas esteve três dias e três noites no ventre do grande peixe",
+    "termo": "ἦν Ἰωνᾶς ἐν τῇ κοιλίᾳ τοῦ κήτους τρεῖς ἡμέρας καὶ τρεῖς νύκτας",
+    "titulo": "Jonas 1:17",
+    "texto": "Citação exata da Septuaginta de Jn 1:17 (2:1 no hebraico). A saída de Jonas do peixe é figura da ressurreição de Jesus."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "grande peixe",
+    "termo": "κήτους (kētous)",
+    "titulo": "kētos, hápax",
+    "texto": "Única ocorrência no NT: “monstro marinho”, qualquer animal marinho enorme. O hebraico de Jonas diz dag gadol, “grande peixe”. “Baleia” (ARC) é uma interpretação; “grande peixe” segue o hebraico."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "três dias e três noites",
+    "termo": "τρεῖς ἡμέρας καὶ τρεῖς νύκτας",
+    "titulo": "a contagem",
+    "texto": "Pelo modo judaico de contar, parte de um dia contava como o dia inteiro (cf. Et 4:16 com 5:1). De sexta a domingo, com parte de sexta e de domingo, são “três dias”. Os outros anúncios de Jesus falam em “no terceiro dia” (16:21; 17:23; 20:19), o que mostra que as expressões eram equivalentes."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "no coração da terra",
+    "termo": "ἐν τῇ καρδίᾳ τῆς γῆς",
+    "titulo": "a sepultura",
+    "texto": "Expressão para o túmulo, o lugar dos mortos (cf. Jn 2:2-6, “o ventre do Sheol”, “o coração dos mares”)."
+   }
+  ]
+ },
+ "Mat.12.41": {
+  "t": "Os ninivitas se levantarão no juízo com esta geração e a condenarão, porque eles se arrependeram com a pregação de Jonas. E aqui está algo maior do que Jonas.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "se levantarão no juízo com",
+    "termo": "ἀναστήσονται ἐν τῇ κρίσει μετὰ",
+    "titulo": "imagem do tribunal",
+    "texto": "Lit. “se levantarão no juízo com esta geração”. Pode ser o levantar-se da ressurreição ou o levantar-se como testemunha no tribunal. As duas ideias cabem: no juízo final, os ninivitas estarão de pé ao lado desta geração e servirão de testemunho contra ela."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "se arrependeram com a pregação de Jonas",
+    "termo": "μετενόησαν εἰς τὸ κήρυγμα Ἰωνᾶ",
+    "titulo": "Jonas 3",
+    "texto": "Jn 3:5-10: Nínive, capital da Assíria e inimiga de Israel, arrependeu-se com uma pregação de poucas palavras e sem milagres. Nineuitēs é raro (aqui, Lc 11:30, 32)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "algo maior do que Jonas",
+    "termo": "πλεῖον Ἰωνᾶ (pleion Iōna)",
+    "titulo": "neutro",
+    "texto": "Neutro, como em 12:6: “algo mais que Jonas”. A referência é à presença de Jesus e do Reino."
+   }
+  ]
+ },
+ "Mat.12.42": {
+  "t": "A rainha do Sul se levantará no juízo com esta geração e a condenará, porque ela veio dos confins da terra para ouvir a sabedoria de Salomão. E aqui está algo maior do que Salomão.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "A rainha do Sul",
+    "termo": "Βασίλισσα νότου (Basilissa notou)",
+    "titulo": "a rainha de Sabá",
+    "texto": "A rainha de Sabá, no sul da Arábia, que fez longa viagem para ouvir a sabedoria de Salomão (1Rs 10:1-13). Uma gentia buscou a sabedoria de longe; esta geração rejeita a sabedoria que está no meio dela (cf. 11:19)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "algo maior do que Salomão",
+    "termo": "πλεῖον Σολομῶνος (pleion Solomōnos)",
+    "titulo": "neutro",
+    "texto": "Ver nota no v. 41. Jesus é maior que o templo (v. 6), que o profeta (v. 41) e que o rei sábio, filho de Davi (v. 42)."
+   }
+  ]
+ },
+ "Mat.12.43": {
+  "t": "Quando o espírito impuro sai de uma pessoa, passa por lugares áridos procurando descanso, e não o encontra.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "lugares áridos",
+    "termo": "ἀνύδρων τόπων (anydrōn topōn)",
+    "titulo": "o deserto",
+    "texto": "Na imaginação bíblica e judaica, o deserto era morada de seres demoníacos (Is 13:21; 34:14; Tb 8:3). O espírito sem lugar busca “descanso”, a mesma palavra prometida por Jesus em 11:29."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "de uma pessoa",
+    "termo": "ἀπὸ τοῦ ἀνθρώπου (apo tou anthrōpou)",
+    "titulo": "anthrōpos",
+    "texto": "Lit. “do homem”, no sentido de ser humano. O artigo é genérico."
+   }
+  ]
+ },
+ "Mat.12.44": {
+  "t": "Então diz: ‘Voltarei para a minha casa, de onde saí’. Ao chegar, encontra a casa desocupada, varrida e arrumada.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "desocupada",
+    "termo": "σχολάζοντα (scholazonta)",
+    "titulo": "scholazō, raro",
+    "texto": "“Estar desocupado, livre” (só aqui e em 1Co 7:5). A casa foi limpa, mas ficou vazia: ninguém ocupou o lugar. Saroō (“varrer”) também é raro."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "a casa desocupada, varrida e arrumada",
+    "termo": "σχολάζοντα, σεσαρωμένον καὶ κεκοσμημένον",
+    "titulo": "o perigo do vazio",
+    "texto": "Não basta ser libertado do mal; é preciso que o Reino de Deus e o Espírito ocupem o lugar. A reforma exterior sem a entrega a Jesus deixa a pessoa exposta."
+   }
+  ]
+ },
+ "Mat.12.45": {
+  "t": "Então vai e traz consigo outros sete espíritos piores do que ele, e eles entram e passam a morar ali. E o estado final daquela pessoa fica pior do que o primeiro. Assim também acontecerá com esta geração perversa.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "sete espíritos",
+    "termo": "ἑπτὰ ἕτερα πνεύματα",
+    "titulo": "sete",
+    "texto": "Sete indica plenitude: a possessão total. “Passam a morar” traduz katoikei, “habitar de modo permanente”."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Assim também acontecerá com esta geração perversa",
+    "termo": "οὕτως ἔσται καὶ τῇ γενεᾷ ταύτῃ τῇ πονηρᾷ",
+    "titulo": "a aplicação",
+    "texto": "Só Mateus traz esta aplicação. A geração que viu os demônios serem expulsos por Jesus, mas não o acolheu, ficará em situação pior que antes. O dito também serve de advertência a cada pessoa (cf. 2Pe 2:20)."
+   }
+  ]
+ },
+ "Mat.12.46": {
+  "t": "Enquanto ele ainda falava às multidões, eis que a sua mãe e os seus irmãos estavam do lado de fora, procurando falar com ele.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "os seus irmãos",
+    "termo": "οἱ ἀδελφοὶ αὐτοῦ (hoi adelphoi autou)",
+    "titulo": "os irmãos de Jesus",
+    "texto": "Os nomes deles aparecem em 13:55. Há três posições tradicionais: (1) filhos de Maria e José nascidos depois de Jesus (Helvídio; leitura mais comum entre protestantes, que apelam a 1:25); (2) filhos de José de um casamento anterior (Epifânio; posição de muitas igrejas orientais); (3) parentes próximos, como primos, já que adelphos pode ter sentido amplo na Bíblia (Jerônimo; posição católica). A tradução “irmãos” é a literal e não decide a questão."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "procurando falar com ele",
+    "termo": "ζητοῦντες αὐτῷ λαλῆσαι",
+    "titulo": "o motivo",
+    "texto": "Mateus não diz por quê. Mc 3:21 conta que os parentes queriam levá-lo, achando que estava fora de si."
+   }
+  ]
+ },
+ "Mat.12.47": {
+  "t": "Alguém lhe disse: “Sua mãe e seus irmãos estão lá fora e querem falar com você.”",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "Alguém lhe disse",
+    "termo": "εἶπεν δέ τις αὐτῷ",
+    "titulo": "versículo omitido em alguns manuscritos",
+    "texto": "O versículo falta em alguns manuscritos antigos importantes (entre eles o Sinaítico, na forma original, e o Vaticano) e em Westcott-Hort. O SBLGNT, o NA28 (entre colchetes) e o Textus Receptus o trazem. A omissão pode ter sido acidental, porque o v. 46 e o v. 47 terminam com a mesma palavra (lalēsai, “falar”), e o v. 48 supõe que alguém tenha falado com Jesus (Metzger)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Sua mãe",
+    "termo": "ἰδοὺ ἡ μήτηρ σου",
+    "titulo": "ἰδού",
+    "texto": "Lit. “Eis que a tua mãe”. O “eis” foi omitido por naturalidade. Quem fala não chama Jesus de “Senhor”; por isso “você”."
+   }
+  ]
+ },
+ "Mat.12.48": {
+  "t": "Mas ele respondeu a quem lhe falava: “Quem é minha mãe, e quem são meus irmãos?”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Quem é minha mãe",
+    "termo": "τίς ἐστιν ἡ μήτηρ μου",
+    "titulo": "não é desprezo",
+    "texto": "A pergunta não rejeita Maria nem a família, mas redefine o parentesco a partir do Reino. Mateus apresenta Maria com honra (1:18-25), e Lucas a mostra como modelo de quem ouve e cumpre a palavra (Lc 1:38; 11:28)."
+   }
+  ]
+ },
+ "Mat.12.49": {
+  "t": "E, estendendo a mão para os seus discípulos, disse: “Aqui estão minha mãe e meus irmãos.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Aqui estão",
+    "termo": "ἰδού (idou)",
+    "titulo": "idou",
+    "texto": "Lit. “Eis”. O gesto e a palavra apontam para os discípulos: a família de Jesus é a comunidade dos que o seguem."
+   }
+  ]
+ },
+ "Mat.12.50": {
+  "t": "Pois quem faz a vontade de meu Pai, que está nos céus, esse é meu irmão, minha irmã e minha mãe.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "a vontade de meu Pai",
+    "termo": "τὸ θέλημα τοῦ πατρός μου",
+    "titulo": "a nova família",
+    "texto": "Fazer a vontade do Pai é o critério do discipulado (7:21). A menção de “irmã” mostra que as mulheres fazem parte plena da família de Jesus. Os discípulos se tornam filhos do mesmo Pai e irmãos entre si (23:8-9; 28:10)."
+   }
+  ]
+ }
+}

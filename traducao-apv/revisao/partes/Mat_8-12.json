@@ -1,0 +1,142 @@
+[
+ {
+  "ref": "Mat.11.9",
+  "gravidade": "alta",
+  "problema": "A folha mostra o texto-base como 'ἀλλὰ τί ἐξήλθατε ἰδεῖν; προφήτην;' e não há linha VARIANTE no versículo. A tradução 'Então, por que vocês saíram? Para ver um profeta?' segue a ordem inversa (e traduz ἀλλά por 'Então', quando no v. 8 é 'Se não'), e a nota tc (revisar) afirma que o SBLGNT lê 'ti exēlthate; prophētēn idein?' e que NA28, THGNT, TR e Bizantino leem a outra ordem: atribuição de edições que a folha não confirma e que contradiz o texto-base mostrado.",
+  "sugestao": "Traduzir o texto-base: 'Se não, o que vocês foram ver? Um profeta? Sim, eu lhes digo, e muito mais do que um profeta.' Remover a nota tc ou reescrevê-la sem atribuir leituras a SBLGNT/NA28/THGNT/WH sem apoio da folha.",
+  "decisao": "rejeitado: os dados do TAGNT marcam προφήτην como SBL«2 e WH«2 (deslocado), e a folha agora avisa isso na linha ORDEM; a ordem “por que vocês saíram? Para ver um profeta?” é a do SBLGNT, e a nota tc só atribui leituras às edições que os dados mostram (SBL e WH de um lado; NA28, THGNT, TR e Bizantino de outro)."
+ },
+ {
+  "ref": "Mat.12.14",
+  "gravidade": "media",
+  "problema": "Nota diz que é a 'primeira menção, em Mateus, de um plano para matar Jesus'. Falso: Herodes já procura destruir o menino em 2:13-16, com o mesmo verbo ἀπόλλυμι (2:13).",
+  "sugestao": "'Primeira vez em Mateus em que os adversários judeus planejam matar Jesus (cf. Herodes em 2:13-16, com o mesmo verbo apollymi).'",
+  "decisao": "aceito: Herodes já procura matar o menino em 2:13 com o mesmo verbo; a nota agora diz que é a primeira vez que os adversários judeus tramam a morte de Jesus."
+ },
+ {
+  "ref": "Mat.8.10",
+  "gravidade": "media",
+  "problema": "Nota afirma que 'só duas vezes os Evangelhos dizem que Jesus se admirou: aqui... e Mc 6:6'. Lc 7:9 (paralelo) usa o mesmo verbo ἐθαύμασεν para Jesus: são três ocorrências (Mt 8:10; Lc 7:9; Mc 6:6).",
+  "sugestao": "'Jesus se admira com a fé do centurião (também Lc 7:9) e com a incredulidade de Nazaré (Mc 6:6).'",
+  "decisao": "aceito: Lc 7:9 usa o mesmo verbo para Jesus; a nota foi corrigida para incluir o paralelo de Lucas."
+ },
+ {
+  "ref": "Mat.10.23",
+  "gravidade": "media",
+  "problema": "Nota tc atribui o acréscimo ('se perseguirem na outra, fujam para outra') a 'alguns manuscritos ocidentais' e diz que TR/Bizantino só trocam heteran por allēn. A VARIANTE mostra 'ἑτέραν' ausente em TR e Bizantino naquele ponto; na verdade o TR/Bizantino trazem a frase ampliada ('fujam para a outra; e se também nela os perseguirem, fujam para outra'), logo não é só variação sinonímica nem fenômeno só ocidental.",
+  "sugestao": "Reescrever: 'O Textus Receptus e o Texto Bizantino trazem uma forma mais longa: “fujam para a outra; e, se também nela os perseguirem, fujam para outra”. O texto crítico termina em “fujam para a outra”.' Conferir contra a folha antes.",
+  "decisao": "rejeitado: nos dados, o TR e o Bizantino só trocam ἑτέραν por ἄλλην e não têm frase a mais; a nota já dizia isso, e agora diz também que o acréscimo, presente em alguns manuscritos, não está em nenhuma edição, sem atribuí-lo a um grupo de manuscritos."
+ },
+ {
+  "ref": "Mat.9.14",
+  "gravidade": "media",
+  "problema": "Nota tc afirma que Westcott-Hort omite 'polla' 'com manuscritos antigos importantes' e que outros trazem 'pykna'. A folha não tem nenhuma linha VARIANTE em 9:14; nada disso é confirmado e a menção a manuscritos é vaga.",
+  "sugestao": "Remover a nota tc, ou reduzi-la a: 'Alguns manuscritos trazem “com frequência” (pykna), como Lc 5:33; sem efeito importante.' sem citar edições.",
+  "decisao": "aceito em parte: a omissão de πολλά em Westcott-Hort está nos dados (WH falta na lista de edições da palavra) e foi mantida; retirei a menção a pykna e aos manuscritos, que a folha não sustenta."
+ },
+ {
+  "ref": "Mat.10.4",
+  "gravidade": "media",
+  "problema": "Guia (onda 1) manda 'Simão, o Zelote' (Z maiúsculo); o texto traz 'o zelote'. A nota também afirma que TR/Bizantino trazem 'Kananitēs', o que a folha não mostra (a única VARIANTE é 'ὁ' ausente em TR/Bizantino).",
+  "sugestao": "t: 'Simão, o Zelote'. Na nota, retirar a afirmação sobre 'Kananitēs' (ou deixá-la sem atribuição a edições).",
+  "decisao": "aceito em parte: o texto passou a “Simão, o Zelote”, com maiúscula, segundo a regra da onda 1; a menção a Kananitēs fica, porque os dados registram a grafia Κανανίτης no TR e no Bizantino (var_grafia)."
+ },
+ {
+  "ref": "Mat.12.4",
+  "gravidade": "baixa",
+  "problema": "Nota tc diz que SBLGNT, NA28 e Westcott-Hort trazem ephagon e Tregelles, TR e Bizantino ephagen. A folha só mostra 'ἔφαγον, ὃ' ausente em TR e Bizantino; NA28, WH e Tregelles não são mencionados.",
+  "sugestao": "Limitar a: 'O Textus Receptus e o Texto Bizantino trazem ephagen (“comeu”, só Davi) e o pronome plural hous; o texto-base traz ephagon e ho.'",
+  "decisao": "rejeitado: os dados mostram ἔφαγον no NA28, NA27, SBL e WH e ἔφαγεν no THGNT, Tregelles, TR e Bizantino, como a nota dizia; só acrescentei o THGNT, que faltava."
+ },
+ {
+  "ref": "Mat.8.7",
+  "gravidade": "baixa",
+  "problema": "Nota tc diz que 'o SBLGNT e o NA28' não trazem 'Jesus'. A folha confirma Tregelles, TR e Bizantino, mas não menciona o NA28.",
+  "sugestao": "Retirar 'e o NA28' ou dizer só 'o texto-base não traz'.",
+  "decisao": "rejeitado: nos dados, ὁ Ἰησοῦς aparece só em Tregelles, TR e Bizantino, então o NA28 de fato não o traz; acrescentei o THGNT e Westcott-Hort, que também não o trazem."
+ },
+ {
+  "ref": "Mat.12.15",
+  "gravidade": "baixa",
+  "problema": "Nota tc cita 'manuscritos antigos como ℵ e B' e atribui a leitura curta a SBLGNT e WH; a folha só confirma que NA28, NA27, THGNT, Tregelles, TR e Bizantino têm 'ὄχλοι'. Manuscritos citados sem apoio da folha (guia: na dúvida, 'manuscritos mais antigos').",
+  "sugestao": "'...com parte dos manuscritos mais antigos.' ou retirar a menção a ℵ e B.",
+  "decisao": "aceito em parte: a distribuição das edições está nos dados (ὄχλοι falta no SBL e no WH) e foi mantida; troquei “ℵ e B” por “parte dos manuscritos mais antigos”."
+ },
+ {
+  "ref": "Mat.12.47",
+  "gravidade": "baixa",
+  "problema": "Nota tc diz que 'Westcott-Hort' omite o versículo; a folha não tem VARIANTE para 12:47 e não confirma isso (WH costuma ser descrito como pondo o texto entre colchetes). O texto-base da folha traz o versículo, então não precisa de ⟦ ⟧.",
+  "sugestao": "'Falta em alguns manuscritos antigos importantes (o Sinaítico na forma original e o Vaticano); o NA28 o traz entre colchetes.' Retirar WH, salvo confirmação.",
+  "decisao": "rejeitado: todas as palavras de 12:47 nos dados trazem NA28, NA27, Tyn, SBL, Treg, TR e Byz, mas não WH, o que confirma que Westcott-Hort omite o versículo; a nota fica."
+ },
+ {
+  "ref": "Mat.10.29",
+  "gravidade": "baixa",
+  "problema": "'sem o consentimento do Pai' acrescenta interpretação a ἄνευ τοῦ πατρός (lit. 'sem o Pai'); a própria nota admite que o grego não diz 'vontade' nem 'conhecimento'. Guia: não acrescentar interpretação.",
+  "sugestao": "'nenhum deles cai no chão sem o Pai de vocês' (ou 'à parte do Pai de vocês'), com a nota explicando as leituras 'sem a vontade/sem o conhecimento'.",
+  "decisao": "aceito: o texto passou a “sem o Pai de vocês”, literal, e a nota apresenta as leituras “sem que o Pai saiba” e “sem a vontade do Pai”; retirei o revisar."
+ },
+ {
+  "ref": "Mat.10.33",
+  "gravidade": "baixa",
+  "problema": "A nota afirma sem ressalva que a restauração de Pedro 'mostra que a advertência se refere a uma rejeição definitiva, não a uma queda da qual há arrependimento'. É ponto debatido; o guia pede apresentar as posições sérias.",
+  "sugestao": "Reescrever apresentando as leituras (negação definitiva/apostasia vs. advertência que também alcança quedas passageiras, cf. Pedro em Jo 21), sem decidir.",
+  "decisao": "aceito: a nota agora apresenta as duas leituras (negação definitiva/apostasia ou advertência que alcança também quedas passageiras) sem decidir."
+ },
+ {
+  "ref": "Mat.10.35",
+  "gravidade": "baixa",
+  "problema": "Nota afirma que Mateus 'está mais perto do hebraico que da Septuaginta' em Mq 7:6. Duvidoso: Mateus tem νύμφη/πενθερά como a LXX e se afasta de ambos (διχάσαι, κατά); afirmação sobre dependência textual não verificada.",
+  "sugestao": "'Citação livre de Mq 7:6, sem fórmula de introdução; Mateus adapta a construção e não segue literalmente nem o hebraico nem a Septuaginta.'",
+  "decisao": "aceito: a afirmação sobre dependência do hebraico foi retirada; a nota diz que Mateus adapta a frase e não segue literalmente nenhum dos dois textos."
+ },
+ {
+  "ref": "Mat.9.15",
+  "gravidade": "baixa",
+  "problema": "Nota cita Mt 6:16-18 como prova de que 'depois dela' o jejum volta entre os discípulos; 6:16-18 é anterior e é instrução do Sermão, não evidência de prática pós-ressurreição.",
+  "sugestao": "Trocar por At 13:2-3; 14:23 ou retirar a referência.",
+  "decisao": "aceito: 6:16-18 não prova a prática depois da morte de Jesus; a nota agora cita At 13:2-3 e 14:23 e menciona 6:16-18 só como pressuposto da prática."
+ },
+ {
+  "ref": "Mat.9.13",
+  "gravidade": "baixa",
+  "problema": "Afirma que 'Vão e aprendam' é 'expressão usada pelos mestres judeus para mandar o aluno estudar um texto', sem fonte; a fórmula rabínica 'vá e aprenda' é atestada em fontes posteriores.",
+  "sugestao": "'lembra a fórmula rabínica “vá e aprenda”, atestada em fontes posteriores' ou remover a generalização.",
+  "decisao": "aceito: a nota agora diz que a expressão lembra a fórmula rabínica “vá e aprenda”, atestada em fontes judaicas posteriores."
+ },
+ {
+  "ref": "Mat.11.10",
+  "gravidade": "baixa",
+  "problema": "Na citação (Êx 23:20/Ml 3:1) Deus fala ao Messias; o guia manda 'tu' quando Deus Pai fala ao Filho em citações. O texto usa 'à sua frente... diante de você'.",
+  "sugestao": "'à tua frente; ele preparará o teu caminho diante de ti' (e ajustar a nota).",
+  "decisao": "aceito: pela regra da onda 1 (Deus Pai falando ao Filho, “tu”), o texto passou a “à tua frente ... o teu caminho diante de ti”, e as notas foram ajustadas."
+ },
+ {
+  "ref": "Mat.10.42",
+  "gravidade": "baixa",
+  "problema": "'meu discípulo' acrescenta 'meu' a 'εἰς ὄνομα μαθητοῦ' e é inconsistente com 'por ser profeta' / 'por ser justo' no v. 41.",
+  "sugestao": "'por ser discípulo' (com nota, se quiserem explicitar que é discípulo de Jesus).",
+  "decisao": "aceito: “por ser discípulo” fica paralelo a “por ser profeta/justo”; a nota explica que, no contexto, é discípulo de Jesus."
+ },
+ {
+  "ref": "Mat.12.33",
+  "gravidade": "baixa",
+  "problema": "ποιήσατε (imperativo) vertido como indicativo 'vocês consideram'; muda a forma do grego e a nota reconhece a alternativa 'tornem boa a árvore'.",
+  "sugestao": "'Ou façam boa a árvore e bom o seu fruto, ou façam ruim a árvore e ruim o seu fruto', com nota explicando 'considerem/declarem'.",
+  "decisao": "aceito: mantive a forma imperativa “façam boa a árvore...”, e a nota explica o sentido provável de “considerar, declarar” e a alternativa “tornem boa”."
+ },
+ {
+  "ref": "Mat.8.27",
+  "gravidade": "baixa",
+  "problema": "'Que tipo de homem é este' insere 'homem' que o grego não tem (a nota admite). Guia: não acrescentar interpretação.",
+  "sugestao": "'De que espécie é este, que até os ventos e o mar lhe obedecem?' ou 'Quem é este...'.",
+  "decisao": "aceito: o texto passou a “Quem é este, que até os ventos e o mar lhe obedecem?”, e a nota guarda o matiz de potapos (“de que espécie”)."
+ },
+ {
+  "ref": "Mat.8.26",
+  "gravidade": "baixa",
+  "problema": "'homens de pouca fé': 'homens' acrescentado a ὀλιγόπιστοι (a nota admite); português aceita sem o acréscimo.",
+  "sugestao": "'gente de pouca fé' ou 'de pouca fé'.",
+  "decisao": "aceito: “homens de pouca fé” passou a “gente de pouca fé”, sem restringir o grupo, e a nota foi ajustada."
+ }
+]
