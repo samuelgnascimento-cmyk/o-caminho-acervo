@@ -78,7 +78,7 @@
   ]
  },
  "Act.1.4": {
-  "t": "Certa vez, enquanto comia com eles, ordenou-lhes que não se afastassem de Jerusalém, mas esperassem a promessa do Pai, “que vocês ouviram de mim”, disse ele;",
+  "t": "E, enquanto comia com eles, ordenou-lhes que não se afastassem de Jerusalém, mas esperassem a promessa do Pai, “que vocês ouviram de mim”, disse ele;",
   "n": [
    {
     "tipo": "tn",
@@ -119,7 +119,7 @@
     "ancora": "batizados com o Espírito Santo",
     "termo": "βαπτίζω ἐν πνεύματι (baptizō en pneumati)",
     "titulo": "batismo no Espírito: o debate",
-    "texto": "A promessa de João Batista (Lc 3:16) se cumpre em Pentecostes (2:1-4; 11:16). O sentido da expressão é debatido. A tradição pentecostal e carismática, à qual a APV se filia, entende o batismo no Espírito em Atos sobretudo como revestimento de poder para o testemunho (1:8), que pode ocorrer distinto da conversão e ser seguido de sinais como as línguas (2:4; 8:14-17; 19:1-6). Outros, sobretudo na tradição reformada, o identificam com a entrada na nova aliança, recebida por todo crente na conversão (1Co 12:13); J. D. G. Dunn, Baptism in the Holy Spirit (1970), é a defesa clássica dessa leitura. Ver as notas em 2:4 e 2:38."
+    "texto": "A promessa de João Batista (Lc 3:16) se cumpre em Pentecostes (2:1-4; 11:16). O sentido da expressão é debatido. A tradição pentecostal clássica entende o batismo no Espírito em Atos sobretudo como revestimento de poder para o testemunho (1:8), distinto da conversão e acompanhado do sinal das línguas (2:4; 8:14-17; 19:1-6). Muitos carismáticos e outros continuístas também o veem como capacitação para a missão, sem fixar uma ordem ou um sinal obrigatório. Os cessacionistas e boa parte da tradição reformada o identificam com a entrada na nova aliança, recebida por todo crente na conversão (1Co 12:13); J. D. G. Dunn, Baptism in the Holy Spirit (1970), é a defesa clássica dessa leitura. O texto de Lucas liga a promessa ao poder para testemunhar (1:8) e mostra que a experiência pode vir junto com a conversão (10:44-48) ou depois dela (8:14-17). Ver as notas em 2:4 e 2:38."
    },
    {
     "tipo": "tn",
@@ -207,7 +207,7 @@
     "ancora": "dois homens vestidos de branco",
     "termo": "ἄνδρες δύο ... ἐν ἐσθήσεσι λευκαῖς (andres dyo ... en esthēsesi leukais)",
     "titulo": "anjos",
-    "texto": "Lucas descreve anjos como “homens” de vestes brilhantes, como no túmulo vazio (Lc 24:4; cf. 24:23) e na transfiguração (Lc 9:30). Dois é o número das testemunhas (Dt 19:15). O Textus Receptus tem o singular esthēti leukē (“em veste branca”), sem diferença de sentido."
+    "texto": "Lucas descreve anjos como “homens” de vestes brilhantes, como no túmulo vazio (Lc 24:4; cf. 24:23) e na transfiguração (Lc 9:30). Dois é o número das testemunhas (Dt 19:15). O NA28, o Textus Receptus e o Texto Bizantino têm o singular esthēti leukē (“em veste branca”), sem diferença de sentido."
    }
   ]
  },
@@ -250,7 +250,7 @@
   ]
  },
  "Act.1.13": {
-  "t": "Quando entraram na cidade, subiram à sala de cima, onde estavam hospedados: Pedro e João, Tiago e André, Filipe e Tomé, Bartolomeu e Mateus, Tiago, filho de Alfeu, Simão, o Zelote, e Judas, filho de Tiago.",
+  "t": "Quando entraram, subiram à sala de cima, onde estavam hospedados: Pedro e João, Tiago e André, Filipe e Tomé, Bartolomeu e Mateus, Tiago, filho de Alfeu, Simão, o Zelote, e Judas, filho de Tiago.",
   "n": [
    {
     "tipo": "tn",
@@ -271,7 +271,7 @@
     "ancora": "Simão, o Zelote",
     "termo": "Σίμων ὁ ζηλωτής (Simōn ho zēlōtēs)",
     "titulo": "zēlōtēs",
-    "texto": "Pode indicar que Simão pertencia a um grupo nacionalista judeu que resistia a Roma, ou apenas que era conhecido por seu zelo pela Lei (cf. 21:20; 22:3, onde a mesma palavra significa “zeloso”). Se o partido dos zelotes já existia como movimento organizado antes da guerra de 66-70 d.C. é discutido."
+    "texto": "Pode indicar que Simão pertencia a um grupo nacionalista judeu que resistia a Roma, ou apenas que era conhecido por seu zelo pela Lei (cf. 21:20; 22:3, onde a mesma palavra significa “zeloso”). Se o partido dos zelotes já existia como movimento organizado antes da guerra de 66-70 d.C. é discutido. Em Mt 10:4 e Mc 3:18 ele é chamado Kananaios, do aramaico qan’ana, “zeloso”: não é “cananeu”, isto é, de Canaã; Lucas traduz o termo para o grego."
    },
    {
     "tipo": "tn",
@@ -368,8 +368,15 @@
   ]
  },
  "Act.1.17": {
-  "t": "Ele era contado entre nós e recebeu a sua parte neste ministério.",
+  "t": "Pois ele era contado entre nós e recebeu a sua parte neste ministério.",
   "n": [
+   {
+    "tipo": "tn",
+    "ancora": "era contado entre nós",
+    "termo": "κατηριθμημένος ἦν ἐν ἡμῖν (katērithmēmenos ēn en hēmin)",
+    "titulo": "katarithmeō, hápax",
+    "texto": "“Contar no número de, incluir na lista”. O perfeito perifrástico indica que Judas fazia parte do grupo de modo reconhecido. O “pois” (hoti) liga a frase ao v. 16: a Escritura falava dele porque era um dos Doze. O Textus Receptus e o Texto Bizantino têm syn em vez de en (“contado conosco”), sem efeito no sentido."
+   },
    {
     "tipo": "tn",
     "ancora": "recebeu a sua parte",
@@ -447,7 +454,7 @@
     "ancora": "Fique deserta a sua morada, e não haja quem nela habite",
     "termo": "γενηθήτω ἡ ἔπαυλις αὐτοῦ ἔρημος (genēthētō hē epaulis autou erēmos)",
     "titulo": "Sl 69:25 (68:26 LXX)",
-    "texto": "Citação livre do Salmo 69:25 conforme a Septuaginta. O salmo fala no plural (“a morada deles”) dos inimigos do justo sofredor; Pedro aplica ao singular, a Judas. O NT lê o Salmo 69 como salmo do Messias rejeitado (Jo 2:17; 15:25; Rm 15:3)."
+    "texto": "Citação livre do Sl 69:25 (68:26 LXX), conforme a Septuaginta. O salmo fala no plural (“a morada deles”) dos inimigos do justo sofredor; Pedro aplica ao singular, a Judas. O NT lê o Salmo 69 como salmo do Messias rejeitado (Jo 2:17; 15:25; Rm 15:3)."
    },
    {
     "tipo": "tn",
@@ -461,7 +468,7 @@
     "ancora": "Que outro tome o seu cargo",
     "termo": "τὴν ἐπισκοπὴν αὐτοῦ λαβέτω ἕτερος (tēn episkopēn autou labetō heteros)",
     "titulo": "Sl 109:8 (108:8 LXX)",
-    "texto": "Citação exata da Septuaginta. Episkopē é a função de supervisão; da mesma família vem episkopos (“supervisor”, “bispo”). O primeiro salmo explica o fim de Judas; o segundo justifica escolher um substituto. O Textus Receptus tem labot (optativo), “tome”, com o mesmo sentido."
+    "texto": "Segundo Sl 109:8 (108:8 LXX), com o imperativo labetō (“tome”) em lugar do optativo laboi da Septuaginta, que é também a leitura do Textus Receptus e do Texto Bizantino; o sentido é o mesmo. Episkopē é a função de supervisão; da mesma família vem episkopos (“supervisor”, “bispo”). O primeiro salmo explica o fim de Judas; o segundo justifica escolher um substituto."
    },
    {
     "tipo": "tn",
@@ -506,7 +513,7 @@
     "ancora": "é necessário que um deles se torne",
     "termo": "γενέσθαι ἕνα τούτων (genesthai hena toutōn)",
     "titulo": "a construção",
-    "texto": "O dei (“é necessário”) do v. 21 só é completado aqui, depois de longa descrição. A tradução repete “é necessário” para que a frase seja clara em português. O Textus Receptus e o Texto Bizantino põem genesthai em outra posição, sem efeito na tradução."
+    "texto": "O dei (“é necessário”) do v. 21 só é completado aqui, depois de longa descrição. A tradução repete “é necessário” para que a frase seja clara em português."
    }
   ]
  },
@@ -518,7 +525,7 @@
     "ancora": "apresentaram",
     "termo": "ἔστησαν (estēsan)",
     "titulo": "quem apresentou?",
-    "texto": "Lit. “puseram de pé”. O sujeito é o grupo inteiro (os cento e vinte). Um manuscrito antigo, o Códice de Beza (D), lê o singular estēsen (“ele”, Pedro, apresentou), mas o plural é o texto bem atestado."
+    "texto": "Lit. “puseram de pé”. O sujeito é o grupo inteiro (os cento e vinte). Um manuscrito antigo, o Códice de Beza (D), lê o singular estēsen (“ele”, Pedro, apresentou), mas o plural é o texto bem atestado (Metzger discute a variante)."
    },
    {
     "tipo": "sn",
@@ -667,7 +674,7 @@
     "ancora": "pousou",
     "termo": "ἐκάθισεν (ekathisen)",
     "titulo": "singular",
-    "texto": "Lit. “sentou-se”. O verbo está no singular: “pousou” uma sobre cada um. O sujeito pode ser “fogo” ou uma das línguas. O Textus Receptus e o Texto Bizantino têm ekathise, mesma forma, sem efeito na tradução."
+    "texto": "Lit. “sentou-se”. O verbo está no singular: “pousou” uma sobre cada um. O sujeito pode ser “fogo” ou uma das línguas. O NA28, o Textus Receptus e o Texto Bizantino têm te em vez de kai antes do verbo (“e pousou”), sem efeito no sentido."
    },
    {
     "tipo": "sn",
@@ -707,7 +714,7 @@
     "ancora": "começaram a falar em outras línguas",
     "termo": "ἤρξαντο λαλεῖν ἑτέραις γλώσσαις",
     "titulo": "as línguas em Atos e o debate atual",
-    "texto": "Atos registra o falar em línguas também em Cesareia (10:46) e em Éfeso (19:6); em Samaria (8:17-19) há um sinal visível que o texto não descreve. Paulo trata do dom de línguas em 1Co 12-14, onde, em geral, as línguas não são entendidas sem interpretação (1Co 14:2, 27-28). Se o fenômeno de Pentecostes (idiomas entendidos pelos ouvintes) é o mesmo de Corinto é discutido. Três posições principais: (1) A tradição pentecostal clássica vê as línguas como a evidência física inicial do batismo no Espírito, com base no padrão de Atos (2:4; 10:46; 19:6). (2) Muitos carismáticos e outros continuístas afirmam que línguas, profecia e curas continuam a ser dadas à igreja (1Co 12:7-11; 14:39), sem fazer das línguas o sinal obrigatório do batismo no Espírito; G. D. Fee e C. S. Keener são defensores acadêmicos dessa linha. (3) Os cessacionistas entendem que as línguas eram sinal ligado ao fundamento apostólico da igreja e cessaram com ele; B. B. Warfield, Counterfeit Miracles (1918), e R. B. Gaffin, Perspectives on Pentecost (1979), são obras clássicas dessa posição. A APV é continuísta: entende que o NT não marca o fim desses dons antes da volta de Cristo (1Co 13:8-12). Todos concordam que Pentecostes tem um aspecto único e irrepetível: a inauguração da era do Espírito.",
+    "texto": "Atos registra o falar em línguas também em Cesareia (10:46) e em Éfeso (19:6); em Samaria (8:17-19) há um sinal visível que o texto não descreve. Paulo trata do dom de línguas em 1Co 12-14, onde, em geral, as línguas não são entendidas sem interpretação (1Co 14:2, 27-28). Se o fenômeno de Pentecostes (idiomas entendidos pelos ouvintes) é o mesmo de Corinto é discutido. Três posições principais: (1) A tradição pentecostal clássica vê as línguas como a evidência física inicial do batismo no Espírito, com base no padrão de Atos (2:4; 10:46; 19:6). (2) Muitos carismáticos e outros continuístas afirmam que línguas, profecia e curas continuam a ser dadas à igreja (1Co 12:7-11; 14:39), sem fazer das línguas o sinal obrigatório do batismo no Espírito; G. D. Fee e C. S. Keener são defensores acadêmicos dessa linha. (3) Os cessacionistas entendem que as línguas eram sinal ligado ao fundamento apostólico da igreja e cessaram com ele; B. B. Warfield, Counterfeit Miracles (1918), e R. B. Gaffin, Perspectives on Pentecost (1979), são obras clássicas dessa posição. A linha da APV é continuísta: entende que o NT não marca o fim desses dons antes da volta de Cristo (1Co 13:8-12). Todos concordam que Pentecostes tem um aspecto único e irrepetível: a inauguração da era do Espírito.",
     "revisar": true
    }
   ]
@@ -927,7 +934,7 @@
   ]
  },
  "Act.2.17": {
-  "t": "‘E acontecerá nos últimos dias, diz Deus, que derramarei do meu Espírito sobre toda carne; os seus filhos e as suas filhas profetizarão, os seus jovens terão visões, e os seus velhos terão sonhos.",
+  "t": "‘E acontecerá nos últimos dias, diz Deus, que derramarei do meu Espírito sobre toda carne; os filhos e as filhas de vocês profetizarão, os seus jovens terão visões, e os seus velhos terão sonhos.",
   "n": [
    {
     "tipo": "sn",
@@ -952,10 +959,17 @@
    },
    {
     "tipo": "sn",
-    "ancora": "os seus filhos e as suas filhas profetizarão",
+    "ancora": "os filhos e as filhas de vocês profetizarão",
     "termo": "προφητεύσουσιν οἱ υἱοὶ ὑμῶν καὶ αἱ θυγατέρες ὑμῶν",
     "titulo": "a profecia para todos",
     "texto": "Moisés desejara que todo o povo do Senhor fosse profeta (Nm 11:29); Joel anuncia que isso acontecerá. Em Atos, o Espírito de profecia vem sobre homens e mulheres (21:9), jovens e velhos. Profetizar aqui não é só predizer: é falar em nome de Deus, sob o impulso do Espírito. Pedro interpreta o falar em línguas de Pentecostes como cumprimento desta palavra. Sobre a continuidade da profecia, ver a nota no v. 18."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "os filhos e as filhas de vocês",
+    "termo": "οἱ υἱοὶ ὑμῶν καὶ αἱ θυγατέρες ὑμῶν (hoi huioi hymōn kai hai thygateres hymōn)",
+    "titulo": "“de vocês”",
+    "texto": "Deus fala ao povo na 2ª pessoa do plural (hymōn, “de vocês”). Na primeira vez a tradução diz “de vocês” para deixar claro o destinatário; depois usa “seus”, que no português do Brasil é o possessivo de “vocês”, para não repetir a expressão três vezes."
    }
   ]
  },
@@ -1110,7 +1124,7 @@
     "ancora": "livrando-o das dores da morte",
     "termo": "λύσας τὰς ὠδῖνας τοῦ θανάτου (lysas tas ōdinas tou thanatou)",
     "titulo": "“soltando as dores de parto da morte”",
-    "texto": "Lit. “desatando as dores da morte”. Ōdines são as dores de parto. A expressão vem da Septuaginta (Sl 18:4-5; 116:3), que traduziu assim o hebraico ḥeblê-māwet, “laços da morte”: a palavra hebraica ḥebel significa tanto “corda” quanto “dor de parto”. Daí a imagem mista: a morte, como cordas, prendia Jesus, e a ressurreição é como um parto, o nascimento para a vida nova (cf. Cl 1:18, “primogênito dentre os mortos”)."
+    "texto": "Lit. “desatando as dores da morte”. Ōdines são as dores de parto. A expressão vem da Septuaginta (Sl 18:4-5 [17:5-6 LXX]; 116:3 [114:3 LXX]), que traduziu assim o hebraico ḥeblê-māwet, “laços da morte”: a palavra hebraica ḥebel significa tanto “corda” quanto “dor de parto”. Daí a imagem mista: a morte, como cordas, prendia Jesus, e a ressurreição é como um parto, o nascimento para a vida nova (cf. Cl 1:18, “primogênito dentre os mortos”)."
    },
    {
     "tipo": "tn",
@@ -1129,7 +1143,7 @@
     "ancora": "Eu via o Senhor sempre diante de mim",
     "termo": "προορώμην τὸν κύριον ἐνώπιόν μου διὰ παντός",
     "titulo": "Sl 16:8-11 (15:8-11 LXX)",
-    "texto": "Citação exata da Septuaginta. No hebraico, “Senhor” é o nome divino YHWH. No salmo, Davi expressa confiança em que Deus não o abandonaria à morte; Pedro argumenta (vv. 29-31) que essas palavras só se cumprem plenamente em alguém que de fato não viu a decomposição: o Messias."
+    "texto": "Citação de Sl 16:8-11 (15:8-11 LXX), exata segundo a Septuaginta (vv. 25-28). No hebraico, “Senhor” é o nome divino YHWH. No salmo, Davi expressa confiança em que Deus não o abandonaria à morte; Pedro argumenta (vv. 29-31) que essas palavras só se cumprem plenamente em alguém que de fato não viu a decomposição: o Messias."
    },
    {
     "tipo": "tn",
@@ -1224,11 +1238,11 @@
   ]
  },
  "Act.2.30": {
-  "t": "Mas, sendo profeta, e sabendo que Deus lhe havia jurado com juramento que poria no trono dele um dos seus descendentes,",
+  "t": "Sendo, pois, profeta, e sabendo que Deus lhe havia jurado com juramento que poria no trono dele um dos seus descendentes,",
   "n": [
    {
     "tipo": "sn",
-    "ancora": "sendo profeta",
+    "ancora": "Sendo, pois, profeta",
     "termo": "προφήτης ... ὑπάρχων (prophētēs ... hyparchōn)",
     "titulo": "Davi como profeta",
     "texto": "O AT apresenta Davi falando pelo Espírito (2Sm 23:1-2), e a tradição judaica o via como profeta: um rolo de Salmos de Qumran (11QPsᵃ) diz que ele compôs seus salmos “por profecia”."
@@ -1328,7 +1342,7 @@
     "ancora": "O Senhor disse ao meu Senhor",
     "termo": "εἶπεν ὁ κύριος τῷ κυρίῳ μου (eipen ho kyrios tō kyriō mou)",
     "titulo": "Sl 110:1 (109:1 LXX)",
-    "texto": "O salmo mais citado no NT. No hebraico, o primeiro “Senhor” é o nome divino YHWH; o segundo é ’ădōnî, “meu senhor”, título de um rei ou superior. Jesus mesmo usou o salmo para mostrar que o Messias é mais que filho de Davi (Lc 20:41-44). Pedro argumenta: Davi não subiu aos céus; quem se senta à direita de Deus é o Senhor de Davi, Jesus."
+    "texto": "Citação de Sl 110:1 (109:1 LXX), o salmo mais citado no NT. No hebraico, o primeiro “Senhor” é o nome divino YHWH; o segundo é ’ădōnî, “meu senhor”, título de um rei ou superior. Jesus mesmo usou o salmo para mostrar que o Messias é mais que filho de Davi (Lc 20:41-44). Pedro argumenta: Davi não subiu aos céus; quem se senta à direita de Deus é o Senhor de Davi, Jesus."
    },
    {
     "tipo": "tn",
@@ -1385,7 +1399,7 @@
     "ancora": "sentiram o coração traspassado",
     "termo": "κατενύγησαν τὴν καρδίαν (katenygēsan tēn kardian)",
     "titulo": "katanyssomai, hápax",
-    "texto": "“Ser ferido, perfurado”. Na Septuaginta descreve a dor profunda (Sl 109:16; Gn 34:7). “Compungiram-se” (ARC) é correto, mas a palavra hoje é pouco usada; “traspassado” guarda a imagem."
+    "texto": "“Ser ferido, perfurado”. Na Septuaginta descreve a dor profunda (Sl 109:16 [108:16 LXX]; Gn 34:7). “Compungiram-se” (ARC) é correto, mas a palavra hoje é pouco usada; “traspassado” guarda a imagem."
    }
   ]
  },
@@ -1544,14 +1558,14 @@
   ]
  },
  "Act.2.45": {
-  "t": "Vendiam as suas propriedades e os seus bens e repartiam o dinheiro entre todos, conforme a necessidade de cada um.",
+  "t": "Vendiam as suas propriedades e os seus bens e os repartiam entre todos, conforme a necessidade de cada um.",
   "n": [
    {
     "tipo": "tn",
     "ancora": "Vendiam",
     "termo": "ἐπίπρασκον (epipraskon)",
     "titulo": "imperfeito",
-    "texto": "Os verbos estão no imperfeito: vendiam e repartiam à medida que surgiam necessidades, e não de uma só vez. Ktēmata são propriedades, sobretudo terras; hyparxeis, bens em geral. “O dinheiro” foi acrescentado para clareza; lit. “os repartiam”."
+    "texto": "Os verbos estão no imperfeito: vendiam e repartiam à medida que surgiam necessidades, e não de uma só vez. Ktēmata são propriedades, sobretudo terras; hyparxeis, bens em geral. “Os repartiam” segue o grego (auta): repartiam o que fora vendido, isto é, o produto da venda."
    }
   ]
  },
@@ -1596,7 +1610,7 @@
     "ancora": "ao grupo",
     "termo": "ἐπὶ τὸ αὐτό (epi to auto)",
     "titulo": "“à igreja”",
-    "texto": "O texto crítico termina o versículo com epi to auto (lit. “ao mesmo”, isto é, “juntos, ao grupo”). O Textus Receptus e o Texto Bizantino passam epi to auto para o início de 3:1, e Almeida, que segue essa tradição, traz aqui “à igreja”. A primeira ocorrência de ekklēsia no texto crítico de Atos é 5:11."
+    "texto": "O texto crítico termina o versículo com epi to auto (lit. “ao mesmo”, isto é, “juntos, ao grupo”). O Textus Receptus e o Texto Bizantino trazem aqui tē ekklēsia (“à igreja”, como em Almeida) e passam epi to auto para o início de 3:1. A primeira ocorrência de ekklēsia no texto crítico de Atos é 5:11."
    }
   ]
  },
@@ -1674,7 +1688,7 @@
     "ancora": "ande!",
     "termo": "περιπάτει (peripatei)",
     "titulo": "“levante-se e ande”",
-    "texto": "O SBLGNT e Westcott-Hort trazem só “ande!”. O NA28, o THGNT e Tregelles, com o Textus Receptus e o Texto Bizantino, trazem “levante-se e ande” (egeire kai peripatei). A frase longa é a forma comum nas curas dos Evangelhos (Lc 5:23), o que pode explicar o acréscimo; mas o apoio a ela é forte, e as edições divergem. O sentido não muda.",
+    "texto": "O SBLGNT, texto-base da APV, traz só “ande!”. O NA28, o NA27, o THGNT e Tregelles trazem “levante-se e ande” (egeire kai peripatei); o Textus Receptus e o Texto Bizantino também têm o kai dessa forma longa. A frase longa é a forma comum nas curas dos Evangelhos (Lc 5:23), o que pode explicar o acréscimo; mas o apoio a ela é forte, e as edições divergem. O sentido não muda.",
     "revisar": true
    },
    {
@@ -1875,7 +1889,7 @@
     "ancora": "que o seu Cristo havia de sofrer",
     "termo": "παθεῖν τὸν χριστὸν αὐτοῦ (pathein ton christon autou)",
     "titulo": "o Messias sofredor",
-    "texto": "“O seu Cristo” é “o seu Ungido” (Sl 2:2, citado em 4:26). Um Messias que sofre não era a expectativa comum, mas Jesus ensinou que “todos os profetas” o anunciavam (Lc 24:25-27, 44-46). O Textus Receptus e o Texto Bizantino não têm “seu” (autou): “que o Cristo havia de sofrer”."
+    "texto": "“O seu Cristo” é “o seu Ungido” (Sl 2:2, citado em 4:26). Um Messias que sofre não era a expectativa comum, mas Jesus ensinou que “todos os profetas” o anunciavam (Lc 24:25-27, 44-46)."
    }
   ]
  },
@@ -2016,6 +2030,13 @@
     "termo": "ἐν τῷ σπέρματί σου ἐνευλογηθήσονται πᾶσαι αἱ πατριαὶ τῆς γῆς",
     "titulo": "Gn 22:18; 12:3",
     "texto": "Combinação de Gn 22:18 e 12:3. A Septuaginta tem “nações” ou “tribos”; Pedro usa patriai, “famílias”. “Descendência” traduz sperma (“semente”), singular coletivo. O v. 26 sugere que a bênção vem por um descendente, Jesus, leitura que Paulo desenvolve em Gl 3:8, 16. Na fala de Deus a Abraão, a APV usa “você”, conforme a regra do projeto para Deus falando a pessoas."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "os pais de vocês",
+    "termo": "τοὺς πατέρας ὑμῶν (tous pateras hymōn)",
+    "titulo": "“vossos” ou “nossos” pais",
+    "texto": "O texto crítico traz hymōn (“de vocês”); o Textus Receptus e o Texto Bizantino, hēmōn (“nossos pais”), como em 3:13. Pedro se inclui ou não entre os descendentes; o sentido não muda."
    }
   ]
  },
@@ -2103,7 +2124,7 @@
     "ancora": "homens",
     "termo": "τῶν ἀνδρῶν (tōn andrōn)",
     "titulo": "anēr",
-    "texto": "Anēr é, em geral, “homem” do sexo masculino, o que faria o total de crentes ainda maior. Mas às vezes Lucas usa a palavra de modo genérico (17:34, onde inclui Dâmaris). O número pode ser o total da comunidade. O Textus Receptus e o Texto Bizantino não têm hōs (“cerca de”)."
+    "texto": "Anēr é, em geral, “homem” do sexo masculino, o que faria o total de crentes ainda maior. Em fórmulas de tratamento, porém, Lucas usa andres para grupos que incluem mulheres (andres adelphoi em 1:16, dirigido a um grupo com mulheres, 1:14-15). O número pode, então, ser o total da comunidade. O NA28, o Textus Receptus e o Texto Bizantino têm hōsei em vez de hōs, ambos “cerca de”."
    }
   ]
  },
@@ -2127,7 +2148,7 @@
     "ancora": "Anás, o sumo sacerdote, Caifás",
     "termo": "Ἅννας ὁ ἀρχιερεὺς καὶ Καϊάφας (Hannas ho archiereus kai Kaiaphas)",
     "titulo": "Anás e Caifás",
-    "texto": "Anás foi sumo sacerdote de 6 a 15 d.C.; deposto pelos romanos, continuou a ser chamado “sumo sacerdote” e a exercer grande influência (Lc 3:2; Jo 18:13, 24). Caifás, seu genro, era o sumo sacerdote em exercício (18-36 d.C.). Cinco filhos de Anás chegaram ao cargo depois. O “João” mencionado é desconhecido; o Códice de Beza (D) lê “Jônatas”, nome de um filho de Anás que foi sumo sacerdote depois de Caifás. De Alexandre nada se sabe."
+    "texto": "Anás foi sumo sacerdote de 6 a 15 d.C.; deposto pelos romanos, continuou a ser chamado “sumo sacerdote” e a exercer grande influência (Lc 3:2; Jo 18:13, 24). Caifás, seu genro, era o sumo sacerdote em exercício (18-36 d.C.). Cinco filhos de Anás chegaram ao cargo depois. O “João” mencionado é desconhecido; o Códice de Beza (D) lê “Jônatas” (Metzger discute a variante), nome de um filho de Anás que foi sumo sacerdote depois de Caifás. De Alexandre nada se sabe."
    },
    {
     "tipo": "tn",
@@ -2170,7 +2191,7 @@
   ]
  },
  "Act.4.9": {
-  "t": "visto que hoje somos interrogados a respeito de um benefício feito a um homem doente, e sobre como ele foi curado,",
+  "t": "visto que hoje somos interrogados a respeito de um benefício feito a um homem doente, e sobre por quem este homem foi curado,",
   "n": [
    {
     "tipo": "tn",
@@ -2185,6 +2206,13 @@
     "termo": "σέσωται (sesōtai)",
     "titulo": "sōzō: “curar” e “salvar”",
     "texto": "Sōzō é “salvar” e também “curar, restituir a saúde” (14:9; Lc 8:48). Pedro joga com os dois sentidos: o homem foi “salvo” da doença pelo nome de Jesus (v. 10), e não há outro nome pelo qual devamos ser “salvos” (v. 12, mesmo verbo). O perfeito indica um resultado que permanece."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "por quem este homem foi curado",
+    "termo": "ἐν τίνι οὗτος σέσωται (en tini houtos sesōtai)",
+    "titulo": "en tini",
+    "texto": "Lit. “em quem (ou em quê) este foi salvo”. A pergunta é pelo agente ou pelo meio, e Pedro responde no v. 10: “pelo nome de Jesus Cristo”. Ela retoma a pergunta do Sinédrio no v. 7 (“com que poder, ou em nome de quem”)."
    }
   ]
  },
@@ -2227,18 +2255,18 @@
   ]
  },
  "Act.4.12": {
-  "t": "E não há salvação em nenhum outro, pois não há debaixo do céu nenhum outro nome dado entre os homens pelo qual devamos ser salvos.”",
+  "t": "Em nenhum outro há salvação, pois debaixo do céu não há outro nome dado entre os homens pelo qual devamos ser salvos.”",
   "n": [
    {
     "tipo": "sn",
-    "ancora": "não há salvação em nenhum outro",
+    "ancora": "Em nenhum outro há salvação",
     "termo": "οὐκ ἔστιν ἐν ἄλλῳ οὐδενὶ ἡ σωτηρία",
     "titulo": "a exclusividade de Cristo",
-    "texto": "A salvação (com artigo: “a salvação”, a prometida por Deus) só se encontra em Jesus. O “é necessário” (dei; ver 1:16) indica que este é o meio estabelecido por Deus. Diante de líderes religiosos de Israel, Pedro afirma que nem o templo nem a Lei, mas o nome de Jesus é o caminho da salvação. A afirmação é universal (“debaixo do céu ... entre os homens”). A tradição cristã leu aqui a exclusividade de Cristo como único Salvador; o debate atual (exclusivismo, inclusivismo) discute se pessoas que não ouviram o evangelho podem ser salvas por Cristo sem conhecê-lo explicitamente, mas o versículo é claro em que não há salvação fora dele."
+    "texto": "A salvação (com artigo: “a salvação”, a prometida por Deus) só se encontra em Jesus. O “é necessário” (dei; ver 1:16) indica que este é o meio estabelecido por Deus. A afirmação é universal (“debaixo do céu ... entre os homens”). A tradição cristã leu aqui a exclusividade de Cristo como único Salvador; o debate atual (exclusivismo, inclusivismo) discute se pessoas que não ouviram o evangelho podem ser salvas por Cristo sem conhecê-lo explicitamente, mas o versículo é claro em que não há salvação fora dele."
    },
    {
     "tipo": "tc",
-    "ancora": "pois não há",
+    "ancora": "pois debaixo do céu",
     "termo": "οὐδὲ γάρ (oude gar)",
     "titulo": "oude ou oute",
     "texto": "O Textus Receptus e o Texto Bizantino têm oute, com o mesmo sentido."
@@ -2381,7 +2409,7 @@
     "ancora": "tinha mais de quarenta anos",
     "termo": "ἐτῶν ... πλειόνων τεσσεράκοντα (etōn ... pleionōn tesserakonta)",
     "titulo": "a idade do homem",
-    "texto": "O detalhe confirma a grandeza do sinal: a doença era de nascença (3:2) e de longa data. “Sinal de cura” (ta sēmeion tēs iaseōs): a cura é sinal que aponta para Jesus."
+    "texto": "O detalhe confirma a grandeza do sinal: a doença era de nascença (3:2) e de longa data. “Sinal de cura” (to sēmeion tēs iaseōs): a cura é sinal que aponta para Jesus."
    }
   ]
  },
@@ -2606,7 +2634,7 @@
   ]
  },
  "Act.4.36": {
-  "t": "Assim José, a quem os apóstolos deram o sobrenome de Barnabé (que, traduzido, quer dizer “filho do encorajamento”), levita, natural de Chipre,",
+  "t": "E José, a quem os apóstolos deram o sobrenome de Barnabé (que, traduzido, quer dizer “filho do encorajamento”), levita, natural de Chipre,",
   "n": [
    {
     "tipo": "tn",
@@ -2628,7 +2656,7 @@
     "ancora": "levita, natural de Chipre",
     "termo": "Λευίτης, Κύπριος τῷ γένει (Leuitēs, Kyprios tō genei)",
     "titulo": "um levita da Dispersão",
-    "texto": "Barnabé era da tribo de Levi e nascera em Chipre, ilha com grande comunidade judaica. Voltará a Chipre com Paulo (13:4) e depois com Marcos, seu primo (15:39; Cl 4:10). A palavra “Assim” no início da tradução liga o exemplo de Barnabé à descrição geral dos vv. 34-35."
+    "texto": "Barnabé era da tribo de Levi e nascera em Chipre, ilha com grande comunidade judaica. Voltará a Chipre com Paulo (13:4) e depois com Marcos, seu primo (15:39; Cl 4:10)."
    }
   ]
  },
@@ -3056,14 +3084,14 @@
   ]
  },
  "Act.5.29": {
-  "t": "Pedro e os apóstolos responderam: “É preciso obedecer a Deus antes que aos homens.",
+  "t": "Pedro e os apóstolos responderam: “Devemos obedecer a Deus mais do que aos homens.",
   "n": [
    {
     "tipo": "tn",
-    "ancora": "É preciso obedecer a Deus antes que aos homens",
+    "ancora": "Devemos obedecer a Deus mais do que aos homens",
     "termo": "πειθαρχεῖν δεῖ θεῷ μᾶλλον ἢ ἀνθρώποις",
     "titulo": "peitharcheō",
-    "texto": "Peitharcheō é “obedecer a uma autoridade”. Retoma 4:19 em forma de princípio. O dei (“é preciso”) indica que se trata da vontade de Deus, não de preferência pessoal."
+    "texto": "Peitharcheō é “obedecer a uma autoridade”. Retoma 4:19 em forma de princípio. Mallon ē é “mais do que”, “em vez de” (ver 4:19). O dei (“é preciso”, aqui “devemos”) indica que se trata da vontade de Deus, não de preferência pessoal."
    }
   ]
  },
@@ -3146,7 +3174,7 @@
     "ancora": "queriam matá-los",
     "termo": "ἐβούλοντο ἀνελεῖν αὐτούς (eboulonto anelein autous)",
     "titulo": "eboulonto ou ebouleuonto",
-    "texto": "O texto crítico traz eboulonto (“queriam”); o Textus Receptus, ebouleuonto (“deliberavam”)."
+    "texto": "O SBLGNT traz eboulonto (“queriam”); o NA28 e o Textus Receptus, ebouleuonto (“deliberavam”, “planejavam”). A tradução segue o texto-base; com a outra leitura, “resolveram matá-los”."
    }
   ]
  },
@@ -3266,11 +3294,11 @@
   ]
  },
  "Act.5.40": {
-  "t": "Chamaram os apóstolos, mandaram açoitá-los, ordenaram-lhes que não falassem em nome de Jesus e os soltaram.",
+  "t": "Chamaram os apóstolos, açoitaram-nos, ordenaram-lhes que não falassem em nome de Jesus e os soltaram.",
   "n": [
    {
     "tipo": "sn",
-    "ancora": "mandaram açoitá-los",
+    "ancora": "açoitaram-nos",
     "termo": "δείραντες (deirantes)",
     "titulo": "o açoite",
     "texto": "Derō é “esfolar, espancar”. Provavelmente os trinta e nove açoites aplicados pela sinagoga (Dt 25:1-3; 2Co 11:24). Cumpre-se a palavra de Jesus em Lc 21:12."
@@ -3375,8 +3403,15 @@
   ]
  },
  "Act.6.3": {
-  "t": "Portanto, irmãos, escolham dentre vocês sete homens de boa reputação, cheios do Espírito e de sabedoria, e nós os encarregaremos dessa tarefa.",
+  "t": "Mas, irmãos, escolham dentre vocês sete homens de boa reputação, cheios do Espírito e de sabedoria, e nós os encarregaremos dessa tarefa.",
   "n": [
+   {
+    "tipo": "tc",
+    "ancora": "Mas, irmãos",
+    "termo": "δέ (de)",
+    "titulo": "de ou oun",
+    "texto": "O SBLGNT traz de, aqui com valor de contraste com o v. 2 (“não é certo que deixemos ...; mas escolham”). O THGNT, Tregelles, o Textus Receptus e o Texto Bizantino trazem oun (“portanto”). O sentido pouco muda."
+   },
    {
     "tipo": "tn",
     "ancora": "escolham",
@@ -3448,7 +3483,7 @@
     "ancora": "homem cheio de fé",
     "termo": "ἄνδρα πλήρης πίστεως (andra plērēs pisteōs)",
     "titulo": "plērēs ou plērē",
-    "texto": "O SBLGNT traz plērēs, usado como indeclinável, como às vezes no grego popular; o Textus Receptus tem a forma regular plērē. Sem efeito na tradução."
+    "texto": "O SBLGNT traz plērēs, usado como indeclinável, como às vezes no grego popular; Westcott-Hort, Tregelles e o Textus Receptus têm a forma regular plērē. Sem efeito na tradução."
    }
   ]
  },
@@ -3541,14 +3576,14 @@
   ]
  },
  "Act.6.11": {
-  "t": "Então subornaram alguns homens para dizerem: “Nós o ouvimos proferir palavras blasfemas contra Moisés e contra Deus.”",
+  "t": "Então instigaram em segredo alguns homens para dizerem: “Nós o ouvimos proferir palavras blasfemas contra Moisés e contra Deus.”",
   "n": [
    {
     "tipo": "tn",
-    "ancora": "subornaram",
+    "ancora": "instigaram em segredo",
     "termo": "ὑπέβαλον (hypebalon)",
     "titulo": "hypoballō, hápax",
-    "texto": "“Pôr por baixo, introduzir às escondidas, instigar”. Indica que os acusadores foram preparados e instruídos em segredo; “subornaram” é a tradução comum, embora o verbo não fale explicitamente de dinheiro."
+    "texto": "“Pôr por baixo, introduzir às escondidas, instigar”. Indica que os acusadores foram preparados e instruídos em segredo; “subornaram” é tradução comum, mas o verbo não fala de dinheiro; por isso não foi usada no texto."
    },
    {
     "tipo": "sn",

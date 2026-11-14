@@ -1150,5 +1150,619 @@
     "texto": "Falta de fé, recusa em confiar. Não é dúvida intelectual, mas a rejeição do v. 57."
    }
   ]
+ },
+ "Mat.14.1": {
+  "t": "Naquela ocasião, o tetrarca Herodes ouviu falar da fama de Jesus",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "o tetrarca Herodes",
+    "termo": "Ἡρῴδης ὁ τετραάρχης",
+    "titulo": "Herodes Antipas",
+    "texto": "Filho de Herodes, o Grande (2:1), governou a Galileia e a Pereia de 4 a.C. a 39 d.C. “Tetrarca” significava originalmente “governante de uma quarta parte”; no tempo de Jesus era título de um príncipe dependente de Roma, abaixo de rei. É o mesmo Herodes que interrogou Jesus em Lc 23:7-12."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "fama",
+    "termo": "ἀκοήν (akoēn)",
+    "titulo": "akoē",
+    "texto": "Lit. “o que se ouve”: notícia, reputação. A fama de Jesus já tinha chegado à corte (cf. 4:24)."
+   }
+  ]
+ },
+ "Mat.14.2": {
+  "t": "e disse aos seus servidores: “Este é João Batista. Ele ressuscitou dos mortos, e por isso esses poderes atuam nele.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "servidores",
+    "termo": "παισίν (paisin)",
+    "titulo": "pais",
+    "texto": "Lit. “meninos, servos”. Na corte, designa os servidores e oficiais do rei. Não é doulos (ver nota em 8:6)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "esses poderes atuam nele",
+    "termo": "αἱ δυνάμεις ἐνεργοῦσιν ἐν αὐτῷ",
+    "titulo": "dynameis",
+    "texto": "Dynameis pode ser “milagres” (13:58) ou os “poderes” que os produzem. Com o verbo energeō (“operar, estar em ação”), o sentido é de forças ativas: Herodes pensa que João voltou com poderes sobrenaturais. João, em vida, não fez milagres (Jo 10:41)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Ele ressuscitou",
+    "termo": "αὐτὸς ἠγέρθη (autos ēgerthē)",
+    "titulo": "passivo",
+    "texto": "Lit. “ele foi levantado”. A forma passiva é a usada também para a ressurreição de Jesus (16:21; 17:23). O pronome autos dá ênfase: “é ele mesmo”."
+   }
+  ]
+ },
+ "Mat.14.3": {
+  "t": "Pois Herodes tinha prendido João, amarrado e posto na prisão por causa de Herodias, mulher de seu irmão Filipe.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "tinha prendido",
+    "termo": "κρατήσας ... ἔδησεν ... ἀπέθετο",
+    "titulo": "volta ao passado",
+    "texto": "Os aoristos narram um fato anterior ao v. 2: Mateus interrompe a história para contar como João morreu. Por isso o mais-que-perfeito em português. A prisão de João foi mencionada em 4:12 e 11:2."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Herodias, mulher de seu irmão Filipe",
+    "termo": "Ἡρῳδιάδα τὴν γυναῖκα Φιλίππου τοῦ ἀδελφοῦ αὐτοῦ",
+    "titulo": "quem era Herodias",
+    "texto": "Herodias era neta de Herodes, o Grande, e, portanto, sobrinha dos dois maridos. Deixou o primeiro marido, meio-irmão de Antipas, para casar com Antipas, que por sua vez repudiou a esposa. O historiador Josefo (Antiguidades 18.5.1-2) chama o primeiro marido de Herodes, e não de Filipe; muitos pensam que ele tinha os dois nomes. Não é Filipe, o tetrarca de Lc 3:1. Josefo também conta que João foi preso e morto na fortaleza de Maqueronte, a leste do mar Morto."
+   }
+  ]
+ },
+ "Mat.14.4": {
+  "t": "porque João lhe dizia: “Não lhe é permitido tê-la.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Não lhe é permitido",
+    "termo": "οὐκ ἔξεστίν σοι",
+    "titulo": "Levítico 18 e 20",
+    "texto": "A Lei proibia tomar a mulher do irmão enquanto este vivesse (Lv 18:16; 20:21); a exceção do levirato (Dt 25:5-6) valia só para a viúva sem filhos. O imperfeito elegen (“dizia”) indica que João o repetia."
+   }
+  ]
+ },
+ "Mat.14.5": {
+  "t": "Herodes queria matá-lo, mas tinha medo do povo, porque o consideravam profeta.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Herodes queria matá-lo",
+    "termo": "θέλων αὐτὸν ἀποκτεῖναι",
+    "titulo": "Mateus e Marcos",
+    "texto": "Em Mc 6:19-20 é Herodias quem quer matar João, e Herodes o protege porque o considerava homem justo. Mateus resume e põe a vontade de matar no próprio Herodes, contida só pelo medo do povo, como acontecerá com os líderes diante de Jesus (21:26, 46)."
+   }
+  ]
+ },
+ "Mat.14.6": {
+  "t": "Mas, quando chegou o aniversário de Herodes, a filha de Herodias dançou diante dos convidados e agradou a Herodes,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "aniversário",
+    "termo": "Γενεσίοις (Genesiois)",
+    "titulo": "genesia, raro",
+    "texto": "Festa de aniversário (só aqui e em Mc 6:21). Alguns pensam na festa anual da subida ao trono, mas o uso comum da palavra no período é “aniversário”. O Textus Receptus e o Texto Bizantino trazem outra construção (genesiōn agomenōn), de mesmo sentido."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "a filha de Herodias",
+    "termo": "ἡ θυγάτηρ τῆς Ἡρῳδιάδος",
+    "titulo": "Salomé",
+    "texto": "Os Evangelhos não dão o nome. Josefo (Antiguidades 18.5.4) diz que a filha de Herodias se chamava Salomé. Era ainda jovem: o v. 11 a chama de korasion, “mocinha”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "diante dos convidados",
+    "termo": "ἐν τῷ μέσῳ (en tō mesō)",
+    "titulo": "“no meio”",
+    "texto": "Lit. “no meio”: no centro da sala do banquete, à vista de todos. A tradução explicita a quem ela se exibia (cf. v. 9)."
+   }
+  ]
+ },
+ "Mat.14.7": {
+  "t": "por isso ele prometeu, sob juramento, dar-lhe o que ela pedisse.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "prometeu",
+    "termo": "ὡμολόγησεν (hōmologēsen)",
+    "titulo": "homologeō",
+    "texto": "Aqui não é “confessar”, mas “comprometer-se, prometer publicamente”. Mc 6:23 acrescenta “até a metade do meu reino”, eco de Et 5:3."
+   }
+  ]
+ },
+ "Mat.14.8": {
+  "t": "Instigada pela mãe, ela disse: “Dê-me aqui, num prato, a cabeça de João Batista.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Instigada",
+    "termo": "προβιβασθεῖσα (probibastheisa)",
+    "titulo": "probibazō, hápax",
+    "texto": "Única ocorrência no NT: “empurrar adiante, induzir”. A iniciativa do pedido é de Herodias."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "num prato",
+    "termo": "ἐπὶ πίνακι (epi pinaki)",
+    "titulo": "pinax",
+    "texto": "Prato largo ou bandeja de servir. O pedido é macabro de propósito: a cabeça servida como mais um prato do banquete. “Aqui” (hōde) exige a execução imediata."
+   }
+  ]
+ },
+ "Mat.14.9": {
+  "t": "O rei ficou triste, mas, por causa dos juramentos e dos convidados, mandou que lha dessem.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "O rei",
+    "termo": "ὁ βασιλεύς (ho basileus)",
+    "titulo": "título popular",
+    "texto": "Antipas não tinha o título de rei; Mateus o chamou corretamente de tetrarca no v. 1. “Rei” era tratamento popular, também em Mc 6:14. Segundo Josefo (Antiguidades 18.7.2), foi justamente ao pedir a Roma o título de rei que Antipas acabou deposto e exilado."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "dos convidados",
+    "termo": "τοὺς συνανακειμένους (tous synanakeimenous)",
+    "titulo": "“os que estavam reclinados com ele”",
+    "texto": "Lit. “os que estavam reclinados à mesa com ele”. Voltar atrás diante deles seria perder a honra. “Juramentos” está no plural: talvez repetido, talvez plural de categoria."
+   }
+  ]
+ },
+ "Mat.14.10": {
+  "t": "E mandou decapitar João na prisão.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "mandou decapitar",
+    "termo": "πέμψας ἀπεκεφάλισεν (pempsas apekephalisen)",
+    "titulo": "“enviando, decapitou”",
+    "texto": "Lit. “enviando, decapitou João”. Herodes não executou ele mesmo: mandou alguém fazê-lo. A forma portuguesa “mandou decapitar” dá esse sentido."
+   }
+  ]
+ },
+ "Mat.14.11": {
+  "t": "A cabeça dele foi trazida num prato e dada à moça, e ela a levou à sua mãe.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "moça",
+    "termo": "κορασίῳ (korasiō)",
+    "titulo": "korasion",
+    "texto": "Diminutivo de korē: “mocinha” (ver nota em 9:24). Indica uma jovem, talvez adolescente."
+   }
+  ]
+ },
+ "Mat.14.12": {
+  "t": "Os discípulos de João vieram, levaram o cadáver e o sepultaram; depois foram contar a Jesus.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "o cadáver",
+    "termo": "τὸ πτῶμα (to ptōma)",
+    "titulo": "ptōma ou sōma",
+    "texto": "O texto-base traz ptōma, “cadáver”, lit. “o que caiu”; o Textus Receptus e o Texto Bizantino, sōma, “corpo”, e por isso o pronome neutro auto (“o sepultaram”). O texto-base usa o masculino auton, pensando na pessoa de João. A palavra mais crua parece original; a troca por “corpo” suaviza."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "foram contar a Jesus",
+    "termo": "ἐλθόντες ἀπήγγειλαν τῷ Ἰησοῦ",
+    "titulo": "o destino do precursor",
+    "texto": "A morte de João anuncia a de Jesus (17:12): ambos são presos, executados por autoridades que temem o povo, e sepultados por discípulos (27:57-60)."
+   }
+  ]
+ },
+ "Mat.14.13": {
+  "t": "Ao ouvir isso, Jesus se retirou dali num barco para um lugar deserto, à parte. As multidões souberam e o seguiram a pé, vindas das cidades.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "se retirou",
+    "termo": "ἀνεχώρησεν (anechōrēsen)",
+    "titulo": "anachōreō",
+    "texto": "Verbo frequente em Mateus para a retirada diante do perigo ou da hostilidade (2:12-14, 22; 4:12; 12:15; 15:21). A notícia da morte de João, o precursor, é também uma ameaça a Jesus."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "a pé",
+    "termo": "πεζῇ (pezē)",
+    "titulo": "pezē, raro",
+    "texto": "“A pé, por terra” (só aqui e em Mc 6:33). Enquanto Jesus cruza o lago de barco, o povo contorna a margem andando."
+   }
+  ]
+ },
+ "Mat.14.14": {
+  "t": "Quando desembarcou, viu uma grande multidão, encheu-se de compaixão por eles e curou os seus doentes.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Quando desembarcou",
+    "termo": "ἐξελθών (exelthōn)",
+    "titulo": "“tendo saído”",
+    "texto": "Lit. “tendo saído”: do barco, como mostra o contexto. Em vez do descanso procurado (v. 13), Jesus encontra a multidão à sua espera."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "encheu-se de compaixão",
+    "termo": "ἐσπλαγχνίσθη (esplanchnisthē)",
+    "titulo": "splanchnizomai",
+    "texto": "O mesmo verbo de 9:36: compaixão que se sente nas entranhas. Em Mateus, leva sempre a uma ação: curar, ensinar, alimentar (15:32; 20:34)."
+   }
+  ]
+ },
+ "Mat.14.15": {
+  "t": "Ao entardecer, os discípulos se aproximaram dele e disseram: “Este lugar é deserto, e a hora já está avançada. Despeça as multidões, para que vão aos povoados comprar comida para si.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "a hora já está avançada",
+    "termo": "ἡ ὥρα ἤδη παρῆλθεν",
+    "titulo": "“a hora já passou”",
+    "texto": "Lit. “a hora já passou”: a hora habitual da refeição, ou simplesmente o dia, que está terminando. Opsia (“entardecer”) cobre o fim da tarde e o começo da noite; por isso volta no v. 23."
+   }
+  ]
+ },
+ "Mat.14.16": {
+  "t": "Jesus, porém, lhes disse: “Eles não precisam ir embora. Vocês mesmos lhes deem de comer.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Vocês mesmos",
+    "termo": "ὑμεῖς (hymeis)",
+    "titulo": "pronome enfático",
+    "texto": "O pronome vem no fim da ordem, com ênfase: “deem-lhes de comer, vocês”. Jesus põe a responsabilidade nos discípulos antes de mostrar que só ele pode supri-la."
+   }
+  ]
+ },
+ "Mat.14.17": {
+  "t": "Eles responderam: “Aqui só temos cinco pães e dois peixes.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "cinco pães e dois peixes",
+    "termo": "πέντε ἄρτους καὶ δύο ἰχθύας",
+    "titulo": "a comida do povo",
+    "texto": "Pães pequenos e achatados, de cevada segundo Jo 6:9, e peixes provavelmente salgados ou secos, alimento comum na região do lago."
+   }
+  ]
+ },
+ "Mat.14.18": {
+  "t": "Ele disse: “Tragam-nos aqui para mim.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "aqui para mim",
+    "termo": "φέρετέ μοι ὧδε",
+    "titulo": "ordem das palavras",
+    "texto": "Lit. “tragam-me aqui eles”. A ordem é breve e firme: o pouco que há deve passar pelas mãos de Jesus."
+   }
+  ]
+ },
+ "Mat.14.19": {
+  "t": "Mandou que as multidões se reclinassem sobre a relva, tomou os cinco pães e os dois peixes e, erguendo os olhos para o céu, pronunciou a bênção; depois partiu os pães e os deu aos discípulos, e os discípulos, às multidões.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "pronunciou a bênção",
+    "termo": "εὐλόγησεν (eulogēsen)",
+    "titulo": "eulogeō",
+    "texto": "Lit. “abençoou”. Na prática judaica, a bênção à mesa bendizia a Deus pelo alimento (“Bendito és tu, Senhor nosso Deus, ... que fazes sair o pão da terra”), e não o pão em si. O texto não tem objeto expresso; por isso “pronunciou a bênção”."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "partiu os pães e os deu",
+    "termo": "λαβὼν ... εὐλόγησεν, καὶ κλάσας ἔδωκεν",
+    "titulo": "eco da Ceia",
+    "texto": "A sequência tomar, abençoar, partir e dar volta quase igual na última Ceia (26:26). Mateus faz o leitor ligar as duas refeições."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "se reclinassem",
+    "termo": "ἀνακλιθῆναι (anaklithēnai)",
+    "titulo": "anaklinomai",
+    "texto": "Lit. “reclinar-se”, a posição dos convidados num banquete (ver nota em 8:11). O povo é tratado como convidado à mesa."
+   }
+  ]
+ },
+ "Mat.14.20": {
+  "t": "Todos comeram e ficaram satisfeitos; e, dos pedaços que sobraram, recolheram doze cestos cheios.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "cestos",
+    "termo": "κοφίνους (kophinous)",
+    "titulo": "kophinos",
+    "texto": "Cesto de vime de tamanho médio, usado para levar provisões. Na segunda multiplicação, a palavra é outra (spyris, 15:37)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "doze cestos cheios",
+    "termo": "δώδεκα κοφίνους πλήρεις",
+    "titulo": "fartura",
+    "texto": "A sobra é maior que a quantidade inicial. O episódio lembra Eliseu, que alimentou cem homens com vinte pães “e ainda sobrou” (2Rs 4:42-44), e o maná no deserto (Êx 16). O número doze pode aludir às tribos de Israel e aos Doze."
+   }
+  ]
+ },
+ "Mat.14.21": {
+  "t": "Os que comeram eram cerca de cinco mil homens, sem contar mulheres e crianças.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "homens",
+    "termo": "ἄνδρες (andres)",
+    "titulo": "anēr",
+    "texto": "Anēr é o homem adulto, não o ser humano em geral (anthrōpos). Só Mateus acrescenta “sem contar mulheres e crianças”, o que torna o número total muito maior."
+   }
+  ]
+ },
+ "Mat.14.22": {
+  "t": "Logo em seguida, Jesus obrigou os discípulos a entrar no barco e ir adiante dele para o outro lado, enquanto ele despedia as multidões.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "obrigou",
+    "termo": "ἠνάγκασεν (ēnankasen)",
+    "titulo": "anankazō",
+    "texto": "“Forçar, obrigar”. Mateus não explica a pressa. Jo 6:15 conta que o povo queria fazer Jesus rei à força; Jesus afasta os discípulos desse entusiasmo. O nome “Jesus” foi explicitado; o Textus Receptus e o Texto Bizantino o trazem no texto."
+   }
+  ]
+ },
+ "Mat.14.23": {
+  "t": "Depois de despedir as multidões, subiu ao monte, à parte, para orar. Ao anoitecer, estava ali sozinho.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "subiu ao monte, à parte, para orar",
+    "termo": "ἀνέβη εἰς τὸ ὄρος κατ᾽ ἰδίαν προσεύξασθαι",
+    "titulo": "Jesus em oração",
+    "texto": "Uma das poucas vezes em que Mateus mostra Jesus orando sozinho (cf. 26:36-44). O monte lembra Moisés no Sinai, que também subia sozinho para estar com Deus (Êx 24:2; 34:2-3)."
+   }
+  ]
+ },
+ "Mat.14.24": {
+  "t": "O barco já estava a muitos estádios da terra, açoitado pelas ondas, porque o vento era contrário.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "a muitos estádios da terra",
+    "termo": "σταδίους πολλοὺς ἀπὸ τῆς γῆς ἀπεῖχεν",
+    "titulo": "longe da terra ou no meio do mar",
+    "texto": "O SBLGNT traz “estava distante muitos estádios da terra”. O THGNT, o Textus Receptus e o Texto Bizantino trazem “estava no meio do mar” (meson tēs thalassēs ēn), como em Mc 6:47. O sentido geral é o mesmo: o barco estava longe da margem."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "estádios",
+    "termo": "σταδίους (stadious)",
+    "titulo": "stadion",
+    "texto": "Medida de cerca de 185 metros. “Muitos estádios” indica alguns quilômetros; Jo 6:19 fala de 25 ou 30 estádios."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "açoitado",
+    "termo": "βασανιζόμενον (basanizomenon)",
+    "titulo": "basanizō",
+    "texto": "Lit. “atormentado”, o verbo usado para o servo doente em 8:6. O barco é sacudido pelas ondas como alguém sob tortura."
+   }
+  ]
+ },
+ "Mat.14.25": {
+  "t": "Na quarta vigília da noite, Jesus foi até eles, andando sobre o mar.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Na quarta vigília da noite",
+    "termo": "τετάρτῃ δὲ φυλακῇ τῆς νυκτός",
+    "titulo": "as vigílias",
+    "texto": "Os romanos dividiam a noite em quatro turnos de guarda; a quarta vigília ia das três às seis da manhã. Os discípulos tinham lutado contra o vento a noite inteira."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "andando sobre o mar",
+    "termo": "περιπατῶν ἐπὶ τὴν θάλασσαν",
+    "titulo": "o que só Deus faz",
+    "texto": "No Antigo Testamento, andar sobre as águas é ação de Deus: ele “anda sobre as ondas do mar” (Jó 9:8) e abre o seu caminho pelas águas (Sl 77:19; Is 43:16). O mar, imagem do caos, está sob os pés de Jesus (cf. 8:26-27). O nome “Jesus” foi explicitado; o Textus Receptus e o Texto Bizantino o trazem no texto."
+   }
+  ]
+ },
+ "Mat.14.26": {
+  "t": "Quando os discípulos o viram andando sobre o mar, ficaram apavorados e disseram: “É um fantasma!” E gritaram de medo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "fantasma",
+    "termo": "φάντασμα (phantasma)",
+    "titulo": "phantasma, raro",
+    "texto": "“Aparição, espectro” (só aqui e em Mc 6:49). Os discípulos pensam ver um espírito, talvez de um afogado, sobre as águas da noite."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "ficaram apavorados",
+    "termo": "ἐταράχθησαν (etarachthēsan)",
+    "titulo": "tarassō",
+    "texto": "“Agitar, perturbar”: o mesmo verbo usado para Herodes e Jerusalém em 2:3. Aqui, terror diante do inexplicável."
+   }
+  ]
+ },
+ "Mat.14.27": {
+  "t": "Mas Jesus logo lhes falou: “Coragem! Sou eu. Não tenham medo.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Sou eu",
+    "termo": "ἐγώ εἰμι (egō eimi)",
+    "titulo": "egō eimi",
+    "texto": "No nível mais simples, Jesus se identifica: “sou eu, não um fantasma”. Mas a expressão é a mesma com que Deus se revela na Septuaginta (Êx 3:14; Is 41:4; 43:10; 51:12, onde vem junto com “não temam”), e a cena mostra Jesus fazendo o que só Deus faz (ver nota no v. 25). A APV traduz “Sou eu”, que é o sentido imediato, e deixa a nota apontar o eco; reserva “Eu Sou” para os usos absolutos, como Jo 8:58."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Coragem!",
+    "termo": "θαρσεῖτε (tharseite)",
+    "titulo": "tharseō",
+    "texto": "“Tenham ânimo, tenham coragem” (ver nota em 9:2). As três ordens curtas do versículo respondem ao grito de medo."
+   }
+  ]
+ },
+ "Mat.14.28": {
+  "t": "Pedro lhe respondeu: “Senhor, se é o senhor mesmo, mande que eu vá ao seu encontro sobre as águas.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "se é o senhor mesmo",
+    "termo": "εἰ σὺ εἶ (ei sy ei)",
+    "titulo": "condição",
+    "texto": "Lit. “se és tu”. A condição não expressa necessariamente dúvida; pede uma confirmação: “já que é o senhor, mande”. Pedro não pede para andar sobre as águas por conta própria, mas que Jesus o mande."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Pedro",
+    "termo": "ὁ Πέτρος",
+    "titulo": "só em Mateus",
+    "texto": "O episódio de Pedro sobre as águas (vv. 28-31) só aparece em Mateus, que dá destaque a Pedro como porta-voz e exemplo dos discípulos, na ousadia e na fraqueza (cf. 15:15; 16:16-23; 17:24-27; 18:21)."
+   }
+  ]
+ },
+ "Mat.14.29": {
+  "t": "Jesus disse: “Venha.” Pedro desceu do barco, andou sobre as águas e foi em direção a Jesus.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "e foi em direção a Jesus",
+    "termo": "καὶ ἦλθεν πρὸς τὸν Ἰησοῦν",
+    "titulo": "“foi” ou “para ir”",
+    "texto": "O texto-base traz kai ēlthen, “e foi”; Tregelles, o Textus Receptus e o Texto Bizantino trazem elthein, “para ir”: “andou sobre as águas para ir até Jesus”. O NA28, o Textus Receptus e o Texto Bizantino trazem o artigo antes de Pedro. A diferença é pequena: na primeira leitura, Pedro chega perto de Jesus; na segunda, só se diz para onde ia."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Jesus disse",
+    "termo": "ὁ δὲ εἶπεν",
+    "titulo": "sujeito explicitado",
+    "texto": "Lit. “Ele disse”. O nome foi explicitado porque o versículo anterior termina com a fala de Pedro."
+   }
+  ]
+ },
+ "Mat.14.30": {
+  "t": "Mas, quando viu o vento forte, teve medo e, começando a afundar, gritou: “Senhor, salve-me!”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "afundar",
+    "termo": "καταποντίζεσθαι (katapontizesthai)",
+    "titulo": "katapontizō, raro",
+    "texto": "“Ser lançado ao fundo do mar, afundar” (só aqui e em 18:6). O presente com “começando” mostra o processo: Pedro afunda aos poucos."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Senhor, salve-me",
+    "termo": "κύριε, σῶσόν με",
+    "titulo": "o clamor dos Salmos",
+    "texto": "É o grito dos Salmos de quem se afoga nas águas (Sl 69:1-2; 18:16). O mesmo verbo dos discípulos na tempestade (8:25)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "quando viu o vento forte",
+    "termo": "βλέπων δὲ τὸν ἄνεμον ἰσχυρόν",
+    "titulo": "“vendo o vento”",
+    "texto": "Lit. “vendo o vento forte”: vendo os efeitos dele nas ondas. O olhar de Pedro passa de Jesus para o perigo."
+   }
+  ]
+ },
+ "Mat.14.31": {
+  "t": "No mesmo instante, Jesus estendeu a mão, segurou-o e lhe disse: “Homem de pouca fé, por que você duvidou?”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Homem de pouca fé",
+    "termo": "ὀλιγόπιστε (oligopiste)",
+    "titulo": "oligopistos",
+    "texto": "No singular, só aqui. A palavra não descreve um incrédulo, mas um discípulo cuja confiança fraquejou (ver nota em 6:30). “Homem” foi acrescentado porque o português não tem vocativo de uma só palavra para isso."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "duvidou",
+    "termo": "ἐδίστασας (edistasas)",
+    "titulo": "distazō, raro",
+    "texto": "“Hesitar, ficar dividido entre dois caminhos” (só aqui e em 28:17). Não é a dúvida de quem nega, mas a vacilação de quem crê e teme ao mesmo tempo."
+   }
+  ]
+ },
+ "Mat.14.32": {
+  "t": "Quando subiram para o barco, o vento parou.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "parou",
+    "termo": "ἐκόπασεν (ekopasen)",
+    "titulo": "kopazō, raro",
+    "texto": "“Cessar, acalmar-se, cansar-se” (também Mc 4:39; 6:51). O vento para no momento em que Jesus entra no barco, sem nenhuma palavra."
+   }
+  ]
+ },
+ "Mat.14.33": {
+  "t": "Os que estavam no barco se prostraram diante dele, dizendo: “Verdadeiramente você é o Filho de Deus.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "se prostraram diante dele",
+    "termo": "προσεκύνησαν αὐτῷ (prosekynēsan autō)",
+    "titulo": "proskyneō",
+    "texto": "O gesto pode ser homenagem ou adoração (ver nota em 8:2). Aqui, depois do domínio sobre o mar e da confissão, o sentido de adoração é forte. Mc 6:51-52, ao contrário, fala de espanto e coração endurecido."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Verdadeiramente você é o Filho de Deus",
+    "termo": "ἀληθῶς θεοῦ υἱὸς εἶ",
+    "titulo": "a confissão",
+    "texto": "Primeira vez que os discípulos, em conjunto, chamam Jesus de “Filho de Deus”. Antecipa a confissão de Pedro (16:16) e a do centurião (27:54, com as mesmas palavras). O grego não tem artigo (theou huios), mas o predicado antes do verbo pode ser definido; “o Filho de Deus” é a leitura mais natural no contexto de Mateus."
+   }
+  ]
+ },
+ "Mat.14.34": {
+  "t": "Terminada a travessia, chegaram à terra, em Genesaré.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Genesaré",
+    "termo": "Γεννησαρέτ (Gennēsaret)",
+    "titulo": "a planície",
+    "texto": "Planície fértil na margem noroeste do mar da Galileia, entre Cafarnaum e Magdala, e também o nome de uma povoação ali. O lago às vezes é chamado pelo mesmo nome (Lc 5:1)."
+   }
+  ]
+ },
+ "Mat.14.35": {
+  "t": "Os homens daquele lugar o reconheceram e mandaram avisar toda aquela região; e lhe trouxeram todos os doentes",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "mandaram avisar",
+    "termo": "ἀπέστειλαν (apesteilan)",
+    "titulo": "“enviaram”",
+    "texto": "Lit. “enviaram”: mandaram mensageiros. O objeto está subentendido."
+   }
+  ]
+ },
+ "Mat.14.36": {
+  "t": "e lhe suplicavam que pudessem ao menos tocar a borda do seu manto; e todos os que o tocaram foram curados.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "a borda do seu manto",
+    "termo": "τοῦ κρασπέδου τοῦ ἱματίου αὐτοῦ",
+    "titulo": "kraspedon",
+    "texto": "Pode ser a orla ou uma das franjas que a Lei mandava pôr nos cantos da veste (Nm 15:38-39; ver nota em 9:20). O povo repete o gesto da mulher de 9:20-22."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "foram curados",
+    "termo": "διεσώθησαν (diesōthēsan)",
+    "titulo": "diasōzō",
+    "texto": "“Ser salvo por completo, levado a salvo”. Aqui, cura plena. O prefixo dia- reforça o simples sōzō, que em Mateus une cura e salvação (ver nota em 9:21)."
+   }
+  ]
  }
 }

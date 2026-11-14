@@ -3,222 +3,259 @@
   "ref": "Eph.6.17",
   "gravidade": "media",
   "problema": "Nota tc afirma que o Texto Bizantino 'omite dexasthe' e que a frase 'depende do tomem do v. 13'. A folha mostra outra coisa: o Bizantino traz δέξασθαι (infinitivo) no lugar de δέξασθε. Afirmação falsa sobre edição.",
-  "sugestao": "Reescrever: 'O Texto Bizantino traz o infinitivo dexasthai (receber) em vez do imperativo dexasthe. Sem efeito relevante na tradução.' Cortar a frase sobre o v. 13."
+  "sugestao": "Reescrever: 'O Texto Bizantino traz o infinitivo dexasthai (receber) em vez do imperativo dexasthe. Sem efeito relevante na tradução.' Cortar a frase sobre o v. 13.",
+  "decisao": "aceito: a folha mostra que o Bizantino traz o infinitivo dexasthai, não omissão; a nota foi corrigida e a frase sobre o v. 13 cortada."
  },
  {
   "ref": "Eph.5.3",
   "gravidade": "media",
   "problema": "Nota 'nem sequer sejam mencionadas' diz que o texto 'não proíbe falar desses pecados para ensinar ou corrigir, mas que haja motivo para associá-los à comunidade'. Falta o 'não': como está, o sentido fica invertido.",
-  "sugestao": "'...mas que não haja motivo para associá-los à comunidade.'"
+  "sugestao": "'...mas que não haja motivo para associá-los à comunidade.'",
+  "decisao": "aceito: faltava o “não” e o sentido ficava invertido; corrigido."
  },
  {
   "ref": "Eph.6.23",
   "gravidade": "media",
   "problema": "Nota diz que ἀδελφοῖς é a 'única ocorrência da palavra na carta', mas ἀδελφός já aparece em 6:21 (Tíquico, 'o irmão amado'). Afirmação factual errada.",
-  "sugestao": "'Única vez em que a carta se dirige aos irmãos no plural' (ou 'única ocorrência do plural')."
+  "sugestao": "'Única vez em que a carta se dirige aos irmãos no plural' (ou 'única ocorrência do plural').",
+  "decisao": "aceito: adelphos (singular) aparece em 6:21; a nota agora diz que é a única vez que a carta usa o plural para os destinatários."
  },
  {
   "ref": "Eph.5.27",
   "gravidade": "media",
   "problema": "Nota sn diz que TR e Bizantino 'não trazem autos'. A folha mostra que eles trazem αὐτήν no lugar de αὐτός ('apresentar a ela [a igreja] a si mesmo' em vez de 'apresentar ele mesmo a si a igreja'). Não é omissão e muda a construção; a nota 'sem efeito no sentido' é frouxa. Além disso é nota tc posta como sn.",
-  "sugestao": "Transformar em nota tc: 'O TR e o Bizantino trazem autēn (“a si a igreja”, com a igreja como objeto duplo) em vez de autos (“ele mesmo”). O sentido geral não muda, mas a ênfase em Cristo como quem apresenta se perde.'"
+  "sugestao": "Transformar em nota tc: 'O TR e o Bizantino trazem autēn (“a si a igreja”, com a igreja como objeto duplo) em vez de autos (“ele mesmo”). O sentido geral não muda, mas a ênfase em Cristo como quem apresenta se perde.'",
+  "decisao": "aceito: a folha mostra autēn no lugar de autos no TR e no Bizantino; a informação saiu da nota sn e virou nota tc correta."
  },
  {
   "ref": "Eph.1.15",
   "gravidade": "media",
   "problema": "Nota tc diz que 'alguns manuscritos antigos' omitem 'o amor', que 'as edições críticas mantêm' e atribui explicação (homoioteleuto tēn...tēn) a Metzger. A folha não mostra variante nenhuma aqui; a atribuição a Metzger e a afirmação sobre edições não têm apoio verificável (o NA coloca o termo entre colchetes).",
-  "sugestao": "Dizer só 'alguns manuscritos antigos omitem “o amor”' com 'revisar: true', ou cortar a nota; tirar '(Metzger)' e 'as edições críticas mantêm'."
+  "sugestao": "Dizer só 'alguns manuscritos antigos omitem “o amor”' com 'revisar: true', ou cortar a nota; tirar '(Metzger)' e 'as edições críticas mantêm'.",
+  "decisao": "aceito em parte: mantive a nota sobre a omissão com revisar, tirei Metzger e qualquer afirmação sobre edições, já que a folha não mostra variante."
  },
  {
   "ref": "Eph.2.5",
   "gravidade": "media",
   "problema": "Nota afirma que 'alguns manuscritos antigos trazem en tō Christō' e que 'as edições preferem o dativo simples'. A folha não registra essa variante; é dado sem apoio na fonte e afirmação sobre edições.",
-  "sugestao": "Remover as duas frases ou marcar 'revisar: true' pedindo conferência no aparato."
+  "sugestao": "Remover as duas frases ou marcar 'revisar: true' pedindo conferência no aparato.",
+  "decisao": "aceito: a folha não registra a variante en tō Christō; a frase foi cortada."
  },
  {
   "ref": "Eph.3.9",
   "gravidade": "media",
   "problema": "Nota tc diz que 'alguns manuscritos antigos não trazem pantas' e que 'as edições críticas mantêm a palavra'. A folha não mostra variante em πάντας; afirmação sobre manuscritos e edições sem base (o NA28 usa colchetes nesta palavra, segundo o aparato conhecido).",
-  "sugestao": "Cortar a nota sobre 'pantas' ou reduzi-la a 'alguns manuscritos omitem; revisar: true'."
+  "sugestao": "Cortar a nota sobre 'pantas' ou reduzi-la a 'alguns manuscritos omitem; revisar: true'.",
+  "decisao": "aceito: a folha não mostra variante em pantas; a nota tc foi removida."
  },
  {
   "ref": "Eph.3.19",
   "gravidade": "media",
   "problema": "Nota diz que 'alguns manuscritos antigos trazem “para que toda a plenitude de Deus se complete”, forma que as edições não adotam'. A folha não mostra variante em πληρωθῆτε; leitura e afirmação sobre edições sem apoio.",
-  "sugestao": "Remover a frase final da nota ou marcar 'revisar: true' e verificar no aparato antes de manter."
+  "sugestao": "Remover a frase final da nota ou marcar 'revisar: true' e verificar no aparato antes de manter.",
+  "decisao": "aceito: a variante citada não aparece na folha; a frase final foi cortada."
  },
  {
   "ref": "Eph.1.18",
   "gravidade": "media",
   "problema": "'a esperança do seu chamado... a riqueza da glória da sua herança': αὐτοῦ é 'dele' (Deus), mas depois de 'vocês/de vocês' o 'seu' lê-se como 'de vocês'. A nota admite que 'sua' é de Deus, mas o texto fica ambíguo para quem lê em voz alta.",
-  "sugestao": "'qual é a esperança do chamado dele, qual a riqueza da glória da herança dele nos santos' (ou 'do chamado de Deus'), mantendo a nota."
+  "sugestao": "'qual é a esperança do chamado dele, qual a riqueza da glória da herança dele nos santos' (ou 'do chamado de Deus'), mantendo a nota.",
+  "decisao": "aceito: autou se refere a Deus e “seu” fica ambíguo com “vocês”; agora “do chamado dele” e “da herança dele”."
  },
  {
   "ref": "Eph.1.4",
   "gravidade": "media",
   "problema": "καθὼς ('assim como') traduzido por 'Pois'. Troca um conectivo comparativo por causal e altera a relação lógica com o v. 3 (a bênção é 'assim como' ele nos escolheu); o guia manda manter os conectivos.",
-  "sugestao": "'assim como nos escolheu nele antes da fundação do mundo...' (fundindo com o v. 3 ou com ponto e vírgula)."
+  "sugestao": "'assim como nos escolheu nele antes da fundação do mundo...' (fundindo com o v. 3 ou com ponto e vírgula).",
+  "decisao": "aceito: kathōs é comparativo, não causal; o v. 3 termina em vírgula, o v. 4 começa com “assim como” e há nota sobre kathōs."
  },
  {
   "ref": "Eph.4.26",
   "gravidade": "media",
   "problema": "'Irem-se, e não pequem' lê-se facilmente como 'ir-se' (ir embora) e é pouco claro para leitura em voz alta. A nota fala de imperativo concessivo mas o texto não deixa claro.",
-  "sugestao": "'Fiquem irados, mas não pequem' ou 'Irritem-se, mas não pequem'; manter a nota sobre Sl 4:4."
+  "sugestao": "'Fiquem irados, mas não pequem' ou 'Irritem-se, mas não pequem'; manter a nota sobre Sl 4:4.",
+  "decisao": "aceito: “Irem-se” se confunde com “ir-se”; agora “Fiquem irados, mas não pequem”, com nota sobre o kai adversativo."
  },
  {
   "ref": "Eph.4.21",
   "gravidade": "media",
   "problema": "εἴ γε é traduzido de formas diferentes: 3:2 'Certamente' (sem condição) e 4:21 'se é que de fato' (condicional). Inconsistência no mesmo termo; além disso αὐτὸν ἠκούσατε ('o ouviram') foi enfraquecido em 'ouviram falar dele', embora a própria nota admita que o grego é mais forte.",
-  "sugestao": "Escolher um tratamento único para εἴ γε (p.ex. 'se é que' nos dois, com nota em 3:2) e traduzir 'se é que o ouviram e nele foram ensinados' em 4:21, deixando 'ouvir falar' para a nota."
+  "sugestao": "Escolher um tratamento único para εἴ γε (p.ex. 'se é que' nos dois, com nota em 3:2) e traduzir 'se é que o ouviram e nele foram ensinados' em 4:21, deixando 'ouvir falar' para a nota.",
+  "decisao": "aceito: ei ge passa a ser “se é que” em 3:2 e 4:21, e 4:21 traz “o ouviram”; a nota de 3:2 registra a leitura de certeza educada."
  },
  {
   "ref": "Eph.6.7",
   "gravidade": "media",
   "problema": "δουλεύοντες traduzido por 'servindo', embora o contexto (vv. 5-9: escravos, senhores, 'escravo ou livre') caia exatamente na regra da onda 1: δουλεύω = 'ser escravo' quando contrasta com livre/senhor. O v. 6 já usa 'escravos de Cristo'.",
-  "sugestao": "'sendo escravos de boa vontade, como do Senhor e não de homens' ou 'servindo como escravos...'; ajustar a nota."
+  "sugestao": "'sendo escravos de boa vontade, como do Senhor e não de homens' ou 'servindo como escravos...'; ajustar a nota.",
+  "decisao": "aceito: os vv. 5-9 contrastam escravo, senhor e livre, o caso previsto na regra do guia; agora “servindo como escravos”."
  },
  {
   "ref": "Eph.2.19",
   "gravidade": "media",
   "problema": "Frase quase idêntica à NVI: 'vocês já não são estrangeiros nem forasteiros, mas concidadãos dos santos e membros da família de Deus'.",
-  "sugestao": "Reformular com a estrutura grega, p.ex. 'já não são estrangeiros e residentes sem direitos, mas concidadãos dos santos e gente da casa de Deus'."
+  "sugestao": "Reformular com a estrutura grega, p.ex. 'já não são estrangeiros e residentes sem direitos, mas concidadãos dos santos e gente da casa de Deus'.",
+  "decisao": "aceito: reescrito para não coincidir com a NVI (“estranhos nem estrangeiros residentes”, “gente da casa de Deus”), com as âncoras ajustadas."
  },
  {
   "ref": "Eph.4.32",
   "gravidade": "media",
   "problema": "Quase cópia da NVI: 'Sejam bondosos e compassivos uns com os outros, perdoando-se mutuamente, assim como... Deus os perdoou em Cristo'.",
-  "sugestao": "'Tornem-se bondosos entre si, de coração terno, perdoando-se uns aos outros, como também Deus, em Cristo, perdoou vocês.'"
+  "sugestao": "'Tornem-se bondosos entre si, de coração terno, perdoando-se uns aos outros, como também Deus, em Cristo, perdoou vocês.'",
+  "decisao": "aceito: reescrito para não coincidir com a NVI (“Tornem-se bondosos... de coração terno, perdoando uns aos outros”); a nota tc agora registra o hēmin do THGNT e do Bizantino."
  },
  {
   "ref": "Eph.4.29",
   "gravidade": "baixa",
   "problema": "'mas apenas a que for boa para edificar, conforme a necessidade, para que transmita graça aos que a ouvem' segue de perto a estrutura da NVI.",
-  "sugestao": "'...mas só a que for boa para a edificação, conforme a necessidade, a fim de dar graça aos que ouvem.'"
+  "sugestao": "'...mas só a que for boa para a edificação, conforme a necessidade, a fim de dar graça aos que ouvem.'",
+  "decisao": "aceito: reescrito com palavras próprias (“onde houver necessidade, a fim de dar graça aos que ouvem”), mais perto de pros oikodomēn tēs chreias."
  },
  {
   "ref": "Eph.5.1",
   "gravidade": "baixa",
   "problema": "Ef 5:1-2 ('sejam imitadores de Deus, como filhos amados, e vivam em amor, assim como Cristo nos amou e se entregou por nós') coincide quase palavra a palavra com a NVI.",
-  "sugestao": "Variar a construção, p.ex. 'tornem-se imitadores de Deus, como filhos amados, e andem em amor...'."
+  "sugestao": "Variar a construção, p.ex. 'tornem-se imitadores de Deus, como filhos amados, e andem em amor...'.",
+  "decisao": "aceito: 5:1-2 reescritos (“Tornem-se, pois, imitadores”; “andem em amor”; “se entregou a si mesmo”; “de aroma suave”), mais literais e distantes da NVI."
  },
  {
   "ref": "Eph.6.1",
   "gravidade": "baixa",
   "problema": "'Filhos, obedeçam a seus pais no Senhor, pois isso é justo' é frase idêntica à NVI.",
-  "sugestao": "'Filhos, obedeçam aos seus pais no Senhor, porque isto é justo.'"
+  "sugestao": "'Filhos, obedeçam aos seus pais no Senhor, porque isto é justo.'",
+  "decisao": "aceito: reescrito (“obedeçam aos seus pais no Senhor, porque isto é justo”) para não coincidir com a NVI."
  },
  {
   "ref": "Eph.1.13",
   "gravidade": "media",
   "problema": "Nota atribui à ARC a tradução 'depois que crestes'. A ARC de Ef 1:13 traz 'tendo nele também crido' (a expressão 'depois que crestes' lembra a KJV), então a atribuição é duvidosa.",
-  "sugestao": "Dizer 'algumas traduções antigas em inglês e português, como a KJV (“after that ye believed”)', ou remover a menção a ARC; marcar 'revisar: true'."
+  "sugestao": "Dizer 'algumas traduções antigas em inglês e português, como a KJV (“after that ye believed”)', ou remover a menção a ARC; marcar 'revisar: true'.",
+  "decisao": "aceito: tirei a atribuição à ARC, de cuja redação não tenho certeza; a nota cita a King James (“after that ye believed”), cuja forma é segura."
  },
  {
   "ref": "Eph.2.2",
   "gravidade": "baixa",
   "problema": "τοῦ πνεύματος é genitivo (ligado a 'poder'/'ar'), mas o texto põe 'o espírito' em aposição ao 'príncipe', mudando o caso e a relação. A nota reconhece, mas o texto fica mais fechado do que o grego.",
-  "sugestao": "'o príncipe do poder do ar, do espírito que agora atua nos filhos da desobediência' (mantendo o genitivo)."
+  "sugestao": "'o príncipe do poder do ar, do espírito que agora atua nos filhos da desobediência' (mantendo o genitivo).",
+  "decisao": "aceito: tou pneumatos é genitivo; o texto agora diz “do espírito” e a nota deixa as duas leituras possíveis."
  },
  {
   "ref": "Eph.2.8",
   "gravidade": "baixa",
   "problema": "Nota diz que a maioria 'já desde Calvino' entende 'isto' como toda a realidade da salvação; a atribuição a Calvino é duvidosa (ele discute a posição e inclui a fé como dom).",
-  "sugestao": "Retirar 'já desde Calvino' ou 'a maioria dos comentaristas modernos'."
+  "sugestao": "Retirar 'já desde Calvino' ou 'a maioria dos comentaristas modernos'.",
+  "decisao": "aceito: “já desde Calvino” não era verificável pela folha; a nota diz só “a maioria dos comentaristas”."
  },
  {
   "ref": "Eph.1.4",
   "gravidade": "baixa",
   "problema": "Nota sobre katenōpion diz que a palavra indica 'a presença de Deus como juiz'; em Jd 24 ('diante da sua glória') e Cl 1:22 isso não é claro.",
-  "sugestao": "'indica estar diante de Deus' sem 'como juiz'."
+  "sugestao": "'indica estar diante de Deus' sem 'como juiz'.",
+  "decisao": "aceito: katenōpion indica presença, não necessariamente julgamento (cf. Jd 24); tirei “como juiz”."
  },
  {
   "ref": "Eph.1.19",
   "gravidade": "baixa",
   "problema": "Nota sobre os quatro termos de poder é confusa: diz que a tradução 'reduz uma palavra repetida', mas o texto usa 'poder' para δύναμις e para ἰσχύς, e 'força' para κράτος; o leitor não entende o que foi reduzido.",
-  "sugestao": "Dizer o que a tradução faz: dynamis 'poder', energeia 'atuação', kratos 'força', ischys 'poder' (repetido), propondo p.ex. 'vigor' para ischys."
+  "sugestao": "Dizer o que a tradução faz: dynamis 'poder', energeia 'atuação', kratos 'força', ischys 'poder' (repetido), propondo p.ex. 'vigor' para ischys.",
+  "decisao": "aceito em parte: a nota foi reescrita com o mapa claro dos quatro termos, mas mantive “poder” para ischys para conservar a fórmula de 6:10, sem adotar “vigor” no texto."
  },
  {
   "ref": "Eph.3.18",
   "gravidade": "baixa",
   "problema": "Nota termina com 'O texto deixa a ideia ampla de propósito', frase truncada e sem sentido claro.",
-  "sugestao": "'O texto deixa o objeto em aberto, e a tradução não o acrescenta.'"
+  "sugestao": "'O texto deixa o objeto em aberto, e a tradução não o acrescenta.'",
+  "decisao": "aceito: a frase final era obscura; agora diz que o texto deixa o objeto em aberto e a tradução não o acrescenta."
  },
  {
   "ref": "Eph.3.20",
   "gravidade": "baixa",
   "problema": "'infinitamente mais' reforça o grego (ὑπὲρ πάντα ... ὑπερεκπερισσοῦ = 'acima de tudo, além de toda medida') com 'infinitamente', termo que o texto não tem; o duplo hyper panta/hyperekperissou também não se vê.",
-  "sugestao": "'muito mais além de tudo o que pedimos ou pensamos'."
+  "sugestao": "'muito mais além de tudo o que pedimos ou pensamos'.",
+  "decisao": "aceito: “infinitamente” reforçava o grego; agora “muito mais do que tudo, imensamente além do que pedimos ou pensamos”, refletindo hyper panta e hyperekperissou."
  },
  {
   "ref": "Eph.4.19",
   "gravidade": "baixa",
   "problema": "'Tendo perdido toda a sensibilidade': 'toda' não está em ἀπηλγηκότες; é acréscimo sem base.",
-  "sugestao": "'Tendo perdido a sensibilidade'."
+  "sugestao": "'Tendo perdido a sensibilidade'.",
+  "decisao": "aceito: “toda” não está em apēlgēkotes; removido."
  },
  {
   "ref": "Eph.4.28",
   "gravidade": "baixa",
   "problema": "'Quem roubava' (imperfeito) troca o particípio presente ὁ κλέπτων. A nota diz que evita sugerir ladrões ativos, o que suaviza o texto; o guia manda não suavizar.",
-  "sugestao": "'Quem rouba não roube mais' (com a nota atual sobre hábito)."
+  "sugestao": "'Quem rouba não roube mais' (com a nota atual sobre hábito).",
+  "decisao": "aceito: ho kleptōn é particípio presente; agora “Quem rouba não roube mais”, e a nota foi ajustada."
  },
  {
   "ref": "Eph.4.28",
   "gravidade": "baixa",
   "problema": "Nota tc diz que o TR e o Bizantino 'omitem idiais e mudam a ordem'. A folha só mostra a omissão de ἰδίαις, não mudança de ordem.",
-  "sugestao": "Retirar 'e mudam a ordem'."
+  "sugestao": "Retirar 'e mudam a ordem'.",
+  "decisao": "aceito: a folha só mostra a omissão de idiais; tirei “e mudam a ordem”."
  },
  {
   "ref": "Eph.5.18",
   "gravidade": "baixa",
   "problema": "'deixem-se encher' acrescenta sentido permissivo ao passivo πληροῦσθε ('sejam cheios'). A nota o defende, mas o texto fica mais interpretativo que o grego; o guia pede 'sem fortalecer o que o texto deixa aberto'.",
-  "sugestao": "'sejam cheios do Espírito' (ou 'sejam cheios pelo Espírito'), com a nota atual explicando o passivo."
+  "sugestao": "'sejam cheios do Espírito' (ou 'sejam cheios pelo Espírito'), com a nota atual explicando o passivo.",
+  "decisao": "aceito: plērousthe é passivo e “deixem-se” soa permissivo; agora “sejam cheios pelo Espírito”, e a nota foi ajustada."
  },
  {
   "ref": "Eph.5.33",
   "gravidade": "baixa",
   "problema": "φοβῆται traduzido 'respeite', enquanto 5:21 traduz φόβος por 'temor'. A ligação verbal que a própria nota destaca se perde no texto; 'respeite' enfraquece o grego.",
-  "sugestao": "'e a mulher tema [respeite com reverência] o marido', ou usar 'reverencie' e explicar na nota."
+  "sugestao": "'e a mulher tema [respeite com reverência] o marido', ou usar 'reverencie' e explicar na nota.",
+  "decisao": "aceito em parte: troquei “respeite” por “reverencie”, que guarda mais da força do verbo, e a nota liga ao temor do v. 21; não usei “tema”, que soaria como medo."
  },
  {
   "ref": "Eph.2.15",
   "gravidade": "baixa",
   "problema": "'os mandamentos expressos em ordenanças': 'expressos' é acréscimo; ἐν δόγμασιν é literalmente 'em decretos'.",
-  "sugestao": "'a lei dos mandamentos em decretos' e a nota explicar o sentido."
+  "sugestao": "'a lei dos mandamentos em decretos' e a nota explicar o sentido.",
+  "decisao": "aceito: “expressos” era acréscimo; agora “a lei dos mandamentos em decretos”, com explicação de en dogmasin na nota."
  },
  {
   "ref": "Eph.6.6",
   "gravidade": "baixa",
   "problema": "Nota de ὀφθαλμοδουλία é intitulada 'hápax', mas diz 'também em Cl 3:22': contradição (ocorre 2x no NT).",
-  "sugestao": "Trocar o título para 'raro' e manter a menção de Cl 3:22."
+  "sugestao": "Trocar o título para 'raro' e manter a menção de Cl 3:22.",
+  "decisao": "aceito: o título passou de hápax para “raro”, porque a palavra aparece também em Cl 3:22."
  },
  {
   "ref": "Eph.6.6",
   "gravidade": "baixa",
   "problema": "Nota sobre ἐκ ψυχῆς cita 'de coração, servindo com boa vontade' como texto do v. 7, mas o v. 7 da tradução não tem 'de coração'.",
-  "sugestao": "Citar o v. 7 como 'servindo de boa vontade' ou ajustar o texto."
+  "sugestao": "Citar o v. 7 como 'servindo de boa vontade' ou ajustar o texto.",
+  "decisao": "aceito: a citação do v. 7 foi ajustada ao texto atual (“servindo como escravos de boa vontade”)."
  },
  {
   "ref": "Eph.6.1",
   "gravidade": "baixa",
   "problema": "Nota afirma que 'alguns manuscritos antigos omitem “no Senhor”'; a folha não mostra essa variante.",
-  "sugestao": "Retirar a frase ou marcar 'revisar: true'."
+  "sugestao": "Retirar a frase ou marcar 'revisar: true'.",
+  "decisao": "aceito: a folha não mostra variante em “no Senhor”; a frase foi cortada."
  },
  {
   "ref": "Eph.6.8",
   "gravidade": "baixa",
   "problema": "Nota tc afirma que o THGNT traz ean e ti. A folha mostra ἐάν no THGNT mas τι só em NA28, NA27, WH, TR e Bizantino (não THGNT).",
-  "sugestao": "Ajustar a lista de edições para refletir a folha."
+  "sugestao": "Ajustar a lista de edições para refletir a folha.",
+  "decisao": "aceito: a folha mostra ti em NA28, NA27, WH, TR e Byz, mas não no THGNT; a nota foi corrigida."
  },
  {
   "ref": "Eph.4.6",
   "gravidade": "baixa",
   "problema": "Nota diz que 'outros manuscritos' trazem hēmin; a folha só registra ὑμῖν no TR, sem hēmin aqui.",
-  "sugestao": "Retirar a menção a hēmin ou marcar 'revisar: true'."
+  "sugestao": "Retirar a menção a hēmin ou marcar 'revisar: true'.",
+  "decisao": "aceito: a folha só registra hymin no TR; tirei a menção a hēmin."
  },
  {
   "ref": "Eph.1.1",
   "gravidade": "baixa",
   "problema": "Nota tc termina com redundância ('todas as edições... mantêm as palavras no texto. A APV as mantém, e esta nota registra a dúvida').",
-  "sugestao": "Cortar 'A APV as mantém,' e deixar só 'esta nota registra a dúvida'."
+  "sugestao": "Cortar 'A APV as mantém,' e deixar só 'esta nota registra a dúvida'.",
+  "decisao": "aceito: cortei a redundância “A APV as mantém”."
  }
 ]
