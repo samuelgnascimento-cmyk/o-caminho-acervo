@@ -28,7 +28,8 @@ for f in ('hebraico.tsv', 'grego.tsv'):
 def glosa(strong):
     partes = []
     for s in re.findall(r'[HG]\d+[A-Za-z]?', strong):
-        g = glos.get(s) or glos.get(re.sub(r'[A-Za-z]$', '', s))
+        b = re.sub(r'[A-Za-z]$', '', s)
+        g = glos.get(s) or glos.get(b) or next((glos[k] for k in sorted(glos) if k[:-1] == b and k[-1].isalpha()), None)
         if g is None: return None
         if g in '-|.¶': continue
         partes.append(g)

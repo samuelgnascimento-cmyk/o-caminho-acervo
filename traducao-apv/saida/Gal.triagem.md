@@ -1,0 +1,92 @@
+# Triagem para revisão humana: Gálatas
+
+Pontos que um revisor com hebraico/grego deve conferir antes de o texto ser considerado final.
+
+- Gal.1.7: palavra rara μεταστρέψαι (μεταστρέφω, G3344): raro (2x)
+- Gal.1.13: palavra rara ἐπόρθουν (πορθέω, G4199): raro (3x)
+- Gal.1.14: palavra rara συνηλικιώτας (συνηλικιώτης, G4915): hapax
+- Gal.1.14: palavra rara πατρικῶν (πατρικός, G3967): hapax
+- Gal.1.16: palavra rara προσανεθέμην (προσανατίθημι, G4323): raro (2x)
+- Gal.1.17: palavra rara ἀνῆλθον (ἀνέρχομαι, G0424): raro (3x)
+- Gal.1.18: palavra rara ἀνῆλθον (ἀνέρχομαι, G0424): raro (3x)
+- Gal.1.18: palavra rara ἱστορῆσαι (ἱστορέω, G2477): hapax
+- Gal.1.18: palavra rara δεκαπέντε· (δεκαπέντε, G1178): raro (3x)
+- Gal.1.21: palavra rara κλίματα (κλίμα, G2824): raro (3x)
+- Gal.1.23: palavra rara ἐπόρθει· (πορθέω, G4199): raro (3x)
+- Gal.2.2: palavra rara ἀνεθέμην (ἀνατίθημι, G0394): raro (2x)
+- Gal.2.4: palavra rara παρεισάκτους (παρείσακτος, G3920): hapax
+- Gal.2.4: palavra rara ψευδαδέλφους, (ψευδάδελφος, G5569): raro (2x)
+- Gal.2.4: palavra rara παρεισῆλθον (παρεισέρχομαι, G3922): raro (2x)
+- Gal.2.4: palavra rara κατασκοπῆσαι (κατασκοπέω, G2684): hapax
+- Gal.2.4: palavra rara καταδουλώσουσιν, (καταδουλόω, G2615): raro (2x)
+- Gal.2.5: palavra rara εἴξαμεν (εἴκω, G1502): hapax
+- Gal.2.6: palavra rara προσανέθεντο, (προσανατίθημι, G4323): raro (2x)
+- Gal.2.7: palavra rara τοὐναντίον, (τοὐναντίον, G5121): raro (3x)
+- Gal.2.11: palavra rara κατεγνωσμένος (καταγινώσκω, G2607): raro (3x)
+- Gal.2.13: palavra rara συνυπεκρίθησαν (συνυποκρίνομαι, G4942): hapax
+- Gal.2.13: palavra rara συναπήχθη (συναπάγω, G4879): raro (3x)
+- Gal.2.14: palavra rara ὀρθοποδοῦσιν (ὀρθοποδέω, G3716): hapax
+- Gal.2.14: palavra rara ἰουδαΐζειν; (Ἰουδαΐζω, G2450): hapax
+- Gal.2.16: pistis Christou: O genitivo pode ser objetivo (“fé em Jesus Cristo”, a fé do crente que tem Cristo por objeto) ou subjetivo (“fidelidade de Jesus Cristo”, a obediência fiel de Cristo até a cruz). A APV segue o objetivo, como em Fp 3:9, com a tradição da Reforma e J. D. G. Dunn: a frase do meio (“também nós cremos em Cristo Jesus”) explica os dois genitivos com o verbo crer, e Paulo nunca chama Cristo de sujeito de pisteuō. A leitura subjetiva, defendida por R. B. Hays e por muitos estudiosos recentes, não nega a fé do crente: entende que a frase do meio a acrescenta. A tradução “fé em” não exclui que a fé descanse na fidelidade de Cristo.
+- Gal.2.17: palavra rara ἆρα (ἆρα, G0687): raro (3x)
+- Gal.2.20: o mesmo debate de 2:16: O genitivo pode ser objetivo (“fé no Filho de Deus”) ou subjetivo (“fidelidade do Filho de Deus”). Os particípios que seguem (“que me amou e se entregou”) descrevem a obra fiel de Cristo, e por isso os defensores da leitura subjetiva veem aqui um forte apoio. A APV mantém a leitura objetiva, coerente com 2:16; a outra é registrada como alternativa séria.
+- Gal.3.1: palavra rara Γαλάται, (Γαλάτης, G1052): hapax
+- Gal.3.1: palavra rara ἐβάσκανεν (βασκαίνω, G0940): hapax
+- Gal.3.3: palavra rara ἐναρξάμενοι (ἐνάρχομαι, G1728): raro (2x)
+- Gal.3.4: paschō: “sofrer” ou “experimentar”: Paschō é normalmente “sofrer” no NT, e muitos traduzem assim, pensando em perseguições (At 14:22). Mas a carta não fala claramente de sofrimentos dos próprios gálatas (4:29 e 5:11 falam de perseguição em termos gerais ou da que Paulo sofre), e o contexto imediato (vv. 2-5) trata das experiências do Espírito; o verbo pode ter esse sentido neutro (cf. BDAG). A tradução escolheu “experimentar”, que cabe nas duas leituras.
+- Gal.3.8: palavra rara προευηγγελίσατο (προευαγγελίζομαι, G4283): hapax
+- Gal.3.8: palavra rara ἐνευλογηθήσονται (ἐνευλογέομαι, G1757): raro (2x)
+- Gal.3.10: palavra rara ἐπικατάρατος (ἐπικατάρατος, G1944): raro (2x)
+- Gal.3.11: palavra rara δῆλον, (δῆλος, G1212): raro (3x)
+- Gal.3.13: palavra rara ἐπικατάρατος (ἐπικατάρατος, G1944): raro (2x)
+- Gal.3.15: palavra rara ὅμως (ὅμως, G3676): raro (3x)
+- Gal.3.15: palavra rara κεκυρωμένην (κυρόω, G2964): raro (2x)
+- Gal.3.15: palavra rara ἐπιδιατάσσεται. (ἐπιδιατάσσομαι, G1928): hapax
+- Gal.3.16: sperma: “semente”, “descendência”: Lit. “semente”. Como o hebraico zera‘, sperma é um singular coletivo: pode indicar um descendente ou toda a posteridade. O argumento de Paulo depende do singular. A APV usa “descendência”, que em português também é singular e coletivo e por isso guarda a mesma ambiguidade do original; “semente” seria mais literal, mas hoje soa obscuro para “filhos”. “Descendente” (só um) eliminaria o sentido coletivo, que Paulo retoma no v. 29.
+- Gal.3.16: o argumento do singular: As citações vêm das promessas de Gn 12:7; 13:15; 17:8; 22:18 e 24:7. Paulo sabe que “descendência” é coletiva (v. 29; Rm 4:16-18). O argumento é que a promessa se cumpre numa linha única, que culmina num descendente: o Messias, em quem se reúnem todos os que lhe pertencem. Vários estudiosos ligam a leitura de Paulo a 2Sm 7:12-14, onde a “descendência” de Davi é o rei filho de Deus, e notam que a interpretação judaica da época já lia algumas promessas de “descendência” em sentido messiânico. N. T. Wright entende “Cristo” aqui como o Messias que representa e incorpora o povo único; outros (como J. B. Lightfoot) veem um argumento de tipo rabínico a partir da forma da palavra. As duas leituras concordam que Cristo é o herdeiro da promessa e que os crentes a recebem nele (v. 29).
+- Gal.3.17: palavra rara προκεκυρωμένην (προκυρόομαι, G4300): hapax
+- Gal.3.17: palavra rara ἀκυροῖ (ἀκυρόω, G0208): raro (3x)
+- Gal.3.20: um dos versículos mais difíceis: As interpretações propostas se contam às centenas. A mais aceita: um mediador supõe duas partes, cada uma com obrigações (como no Sinai, entre Deus e o povo, por meio de Moisés); a promessa a Abraão, porém, foi dada diretamente por Deus, que agiu sozinho. “Deus é um só” ecoa o Shemá (Dt 6:4) e talvez também Rm 3:29-30: o único Deus quer um só povo de judeus e gentios, que a lei, ao separar, não podia formar. A tradução é literal para não fechar o sentido.
+- Gal.3.24: palavra rara παιδαγωγὸς (παιδαγωγός, G3807): raro (3x)
+- Gal.3.25: palavra rara παιδαγωγόν (παιδαγωγός, G3807): raro (3x)
+- Gal.4.2: palavra rara ἐπιτρόπους (ἐπίτροπος, G2012): raro (3x)
+- Gal.4.2: palavra rara προθεσμίας (προθεσμία, G4287): hapax
+- Gal.4.3: stoicheia: Stoicheia são, de modo geral, “elementos de uma série”: as letras do alfabeto, os princípios básicos de uma disciplina, os elementos físicos (terra, água, ar, fogo) ou, para alguns, os poderes espirituais associados aos astros. As principais leituras: (1) princípios elementares de religião, que valiam tanto para o judaísmo sob a lei quanto para o paganismo; (2) os elementos físicos do cosmo, que os pagãos divinizavam e que regiam calendários (v. 10); (3) seres espirituais (cf. vv. 8-9). A tradução literal mantém a abertura do grego; o ponto de Paulo é que tanto a vida sob a lei quanto a idolatria pagã eram formas de escravidão.
+- Gal.4.14: palavra rara ἐξεπτύσατε, (ἐκπτύω, G1609): hapax
+- Gal.4.15: palavra rara μακαρισμὸς (μακαρισμός, G3108): raro (3x)
+- Gal.4.15: palavra rara ἐξορύξαντες (ἐξορύσσω, G1846): raro (2x)
+- Gal.4.16: palavra rara ἀληθεύων (ἀληθεύω, G0226): raro (2x)
+- Gal.4.17: palavra rara ἐκκλεῖσαι (ἐκκλείω, G1576): raro (2x)
+- Gal.4.19: palavra rara ὠδίνω (ὠδίνω, G5605): raro (3x)
+- Gal.4.19: palavra rara μορφωθῇ (μορφόω, G3445): hapax
+- Gal.4.24: palavra rara ἀλληγορούμενα· (ἀλληγορέω, G0238): hapax
+- Gal.4.25: palavra rara συστοιχεῖ (συστοιχέω, G4960): hapax
+- Gal.4.25: texto incerto: As edições críticas trazem to de Hagar (“e Agar”); o Textus Receptus e o Texto Bizantino, to gar Hagar (“pois Agar”). Alguns manuscritos antigos omitem “Agar”: “pois o Sinai é um monte na Arábia”. O neutro to indica que Paulo fala do nome “Agar”; alguns supõem um jogo com uma palavra árabe parecida (ḥajar, “rocha”), mas isso é incerto.
+- Gal.4.27: palavra rara ὠδίνουσα, (ὠδίνω, G5605): raro (3x)
+- Gal.5.1: palavra rara ἐνέχεσθε.¶ (ἐνέχω, G1758): raro (3x)
+- Gal.5.8: palavra rara πεισμονὴ (πεισμονή, G3988): hapax
+- Gal.5.12: palavra rara ἀναστατοῦντες (ἀναστατόω, G0387): raro (3x)
+- Gal.5.15: palavra rara δάκνετε (δάκνω, G1143): hapax
+- Gal.5.15: palavra rara ἀναλωθῆτε.¶ (ἀναλίσκω, G0355): raro (2x)
+- Gal.5.17: uma frase difícil: Hina pode indicar finalidade ou resultado. As leituras: (1) a carne impede o crente de fazer o bem que deseja (cf. Rm 7:15-19); (2) o Espírito impede o crente de fazer o que a carne deseja; (3) o conflito impede qualquer neutralidade: o crente não pode simplesmente seguir sua vontade autônoma. O v. 16 (promessa de vitória) e o v. 18 favorecem uma leitura em que o conflito é real, mas o Espírito prevalece em quem anda nele. A tradução “de modo que” deixa a questão aberta.
+- Gal.5.20: palavra rara φαρμακεία, (φαρμακεία, G5331): raro (2x)
+- Gal.5.20: palavra rara διχοστασίαι, (διχοστασία, G1370): raro (2x)
+- Gal.5.21: palavra rara μέθαι, (μέθη, G3178): raro (3x)
+- Gal.5.21: palavra rara κῶμοι, (κῶμος, G2970): raro (3x)
+- Gal.5.21: palavra rara προλέγω (προλέγω, G4302): raro (3x)
+- Gal.5.21: palavra rara προεῖπον (προέπω, G4277): raro (2x)
+- Gal.5.21: phthonoi phonoi: O THGNT, Tregelles, o Textus Receptus e o Texto Bizantino acrescentam phonoi (“homicídios”) depois de phthonoi (“invejas”). As duas palavras são quase iguais, o que facilita tanto a omissão acidental quanto o acréscimo (por influência de Rm 1:29). O SBLGNT omite, com 𝔓46, ℵ e B; a decisão é incerta (Metzger).
+- Gal.5.23: palavra rara πραΰτης, (πραΰτης, G4240): raro (2x)
+- Gal.5.26: palavra rara κενόδοξοι, (κενόδοξος, G2755): hapax
+- Gal.5.26: palavra rara προκαλούμενοι, (προκαλέω, G4292): hapax
+- Gal.5.26: palavra rara φθονοῦντες.¶ (φθονέω, G5354): hapax
+- Gal.6.1: palavra rara προλημφθῇ (προλαμβάνω, G4301): raro (3x)
+- Gal.6.1: palavra rara πραΰτητος (πραΰτης, G4240): raro (2x)
+- Gal.6.3: palavra rara φρεναπατᾷ (φρεναπατάω, G5422): hapax
+- Gal.6.7: palavra rara μυκτηρίζεται· (μυκτηρίζω, G3456): hapax
+- Gal.6.10: palavra rara οἰκείους (οἰκεῖος, G3609): raro (3x)
+- Gal.6.11: palavra rara πηλίκοις (πηλίκος, G4080): raro (2x)
+- Gal.6.12: palavra rara εὐπροσωπῆσαι (εὐπροσωπέω, G2146): hapax
+- Gal.6.16: quem é o Israel de Deus?: Expressão única no NT, com três leituras principais. (1) A igreja de judeus e gentios, o povo de Deus renovado em Cristo: o kai seria explicativo (“isto é, sobre o Israel de Deus”), e a leitura combina com 3:7, 29 e 4:26 e com Fp 3:3; é defendida, entre outros, por N. T. Wright. (2) Os judeus que creem em Cristo, dentro da igreja: o kai seria aditivo, como é o uso normal da conjunção, e Paulo nunca chama a igreja de “Israel” em outro lugar. (3) O Israel étnico, que Deus ainda vai alcançar com misericórdia (Rm 11:25-32), leitura defendida por alguns comentaristas. A bênção ecoa Sl 125:5 e 128:6 (“paz sobre Israel”) e a oração judaica que pede “paz e misericórdia sobre nós e sobre todo o teu povo Israel”. A APV traduz o kai por “e”, que é o seu sentido mais comum, e deixa a vírgula antes, como no grego, para não decidir a questão no texto. A leitura (1) é hoje a mais difundida entre os comentaristas, mas a decisão tem peso teológico (relação entre a igreja e Israel) e as três posições são sérias.
+- Gal.6.17: palavra rara λοιποῦ (λοιποῦ, G3064): raro (2x)
+- Gal.6.17: palavra rara στίγματα (στίγμα, G4742): hapax

@@ -565,7 +565,7 @@
   ]
  },
  "Mat.13.30": {
-  "t": "Deixem que os dois cresçam juntos até a colheita. No tempo da colheita direi aos ceifeiros: Recolham primeiro o joio e amarrem-no em feixes para ser queimado; o trigo, porém, juntem-no no meu celeiro.’”",
+  "t": "Deixem que os dois cresçam juntos até a colheita. No tempo da colheita direi aos ceifeiros: “Recolham primeiro o joio e amarrem-no em feixes para ser queimado; o trigo, porém, juntem-no no meu celeiro.”’”",
   "n": [
    {
     "tipo": "tn",
@@ -1762,6 +1762,748 @@
     "termo": "διεσώθησαν (diesōthēsan)",
     "titulo": "diasōzō",
     "texto": "“Ser salvo por completo, levado a salvo”. Aqui, cura plena. O prefixo dia- reforça o simples sōzō, que em Mateus une cura e salvação (ver nota em 9:21)."
+   }
+  ]
+ },
+ "Mat.15.1": {
+  "t": "Então fariseus e escribas vindos de Jerusalém se aproximaram de Jesus e lhe perguntaram:",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "vindos de Jerusalém",
+    "termo": "ἀπὸ Ἱεροσολύμων",
+    "titulo": "uma delegação",
+    "texto": "Fariseus e escribas que vêm da capital até a Galileia parecem uma comissão oficial de inspeção. Jerusalém, em Mateus, é o centro da oposição a Jesus (2:3; 16:21; 20:18)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "se aproximaram",
+    "termo": "προσέρχονται (proserchontai)",
+    "titulo": "presente histórico",
+    "texto": "Lit. “aproximam-se”. Mateus usa o presente para dar vivacidade à cena; em português, o pretérito soa mais natural."
+   }
+  ]
+ },
+ "Mat.15.2": {
+  "t": "“Por que os seus discípulos transgridem a tradição dos anciãos? Pois não lavam as mãos quando comem.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "a tradição dos anciãos",
+    "termo": "τὴν παράδοσιν τῶν πρεσβυτέρων",
+    "titulo": "paradosis",
+    "texto": "O conjunto de interpretações e regras transmitidas oralmente pelos mestres antigos, que os fariseus consideravam obrigatórias ao lado da Lei escrita. Mais tarde foi registrado na Mishná (por volta de 200 d.C.). “Anciãos” aqui são os mestres das gerações passadas, não os membros do Sinédrio."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "não lavam as mãos",
+    "termo": "οὐ γὰρ νίπτονται τὰς χεῖρας",
+    "titulo": "pureza, não higiene",
+    "texto": "Não se trata de higiene, mas de pureza ritual. A Lei mandava os sacerdotes lavarem as mãos e os pés antes do serviço (Êx 30:17-21); os fariseus estendiam práticas de pureza à mesa de todo israelita. O tratado Yadayim (“Mãos”) da Mishná regula essa lavagem."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "quando comem",
+    "termo": "ὅταν ἄρτον ἐσθίωσιν",
+    "titulo": "“comer pão”",
+    "texto": "Lit. “quando comem pão”: expressão hebraica para fazer uma refeição."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "transgridem",
+    "termo": "παραβαίνουσιν (parabainousin)",
+    "titulo": "parabainō, raro",
+    "texto": "“Passar por cima, violar” (só aqui, no v. 3 e em At 1:25). Jesus devolve o mesmo verbo no v. 3: eles acusam os discípulos de transgredir uma tradição; ele os acusa de transgredir um mandamento de Deus."
+   }
+  ]
+ },
+ "Mat.15.3": {
+  "t": "Ele lhes respondeu: “E por que vocês também transgridem o mandamento de Deus por causa da tradição de vocês?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "E por que vocês também",
+    "termo": "διὰ τί καὶ ὑμεῖς",
+    "titulo": "contrapergunta",
+    "texto": "Jesus responde com outra pergunta, à maneira dos debates rabínicos. O contraste é entre “a tradição dos anciãos” (v. 2) e “o mandamento de Deus”, rebaixado agora a “tradição de vocês”."
+   }
+  ]
+ },
+ "Mat.15.4": {
+  "t": "Pois Deus disse: ‘Honre seu pai e sua mãe’, e: ‘Quem amaldiçoar pai ou mãe seja punido com a morte’.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Honre seu pai e sua mãe",
+    "termo": "τίμα τὸν πατέρα καὶ τὴν μητέρα",
+    "titulo": "Êxodo 20:12; Deuteronômio 5:16",
+    "texto": "O quinto mandamento, citado pela Septuaginta. A APV traduz os mandamentos citados na segunda pessoa com o imperativo de “você” (ver nota em 5:21); a forma tradicional é “Honra teu pai e tua mãe”. Honrar incluía sustentar os pais na velhice (cf. 1Tm 5:4, 8)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Quem amaldiçoar pai ou mãe seja punido com a morte",
+    "termo": "ὁ κακολογῶν πατέρα ἢ μητέρα θανάτῳ τελευτάτω",
+    "titulo": "Êxodo 21:17; Levítico 20:9",
+    "texto": "Citação de Êx 21:17 pela Septuaginta. Lit. “morra de morte”, que imita a construção hebraica mot yumat, “será certamente morto”. A gravidade da pena mostra o peso que a Lei dava ao dever para com os pais."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "amaldiçoar",
+    "termo": "κακολογῶν (kakologōn)",
+    "titulo": "kakologeō",
+    "texto": "“Falar mal, insultar, amaldiçoar”. O hebraico de Êx 21:17 (qalal) é “tratar com desprezo, amaldiçoar”."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Pois Deus disse",
+    "termo": "ὁ γὰρ θεὸς εἶπεν",
+    "titulo": "“disse” ou “ordenou, dizendo”",
+    "texto": "O Textus Receptus e o Texto Bizantino trazem eneteilato legōn, “Deus ordenou, dizendo”; o Textus Receptus acrescenta ainda sou (“teu pai”). O sentido não muda."
+   }
+  ]
+ },
+ "Mat.15.5": {
+  "t": "Mas vocês dizem: ‘Se alguém disser ao pai ou à mãe: “Aquilo com que eu poderia ajudar você é oferta consagrada a Deus”,",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "oferta consagrada a Deus",
+    "termo": "δῶρον (dōron)",
+    "titulo": "o corbã",
+    "texto": "Lit. “oferta”. Corresponde ao hebraico qorban, que Mc 7:11 transcreve: um bem declarado consagrado ao templo por um voto. Pela regra criticada aqui, quem fazia esse voto ficava proibido de usar o bem em favor dos pais, mesmo que continuasse, na prática, a desfrutar dele. A Mishná (tratado Nedarim) discute votos desse tipo, e alguns mestres já admitiam anulá-los em favor dos pais. “A Deus” foi acrescentado para deixar claro o sentido religioso de “oferta”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Aquilo com que eu poderia ajudar você",
+    "termo": "ὃ ἐὰν ἐξ ἐμοῦ ὠφεληθῇς",
+    "titulo": "“o que de mim você seria ajudado”",
+    "texto": "Lit. “o que quer que de mim você fosse beneficiado”. A forma passiva foi passada para a ativa, mais clara em português. A frase grega fica suspensa, sem verbo principal, até o v. 6."
+   }
+  ]
+ },
+ "Mat.15.6": {
+  "t": "não precisará honrar o seu pai’. Assim vocês anularam a palavra de Deus por causa da tradição de vocês.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "não precisará honrar o seu pai",
+    "termo": "οὐ μὴ τιμήσει τὸν πατέρα αὐτοῦ",
+    "titulo": "a regra criticada",
+    "texto": "Lit. “de modo nenhum honrará o seu pai”. É a conclusão da regra que Jesus atribui aos adversários: quem fez o voto fica dispensado do quinto mandamento. A frase completa a do v. 5. Só o pai é mencionado, como representante dos dois; alguns manuscritos acrescentam “ou a sua mãe”.",
+    "revisar": true
+   },
+   {
+    "tipo": "tn",
+    "ancora": "anularam",
+    "termo": "ἠκυρώσατε (ēkyrōsate)",
+    "titulo": "akyroō, raro",
+    "texto": "“Tirar a validade, invalidar” (só aqui, em Mc 7:13 e Gl 3:17), termo jurídico para anular um contrato ou testamento. A tradição, que deveria proteger a Lei, acaba por revogá-la."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "a palavra de Deus",
+    "termo": "τὸν λόγον τοῦ θεοῦ",
+    "titulo": "“palavra” ou “mandamento”",
+    "texto": "O SBLGNT traz ton logon, “a palavra”; o Textus Receptus e o Texto Bizantino, tēn entolēn, “o mandamento”, talvez por influência do v. 3. Alguns manuscritos trazem ton nomon, “a lei”. O sentido é o mesmo."
+   }
+  ]
+ },
+ "Mat.15.7": {
+  "t": "Hipócritas! Bem profetizou Isaías a respeito de vocês, quando disse:",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Hipócritas",
+    "termo": "Ὑποκριταί (Hypokritai)",
+    "titulo": "hypokritēs",
+    "texto": "Os que representam uma piedade que não corresponde ao coração (ver nota em 6:2). Os vv. 8-9 explicam a palavra: honrar com os lábios, com o coração distante."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "a respeito de vocês",
+    "termo": "περὶ ὑμῶν",
+    "titulo": "profecia e aplicação",
+    "texto": "Isaías falava ao povo do seu tempo (Is 29:13). Para Jesus, a palavra descreve de novo, e ainda mais, os seus ouvintes."
+   }
+  ]
+ },
+ "Mat.15.8": {
+  "t": "‘Este povo me honra com os lábios, mas o seu coração está longe de mim.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Este povo me honra com os lábios",
+    "termo": "Ὁ λαὸς οὗτος τοῖς χείλεσίν με τιμᾷ",
+    "titulo": "Isaías 29:13",
+    "texto": "Citação de Is 29:13, de forma resumida, segundo a Septuaginta. Isaías condena o culto de Jerusalém, feito de palavras e regras humanas, sem coração."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Este povo me honra com os lábios",
+    "termo": "Ὁ λαὸς οὗτος (+ ἐγγίζει μοι τῷ στόματι αὐτῶν καί)",
+    "titulo": "a forma longa",
+    "texto": "O Textus Receptus e o Texto Bizantino trazem a forma mais completa da Septuaginta: “Este povo se aproxima de mim com a boca e me honra com os lábios”. O texto-base é mais curto; a forma longa parece ter sido completada a partir de Isaías."
+   }
+  ]
+ },
+ "Mat.15.9": {
+  "t": "Em vão me adoram, ensinando doutrinas que são mandamentos humanos’.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Em vão",
+    "termo": "μάτην (matēn)",
+    "titulo": "matēn, raro",
+    "texto": "“Inutilmente, sem proveito” (só aqui e em Mc 7:7). O culto existe, mas não serve para nada diante de Deus."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "doutrinas que são mandamentos humanos",
+    "termo": "διδασκαλίας, ἐντάλματα ἀνθρώπων",
+    "titulo": "aposição",
+    "texto": "Lit. “ensinando ensinamentos, mandamentos de homens”. A segunda expressão explica a primeira. Entalma (“preceito”) é raro (também Mc 7:7; Cl 2:22). O hebraico de Is 29:13 diz “o temor que têm de mim é mandamento de homens, aprendido de cor”; a Septuaginta, seguida aqui, fala de ensinar mandamentos humanos."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "adoram",
+    "termo": "σέβονται (sebontai)",
+    "titulo": "sebomai",
+    "texto": "“Venerar, prestar culto”. Não é proskyneō (prostrar-se), mas o verbo geral para a reverência religiosa."
+   }
+  ]
+ },
+ "Mat.15.10": {
+  "t": "Jesus chamou a multidão e lhe disse: “Ouçam e entendam:",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Ouçam e entendam",
+    "termo": "ἀκούετε καὶ συνίετε",
+    "titulo": "o chamado de 13:13",
+    "texto": "Os mesmos verbos de 13:13-15, 19 e 23. Jesus volta-se do debate com os peritos para o povo e pede o ouvir com entendimento que distingue o bom solo."
+   }
+  ]
+ },
+ "Mat.15.11": {
+  "t": "Não é o que entra pela boca que torna a pessoa impura, mas o que sai da boca, isso é que torna a pessoa impura.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "torna a pessoa impura",
+    "termo": "κοινοῖ τὸν ἄνθρωπον (koinoi ton anthrōpon)",
+    "titulo": "koinoō",
+    "texto": "Lit. “torna comum”: o que é comum, profano, se opõe ao que é santo e separado para Deus. Daí “tornar impuro, contaminar”. Anthrōpos aqui é o ser humano em geral; por isso “a pessoa”."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Não é o que entra pela boca",
+    "termo": "οὐ τὸ εἰσερχόμενον εἰς τὸ στόμα",
+    "titulo": "Mateus e as leis alimentares",
+    "texto": "Mc 7:19 tira a conclusão: “Assim, declarou puros todos os alimentos”. Mateus não traz essa frase e termina com a questão das mãos não lavadas (v. 20). Por isso há quem leia Mateus como mais cauteloso diante da Lei; outros entendem que o princípio do v. 11 já contém a mesma conclusão de Marcos (cf. At 10:15; Rm 14:14)."
+   }
+  ]
+ },
+ "Mat.15.12": {
+  "t": "Então os discípulos se aproximaram e lhe disseram: “Você sabe que os fariseus ficaram ofendidos ao ouvir essa palavra?”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "ficaram ofendidos",
+    "termo": "ἐσκανδαλίσθησαν (eskandalisthēsan)",
+    "titulo": "skandalizomai",
+    "texto": "O verbo de 5:29; 11:6 e 13:21, 57: tropeçar, ofender-se a ponto de rejeitar. Aqui o sentido imediato é “ofender-se, escandalizar-se”; a resposta do v. 13 mostra que é mais que um mal-estar."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "os discípulos",
+    "termo": "οἱ μαθηταί (+ αὐτοῦ)",
+    "titulo": "“os seus discípulos”",
+    "texto": "O THGNT, Tregelles, o Textus Receptus e o Texto Bizantino trazem “os seus discípulos”; o Textus Receptus e o Texto Bizantino trazem ainda eipon (“disseram”) em vez de legousin (“dizem”). Sem efeito na tradução."
+   }
+  ]
+ },
+ "Mat.15.13": {
+  "t": "Ele respondeu: “Toda planta que o meu Pai celestial não plantou será arrancada pela raiz.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "planta",
+    "termo": "φυτεία (phyteia)",
+    "titulo": "phyteia, hápax",
+    "texto": "Única ocorrência no NT: “plantação, planta”. Israel é chamado de “plantação” de Deus em Is 60:21; 61:3; a comunidade de Qumran também se descrevia como “plantação eterna”. Jesus nega que os seus adversários sejam essa plantação."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "será arrancada pela raiz",
+    "termo": "ἐκριζωθήσεται (ekrizōthēsetai)",
+    "titulo": "juízo futuro",
+    "texto": "O verbo de 13:29. Como o joio, essa planta será tirada pelo próprio Deus (passiva divina), não pelos discípulos (v. 14: “deixem-nos”)."
+   }
+  ]
+ },
+ "Mat.15.14": {
+  "t": "Deixem-nos. São guias cegos de cegos. E, se um cego guiar outro cego, os dois cairão num buraco.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "guias cegos de cegos",
+    "termo": "τυφλοί εἰσιν ὁδηγοί τυφλῶν",
+    "titulo": "construção",
+    "texto": "Lit. “cegos são, guias de cegos”. Paulo usa a imagem para o judeu que se julga “guia de cegos” (Rm 2:19); Jesus a aplica aos fariseus de novo em 23:16, 24."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "buraco",
+    "termo": "βόθυνον (bothynon)",
+    "titulo": "bothynos, raro",
+    "texto": "“Cova, buraco, vala” (também 12:11 e Lc 6:39). A imagem é a de dois cegos que caem juntos num poço ou fosso aberto no caminho."
+   }
+  ]
+ },
+ "Mat.15.15": {
+  "t": "Pedro lhe disse: “Explique-nos essa parábola.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Explique-nos",
+    "termo": "φράσον ἡμῖν (phrason hēmin)",
+    "titulo": "phrazō, hápax",
+    "texto": "Única ocorrência no NT: “expor, explicar”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "essa parábola",
+    "termo": "τὴν παραβολὴν ταύτην",
+    "titulo": "parabolē como enigma",
+    "texto": "Pedro chama de “parábola” o dito do v. 11, que não é uma história, mas uma frase enigmática. É o sentido amplo do hebraico mashal (ver nota em 13:3)."
+   }
+  ]
+ },
+ "Mat.15.16": {
+  "t": "Jesus disse: “Até vocês ainda estão sem entendimento?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "ainda",
+    "termo": "ἀκμήν (akmēn)",
+    "titulo": "akmēn, hápax",
+    "texto": "Única ocorrência no NT, com sentido de “até agora, ainda”, comum no grego popular do período. “Até vocês” traduz kai hymeis."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "sem entendimento",
+    "termo": "ἀσύνετοι (asynetoi)",
+    "titulo": "asynetos",
+    "texto": "O contrário de syniēmi, “entender” (13:13, 23). Os discípulos, que deveriam entender (13:51), ainda não entendem."
+   }
+  ]
+ },
+ "Mat.15.17": {
+  "t": "Não percebem que tudo o que entra pela boca vai para o estômago e é lançado na fossa?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "fossa",
+    "termo": "ἀφεδρῶνα (aphedrōna)",
+    "titulo": "aphedrōn, raro",
+    "texto": "“Latrina, privada” (só aqui e em Mc 7:19). A linguagem é direta de propósito: o alimento passa pelo corpo e sai, sem tocar o coração."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Não percebem",
+    "termo": "οὐ νοεῖτε (ou noeite)",
+    "titulo": "ou ou oupō",
+    "texto": "O Textus Receptus e o Texto Bizantino trazem oupō, “ainda não percebem?”."
+   }
+  ]
+ },
+ "Mat.15.18": {
+  "t": "Mas o que sai da boca vem do coração, e é isso que torna a pessoa impura.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "coração",
+    "termo": "καρδίας (kardias)",
+    "titulo": "kardia",
+    "texto": "Na linguagem bíblica, o coração é o centro da pessoa: pensamento, vontade e afeto, e não só a emoção. Por isso dele saem “pensamentos” (v. 19)."
+   }
+  ]
+ },
+ "Mat.15.19": {
+  "t": "Pois do coração saem maus pensamentos, homicídios, adultérios, imoralidades sexuais, roubos, falsos testemunhos, calúnias.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "homicídios, adultérios",
+    "termo": "φόνοι, μοιχεῖαι",
+    "titulo": "a ordem dos mandamentos",
+    "texto": "Depois dos “maus pensamentos”, a lista segue a ordem da segunda tábua dos Dez Mandamentos: homicídio, adultério, roubo, falso testemunho (Êx 20:13-16). Mc 7:21-22 traz uma lista mais longa."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "imoralidades sexuais",
+    "termo": "πορνεῖαι (porneiai)",
+    "titulo": "porneia",
+    "texto": "Termo amplo para relações sexuais ilícitas, distinto de moicheia, “adultério”, que é a infidelidade conjugal. “Prostituições” (ARC) é sentido estreito demais."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "calúnias",
+    "termo": "βλασφημίαι (blasphēmiai)",
+    "titulo": "blasphēmia",
+    "texto": "Palavras que ferem a reputação: contra pessoas (“calúnias”) ou contra Deus (“blasfêmias”). Junto de “falsos testemunhos”, numa lista de pecados contra o próximo, o sentido de calúnia parece predominar."
+   }
+  ]
+ },
+ "Mat.15.20": {
+  "t": "São essas coisas que tornam a pessoa impura; mas comer sem lavar as mãos não torna a pessoa impura.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "sem lavar as mãos",
+    "termo": "ἀνίπτοις χερσίν (aniptois chersin)",
+    "titulo": "aniptos, raro",
+    "texto": "Lit. “com mãos não lavadas” (só aqui e em Mc 7:2). A frase fecha o debate voltando à acusação do v. 2."
+   }
+  ]
+ },
+ "Mat.15.21": {
+  "t": "Jesus saiu dali e se retirou para a região de Tiro e Sidom.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "a região de Tiro e Sidom",
+    "termo": "τὰ μέρη Τύρου καὶ Σιδῶνος",
+    "titulo": "território gentio",
+    "texto": "Cidades fenícias da costa, ao norte da Galileia, já citadas como exemplo de cidades pagãs em 11:21-22. Não fica claro se Jesus entrou no território ou parou na fronteira; a mulher “sai” daquela região (v. 22)."
+   }
+  ]
+ },
+ "Mat.15.22": {
+  "t": "E eis que uma mulher cananeia, que vinha daquela região, começou a gritar: “Senhor, Filho de Davi, tenha compaixão de mim! A minha filha está cruelmente endemoninhada.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "cananeia",
+    "termo": "Χαναναία (Chananaia)",
+    "titulo": "Chananaios, hápax",
+    "texto": "Única ocorrência no NT. Mc 7:26 a chama de “grega, siro-fenícia de origem”. Mateus usa o nome antigo dos povos que habitavam a terra antes de Israel e que o Antigo Testamento apresenta como inimigos. Uma descendente desses povos reconhece o Messias de Israel."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Senhor, Filho de Davi",
+    "termo": "κύριε υἱὸς Δαυίδ",
+    "titulo": "o título messiânico",
+    "texto": "Uma estrangeira usa o título messiânico que os líderes de Israel recusam (ver nota em 9:27; cf. 12:23-24). O Textus Receptus e o Texto Bizantino trazem o vocativo regular huie; o texto-base, o nominativo huios com valor de vocativo."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "começou a gritar",
+    "termo": "ἔκραζεν (ekrazen)",
+    "titulo": "imperfeito",
+    "texto": "O imperfeito indica grito repetido, insistente (cf. v. 23: “vem gritando atrás de nós”). O Textus Receptus e o Texto Bizantino trazem o aoristo ekraugasen, “gritou”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "cruelmente endemoninhada",
+    "termo": "κακῶς δαιμονίζεται (kakōs daimonizetai)",
+    "titulo": "kakōs",
+    "texto": "Lit. “é mal endemoninhada”: sofre terrivelmente sob a ação de um demônio (ver nota em 4:24)."
+   }
+  ]
+ },
+ "Mat.15.23": {
+  "t": "Mas ele não lhe respondeu palavra alguma. Os seus discípulos se aproximaram e lhe pediram: “Mande-a embora, porque ela vem gritando atrás de nós.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Mande-a embora",
+    "termo": "ἀπόλυσον αὐτήν (apolyson autēn)",
+    "titulo": "apolyō",
+    "texto": "Pode ser só “despeça-a” ou “atenda-a e despeça-a”. A resposta de Jesus no v. 24 sugere que os discípulos pediam que ele a atendesse para se livrar dela."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "não lhe respondeu palavra alguma",
+    "termo": "οὐκ ἀπεκρίθη αὐτῇ λόγον",
+    "titulo": "o silêncio",
+    "texto": "O silêncio de Jesus contrasta com o grito insistente da mulher. Mateus constrói o episódio em degraus: silêncio, recusa (v. 24), palavra dura (v. 26) e, por fim, elogio (v. 28)."
+   }
+  ]
+ },
+ "Mat.15.24": {
+  "t": "Ele respondeu: “Eu fui enviado somente às ovelhas perdidas da casa de Israel.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Eu fui enviado somente às ovelhas perdidas da casa de Israel",
+    "termo": "οὐκ ἀπεστάλην εἰ μὴ εἰς τὰ πρόβατα τὰ ἀπολωλότα οἴκου Ἰσραήλ",
+    "titulo": "a missão a Israel",
+    "texto": "Repete a ordem dada aos Doze (10:6; ver nota ali). A missão terrena de Jesus é dirigida a Israel; a missão às nações virá depois da ressurreição (28:19). Mesmo assim, a fé da gentia rompe o limite antes da hora, como a do centurião (8:5-13)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "fui enviado",
+    "termo": "ἀπεστάλην (apestalēn)",
+    "titulo": "passiva divina",
+    "texto": "O agente subentendido é Deus. Jesus se apresenta como enviado do Pai (10:40)."
+   }
+  ]
+ },
+ "Mat.15.25": {
+  "t": "Mas ela veio, prostrou-se diante dele e disse: “Senhor, ajude-me!”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "prostrou-se diante dele",
+    "termo": "προσεκύνει αὐτῷ (prosekynei autō)",
+    "titulo": "imperfeito",
+    "texto": "O imperfeito do texto-base descreve a cena em andamento: ela ficou prostrada, suplicando. O Texto Bizantino traz o aoristo. Sobre proskyneō, ver nota em 8:2."
+   }
+  ]
+ },
+ "Mat.15.26": {
+  "t": "Ele respondeu: “Não é bom tirar o pão dos filhos e jogá-lo aos cachorrinhos.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "cachorrinhos",
+    "termo": "κυναρίοις (kynariois)",
+    "titulo": "kynarion",
+    "texto": "Diminutivo de kyōn, “cão”. “Cão” era insulto judaico para gentios (cf. 7:6; Fp 3:2). O diminutivo designa o cachorro da casa, que fica debaixo da mesa, e não o cão vadio da rua. Isso suaviza um pouco a imagem, mas não elimina a dureza da palavra, que a APV não quer esconder."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "o pão dos filhos",
+    "termo": "τὸν ἄρτον τῶν τέκνων",
+    "titulo": "a prioridade de Israel",
+    "texto": "Os filhos são Israel; o pão é a bênção do Reino, as curas e a libertação. A imagem é a da refeição da família: primeiro comem os filhos (cf. Mc 7:27, “deixe que primeiro os filhos se fartem”; Rm 1:16)."
+   }
+  ]
+ },
+ "Mat.15.27": {
+  "t": "Ela respondeu: “Sim, Senhor; pois até os cachorrinhos comem das migalhas que caem da mesa dos seus donos.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "pois até",
+    "termo": "καὶ γάρ (kai gar)",
+    "titulo": "a lógica da resposta",
+    "texto": "Lit. “pois também”. A mulher não contesta a imagem; aceita-a e tira dela uma conclusão a seu favor: se ela é como os cachorrinhos da casa, também lhe cabe alguma coisa da mesa. “Mas” (ARC) muda a lógica; o grego concorda e argumenta."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "migalhas",
+    "termo": "ψιχίων (psichiōn)",
+    "titulo": "psichion, raro",
+    "texto": "“Migalha, pedacinho” (só aqui e em Mc 7:28)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "donos",
+    "termo": "κυρίων (kyriōn)",
+    "titulo": "kyrios",
+    "texto": "Os donos dos cachorrinhos. A mulher, que chamou Jesus de kyrie, reconhece também os “donos” da mesa, Israel. A mesma palavra, com sentidos diferentes, liga as duas partes da frase."
+   }
+  ]
+ },
+ "Mat.15.28": {
+  "t": "Então Jesus lhe respondeu: “Mulher, grande é a sua fé! Seja feito como você quer.” E, desde aquela hora, a filha dela ficou curada.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Mulher",
+    "termo": "ὦ γύναι (ō gynai)",
+    "titulo": "vocativo",
+    "texto": "Lit. “Ó mulher”. O vocativo com ō dá tom solene e afetivo. “Mulher” como tratamento não era rude no grego (cf. Jo 2:4; 19:26)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "grande é a sua fé",
+    "termo": "μεγάλη σου ἡ πίστις",
+    "titulo": "a grande fé de uma gentia",
+    "texto": "Os únicos em Mateus elogiados por uma fé grande são dois gentios: o centurião (8:10) e esta mulher. Em contraste, os discípulos são “de pouca fé” (14:31; 16:8). Como em 8:13, a cura acontece à distância, pela palavra."
+   }
+  ]
+ },
+ "Mat.15.29": {
+  "t": "Jesus partiu dali e foi para junto do mar da Galileia. Subiu ao monte e sentou-se ali.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Subiu ao monte e sentou-se ali",
+    "termo": "ἀναβὰς εἰς τὸ ὄρος ἐκάθητο ἐκεῖ",
+    "titulo": "o monte",
+    "texto": "A cena lembra 5:1: Jesus no monte, sentado, como mestre e, aqui, como quem cura e alimenta. Mateus não identifica o lugar; Mc 7:31 situa o episódio na região das Dez Cidades, área de maioria gentia."
+   }
+  ]
+ },
+ "Mat.15.30": {
+  "t": "Vieram até ele grandes multidões, trazendo consigo coxos, cegos, aleijados, mudos e muitos outros, e os puseram aos pés dele; e ele os curou,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "aleijados",
+    "termo": "κυλλούς (kyllous)",
+    "titulo": "kyllos",
+    "texto": "“Torto, deformado, mutilado”: alguém com membro defeituoso ou perdido (18:8). Kōphos pode ser “mudo” ou “surdo” (ver nota em 9:32); o v. 31 (“mudos falando”) favorece “mudos”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "os puseram",
+    "termo": "ἔρριψαν (erripsan)",
+    "titulo": "rhiptō",
+    "texto": "Lit. “lançaram”: deitaram os doentes depressa aos pés de Jesus, sinal da pressa e do número de pessoas."
+   }
+  ]
+ },
+ "Mat.15.31": {
+  "t": "de modo que a multidão se maravilhava ao ver mudos falando, aleijados curados, coxos andando e cegos vendo. E glorificaram o Deus de Israel.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "mudos falando",
+    "termo": "κωφοὺς λαλοῦντας",
+    "titulo": "Isaías 35:5-6",
+    "texto": "Eco de Is 35:5-6, que anuncia a volta de Deus para salvar o seu povo: os cegos verão, os surdos ouvirão, o coxo saltará, a língua do mudo cantará (cf. 11:5)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "o Deus de Israel",
+    "termo": "τὸν θεὸν Ἰσραήλ",
+    "titulo": "uma multidão gentia?",
+    "texto": "A expressão pode sugerir que a multidão era gentia, como em Mc 7:31, e por isso louva o Deus “de Israel”. Mas também é fórmula comum de louvor judaico (Sl 41:13; Lc 1:68). A questão é discutida."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "a multidão",
+    "termo": "τὸν ὄχλον (ton ochlon)",
+    "titulo": "singular ou plural",
+    "texto": "O texto-base traz o singular; Tregelles, o Textus Receptus e o Texto Bizantino, o plural “as multidões”. Sem efeito no sentido."
+   }
+  ]
+ },
+ "Mat.15.32": {
+  "t": "Jesus chamou os seus discípulos e disse: “Tenho compaixão desta multidão, porque já faz três dias que estão comigo e não têm o que comer. Não quero mandá-los embora em jejum, para que não desfaleçam pelo caminho.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Tenho compaixão",
+    "termo": "σπλαγχνίζομαι (splanchnizomai)",
+    "titulo": "splanchnizomai",
+    "texto": "O mesmo verbo de 9:36 e 14:14. Aqui é o próprio Jesus quem toma a iniciativa, ao contrário de 14:15, em que os discípulos levantam o problema."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "em jejum",
+    "termo": "νήστεις (nēsteis)",
+    "titulo": "nēstis, raro",
+    "texto": "“Sem comer, em jejum” (só aqui e em Mc 8:3). Não é jejum religioso, mas fome."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "desfaleçam",
+    "termo": "ἐκλυθῶσιν (eklythōsin)",
+    "titulo": "eklyomai",
+    "texto": "“Afrouxar-se, perder as forças, desmaiar”. Mc 8:3 acrescenta que alguns tinham vindo de longe."
+   }
+  ]
+ },
+ "Mat.15.33": {
+  "t": "Os discípulos lhe disseram: “Onde conseguiríamos, num lugar deserto, pães suficientes para saciar uma multidão tão grande?”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Onde conseguiríamos",
+    "termo": "πόθεν ἡμῖν",
+    "titulo": "a memória curta",
+    "texto": "A pergunta surpreende depois de 14:15-21; Jesus a repreenderá em 16:9-10. Lembra a queixa de Moisés no deserto: “De onde eu tiraria carne para dar a todo este povo?” (Nm 11:13, 21-22)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "num lugar deserto",
+    "termo": "ἐν ἐρημίᾳ (en erēmia)",
+    "titulo": "erēmia",
+    "texto": "“Lugar despovoado, ermo”. A palavra lembra o deserto do Êxodo, onde Deus alimentou o povo com o maná."
+   }
+  ]
+ },
+ "Mat.15.34": {
+  "t": "Jesus lhes perguntou: “Quantos pães vocês têm?” Eles responderam: “Sete, e alguns peixinhos.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "peixinhos",
+    "termo": "ἰχθύδια (ichthydia)",
+    "titulo": "ichthydion, raro",
+    "texto": "Diminutivo de ichthys (só aqui e em Mc 8:7): “peixes pequenos”, talvez sardinhas do lago, salgadas."
+   }
+  ]
+ },
+ "Mat.15.35": {
+  "t": "Então mandou que a multidão se sentasse no chão.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "se sentasse",
+    "termo": "ἀναπεσεῖν (anapesein)",
+    "titulo": "anapiptō",
+    "texto": "Lit. “reclinar-se”: tomar a posição de quem se põe à mesa (cf. 14:19). O Textus Receptus e o Texto Bizantino trazem ekeleuse tois ochlois, “mandou às multidões”, de mesmo sentido."
+   }
+  ]
+ },
+ "Mat.15.36": {
+  "t": "Tomou os sete pães e os peixes e, depois de dar graças, partiu-os e os dava aos discípulos, e os discípulos, às multidões.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "dar graças",
+    "termo": "εὐχαριστήσας (eucharistēsas)",
+    "titulo": "eucharisteō",
+    "texto": "Em 14:19 o verbo é eulogeō, “bendizer”. Os dois designam a mesma oração de ação de graças à mesa e aparecem juntos na Ceia (26:26-27)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "os dava",
+    "termo": "ἐδίδου (edidou)",
+    "titulo": "imperfeito",
+    "texto": "O imperfeito descreve a distribuição contínua: Jesus ia dando, e os discípulos iam repartindo. O Textus Receptus e o Texto Bizantino trazem o aoristo edōken e outras pequenas diferenças, sem efeito no sentido."
+   }
+  ]
+ },
+ "Mat.15.37": {
+  "t": "Todos comeram e ficaram satisfeitos; e, dos pedaços que sobraram, recolheram sete cestos cheios.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "cestos",
+    "termo": "σπυρίδας (spyridas)",
+    "titulo": "spyris",
+    "texto": "Cesto de junco ou de corda, em geral maior que o kophinos de 14:20: foi num spyris que Paulo foi descido pela muralha de Damasco (At 9:25). Jesus lembra a diferença entre os dois cestos em 16:9-10."
+   }
+  ]
+ },
+ "Mat.15.38": {
+  "t": "Os que comeram eram quatro mil homens, sem contar mulheres e crianças.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "quatro mil homens",
+    "termo": "τετρακισχίλιοι ἄνδρες",
+    "titulo": "dois milagres",
+    "texto": "Mateus, como Marcos, conta duas multiplicações distintas, e Jesus se refere às duas em 16:9-10. Alguns intérpretes veem na primeira um sinal para Israel e na segunda, em região de influência gentia (cf. v. 31), um sinal para as nações; o texto de Mateus não o diz expressamente."
+   }
+  ]
+ },
+ "Mat.15.39": {
+  "t": "Depois de despedir as multidões, entrou no barco e foi para a região de Magadã.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "Magadã",
+    "termo": "Μαγαδάν (Magadan)",
+    "titulo": "Magadã ou Magdala",
+    "texto": "O texto-base traz Magadan, lugar desconhecido; o Textus Receptus e o Texto Bizantino, Magdala, a cidade de Maria Madalena, na margem oeste do lago. O nome conhecido provavelmente substituiu o desconhecido. Mc 8:10 fala de “Dalmanuta”, também de localização incerta."
    }
   ]
  }

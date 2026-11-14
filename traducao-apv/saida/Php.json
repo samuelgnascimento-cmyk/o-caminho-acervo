@@ -1858,7 +1858,11 @@
    "aparato": [
     {
      "tipo": "variante",
-     "texto": "καρπὸν τὸν: ausente em Textus Receptus e Bizantino/Majoritário."
+     "texto": "καρπὸν: no lugar desta palavra, καρπῶν (T=karpōn) em Textus Receptus, Bizantino/Majoritário."
+    },
+    {
+     "tipo": "variante",
+     "texto": "τὸν: no lugar desta palavra, τῶν (tōn) em Textus Receptus, Bizantino/Majoritário."
     }
    ]
   },
@@ -2812,7 +2816,7 @@
    "aparato": [
     {
      "tipo": "variante",
-     "texto": "ἐγείρειν: ausente em Textus Receptus."
+     "texto": "ἐγείρειν: no lugar desta palavra, ἐπιφέρειν (epipherein) em Textus Receptus."
     }
    ]
   },
@@ -3966,7 +3970,7 @@
    "aparato": [
     {
      "tipo": "variante",
-     "texto": "δὲ: ausente em Textus Receptus."
+     "texto": "δὲ: no lugar desta palavra, γὰρ (gar) em Textus Receptus."
     },
     {
      "tipo": "variante",
@@ -4244,7 +4248,7 @@
    "aparato": [
     {
      "tipo": "variante",
-     "texto": "παραμενῶ: ausente em Textus Receptus e Bizantino/Majoritário."
+     "texto": "παραμενῶ: no lugar desta palavra, συμπαραμενῶ (sumparamenō) em Textus Receptus, Bizantino/Majoritário."
     }
    ]
   },
@@ -4716,7 +4720,7 @@
    "aparato": [
     {
      "tipo": "variante",
-     "texto": "ἀκούω: ausente em Textus Receptus e Bizantino/Majoritário."
+     "texto": "ἀκούω: no lugar desta palavra, ἀκούσω (akousō) em THGNT, Textus Receptus, Bizantino/Majoritário."
     }
    ]
   },
@@ -4932,7 +4936,7 @@
     },
     {
      "tipo": "variante",
-     "texto": "ὑμῶν: ausente em Textus Receptus e Bizantino/Majoritário."
+     "texto": "ὑμῶν: no lugar desta palavra, ὑμῖν (humin) em Textus Receptus, Bizantino/Majoritário."
     }
    ]
   },
@@ -5252,7 +5256,7 @@
    "aparato": [
     {
      "tipo": "variante",
-     "texto": "εἴδετε: ausente em Textus Receptus."
+     "texto": "εἴδετε: no lugar desta palavra, ἴδετε (idete) em Textus Receptus."
     }
    ]
   },
@@ -5455,7 +5459,7 @@
    "aparato": [
     {
      "tipo": "variante",
-     "texto": "τις: ausente em Textus Receptus."
+     "texto": "τις: no lugar desta palavra, τινα (tina) em Textus Receptus."
     }
    ]
   },
@@ -5775,7 +5779,11 @@
    "aparato": [
     {
      "tipo": "variante",
-     "texto": "μηδὲ κατὰ: ausente em Textus Receptus e Bizantino/Majoritário."
+     "texto": "μηδὲ: no lugar desta palavra, ἢ (ē) em Textus Receptus, Bizantino/Majoritário."
+    },
+    {
+     "tipo": "variante",
+     "texto": "κατὰ: ausente em Textus Receptus e Bizantino/Majoritário."
     }
    ]
   },
@@ -5901,7 +5909,15 @@
     },
     {
      "tipo": "variante",
-     "texto": "ἕκαστοι σκοποῦντες ἕκαστοι.: ausente em Textus Receptus e Bizantino/Majoritário."
+     "texto": "σκοποῦντες: no lugar desta palavra, σκοπεῖτε (skopeite) em Textus Receptus, Bizantino/Majoritário."
+    },
+    {
+     "tipo": "variante",
+     "texto": "ἕκαστοι.: no lugar desta palavra, ἕκαστος (hekastos) em Textus Receptus, Bizantino/Majoritário."
+    },
+    {
+     "tipo": "variante",
+     "texto": "ἕκαστοι: ausente em Textus Receptus e Bizantino/Majoritário."
     }
    ]
   },
@@ -6018,7 +6034,7 @@
     },
     {
      "tipo": "variante",
-     "texto": "φρονεῖτε: ausente em Textus Receptus e Bizantino/Majoritário."
+     "texto": "φρονεῖτε: no lugar desta palavra, φρονείσθω (phroneisthō) em Textus Receptus, Bizantino/Majoritário."
     }
    ]
   },
@@ -7622,7 +7638,11 @@
     },
     {
      "tipo": "variante",
-     "texto": "ἄμωμα μέσον: ausente em Textus Receptus e Bizantino/Majoritário."
+     "texto": "ἄμωμα: no lugar desta palavra, ἀμώμητα (amōmēta) em Textus Receptus, Bizantino/Majoritário."
+    },
+    {
+     "tipo": "variante",
+     "texto": "μέσον: no lugar desta palavra, μέσῳ (mesō) em Textus Receptus, Bizantino/Majoritário."
     }
    ]
   },
@@ -8729,7 +8749,7 @@
    "aparato": [
     {
      "tipo": "variante",
-     "texto": "ἀφίδω: ausente em Textus Receptus."
+     "texto": "ἀφίδω: no lugar desta palavra, ἀπίδω (apidō) em Textus Receptus."
     }
    ]
   },
@@ -10389,7 +10409,7 @@
    "aparato": [
     {
      "tipo": "variante",
-     "texto": "θεοῦ: ausente em Textus Receptus."
+     "texto": "θεοῦ: no lugar desta palavra, Θεῷ (Theō) em Textus Receptus."
     }
    ]
   },
@@ -10816,7 +10836,7 @@
    "aparato": [
     {
      "tipo": "variante",
-     "texto": "ζῆλος: ausente em Textus Receptus e Bizantino/Majoritário."
+     "texto": "ζῆλος: no lugar desta palavra, ζῆλον (zēlon) em Textus Receptus, Bizantino/Majoritário."
     }
    ]
   },
@@ -11754,7 +11774,11 @@
    "aparato": [
     {
      "tipo": "variante",
-     "texto": "τὴν ἐκ: ausente em Textus Receptus e Bizantino/Majoritário."
+     "texto": "τὴν: no lugar desta palavra, τῶν (tōn) em Textus Receptus, Bizantino/Majoritário."
+    },
+    {
+     "tipo": "variante",
+     "texto": "ἐκ: ausente em Textus Receptus e Bizantino/Majoritário."
     }
    ]
   },
@@ -12128,7 +12152,7 @@
    "aparato": [
     {
      "tipo": "variante",
-     "texto": "οὐ: ausente em Textus Receptus."
+     "texto": "οὐ: no lugar desta palavra, οὔπω (oupō) em Westcott-Hort, Textus Receptus."
     }
    ]
   },
@@ -12277,7 +12301,7 @@
    "aparato": [
     {
      "tipo": "variante",
-     "texto": "εἰς: ausente em Textus Receptus e Bizantino/Majoritário."
+     "texto": "εἰς: no lugar desta palavra, ἐπὶ (epi) em Textus Receptus, Bizantino/Majoritário."
     }
    ]
   },
@@ -14005,7 +14029,7 @@
    "aparato": [
     {
      "tipo": "variante",
-     "texto": "ναὶ: ausente em Textus Receptus."
+     "texto": "ναὶ: no lugar desta palavra, καὶ (T=kai) em Textus Receptus."
     }
    ]
   },
@@ -15576,7 +15600,7 @@
    "aparato": [
     {
      "tipo": "variante",
-     "texto": "καὶ: ausente em Textus Receptus."
+     "texto": "καὶ: no lugar desta palavra, δὲ (de) em Textus Receptus."
     }
    ]
   },
@@ -16656,7 +16680,11 @@
    "aparato": [
     {
      "tipo": "variante",
-     "texto": "τὸ πλοῦτος: ausente em Textus Receptus e Bizantino/Majoritário."
+     "texto": "τὸ: no lugar desta palavra, τὸν (ton) em Textus Receptus, Bizantino/Majoritário."
+    },
+    {
+     "tipo": "variante",
+     "texto": "πλοῦτος: no lugar desta palavra, πλοῦτον (plouton) em Textus Receptus, Bizantino/Majoritário."
     }
    ]
   },
@@ -17163,7 +17191,11 @@
     },
     {
      "tipo": "variante",
-     "texto": "τοῦ πνεύματος: ausente em Textus Receptus e Bizantino/Majoritário."
+     "texto": "πνεύματος: no lugar desta palavra, πάντων (T=pantōn) em Textus Receptus, Bizantino/Majoritário."
+    },
+    {
+     "tipo": "variante",
+     "texto": "τοῦ: ausente em Textus Receptus e Bizantino/Majoritário."
     }
    ]
   }
