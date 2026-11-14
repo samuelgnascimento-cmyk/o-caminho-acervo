@@ -7,7 +7,7 @@
     "ancora": "servo",
     "termo": "δοῦλος (doulos)",
     "titulo": "doulos: “servo” ou “escravo”",
-    "texto": "Doulos é literalmente o escravo, alguém que pertence a outro. “Escravo” é o sentido de base, mas em português evoca de imediato a escravidão moderna e esconde o eco bíblico: na Septuaginta, Moisés, Josué, Davi e os profetas são douloi do SENHOR. “Servo” guarda o eco; esta nota guarda a força: Paulo se apresenta como propriedade de Cristo. A mesma palavra volta com peso em 6:16-22."
+    "texto": "Doulos é literalmente o escravo, alguém que pertence a outro. “Escravo” é o sentido de base, mas em português evoca de imediato a escravidão moderna e esconde o eco bíblico: na Septuaginta, Moisés, Josué, Davi e os profetas são douloi do SENHOR. “Servo” guarda o eco; esta nota guarda a força: Paulo se apresenta como propriedade de Cristo. Onde Paulo contrasta escravidão e liberdade (6:6, 16-22; 7:6, 14, 25), a APV traduz “escravo”."
    },
    {
     "tipo": "tn",
@@ -156,7 +156,7 @@
     "ancora": "em Roma",
     "termo": "ἐν Ῥώμῃ (en Rhōmē)",
     "titulo": "omissão em poucos testemunhos",
-    "texto": "Um pequeno número de testemunhos antigos omite “em Roma” aqui e no v. 15. Metzger considera a omissão uma adaptação para uso da carta em outras igrejas, como carta geral. O nome da cidade está em quase todos os manuscritos e em todas as edições comparadas."
+    "texto": "Alguns manuscritos omitem “em Roma” aqui e no v. 15. Metzger considera a omissão uma adaptação da carta para leitura em outras igrejas. O nome da cidade está em quase todos os manuscritos, e nenhuma das edições comparadas o omite."
    },
    {
     "tipo": "sn",
@@ -367,7 +367,7 @@
     "ancora": "de fé em fé",
     "termo": "ἐκ πίστεως εἰς πίστιν (ek pisteōs eis pistin)",
     "titulo": "ek pisteōs eis pistin",
-    "texto": "Lit. “a partir de fé para fé”. Leituras principais: (1) expressão retórica de totalidade, “do começo ao fim pela fé” (cf. 2Co 2:16, “de morte para morte”); (2) da fidelidade de Deus para a fé humana (K. Barth; J. D. G. Dunn, entre outros); (3) da fé do pregador para a fé de quem ouve; (4) crescimento progressivo da fé. A primeira é a mais aceita e combina com a ênfase de “todo aquele que crê” (v. 16). A tradução literal deixa a questão aberta."
+    "texto": "Lit. “a partir de fé para fé”. Leituras principais: (1) expressão retórica de totalidade, “do começo ao fim pela fé” (cf. 2Co 2:16, “de morte para morte”); (2) da fidelidade de Deus para a fé humana (K. Barth, entre outros); (3) da fé do pregador para a fé de quem ouve; (4) crescimento progressivo da fé. A primeira é a mais aceita e combina com a ênfase de “todo aquele que crê” (v. 16). A tradução literal deixa a questão aberta."
    },
    {
     "tipo": "sn",
@@ -528,8 +528,15 @@
   ]
  },
  "Rom.1.24": {
-  "t": "Por isso Deus os entregou, nos desejos do seu coração, à impureza, para que desonrassem o próprio corpo entre si.",
+  "t": "Por isso Deus os entregou, nos desejos do seu coração, à impureza, para que os seus corpos fossem desonrados entre eles.",
   "n": [
+   {
+    "tipo": "tn",
+    "ancora": "para que os seus corpos fossem desonrados entre eles",
+    "termo": "τοῦ ἀτιμάζεσθαι τὰ σώματα αὐτῶν ἐν αὐτοῖς",
+    "titulo": "infinitivo passivo ou médio",
+    "texto": "Atimazesthai pode ser passivo (“serem desonrados os seus corpos”) ou médio (“desonrarem eles os próprios corpos”). O passivo, com “os seus corpos” como sujeito, é a leitura mais comum e foi seguida; nas duas, a desonra é consequência de terem sido entregues à impureza."
+   },
    {
     "tipo": "sn",
     "ancora": "Deus os entregou",
@@ -594,7 +601,7 @@
   ]
  },
  "Rom.1.26": {
-  "t": "Por isso Deus os entregou a paixões vergonhosas. Pois até as mulheres deles trocaram as relações naturais pelas que são contrárias à natureza;",
+  "t": "Por isso Deus os entregou a paixões vergonhosas. Pois as mulheres deles trocaram as relações naturais pelas que são contrárias à natureza;",
   "n": [
    {
     "tipo": "tn",
@@ -693,14 +700,14 @@
     "ancora": "mexeriqueiros",
     "termo": "ψιθυριστάς (psithyristas)",
     "titulo": "psithyristēs, hápax",
-    "texto": "Hápax. Da raiz de “sussurrar”: quem espalha intrigas em segredo, em contraste com katalalos (v. 30), que difama abertamente."
+    "texto": "Hápax. Da raiz de “sussurrar”: quem espalha intrigas em segredo. Katalalos (v. 30) é termo mais geral, quem fala contra os outros."
    },
    {
     "tipo": "tc",
     "ancora": "toda injustiça, maldade",
     "termo": "πάσῃ ἀδικίᾳ πονηρίᾳ (+ πορνείᾳ)",
     "titulo": "“imoralidade sexual”",
-    "texto": "O Textus Receptus e o Texto Bizantino acrescentam porneia (“imoralidade sexual”) e mudam a ordem da lista, como na ARC (“prostituição”). O texto crítico não o traz; a semelhança com ponēria (“maldade”) explica bem o acréscimo por erro de cópia."
+    "texto": "O Textus Receptus e o Texto Bizantino acrescentam porneia (“imoralidade sexual”) à lista. O texto crítico não o traz; a semelhança com ponēria (“maldade”) explica bem o acréscimo por erro de cópia."
    }
   ]
  },
@@ -719,7 +726,7 @@
     "ancora": "inimigos de Deus",
     "termo": "θεοστυγεῖς (theostygeis)",
     "titulo": "theostygēs, hápax",
-    "texto": "Hápax. No grego clássico, a palavra é quase sempre passiva: “odiados por Deus”. Numa lista de atitudes humanas, porém, o sentido ativo, “que odeiam a Deus”, é o mais natural, e é como a maioria das versões e dos comentaristas antigos entendem. “Inimigos de Deus” mantém o sentido ativo sem forçar a forma.",
+    "texto": "Hápax. A forma admite o sentido passivo (“odiados por Deus”), que é o mais comum no grego clássico, e o ativo (“que odeiam a Deus”). Numa lista de vícios humanos, o contexto favorece o ativo. “Inimigos de Deus” mantém o sentido ativo sem forçar a forma.",
     "revisar": true
    },
    {
@@ -958,7 +965,7 @@
     "ancora": "haverá",
     "termo": "ὀργὴ καὶ θυμός",
     "titulo": "verbo implícito",
-    "texto": "No grego a frase muda de construção: “aos que..., ira e indignação”, sem verbo. “Haverá” completa o sentido. Orgē é a ira como atitude; thymos, a explosão de indignação. A ordem “indignação e ira” no Textus Receptus não muda o sentido."
+    "texto": "No grego a frase muda de construção: “aos que..., ira e indignação”, sem verbo. “Haverá” completa o sentido. Orgē é a ira como atitude; thymos, a explosão de indignação."
    }
   ]
  },
@@ -1360,7 +1367,7 @@
     "ancora": "as palavras de Deus",
     "termo": "τὰ λόγια τοῦ θεοῦ (ta logia tou theou)",
     "titulo": "logia: “oráculos”",
-    "texto": "Logia são “oráculos, declarações divinas” (At 7:38; Hb 5:12). Aqui são as Escrituras de Israel, com suas promessas. A ARC traz “as palavras de Deus”, forma clara que se mantém; o sentido é de revelação confiada como depósito."
+    "texto": "Logia são “oráculos, declarações divinas” (At 7:38; Hb 5:12). Aqui são as Escrituras de Israel, com suas promessas. “Palavras de Deus” é forma clara para o leitor de hoje; o sentido é de revelação confiada como depósito."
    },
    {
     "tipo": "tn",
@@ -1419,7 +1426,7 @@
     "ancora": "Para que sejas justificado nas tuas palavras e venças quando fores julgado",
     "termo": "ὅπως ἂν δικαιωθῇς ἐν τοῖς λόγοις σου καὶ νικήσεις ἐν τῷ κρίνεσθαί σε",
     "titulo": "Salmo 51:4",
-    "texto": "Citação exata do Sl 51:4 (LXX 50:6), confissão de Davi. O hebraico diz “para que sejas justo quando falares e puro quando julgares”; a Septuaginta, seguida por Paulo, lê “vences” e usa um infinitivo que pode ser médio (“quando julgas”) ou passivo (“quando és julgado”). O contexto de Paulo, em que Deus é como que posto em julgamento pelas objeções humanas (vv. 5-7), favorece o passivo. “Justificado” aqui é “reconhecido como justo, vindicado”: Davi confessa o pecado e assim declara que Deus está certo ao condená-lo."
+    "texto": "Citação do Sl 51:4 (LXX 50:6), confissão de Davi, segundo a Septuaginta. O hebraico diz “para que sejas justo quando falares e puro quando julgares”; a Septuaginta, seguida por Paulo, traz o verbo “vencer” (Tregelles, o Textus Receptus e o Texto Bizantino trazem o subjuntivo nikēsēs, forma da Septuaginta; o texto-base, o futuro nikēseis, sem efeito na tradução) e usa um infinitivo que pode ser médio (“quando julgas”) ou passivo (“quando és julgado”). O contexto de Paulo, em que Deus é como que posto em julgamento pelas objeções humanas (vv. 5-7), favorece o passivo. “Justificado” aqui é “reconhecido como justo, vindicado”: Davi confessa o pecado e assim declara que Deus está certo ao condená-lo."
    }
   ]
  },
@@ -1469,7 +1476,7 @@
   ]
  },
  "Rom.3.7": {
-  "t": "Mas, se pela minha mentira a verdade de Deus se manifestou ainda mais para a sua glória, por que ainda sou julgado como pecador?",
+  "t": "Mas, se pela minha mentira a verdade de Deus transbordou para a sua glória, por que ainda sou julgado como pecador?",
   "n": [
    {
     "tipo": "tn",
@@ -1801,7 +1808,7 @@
     "ancora": "estão privados",
     "termo": "ὑστεροῦνται (hysterountai)",
     "titulo": "hystereō",
-    "texto": "“Ficar atrás, faltar, estar em falta”. O presente indica estado contínuo. “Carecem” (ARC) é correto; “estão privados” deixa mais claro que algo que deveriam ter lhes falta."
+    "texto": "“Ficar atrás, faltar, estar em falta”. O presente indica estado contínuo. “Estão privados” deixa claro que lhes falta algo que deveriam ter."
    },
    {
     "tipo": "sn",
@@ -2024,7 +2031,7 @@
     "ancora": "nosso antepassado segundo a carne",
     "termo": "προπάτορα / πατέρα",
     "titulo": "propatōr ou patēr",
-    "texto": "O texto crítico traz propatora (“antepassado”); o Textus Receptus e o Texto Bizantino, patera (“pai”), com outra ordem de palavras, que liga “segundo a carne” a “achou” (ARC: “Que acharemos que Abraão, nosso pai, alcançou segundo a carne?”). A palavra rara propatōr tem melhor apoio antigo; a troca por patēr, mais comum, é fácil de explicar."
+    "texto": "O texto crítico traz propatora (“antepassado”); o Textus Receptus e o Texto Bizantino, patera (“pai”). A palavra rara propatōr tem melhor apoio antigo; a troca por patēr, mais comum, é fácil de explicar."
    }
   ]
  },
@@ -2205,7 +2212,7 @@
     "ancora": "daqueles que não somente são da circuncisão, mas também seguem",
     "termo": "τοῖς οὐκ ἐκ περιτομῆς μόνον ἀλλὰ καὶ τοῖς στοιχοῦσιν",
     "titulo": "um ou dois grupos?",
-    "texto": "O artigo repetido (tois ... tois) parece indicar dois grupos, mas o sentido exige um só: os judeus que, além de circuncidados, têm a fé de Abraão. A repetição do artigo é provavelmente um descuido de estilo ou um erro muito antigo de cópia. A tradução segue o sentido."
+    "texto": "O artigo repetido (tois ... tois) parece indicar dois grupos, mas o sentido exige um só: os judeus que, além de circuncidados, têm a fé de Abraão. A repetição do artigo é, segundo alguns, descuido de estilo ou erro de cópia. A tradução segue o sentido."
    },
    {
     "tipo": "tn",
@@ -2335,7 +2342,7 @@
     "ancora": "chama à existência as coisas que não existem",
     "termo": "καλοῦντος τὰ μὴ ὄντα ὡς ὄντα",
     "titulo": "“chama as coisas que não são como sendo”",
-    "texto": "Lit. “chama as coisas que não são como sendo”. Pode significar que Deus cria do nada, chamando à existência o que não existia (Is 48:13; ideia presente no judaísmo da época), ou que fala do que ainda não existe como se já existisse, como fez com a descendência de Abraão. A tradução segue a primeira leitura, ligada a “dá vida aos mortos”; a segunda também combina com o v. 17a. “Como se existissem” (ARC) pode soar como mera ficção, o que não é o sentido.",
+    "texto": "Lit. “chama as coisas que não são como sendo”. Pode significar que Deus cria do nada, chamando à existência o que não existia (Is 48:13; ideia presente no judaísmo da época), ou que fala do que ainda não existe como se já existisse, como fez com a descendência de Abraão. A tradução segue a primeira leitura, ligada a “dá vida aos mortos”; a segunda também combina com o v. 17a. A forma literal em português (“como se existissem”) pode soar como mera ficção, o que não é o sentido; por isso a tradução usa “chama à existência” e dá o literal nesta nota.",
     "revisar": true
    },
    {
@@ -2374,7 +2381,7 @@
     "ancora": "ele considerou o próprio corpo",
     "termo": "κατενόησεν (+ οὐ)",
     "titulo": "“considerou” ou “não considerou”",
-    "texto": "O Textus Receptus e o Texto Bizantino trazem “não considerou” (ARC: “não atentou para o seu próprio corpo já amortecido”). O texto crítico, com os manuscritos mais antigos, traz “considerou”. As duas formas dão sentidos opostos e piedosos: na forma crítica, Abraão encarou de frente os fatos e mesmo assim creu; na bizantina, nem os levou em conta. A forma crítica combina com Gn 17:17, onde Abraão pondera a própria idade."
+    "texto": "O Textus Receptus e o Texto Bizantino trazem “não considerou”. O texto crítico, com os manuscritos mais antigos, traz “considerou”. As duas formas dão sentidos opostos e piedosos: na forma crítica, Abraão encarou de frente os fatos e mesmo assim creu; na bizantina, nem os levou em conta. A forma crítica combina com Gn 17:17, onde Abraão pondera a própria idade."
    },
    {
     "tipo": "tc",
@@ -2589,7 +2596,7 @@
     "ancora": "foi derramado",
     "termo": "ἐκκέχυται (ekkechytai)",
     "titulo": "o Espírito derramado",
-    "texto": "O verbo lembra a promessa do derramamento do Espírito (Jl 2:28-29, citado em At 2:17-18). Primeira menção do Espírito Santo na argumentação da carta, tema que dominará o cap. 8."
+    "texto": "O verbo lembra a promessa do derramamento do Espírito (Jl 2:28-29, citado em At 2:17-18). Primeira menção do Espírito como dom dado aos crentes, tema que dominará o cap. 8."
    }
   ]
  },
@@ -2691,7 +2698,7 @@
     "ancora": "pela sua vida",
     "termo": "ἐν τῇ ζωῇ αὐτοῦ (en tē zōē autou)",
     "titulo": "a vida do Ressuscitado",
-    "texto": "A vida de Cristo ressuscitado, que vive e intercede (8:34). Ἐn pode ser instrumental (“por meio da”) ou local (“em união com a sua vida”)."
+    "texto": "A vida de Cristo ressuscitado, que vive e intercede (8:34). En pode ser instrumental (“por meio da”) ou local (“em união com a sua vida”)."
    }
   ]
  },
@@ -3043,7 +3050,7 @@
   ]
  },
  "Rom.6.6": {
-  "t": "sabendo isto: que o nosso velho homem foi crucificado com ele, para que o corpo do pecado fosse reduzido à impotência, a fim de que não sirvamos mais ao pecado.",
+  "t": "sabendo isto: que o nosso velho homem foi crucificado com ele, para que o corpo do pecado fosse reduzido à impotência, a fim de que não sejamos mais escravos do pecado.",
   "n": [
    {
     "tipo": "tn",
@@ -3068,10 +3075,10 @@
    },
    {
     "tipo": "tn",
-    "ancora": "não sirvamos mais ao pecado",
+    "ancora": "não sejamos mais escravos do pecado",
     "termo": "τοῦ μηκέτι δουλεύειν ἡμᾶς τῇ ἁμαρτίᾳ",
     "titulo": "douleuō",
-    "texto": "Douleuō é “servir como escravo”. Ver a nota sobre “servos” no v. 16."
+    "texto": "Douleuō é “ser escravo”. Ver a nota em 6:16."
    }
   ]
  },
@@ -3138,7 +3145,7 @@
     "ancora": "considerem-se",
     "termo": "λογίζεσθε ἑαυτούς (logizesthe heautous)",
     "titulo": "logizomai",
-    "texto": "O mesmo verbo de 4:3 (“creditar”). Não é um exercício de imaginação, mas avaliar-se segundo a realidade que Deus criou: contar com o fato de estarem unidos a Cristo. Primeiro imperativo da carta."
+    "texto": "O mesmo verbo de 4:3 (“creditar”). Não é um exercício de imaginação, mas avaliar-se segundo a realidade que Deus criou: contar com o fato de estarem unidos a Cristo. Primeiro imperativo dirigido aos leitores."
    },
    {
     "tipo": "tc",
@@ -3164,7 +3171,7 @@
     "ancora": "aos desejos dele",
     "termo": "ταῖς ἐπιθυμίαις αὐτοῦ (+ αὐτῇ ἐν)",
     "titulo": "obedecer a quem?",
-    "texto": "No texto crítico, obedecer “aos desejos dele” (do corpo). O Textus Receptus e o Texto Bizantino trazem “obedecer a ele (ao pecado) nos seus desejos” (ARC: “para lhe obedecerdes em suas concupiscências”), combinando duas leituras antigas."
+    "texto": "No texto crítico, obedecer “aos desejos dele” (do corpo). O Textus Receptus e o Texto Bizantino trazem “obedecer a ele (ao pecado) nos seus desejos”, forma que, segundo Metzger, junta duas leituras antigas."
    }
   ]
  },
@@ -3233,15 +3240,14 @@
   ]
  },
  "Rom.6.16": {
-  "t": "Vocês não sabem que, quando se oferecem a alguém como servos para obedecer, são servos daquele a quem obedecem, seja do pecado, que leva à morte, seja da obediência, que leva à justiça?",
+  "t": "Vocês não sabem que, quando se oferecem a alguém como escravos para obedecer, são escravos daquele a quem obedecem, seja do pecado, que leva à morte, seja da obediência, que leva à justiça?",
   "n": [
    {
     "tipo": "tn",
-    "ancora": "servos",
+    "ancora": "escravos",
     "termo": "δούλους (doulous)",
-    "titulo": "doulos: aqui, “escravos”",
-    "texto": "Nos vv. 16-22 Paulo desenvolve uma imagem da escravidão do seu tempo: o escravo pertence a um senhor e obedece só a ele; pode ser transferido de um senhor para outro. A APV mantém o termo fixo “servo” (ver nota em 1:1), mas aqui o leitor deve entender “escravo” em sentido pleno: não há meio-termo nem terceira opção, e o próprio Paulo se desculpa pela imagem (v. 19). “Escravos” seria tradução legítima e mais forte nestes versículos.",
-    "revisar": true
+    "titulo": "doulos: “escravo”",
+    "texto": "Nos vv. 16-22 Paulo desenvolve uma imagem da escravidão do seu tempo: o escravo pertence a um senhor e obedece só a ele; pode ser transferido de um senhor para outro. Como aqui Paulo contrasta escravidão e liberdade (vv. 18, 20, 22), a APV traduz doulos, douleuō e douloō por “escravo”, “ser escravo” e “escravizar” (também em 6:6; 7:6, 14, 25). Nos demais textos, o termo fixo é “servo” (ver nota em 1:1). Não há meio-termo nem terceira opção, e o próprio Paulo se desculpa pela imagem (v. 19)."
    },
    {
     "tipo": "tn",
@@ -3255,19 +3261,19 @@
     "ancora": "da obediência, que leva à justiça",
     "termo": "ὑπακοῆς εἰς δικαιοσύνην",
     "titulo": "obediência e justiça",
-    "texto": "Esperaríamos “servos de Deus” ou “da justiça” (v. 18); Paulo diz “da obediência”, talvez para lembrar a obediência da fé (1:5). “Justiça”, aqui, é a vida reta que resulta da obediência e o veredito final de Deus."
+    "texto": "Esperaríamos “escravos de Deus” ou “da justiça” (v. 18); Paulo diz “da obediência”, talvez para lembrar a obediência da fé (1:5). “Justiça”, aqui, é a vida reta que resulta da obediência e o veredito final de Deus."
    }
   ]
  },
  "Rom.6.17": {
-  "t": "Mas graças a Deus porque vocês, que eram servos do pecado, obedeceram de coração à forma de ensino à qual foram entregues,",
+  "t": "Mas graças a Deus porque vocês, que eram escravos do pecado, obedeceram de coração à forma de ensino à qual foram entregues,",
   "n": [
    {
     "tipo": "tn",
-    "ancora": "que eram servos do pecado",
+    "ancora": "que eram escravos do pecado",
     "termo": "ὅτι ἦτε δοῦλοι τῆς ἁμαρτίας",
     "titulo": "“que vocês eram”",
-    "texto": "Lit. “porque vocês eram servos do pecado, mas obedeceram”. Paulo não agradece pela escravidão, mas porque ela ficou no passado. A tradução reorganiza a frase para evitar esse mal-entendido."
+    "texto": "Lit. “porque vocês eram escravos do pecado, mas obedeceram”. Paulo não agradece pela escravidão, mas porque ela ficou no passado. A tradução reorganiza a frase para evitar esse mal-entendido."
    },
    {
     "tipo": "tn",
@@ -3279,19 +3285,19 @@
   ]
  },
  "Rom.6.18": {
-  "t": "e, libertados do pecado, foram feitos servos da justiça.",
+  "t": "e, libertados do pecado, foram escravizados à justiça.",
   "n": [
    {
     "tipo": "sn",
-    "ancora": "foram feitos servos da justiça",
+    "ancora": "foram escravizados à justiça",
     "termo": "ἐδουλώθητε τῇ δικαιοσύνῃ",
     "titulo": "nova escravidão",
-    "texto": "A liberdade cristã não é independência, mas troca de senhor. Ser servo da justiça e de Deus (v. 22) é a verdadeira liberdade (cf. 1Co 7:22)."
+    "texto": "A liberdade cristã não é independência, mas troca de senhor. Ser escravo da justiça e de Deus (v. 22) é a verdadeira liberdade (cf. 1Co 7:22)."
    }
   ]
  },
  "Rom.6.19": {
-  "t": "Falo em termos humanos, por causa da fraqueza da carne de vocês. Pois, assim como vocês ofereceram os seus membros como servos da impureza e da iniquidade, para a iniquidade, assim ofereçam agora os seus membros como servos da justiça, para a santificação.",
+  "t": "Falo em termos humanos, por causa da fraqueza da carne de vocês. Pois, assim como vocês ofereceram os seus membros como escravos da impureza e da iniquidade, para a iniquidade, assim ofereçam agora os seus membros como escravos da justiça, para a santificação.",
   "n": [
    {
     "tipo": "tn",
@@ -3324,7 +3330,7 @@
   ]
  },
  "Rom.6.20": {
-  "t": "Pois, quando vocês eram servos do pecado, estavam livres em relação à justiça.",
+  "t": "Pois, quando vocês eram escravos do pecado, estavam livres em relação à justiça.",
   "n": [
    {
     "tipo": "sn",
@@ -3355,7 +3361,7 @@
   ]
  },
  "Rom.6.22": {
-  "t": "Mas agora, libertados do pecado e feitos servos de Deus, vocês têm o seu fruto para a santificação, e o fim é a vida eterna.",
+  "t": "Mas agora, libertados do pecado e feitos escravos de Deus, vocês têm o seu fruto para a santificação, e o fim é a vida eterna.",
   "n": []
  },
  "Rom.6.23": {
@@ -3480,21 +3486,21 @@
   ]
  },
  "Rom.7.6": {
-  "t": "Mas agora fomos libertados da Lei, tendo morrido para aquilo que nos prendia, de modo que servimos na condição nova do Espírito, e não na condição antiga da letra.",
+  "t": "Mas agora fomos libertados da Lei, tendo morrido para aquilo que nos prendia, de modo que servimos como escravos na novidade do Espírito, e não na antiguidade da letra.",
   "n": [
    {
     "tipo": "tn",
-    "ancora": "na condição nova do Espírito, e não na condição antiga da letra",
+    "ancora": "na novidade do Espírito, e não na antiguidade da letra",
     "termo": "ἐν καινότητι πνεύματος καὶ οὐ παλαιότητι γράμματος",
     "titulo": "“em novidade de espírito e não em velhice de letra”",
-    "texto": "Lit. “em novidade de Espírito e não em velhice de letra”. Kainotēs (rara; também 6:4) e palaiotēs (hápax) contrastam duas eras: a da Lei escrita, que ordena sem dar vida, e a do Espírito, que dá vida (2:29; 2Co 3:6). Maiúscula em “Espírito” porque o cap. 8 desenvolve a ideia do Espírito de Deus. “Servimos” (douleuō) mostra que a liberdade da Lei não é ausência de serviço."
+    "texto": "Lit. “em novidade de Espírito e não em velhice de letra”. “Novidade” mantém o paralelo com 6:4 (“novidade de vida”); “antiguidade” evita o sentido de idade avançada de “velhice”. Kainotēs (rara; também 6:4) e palaiotēs (hápax) contrastam duas eras: a da Lei escrita, que ordena sem dar vida, e a do Espírito, que dá vida (2:29; 2Co 3:6). Maiúscula em “Espírito” porque o cap. 8 desenvolve a ideia do Espírito de Deus. “Servimos como escravos” (douleuō) retoma 6:18-22: a libertação da Lei não é autonomia, mas pertença a outro senhor."
    },
    {
     "tipo": "tn",
     "ancora": "tendo morrido para aquilo que nos prendia",
     "termo": "ἀποθανόντες ἐν ᾧ κατειχόμεθα (apothanontes en hō kateichometha)",
     "titulo": "“morrendo para aquilo em que éramos retidos”",
-    "texto": "Lit. “tendo morrido naquilo em que éramos retidos”. O que os prendia é a Lei (ou, para alguns, o velho homem). O Textus Receptus traz apothanontos (“tendo morrido aquilo”, isto é, a Lei), forma de pouco apoio antigo que faria a Lei morrer, e não os crentes."
+    "texto": "Lit. “tendo morrido naquilo em que éramos retidos”. O que os prendia é a Lei (ou, para alguns, o velho homem)."
    }
   ]
  },
@@ -3552,7 +3558,7 @@
     "ancora": "reviveu",
     "termo": "ἀνέζησεν (anezēsen)",
     "titulo": "anazaō, raro",
-    "texto": "Só aqui e em Lc 15:24, 32 (no texto crítico). “Voltar a viver, ganhar vida”. O pecado, que estava “morto” (v. 8), desperta."
+    "texto": "Raro no NT. “Voltar a viver, ganhar vida”. O pecado, que estava “morto” (v. 8), desperta."
    },
    {
     "tipo": "sn",
@@ -3717,7 +3723,7 @@
     "ancora": "mas o realizá-lo, não",
     "termo": "τὸ δὲ κατεργάζεσθαι τὸ καλὸν οὐχ (+ εὑρίσκω)",
     "titulo": "“não acho”",
-    "texto": "O texto crítico termina abruptamente com ou (“não”). O Textus Receptus e o Texto Bizantino acrescentam heuriskō (“não o acho”, ARC: “não o consigo”), completando a frase. O sentido é o mesmo."
+    "texto": "O texto crítico termina abruptamente com ou (“não”). O Textus Receptus e o Texto Bizantino acrescentam heuriskō (“não o acho”), completando a frase. O sentido é o mesmo."
    }
   ]
  },
@@ -3800,8 +3806,15 @@
   ]
  },
  "Rom.7.25": {
-  "t": "Graças a Deus, por meio de Jesus Cristo, nosso Senhor! Assim, pois, eu mesmo, com a mente, sirvo à Lei de Deus, mas, com a carne, à lei do pecado.",
+  "t": "Graças a Deus, por meio de Jesus Cristo, nosso Senhor! Assim, pois, eu mesmo, com a mente, sou escravo da Lei de Deus, mas, com a carne, da lei do pecado.",
   "n": [
+   {
+    "tipo": "tn",
+    "ancora": "sou escravo da Lei de Deus",
+    "termo": "δουλεύω νόμῳ θεοῦ (douleuō nomō theou)",
+    "titulo": "douleuō",
+    "texto": "“Ser escravo de”, como em 6:6 e 7:6. A imagem retoma 7:14 (“vendido como escravo ao pecado”) e prepara 8:2, onde o Espírito liberta “da lei do pecado e da morte”."
+   },
    {
     "tipo": "tc",
     "ancora": "Graças a Deus",
@@ -3860,7 +3873,7 @@
     "ancora": "libertou você",
     "termo": "ἠλευθέρωσέν σε (ēleutherōsen se)",
     "titulo": "se, me ou hēmas",
-    "texto": "O texto crítico traz se (“você”, singular), com apoio antigo; o Textus Receptus e o Texto Bizantino, me (“me libertou”, ARC), que continua o “eu” do cap. 7; outros manuscritos, hēmas (“nos”). Se é a leitura mais difícil e por isso provavelmente original: Paulo se dirige a cada leitor."
+    "texto": "O texto crítico traz se (“você”, singular), com apoio antigo; o Textus Receptus e o Texto Bizantino, me (“me libertou”; ARC: “me livrou”), que continua o “eu” do cap. 7; outros manuscritos, hēmas (“nos”). Se é a leitura mais difícil e por isso provavelmente original: Paulo se dirige a cada leitor."
    }
   ]
  },
@@ -4010,8 +4023,15 @@
   ]
  },
  "Rom.8.11": {
-  "t": "E, se o Espírito daquele que ressuscitou Jesus dentre os mortos habita em vocês, aquele que ressuscitou Cristo dentre os mortos dará vida também aos seus corpos mortais, por causa do seu Espírito que habita em vocês.",
+  "t": "E, se o Espírito daquele que ressuscitou Jesus dentre os mortos habita em vocês, aquele que ressuscitou Cristo Jesus dentre os mortos dará vida também aos seus corpos mortais, por causa do seu Espírito que habita em vocês.",
   "n": [
+   {
+    "tipo": "tc",
+    "ancora": "Cristo Jesus",
+    "termo": "Χριστὸν ... Ἰησοῦν (+ τόν, − Ἰησοῦν)",
+    "titulo": "“Cristo Jesus” ou “o Cristo”",
+    "texto": "O texto-base traz “Cristo ... Jesus” (a posição das palavras varia entre as edições). O Textus Receptus e o Texto Bizantino não têm Iēsoun e trazem o artigo (“o Cristo”). O sentido não muda."
+   },
    {
     "tipo": "tc",
     "ancora": "por causa do seu Espírito",
@@ -4259,7 +4279,7 @@
     "ancora": "a adoção",
     "termo": "υἱοθεσίαν (huiothesian)",
     "titulo": "omissão",
-    "texto": "Alguns manuscritos antigos omitem “a adoção”, talvez porque parecia contradizer o v. 15. A palavra está na grande maioria dos manuscritos e em todas as edições comparadas."
+    "texto": "Alguns manuscritos omitem “a adoção”; a omissão talvez se explique pela aparente tensão com o v. 15. A palavra está na grande maioria dos manuscritos, e nenhuma das edições comparadas a omite."
    }
   ]
  },
@@ -4278,7 +4298,7 @@
     "ancora": "pois quem espera o que vê?",
     "termo": "ὃ γὰρ βλέπει τίς ἐλπίζει; (+ τί καί)",
     "titulo": "forma longa",
-    "texto": "O THGNT, Tregelles, o Textus Receptus e o Texto Bizantino trazem “o que alguém vê, por que ainda o espera?” (ARC: “como o esperará?”). O sentido é o mesmo."
+    "texto": "O THGNT, Tregelles, o Textus Receptus e o Texto Bizantino trazem “o que alguém vê, por que ainda o espera?”. O sentido é o mesmo."
    }
   ]
  },
@@ -4532,7 +4552,7 @@
     "ancora": "principados",
     "termo": "ἄγγελοι ... ἀρχαί ... δυνάμεις",
     "titulo": "poderes espirituais",
-    "texto": "Archai (“principados”, governos) e dynameis (“poderes”) são termos de Paulo para forças espirituais, muitas vezes hostis (1Co 15:24; Ef 6:12; Cl 2:15). Os “anjos” aqui provavelmente incluem esses seres, bons ou maus: nenhum poder criado. O Textus Receptus e o Texto Bizantino põem “poderes” logo depois de “principados”, ordem mais natural que os copistas parecem ter preferido."
+    "texto": "Archai (“principados”, governos) e dynameis (“poderes”) são termos de Paulo para forças espirituais, muitas vezes hostis (1Co 15:24; Ef 6:12; Cl 2:15). Os “anjos” aqui provavelmente incluem esses seres, bons ou maus: nenhum poder criado. Em parte da tradição manuscrita, “poderes” aparece logo depois de “principados”, ordem mais natural."
    },
    {
     "tipo": "tn",

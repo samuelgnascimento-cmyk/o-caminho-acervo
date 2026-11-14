@@ -1,0 +1,134 @@
+[
+ {
+  "ref": "1Co.6.9",
+  "gravidade": "media",
+  "problema": "μαλακοί é vertido por uma paráfrase de nove palavras (“os homens que se prestam ao papel passivo com outros homens”) que fecha no texto principal um sentido ainda disputado; o grego é uma só palavra (“moles, suaves”) e o uso sexual específico só se deduz do contexto. O sentido sexual é defensável (BDAG), mas a paráfrase é mais restrita que o léxico e deixa o leitor sem ver a palavra. Arsenokoitai (“os homens que se deitam com homens”) está fiel e sem excesso.",
+  "sugestao": "Manter a decisão com formulação mais curta e menos restritiva, por exemplo “os homens passivos” (ou “os que se deixam usar sexualmente por homens”), com “Lit. ‘moles’” na nota. Manter revisar:true. Na nota, escrever o conteúdo de BDAG como paráfrase, sem aspas, pois o texto entre aspas não é citação literal."
+ },
+ {
+  "ref": "1Co.7.21",
+  "gravidade": "media",
+  "problema": "χρῆσαι não tem objeto; o texto principal (“aproveite a oportunidade”) acrescenta objeto e decide a ambiguidade em favor da liberdade. O guia pede não fortalecer o que o texto deixa aberto. Além disso, a nota cita S. S. Bartchy (Mallon Chresai, 1973) logo após a posição “modernos preferem a liberdade”, mas Bartchy defende a leitura oposta (use a condição de escravo).",
+  "sugestao": "Traduzir mais literalmente: “mas, se também puder tornar-se livre, faça antes uso [disso]”, ou manter a tradução e dar a leitura alternativa já com a mesma força em nota. Corrigir a nota: Bartchy pertence à leitura (2) (permanecer escravo); a favor de (1) citar, por exemplo, Fee ou Thiselton, só se houver certeza."
+ },
+ {
+  "ref": "1Co.7.36",
+  "gravidade": "media",
+  "problema": "O texto principal adota, sem hedge, uma leitura minoritária ou dividida: “noiva” para παρθένον αὐτοῦ e “a paixão dele é forte” para ὑπέρακμος (sujeito masculino não está no grego). A nota diz que a leitura do noivo é “adotada pela maioria dos comentaristas modernos”, afirmação não sustentada: os comentaristas se dividem entre noivo, pai/tutor e casal em continência.",
+  "sugestao": "Trocar “noiva” por “virgem” (“a sua virgem”) nos vv. 36-38, ou manter com revisar:true (já há) e remover a afirmação de “maioria” (dizer “muitos comentaristas modernos”). Para ὑπέρακμος, considerar “se passou da flor da idade / se o desejo é forte” em nota sem fixar o gênero no texto."
+ },
+ {
+  "ref": "1Co.7.38",
+  "gravidade": "baixa",
+  "problema": "γαμίζων traduzido como “casa-se com” (equivalente a γαμέω) é a leitura minoritária; a nota afirma que verbos em -ίζω “às vezes perdem o sentido causativo” sem apoio verificável, e o sentido normal do NT (Mc 12:25; Lc 17:27) é “dar em casamento”.",
+  "sugestao": "Atenuar a nota (“alguns propõem que...”) e manter revisar:true."
+ },
+ {
+  "ref": "1Co.6.10",
+  "gravidade": "media",
+  "problema": "A nota tc afirma que “o Texto Bizantino tem outra ordem nos termos”; a folha só mostra variantes οὐ/οὔτε, não ordem diferente. É dado de edição sem apoio.",
+  "sugestao": "Retirar “e o Texto Bizantino tem outra ordem nos termos”; dizer apenas que TR e Bizantino trazem οὔτε em vez de οὐ."
+ },
+ {
+  "ref": "1Co.3.5",
+  "gravidade": "baixa",
+  "problema": "A nota tc diz que TR e Bizantino têm “Quem é Paulo, e quem é Apolo” (ordem dos nomes invertida); a folha só registra Τίς/τίς, ἀλλ᾽ ἢ e ausência de ἐστιν, não a ordem dos nomes.",
+  "sugestao": "Retirar a referência à ordem dos nomes."
+ },
+ {
+  "ref": "1Co.8.11",
+  "gravidade": "baixa",
+  "problema": "γάρ vertido por “Assim”, perdendo o conectivo (o guia manda manter pois/porque).",
+  "sugestao": "“Pois, pelo seu conhecimento, perece o fraco...”."
+ },
+ {
+  "ref": "1Co.9.15",
+  "gravidade": "baixa",
+  "problema": "καλὸν γάρ μοι... : o γάρ foi omitido (“Prefiro morrer a...”).",
+  "sugestao": "“Pois é melhor para mim morrer a... ”."
+ },
+ {
+  "ref": "1Co.8.4",
+  "gravidade": "media",
+  "problema": "A nota cita o Shemá como “Ouça, Israel, o SENHOR nosso Deus é o único SENHOR”, que reproduz quase literalmente ARA/NAA/NVI (“o SENHOR, nosso Deus, é o único SENHOR”). Há também SENHOR em versaletes numa nota do NT.",
+  "sugestao": "Traduzir direto do hebraico: “Ouça, Israel: YHWH, nosso Deus, YHWH é um” (ou “é único”)."
+ },
+ {
+  "ref": "1Co.8.3",
+  "gravidade": "baixa",
+  "problema": "Referência errada na nota: “Gl 4:9; 13:12” (Gálatas não tem cap. 13).",
+  "sugestao": "“Gl 4:9; 1Co 13:12”."
+ },
+ {
+  "ref": "1Co.1.19",
+  "gravidade": "baixa",
+  "problema": "Transliteração errada na nota: “kryspō” (futuro de κρύπτω é krypsō).",
+  "sugestao": "Corrigir para “krypsō”."
+ },
+ {
+  "ref": "1Co.1.13",
+  "gravidade": "baixa",
+  "problema": "A nota diz que as duas perguntas seguintes são introduzidas por mē; só “μὴ Παῦλος ἐσταυρώθη” traz μή (a segunda é ἢ εἰς τὸ ὄνομα...).",
+  "sugestao": "“A pergunta seguinte, introduzida por mē...”."
+ },
+ {
+  "ref": "1Co.1.14",
+  "gravidade": "baixa",
+  "problema": "A nota diz que o SBLGNT omite “a Deus” “com parte dos manuscritos antigos”: afirmação sobre manuscritos sem apoio na folha.",
+  "sugestao": "Retirar “com parte dos manuscritos antigos”."
+ },
+ {
+  "ref": "1Co.4.4",
+  "gravidade": "baixa",
+  "problema": "A nota diz que synoida aparece “só aqui e em At 5:2 com este sentido”; At 5:2 tem outro sentido (ciência partilhada), e ocorre também At 12:12 (συνιδών). A frase confunde a contagem.",
+  "sugestao": "“Aparece também em At 5:2, mas só aqui no sentido de ‘ter consciência de algo contra si mesmo’.”"
+ },
+ {
+  "ref": "1Co.7.32",
+  "gravidade": "baixa",
+  "problema": "A nota diz que merimnaō aparece cinco vezes nos vv. 32-34; são quatro (32, 33, 34 duas vezes).",
+  "sugestao": "Corrigir para “quatro vezes”."
+ },
+ {
+  "ref": "1Co.6.14",
+  "gravidade": "baixa",
+  "problema": "A nota afirma que o prefixo ex- de ἐξεγερεῖ reforça “do meio dos mortos”; em Rm 9:17 o mesmo verbo não é de ressurreição, e o prefixo não tem esse valor garantido.",
+  "sugestao": "Retirar a etimologia; dizer só que é verbo raro, com sentido de “levantar”."
+ },
+ {
+  "ref": "1Co.6.19",
+  "gravidade": "baixa",
+  "problema": "A nota diz que a prostituição era “frequentemente ligada aos templos pagãos”, o que é discutido em Corinto e sem base na folha.",
+  "sugestao": "Retirar ou suavizar (“em alguns cultos”)."
+ },
+ {
+  "ref": "1Co.9.9",
+  "gravidade": "baixa",
+  "problema": "A nota diz “segundo a Septuaginta”, mas o verbo de Paulo (κημώσεις) difere do usual da LXX de Dt 25:4 (φιμώσεις).",
+  "sugestao": "Dizer que Paulo segue a LXX no sentido, com o verbo kēmoō em lugar de phimoō."
+ },
+ {
+  "ref": "1Co.9.24",
+  "gravidade": "baixa",
+  "problema": "A nota afirma que os Jogos Ístmicos eram “os mais importantes da Grécia depois dos Olímpicos”, afirmação não segura.",
+  "sugestao": "Dizer apenas que eram um dos grandes jogos pan-helênicos, realizados perto de Corinto."
+ },
+ {
+  "ref": "1Co.9.23",
+  "gravidade": "baixa",
+  "problema": "“com eles” é acréscimo no texto principal; o referente de συγκοινωνός não é explícito no grego.",
+  "sugestao": "“para me tornar coparticipante dele”, deixando “com os outros” para a nota."
+ },
+ {
+  "ref": "1Co.4.18",
+  "gravidade": "baixa",
+  "problema": "“como se eu não fosse mais até vocês”: “mais” não está no grego (ὡς μὴ ἐρχομένου μου).",
+  "sugestao": "“como se eu não fosse até vocês”."
+ },
+ {
+  "ref": "1Co.3.2",
+  "gravidade": "baixa",
+  "problema": "“comida sólida” e “suportá-la” acrescentam sentido (βρῶμα é “alimento”; ἐδύνασθε não tem objeto). O acréscimo é razoável, mas não vem marcado na nota.",
+  "sugestao": "Acrescentar “Lit. ‘alimento’; ‘sólida’ e ‘suportá-la’ são supridos pelo contraste com o leite”."
+ }
+]
