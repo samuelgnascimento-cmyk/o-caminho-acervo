@@ -1,0 +1,72 @@
+[
+ {
+  "ref": "Mrk.3.18",
+  "gravidade": "alta",
+  "problema": "Decisão da onda 1 violada: Σίμων ὁ Καναναῖος deve ser \"Simão, o Zelote\". O texto traz \"Simão, o Cananeu\" e a nota diz \"Mantido o nome como apelido\".",
+  "sugestao": "Texto: \"...Tadeu, Simão, o Zelote,\". Nota: ancorar em \"o Zelote\"; explicar que o grego é Kananaios (aramaico qan'ana, \"zeloso\"), que não é \"cananeu\" de Canaã (seria Chananaios), que Lucas traduz Zelote (Lc 6:15; At 1:13) e que \"Cananeu\" é a forma tradicional em português.",
+  "decisao": "aceito: a decisão da onda 1 fixa “Simão, o Zelote”; texto, âncora e nota corrigidos, e a nota agora registra a forma tradicional “o Cananeu”."
+ },
+ {
+  "ref": "Mrk.4.15",
+  "gravidade": "media",
+  "problema": "Português truncado: \"são aqueles que, quando a ouvem, logo vem Satanás e tira...\". A oração relativa fica sem verbo próprio e a frase quebra. No grego, \"quando ouvem, logo vem Satanás\" é oração independente depois de \"onde a palavra é semeada\".",
+  "sugestao": "\"Os que estão à beira do caminho são aqueles em quem a palavra é semeada: quando a ouvem, logo vem Satanás e tira a palavra que foi semeada neles.\"",
+  "decisao": "aceito em parte: a frase estava truncada e foi reescrita (“... são estes: quando a ouvem, logo vem Satanás...”), mas mantive “onde a palavra é semeada”, que traduz hopou; a sugestão “em quem” mudaria o grego."
+ },
+ {
+  "ref": "Mrk.2.26",
+  "gravidade": "media",
+  "problema": "A nota afirma que Abiatar \"estava presente (1Sm 22:20)\" quando Davi veio a Nobe. 1Sm 22:20 diz só que Abiatar escapou depois, quando o massacre dos sacerdotes já tinha ocorrido; não afirma presença no episódio do cap. 21. A explicação (2) fica sem base no texto citado.",
+  "sugestao": "Reescrever (2): \"'no tempo de' Abiatar, filho de Aimeleque e sacerdote ligado a Davi depois do massacre (1Sm 22:20-23), mais conhecido que o pai\". Tirar \"que estava presente\".",
+  "decisao": "aceito: 1Sm 22:20 não põe Abiatar presente no episódio do cap. 21; a explicação (2) foi reescrita sem essa afirmação."
+ },
+ {
+  "ref": "Mrk.2.3",
+  "gravidade": "media",
+  "problema": "Nota falsa: diz que o numeral tessarōn \"no grego é masculino\". Τέσσαρες/τεσσάρων tem a mesma forma nos três gêneros; o gênero vem do contexto, não do numeral. \"Quatro homens\" é inferência.",
+  "sugestao": "Cortar a frase sobre o gênero do numeral ou trocar por: \"O grego diz só 'por quatro'; 'homens' é inferência do contexto.\"",
+  "decisao": "aceito: tessarōn tem a mesma forma nos três gêneros; a nota agora diz que “homens” é inferência do contexto."
+ },
+ {
+  "ref": "Mrk.5.14",
+  "gravidade": "baixa",
+  "problema": "Ambiguidade: \"contaram o que acontecera na cidade e nos campos\" pode sugerir que o fato aconteceu na cidade. O grego diz ἀπήγγειλαν εἰς τὴν πόλιν καὶ εἰς τοὺς ἀγρούς, isto é, o relato foi feito na cidade e nos campos.",
+  "sugestao": "\"fugiram e foram contar o ocorrido na cidade e nos campos.\"",
+  "decisao": "aceito em parte: desfiz a ambiguidade mudando a ordem (“contaram na cidade e nos campos o que tinha acontecido”), sem acrescentar o “foram” da sugestão, que o grego não tem."
+ },
+ {
+  "ref": "Mrk.2.21",
+  "gravidade": "baixa",
+  "problema": "\"o remendo repuxa a roupa, o novo rasga o velho\" acrescenta \"rasga\" e \"repuxa\" ao αἴρει (\"tira, leva consigo\"), e logo depois vem \"o rasgo fica pior\", que repete a ideia. A nota admite o desdobramento, mas ele já interpreta além do verbo.",
+  "sugestao": "\"do contrário, o remendo puxa dela, o novo do velho, e o rasgo fica pior.\" Se achar duro, \"o remendo novo arranca um pedaço do velho\", com a nota Lit. \"tira\".",
+  "decisao": "aceito em parte: tirei “repuxa” e “rasga” do texto e usei a alternativa do próprio revisor (“o remendo novo arranca um pedaço da roupa velha”), com a nota dando o literal de airō."
+ },
+ {
+  "ref": "Mrk.1.2",
+  "gravidade": "baixa",
+  "problema": "Várias notas tc afirmam leituras do TR/Bizantino que a folha não mostra (a folha só dá a ausência do texto-base): \"nos profetas\" (1:2), kraxan (1:26), ēn (1:39), koumi (5:41), pōs ouk (4:40) e outras. São leituras reais, mas o guia pede só o que a folha confirma. No v. 2 a nota fala também em \"Ml 3:1 e 4:5 identificam o mensageiro com Elias\", mas só Ml 4:5 (3:23 no hebraico) nomeia Elias.",
+  "sugestao": "Escrever \"o TR e o Bizantino omitem 'em Isaías o profeta' e trazem outra redação\" quando a folha não mostra o texto; e \"Ml 3:1 anuncia o mensageiro, e Ml 4:5 o identifica como Elias\".",
+  "decisao": "aceito: as notas tc que afirmavam leituras do TR/Bizantino não mostradas na folha (1:2, 1:26, 1:39, 2:5, 2:7, 2:20, 2:22, 3:20, 3:29, 4:1, 5:1, 5:10, 5:41) foram reescritas para dizer só a ausência, ou atribuir a forma a “muitos manuscritos”; 4:40 ficou como estava porque a folha mostra pōs ouk; Ml 3:1 e 4:5 corrigidos."
+ },
+ {
+  "ref": "Mrk.1.7",
+  "gravidade": "baixa",
+  "problema": "A nota diz que kyptō \"no texto crítico só aparece aqui\" e na mesma frase remete a Jo 8:6, 8, onde o verbo também ocorre (a perícope está no SBLGNT). A afirmação se contradiz.",
+  "sugestao": "\"Kyptō só aparece aqui em Marcos e, fora dele, em Jo 8:6, 8 (passagem de texto disputado).\"",
+  "decisao": "aceito: a frase sobre kyptō se contradizia; agora diz “só aqui em Marcos e, fora dele, em Jo 8:6, 8”."
+ },
+ {
+  "ref": "Mrk.3.10",
+  "gravidade": "baixa",
+  "problema": "Referência a Sl 32:10 \"na Septuaginta\": o versículo da LXX com μάστιγες é Sl 31:10 (numeração LXX); 32:10 é a numeração do hebraico/português.",
+  "sugestao": "\"Sl 32:10 (31:10 na Septuaginta)\".",
+  "decisao": "aceito: a referência passou a “Sl 32:10; 31:10 na numeração da Septuaginta”."
+ },
+ {
+  "ref": "Mrk.5.19",
+  "gravidade": "baixa",
+  "problema": "A nota afirma sem ressalva que \"o Senhor\" na boca de Jesus é Deus. O v. 20 mostra o homem proclamando o que \"Jesus\" fez, e muitos intérpretes entendem kyrios como Jesus; Lucas escreve \"Deus\" (Lc 8:39). O guia pede mostrar o debate.",
+  "sugestao": "Acrescentar: \"Alguns entendem kyrios aqui como o próprio Jesus; Lucas troca por 'Deus' (Lc 8:39). Marcos deixa as duas leituras abertas.\"",
+  "decisao": "aceito: a nota agora registra que alguns entendem kyrios como Jesus e que Lucas escreve “Deus” (Lc 8:39), mantendo “Deus” como a leitura mais natural."
+ }
+]

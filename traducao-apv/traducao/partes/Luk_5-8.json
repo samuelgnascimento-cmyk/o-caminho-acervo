@@ -1,0 +1,799 @@
+{
+ "Luk.5.1": {
+  "t": "Certa vez, enquanto a multidão se comprimia em volta de Jesus e ouvia a palavra de Deus, ele estava de pé à beira do lago de Genesaré.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "lago de Genesaré",
+    "termo": "τὴν λίμνην Γεννησαρέτ (tēn limnēn Gennēsaret)",
+    "titulo": "o lago, não o “mar”",
+    "texto": "É o mesmo lago que Marcos e Mateus chamam “mar da Galileia” (Mc 1:16; Mt 4:18), seguindo o uso hebraico de chamar yam (“mar”) a qualquer grande extensão de água. Lucas, que escreve para leitores do mundo grego, usa limnē, “lago”, palavra mais exata para um lago de água doce de uns 20 km de comprimento. Genesaré é o nome da planície fértil na margem noroeste, perto de Cafarnaum."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "se comprimia em volta de Jesus",
+    "termo": "ἐπικεῖσθαι αὐτῷ (epikeisthai autō)",
+    "titulo": "“estar posto sobre”",
+    "texto": "Lit. “estar posta sobre ele”: a multidão apertava Jesus de todos os lados. O nome de Jesus foi posto no lugar do pronome “ele”, por clareza, já que o capítulo começa uma nova cena."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "e ouvia a palavra de Deus",
+    "termo": "καὶ ἀκούειν / τοῦ ἀκούειν",
+    "titulo": "“e ouvia” ou “para ouvir”",
+    "texto": "O texto-base traz kai akouein, “e ouvia”. O Textus Receptus e o Texto Bizantino trazem tou akouein, “para ouvir”, que faz da escuta o motivo de a multidão se comprimir. O sentido geral é o mesmo."
+   }
+  ]
+ },
+ "Luk.5.2": {
+  "t": "Viu dois barcos parados à beira do lago. Os pescadores tinham descido deles e estavam lavando as redes.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "estavam lavando as redes",
+    "termo": "ἔπλυνον τὰ δίκτυα (eplynon ta diktya)",
+    "titulo": "plynō",
+    "texto": "Plynō (“lavar”) só aparece três vezes no NT. Lavar as redes era o trabalho de limpeza e conserto feito depois da pesca, para que a rede não apodrecesse: a noite de trabalho já tinha acabado (v. 5). O Textus Receptus e o Texto Bizantino trazem o aoristo apeplynan (“tinham lavado”), sem diferença importante."
+   }
+  ]
+ },
+ "Luk.5.3": {
+  "t": "Entrou num dos barcos, que era de Simão, e lhe pediu que o afastasse um pouco da terra. Então se sentou e, do barco, ensinava as multidões.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "o afastasse um pouco da terra",
+    "termo": "ἀπὸ τῆς γῆς ἐπαναγαγεῖν ὀλίγον (epanagagein)",
+    "titulo": "epanagō",
+    "texto": "Epanagō (três vezes no NT) é termo náutico: “fazer-se ao largo”, levar o barco da margem para a água. A margem em declive servia de anfiteatro natural, e o barco, de púlpito."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "se sentou",
+    "termo": "καθίσας (kathisas)",
+    "titulo": "o mestre sentado",
+    "texto": "Como em 4:20, Jesus ensina sentado, na posição do mestre."
+   }
+  ]
+ },
+ "Luk.5.4": {
+  "t": "Quando acabou de falar, disse a Simão: “Leve o barco para o fundo, e lancem as suas redes para a pesca.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Leve o barco para o fundo, e lancem",
+    "termo": "ἐπανάγαγε ... χαλάσατε (epanagage ... chalasate)",
+    "titulo": "singular e plural",
+    "texto": "O primeiro imperativo está no singular (dirigido a Simão, o dono e piloto do barco); o segundo, no plural (para todos os que estavam no barco). A tradução mantém a diferença. “Barco” foi acrescentado porque epanagō, sem objeto, já subentende a embarcação."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "para a pesca",
+    "termo": "εἰς ἄγραν (eis agran)",
+    "titulo": "agra",
+    "texto": "Agra (só aqui e no v. 9) é “pesca, captura”, tanto o ato quanto o que se apanha (v. 9)."
+   }
+  ]
+ },
+ "Luk.5.5": {
+  "t": "Simão respondeu: “Mestre, trabalhamos a noite inteira e não pegamos nada. Mas, por causa da sua palavra, vou lançar as redes.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Mestre",
+    "termo": "ἐπιστάτα (epistata)",
+    "titulo": "epistatēs",
+    "texto": "Epistatēs só aparece em Lucas (sete vezes) e sempre na boca dos discípulos ou de quem pede ajuda (8:24, 45; 9:33, 49; 17:13). Significa “chefe, superintendente”, alguém posto acima de outros, e não é a mesma palavra de didaskalos (“mestre, professor”, 3:12). Lucas parece usá-la no lugar de “Rabi”, que não traduz para leitores gregos. “Mestre” (como na ARC) é a palavra portuguesa que melhor cabe nos dois casos; o leitor fica sabendo, por esta nota, que aqui a ênfase é a autoridade de quem dá ordens."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "trabalhamos",
+    "termo": "κοπιάσαντες (kopiasantes)",
+    "titulo": "kopiaō",
+    "texto": "“Labutar até se cansar”. A pesca no lago se fazia de noite; Simão, pescador experiente, fala de uma noite inteira de esforço inútil."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "por causa da sua palavra",
+    "termo": "ἐπὶ δὲ τῷ ῥήματί σου (epi de tō rhēmati sou)",
+    "titulo": "“sobre a tua palavra”",
+    "texto": "Lit. “sobre a sua palavra”: com base na palavra de Jesus, confiando nela, e não na própria experiência. O Textus Receptus e o Texto Bizantino trazem o singular “a rede” aqui e no v. 6, sem diferença de sentido."
+   }
+  ]
+ },
+ "Luk.5.6": {
+  "t": "Fizeram isso e cercaram uma quantidade tão grande de peixes que as redes começavam a se romper.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "as redes começavam a se romper",
+    "termo": "διερρήσσετο δὲ τὰ δίκτυα αὐτῶν",
+    "titulo": "imperfeito incoativo",
+    "texto": "Lit. “e as redes deles se rompiam”. O imperfeito indica ação começada e não concluída: as redes estavam a ponto de arrebentar. A ligação “tão grande ... que” deixa claro, em português, a relação de causa que no grego está implícita."
+   }
+  ]
+ },
+ "Luk.5.7": {
+  "t": "Então fizeram sinais aos companheiros que estavam no outro barco, para que viessem ajudá-los. Eles vieram e encheram os dois barcos, a ponto de começarem a afundar.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "fizeram sinais",
+    "termo": "κατένευσαν (kateneusan)",
+    "titulo": "kataneuō, hápax",
+    "texto": "Única ocorrência no NT: “acenar com a cabeça”, fazer sinal sem palavras. Talvez a distância ou o barulho não deixassem gritar, ou as mãos estivessem ocupadas com as redes."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "a ponto de começarem a afundar",
+    "termo": "ὥστε βυθίζεσθαι αὐτά (bythizesthai)",
+    "titulo": "bythizō",
+    "texto": "Bythizō (só aqui e em 1Tm 6:9) é “afundar, submergir”. O infinitivo presente indica o processo: os barcos começavam a afundar com o peso. A abundância é sinal do poder de Deus agindo por meio da palavra de Jesus."
+   }
+  ]
+ },
+ "Luk.5.8": {
+  "t": "Ao ver isso, Simão Pedro caiu aos joelhos de Jesus e disse: “Afaste-se de mim, Senhor, porque sou um homem pecador!”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "sou um homem pecador",
+    "termo": "ἀνὴρ ἁμαρτωλός εἰμι",
+    "titulo": "o temor diante do santo",
+    "texto": "A reação de Simão lembra a de Isaías diante da glória de Deus (Is 6:5: “Ai de mim ... sou homem de lábios impuros”) e a de Manoá (Jz 13:22). Ele percebe na pesca a presença de Deus e se sente indigno. Como em Isaías, a confissão é seguida pelo chamado (v. 10). É a primeira vez que Lucas usa o nome composto “Simão Pedro”; o nome Pedro será explicado em 6:14."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Senhor",
+    "termo": "κύριε (kyrie)",
+    "titulo": "kyrie: tratamento ou confissão",
+    "texto": "O vocativo kyrie podia ser simples tratamento respeitoso (“senhor”). Aqui, depois de Simão chamar Jesus de epistatēs (v. 5), a mudança para kyrie e o temor diante do sagrado sugerem algo mais: Pedro vê em Jesus a ação do próprio Deus. A maiúscula segue o uso da APV para o vocativo dirigido a Jesus."
+   }
+  ]
+ },
+ "Luk.5.9": {
+  "t": "Pois ele e todos os que estavam com ele ficaram tomados de espanto com a pesca dos peixes que tinham apanhado,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "ficaram tomados de espanto",
+    "termo": "θάμβος γὰρ περιέσχεν αὐτὸν (thambos ... perieschen)",
+    "titulo": "“o espanto o envolveu”",
+    "texto": "Lit. “o espanto o envolveu”. Thambos é o espanto diante do inexplicável (4:36); periechō (“cercar, envolver”) mostra o espanto tomando conta da pessoa. O “pois” explica a reação do v. 8. No texto-base, o relativo está no plural (hōn) e se refere aos peixes: “a pesca dos peixes que tinham apanhado”. O THGNT, o Textus Receptus e o Texto Bizantino trazem o singular hē, que se refere à pesca: “a pesca que tinham feito”. O sentido é o mesmo."
+   }
+  ]
+ },
+ "Luk.5.10": {
+  "t": "e também Tiago e João, filhos de Zebedeu, que eram sócios de Simão. Jesus disse a Simão: “Não tenha medo. De agora em diante você vai apanhar pessoas vivas.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "sócios",
+    "termo": "κοινωνοὶ (koinōnoi)",
+    "titulo": "koinōnos e metochos",
+    "texto": "Koinōnos é o parceiro de negócio, o sócio. No v. 7 Lucas usa metochos, “companheiro”, quase sinônimo. As duas famílias de pescadores trabalhavam em sociedade."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "você vai apanhar pessoas vivas",
+    "termo": "ἀνθρώπους ἔσῃ ζωγρῶν (anthrōpous esē zōgrōn)",
+    "titulo": "zōgreō: “apanhar com vida”",
+    "texto": "Zōgreō (só aqui e em 2Tm 2:26) é formado de zōos (“vivo”) e agreō (“apanhar”): capturar vivo. Na Septuaginta, é poupar a vida de alguém na guerra (Nm 31:15, 18; Js 2:13; 6:25). Em Marcos e Mateus, Jesus fala de “pescadores de gente” (Mc 1:17; Mt 4:19); Lucas escolhe uma palavra que não é de pesca e que acentua o contraste: o peixe é apanhado para morrer; as pessoas, para viver. “Pescador de gente” seria mais tradicional, mas perderia esse sentido. A perífrase com o futuro (“estará apanhando”) indica atividade contínua, uma vocação para a vida inteira."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Não tenha medo",
+    "termo": "μὴ φοβοῦ (mē phobou)",
+    "titulo": "a palavra que acompanha a revelação",
+    "texto": "As mesmas palavras do anjo a Zacarias (1:13), a Maria (1:30) e aos pastores (2:10). Diante da manifestação de Deus, a primeira palavra é de tranquilidade, seguida da missão."
+   }
+  ]
+ },
+ "Luk.5.11": {
+  "t": "E, depois de trazerem os barcos para a terra, deixaram tudo e o seguiram.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "deixaram tudo",
+    "termo": "ἀφέντες πάντα (aphentes panta)",
+    "titulo": "deixar tudo",
+    "texto": "Só Lucas diz “tudo”, aqui e no chamado de Levi (v. 28). Deixar os barcos no momento da maior pesca da vida mostra que o chamado vale mais que o ganho. O tema da renúncia aos bens é constante em Lucas (14:33; 18:22, 28). O Textus Receptus e o Texto Bizantino trazem hapanta, forma reforçada de panta, sem diferença de sentido."
+   }
+  ]
+ },
+ "Luk.5.12": {
+  "t": "Quando Jesus estava numa das cidades, apareceu um homem coberto de lepra. Ao ver Jesus, prostrou-se com o rosto em terra e lhe suplicou: “Senhor, se quiser, pode me purificar.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "coberto de lepra",
+    "termo": "πλήρης λέπρας (plērēs lepras)",
+    "titulo": "lepra",
+    "texto": "Lit. “cheio de lepra”: a doença estava em estado avançado, espalhada pelo corpo. Na Bíblia, “lepra” (hebraico tsara‘at) abrange várias doenças de pele que tornavam a pessoa ritualmente impura e a afastavam do convívio (Lv 13:45-46), não só a hanseníase moderna. Mantida a palavra tradicional."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "apareceu",
+    "termo": "καὶ ἰδοὺ (kai idou)",
+    "titulo": "“e eis”",
+    "texto": "Lit. “e aconteceu, estando ele numa das cidades, e eis um homem...”. A construção imita a narrativa hebraica (veja a nota em 1:8). “Eis” marca a entrada súbita do homem em cena; traduzido por “apareceu”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "purificar",
+    "termo": "καθαρίσαι (katharisai)",
+    "titulo": "“limpar”",
+    "texto": "Lit. “limpar”. O homem não pede só cura, mas purificação: voltar a ser declarado limpo e poder retornar à família, à vila e ao culto."
+   }
+  ]
+ },
+ "Luk.5.13": {
+  "t": "Jesus estendeu a mão, tocou nele e disse: “Quero. Fique purificado.” E imediatamente a lepra o deixou.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "tocou nele",
+    "termo": "ἥψατο αὐτοῦ (hēpsato autou)",
+    "titulo": "o toque proibido",
+    "texto": "Pela Lei, o contato com um leproso tornava a pessoa impura (Lv 5:3; 13:45-46). Jesus poderia curar só com a palavra (7:7), mas toca o homem que ninguém tocava. O contágio corre ao contrário: a pureza de Jesus passa ao leproso. Em 2Rs 5:7 a cura da lepra é vista como coisa só de Deus."
+   }
+  ]
+ },
+ "Luk.5.14": {
+  "t": "E ordenou-lhe que não contasse a ninguém: “Mas vá, mostre-se ao sacerdote e faça a oferta pela sua purificação, como Moisés ordenou, para que sirva de testemunho para eles.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "que não contasse a ninguém: “Mas vá",
+    "termo": "παρήγγειλεν αὐτῷ μηδενὶ εἰπεῖν ἀλλ᾽ ἀπελθὼν δεῖξον",
+    "titulo": "do discurso indireto ao direto",
+    "texto": "O grego começa em discurso indireto (“ordenou-lhe que não dissesse a ninguém”) e passa, sem aviso, ao discurso direto (“mas, indo, mostra-te”). A tradução conserva a mudança, marcando com aspas o início da fala direta."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "como Moisés ordenou",
+    "termo": "καθὼς προσέταξεν Μωϋσῆς",
+    "titulo": "Levítico 14",
+    "texto": "Lv 14:1-32 descreve o exame do sacerdote e os sacrifícios de quem era declarado curado. Só o sacerdote podia reintegrar o homem à comunidade. Jesus não dispensa a Lei; manda cumpri-la."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "para que sirva de testemunho para eles",
+    "termo": "εἰς μαρτύριον αὐτοῖς (eis martyrion autois)",
+    "titulo": "testemunho a favor ou contra",
+    "texto": "Pode ser prova, aos sacerdotes e ao povo, de que o homem está curado (e, por implicação, do poder de quem o curou), ou testemunho contra eles se não crerem (como em 9:5). A primeira leitura combina melhor com o contexto; o pronome “eles” não tem antecedente expresso e deve referir-se aos sacerdotes e ao povo."
+   }
+  ]
+ },
+ "Luk.5.15": {
+  "t": "Mas a notícia a respeito dele se espalhava cada vez mais, e grandes multidões se reuniam para ouvi-lo e para ser curadas das suas enfermidades.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "se espalhava cada vez mais",
+    "termo": "Διήρχετο δὲ μᾶλλον ὁ λόγος",
+    "titulo": "mallon",
+    "texto": "Lit. “a palavra a respeito dele passava ainda mais”. O “mais” supõe um contraste com a ordem de silêncio (v. 14): quanto mais Jesus procurava conter a notícia, mais ela corria. O Textus Receptus e o Texto Bizantino acrescentam hyp’ autou: “curadas por ele”."
+   }
+  ]
+ },
+ "Luk.5.16": {
+  "t": "Ele, porém, costumava retirar-se para lugares desertos e orar.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "costumava retirar-se",
+    "termo": "ἦν ὑποχωρῶν ... καὶ προσευχόμενος (ēn hypochōrōn ... kai proseuchomenos)",
+    "titulo": "perífrase de hábito",
+    "texto": "A construção “era” + particípio presente indica hábito: não foi uma vez, mas uma prática repetida. Hypochōreō (só aqui e em 9:10) é “retirar-se, afastar-se”."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "orar",
+    "termo": "προσευχόμενος (proseuchomenos)",
+    "titulo": "Jesus em oração",
+    "texto": "Lucas mostra Jesus orando nos momentos decisivos (3:21; 6:12; 9:18, 28-29; 22:41-44) e aqui como hábito. Quanto maior a multidão, mais Jesus se retira para estar com o Pai."
+   }
+  ]
+ },
+ "Luk.5.17": {
+  "t": "Certo dia, enquanto ele ensinava, estavam ali sentados fariseus e mestres da Lei que tinham vindo de todos os povoados da Galileia, da Judeia e de Jerusalém. E o poder do Senhor estava com ele para curar.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "fariseus",
+    "termo": "Φαρισαῖοι (Pharisaioi)",
+    "titulo": "os fariseus",
+    "texto": "Primeira ocorrência em Lucas. Os fariseus eram um movimento leigo de judeus dedicados à observância rigorosa da Lei na vida diária, inclusive das regras de pureza, do sábado e do dízimo, segundo a tradição oral dos antepassados. O nome vem provavelmente do hebraico perushim, “separados”. Eram respeitados pelo povo. Em Lucas, discutem com Jesus, mas também o convidam para comer (7:36; 11:37; 14:1), e alguns o avisam do perigo (13:31)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "mestres da Lei",
+    "termo": "νομοδιδάσκαλοι (nomodidaskaloi)",
+    "titulo": "nomodidaskalos",
+    "texto": "“Mestre da Lei” (três vezes no NT: aqui, At 5:34 e 1Tm 1:7). No v. 21 os mesmos são chamados grammateis, “escribas”: os especialistas na Lei de Moisés."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "o poder do Senhor estava com ele para curar",
+    "termo": "εἰς τὸ ἰᾶσθαι αὐτόν / αὐτούς",
+    "titulo": "“para que ele curasse” ou “para curá-los”",
+    "texto": "O texto-base traz auton, sujeito do infinitivo: “para que ele (Jesus) curasse”. Tregelles, o Textus Receptus e o Texto Bizantino trazem autous, objeto: “para curá-los”. Com autous, o texto parece dizer que os fariseus seriam curados, o que não acontece na cena; a leitura com auton é a mais provável."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "o poder do Senhor",
+    "termo": "δύναμις κυρίου (dynamis kyriou)",
+    "titulo": "o Senhor é Deus",
+    "texto": "Aqui “o Senhor” é Deus, como em 1:66 e 2:9, e não Jesus: o poder de Deus estava presente para Jesus curar. Lucas liga o poder de Jesus ao Espírito (4:14, 18). A frase prepara o leitor para a cura e para a pergunta do v. 21."
+   }
+  ]
+ },
+ "Luk.5.18": {
+  "t": "Nisso, alguns homens vieram carregando numa maca um homem que estava paralítico. Procuravam levá-lo para dentro e colocá-lo diante de Jesus.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "maca",
+    "termo": "κλίνης (klinēs)",
+    "titulo": "klinē",
+    "texto": "Klinē é “cama, leito”; aqui, o leito portátil em que se levava o doente. Nos vv. 19 e 24 Lucas usa o diminutivo klinidion (só aqui e no v. 24 no NT), “caminha, catre”. A APV usa “maca” nos três casos, porque é o que a cena descreve: um leito leve que quatro homens carregam e que o curado leva para casa."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "paralítico",
+    "termo": "παραλελυμένος (paralelymenos)",
+    "titulo": "paralyō",
+    "texto": "Lit. “que estava desatado, solto”, isto é, paralisado. Marcos e Mateus usam paralytikos; Lucas prefere o particípio do verbo, termo usado também pelos escritores de medicina gregos."
+   }
+  ]
+ },
+ "Luk.5.19": {
+  "t": "Como não encontravam por onde levá-lo para dentro, por causa da multidão, subiram ao telhado e o desceram por entre as telhas, com a maca, até o meio, diante de Jesus.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "por entre as telhas",
+    "termo": "διὰ τῶν κεράμων (dia tōn keramōn)",
+    "titulo": "keramos, hápax",
+    "texto": "Keramos é a argila, e daí a telha de barro cozido. Única ocorrência no NT. Marcos (2:4) fala de abrir o teto cavando, o que corresponde às casas galileias de teto plano feito de vigas, ramos e barro. Lucas descreve um telhado de telhas, mais familiar aos seus leitores do mundo greco-romano. Os dois descrevem o mesmo fato: abriram o teto para descer o homem. Também é possível que keramoi signifique aqui, de modo genérico, o material do telhado."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "telhado",
+    "termo": "δῶμα (dōma)",
+    "titulo": "dōma",
+    "texto": "Dōma é o terraço ou o teto plano da casa, aonde se subia por escada externa (12:3; 17:31)."
+   }
+  ]
+ },
+ "Luk.5.20": {
+  "t": "Vendo a fé que eles tinham, Jesus disse: “Homem, os seus pecados estão perdoados.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Homem",
+    "termo": "ἄνθρωπε (anthrōpe)",
+    "titulo": "anthrōpe",
+    "texto": "O vocativo “homem” não é ríspido em grego; é forma comum de se dirigir a alguém cujo nome não se diz (12:14; 22:58, 60). Em Mt 9:2 e Mc 2:5 Jesus diz “filho” (teknon). Mantido “Homem” para não acrescentar um tom que Lucas não dá."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "estão perdoados",
+    "termo": "ἀφέωνταί (apheōntai)",
+    "titulo": "perfeito",
+    "texto": "O perfeito indica um estado presente que resulta de uma ação: os pecados foram perdoados e assim permanecem. A passiva pode indicar Deus como quem perdoa, mas os vv. 21-24 mostram que é o próprio Jesus quem declara o perdão com autoridade."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "a fé que eles tinham",
+    "termo": "τὴν πίστιν αὐτῶν",
+    "titulo": "a fé de quem?",
+    "texto": "“Deles” inclui os que carregaram o paralítico e, provavelmente, ele mesmo. Jesus vê a fé nos atos: a insistência em vencer o obstáculo da multidão."
+   }
+  ]
+ },
+ "Luk.5.21": {
+  "t": "Os escribas e os fariseus começaram a pensar consigo: “Quem é este que diz blasfêmias? Quem pode perdoar pecados, senão somente Deus?”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "escribas",
+    "termo": "γραμματεῖς (grammateis)",
+    "titulo": "grammateus",
+    "texto": "Primeira ocorrência em Lucas. O grammateus era o especialista na Lei de Moisés, que a copiava, interpretava e ensinava, e por isso tinha autoridade para decidir questões legais. No v. 17 são chamados “mestres da Lei”. Muitos eram fariseus (v. 30), mas não todos."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "começaram a pensar consigo",
+    "termo": "ἤρξαντο διαλογίζεσθαι (ērxanto dialogizesthai)",
+    "titulo": "dialogizomai",
+    "texto": "Dialogizomai pode ser discutir entre si ou arrazoar consigo. O v. 22 (“no coração”) mostra que é o pensamento não dito; por isso “pensar consigo”. “Dizendo” (legontes), no grego, introduz o conteúdo do pensamento, não uma fala em voz alta."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Quem pode perdoar pecados, senão somente Deus?",
+    "termo": "τίς δύναται ἁμαρτίας ἀφεῖναι εἰ μὴ μόνος ὁ θεός;",
+    "titulo": "a acusação de blasfêmia",
+    "texto": "O raciocínio dos escribas é correto: no AT, só Deus perdoa os pecados contra ele (Êx 34:6-7; Sl 103:3; Is 43:25). Os sacerdotes declaravam o perdão no culto, mas não perdoavam em nome próprio. Para eles, Jesus estava tomando para si uma prerrogativa divina, o que seria blasfêmia, crime punido com a morte (Lv 24:16). O relato não nega a premissa; desafia a conclusão: quem é Jesus?"
+   }
+  ]
+ },
+ "Luk.5.22": {
+  "t": "Mas Jesus percebeu os pensamentos deles e lhes respondeu: “Por que vocês pensam assim no coração?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Por que vocês pensam assim no coração?",
+    "termo": "τί διαλογίζεσθε ἐν ταῖς καρδίαις ὑμῶν;",
+    "titulo": "ti: “o que” ou “por que”",
+    "texto": "Ti pode ser “o que” ou “por que”. “Por que” dá melhor sentido, já que Jesus conhece o conteúdo do pensamento deles. Na antropologia bíblica, o coração é a sede do pensamento e da decisão, não só dos sentimentos."
+   }
+  ]
+ },
+ "Luk.5.23": {
+  "t": "O que é mais fácil, dizer: ‘Os seus pecados estão perdoados’, ou dizer: ‘Levante-se e ande’?",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "O que é mais fácil",
+    "termo": "τί ἐστιν εὐκοπώτερον",
+    "titulo": "o fácil e o difícil",
+    "texto": "É mais fácil dizer “os seus pecados estão perdoados”, porque ninguém pode verificar se aconteceu; dizer “levante-se e ande” exige um resultado visível. Jesus faz a cura visível como prova do perdão invisível. O Textus Receptus e o Texto Bizantino trazem egeirai em vez de egeire, duas formas do mesmo imperativo."
+   }
+  ]
+ },
+ "Luk.5.24": {
+  "t": "Pois, para que vocês saibam que o Filho do Homem tem autoridade na terra para perdoar pecados” — disse ao paralítico: “Eu lhe digo: levante-se, pegue a sua maca e vá para casa.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "o Filho do Homem",
+    "termo": "ὁ υἱὸς τοῦ ἀνθρώπου (ho huios tou anthrōpou)",
+    "titulo": "Filho do Homem",
+    "texto": "Primeira ocorrência em Lucas. É o modo preferido de Jesus se referir a si mesmo, e quase só ele o usa. Em hebraico e aramaico, “filho de homem” pode significar simplesmente “ser humano” (Sl 8:4; Ez 2:1), mas o título ecoa sobretudo Dn 7:13-14, onde “alguém como um filho de homem” vem com as nuvens e recebe de Deus autoridade, glória e reino. Aqui a ligação com Daniel é clara: o Filho do Homem tem exousia, “autoridade”, a mesma palavra da Septuaginta em Dn 7:14. Lucas usa o título para o ministério presente de Jesus (5:24; 7:34), para o seu sofrimento (9:22) e para a sua vinda em glória (21:27)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "pecados” — disse ao paralítico",
+    "termo": "ἁμαρτίας, εἶπεν τῷ παραλελυμένῳ",
+    "titulo": "a frase interrompida",
+    "texto": "Jesus começa a frase dirigida aos escribas e a interrompe para falar ao paralítico; o narrador intercala “disse ao paralítico”. O travessão marca a quebra, que está no grego e nos três Evangelhos (Mt 9:6; Mc 2:10). O “pois” traduz de, que aqui retoma o argumento do v. 23."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "tem autoridade na terra",
+    "termo": "ἐξουσίαν ἔχει ἐπὶ τῆς γῆς",
+    "titulo": "exousia",
+    "texto": "“Na terra” se opõe ao céu, onde se esperava o perdão de Deus: o perdão, que pertence a Deus, é dado agora na terra pela palavra de Jesus."
+   }
+  ]
+ },
+ "Luk.5.25": {
+  "t": "No mesmo instante ele se levantou diante deles, pegou aquilo em que estava deitado e foi para casa, glorificando a Deus.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "No mesmo instante",
+    "termo": "παραχρῆμα (parachrēma)",
+    "titulo": "parachrēma",
+    "texto": "Advérbio frequente em Lucas e Atos (dez vezes no Evangelho, seis em Atos), quase sempre nos relatos de cura: a cura é imediata e completa."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "aquilo em que estava deitado",
+    "termo": "ἄρας ἐφ᾽ ὃ κατέκειτο",
+    "titulo": "“o sobre que jazia”",
+    "texto": "Lit. “levantando aquilo sobre o qual jazia”. A forma indireta destaca a inversão: o homem agora carrega o que antes o carregava."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "glorificando a Deus",
+    "termo": "δοξάζων τὸν θεόν (doxazōn ton theon)",
+    "titulo": "dar glória a Deus",
+    "texto": "Glorificar a Deus é a resposta típica às obras de Jesus em Lucas (2:20; 7:16; 13:13; 17:15; 18:43; 23:47). Ele não é glorificado no lugar de Deus; Deus é glorificado pelo que faz por meio dele."
+   }
+  ]
+ },
+ "Luk.5.26": {
+  "t": "Todos ficaram assombrados e glorificavam a Deus. Cheios de temor, diziam: “Hoje vimos coisas extraordinárias!”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "ficaram assombrados",
+    "termo": "ἔκστασις ἔλαβεν ἅπαντας (ekstasis elaben hapantas)",
+    "titulo": "“o assombro tomou a todos”",
+    "texto": "Lit. “o assombro tomou a todos”. Ekstasis é estar fora de si, o espanto que tira a pessoa do estado normal; não tem aqui o sentido religioso de “êxtase”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "coisas extraordinárias",
+    "termo": "παράδοξα (paradoxa)",
+    "titulo": "paradoxos, hápax",
+    "texto": "Única ocorrência no NT: “o que vai contra a expectativa” (para + doxa, “opinião”), algo inesperado e incrível. Era palavra usada para milagres e feitos espantosos. Daí “paradoxo”, mas o sentido moderno de contradição não cabe aqui."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Hoje",
+    "termo": "σήμερον (sēmeron)",
+    "titulo": "o “hoje”",
+    "texto": "Veja a nota em 2:11. O “hoje” da salvação anunciado em Nazaré (4:21) se vê na cura e no perdão."
+   }
+  ]
+ },
+ "Luk.5.27": {
+  "t": "Depois disso, Jesus saiu e viu um cobrador de impostos chamado Levi, sentado na coletoria, e lhe disse: “Siga-me.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "coletoria",
+    "termo": "τελώνιον (telōnion)",
+    "titulo": "telōnion",
+    "texto": "O posto onde se cobravam taxas e pedágios (só aqui e nos paralelos, Mt 9:9; Mc 2:14). Cafarnaum ficava numa rota comercial, perto da fronteira do território de Herodes Antipas, e as mercadorias pagavam taxa ao passar. Sobre os cobradores de impostos, veja a nota em 3:12."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Levi",
+    "termo": "Λευίν (Leuin)",
+    "titulo": "Levi e Mateus",
+    "texto": "Marcos (2:14) também o chama Levi; no paralelo de Mateus (9:9), o mesmo homem se chama Mateus, e na lista dos Doze em Lucas (6:15) aparece Mateus, não Levi. Era comum ter dois nomes, e a identificação de Levi com Mateus é a mais aceita."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Siga-me",
+    "termo": "ἀκολούθει μοι (akolouthei moi)",
+    "titulo": "imperativo presente",
+    "texto": "O imperativo presente indica um seguimento contínuo: não é ir com Jesus por uma tarde, mas tornar-se seu discípulo."
+   }
+  ]
+ },
+ "Luk.5.28": {
+  "t": "Ele deixou tudo, levantou-se e começou a segui-lo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "começou a segui-lo",
+    "termo": "ἠκολούθει (ēkolouthei)",
+    "titulo": "imperfeito",
+    "texto": "O texto-base traz o imperfeito ēkolouthei, que indica ação que começa e continua: “passou a segui-lo”. O Textus Receptus e o Texto Bizantino trazem o aoristo ēkolouthēsen (“seguiu-o”), que descreve o ato. Para um cobrador de impostos, deixar o posto era decisão difícil de desfazer, mais que para um pescador, que podia voltar ao barco (Jo 21:3)."
+   }
+  ]
+ },
+ "Luk.5.29": {
+  "t": "Levi ofereceu a Jesus um grande banquete em sua casa. Havia uma grande multidão de cobradores de impostos e de outras pessoas que estavam à mesa com eles.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "um grande banquete",
+    "termo": "δοχὴν μεγάλην (dochēn megalēn)",
+    "titulo": "dochē",
+    "texto": "Dochē (só aqui e em 14:13) é a recepção, o banquete para convidados. Levi celebra o seu chamado apresentando Jesus aos colegas e amigos."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "estavam à mesa",
+    "termo": "κατακείμενοι (katakeimenoi)",
+    "titulo": "reclinados",
+    "texto": "Lit. “estavam reclinados”. Nos banquetes, os convidados se reclinavam em divãs baixos, apoiados no cotovelo esquerdo, com os pés para fora. “Estar à mesa” dá o sentido em português; o detalhe explica cenas como 7:38."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "outras pessoas",
+    "termo": "ἄλλων (allōn)",
+    "titulo": "os “outros”",
+    "texto": "Lucas diz “outros”; no v. 30, os fariseus os chamam de “pecadores”. Comer juntos era sinal de comunhão e aceitação; por isso a refeição escandaliza."
+   }
+  ]
+ },
+ "Luk.5.30": {
+  "t": "Os fariseus e os seus escribas murmuravam contra os discípulos de Jesus, dizendo: “Por que vocês comem e bebem com os cobradores de impostos e pecadores?”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "os seus escribas",
+    "termo": "οἱ γραμματεῖς αὐτῶν (hoi grammateis autōn)",
+    "titulo": "“os escribas deles”",
+    "texto": "Lit. “os escribas deles”, isto é, os escribas que pertenciam ao grupo dos fariseus (cf. Mc 2:16: “os escribas dos fariseus”). Nem todos os escribas eram fariseus."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "murmuravam",
+    "termo": "ἐγόγγυζον (egongyzon)",
+    "titulo": "a murmuração",
+    "texto": "Gongyzō é a palavra da Septuaginta para a murmuração de Israel no deserto contra Moisés e contra Deus (Êx 16:7-8; Nm 14:27). Lucas repete o quadro em 15:2 e 19:7: a acolhida de pecadores por Jesus provoca a murmuração dos que se consideram justos."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "pecadores",
+    "termo": "ἁμαρτωλῶν (hamartōlōn)",
+    "titulo": "hamartōlos",
+    "texto": "Para os fariseus, “pecadores” eram não só os que cometiam pecados graves, mas os que viviam sem observar a Lei e as regras de pureza, ou que tinham ofícios tidos por desonestos. Jesus não nega que sejam pecadores (v. 32); muda o que se faz com eles."
+   }
+  ]
+ },
+ "Luk.5.31": {
+  "t": "Jesus lhes respondeu: “Não são os que têm saúde que precisam de médico, mas os que estão doentes.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "precisam de médico",
+    "termo": "χρείαν ἔχουσιν ... ἰατροῦ",
+    "titulo": "o médico",
+    "texto": "Provérbio conhecido também fora da Bíblia. Jesus se apresenta como médico, retomando o tema de 4:23 (“Médico, cure a si mesmo”). Os que se julgam sãos não procuram o médico."
+   }
+  ]
+ },
+ "Luk.5.32": {
+  "t": "Eu não vim chamar justos, mas pecadores, ao arrependimento.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Eu não vim",
+    "termo": "οὐκ ἐλήλυθα (ouk elēlytha)",
+    "titulo": "perfeito",
+    "texto": "O perfeito resume toda a missão de Jesus: ele veio, e o propósito da vinda continua. O “eu” foi acrescentado para dar o tom de declaração de propósito que o verbo tem em grego."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "justos",
+    "termo": "δικαίους (dikaious)",
+    "titulo": "quem são os justos?",
+    "texto": "Jesus não diz que existem pessoas sem necessidade de arrependimento (cf. 13:3, 5). Ele fala dos que se consideram justos (18:9) e que, por isso, não se veem doentes. Só Lucas acrescenta “ao arrependimento”: o chamado não deixa o pecador como está."
+   }
+  ]
+ },
+ "Luk.5.33": {
+  "t": "Eles lhe disseram: “Os discípulos de João jejuam com frequência e fazem orações, e também os dos fariseus; mas os seus comem e bebem.”",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "Os discípulos de João",
+    "termo": "οἱ μαθηταὶ Ἰωάννου / διὰ τί οἱ μαθηταὶ",
+    "titulo": "afirmação ou pergunta",
+    "texto": "No texto-base é uma afirmação. Tregelles, o Textus Receptus e o Texto Bizantino acrescentam dia ti (“por quê?”) no início, fazendo da frase uma pergunta: “Por que os discípulos de João jejuam ...?”, provável assimilação a Mt 9:14 e Mc 2:18. O sentido de crítica é o mesmo."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "jejuam com frequência",
+    "termo": "νηστεύουσιν πυκνὰ (nēsteuousin pykna)",
+    "titulo": "o jejum",
+    "texto": "A Lei só prescrevia o jejum no Dia da Expiação (Lv 16:29). Os fariseus mais piedosos jejuavam duas vezes por semana (18:12), e os discípulos de João seguiam a austeridade do seu mestre (7:33). Pykna (três vezes no NT) é “com frequência”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "fazem orações",
+    "termo": "δεήσεις ποιοῦνται (deēseis poiountai)",
+    "titulo": "deēsis",
+    "texto": "Deēsis é a súplica, o pedido. Aqui provavelmente se refere às orações fixas, em horários e fórmulas próprias de cada grupo (cf. 11:1)."
+   }
+  ]
+ },
+ "Luk.5.34": {
+  "t": "Ele lhes respondeu: “Vocês podem obrigar os convidados do casamento a jejuar enquanto o noivo está com eles?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "convidados do casamento",
+    "termo": "τοὺς υἱοὺς τοῦ νυμφῶνος (tous huious tou nymphōnos)",
+    "titulo": "“os filhos da câmara nupcial”",
+    "texto": "Lit. “os filhos da sala de núpcias”. Expressão semítica para os amigos do noivo e convidados da festa. Nymphōn (três vezes no NT) é a sala onde se celebrava o casamento. A festa durava dias, e durante ela não se jejuava."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "obrigar os convidados do casamento a jejuar",
+    "termo": "ποιῆσαι νηστεῦσαι (poiēsai nēsteusai)",
+    "titulo": "“fazer jejuar”",
+    "texto": "Só Lucas tem “fazer jejuar”: a pergunta se dirige aos críticos, como se eles quisessem impor o jejum aos discípulos. O texto-base não traz o nome “Jesus” como sujeito, que aparece no NA28, no THGNT e em outras edições; o sentido é o mesmo. O Textus Receptus e o Texto Bizantino trazem o infinitivo presente nēsteuein, sem diferença na tradução."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "o noivo",
+    "termo": "ὁ νυμφίος (ho nymphios)",
+    "titulo": "o noivo",
+    "texto": "No AT, Deus é o noivo ou marido de Israel (Is 54:5; 62:5; Os 2:19-20). Jesus se apresenta nesse papel, e a sua presença é tempo de festa, não de luto."
+   }
+  ]
+ },
+ "Luk.5.35": {
+  "t": "Mas virão dias em que o noivo lhes será tirado; então, naqueles dias, eles jejuarão.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "lhes será tirado",
+    "termo": "ἀπαρθῇ (aparthē)",
+    "titulo": "apairō",
+    "texto": "Apairō (só aqui e nos paralelos, Mt 9:15; Mc 2:20) é “ser levado embora, arrancado”. Na Septuaginta de Is 53:8, a vida do Servo “é tirada” (com o verbo simples, airetai). É a primeira alusão, ainda velada, à morte violenta de Jesus. A tradução junta “virão dias” e “quando ... for tirado” numa só oração (“virão dias em que”), mais natural em português."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "eles jejuarão",
+    "termo": "νηστεύσουσιν (nēsteusousin)",
+    "titulo": "o jejum depois",
+    "texto": "Jesus não abole o jejum; muda o seu motivo. Depois da sua partida, os discípulos voltarão a jejuar, como mostra a igreja de Atos (At 13:2-3; 14:23)."
+   }
+  ]
+ },
+ "Luk.5.36": {
+  "t": "Contou-lhes também uma parábola: “Ninguém rasga um remendo de uma roupa nova para pô-lo numa roupa velha. Se o fizer, terá rasgado a nova, e o remendo tirado da nova não combinará com a velha.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "parábola",
+    "termo": "παραβολήν (parabolēn)",
+    "titulo": "parabolē",
+    "texto": "Parabolē é comparação, ilustração tirada da vida comum para ensinar algo sobre Deus e o seu Reino. Pode ser uma história completa ou um simples dito figurado, como aqui e em 4:23 (“provérbio”)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Ninguém rasga um remendo de uma roupa nova",
+    "termo": "οὐδεὶς ἐπίβλημα ἀπὸ ἱματίου καινοῦ σχίσας",
+    "titulo": "a forma de Lucas",
+    "texto": "Em Marcos (2:21) e Mateus (9:16), o problema é o pano novo que encolhe e repuxa a roupa velha. Em Lucas, o absurdo é duplo: estraga-se a roupa nova para cortar o remendo, e o remendo novo não combina com a velha. O novo trazido por Jesus não serve para remendar o antigo; exige uma forma nova."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Ninguém rasga um remendo de uma roupa nova",
+    "termo": "ἀπὸ ... σχίσας",
+    "titulo": "a forma do Textus Receptus",
+    "texto": "O Textus Receptus e o Texto Bizantino não trazem “rasgando” (schisas) nem a preposição apo, e leem o presente nos dois verbos finais: “Ninguém põe remendo de roupa nova em roupa velha; do contrário, a nova se rasga, e o remendo da nova não combina com a velha”. A imagem é a mesma."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Se o fizer",
+    "termo": "εἰ δὲ μή γε (ei de mē ge)",
+    "titulo": "“se não, de fato”",
+    "texto": "Lit. “caso contrário”, fórmula que introduz a consequência de não seguir a regra anterior."
+   }
+  ]
+ },
+ "Luk.5.37": {
+  "t": "E ninguém põe vinho novo em odres velhos. Se o fizer, o vinho novo arrebentará os odres, ele mesmo se derramará, e os odres se perderão.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "odres",
+    "termo": "ἀσκοὺς (askous)",
+    "titulo": "askos",
+    "texto": "Recipiente feito de couro de cabra, costurado, para guardar líquidos. O odre velho já está esticado e ressecado e arrebenta com a pressão do vinho novo ainda em fermentação."
+   }
+  ]
+ },
+ "Luk.5.38": {
+  "t": "Ao contrário, vinho novo deve ser posto em odres novos.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "deve ser posto",
+    "termo": "βλητέον (blēteon)",
+    "titulo": "blēteon, hápax",
+    "texto": "Adjetivo verbal de ballō (“pôr, lançar”), única ocorrência no NT. Expressa necessidade: “é preciso pôr”."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "vinho novo deve ser posto em odres novos",
+    "termo": "καὶ ἀμφότεροι συντηροῦνται",
+    "titulo": "“e ambos se conservam”",
+    "texto": "Tregelles, o Textus Receptus e o Texto Bizantino acrescentam “e ambos se conservam”, palavras que vêm do paralelo de Mt 9:17. O texto-base termina sem elas."
+   }
+  ]
+ },
+ "Luk.5.39": {
+  "t": "E ninguém que tenha bebido o vinho velho quer o novo, pois diz: ‘O velho é bom’.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "O velho é bom",
+    "termo": "ὁ παλαιὸς χρηστός ἐστιν",
+    "titulo": "a ironia final",
+    "texto": "Só Lucas traz este versículo. Não é elogio da tradição contra a novidade de Jesus, mas observação irônica: quem se acostumou ao velho nem quer provar o novo. Explica por que os fariseus e escribas resistem à mensagem de Jesus. Alguns veem também um alerta aos discípulos de que a novidade do Reino encontrará resistência natural."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "O velho é bom",
+    "termo": "χρηστός / χρηστότερος",
+    "titulo": "“bom” ou “melhor”",
+    "texto": "O texto-base traz o positivo chrēstos (“bom”); o Textus Receptus e o Texto Bizantino, o comparativo chrēstoteros (“melhor”), e acrescentam eutheōs (“imediatamente”: “ninguém ... quer logo o novo”). Com “bom”, a frase diz que quem bebeu o velho está satisfeito e não sente falta do novo. Alguns manuscritos da tradição ocidental omitem o versículo inteiro."
+   }
+  ]
+ }
+}

@@ -1,0 +1,114 @@
+[
+ {
+  "ref": "Gal.3.21",
+  "gravidade": "alta",
+  "problema": "A nota tc afirma que o Textus Receptus e o Texto Bizantino omitem 'an' (ἂν) em 'ὄντως ἐκ νόμου ἂν ἦν'. A folha de 3.21 não traz nenhuma linha VARIANTE, então a afirmação não tem base na folha e, até onde se sabe, o TR e o Bizantino trazem 'ἂν' (a variação conhecida é ἐν νόμῳ/ἐκ νόμου). Dado de edição inventado ou não confirmado, contra a regra de rigor nas fontes.",
+  "sugestao": "Apagar a nota tc de 3.21. Se quiser manter algo, só se confirmar na fonte; sem VARIANTE na folha, nenhuma nota tc.",
+  "decisao": "aceito: a folha atual não traz linha VARIANTE em 3:21, e a diferença do TR, se houver, seria só de posição de an, sem efeito na tradução; a nota tc foi apagada."
+ },
+ {
+  "ref": "Gal.5.21",
+  "gravidade": "media",
+  "problema": "A nota sn diz que Paulo menciona o Reino de Deus 'sempre como herança futura'. É falso: Rm 14:17 e 1Co 4:20 falam do Reino como realidade presente.",
+  "sugestao": "Trocar por: 'Paulo usa a imagem do Reino de Deus também como herança futura (1Co 6:9-10; 15:50; cf. Gl 5:21), embora em Rm 14:17 e 1Co 4:20 apareça como realidade presente.'",
+  "decisao": "aceito: Rm 14:17 e 1Co 4:20 tratam o Reino como realidade presente; a nota agora diz que Paulo o apresenta como herança futura e também como realidade presente."
+ },
+ {
+  "ref": "Gal.6.16",
+  "gravidade": "media",
+  "problema": "A nota atribui a P. Richardson (1969) a leitura (3), 'Israel étnico a ser alcançado com misericórdia'. Richardson (Israel in the Apostolic Church) costuma ser citado para a leitura de judeus que creem (ou para uma posição própria), não como defensor do Israel étnico futuro de Rm 11. Atribuição duvidosa; o guia pede nomes só com segurança.",
+  "sugestao": "Remover o nome de Richardson, ou citar para a leitura (3) um autor seguro (por exemplo, F. Mussner), e só se tiver certeza. Na dúvida: 'defendida por alguns comentaristas'.",
+  "decisao": "aceito: a atribuição a P. Richardson não é segura; o nome foi retirado e a leitura (3) ficou atribuída a “alguns comentaristas”, sem novo nome."
+ },
+ {
+  "ref": "Gal.3.4",
+  "gravidade": "media",
+  "problema": "'experimentaram' para ἐπάθετε é sentido raro de paschō. A grande maioria das leituras entende 'sofreram' (perseguição ou aflições). O argumento da nota, de que a carta não fala de sofrimentos dos gálatas, é fraco: 4:29, 5:11 e 6:12 falam de perseguição, e o contexto 'em vão' combina bem com sofrimento. A tradução esconde o sentido mais provável.",
+  "sugestao": "Texto: 'Será que vocês sofreram tantas coisas em vão?' (ou 'passaram por tantas coisas'), e nota explicando a alternativa neutra 'experimentaram'. Manter revisar: true.",
+  "decisao": "aceito em parte: o texto mantém “experimentaram”, porque o contexto imediato (vv. 2-5) é a experiência do Espírito e o sentido neutro de paschō é atestado; mas o argumento da nota foi corrigido para reconhecer 4:29 e 5:11, e a nota continua com revisar."
+ },
+ {
+  "ref": "Gal.2.11",
+  "gravidade": "media",
+  "problema": "'estava claramente errado' para κατεγνωσμένος ἦν: perde o passivo (lit. 'estava condenado/condenado por si mesmo') e 'claramente' é acréscimo; a expressão coincide com a tradução inglesa 'clearly in the wrong' (NIV). A nota cita o literal, mas o texto principal suaviza e calca tradução protegida.",
+  "sugestao": "Texto: 'porque era condenável' ou 'porque se tornara digno de condenação'; manter a nota com o literal 'estava condenado'.",
+  "decisao": "aceito: “claramente” era acréscimo e coincidia com tradução protegida; o texto passou a “porque ele estava condenado”, com a nota explicando o passivo."
+ },
+ {
+  "ref": "Gal.1.6",
+  "gravidade": "media",
+  "problema": "A nota sn diz que 'em todas as outras cartas de Paulo às igrejas' vem ação de graças depois da saudação. 2Co e Ef abrem com bênção (eulogētos), não com eucharistō; e 1-2Tm e Tt não têm nenhuma das duas. Generalização falsa.",
+  "sugestao": "Reescrever: 'Nas cartas de Paulo às igrejas, depois da saudação vem normalmente ação de graças ou bênção (Rm 1:8; 1Co 1:4; 2Co 1:3; Ef 1:3). Aqui falta, e vem a censura.'",
+  "decisao": "aceito: a generalização era falsa; a nota agora diz “normalmente uma ação de graças ou uma bênção” com Rm 1:8; 1Co 1:4; 2Co 1:3; Fp 1:3."
+ },
+ {
+  "ref": "Gal.4.6",
+  "gravidade": "media",
+  "problema": "Nota tc truncada e contraditória: 'A mudança de “vocês” para “nossos” é típica de Paulo e foi provavelmente uniformizada pelos copistas.' O texto crítico tem ἡμῶν ('nossos') e o TR/Bizantino ὑμῶν ('seus'); a frase inverte ou confunde a direção da mudança.",
+  "sugestao": "Reescrever: 'O texto crítico traz “nossos corações”; o TR e o Bizantino, “seus corações” (hymōn), provavelmente por harmonização com “vocês são filhos” da oração anterior. Sem efeito na tradução.'",
+  "decisao": "aceito: a nota tc foi reescrita dizendo claramente que o texto crítico traz hēmōn e o TR/Bizantino hymōn, por provável harmonização."
+ },
+ {
+  "ref": "Gal.1.4",
+  "gravidade": "baixa",
+  "problema": "A nota tc afirma que 'o Textus Receptus' traz peri (e que o Bizantino também). A folha só diz 'ὑπὲρ τοῦ: ausente em Bizantino' e 'τοῦ: ausente em TR'; a leitura peri do TR não aparece na folha.",
+  "sugestao": "Limitar-se ao que a folha mostra: 'O Texto Bizantino não traz hyper (traz outra preposição, peri)'; tirar a afirmação sobre o TR ou conferir.",
+  "decisao": "aceito: pela folha só o Bizantino não traz hyper; a nota agora atribui peri só ao Texto Bizantino e põe o TR com o texto crítico."
+ },
+ {
+  "ref": "Gal.2.16",
+  "gravidade": "baixa",
+  "problema": "A nota tc diz que TR e Bizantino 'omitem de e trazem dioti em vez de hoti no fim'. A folha registra 'δὲ ὅτι' como ausente em TR/Bizantino (unidade conjunta) e não registra 'dioti'. Dado não confirmado pela folha.",
+  "sugestao": "Conferir contra a folha e reduzir a: 'O TR e o Texto Bizantino têm conectivos diferentes no início da oração. Sem efeito na tradução.'",
+  "decisao": "aceito: a folha não registra dioti; a nota foi reduzida a “omitem de e têm outra forma e ordem na oração final”."
+ },
+ {
+  "ref": "Gal.1.13",
+  "gravidade": "baixa",
+  "problema": "ποτε em 'τὴν ἐμὴν ἀναστροφήν ποτε ἐν τῷ Ἰουδαϊσμῷ' ficou sem tradução; ele marca o passado ('outrora'), importante porque contrasta com 'agora' do v. 23.",
+  "sugestao": "'do meu modo de vida de outrora no judaísmo' ou 'do meu modo de vida, antes, no judaísmo'.",
+  "decisao": "aceito: pote foi traduzido (“do meu modo de vida de outrora no judaísmo”), preservando o contraste com o v. 23."
+ },
+ {
+  "ref": "Gal.2.15",
+  "gravidade": "baixa",
+  "problema": "A nota cita Sl 9:17 como exemplo de judeus chamarem gentios de 'pecadores'. Sl 9:17 (heb. 9:18) fala de 'todas as nações que se esquecem de Deus', sem o termo 'pecadores'. Referência fraca.",
+  "sugestao": "Trocar por referências que usam hamartōloi para gentios (por exemplo 1Mc 1:34, Tb 13:6 conforme a tradição) ou deixar só 1Sm 15:18 e dizer 'cf. o uso judaico comum'.",
+  "decisao": "aceito em parte: Sl 9 continua, porque na Septuaginta (9:18) hamartōloi está em paralelo com “todas as nações”, o que a nota agora explica; acrescentei 1Mc 1:34 como apoio."
+ },
+ {
+  "ref": "Gal.3.7",
+  "gravidade": "baixa",
+  "problema": "'os que vivem pela fé' para οἱ ἐκ πίστεως (e 'vivem pela fé' de novo em 3.9) acrescenta o verbo 'viver', que não está no grego, e antecipa o v. 11. A fórmula grega repetida (ἐκ πίστεως vv. 7, 9, 11, 12, 22) perde a identidade formal.",
+  "sugestao": "'os que são da fé' / 'os que têm a fé como base' (3.7, 3.9), com a nota atual sobre o sentido.",
+  "decisao": "aceito: 3:7 e 3:9 passaram a “os que são da fé”, mantendo a fórmula ek pisteōs; a nota explica o sentido e a repetição."
+ },
+ {
+  "ref": "Gal.3.15",
+  "gravidade": "baixa",
+  "problema": "A nota afirma sentido 'comparativo' ('do mesmo modo, até mesmo') para ὅμως em 1Co 14:7 e aqui. ὅμως é lexicalmente 'contudo, apesar disso'; o uso aqui é debatido, mas o sentido comparativo não está estabelecido. A nota apresenta como se fosse sentido seguro.",
+  "sugestao": "Dizer que ὅμως normalmente é 'contudo' e que aqui se discute o sentido; 'mesmo um testamento humano' é leitura possível (cf. BDAG), com ressalva.",
+  "decisao": "aceito: a nota agora diz que homōs normalmente é “contudo” e apresenta o uso aqui e em 1Co 14:7 como discutido, sem afirmar o sentido comparativo como seguro."
+ },
+ {
+  "ref": "Gal.4.24",
+  "gravidade": "baixa",
+  "problema": "γάρ de 'αὗται γάρ εἰσιν δύο διαθῆκαι' não foi traduzido, e 'essas mulheres' é acréscimo (o grego diz só 'estas').",
+  "sugestao": "'Essas coisas são ditas em alegoria, pois estas são duas alianças.' (se quiser explicitar 'mulheres', registrar em nota)",
+  "decisao": "aceito em parte: gar foi traduzido (“pois”); “mulheres” foi mantido para clareza, mas agora registrado em nota como acréscimo."
+ },
+ {
+  "ref": "Gal.5.4",
+  "gravidade": "baixa",
+  "problema": "κατηργήθητε é passivo ('foram anulados/separados'); 'se desligaram de Cristo' transforma o passivo em ação deles e perde a ideia de que o vínculo é desfeito.",
+  "sugestao": "'ficaram desligados de Cristo' / 'foram separados de Cristo', mantendo o passivo; a nota já traz o literal.",
+  "decisao": "aceito: o passivo foi restaurado (“foram desligados de Cristo”) e a âncora da nota acompanhou."
+ },
+ {
+  "ref": "Gal.5.16",
+  "gravidade": "baixa",
+  "problema": "'vivam' para περιπατεῖτε (lit. 'andem') aparece perto de 'se vivemos' (ζῶμεν, 5.25), confundindo dois verbos; em 5.25 o leitor perde o contraste ζῶμεν/στοιχῶμεν, e o termo 'andar' é a metáfora que liga 5.16, 5.25 e 5.18.",
+  "sugestao": "5.16 'Andem pelo Espírito'; manter 5.25 'Se vivemos pelo Espírito, andemos também em sintonia com o Espírito'.",
+  "decisao": "aceito: 5:16 passou a “andem pelo Espírito”, distinguindo peripateō de zaō (5:25); a nota explica a escolha."
+ }
+]

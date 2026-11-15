@@ -1,0 +1,116 @@
+# Triagem para revisão humana: Efésios
+
+Pontos que um revisor com hebraico/grego deve conferir antes de o texto ser considerado final.
+
+- Eph.1.1: ausente em manuscritos antigos: As palavras “em Éfeso” faltam em alguns dos manuscritos mais antigos (𝔓46 e, na forma original, os códices Sinaítico e Vaticano), e Orígenes e Basílio conheciam cópias sem elas. Marcião, no século II, chamava esta carta de “aos laodicenses”. Sem a expressão, o grego fica estranho (“aos santos que estão, e fiéis”), o que indica que algo estava escrito ali. Daí a hipótese de uma carta circular, enviada a várias igrejas da Ásia, com um espaço para o nome do destino; talvez seja a carta “de Laodiceia” de Cl 4:16. A grande maioria dos manuscritos traz “em Éfeso”, e todas as edições usadas pela APV mantêm as palavras no texto; esta nota registra a dúvida.
+- Eph.1.4: palavra rara κατενώπιον (κατενώπιον, G2714): raro (3x)
+- Eph.1.6: palavra rara ἐχαρίτωσεν (χαριτόω, G5487): raro (2x)
+- Eph.1.8: palavra rara φρονήσει (φρόνησις, G5428): raro (2x)
+- Eph.1.9: palavra rara προέθετο (προτίθημι, G4388): raro (3x)
+- Eph.1.10: palavra rara ἀνακεφαλαιώσασθαι (ἀνακεφαλαιόομαι, G0346): raro (2x)
+- Eph.1.11: palavra rara ἐκληρώθημεν (κληρόω, G2820): hapax
+- Eph.1.12: palavra rara προηλπικότας (προελπίζω, G4276): hapax
+- Eph.1.14: palavra rara ἀρραβὼν (ἀρραβών, G0728): raro (3x)
+- Eph.1.15: omissão em manuscritos antigos: Alguns manuscritos antigos não trazem “o amor”, e a frase fica: “a fé no Senhor Jesus e a que há para com todos os santos”. A omissão se explica pela semelhança das terminações (tēn ... tēn), que levou o copista a pular palavras; a forma com “o amor” corresponde ao par fé e amor de Cl 1:4.
+- Eph.1.19: palavra rara μέγεθος (μέγεθος, G3174): hapax
+- Eph.1.21: palavra rara ὑπεράνω (ὑπεράνω, G5231): raro (3x)
+- Eph.1.23: um texto difícil: Duas questões. (1) Plērōma pode estar em aposição a “igreja” (a igreja é a plenitude de Cristo, aquela que ele enche com sua presença) ou a Cristo (v. 22, “Cristo, a plenitude de Deus”, cf. Cl 1:19; 2:9). (2) O particípio plēroumenou pode ser médio com sentido ativo (“que enche”) ou passivo (“que é completado”); a leitura passiva, já presente na época patrística (João Crisóstomo), entende que a cabeça é completada pelo corpo. A APV segue a leitura mais comum: a igreja é a plenitude de Cristo, que enche o universo inteiro (4:10). As outras leituras são sérias e antigas.
+- Eph.2.5: palavra rara συνεζωοποίησεν (συζωοποιέω, G4806): raro (2x)
+- Eph.2.6: palavra rara συνήγειρεν (συνεγείρω, G4891): raro (3x)
+- Eph.2.6: palavra rara συνεκάθισεν (συγκαθίζω, G4776): raro (2x)
+- Eph.2.10: palavra rara ποίημα (ποίημα, G4161): raro (2x)
+- Eph.2.10: palavra rara προητοίμασεν (προετοιμάζω, G4282): raro (2x)
+- Eph.2.12: palavra rara ἀπηλλοτριωμένοι (ἀπαλλοτριόω, G0526): raro (3x)
+- Eph.2.12: palavra rara πολιτείας (πολιτεία, G4174): raro (2x)
+- Eph.2.12: palavra rara ἄθεοι (ἄθεος, G0112): hapax
+- Eph.2.14: palavra rara μεσότοιχον (μεσότοιχος, G3320): hapax
+- Eph.2.16: palavra rara ἀποκαταλλάξῃ (ἀποκαταλλάσσω, G0604): raro (2x)
+- Eph.2.18: palavra rara προσαγωγὴν (προσαγωγή, G4318): raro (3x)
+- Eph.2.19: palavra rara συμπολῖται (συμπολίτης, G4847): hapax
+- Eph.2.19: palavra rara οἰκεῖοι (οἰκεῖος, G3609): raro (3x)
+- Eph.2.20: palavra rara ἀκρογωνιαίου (ἀκρογωνιαῖος, G0204): raro (2x)
+- Eph.2.21: palavra rara συναρμολογουμένη (συναρμολογέω, G4883): raro (2x)
+- Eph.2.22: palavra rara συνοικοδομεῖσθε (συνοικοδομέω, G4925): hapax
+- Eph.2.22: palavra rara κατοικητήριον (κατοικητήριον, G2732): raro (2x)
+- Eph.3.6: palavra rara σύσσωμα (σύσσωμος, G4954): hapax
+- Eph.3.6: palavra rara συμμέτοχα (συμμέτοχος, G4830): raro (2x)
+- Eph.3.8: palavra rara ἀνεξιχνίαστον (ἀνεξιχνίαστος, G0421): raro (2x)
+- Eph.3.10: palavra rara πολυποίκιλος (πολυποίκιλος, G4182): hapax
+- Eph.3.12: palavra rara προσαγωγὴν (προσαγωγή, G4318): raro (3x)
+- Eph.3.15: palavra rara πατριὰ (πατριά, G3965): raro (3x)
+- Eph.3.17: palavra rara ἐρριζωμένοι (ῥιζόω, G4492): raro (2x)
+- Eph.3.18: palavra rara ἐξισχύσητε (ἐξισχύω, G1840): hapax
+- Eph.3.18: palavra rara μῆκος (μῆκος, G3372): raro (3x)
+- Eph.4.3: palavra rara ἑνότητα (ἑνότης, G1775): raro (2x)
+- Eph.4.8: palavra rara ᾐχμαλώτευσεν (αἰχμαλωτεύω, G0162): hapax
+- Eph.4.8: palavra rara αἰχμαλωσίαν, (αἰχμαλωσία, G0161): raro (3x)
+- Eph.4.8: Salmo 68:18: Citação de Sl 68:18 (67:19 na LXX), que celebra Deus subindo ao seu monte depois da vitória. O hebraico e a Septuaginta dizem que ele “recebeu dons entre os homens”; Paulo diz “deu dons aos homens”. O Targum dos Salmos (paráfrase aramaica) também traz “deste dons”, aplicando o versículo a Moisés, que subiu ao Sinai e deu a lei ao povo; a Peshitta siríaca tem a mesma forma. Paulo pode seguir essa tradição interpretativa, ou entender que o vencedor recebe tributos para distribuí-los. Em todo caso, aplica a Cristo, ressuscitado e elevado, o que o salmo diz de Deus.
+- Eph.4.9: palavra rara κατώτερα (κατώτερος, G2737): hapax
+- Eph.4.9: katōteros, hápax: Três leituras principais. (1) A descida ao mundo dos mortos entre a morte e a ressurreição, “as partes de baixo da terra” (cf. Sl 63:9; Rm 10:7; 1Pe 3:19), base de parte da tradição do artigo “desceu aos infernos” do Credo Apostólico. (2) A encarnação: “as regiões inferiores, isto é, a terra” (genitivo de aposição), em contraste com as “alturas”. (3) A descida de Cristo no Espírito, em Pentecostes, depois da ascensão, para dar os dons (defendida por G. B. Caird e W. H. Harris). A segunda é hoje a mais comum entre os comentaristas; a primeira é a mais antiga. A tradução literal deixa as três abertas.
+- Eph.4.10: palavra rara ὑπεράνω (ὑπεράνω, G5231): raro (3x)
+- Eph.4.11: palavra rara εὐαγγελιστάς, (εὐαγγελιστής, G2099): raro (3x)
+- Eph.4.11: um grupo ou dois?: Os quatro primeiros itens têm cada um o seu artigo (tous men ... tous de); os dois últimos estão sob um só artigo. Por isso muitos leem “pastores-mestres”, um único grupo com duas funções. Mas a regra gramatical que une termos sob um só artigo não se aplica com segurança a substantivos no plural; D. B. Wallace propõe que os grupos se sobrepõem: todo pastor ensina, mas nem todo mestre é pastor. A tradução “pastores e mestres” conserva a construção do grego e não decide. Poimēn (“pastor”, lit. “quem cuida de ovelhas”) só aqui designa líderes da igreja no NT; o verbo correspondente aparece para os presbíteros em At 20:28 e 1Pe 5:2.
+- Eph.4.12: palavra rara καταρτισμὸν (καταρτισμός, G2677): hapax
+- Eph.4.13: palavra rara ἑνότητα (ἑνότης, G1775): raro (2x)
+- Eph.4.14: palavra rara κλυδωνιζόμενοι (κλυδωνίζω, G2831): hapax
+- Eph.4.14: palavra rara περιφερόμενοι (περιφέρω, G4064): raro (3x)
+- Eph.4.14: palavra rara κυβείᾳ (κυβεία, G2940): hapax
+- Eph.4.14: palavra rara μεθοδείαν (μεθοδεία, G3180): raro (2x)
+- Eph.4.15: palavra rara ἀληθεύοντες (ἀληθεύω, G0226): raro (2x)
+- Eph.4.16: palavra rara συναρμολογούμενον (συναρμολογέω, G4883): raro (2x)
+- Eph.4.16: palavra rara ἁφῆς (ἁφή, G0860): raro (2x)
+- Eph.4.16: palavra rara ἐπιχορηγίας (ἐπιχορηγία, G2024): raro (2x)
+- Eph.4.16: palavra rara αὔξησιν (αὔξησις, G0838): raro (2x)
+- Eph.4.17: palavra rara ματαιότητι (ματαιότης, G3153): raro (3x)
+- Eph.4.18: palavra rara ἐσκοτωμένοι (σκοτόω, G4656): raro (3x)
+- Eph.4.18: palavra rara ἀπηλλοτριωμένοι (ἀπαλλοτριόω, G0526): raro (3x)
+- Eph.4.18: palavra rara πώρωσιν (πώρωσις, G4457): raro (3x)
+- Eph.4.19: palavra rara ἀπηλγηκότες (ἀπαλγέω, G0524): hapax
+- Eph.4.23: palavra rara ἀνανεοῦσθαι (ἀνανεόομαι, G0365): hapax
+- Eph.4.24: palavra rara ὁσιότητι (ὁσιότης, G3742): raro (2x)
+- Eph.4.26: palavra rara ἐπιδυέτω (ἐπιδύω, G1931): hapax
+- Eph.4.26: palavra rara παροργισμῷ (παροργισμός, G3950): hapax
+- Eph.4.32: palavra rara εὔσπλαγχνοι, (εὔσπλαγχνος, G2155): raro (2x)
+- Eph.5.2: palavra rara εὐωδίας.¶ (εὐωδία, G2175): raro (3x)
+- Eph.5.4: palavra rara αἰσχρότης (αἰσχρότης, G0151): hapax
+- Eph.5.4: palavra rara μωρολογία (μωρολογία, G3473): hapax
+- Eph.5.4: palavra rara εὐτραπελία (εὐτραπελία, G2160): hapax
+- Eph.5.4: palavra rara ἀνῆκεν (ἀνήκω, G0433): raro (3x)
+- Eph.5.6: palavra rara ἀπατάτω (ἀπατάω, G0538): raro (3x)
+- Eph.5.7: palavra rara συμμέτοχοι (συμμέτοχος, G4830): raro (2x)
+- Eph.5.11: palavra rara συγκοινωνεῖτε (συγκοινωνέω, G4790): raro (3x)
+- Eph.5.12: palavra rara κρυφῇ (κρυφῇ, G2931): hapax
+- Eph.5.14: palavra rara ἐπιφαύσει (ἐπιφαύσκω, G2017): hapax
+- Eph.5.15: palavra rara ἄσοφοι (ἄσοφος, G0781): hapax
+- Eph.5.18: palavra rara ἀσωτία, (ἀσωτία, G0810): raro (3x)
+- Eph.5.19: palavra rara ὕμνοις (ὕμνος, G5215): raro (2x)
+- Eph.5.21: submissão mútua?: O particípio fecha a série que descreve a vida cheia do Espírito (vv. 18-21) e, ao mesmo tempo, abre as instruções para a casa (5:22–6:9): mulheres e maridos, filhos e pais, escravos e senhores. Há duas leituras principais. Uma entende uma submissão realmente mútua entre todos os crentes, que dá o tom às relações seguintes e as transforma. Outra entende “uns aos outros” como “cada um a quem lhe corresponde” (o pronome tem esse sentido distributivo em alguns textos, como Ap 6:4), de modo que o versículo introduz relações de autoridade específicas. As duas leituras são defendidas por estudiosos sérios; o texto, de todo modo, põe todas as relações sob o temor de Cristo e impõe deveres às duas partes, inclusive às que tinham poder na sociedade antiga.
+- Eph.5.23: kephalē: autoridade ou fonte?: Kephalē em sentido figurado é debatido. Alguns (como W. Grudem) defendem que significa sobretudo “autoridade, quem governa”; outros (a partir de S. Bedale, 1954, e, com mais força, autores igualitários) acentuam o sentido de “fonte, origem” ou de “quem dá vida e sustento”. Em Efésios, Cristo é cabeça com autoridade (1:22) e também como fonte de crescimento do corpo (4:15-16); aqui a sua “chefia” se define pelo amor que se entrega (v. 25) e pelo cuidado (v. 29). A tradução “cabeça” mantém a metáfora do original sem fechá-la.
+- Eph.5.26: palavra rara λουτρῷ (λουτρόν, G3067): raro (2x)
+- Eph.5.27: palavra rara σπίλον (σπίλος, G4696): raro (2x)
+- Eph.5.27: palavra rara ῥυτίδα (ῥυτίς, G4512): hapax
+- Eph.5.29: palavra rara ἐκτρέφει (ἐκτρέφω, G1625): raro (2x)
+- Eph.5.29: palavra rara θάλπει (θάλπω, G2282): raro (2x)
+- Eph.5.31: palavra rara προσκολληθήσεται (προσκολλάω, G4347): raro (2x)
+- Eph.6.3: palavra rara μακροχρόνιος (μακροχρόνιος, G3118): hapax
+- Eph.6.4: palavra rara παροργίζετε (παροργίζω, G3949): raro (2x)
+- Eph.6.4: palavra rara ἐκτρέφετε (ἐκτρέφω, G1625): raro (2x)
+- Eph.6.4: palavra rara νουθεσίᾳ (νουθεσία, G3559): raro (3x)
+- Eph.6.6: palavra rara ὀφθαλμοδουλίαν (ὀφθαλμοδουλεία, G3787): hapax
+- Eph.6.6: palavra rara ἀνθρωπάρεσκοι (ἀνθρωπάρεσκος, G0441): raro (2x)
+- Eph.6.7: palavra rara εὐνοίας (εὔνοια, G2133): hapax
+- Eph.6.9: palavra rara ἀπειλήν, (ἀπειλή, G0547): raro (3x)
+- Eph.6.10: palavra rara λοιποῦ (λοιποῦ, G3064): raro (2x)
+- Eph.6.11: palavra rara πανοπλίαν (πανοπλία, G3833): raro (3x)
+- Eph.6.11: palavra rara μεθοδείας (μεθοδεία, G3180): raro (2x)
+- Eph.6.12: palavra rara πάλη (πάλη, G3823): hapax
+- Eph.6.12: palavra rara κοσμοκράτορας (κοσμοκράτωρ, G2888): hapax
+- Eph.6.13: palavra rara πανοπλίαν (πανοπλία, G3833): raro (3x)
+- Eph.6.15: palavra rara ὑποδησάμενοι (ὑποδέω, G5265): raro (3x)
+- Eph.6.15: palavra rara ἑτοιμασίᾳ (ἑτοιμασία, G2091): hapax
+- Eph.6.16: palavra rara θυρεὸν (θυρεός, G2375): hapax
+- Eph.6.16: palavra rara βέλη (βέλος, G0956): hapax
+- Eph.6.17: palavra rara περικεφαλαίαν (περικεφαλαία, G4030): raro (2x)
+- Eph.6.18: palavra rara προσκαρτερήσει (προσκαρτέρησις, G4343): hapax
+- Eph.6.19: palavra rara ἀνοίξει (ἄνοιξις, G0457): hapax
+- Eph.6.20: palavra rara πρεσβεύω (πρεσβεύω, G4243): raro (2x)

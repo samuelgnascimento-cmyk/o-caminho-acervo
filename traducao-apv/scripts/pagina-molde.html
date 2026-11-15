@@ -1,0 +1,131 @@
+<title>Ancient Paths Version</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;1,7..72,400&family=Noto+Serif+Hebrew:wght@400;600&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+<style>
+/* Layout: coluna de leitura à esquerda; painel do versículo (espelho + notas) à direita no desktop, abaixo do versículo no celular */
+:root{
+  --bg:#f7f4ec; --page:#fffdf7; --ink:#1d2433; --muted:#5d6475; --line:#e3dccb;
+  --navy:#1f3354; --gold:#a8791f; --gold-soft:#f1e5c6; --sel:#fbf3dc;
+  --serif:"Literata",Georgia,"Times New Roman",serif; --heb:"Noto Serif Hebrew","SBL Hebrew","Times New Roman",serif;
+  --sans:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#10151f;--page:#161d2a;--ink:#e8e3d6;--muted:#9aa2b3;--line:#2a3345;--navy:#9db7e0;--gold:#d9ad55;--gold-soft:#3a3120;--sel:#232b3b;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#10151f;--page:#161d2a;--ink:#e8e3d6;--muted:#9aa2b3;--line:#2a3345;--navy:#9db7e0;--gold:#d9ad55;--gold-soft:#3a3120;--sel:#232b3b;color-scheme:dark}
+body{background:var(--bg);color:var(--ink);font-family:var(--sans);font-size:15px;line-height:1.5}
+.wrap{max-width:1180px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:28px 48px}
+header{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:16px;border-bottom:1px solid var(--line);padding-bottom:18px}
+.marca h1{font-family:var(--serif);font-weight:600;font-size:clamp(26px,4vw,36px);margin:0;color:var(--navy);letter-spacing:.01em;text-wrap:balance}
+.marca p{margin:4px 0 0;color:var(--muted);font-size:13.5px;max-width:60ch}
+.marca p i{font-family:var(--serif)}
+nav{display:flex;flex-wrap:wrap;gap:8px}
+nav button,.caps button{font:500 13px var(--sans);border:1px solid var(--line);background:var(--page);color:var(--ink);padding:7px 14px;border-radius:999px;cursor:pointer}
+nav button[aria-pressed="true"]{background:var(--navy);border-color:var(--navy);color:var(--page)}
+.caps{display:flex;flex-wrap:wrap;gap:6px;margin:18px 0 6px}
+.caps button{padding:4px 11px;font-variant-numeric:tabular-nums}
+.caps button[aria-pressed="true"]{border-color:var(--gold);background:var(--gold-soft)}
+button:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
+.aviso{font-size:12.5px;color:var(--muted);margin:10px 0 0}
+main{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,420px);gap:32px;margin-top:18px;align-items:start}
+.texto{background:var(--page);border:1px solid var(--line);border-radius:6px;padding:28px clamp(18px,4vw,44px);min-width:0}
+.texto h2{font-family:var(--serif);font-weight:600;font-size:22px;margin:0 0 14px;color:var(--navy)}
+.texto p{font-family:var(--serif);font-size:18.5px;line-height:1.78;margin:0;max-width:62ch}
+.v{cursor:pointer;border-radius:3px;padding:1px 0;transition:background .15s}
+.v:hover{background:var(--sel)}
+.v.ativo{background:var(--gold-soft)}
+.v sup{font:600 11px var(--sans);color:var(--gold);margin-right:3px;vertical-align:.45em}
+.v sup.mk,.mk{font:600 9.5px var(--sans);color:var(--gold);margin:0 0 0 1px;vertical-align:.6em;cursor:pointer;letter-spacing:.02em}
+.mk.tc{color:var(--navy)} .mk.sn{color:var(--muted)}
+.termo{color:var(--muted);font-size:12.5px}
+.tri{font:600 10px var(--sans);color:var(--gold);text-transform:uppercase;letter-spacing:.06em}
+ul.notas li.foco{background:var(--sel);outline:4px solid var(--sel);border-radius:2px}
+.v .nn{font:500 10px var(--sans);color:var(--muted);vertical-align:.55em;margin-left:1px}
+aside{position:sticky;top:calc(env(safe-area-inset-top,0px) + 16px);max-height:calc(100vh - 32px);overflow:auto;min-width:0}
+.painel{background:var(--page);border:1px solid var(--line);border-radius:6px;padding:20px}
+.painel .ref{font:600 12px var(--sans);letter-spacing:.08em;text-transform:uppercase;color:var(--gold)}
+.painel h3{font:600 12px var(--sans);letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:20px 0 8px}
+.painel .vt{font-family:var(--serif);font-size:16px;line-height:1.6;margin:6px 0 0}
+.orig{font-size:21px;line-height:1.9;margin:4px 0 0}
+.orig[dir="rtl"]{font-family:var(--heb)} .orig[dir="ltr"]{font-family:var(--serif)}
+.tab{overflow-x:auto}
+table{border-collapse:collapse;width:100%;font-size:13px}
+td{border-top:1px solid var(--line);padding:6px 6px 6px 0;vertical-align:top}
+td.w{font-size:17px;white-space:nowrap}
+td.w.h{font-family:var(--heb)} td.w.g{font-family:var(--serif)}
+td .tr{display:block;font-size:11.5px;color:var(--muted);font-style:italic}
+td .gl{font-weight:600}
+td .mf{display:block;color:var(--muted);font-size:12px}
+ul.notas{list-style:none;margin:0;padding:0;display:grid;gap:10px}
+ul.notas li{font-size:13.5px;line-height:1.55}
+.tipo{display:inline-block;font:600 10.5px var(--sans);letter-spacing:.06em;text-transform:uppercase;padding:1px 7px;border-radius:999px;border:1px solid var(--line);color:var(--muted);margin-right:6px}
+.tipo.texto{border-color:var(--navy);color:var(--navy)} .tipo.raridade{border-color:var(--gold);color:var(--gold)} .tipo.teologia{background:var(--gold-soft);border-color:var(--gold-soft);color:var(--ink)}
+.vazio{color:var(--muted);font-size:13.5px}
+details{margin-top:14px} summary{cursor:pointer;font-size:13px;color:var(--muted)}
+  .sc{font-variant:small-caps;letter-spacing:.02em}
+footer{margin-top:28px;font-size:12.5px;color:var(--muted);max-width:80ch}
+@media (max-width:860px){main{grid-template-columns:minmax(0,1fr)} aside{position:static;max-height:none}}
+@media (prefers-reduced-motion:reduce){.v{transition:none}}
+</style>
+<div class="wrap">
+<header>
+  <div class="marca">
+    <h1>Ancient Paths Version</h1>
+    <p>Tradução original em português, com espelho palavra por palavra e aparato de notas. <i>“Perguntem pelas veredas antigas, qual é o bom caminho, e andem por ele.”</i> Jr 6:16</p>
+  </div>
+  <nav id="livros" aria-label="Livros"></nav>
+</header>
+<div class="caps" id="caps" aria-label="Capítulos"></div>
+<p class="aviso">Rascunho do piloto, produzido com IA e revisado por um segundo modelo. Aguarda revisão humana. Toque em um versículo para ver o original e a análise de cada palavra. As marcas tn, tc e sn no texto abrem a nota daquela palavra: tradução, crítica textual e estudo.</p>
+<main>
+  <section class="texto" id="texto"></section>
+  <aside><div class="painel" id="painel"></div></aside>
+</main>
+<footer>Texto-base: Texto Massorético (Leningrado, via TAHOT) e SBL Greek New Testament (via TAGNT), dados do STEPBible, Tyndale House, CC BY 4.0. Glosas, tradução e notas da APV: CC BY 4.0.</footer>
+</div>
+<script>
+const DADOS = __DADOS__;
+let livro = Object.keys(DADOS)[0], cap = '1', ativo = null;
+const $ = id => document.getElementById(id);
+const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const sc = s => esc(s).replace(/SENHOR/g, '<span class="sc">Senhor</span>');
+function comMarcas(v){
+  let t = v.texto, partes = [], ult = 0;
+  const ns = [...v.notas].sort((a,b) => a.pos - b.pos);
+  for (const x of ns){ partes.push(sc(t.slice(ult, x.pos))); partes.push(`<sup class="mk ${x.tipo}" data-m="${esc(x.marca)}">${esc(x.marca.split(' ')[0])}</sup>`); ult = x.pos; }
+  partes.push(sc(t.slice(ult)));
+  return partes.join('');
+}
+function caps(){ return [...new Set(DADOS[livro].versiculos.map(v => v.ref.split('.')[1]))]; }
+function render(){
+  $('livros').innerHTML = Object.entries(DADOS).map(([k,d]) => `<button aria-pressed="${k===livro}" data-l="${k}">${esc(d.livro.nome)}</button>`).join('');
+  $('caps').innerHTML = caps().map(c => `<button aria-pressed="${c===cap}" data-c="${c}">${c}</button>`).join('');
+  const vs = DADOS[livro].versiculos.filter(v => v.ref.split('.')[1] === cap);
+  $('texto').innerHTML = `<h2>${esc(DADOS[livro].livro.nome)} ${cap}</h2><p>` + vs.map(v => {
+    const n = v.ref.split('.')[2];
+    return `<span class="v${v.ref===ativo?' ativo':''}" tabindex="0" role="button" data-r="${v.ref}"><sup>${n}</sup>${comMarcas(v)}</span> `;
+  }).join('') + '</p>';
+  painel();
+}
+function painel(){
+  const v = DADOS[livro].versiculos.find(x => x.ref === ativo);
+  if (!v){ $('painel').innerHTML = '<div class="ref">Painel do versículo</div><p class="vazio">Escolha um versículo no texto para ver o hebraico ou o grego, a glosa e a morfologia de cada palavra, as notas de tradução e as variantes entre manuscritos.</p>'; return; }
+  const heb = livro !== 'Php' && /[֐-׿]/.test(v.espelho.map(e=>e.orig).join(''));
+  const [ , c, n] = v.ref.split('.');
+  $('painel').innerHTML = `<div class="ref">${esc(DADOS[livro].livro.nome)} ${c}:${n}</div>
+  <p class="vt">${comMarcas(v)}</p>
+  <h3>Original</h3><p class="orig" dir="${heb?'rtl':'ltr'}" lang="${heb?'he':'grc'}">${v.espelho.map(e=>esc(e.orig)).join(' ')}</p>
+  <h3>Espelho palavra por palavra</h3><div class="tab"><table><tbody>${v.espelho.map(e=>`<tr><td class="w ${heb?'h':'g'}" dir="${heb?'rtl':'ltr'}">${esc(e.orig)}<span class="tr" dir="ltr">${esc(e.translit)}</span></td><td><span class="gl">${esc(e.glosa)}</span><span class="mf">${esc(e.lema)} · ${esc(e.strong)} · ${esc(e.morf)}</span></td></tr>`).join('')}</tbody></table></div>
+  <h3>Notas de estudo</h3>${v.notas.length?`<ul class="notas">${v.notas.map(x=>`<li id="n-${esc(x.marca.replace(/[ .]/g,'-'))}"><span class="tipo ${esc(x.tipo)}">${esc(x.marca)}</span><b>${sc(x.titulo)}</b> <span class="termo">${esc(x.termo)}</span><br>${sc(x.texto)}${x.revisar?' <span class="tri">em triagem</span>':''}</li>`).join('')}</ul>`:'<p class="vazio">Sem notas neste versículo.</p>'}
+  ${v.aparato.length?`<details><summary>Aparato automático (${v.aparato.length})</summary><ul class="notas">${v.aparato.map(x=>`<li>${esc(x.texto)}</li>`).join('')}</ul></details>`:''}`;
+}
+document.addEventListener('click', e => {
+  const b = e.target.closest('[data-l]'); if (b){ livro=b.dataset.l; cap='1'; ativo=null; render(); return; }
+  const c = e.target.closest('[data-c]'); if (c){ cap=c.dataset.c; ativo=null; render(); return; }
+  const mk = e.target.closest('[data-m]');
+  const v = e.target.closest('[data-r]'); if (v){ ativo=v.dataset.r; render();
+    if (mk){ const li = document.getElementById('n-'+mk.dataset.m.replace(/[ .]/g,'-')); if (li){ li.classList.add('foco'); li.scrollIntoView({block:'nearest'}); } } if (innerWidth<=860) $('painel').scrollIntoView({behavior:'smooth',block:'start'}); }
+});
+document.addEventListener('keydown', e => { if ((e.key==='Enter'||e.key===' ') && e.target.dataset && e.target.dataset.r){ e.preventDefault(); e.target.click(); }});
+ativo = livro + '.1.1';
+render();
+</script>

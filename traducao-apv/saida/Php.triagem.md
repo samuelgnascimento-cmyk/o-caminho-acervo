@@ -1,0 +1,80 @@
+# Triagem para revisão humana: Filipenses
+
+Pontos que um revisor com hebraico/grego deve conferir antes de o texto ser considerado final.
+
+- Php.1.6: palavra rara ἐναρξάμενος (ἐνάρχομαι, G1728): raro (2x)
+- Php.1.7: palavra rara βεβαιώσει (βεβαίωσις, G0951): raro (2x)
+- Php.1.9: palavra rara αἰσθήσει (αἴσθησις, G0144): hapax
+- Php.1.10: palavra rara εἰλικρινεῖς (εἰλικρινής, G1506): raro (2x)
+- Php.1.10: palavra rara ἀπρόσκοποι (ἀπρόσκοπος, G0677): raro (3x)
+- Php.1.12: palavra rara προκοπὴν (προκοπή, G4297): raro (3x)
+- Php.1.17: palavra rara ἁγνῶς (ἁγνῶς, G0055): hapax
+- Php.1.17: palavra rara οἰόμενοι (οἴομαι, G3633): raro (3x)
+- Php.1.19: palavra rara ἐπιχορηγίας (ἐπιχορηγία, G2024): raro (2x)
+- Php.1.19: sōtēria: “libertação” ou “salvação”: Paulo repete palavra por palavra uma frase de Jó 13:16 (LXX), onde Jó espera ser vindicado diante de Deus. Sōtēria pode ser a soltura da prisão ou a vindicação e salvação final (vv. 20-21). “Libertação” foi escolhida porque o contexto imediato fala do julgamento e da volta aos filipenses (vv. 25-26); “salvação” também é defensável (Fee; O'Brien).
+- Php.1.20: palavra rara ἀποκαραδοκίαν (ἀποκαραδοκία, G0603): raro (2x)
+- Php.1.21: palavra rara κέρδος. (κέρδος, G2771): raro (3x)
+- Php.1.22: palavra rara αἱρήσομαι (αἱρέω, G0138): raro (3x)
+- Php.1.23: palavra rara ἀναλῦσαι (ἀναλύω, G0360): raro (2x)
+- Php.1.25: palavra rara προκοπὴν (προκοπή, G4297): raro (3x)
+- Php.1.27: palavra rara πολιτεύεσθε, (πολιτεύω, G4176): raro (2x)
+- Php.1.27: palavra rara συναθλοῦντες (συναθλέω, G4866): raro (2x)
+- Php.1.28: palavra rara πτυρόμενοι (πτύρομαι, G4426): hapax
+- Php.1.29: palavra rara μόνον (μόνον, G3440): raro (2x)
+- Php.2.1: palavra rara παραμύθιον (παραμύθιον, G3890): hapax
+- Php.2.2: palavra rara σύμψυχοι, (σύμψυχος, G4861): hapax
+- Php.2.3: palavra rara κενοδοξίαν (κενοδοξία, G2754): hapax
+- Php.2.6: palavra rara μορφῇ (μορφή, G3444): raro (2x)
+- Php.2.6: palavra rara ἁρπαγμὸν (ἁρπαγμός, G0725): hapax
+- Php.2.6: harpagmos, hápax: As principais leituras: (1) “algo a ser usurpado” (res rapienda), que suporia que Cristo não tinha a igualdade; (2) “algo a ser retido” (res retinenda); (3) “algo a ser explorado em proveito próprio”. A APV segue a terceira, defendida por R. W. Hoover (1971) e N. T. Wright (1991), porque o v. 6 já afirma que Cristo existia na forma de Deus: a questão não é obter a igualdade, mas como usá-la.
+- Php.2.7: palavra rara μορφὴν (μορφή, G3444): raro (2x)
+- Php.2.7: palavra rara σχήματι (σχῆμα, G4976): raro (2x)
+- Php.2.8: palavra rara ὑπήκοος (ὑπήκοος, G5255): raro (3x)
+- Php.2.9: palavra rara ὑπερύψωσεν (ὑπερυψόω, G5251): hapax
+- Php.2.10: palavra rara καταχθονίων, (καταχθόνιος, G2709): hapax
+- Php.2.12: palavra rara ἀπουσίᾳ (ἀπουσία, G0666): hapax
+- Php.2.15: palavra rara ἀκέραιοι, (ἀκέραιος, G0185): raro (3x)
+- Php.2.15: palavra rara φωστῆρες (φωστήρ, G5458): raro (2x)
+- Php.2.17: palavra rara σπένδομαι (σπένδω, G4689): raro (2x)
+- Php.2.19: palavra rara εὐψυχῶ (εὐψυχέω, G2174): hapax
+- Php.2.20: palavra rara ἰσόψυχον, (ἰσόψυχος, G2473): hapax
+- Php.2.20: palavra rara γνησίως (γνησίως, G1104): hapax
+- Php.2.23: palavra rara ἀφίδω (ἀφοράω, G0872): raro (2x)
+- Php.2.25: palavra rara συστρατιώτην (συστρατιώτης, G4961): raro (2x)
+- Php.2.26: palavra rara ἀδημονῶν (ἀδημονέω, G0085): raro (3x)
+- Php.2.27: palavra rara παραπλήσιον (παραπλήσιον, G3897): hapax
+- Php.2.28: palavra rara σπουδαιοτέρως (σπουδαιοτέρως, G4708): hapax
+- Php.2.28: palavra rara ἀλυπότερος (ἄλυπος, G0253): hapax
+- Php.2.30: palavra rara παραβολευσάμενος (παραβουλεύομαι, παραβολεύομαι, G3851): hapax
+- Php.3.1: palavra rara ὀκνηρόν, (ὀκνηρός, G3636): raro (3x)
+- Php.3.2: palavra rara κατατομήν· (κατατομή, G2699): hapax
+- Php.3.5: palavra rara ὀκταήμερος, (ὀκταήμερος, G3637): hapax
+- Php.3.7: palavra rara κέρδη, (κέρδος, G2771): raro (3x)
+- Php.3.8: palavra rara σκύβαλα (σκύβαλον, G4657): hapax
+- Php.3.9: pistis Christou: Pode ser genitivo objetivo (“fé em Cristo”) ou subjetivo (“fidelidade de Cristo”). A APV segue o objetivo, com a tradição da Reforma, porque o fim do versículo (“se baseia na fé”) fala da fé do crente. O subjetivo é defendido por R. B. Hays; J. D. G. Dunn defende o objetivo.
+- Php.3.10: palavra rara συμμορφιζόμενος (συμμορφόομαι, G4833): hapax
+- Php.3.11: palavra rara ἐξανάστασιν (ἐξανάστασις, G1815): hapax
+- Php.3.13: palavra rara ἐπεκτεινόμενος, (ἐπεκτείνομαι, G1901): hapax
+- Php.3.14: palavra rara σκοπὸν (σκοπός, G4649): hapax
+- Php.3.14: palavra rara βραβεῖον (βραβεῖον, G1017): raro (2x)
+- Php.3.15: palavra rara ἑτέρως (ἑτέρως, G2088): hapax
+- Php.3.17: palavra rara Συμμιμηταί (συμμιμητής, G4831): hapax
+- Php.3.20: palavra rara πολίτευμα (πολίτευμα, G4175): hapax
+- Php.3.21: palavra rara σύμμορφον (σύμμορφος, G4832): raro (2x)
+- Php.4.1: palavra rara ἐπιπόθητοι, (ἐπιπόθητος, G1973): hapax
+- Php.4.3: palavra rara σύζυγε, (σύζυγος, G4805): hapax
+- Php.4.3: palavra rara συνήθλησάν (συναθλέω, G4866): raro (2x)
+- Php.4.6: palavra rara αἰτήματα (αἴτημα, G0155): raro (3x)
+- Php.4.8: palavra rara προσφιλῆ, (προσφιλής, G4375): hapax
+- Php.4.8: palavra rara εὔφημα, (εὔφημος, G2163): hapax
+- Php.4.10: palavra rara μεγάλως (μεγάλως, G3171): hapax
+- Php.4.10: palavra rara ἀνεθάλετε (ἀναθάλλω, G0330): hapax
+- Php.4.10: palavra rara ἠκαιρεῖσθε (ἀκαιρέω, G0170): hapax
+- Php.4.11: palavra rara ὑστέρησιν (ὑστέρησις, G5304): raro (2x)
+- Php.4.11: palavra rara αὐτάρκης (αὐτάρκης, G0842): hapax
+- Php.4.12: palavra rara μεμύημαι (μυέω, G3453): hapax
+- Php.4.14: palavra rara συγκοινωνήσαντές (συγκοινωνέω, G4790): raro (3x)
+- Php.4.15: palavra rara Φιλιππήσιοι, (Φιλιππήσιος, G5374): hapax
+- Php.4.15: palavra rara δόσεως (δόσις, G1394): raro (2x)
+- Php.4.15: palavra rara λήμψεως (λῆψις, G3028): hapax
+- Php.4.18: palavra rara εὐωδίας, (εὐωδία, G2175): raro (3x)

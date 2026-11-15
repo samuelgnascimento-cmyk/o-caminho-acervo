@@ -1,0 +1,100 @@
+[
+ {
+  "ref": "Heb.1.3",
+  "gravidade": "alta",
+  "problema": "Nota tc de 'por si mesmo' contradiz a folha. A VARIANTE diz que autou (depois de 'poder') está presente em NA28, NA27, THGNT, WH, Tregelles, TR e Bizantino, e ausente só do texto-base; a nota afirma que TR e Bizantino 'não trazem autou' e que NA28, THGNT, WH e Tregelles 'fazem o inverso: sem por si mesmo'. A folha não mostra nada sobre di' heautou nessas edições, nem sobre a grafia 'di' hautou' do SBLGNT. A única diferença confirmada é: texto-base sem 'autou' ('palavra do poder'); todas as outras edições com 'autou' ('palavra do seu poder'); TR e Bizantino com 'hēmōn' após 'pecados'.",
+  "sugestao": "Reescrever: 'O texto-base traz “pela palavra do poder, por si mesmo (di' heautou) ...”. As demais edições comparadas (NA28, THGNT, Westcott-Hort, Tregelles, Textus Receptus e Texto Bizantino) trazem autou: “pela palavra do seu poder”. O Textus Receptus e o Texto Bizantino trazem ainda “dos nossos pecados” (hēmōn).' Remover as afirmações sobre quais edições omitem 'por si mesmo' e sobre a grafia do SBLGNT.",
+  "decisao": "aceito em parte: a nota errava ao dizer que o TR e o Bizantino não trazem autou (o campo de edições da palavra mostra autou em NA28, THGNT, WH, Tregelles, TR e Bizantino), e isso foi corrigido; mas a afirmação de que di’ heautou só está no texto-base, no TR e no Bizantino foi mantida, porque o campo de edições de δι᾽ e ἑαυτοῦ é 'SBL+TR+Byz', e a grafia hautou vem do campo de grafia ('SBL: αὑτοῦ')."
+ },
+ {
+  "ref": "Heb.1.8",
+  "gravidade": "media",
+  "problema": "Nota tc sobre 'do teu reino': afirma que 'as edições críticas trazem sou' e que Metzger apoia sou. A folha não tem VARIANTE para sou/autou aqui, então nada confirma o que as edições trazem; além disso, a atribuição a Metzger e a lista 𝔓46, ℵ, B vs. maioria são dadas sem certeza (a leitura autou tem apoio antigo forte e costuma ser discutida como possível leitura crítica). A frase 'a RSV a adota no Sl 45:6' também é imprecisa: a RSV traz 'divine throne' no salmo e 'O God' no texto de Hb 1:8, com a outra leitura só na margem.",
+  "sugestao": "Suavizar: 'Alguns manuscritos antigos leem autou (“do seu reino”), o que combinaria com a leitura “Deus é o teu trono”; o texto-base traz sou (“do teu reino”), que corresponde ao salmo.' Tirar 'as edições críticas' e a atribuição a Metzger, ou citar só se confirmada. Trocar 'a RSV a adota no Sl 45:6' por 'alguns intérpretes modernos (p. ex., traduções que põem “Deus é o teu trono” no texto ou na margem)'.",
+  "decisao": "aceito em parte: 'as edições críticas' foi trocado pelo que o campo de edições mostra (sou no texto-base, NA28, THGNT, Tregelles, TR e Bizantino; autou só em Westcott-Hort) e a frase sobre a RSV foi precisada; mantive 𝔓46, ℵ e B para autou e a menção a Metzger, que discute essa variante, sem atribuir a ele mais do que a explicação da escolha de sou."
+ },
+ {
+  "ref": "Heb.1.5",
+  "gravidade": "media",
+  "problema": "Afirmação duvidosa: o comentário de Qumran 4QFlorilégio (4Q174) cita 2Sm 7:14 junto com o Sl 2:1 (e Sl 1:1), não o Sl 2:7. Portanto não é correto dizer que 'os dois textos' (Sl 2:7 e 2Sm 7:14) aparecem juntos ali.",
+  "sugestao": "Substituir a última frase por: 'Em Qumran, 4QFlorilégio (4Q174) também lê 2Sm 7:14 como promessa messiânica e a associa ao Sl 2.' Ou cortar a frase.",
+  "decisao": "aceito: o 4QFlorilégio cita 2Sm 7:14 e depois comenta o Sl 2:1-2, não o Sl 2:7; a frase foi corrigida."
+ },
+ {
+  "ref": "Heb.1.6",
+  "gravidade": "baixa",
+  "problema": "Duas coisas. (1) A nota sn diz que a citação segue 'a Septuaginta de Dt 32:43'; mas 'anjos de Deus' (angeloi theou) é a leitura das Odes (Odes 2:43) e de alguns manuscritos; no texto de Rahlfs de Dt 32:43 a linha traz 'filhos de Deus' (huioi theou). A nota precisa dizer isso, senão a afirmação sobre a Septuaginta fica imprecisa. (2) A nota tn (REV) está truncada: 'referindo-se à volta de Cristo ou à sua entrada triunfal no mundo futuro na exaltação' mistura três ideias, e 'o mundo (oikoumenē) que há de vir é retomado em 2:5' não vale para 1:6 (aqui o grego não diz 'que há de vir').",
+  "sugestao": "(1) Escrever: 'A citação coincide com as Odes (Odes 2:43), cuja linha traz “anjos de Deus”; em Dt 32:43 da Septuaginta, segundo as edições críticas, a linha traz “filhos de Deus”. O hebraico massorético não tem a linha; Qumran (4QDeut-q) tem uma equivalente.' (2) Reescrever a opção 2: 'palin modifica o verbo: “quando ele introduz de novo o Primogênito no mundo”, o que se entende da exaltação/volta (cf. oikoumenē em 2:5).'",
+  "decisao": "aceito: a nota sn agora diz que 'anjos de Deus' corresponde à forma das Odes e que na edição de Rahlfs de Dt 32:43 a linha traz 'filhos de Deus'; a opção (2) da nota tn foi reescrita, e a referência a 2:5 agora fala só da palavra oikoumenē."
+ },
+ {
+  "ref": "Heb.2.9",
+  "gravidade": "baixa",
+  "problema": "A nota tn afirma como fato que a oração final ('para que... provasse a morte') 'não depende de coroado, mas de todo o movimento descrito'. É uma das leituras sintáticas disputadas (muitos ligam hopōs a 'coroado' ou a 'foi feito menor'), e é dada sem aviso. Na nota tc, o apoio a chōris com 5:7 e 13:12-13 ('abandono e clamor') é interpretação do tradutor, não argumento textual padrão.",
+  "sugestao": "Apresentar como uma das leituras ('a oração final pode ser entendida como finalidade do todo, ou ligada a “coroado”') e marcar como opinião, ou cortar a referência a 5:7 e 13:12-13 da nota tc.",
+  "decisao": "aceito: a ligação da oração final agora aparece como questão discutida, com as três leituras, e o argumento de 5:7 ficou atribuído a estudiosos que preferem chōris, sem a citação de 13:12-13."
+ },
+ {
+  "ref": "Heb.2.14",
+  "gravidade": "baixa",
+  "problema": "A nota diz que TR e Bizantino trazem a ordem 'carne e sangue'. A folha não mostra VARIANTE nem ORDEM para isso (a linha ORDEM do versículo se refere a 'touto' e é do SBL, não é esse caso), então a afirmação sobre edições não está confirmada pela folha.",
+  "sugestao": "Cortar a frase sobre TR/Bizantino, ou deixá-la só se houver VARIANTE na folha.",
+  "decisao": "rejeitado: o campo de edições de αἵματος é 'TR»2+Byz»2', isto é, a palavra está em outra posição no TR e no Bizantino ('carne e sangue'); a linha ORDEM da folha cobre só o SBL, mas o campo da palavra confirma a nota."
+ },
+ {
+  "ref": "Heb.3.2",
+  "gravidade": "baixa",
+  "problema": "Nota tc: 'O texto-base o omite aqui, com alguns manuscritos antigos'. A folha não diz nada sobre manuscritos; a frase afirma apoio manuscrito sem indicar quais.",
+  "sugestao": "Trocar por 'o texto-base omite holō aqui; o acréscimo se explicaria pela harmonização com o v. 5'.",
+  "decisao": "rejeitado: o guia admite 'manuscritos antigos' sem nomeá-los, e a omissão de holō em manuscritos antigos é discutida por Metzger; a nota não atribui a nenhuma edição nada além do que a VARIANTE mostra."
+ },
+ {
+  "ref": "Heb.3.9",
+  "gravidade": "baixa",
+  "problema": "A tradução 'me tentaram, pondo-me à prova' dá a 'en dokimasia' a forma de um verbo (cf. TR: epeirasan me ... edokimasan me), embora o texto-base traga o substantivo 'em prova/em teste' e nenhum 'me'. A nota admite só 'me' explicitado, mas o particípio 'pondo-me à prova' é acréscimo de verbo que aproxima o texto do TR.",
+  "sugestao": "Aproximar do grego: 'onde os pais de vocês me tentaram, em prova, e viram as minhas obras' (ou 'em teste'), com a nota explicando o 'me' e o substantivo dokimasia.",
+  "decisao": "rejeitado: 'pondo-me à prova' traduz o substantivo dokimasia ('prova') numa locução, sem criar um segundo verbo finito como o do TR (edokimasan); a nota já dá o literal 'tentaram em exame' e explica o 'me' acrescentado; 'me tentaram, em prova' soaria truncado na leitura em voz alta."
+ },
+ {
+  "ref": "Heb.3.13",
+  "gravidade": "baixa",
+  "problema": "A nota tc diz que o Texto Bizantino tem outra ordem (ex hymōn tis). A folha não traz VARIANTE nem ORDEM aqui, então a afirmação sobre a edição não é confirmada.",
+  "sugestao": "Cortar a nota (variação só de ordem, sem efeito na tradução) ou confirmá-la antes.",
+  "decisao": "rejeitado: o campo de edições de ἐξ e ὑμῶν é 'Tyn«2/«3' e 'Byz«2/«3', o que confirma outra ordem no Bizantino (e também no THGNT, acrescentado à nota); a nota é curta e diz que não há efeito na tradução."
+ },
+ {
+  "ref": "Heb.5.5",
+  "gravidade": "baixa",
+  "problema": "Nota tn diz que o artigo em 'ho Christos' acentua o título, mas a tradução 'Cristo' sem artigo não reflete isso e o guia só pede 'o Cristo' nos Evangelhos e Atos. A observação confunde o leitor.",
+  "sugestao": "Tirar a frase sobre o artigo, ou dizer que o artigo não foi traduzido.",
+  "decisao": "aceito: a nota agora diz que o artigo de ho Christos não foi traduzido nas cartas, e só depois comenta o peso de título."
+ },
+ {
+  "ref": "Heb.5.12",
+  "gravidade": "baixa",
+  "problema": "Nota tc atribui o 'tina' indefinido a texto-base, NA28 e Westcott-Hort e o interrogativo a THGNT, Tregelles, TR e Bizantino. A folha só confirma que TR e Bizantino não têm o 'tina' do texto-base (VARIANTE). A posição de NA28, WH, THGNT e Tregelles quanto ao acento não aparece na folha.",
+  "sugestao": "Limitar a: 'O texto-base lê tina indefinido (“que alguém lhes ensine”); o Textus Receptus e o Texto Bizantino leem tína interrogativo (“quais são os princípios”).'",
+  "decisao": "rejeitado: o campo de edições de τινὰ é 'NA28+NA27+SBL+WH', e a variante τίνα está em 'Tyn+Treg+TR+Byz'; a nota diz exatamente isso."
+ },
+ {
+  "ref": "Heb.7.1",
+  "gravidade": "baixa",
+  "problema": "Nota tc diz que Tregelles traz o relativo 'hos'. A folha só mostra que 'ho' está ausente do TR; nada sobre Tregelles.",
+  "sugestao": "Dizer só: 'o Textus Receptus não traz o artigo ho (traz o relativo hos)', ou omitir Tregelles.",
+  "decisao": "rejeitado: o campo de variantes de ὁ diz que ὃς é a leitura de 'Treg+TR'; a nota está de acordo com os dados."
+ },
+ {
+  "ref": "Heb.7.6",
+  "gravidade": "baixa",
+  "problema": "'genealogoumenos' (hápax, folha: RARIDADE) não tem nota, só 'agenealogētos' no v. 3. O guia pede nota para hápax.",
+  "sugestao": "Acrescentar nota tn breve: 'genealogeō (hápax): “ter a genealogia registrada, ser contado na linhagem”; o sacerdócio exigia comprovar a descendência de Arão (cf. v. 3).'",
+  "decisao": "aceito: acrescentei uma nota tn sobre genealogeō (hápax), ancorada em 'que não tem a sua genealogia entre eles'."
+ },
+ {
+  "ref": "Heb.7.13",
+  "gravidade": "baixa",
+  "problema": "Nota diz 'Os reis da tribo de Judá que tentaram oferecer sacrifícios foram repreendidos (2Cr 26:16-21)'. A passagem trata de um só rei (Uzias), no plural a afirmação passa dos textos.",
+  "sugestao": "Trocar por 'o rei Uzias, de Judá, que tentou oferecer incenso, foi castigado (2Cr 26:16-21)'.",
+  "decisao": "aceito: a passagem trata só de Uzias, que quis queimar incenso; a frase foi corrigida."
+ }
+]

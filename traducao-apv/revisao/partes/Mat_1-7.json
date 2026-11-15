@@ -1,0 +1,240 @@
+[
+ {
+  "ref": "Mat.3.11",
+  "gravidade": "alta",
+  "problema": "A nota diz que o Texto Bizantino omite “e com fogo”, atribuindo isso a influência de Mc 1:8. A única base é a linha VARIANTE da folha (“καὶ πυρί·” ausente em Bizantino), que compara palavra com pontuação anexa (“πυρί·”) e provavelmente é artefato de pontuação. Na edição bizantina o texto traz “ἐν πνεύματι ἁγίῳ καὶ πυρί”. A afirmação é falsa ou não confirmada, e a explicação psicológica é inventada.",
+  "sugestao": "Cortar a última frase da nota (“O Texto Bizantino omite ... Mc 1:8”). Se quiser manter algo, dizer apenas que a leitura “com o Espírito Santo e com fogo” é a do texto-base e da tradição manuscrita em geral.",
+  "decisao": "aceito em parte: a omissão de “e com fogo” no Bizantino está nos dados do TAGNT e foi mantida, mas retirei a explicação causal e deixei só o fato de que Mc 1:8 também não tem a expressão."
+ },
+ {
+  "ref": "Mat.6.27",
+  "gravidade": "alta",
+  "problema": "“Acrescentar uma só hora” troca o côvado do grego (πῆχυν ἕνα) por uma medida de tempo que não está no texto. A frase inteira (“por mais que se preocupe ... acrescentar uma hora ... à sua vida”) segue de perto a formulação da NVI, que é tradução protegida. A nota defende o sentido de “tempo de vida”, mas isso não justifica inventar a unidade.",
+  "sugestao": "“E quem de vocês, preocupando-se, pode acrescentar um côvado à duração da sua vida?” (ou “um palmo”), com a nota atual explicando a imagem. Se quiser evitar a medida estranha, “um instante” é mais honesto que “hora”.",
+  "decisao": "aceito: o texto volta a “um só côvado à duração da sua vida”, a frase foi reescrita para se afastar da NVI, e a nota explica o côvado como metáfora de tempo de vida (Sl 39:5)."
+ },
+ {
+  "ref": "Mat.6.13",
+  "gravidade": "media",
+  "problema": "“Não nos deixes cair em tentação” traduz εἰσενέγκῃς (“não nos introduzas/leves”) por uma paráfrase que coincide com a fórmula da NVI/NAA. O guia pede literalidade quando a clareza permite e proíbe suavizar. A nota admite que a forma literal é defensável, mas a preferência pela forma interpretada não tem base no verbo grego.",
+  "sugestao": "“E não nos leves à tentação (ou: não nos conduzas à tentação), mas livra-nos do Maligno”, com a nota atual mostrando a leitura “não permitas que entremos”.",
+  "decisao": "aceito: o texto passa a “não nos conduzas à tentação”, literal do verbo; a leitura causativa (“não permitas que entremos”) fica na nota, e retirei o revisar."
+ },
+ {
+  "ref": "Mat.6.34",
+  "gravidade": "media",
+  "problema": "“O amanhã trará as suas próprias preocupações” é paráfrase de ἡ αὔριον μεριμνήσει ἑαυτῆς (“o amanhã se preocupará consigo mesmo”) e coincide com a redação da NVI; “Basta a cada dia o seu próprio mal” também é a fórmula corrente de ARA/NVI/NAA. A nota admite que a forma literal soa estranha, mas o guia pede literalidade quando a clareza permite, e a literal é compreensível.",
+  "sugestao": "“pois o amanhã se preocupará consigo mesmo. A cada dia basta a sua aflição (κακία).” com a nota atual.",
+  "decisao": "aceito: “o amanhã se preocupará consigo mesmo. A cada dia basta a sua própria aflição”; a forma literal é clara, e “aflição” traduz kakia sem sugerir pecado."
+ },
+ {
+  "ref": "Mat.1.17",
+  "gravidade": "media",
+  "problema": "A nota diz que o terceiro bloco, “contado de Jeconias a Jesus, tem só 13 nomes”. Contando Jeconias, Salatiel, Zorobabel, Abiúde, Eliaquim, Azor, Sadoque, Aquim, Eliúde, Eleazar, Matã, Jacó, José e Jesus, são 14. Só são 13 se Jeconias for contado no bloco anterior. A afirmação, como escrita, é falsa.",
+  "sugestao": "Reescrever: “Contando Jeconias no segundo bloco, o terceiro tem só 13 nomes; contando-o no terceiro, Davi (ou Jeconias) é contado duas vezes. Não há consenso sobre como Mateus fazia a conta.”",
+  "decisao": "aceito: a contagem depende de onde se põe Jeconias, e a nota agora diz isso em vez de afirmar 13 nomes."
+ },
+ {
+  "ref": "Mat.1.7",
+  "gravidade": "media",
+  "problema": "A nota afirma coisas que a folha não confirma: não há linha VARIANTE em 1:7, então nada na folha mostra que o TR e o Bizantino trazem “Asa”, e também não mostra o que NA28 ou SBLGNT têm. Ainda atribui a Metzger a opinião de que Asaph é a leitura original, sem referência segura. O trecho “pode vir de uma grafia grega do nome usada na fonte de Mateus” é conjectura sem apoio.",
+  "sugestao": "Limitar-se ao que se sabe: o texto-base traz Asáf (nome do salmista), enquanto o rei de Judá é Asa (1Rs 15:9-24); alguns manuscritos corrigem para “Asa”. Retirar a menção a NA28/TR/Bizantino e a Metzger, ou marcar revisar: true.",
+  "decisao": "aceito em parte: os dados do TAGNT (campo de grafia da fonte) confirmam Asa no TR e no Bizantino e Asaph no SBLGNT e no NA28, então a informação de edições fica; reformulei a hipótese da fonte como explicação de Metzger, e o revisar continua."
+ },
+ {
+  "ref": "Mat.1.10",
+  "gravidade": "media",
+  "problema": "A nota diz que “alguns manuscritos da Septuaginta também chamam esse rei de Amós”, dado de manuscritos que a folha não confirma e que é dado sem identificação. A comparação com 1:7 também repete dados de edições (TR/Bizantino com Amon) que só a linha ‘ausente’ da folha sustenta indiretamente.",
+  "sugestao": "Remover a frase sobre manuscritos da LXX, ou substituí-la por “a forma Amós pode ser eco do profeta”. Manter só: o texto-base traz Amós; TR e Bizantino trazem outra forma (Amon).",
+  "decisao": "aceito em parte: retirei a afirmação sobre manuscritos da Septuaginta; a leitura Amon no TR e no Bizantino fica, porque está na coluna de variantes da folha."
+ },
+ {
+  "ref": "Mat.2.2",
+  "gravidade": "media",
+  "problema": "“O rei dos judeus que acaba de nascer” acrescenta recência que o grego não tem (ὁ τεχθεὶς, aoristo: “o que nasceu”). Isso contradiz o quadro de 2:11 (casa, menino) e 2:16 (dois anos para baixo).",
+  "sugestao": "“Onde está o rei dos judeus que nasceu?” (ou “recém-nascido” só se a nota explicar).",
+  "decisao": "aceito: ὁ τεχθείς é aoristo sem nuance de recência; o texto fica “o rei dos judeus que nasceu”."
+ },
+ {
+  "ref": "Mat.2.22",
+  "gravidade": "media",
+  "problema": "A oração “Mas, ao ouvir que Arquelau reinava ... no lugar de seu pai, Herodes, teve medo de ir para lá” deixa José sem sujeito e, por causa da vírgula, “Herodes” parece o sujeito de “teve medo”. É ambíguo e pode ser lido de modo errado.",
+  "sugestao": "“Mas José, ao ouvir que Arquelau reinava na Judeia no lugar de seu pai Herodes, teve medo de ir para lá.” (o sujeito é inferido do contexto; ou marcar a explicitação em nota).",
+  "decisao": "aceito: explicitei “José” como sujeito e pus “Herodes, seu pai”, com nota tn sobre o sujeito acrescentado."
+ },
+ {
+  "ref": "Mat.5.15",
+  "gravidade": "media",
+  "problema": "“Mas no lugar dela” omite ἐπὶ τὴν λυχνίαν (“sobre o candeeiro/suporte”), palavra do grego. “No lugar dela” é vago e pode ser lido como “no lugar da vasilha”, o que não é o sentido. A nota admite o literal “sobre o suporte da lâmpada” mas deixa o texto sem o objeto.",
+  "sugestao": "“mas sobre o suporte, e assim ela ilumina todos os que estão na casa.”",
+  "decisao": "aceito: o texto fica “sobre o suporte”, e a nota foi ajustada."
+ },
+ {
+  "ref": "Mat.5.29",
+  "gravidade": "media",
+  "problema": "A nota afirma que Orígenes tomou 19:12 ao pé da letra e “a Igreja rejeitou essa leitura”. Isso vem de Eusebo (HE 6.8), é historicamente discutido e aqui é dado sem fonte e como fato.",
+  "sugestao": "Retirar, ou escrever “segundo Eusébio de Cesareia, Orígenes teria tomado 19:12 ao pé da letra, relato discutido pelos historiadores”.",
+  "decisao": "aceito em parte: mantive a menção, mas atribuída a Eusébio (História Eclesiástica 6.8) e dita como relato discutido."
+ },
+ {
+  "ref": "Mat.5.38",
+  "gravidade": "media",
+  "problema": "A nota cita Gn 4:23-24 (o canto de Lameque, que é vingança sem limite) como se fosse apoio para a lei de talião como limite. As referências corretas da lei citada estão ausentes (Êx 21:23-25; Lv 24:19-20; Dt 19:21). Para a citação do AT, o guia exige a referência.",
+  "sugestao": "Acrescentar “Êx 21:24; Lv 24:20; Dt 19:21” e usar Gn 4:23-24 só como contraste (vingança sem medida), dito explicitamente.",
+  "decisao": "aceito em parte: Gn 4:23-24 era citado como contraste (vingança sem freio), não como apoio; agora a nota diz isso explicitamente e dá as referências da lei no texto da nota."
+ },
+ {
+  "ref": "Mat.7.6",
+  "gravidade": "media",
+  "problema": "A nota usa Êx 22:31 como apoio de que a carne consagrada não podia ser dada aos cães. Esse versículo manda lançar aos cães a carne despedaçada por feras, quase o contrário. Só Êx 29:33-34 sustenta a ideia.",
+  "sugestao": "Trocar “(Êx 29:33-34; 22:31)” por “(Êx 29:33-34; cf. Lv 22:10-16)”.",
+  "decisao": "aceito: Êx 22:31 não sustentava o ponto; foi trocado por Lv 22:10-16."
+ },
+ {
+  "ref": "Mat.7.18",
+  "gravidade": "media",
+  "problema": "A nota tc diz que Westcott-Hort traz enenkein “com alguns manuscritos” e que “as demais edições têm poiein”. A folha não mostra nenhuma VARIANTE em 7:18, então nada confirma o dado de edição nem de manuscritos.",
+  "sugestao": "Remover a nota ou reduzi-la ao que se sabe pela folha (nada). Se mantida, marcar revisar: true.",
+  "decisao": "aceito em parte: a coluna de variantes da folha confirma enenkein em Westcott-Hort (o revisor não a viu); retirei só “com alguns manuscritos”, que a folha não mostra."
+ },
+ {
+  "ref": "Mat.1.16",
+  "gravidade": "baixa",
+  "problema": "“Seguida por todas as edições” não é confirmado pela folha (sem linha VARIANTE). “Alguns manuscritos gregos trazem uma forma que fala de ‘Maria, a virgem’” também fica sem identificação.",
+  "sugestao": "Trocar por “seguida pelo texto crítico e pelo TR”, ou omitir o trecho das edições.",
+  "decisao": "aceito em parte: a ausência de variante entre as edições na folha confirma o acordo delas; reformulei para nomear as edições comparadas em vez de “todas as edições”, e mantive a Siríaca Sinaítica."
+ },
+ {
+  "ref": "Mat.1.11",
+  "gravidade": "baixa",
+  "problema": "“Jeconias (Joaquim, 2Rs 24:6-15) ... o pai, Jeoaquim” confunde o leitor: Joaquim e Jeoaquim são dois reis diferentes e quase homônimos em português.",
+  "sugestao": "“Jeconias (Joaquim, 2Rs 24:6-15) ... o pai dele, Jeoaquim (2Rs 23:36). Não confundir os dois.”",
+  "decisao": "aceito: a nota agora distingue Joaquim (Jeconias) e Jeoaquim, com as referências."
+ },
+ {
+  "ref": "Mat.1.18",
+  "gravidade": "baixa",
+  "problema": "“Pelo Espírito Santo” (agente) para ἐκ πνεύματος ἁγίου, enquanto a nota de 1:20 insiste, com razão, que o grego diz ἐκ (origem), não agente. O texto de 1:18 e o de 1:20 (“vem do Espírito Santo”) divergem para a mesma expressão.",
+  "sugestao": "“ela se achou grávida do Espírito Santo” ou “por obra do Espírito Santo”, com a nota de 1:20 valendo para os dois.",
+  "decisao": "aceito em parte: o texto passa a “por obra do Espírito Santo”, que indica origem sem sugerir união física, e a nota remete à de 1:20."
+ },
+ {
+  "ref": "Mat.1.23",
+  "gravidade": "baixa",
+  "problema": "A nota diz que o hebraico tem “ela chamará”. O texto massorético (וקראת) é ambíguo quanto à pessoa (“você chamará” ou “ela chamará”); só a LXX é claramente 2ª pessoa.",
+  "sugestao": "“O hebraico tem uma forma que pode ser lida como ‘ela chamará’ ou ‘você chamará’; a Septuaginta tem ‘você chamará’.”",
+  "decisao": "aceito: a forma hebraica é ambígua entre segunda e terceira pessoa, e a nota agora diz isso."
+ },
+ {
+  "ref": "Mat.1.25",
+  "gravidade": "baixa",
+  "problema": "“Mas não teve relações com ela”: o grego tem καί (“e”), sem sentido adversativo. A nota fala de “conhecer” como eufemismo mas não dá o literal na forma “Lit. ‘não a conhecia’”.",
+  "sugestao": "“E não a conheceu até que ela deu à luz um filho” ou “e não teve relações com ela”; acrescentar “Lit. ‘não a conhecia’” à nota.",
+  "decisao": "aceito: o texto continua o v. 24 com “e não teve relações com ela”, e a nota traz o literal “e não a conhecia”."
+ },
+ {
+  "ref": "Mat.3.3",
+  "gravidade": "baixa",
+  "problema": "Omite o γάρ de “οὗτος γάρ ἐστιν”: o guia pede manter os conectivos lógicos.",
+  "sugestao": "“Pois este é aquele de quem falou o profeta Isaías...”",
+  "decisao": "aceito: incluí “Pois” para traduzir γάρ."
+ },
+ {
+  "ref": "Mat.3.10",
+  "gravidade": "baixa",
+  "problema": "A nota explica que o lenhador “já encostou o machado na raiz para medir o golpe”. É imagem inventada, sem base no grego (πρὸς τὴν ῥίζαν κεῖται, “está posto junto à raiz”).",
+  "sugestao": "Trocar por “o machado já está posto junto à raiz: o corte é iminente”.",
+  "decisao": "aceito: a imagem inventada do lenhador foi substituída pelo literal “está posto junto à raiz”."
+ },
+ {
+  "ref": "Mat.3.12",
+  "gravidade": "baixa",
+  "problema": "A nota chama de hápax “diakathairō” (verbo de Mt 3:12), mas o lema do texto é διακαθαρίζω e Lc 3:17 traz διακαθᾶραι (de διακαθαίρω) no texto crítico. Falar de hápax absoluto é impreciso.",
+  "sugestao": "“Diakatharizō (aqui) / diakathairō (Lc 3:17) é raro; ‘limpar de ponta a ponta’.”",
+  "decisao": "aceito: a nota agora usa o lema da folha (διακαθαρίζω) e menciona a forma aparentada de Lc 3:17."
+ },
+ {
+  "ref": "Mat.3.16",
+  "gravidade": "baixa",
+  "problema": "“Logo que foi batizado, Jesus saiu da água”: εὐθύς modifica ἀνέβη (“subiu logo”), não o batismo. Na nota tc, “NA28 (entre colchetes)” não é confirmado pela folha, que só diz “presente em NA28”.",
+  "sugestao": "“Tendo sido batizado, Jesus subiu logo da água.” Na nota, tirar “entre colchetes”.",
+  "decisao": "aceito: “Depois de batizado, Jesus logo saiu da água”, com εὐθύς ligado ao verbo de sair; tirei “entre colchetes” (também em 6:25 e 6:33)."
+ },
+ {
+  "ref": "Mat.5.5",
+  "gravidade": "baixa",
+  "problema": "A nota tc afirma que “as edições críticas e o TR seguem a ordem traduzida aqui”, o que a folha não confirma (sem linha VARIANTE).",
+  "sugestao": "Dizer só que “alguns manuscritos antigos trocam a ordem dos vv. 4 e 5”, sem citar as edições.",
+  "decisao": "aceito: retirei a afirmação sobre as edições; a nota diz só que alguns manuscritos trocam a ordem e que a APV segue o texto-base."
+ },
+ {
+  "ref": "Mat.5.13",
+  "gravidade": "baixa",
+  "problema": "A nota afirma como fato que o sal da região do mar Morto “podia se dissolver e deixar um resíduo sem gosto”; dado de arqueologia/química sem fonte, que o guia proíbe inventar.",
+  "sugestao": "Retirar a frase final da nota, ou marcar como explicação proposta por alguns estudiosos.",
+  "decisao": "aceito em parte: a explicação do sal fica, mas como proposta de alguns estudiosos, ao lado da leitura de que é só uma imagem do impossível."
+ },
+ {
+  "ref": "Mat.5.19",
+  "gravidade": "baixa",
+  "problema": "“Ainda que dos menores” transforma τῶν ἐλαχίστων (aposto: “destes mandamentos, os menores”) em concessão (“ainda que”), o que muda o alcance: o grego fala só dos mandamentos mínimos.",
+  "sugestao": "“quem anular um só destes mandamentos, os menores, e ensinar assim os outros...”",
+  "decisao": "aceito: o texto fica “um só destes mandamentos mínimos”, sem a concessão."
+ },
+ {
+  "ref": "Mat.5.33",
+  "gravidade": "baixa",
+  "problema": "“Não quebre o seu juramento” para οὐκ ἐπιορκήσεις: o sentido normal do verbo é “jurar falso, perjurar”; “quebrar o juramento” é extensão secundária, e o texto a escolhe como primeira.",
+  "sugestao": "“Não jure falso” (com a nota atual sobre a segunda leitura).",
+  "decisao": "rejeitado: epiorkeō também significa “não cumprir o juramento”, e a segunda metade do mandamento (“mas cumpra os seus juramentos”) favorece esse sentido; a nota já apresenta “jurar falsamente” como alternativa."
+ },
+ {
+  "ref": "Mat.6.4",
+  "gravidade": "baixa",
+  "problema": "“Lhe dará a recompensa” acrescenta o objeto “a recompensa”; o grego tem ἀποδώσει σοι (“lhe retribuirá”).",
+  "sugestao": "“e o seu Pai, que vê o que está em segredo, lhe retribuirá.”",
+  "decisao": "aceito: “lhe retribuirá” nos vv. 4, 6 e 18, sem acrescentar o objeto."
+ },
+ {
+  "ref": "Mat.6.8",
+  "gravidade": "baixa",
+  "problema": "A nota sobre Westcott-Hort está como sn, mas é de crítica textual (deveria ser tc). A frase “com poucos manuscritos” não é confirmada pela folha.",
+  "sugestao": "Reclassificar como tc e remover “com poucos manuscritos”.",
+  "decisao": "aceito: separei a nota de crítica textual (tc, edição confirmada na folha) da nota teológica, sem “poucos manuscritos”."
+ },
+ {
+  "ref": "Mat.6.11",
+  "gravidade": "baixa",
+  "problema": "“Dá-nos hoje o nosso pão de cada dia” reproduz de perto a fórmula litúrgica tradicional (ARC/ARA/NVI). A nota é excelente, mas a escolha do texto segue a forma protegida em vez de uma redação própria.",
+  "sugestao": "Manter “de cada dia” se quiser, mas reformular, p. ex. “Dá-nos hoje o pão de que precisamos” e deixar a nota; ou deixar como está e confirmar na revisão humana.",
+  "decisao": "aceito em parte: “Dá-nos hoje o nosso pão de cada dia” coincidia com a NVI; agora a frase segue a ordem do grego (“O nosso pão de cada dia dá-nos hoje”), com “de cada dia” mantido pela nota."
+ },
+ {
+  "ref": "Mat.6.12",
+  "gravidade": "baixa",
+  "problema": "A nota defende que o aoristo ἀφήκαμεν pode indicar perdão já concedido antes, mas a tradução “assim como nós também perdoamos” é presente e não transmite isso.",
+  "sugestao": "“assim como nós também já perdoamos aos nossos devedores”.",
+  "decisao": "rejeitado: em português “perdoamos” é também pretérito perfeito e já comporta o aoristo; “já perdoamos” fixaria uma leitura que a nota apresenta só como possível. Acrescentei essa explicação à nota."
+ },
+ {
+  "ref": "Mat.6.25",
+  "gravidade": "baixa",
+  "problema": "A nota tc diz que “NA28 (entre colchetes)” e “forte apoio”, e que o SBLGNT omite por “considerar a frase harmonização”; a folha só confirma presença em NA28/NA27/THGNT/WH/Tregelles/TR/Bizantino, não os colchetes, a força do apoio nem a motivação do SBL.",
+  "sugestao": "Reduzir ao confirmado: a frase “ou o que vão beber” aparece em quase todas as edições; o texto-base a omite.",
+  "decisao": "aceito: a nota agora traz só a presença da frase nas edições e a omissão no texto-base."
+ },
+ {
+  "ref": "Mat.2.17",
+  "gravidade": "baixa",
+  "problema": "A sn dá como fato a intenção de Mateus (“evitando apresentar o mal como propósito de Deus”). É uma interpretação, não um dado.",
+  "sugestao": "“Alguns intérpretes veem aí uma intenção de evitar ...”",
+  "decisao": "aceito: a intenção de Mateus agora aparece como leitura de muitos intérpretes."
+ },
+ {
+  "ref": "Mat.7.29",
+  "gravidade": "baixa",
+  "problema": "A nota diz que “deles” distingue os escribas “do povo” dos que se tornam discípulos (13:52; 23:34). A frase é confusa: o ponto de “deles” (αὐτῶν) é a distinção entre os escribas da liderança judaica e Jesus, e 13:52 fala de um escriba discípulo, não de “escribas do povo”.",
+  "sugestao": "“Com o pronome, os escribas aparecem como grupo de fora da comunidade de Jesus; cf. 13:52, um escriba que se tornou discípulo.”",
+  "decisao": "aceito em parte: reescrevi a nota para dizer que “deles” põe os escribas como grupo de fora da comunidade de Jesus, citando 13:52 só como o caso do escriba discípulo."
+ }
+]
