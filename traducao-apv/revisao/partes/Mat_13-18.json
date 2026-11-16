@@ -1,0 +1,106 @@
+[
+ {
+  "ref": "Mat.15.6",
+  "gravidade": "media",
+  "problema": "A oração 'οὐ μὴ τιμήσει τὸν πατέρα αὐτοῦ' (traduzida 'não precisará honrar o seu pai') não consta do texto da folha/TAGNT (o v. 5 termina em ὠφεληθῇς e o v. 6 começa em καὶ ἠκυρώσατε); só está no SBLGNT e no NA28. A nota tn a trata como texto-base comum, sem nota tc nem aviso de que a folha não a traz; a única menção a manuscritos ('alguns manuscritos acrescentam \"ou a sua mãe\"') é vaga e não corresponde a nenhum dado da folha. Além disso, 'não precisará' é leitura interpretativa de οὐ μὴ + futuro (negação enfática).",
+  "sugestao": "Acrescentar nota tc ancorada em 'não precisará honrar o seu pai': 'Esta oração (ou me timēsei ton patera autou) não consta do texto-base da folha de trabalho (TAGNT), mas está no SBLGNT e no NA28; a APV a traduz por ser necessária para completar a frase iniciada no v. 5. Lit. \"de modo nenhum honrará o seu pai\".' Retirar ou precisar a referência a 'alguns manuscritos'.",
+  "decisao": "aceito",
+  "motivo": "Conferido no SBLGNT (Matt.txt): a oração está no texto-base e falta só no TAGNT. Nova nota tc diz isso e traz, pelo aparato do SBLGNT, WH/NA28 iguais e Tregelles/Robinson-Pierpont com “ou a sua mãe”. Saíram as menções a manuscritos sem dado (inclusive ton nomon) e o revisar. A tn explica a negação enfática; mantido “não precisará” como sentido de dispensa."
+ },
+ {
+  "ref": "Mat.13.28",
+  "gravidade": "media",
+  "problema": "συλλέγω é traduzido 'arrancar' ('que vamos arrancá-lo'), e no v. 29 συλλέγοντες também vira 'ao arrancarem', fundindo-se com ἐκριζόω ('arranquem'). A própria nota diz que é o mesmo verbo dos vv. 30, 40, 41, 48 (traduzidos 'recolher'), mas o texto português apaga essa ligação e a distinção entre συλλέγω e ἐκριζόω no v. 29.",
+  "sugestao": "v. 28: 'Quer, então, que vamos recolhê-lo?' (ou 'que vão recolhê-lo'); v. 29: 'ao recolherem o joio, vocês arranquem pela raiz, junto com ele, também o trigo'.",
+  "decisao": "aceito",
+  "motivo": "v. 28 “recolher o joio”, v. 29 “ao recolherem o joio, vocês arranquem”: syllegō = recolher em todo o capítulo, distinto de ekrizoō; notas ajustadas."
+ },
+ {
+  "ref": "Mat.13.28",
+  "gravidade": "baixa",
+  "problema": "'Quer, então, que vamos arrancá-lo?' é truncado: 'que vamos' não é construção correta com 'quer', e ἀπελθόντες ('indo') ficou sem tradução; o pronome αὐτά (neutro plural) é reduzido a 'o' sem sujeito claro.",
+  "sugestao": "'Quer, então, que vamos e recolhamos o joio?' ou 'Quer, então, que a gente vá recolhê-lo?'",
+  "decisao": "aceito em parte",
+  "motivo": "“que vamos” é subjuntivo correto e já traduzia apelthontes; o objeto ficou explícito (“recolher o joio”) e a nota dá o literal com apelthontes."
+ },
+ {
+  "ref": "Mat.13.57",
+  "gravidade": "media",
+  "problema": "'Um profeta só não é honrado na sua própria terra e na sua própria casa' é ambíguo: 'só' fica solto e pode ser lido como 'um único profeta' ou 'apenas não é honrado'. O grego é 'não há profeta sem honra, a não ser na sua terra e na sua casa'. 'própria' foi acrescentado duas vezes sem base em αὐτοῦ.",
+  "sugestao": "'Um profeta só deixa de ser honrado na sua terra e na sua casa' ou 'Não há profeta sem honra, a não ser na sua terra e na sua casa.'",
+  "decisao": "aceito",
+  "motivo": "Agora “Um profeta só deixa de ser honrado na sua terra e na sua casa”, sem os “própria” acrescentados; nota com o literal completo."
+ },
+ {
+  "ref": "Mat.16.21",
+  "gravidade": "media",
+  "problema": "Nota tc diz que o nome duplo 'Jesus Cristo' 'seria raro nos Evangelhos (só em 1:1, 18)'. Isso é falso: ocorre também em Mc 1:1, Jo 1:17 e 17:3. Além disso, 'com alguns manuscritos antigos' não é confirmado pela folha, que só aponta Westcott-Hort.",
+  "sugestao": "'Westcott-Hort traz \"Jesus Cristo\". Em Mateus o nome duplo aparece só no início do Evangelho (1:1, 18); as demais edições consultadas não o trazem aqui.' Retirar 'com alguns manuscritos antigos' ou citá-los com certeza.",
+  "decisao": "aceito",
+  "motivo": "Retirado “com alguns manuscritos antigos” e corrigida a frase sobre o nome duplo (em Mateus, só 1:1, 18). O aparato do SBLGNT confirma que só WH traz Ἰησοῦς Χριστός."
+ },
+ {
+  "ref": "Mat.18.23",
+  "gravidade": "media",
+  "problema": "O guia manda traduzir δοῦλος por 'escravo' quando há senhor de escravos como condição social ou figura dela. Aqui o devedor pode ser 'vendido' com mulher e filhos (v. 25) e o ὁ κύριος é dono dos δοῦλοι; a própria nota admite que a relação é de propriedade e que συνδούλων é lit. 'coescravos'. A APV usa 'servos', 'servo', 'companheiros de serviço' em 18:23-35 (e 13:27), contra o guia.",
+  "sugestao": "Usar 'escravos' (e 'companheiro de escravidão'/'conscravo' para σύνδουλος) em 18:23-35, ou, se mantiver 'servos', marcar a nota com revisar: true explicando a exceção ao guia.",
+  "decisao": "aceito em parte",
+  "motivo": "18:23-35 agora com “escravos”, “escravo”, “companheiros de escravidão” e “Escravo mau”, pela regra do guia e por coerência com 10:24 (kyrios dono; venda no v. 25). Em 13:27 ficou “servos”, porque a parábola não põe essa condição em foco; a nota de 18:23 explica a diferença."
+ },
+ {
+  "ref": "Mat.13.35",
+  "gravidade": "baixa",
+  "problema": "Nota tc afirma que 'alguns manuscritos trazem também \"por meio do profeta Isaías\", leitura que Jerônimo já conhecia' e que o nome 'foi provavelmente acrescentado e depois retirado'. Nada disso é confirmado pela folha; a menção a Jerônimo e a explicação da história do texto são dados externos não verificados e a explicação ('acrescentado e depois retirado') é incoerente com a lógica de crítica textual.",
+  "sugestao": "Reduzir a: 'Alguns poucos manuscritos trazem \"Isaías\" em lugar de \"o profeta\"; a citação é de Sl 78:2, e o nome parece ser erro de copista.' Citar Jerônimo apenas se verificado.",
+  "decisao": "aceito",
+  "motivo": "Saíram Jerônimo e a leitura “Isaías”, sem dado. A tc agora se apoia só na folha e no aparato do SBLGNT (WH e Tregelles sem kosmou); revisar retirado."
+ },
+ {
+  "ref": "Mat.14.33",
+  "gravidade": "baixa",
+  "problema": "Os que estavam no barco 'prostraram-se' (προσεκύνησαν) e confessam Jesus; a nota mesmo diz que o sentido de adoração é forte. O guia manda 'tu' em louvor/oração dirigidos a Jesus, mas o texto traz 'você é o Filho de Deus'.",
+  "sugestao": "Decidir e uniformizar: ou 'tu és o Filho de Deus' (adoração), ou manter 'você' e explicar na nota por que o gesto de prostração não faz da frase um louvor.",
+  "decisao": "aceito em parte",
+  "motivo": "Mantido “você”, coerente com 16:16, Jo 1:49 e Mc 3:11: é confissão dirigida a Jesus na narrativa, não oração nem hino. A nota agora explica isso (opção 2 da sugestão)."
+ },
+ {
+  "ref": "Mat.14.33",
+  "gravidade": "baixa",
+  "problema": "Nota diz que a confissão do centurião (27:54) é 'com as mesmas palavras'. Em 27:54 o grego é ἀληθῶς θεοῦ υἱὸς ἦν οὗτος, com verbo e ordem diferentes (aqui εἶ, segunda pessoa).",
+  "sugestao": "'...e a do centurião (27:54), em fórmula muito parecida.'",
+  "decisao": "aceito",
+  "motivo": "Agora “em fórmula muito parecida”."
+ },
+ {
+  "ref": "Mat.13.32",
+  "gravidade": "baixa",
+  "problema": "A nota diz que κατασκηνοῦν 'é o verbo de 8:20 (kataskēnōsis, \"ninhos\")'. Em 8:20 ocorre o substantivo κατασκηνώσεις, não o verbo.",
+  "sugestao": "'Do mesmo radical do substantivo kataskēnōseis, \"ninhos\", de 8:20.'",
+  "decisao": "aceito",
+  "motivo": "Agora “do mesmo radical do substantivo kataskēnōseis, ‘ninhos’, de 8:20”."
+ },
+ {
+  "ref": "Mat.13.33",
+  "gravidade": "baixa",
+  "problema": "Nota diz que ἐνέκρυψεν é 'única ocorrência no NT' (acompanhando a folha), mas a mesma nota cita Lc 13:21 como paralelo exato (σάτα τρία); verificar se o texto-base de Lc 13:21 traz ἐνέκρυψεν, caso em que 'única ocorrência' seria falso.",
+  "sugestao": "Se Lc 13:21 traz ἐνέκρυψεν, trocar por 'só aqui e em Lc 13:21'; se não, dizer 'único uso neste verso paralelo a Lc 13:21, que traz outra forma'.",
+  "decisao": "aceito em parte",
+  "motivo": "Conferido no SBLGNT: Lc 13:21 traz ἔκρυψεν, então o hápax vale para o texto-base. A nota agora diz isso."
+ },
+ {
+  "ref": "Mat.14.27",
+  "gravidade": "baixa",
+  "problema": "A nota alinha Is 41:4; 43:10; 51:12 e diz 'onde vem junto com \"não temam\"'. A frase é imprecisa: o ἐγώ εἰμι de Is 41:4 e 43:10 não vem acompanhado de 'não temam' no mesmo contexto imediato; a combinação aparece em passagens vizinhas (ex.: 41:10; 43:1-5).",
+  "sugestao": "'...na Septuaginta (Is 41:4; 43:10; 51:12); em Is 41:10 e 43:5 a fórmula \"não temas, eu sou contigo\" aparece junto da promessa de presença.'",
+  "decisao": "aceito",
+  "motivo": "Reformulado: Is 41:4; 43:10; 51:12 para egō eimi; Is 41:10 e 43:1-5 para “não tenha medo” junto da presença de Deus."
+ },
+ {
+  "ref": "Mat.18.19",
+  "gravidade": "baixa",
+  "problema": "A fórmula fixa ἀμὴν λέγω ὑμῖν é 'Em verdade lhes digo' (guia §5); aqui foi rearranjada como 'Também lhes digo, em verdade'.",
+  "sugestao": "'Também em verdade lhes digo que...' ou 'De novo, em verdade lhes digo que...'.",
+  "decisao": "aceito",
+  "motivo": "Agora “De novo, em verdade lhes digo que...”, preservando a fórmula fixa; âncora da tc ajustada."
+ }
+]

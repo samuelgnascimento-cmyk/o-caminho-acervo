@@ -21,3 +21,26 @@ lote1 ac2a84e0d5f1aad83 / lote2 adfaad1325a6044a5 / lote3 ab5c2e313c35e5d12 / lo
 Rev Rom_1-8 ae37456e92a8e5b27; Finais (rev aplicada): Mat_1-7, Mat_8-12, Mrk_1-5, Gal. Eph pronto sem revisão.
 Rev Eph a2a538c3a7366042e (tradutor a0ae4d448142a54ae). Final: Luk_1-4.
 Rev 1Co_1-9 a565c70a8951ff128 (tradutor ac3b948a52d1cce95). Final: Jhn_1-5.
+Onda 2: Mat_13-18 traduzido (223/223, 457 notas) → rev ac5a73ec7711933f4. Nota: TAGNT sem 'οὐ μὴ τιμήσει τὸν πατέρα αὐτοῦ' em Mt 15:6 (está no SBLGNT); tradutor incluiu.
+Onda 2: Mrk_6-9 traduzido (181, 313 notas) → rev aff11f41800a0b6a9. Luk_5-8 traduzido (194, 353 notas) → rev (ver spawn).
+Onda 2: Jhn_6-9 traduzido (224 incl. 7:53, 244 notas) → rev (ver spawn). Scripts: regras.EXTRAS={'Jhn.7.53'} usado por validar/juntar/montar.
+# PAUSA 2026-11-15 15:15 UTC (Samuel: 'Pausa'). Todos parados. Para retomar: SendMessage a cada id. Act_7-11 a86fb096a48686906 (tradução interrompida); revisores interrompidos, respawnar: Mat_13-18, Mrk_6-9, Luk_5-8, Jhn_6-9. Tradutores prontos esperando revisão: Mat abb906e052e625759, Mrk a7a79441c22b73518, Luk a5ced19e7ae170821, Jhn a05d1bc694eadddd9. Commit/push bloqueado pelo classificador: pedir autorização ao Samuel.
+# RETOMADA 2026-11-16 02:02 UTC. Revisores: Mat_13-18 a6a60b2c59f957e38; Mrk_6-9 a2e38d826581a9228; Luk_5-8 a835a9079ce1207d5; Jhn_6-9 a557168c79c97178e. Act_7-11 a86fb096a48686906 retomado. Commit ainda bloqueado.
+Revisões prontas: Mrk_6-9 (22) → decisão a7a79441c22b73518; Mat_13-18 (13) → decisão abb906e052e625759; Luk_5-8 (17) → decisão a5ced19e7ae170821. Act_7-11 traduzido (221, 368 notas) → rev ab677d7e7a3fae5d9. SBLGNT oficial: /tmp/claude-0/data/sblgnt/data/sblgnt/text/<Book>.txt
+Rev Jhn_6-9 (15) → decisão a05d1bc694eadddd9.
+Final: Mrk_6-9 (15 aceitos, 7 em parte). Onda 3: Mrk_10-13 a0c628ff3513e869d.
+Final: Jhn_6-9 (10/4/1). Onda 3: Jhn_10-14 a0d34f4a44f609461.
+Final: Mat_13-18 (9/4/0).
+Final: Luk_5-8 (14/3/0). PENDENTE harmonizar Mt 8:9 (servo) com Lc 7:8 (escravo). Onda 3: Mat_19-23 a7a762d622bb91915; Luk_9-12 (ver spawn).
+Rev Act_7-11 (18) → decisão a86fb096a48686906. Regra GUIA: não citar 'a folha' nas notas (Jhn_6-9 corrigido à mão).
+Final: Act_7-11 (14/2/2). Tirei de At 9:2 a frase sobre o app (a tradução fica independente).
+Onda 3: Act_12-17 aa23a80f8a26078ca.
+Mrk_10-13 traduzido (166, 335 notas) → rev (ver spawn).
+# HARMONIZAR (passada final por livro): δοῦλος Mt 8:9 (servo) x Lc 7:2-10 (escravo); Mc 9:35 nota x Mc 10:44 "escravo de todos"; ἐγώ εἰμι "Sou eu" em Mc 6:50, 13:6, 14:62, Jo 6:20 (guia diz "Eu Sou" em uso absoluto) → decidir regra no GUIA.
+Jhn_10-14 traduzido (218, 320 notas) → rev ab49974493a8ba2bf. GUIA: decisões da onda 2 (parákletos=Advogado provisório; κύριε; sem app/folha).
+Rev Mrk_10-13 (16) → decisão a0c628ff3513e869d. Atenção: TAGNT pode errar a leitura do NA28 (Mc 10:28, 11:32) — conferir aparato SBLGNT.
+Mat_19-23 traduzido (195, 419 notas) → rev (ver spawn).
+Luk_9-12 traduzido (217, 334 notas) → rev (ver spawn).
+Final: Mrk_10-13 (10/4/2; 12:2 e 13:34 aguardam harmonização δοῦλος). Onda 3: Mrk_14-16 (ver spawn).
+# PAUSA 3: 2026-11-16 12:09 UTC (Samuel, via coordenador: "Pause a tradução ate que termine as demandas novas"). Todos parados.
+Ao retomar: respawnar revisores de Mat_19-23, Luk_9-12, Jhn_10-14 (interrompidos; tradutores com contexto: Mat a7a762d622bb91915, Luk a6644c01d701d285a, Jhn a0d34f4a44f609461). Retomar tradutores: Act_12-17 aa23a80f8a26078ca, Mrk_14-16 a1bbce93fda8de14d (mal começou).

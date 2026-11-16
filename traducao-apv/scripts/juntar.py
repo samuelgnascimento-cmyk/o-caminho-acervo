@@ -2,6 +2,8 @@
 Uso: python3 scripts/juntar.py <pasta fontes> <Livro> [<Livro> ...]
      python3 scripts/juntar.py --glosas            (só as glosas de glossario/partes/*.tsv)"""
 import glob, json, os, re, sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from regras import com_extras
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 NOMES = {'Mat': 'Mateus', 'Mrk': 'Marcos', 'Luk': 'Lucas', 'Jhn': 'João', 'Act': 'Atos', 'Rom': 'Romanos',
          '1Co': '1 Coríntios', '2Co': '2 Coríntios', 'Gal': 'Gálatas', 'Eph': 'Efésios', 'Php': 'Filipenses',
@@ -29,7 +31,7 @@ def glosas():
         print(f'{lingua}.tsv: +{novas} glosas ({len(corpo)} no total)')
 
 def livro(fontes, lv):
-    vs = json.load(open(os.path.join(fontes, f'{lv}.json'), encoding='utf-8'))
+    vs = com_extras(json.load(open(os.path.join(fontes, f'{lv}.json'), encoding='utf-8')))
     partes = sorted(glob.glob(os.path.join(RAIZ, 'traducao', 'partes', f'{lv}_*.json')),
                     key=lambda p: int(re.search(r'_(\d+)-', p).group(1)))
     junto = {}

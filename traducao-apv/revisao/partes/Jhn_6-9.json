@@ -1,0 +1,122 @@
+[
+ {
+  "ref": "Jhn.6.67",
+  "gravidade": "media",
+  "problema": "A nota sn diz que João “só fala deles [os Doze] aqui e em 20:24”. Falso: τοὺς δώδεκα aparece também em 6:70 e 6:71, versículos desta mesma parte.",
+  "sugestao": "Trocar por: “Primeira menção dos Doze em João, que não narra a sua escolha (cf. Mc 3:13-19); eles reaparecem em 6:70-71 e 20:24.”",
+  "decisao": "aceito",
+  "motivo": "Nota corrigida: os Doze reaparecem em 6:70-71 e 20:24."
+ },
+ {
+  "ref": "Jhn.7.15",
+  "gravidade": "media",
+  "problema": "γράμματα οἶδεν traduzido como “conhece as Escrituras”: o grego diz apenas “conhece letras/instrução”. A nota admite o sentido amplo, mas o texto principal já fixa o restrito, acréscimo interpretativo contra o guia.",
+  "sugestao": "Texto: “Como este homem tem instrução sem ter estudado?” (ou “conhece letras”); manter a nota explicando que o contexto aponta para o ensino das Escrituras.",
+  "decisao": "aceito",
+  "motivo": "Texto passa a “conhece as letras” (literal, mesma amplitude do grego); a nota explica que o contexto aponta para o saber das Escrituras."
+ },
+ {
+  "ref": "Jhn.7.39",
+  "gravidade": "media",
+  "problema": "(1) A nota tn afirma que “alguns manuscritos antigos e versões, entre eles o códice B” trazem dedomenon; a folha só confirma 03 (B) e traduções (NIV, KJV); “versões” antigas não são confirmadas. (2) O texto principal incorpora “dado” (“ainda não fora dado”), palavra que não está no texto-base (a folha a mostra como VARIANTE δεδομένον), sem sinalizar no texto; a justificativa está só na nota.",
+  "sugestao": "Nota: “alguns manuscritos, entre eles o códice B (03), trazem dedomenon (“dado”)”, sem “e versões”. Considerar o texto mais literal “pois o Espírito ainda não havia” ou manter “dado” só se a nota deixar claro que é suprimento do tradutor (o Lit. “ainda não era Espírito” já está na nota).",
+  "decisao": "aceito em parte",
+  "motivo": "Retirado “e versões” (fica só o códice B, 03). Mantido “ainda não fora dado” porque o literal “ainda não havia Espírito” induz a erro; a nota agora diz que “dado” não está no texto-base e foi suprido pela APV."
+ },
+ {
+  "ref": "Jhn.6.42",
+  "gravidade": "baixa",
+  "problema": "“Como, então, ele diz agora”: o “então” traduz οὖν, que a folha mostra só em TR/Bizantino no lugar de νῦν; o texto-base tem apenas νῦν. Acréscimo sem base no texto-base.",
+  "sugestao": "“Como ele diz agora: ‘Desci do céu’?”",
+  "decisao": "aceito",
+  "motivo": "O texto-base (SBLGNT conferido) tem só νῦν; retirado o “então”."
+ },
+ {
+  "ref": "Jhn.6.19",
+  "gravidade": "baixa",
+  "problema": "Nota: “cinco ou seis quilômetros”. 25 a 30 estádios de ~185 m dão cerca de 4,6 a 5,5 km; “seis” extrapola.",
+  "sugestao": "“uns cinco quilômetros”.",
+  "decisao": "aceito",
+  "motivo": "Nota: “uns cinco quilômetros (de 4,6 a 5,5 km)”."
+ },
+ {
+  "ref": "Jhn.6.20",
+  "gravidade": "baixa",
+  "problema": "ἐγώ εἰμι sem predicado: o guia manda “Eu Sou” + nota sn para o absoluto. O tradutor optou por “Sou eu” (justificado na nota, defensável), mas é desvio de termo fixo e a nota não está marcada revisar.",
+  "sugestao": "Manter “Sou eu” com a nota, mas marcar revisar: true para o revisor humano confirmar o desvio do guia (idem 9:9).",
+  "decisao": "aceito em parte",
+  "motivo": "Mantido “Sou eu” e nota marcada revisar, explicando o desvio do guia. Em 9:9 não: quem fala é o cego curado, numa identificação comum, e a nota ali mostra justamente isso."
+ },
+ {
+  "ref": "Jhn.6.30",
+  "gravidade": "baixa",
+  "problema": "“para que o vejamos e creiamos em você”: o “o” é acréscimo; ἵνα ἴδωμεν não tem objeto e fica ambíguo (o sinal? Jesus?).",
+  "sugestao": "“para que vejamos e creiamos em você”.",
+  "decisao": "aceito",
+  "motivo": "ἵνα ἴδωμεν não tem objeto; retirado o “o”."
+ },
+ {
+  "ref": "Jhn.6.58",
+  "gravidade": "baixa",
+  "problema": "Nota cita o TR em segunda pessoa arcaica (“os vossos pais comeram”); o guia fixa você/vocês. O mesmo em 8:38 (“vosso pai”, “vistes”, “ouvistes”).",
+  "sugestao": "Usar “os pais de vocês”, “o que vocês viram”, “o que vocês ouviram” nas notas de 6:58 e 8:38.",
+  "decisao": "aceito",
+  "motivo": "Notas de 6:58 e 8:38 passam a “os pais de vocês”, “o que vocês viram/ouviram”."
+ },
+ {
+  "ref": "Jhn.7.23",
+  "gravidade": "baixa",
+  "problema": "ὅλον ἄνθρωπον ὑγιῆ ἐποίησα traduzido “curei um homem inteiro”: ὑγιῆ (“são”) some do texto; a nota dá o literal, mas o texto perde o contraste.",
+  "sugestao": "“por que vocês se enfurecem comigo porque deixei um homem inteiramente são no sábado?”",
+  "decisao": "rejeitado",
+  "motivo": "ποιέω ὑγιῆ é traduzido “curar” em 5:11 e 5:15, que este versículo retoma; o literal está na nota. “Inteiramente são” desloca ὅλον, que qualifica ἄνθρωπον (o homem inteiro em contraste com uma parte do corpo)."
+ },
+ {
+  "ref": "Jhn.7.38",
+  "gravidade": "baixa",
+  "problema": "A nota afirma que a leitura (1) “é a leitura de Orígenes e de muitos pais gregos” e que a (2) tem apoio em “alguns escritores antigos do Ocidente”: atribuições patrísticas sem fonte e sem certeza. Precisa de conferência (Metzger, Textual Commentary, in loc.).",
+  "sugestao": "Reformular sem nomear pais, p. ex. “a pontuação (1) é a seguida por boa parte dos escritores gregos antigos; a (2) é atestada em autores antigos, sobretudo ocidentais”, ou verificar antes de manter Orígenes. Manter revisar.",
+  "decisao": "aceito",
+  "motivo": "Atribuições reformuladas sem nomes: pontuação (1) seguida pela maior parte dos escritores gregos antigos; (2) atestada em autores antigos, sobretudo ocidentais. Mantido revisar."
+ },
+ {
+  "ref": "Jhn.8.9",
+  "gravidade": "baixa",
+  "problema": "Nota tc diz “o TR também ‘até os últimos’, e nomeia Jesus”, dando a entender que só o TR nomeia Jesus; a folha mostra ὁ Ἰησοῦς presente em TR e Bizantino (só ἕως τῶν ἐσχάτων é exclusivo do TR).",
+  "sugestao": "“O TR e o Texto Bizantino acrescentam ‘e, acusados pela consciência’ e nomeiam Jesus (‘e Jesus ficou sozinho’); o TR traz também ‘até os últimos’.”",
+  "decisao": "aceito",
+  "motivo": "A folha mostra “acusados pela consciência” e “Jesus” no TR e no Bizantino; “até os últimos” e “em pé” só no TR. Nota corrigida."
+ },
+ {
+  "ref": "Jhn.8.31",
+  "gravidade": "baixa",
+  "problema": "ἀληθῶς μαθηταί μού ἐστε está no presente; o texto traz “serão de fato meus discípulos”, deslocando a apódose para o futuro.",
+  "sugestao": "“Se vocês permanecerem na minha palavra, são de fato meus discípulos;”",
+  "decisao": "aceito",
+  "motivo": "Apódose no presente (ἐστε): “são de fato meus discípulos”."
+ },
+ {
+  "ref": "Jhn.8.44",
+  "gravidade": "baixa",
+  "problema": "A nota tn diz que οὐκ ἔστηκεν pode ser “o imperfeito de stēkō”. A forma da folha é perfeito de ἵστημι; o imperfeito de stēkō seria ἐστήκει. A alternativa é discutida, mas a nota deixa a morfologia imprecisa. Conferir.",
+  "sugestao": "Reescrever: “a forma é o perfeito de histēmi (‘não se mantém firme’); alguns a ligam a stēkō, ‘não estava firme’”.",
+  "decisao": "aceito em parte",
+  "motivo": "A morfologia proposta está errada: ἐστήκει é mais-que-perfeito de ἵστημι. O SBLGNT conferido imprime ἔστηκεν com espírito brando, que é o imperfeito de στήκω; o perfeito de ἵστημι seria ἕστηκεν. A nota agora diz isso e registra a análise da folha."
+ },
+ {
+  "ref": "Jhn.9.22",
+  "gravidade": "baixa",
+  "problema": "Na nota sn, At 5:40 é citado como exemplo de exclusão da sinagoga como disciplina anterior; At 5:40 trata de açoite e proibição de falar, não de exclusão. A referência não sustenta a afirmação.",
+  "sugestao": "Retirar At 5:40 (manter Lc 6:22) ou trocar por referência pertinente (p. ex. Esd 10:8).",
+  "decisao": "aceito",
+  "motivo": "Retirado At 5:40; posto Esd 10:8 (exclusão da assembleia) junto com Lc 6:22."
+ },
+ {
+  "ref": "Jhn.9.38",
+  "gravidade": "baixa",
+  "problema": "Dado manuscrito: que 𝔓75 e ℵ* (forma original) omitem o v. 38 e o início do v. 39 coincide com o que conheço do aparato (também W e latinas antigas), mas não tenho certeza total do alcance exato; precisa de conferência no aparato do NA28/Metzger. Na nota tn, “Jesus aceita o gesto” é inferência (o texto não registra reação de Jesus) e o argumento é circular ao usar o próprio verso para provar o uso “sempre” para Deus.",
+  "sugestao": "Manter 𝔓75 e ℵ* e deixar revisar: true; acrescentar W e latinas antigas só após conferir. Na nota tn trocar “Jesus aceita o gesto” por “o relato não registra reprovação de Jesus (contraste At 10:25-26; Ap 19:10)”.",
+  "decisao": "aceito em parte",
+  "motivo": "Nota tn: “o relato não registra reprovação de Jesus (contraste At 10:25-26; Ap 19:10)” e “nas outras ocorrências em João”. Na nota tc ficam 𝔓75 e ℵ*, com revisar; W e as latinas não foram acrescentados sem conferir."
+ }
+]

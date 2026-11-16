@@ -1,0 +1,138 @@
+[
+ {
+  "ref": "Luk.7.2",
+  "gravidade": "media",
+  "problema": "δοῦλος do centurião traduzido 'servo' em 7:2, 3, 8 e 10. O guia manda 'escravo' quando o texto opõe o δοῦλος ao senhor/dono como condição social ou figura dela. Aqui a relação dono-escravo é explícita: o homem é propriedade do centurião (ὃς ἦν αὐτῷ ἔντιμος) e em 7:8 o centurião, que tem autoridade, dá ordens 'ao meu δοῦλος' em paralelo com os soldados sob o seu comando. A própria nota reconhece que 'este o era de fato'. Também destoa de Lc 2:29, onde a APV usou 'escravo' pelo par despotēs/doulos.",
+  "sugestao": "Usar 'escravo' em 7:2, 3, 8 e 10 (em 7:7 manter o παῖς como 'servo'/'criado', com a nota explicando que é a mesma pessoa), ou, se o revisor humano preferir 'servo', registrar a exceção com revisar:true e reformular a nota para não dizer que o foco 'não é a condição social'.",
+  "decisao": "aceito",
+  "motivo": "Há senhor de escravos explícito e ordem dada ao doulos (v. 8): pela regra da onda 1, “escravo” em 7:2, 3, 8, 10; παῖς (7:7) fica “servo”. Nota reescrita, revisar mantido pela divergência com Mt 8:9."
+ },
+ {
+  "ref": "Luk.8.2",
+  "gravidade": "media",
+  "problema": "Nota afirma 'Só Lucas registra que mulheres acompanhavam Jesus nas viagens desde a Galileia'. Isso é falso: Mc 15:40-41 e Mt 27:55 dizem que mulheres o seguiam e serviam desde a Galileia.",
+  "sugestao": "Reescrever: 'Só Lucas as menciona já no ministério na Galileia (cf. Mc 15:40-41; Mt 27:55, que as mencionam apenas junto à cruz).'",
+  "decisao": "aceito",
+  "motivo": "Correto: Mc 15:40-41 e Mt 27:55 dizem que elas o seguiam desde a Galileia. Nota corrigida: só Lucas as menciona já no ministério na Galileia."
+ },
+ {
+  "ref": "Luk.6.16",
+  "gravidade": "media",
+  "problema": "Nota diz que para Ἰούδαν Ἰακώβου 'não há base no grego' para 'irmão de Tiago'. É exagero: o genitivo sem substantivo expresso admite 'filho' ou 'irmão' (elipse de relação), e a leitura 'irmão' é defendida por léxicos e comentaristas (cf. Jd 1). A escolha 'filho' é razoável, mas a nota a apresenta como a única possível.",
+  "sugestao": "Trocar por: 'O genitivo subentende uma relação de parentesco; o mais comum é \"filho\" (cf. Ἰάκωβον Ἁλφαίου, v. 15), mas \"irmão\" também é gramaticalmente possível (cf. Jd 1). A APV segue \"filho\".' Marcar revisar:true.",
+  "decisao": "aceito em parte",
+  "motivo": "Nota suavizada (“irmão” é gramaticalmente possível, cf. Jd 1); mantido “filho” sem revisar, por ser escolha bem estabelecida."
+ },
+ {
+  "ref": "Luk.5.24",
+  "gravidade": "media",
+  "problema": "A nota diz que 'O \"pois\" traduz de'. δέ é conectivo suave (e/mas/ora), não causal; 'Pois' sugere γάρ e cria uma relação lógica que o grego não tem. O guia pede preservar os conectivos do grego.",
+  "sugestao": "Traduzir 'Ora, para que vocês saibam...' ou 'Mas, para que vocês saibam...', e ajustar a nota (hoje afirma que 'pois' traduz de).",
+  "decisao": "aceito",
+  "motivo": "δέ não é causal; texto passa a “Mas, para que vocês saibam”, como em Mt 9:6, e a nota foi ajustada."
+ },
+ {
+  "ref": "Luk.6.35",
+  "gravidade": "baixa",
+  "problema": "Nota diz 'com outros manuscritos que trazem mēdena' e que a leitura 'esperar de volta' 'é a da maioria das traduções e dos léxicos (BDAG)'. A folha não mostra nenhuma VARIANTE em μηδὲν ἀπελπίζοντες; a menção a manuscritos com μηδένα não é confirmada pela folha, e a atribuição genérica a BDAG não tem referência verificável. 'Formado por analogia com apolambanō' é especulação.",
+  "sugestao": "Escrever 'alguns manuscritos trazem mēdena' só se confirmado; trocar 'a leitura da maioria... (BDAG)' por 'sentido defendido por vários léxicos'; marcar revisar:true (hápax de sentido disputado).",
+  "decisao": "aceito",
+  "motivo": "Removidas a menção a manuscritos com mēdena (a folha e o SBLGNT não mostram) e a atribuição a BDAG; analogia com apolambanō apresentada como hipótese; revisar já estava marcado."
+ },
+ {
+  "ref": "Luk.8.26",
+  "gravidade": "baixa",
+  "problema": "Nota tc diz que 'outros manuscritos trazem gergesenos'. A folha só mostra a VARIANTE Γαδαρηνῶν (TR/Byz); 'gergesenos' não aparece como variante, apenas como lema no alerta de raridade.",
+  "sugestao": "Reduzir a 'alguns manuscritos trazem ainda uma terceira forma, \"gergesenos\"' sem afirmar mais, ou citar apenas o que a folha mostra (Γερασηνῶν vs Γαδαρηνῶν).",
+  "decisao": "aceito em parte",
+  "motivo": "Mantida a menção a “gergesenos” (forma real; a folha mostra o lema Γεργεσηνός), mas reduzida a “alguns manuscritos trazem ainda uma terceira forma”, sem afirmar mais."
+ },
+ {
+  "ref": "Luk.8.45",
+  "gravidade": "baixa",
+  "problema": "Nota tc atribui a THGNT e Tregelles a leitura 'Pedro e os que estavam com ele'. A folha mostra que THGNT/Tregelles só trazem 'καὶ οἱ'; 'μετ᾽ αὐτοῦ' é apenas de TR/Byz.",
+  "sugestao": "Reescrever: 'THGNT, Tregelles, TR e Byz acrescentam \"e os\" depois de Pedro; TR e Byz completam \"e os que estavam com ele\" (μετ᾽ αὐτοῦ).'",
+  "decisao": "aceito",
+  "motivo": "Corrigido conforme a folha: THGNT, Tregelles, TR e Byz acrescentam kai hoi; só TR e Byz completam met’ autou."
+ },
+ {
+  "ref": "Luk.6.28",
+  "gravidade": "baixa",
+  "problema": "Nota diz que 'o TR e o Byz trazem kai e a preposição hyper'. A folha mostra καὶ presente só no TR; hyper está em Tregelles, TR e Byz. Omite também a variante ὑμῖν (TR/Byz) no mesmo versículo.",
+  "sugestao": "Corrigir: 'O TR acrescenta kai; Tregelles, TR e Byz trazem hyper em vez de peri.'",
+  "decisao": "aceito",
+  "motivo": "Corrigido conforme a folha: kai só no TR; hyper em Tregelles, TR e Byz; acrescentada a variante hymin (TR, Byz)."
+ },
+ {
+  "ref": "Luk.5.18",
+  "gravidade": "baixa",
+  "problema": "Nota afirma 'um leito leve que quatro homens carregam': Lucas diz só 'homens' (ἄνδρες); 'quatro' vem de Mc 2:3. Além disso, 'klinidion (só aqui e no v. 24 no NT)' é incoerente: no v. 18 a palavra é klinē; klinidion aparece nos vv. 19 e 24.",
+  "sugestao": "Remover 'quatro' (ou citar Mc 2:3) e corrigir para 'klinidion (só nos vv. 19 e 24 no NT)'.",
+  "decisao": "aceito",
+  "motivo": "Removido “quatro” do texto da nota (agora atribuído a Mc 2:3) e corrigido klinidion para “só nos vv. 19 e 24”."
+ },
+ {
+  "ref": "Luk.8.13",
+  "gravidade": "baixa",
+  "problema": "Nota afirma como fato que 'A fé deles era real, mas passageira'. O texto diz apenas πιστεύουσιν πρὸς καιρόν; se era fé salvadora é ponto debatido (leituras arminiana e reformada). O guia pede apresentar as posições sérias em vez de decidir.",
+  "sugestao": "Trocar por: 'Lucas diz que \"creem\" por algum tempo; se isso é fé verdadeira que se perde ou fé aparente que nunca criou raiz é debatido; o texto marca a diferença pela falta de raiz e pela perseverança (v. 15).' Marcar revisar:true.",
+  "decisao": "aceito",
+  "motivo": "Nota passa a apresentar o debate (fé verdadeira que se perde ou fé aparente) sem decidir; marcado revisar."
+ },
+ {
+  "ref": "Luk.8.49",
+  "gravidade": "baixa",
+  "problema": "Nota diz que 'A demora causada pela mulher parece ter custado a vida da menina'. É inferência sem base: o v. 42 já diz que a menina 'estava morrendo' e o texto não liga a morte à demora.",
+  "sugestao": "Remover a frase.",
+  "decisao": "aceito",
+  "motivo": "Frase sobre a demora removida: inferência sem base no texto (v. 42 já diz que ela estava morrendo)."
+ },
+ {
+  "ref": "Luk.5.36",
+  "gravidade": "baixa",
+  "problema": "'Se o fizer, terá rasgado a nova': o grego tem futuro (σχίσει, 'rasgará'); 'terá rasgado' (futuro composto) muda o aspecto.",
+  "sugestao": "'Se o fizer, rasgará a nova, e o remendo tirado da nova não combinará com a velha.'",
+  "decisao": "aceito",
+  "motivo": "σχίσει é futuro simples: “rasgará a nova”."
+ },
+ {
+  "ref": "Luk.7.29",
+  "gravidade": "baixa",
+  "problema": "βαπτισθέντες é particípio circunstancial; 'pois tinham sido batizados' o transforma em causa explícita, que o grego não diz ('tendo sido batizados com o batismo de João'). Além disso 'reconheceram que Deus é justo' foge do termo fixo δικαιόω = justificar (a nota justifica, mas o texto poderia manter a forma literal na nota apenas).",
+  "sugestao": "'...reconheceram a justiça de Deus, tendo sido batizados com o batismo de João' (nota: lit. 'justificaram a Deus').",
+  "decisao": "aceito",
+  "motivo": "Particípio mantido circunstancial (“tendo sido batizados”) e texto “reconheceram a justiça de Deus”; a nota conserva o literal “justificaram a Deus”."
+ },
+ {
+  "ref": "Luk.6.32",
+  "gravidade": "baixa",
+  "problema": "χάρις traduzido 'favor' em 6:32-34 ('que favor merecem por isso?'), contra o termo fixo 'graça' do guia. A nota justifica, mas 'merecem' acrescenta ideia de mérito ausente em ποία ὑμῖν χάρις ἐστίν ('que graça/crédito há para vocês?') e soa teologicamente carregado.",
+  "sugestao": "Considerar 'que crédito têm vocês?' ou manter 'favor' sem 'merecem'; marcar revisar:true.",
+  "decisao": "aceito em parte",
+  "motivo": "Retirado “merecem” (ideia de mérito ausente): “que favor há para vocês nisso?” em 6:32-34; mantido “favor”, e não “crédito”, para ficar mais perto de charis; marcado revisar."
+ },
+ {
+  "ref": "Luk.5.17",
+  "gravidade": "baixa",
+  "problema": "'E o poder do Senhor estava com ele para curar' coincide palavra por palavra com a ARA, e 'com ele' é glosa não presente no grego (ἦν εἰς τὸ ἰᾶσθαι αὐτόν). Em 6:36 'Sejam misericordiosos, como o Pai de vocês é misericordioso' também fica muito próximo da NVI.",
+  "sugestao": "Reformular de modo independente, p. ex. 'e o poder do Senhor se fazia presente para que ele curasse' (5:17) e 'Tornem-se compassivos, como o Pai de vocês é compassivo' (6:36).",
+  "decisao": "aceito",
+  "motivo": "5:17 passa a “estava presente para que ele curasse” (auton como sujeito, sem “com ele”); 6:36 passa a “Sejam compassivos como o Pai de vocês é compassivo”, que também reflete melhor oiktirmōn (= “compassivo” em Êx 34:6 LXX)."
+ },
+ {
+  "ref": "Luk.7.34",
+  "gravidade": "baixa",
+  "problema": "Nota diz que a acusação 'pode ecoar Dt 21:20, onde o filho rebelde, \"glutão e beberrão\"'. Essas palavras correspondem ao hebraico; a Septuaginta de Dt 21:20 usa outros termos (symbolokopōn oinophlygei), não phagos/oinopotēs.",
+  "sugestao": "Acrescentar: 'no hebraico de Dt 21:20; a Septuaginta usa outras palavras'.",
+  "decisao": "aceito",
+  "motivo": "Acrescentado que “glutão e beberrão” é o hebraico de Dt 21:20 e que a Septuaginta usa outras palavras."
+ },
+ {
+  "ref": "Luk.6.1",
+  "gravidade": "baixa",
+  "problema": "Nota atribui a Metzger a explicação da origem de deuteroprōtos, com ordem de motivos ('primeiro' por causa de 6:6 e 'segundo' por causa de 4:31). A folha não confirma, e a ordem das glosas pode estar trocada em relação à fonte.",
+  "sugestao": "Conferir Metzger (A Textual Commentary, 2ª ed.) ou suavizar: 'a explicação mais aceita é que nasceu de glosas marginais de copistas (cf. Metzger)'.",
+  "decisao": "aceito",
+  "motivo": "Explicação suavizada: fusão de glosas marginais de copistas (cf. Metzger), sem detalhar a ordem dos motivos."
+ }
+]

@@ -31,3 +31,17 @@ def base_nt(ws):
 
 def base_at(ws):
     return [w for w in ws if w['tipo'][:1] in 'LQR']
+
+# Versículos que o TAGNT não traz como linha própria, mas que a APV traduz entre ⟦ ⟧
+# (o TAGNT junta Jo 7:53 ao bloco da adúltera sem numerá-lo). Chave: versículo; valor: o anterior.
+EXTRAS = {'Jhn.7.53': 'Jhn.7.52'}
+
+def com_extras(vs):
+    """Devolve o dicionário de versículos da fonte com os EXTRAS inseridos na ordem, sem palavras."""
+    if not any(a in vs for a in EXTRAS.values()): return vs
+    saida = {}
+    for r, ws in vs.items():
+        saida[r] = ws
+        for x, ant in EXTRAS.items():
+            if ant == r: saida[x] = []
+    return saida

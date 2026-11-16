@@ -1,0 +1,146 @@
+[
+ {
+  "ref": "Act.9.5",
+  "gravidade": "media",
+  "problema": "O tradutor usa 'tu' para Saulo falando à voz do céu (\"Quem és tu, Senhor?\"). O guia manda 'o senhor' para κύριε nas narrativas e reserva 'tu' a louvor/oração a Jesus (At 7:59-60; Ap 5:9). Saulo ainda não sabe quem fala (a pergunta é essa), e isso não é oração. A justificativa da nota (reconhece um ser divino) é discutível. Em 9:13-14 a extensão é mais defensável (Ananias fala com o Senhor Jesus já identificado, em visão, em tom de intercessão). Além disso, 10:14 e 11:8 (Pedro ao Senhor) e 10:4 (Cornélio ao anjo) não têm pronome e ficam coerentes com qualquer das opções.",
+  "sugestao": "Decidir e registrar no guia. Sugestão: manter 'tu' em 9:13-14 (Ananias já sabe que é o Senhor) e, em 9:5, ou adotar 'Quem é o senhor?' conforme a regra do guia, ou manter 'tu' como exceção declarada e aplicar a mesma regra a 22:8 e 26:15 para uniformidade. Em qualquer caso, ajustar a nota para dizer que é exceção ao guia.",
+  "decisao": "aceito em parte",
+  "motivo": "“tu” retirado: “Quem é o senhor?”, com nota sobre a ambiguidade de kyrie e a mesma forma prevista para 22:8 e 26:15; “tu” mantido em 9:13-14 (Ananias reconhece o Senhor)."
+ },
+ {
+  "ref": "Act.9.17",
+  "gravidade": "media",
+  "problema": "Texto traz 'Irmão Saulo', mas a nota diz que Ananias usa 'a forma hebraica do nome (ver v. 4)'. Em 9:4 a APV marca Σαοὺλ como 'Saul'. O grego aqui também é Σαοὺλ ἀδελφέ. Texto e nota se contradizem.",
+  "sugestao": "Traduzir 'Irmão Saul' (coerente com v. 4) ou, se mantiver 'Saulo', retirar da nota a referência à forma hebraica.",
+  "decisao": "aceito",
+  "motivo": "“Irmão Saul”, coerente com 9:4 e com a nota."
+ },
+ {
+  "ref": "Act.8.37",
+  "gravidade": "media",
+  "problema": "A nota tc, que o leitor verá, diz 'a folha o mostra só no Textus Receptus, não no Texto Bizantino'. Refere-se a uma ferramenta interna; não é dado de edição que se possa citar ao leitor.",
+  "sugestao": "Reescrever: 'Segundo o aparato usado pela APV, o versículo consta no Textus Receptus e não consta no Texto Bizantino/Majoritário.' (ou simplesmente omitir a frase sobre o Bizantino).",
+  "decisao": "aceito",
+  "motivo": "Retirada a menção à ferramenta; a nota nomeia as edições (TR sim, Bizantino não)."
+ },
+ {
+  "ref": "Act.8.9",
+  "gravidade": "media",
+  "problema": "A nota chama Justino Mártir de 'ele mesmo samaritano'. Justino nasceu em Flávia Neápolis (Siquém), na Samaria, mas de família pagã; não era samaritano de religião. A formulação induz a erro.",
+  "sugestao": "'Justino Mártir, nativo de Flávia Neápolis, na Samaria, diz que Simão era de Gitta...'.",
+  "decisao": "aceito",
+  "motivo": "Justino passa a ser “natural de Flávia Neápolis (a antiga Siquém), em Samaria”."
+ },
+ {
+  "ref": "Act.9.2",
+  "gravidade": "baixa",
+  "problema": "A nota sobre 'Caminho' termina com 'É desta designação que vem o nome do aplicativo O Caminho, onde esta tradução é publicada.' Frase promocional/autorreferente, fora do papel de nota exegética.",
+  "sugestao": "Remover a última frase da nota.",
+  "decisao": "rejeitado",
+  "motivo": "A frase sobre o nome do aplicativo foi pedida expressamente pelo coordenador para esta nota."
+ },
+ {
+  "ref": "Act.7.56",
+  "gravidade": "baixa",
+  "problema": "A nota diz que 'Filho do Homem' aparece na boca de outra pessoa que não Jesus 'cf. Ap 1:13; 14:14'. Nesses textos o grego é 'semelhante a filho de homem' (sem artigo), em visão de João, não o título usado como aqui. O paralelo próximo é Jo 12:34 (a multidão).",
+  "sugestao": "Trocar 'cf. Ap 1:13; 14:14' por 'cf. Jo 12:34' (a multidão), ou explicar a diferença.",
+  "decisao": "aceito",
+  "motivo": "Paralelo trocado por Jo 12:34; Ap 1:13 e 14:14 explicados como “semelhante a filho de homem”, sem artigo."
+ },
+ {
+  "ref": "Act.7.42",
+  "gravidade": "baixa",
+  "problema": "A nota apresenta como 'sentido provável' de Am 5:25 que Israel viveu quarenta anos sem sacrifícios no deserto. A leitura é disputada (a pergunta pode ser retórica com resposta 'sim, mas sem coração', ou negar o sacrifício), e o guia pede apresentar as posições sérias.",
+  "sugestao": "Apresentar as duas leituras de Amós (sem sacrifícios no deserto vs. pergunta retórica sobre sacrifício sem fidelidade) e dizer qual Estêvão parece usar.",
+  "decisao": "aceito",
+  "motivo": "A nota apresenta as duas leituras de Am 5:25 e diz que Estêvão parece usar a segunda."
+ },
+ {
+  "ref": "Act.7.58",
+  "gravidade": "baixa",
+  "problema": "A nota afirma que neanias 'indicava em geral um homem entre os vinte e os quarenta anos' sem fonte; é dado numérico que o guia manda não afirmar sem certeza.",
+  "sugestao": "Dizer 'jovem adulto, em idade de vigor (a faixa exata varia nas fontes antigas)'.",
+  "decisao": "aceito",
+  "motivo": "Faixa de idade retirada: “jovem adulto; a faixa varia nas fontes antigas”."
+ },
+ {
+  "ref": "Act.7.7",
+  "gravidade": "baixa",
+  "problema": "O grego começa com καί ('E a nação...'); a tradução inicia com 'Mas a nação', mudando o conectivo (o guia manda manter os conectivos).",
+  "sugestao": "'E a nação de quem forem escravos, eu a julgarei'.",
+  "decisao": "aceito",
+  "motivo": "Conectivo mantido: “E a nação...”."
+ },
+ {
+  "ref": "Act.7.37",
+  "gravidade": "baixa",
+  "problema": "'dentre os seus irmãos' traduz ἐκ τῶν ἀδελφῶν ὑμῶν ('vossos irmãos'); depois de 'para vocês', 'seus' fica ambíguo (pode soar como 3ª pessoa).",
+  "sugestao": "'dentre os irmãos de vocês'.",
+  "decisao": "rejeitado",
+  "motivo": "Mantido “dentre os seus irmãos”, igual à mesma citação em 3:22; com “vocês” o possessivo “seus” é o padrão e o contexto não deixa ambiguidade."
+ },
+ {
+  "ref": "Act.7.35",
+  "gravidade": "baixa",
+  "problema": "A nota diz que 'quatro frases começam com houtos' nos vv. 35-38, mas listam-se 'este Moisés', 'este Deus enviou', 'foi ele', 'este é' e há ainda 'este é' no v. 38; a contagem e a lista não batem com o grego (vv. 35 duas vezes, 36, 37, 38).",
+  "sugestao": "Dizer 'várias frases' ou listar corretamente: Touton (v. 35, duas vezes), houtos (vv. 36, 37, 38).",
+  "decisao": "aceito",
+  "motivo": "Lista corrigida: touton duas vezes no v. 35, houtos nos vv. 36, 37 e 38."
+ },
+ {
+  "ref": "Act.8.7",
+  "gravidade": "baixa",
+  "problema": "Nota truncada/confusa: 'termina com os espíritos, que é que saem gritando'.",
+  "sugestao": "'...e termina com os espíritos, que são os que saem gritando.'",
+  "decisao": "aceito",
+  "motivo": "Frase corrigida."
+ },
+ {
+  "ref": "Act.9.31",
+  "gravidade": "baixa",
+  "problema": "A nota tc diz que NA28, NA27, THGNT, WH e Tregelles trazem poreuomenē/eplēthyneto, mas não diz que o próprio SBLGNT (texto-base oficial) também os traz; a folha os perdeu. O leitor fica com a impressão de que a tradução se afasta do texto-base.",
+  "sugestao": "Acrescentar: 'O texto do SBLGNT publicado também traz essas duas palavras; elas faltam apenas na folha de trabalho automática.' (ou redigir sem citar a folha: 'a tradução segue o texto com poreuomenē e eplēthyneto').",
+  "decisao": "aceito",
+  "motivo": "A nota tc diz agora que o SBLGNT traz poreuomenē e eplēthyneto, e que só a base TAGNT as perdeu por erro (dado conferido pelo coordenador no SBLGNT oficial)."
+ },
+ {
+  "ref": "Act.9.18",
+  "gravidade": "baixa",
+  "problema": "A nota sn diz que Saulo 'é batizado por um discípulo comum, não por um apóstolo'. O verbo é passivo (ἐβαπτίσθη) e o texto não diz quem batizou; Ananias é o candidato natural, mas é inferência.",
+  "sugestao": "'Lucas não diz quem o batizou; provavelmente Ananias, um discípulo comum, não um apóstolo.'",
+  "decisao": "aceito",
+  "motivo": "“Lucas não diz quem o batizou; provavelmente foi Ananias”."
+ },
+ {
+  "ref": "Act.10.39",
+  "gravidade": "baixa",
+  "problema": "Omitido o καί de 'ὃν καὶ ἀνεῖλαν' ('a quem também mataram').",
+  "sugestao": "'a quem também mataram, pendurando-o num madeiro' (ou explicar a omissão).",
+  "decisao": "aceito",
+  "motivo": "kai traduzido: “E também o mataram”."
+ },
+ {
+  "ref": "Act.11.3",
+  "gravidade": "baixa",
+  "problema": "'entrou na casa de homens incircuncisos' acrescenta 'casa' (grego: πρὸς ἄνδρας, 'junto de homens'); a nota dá o literal, mas o acréscimo não é sinalizado como tal.",
+  "sugestao": "Acrescentar na nota 'casa' foi deduzido de 10:27-28; ou traduzir 'entrou onde estavam homens incircuncisos'.",
+  "decisao": "aceito em parte",
+  "motivo": "Tradução mantida; a nota informa que “na casa” foi acrescentado pelo contexto (10:25-27)."
+ },
+ {
+  "ref": "Act.7.3",
+  "gravidade": "baixa",
+  "problema": "A nota diz que syngeneia é raro no NT 'Lc 1:61; At 7:14', mas a folha marca 3 ocorrências; a terceira é este próprio v. 3. A lista fica incompleta.",
+  "sugestao": "'(Lc 1:61; At 7:3, 14)'.",
+  "decisao": "aceito",
+  "motivo": "Lista completada: Lc 1:61; At 7:3, 14."
+ },
+ {
+  "ref": "Act.7.14",
+  "gravidade": "baixa",
+  "problema": "Verificado: a leitura 'setenta e cinco' de 4QExodᵇ em Êx 1:5 é real (publicada em DJD XII), portanto a nota não é falsa. Convém apenas dar a base para o revisor humano conferir.",
+  "sugestao": "Acrescentar a referência 'F. M. Cross, DJD XII (1994)', ou suavizar para 'um manuscrito de Êxodo de Qumran'.",
+  "decisao": "aceito",
+  "motivo": "Acrescentada a referência: F. M. Cross, Discoveries in the Judaean Desert XII (1994)."
+ }
+]

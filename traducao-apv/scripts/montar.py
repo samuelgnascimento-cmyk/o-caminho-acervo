@@ -9,13 +9,13 @@ AQUI = os.path.dirname(os.path.abspath(__file__))
 RAIZ = os.path.dirname(AQUI)
 sys.path.insert(0, AQUI)
 from morfologia import hebraico, grego
-from regras import base_nt, base_at
+from regras import base_nt, base_at, com_extras
 
 fontes, livro = sys.argv[1:3]
 subprocess.run([sys.executable, os.path.join(AQUI, 'preparar.py'), fontes, livro, '/tmp/apv-trab'], check=True,
                stdout=subprocess.DEVNULL)
 auto = json.load(open(f'/tmp/apv-trab/{livro}.auto.json', encoding='utf-8'))
-vs = json.load(open(os.path.join(fontes, f'{livro}.json'), encoding='utf-8'))
+vs = com_extras(json.load(open(os.path.join(fontes, f'{livro}.json'), encoding='utf-8')))
 trad = json.load(open(os.path.join(RAIZ, 'traducao', f'{livro}.json'), encoding='utf-8'))
 meta = trad.pop('_livro')
 glos = {}
@@ -50,12 +50,14 @@ for ref, ws in vs.items():
                         'morf': grego(w['morf']) if NT else hebraico(w['morf']), 'cod': w['morf']})
     t = trad[ref]
     revisar = [f"{n['titulo']}: {n['texto']}" for n in t['n'] if n.get('revisar')]
-    for a in auto[ref]['alertas']:
+    au = auto.get(ref, {'alertas': [], 'notas': []})
+    if not ws: triagem.append(f'- {ref}: versículo sem linha no TAGNT; espelho vazio')
+    for a in au['alertas']:
         triagem.append(f'- {ref}: palavra rara {a}')
     for r in revisar:
         triagem.append(f'- {ref}: {r}')
     saida['versiculos'].append({'ref': ref, 'texto': t['t'], 'espelho': espelho, 'notas': t['n'],
-                                'aparato': auto[ref]['notas']})
+                                'aparato': au['notas']})
 
 def marcar(v):
     """Dá a cada nota uma marca no padrão NET (tn 1.2, tc 1.2, tn 1.2b) e a posição da âncora no texto."""

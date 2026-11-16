@@ -104,6 +104,11 @@ Nomes próprios: a forma tradicional das Bíblias em português (Pedro, Tiago, J
 - δοῦλος / δουλεύω / δουλόω: “escravo”, “ser escravo”, “escravizar” quando o texto contrasta com livre, liberto ou senhor de escravos como condição social ou figura dela (1Co 7:21-23; Rm 6:16-22; Gl 4); nos demais casos, “servo”. Nota na primeira ocorrência de cada livro.
 - ἅρπαξ: “extorsor” (distinto de κλέπτης, “ladrão”).
 
+**Decisões da onda 2:**
+- παράκλητος (Jo 14:16, 26; 15:26; 16:7; 1Jo 2:1): “Advogado”, provisório e com revisar:true, com nota listando Consolador, Conselheiro, Ajudador e Paráclito.
+- κύριε dirigido a Jesus por pessoas: “Senhor”, com tratamento “o senhor”; quem diz “Rabi” ou “Mestre” usa “você”. Quando quem fala ainda não sabe quem é (At 9:5; 22:8; 26:15): “Quem é o senhor?”, sem “tu”.
+- Notas são para o leitor da Bíblia: nunca mencione o aplicativo, a “folha” nem as ferramentas do projeto.
+
 **Versaletes:** no NT não use SENHOR em versaletes; o grego tem κύριος.
 
 ## 6. Notas: o que o leitor precisa
@@ -121,7 +126,9 @@ Escreva nota sempre que:
 Média esperada: uma a duas notas por versículo, mais nos trechos densos, menos nas listas e narrativas simples.
 
 **Rigor nas fontes:**
+- O leitor não conhece a "folha" (ferramenta interna). Nas notas, nunca escreva "a folha mostra"; nomeie as edições (NA28, SBLGNT, TR, Bizantino etc.).
 - Afirme sobre edições (NA28, SBLGNT, THGNT, Westcott-Hort, Tregelles, TR, Bizantino) só o que a folha mostra.
+- Quando a folha parecer falha (frase sem verbo, palavra do SBLGNT ausente), confira o texto oficial do SBLGNT em `/tmp/claude-0/data/sblgnt/data/sblgnt/text/<Livro em inglês>.txt` (ex.: `grep "^Acts 9:31" .../Acts.txt`). Já se viu o TAGNT perder palavras do SBLGNT em Ef 1:10, Mt 15:6 e At 9:31. Siga o SBLGNT e diga na nota tc que a palavra falta na base TAGNT. O aparato oficial do SBLGNT (WH, Treg, NIV, RP = Robinson-Pierpont/Bizantino) está em `/tmp/claude-0/data/sblgnt/data/sblgntapp/text/<Livro>.txt` e pode ser citado nas notas tc.
 - Cite manuscritos (𝔓46, ℵ, A, B, D...) só quando tiver certeza; na dúvida, fale de “manuscritos mais antigos” e “maioria dos manuscritos”.
 - Cite obras só se tiver certeza de que existem e dizem aquilo (ex.: Metzger, *A Textual Commentary on the Greek New Testament*, 2ª ed., 1994; BDAG). Nada de números de página inventados.
 - Não invente dados arqueológicos, estatísticas ou datas.

@@ -1,0 +1,130 @@
+[
+ {
+  "ref": "Mrk.10.28",
+  "gravidade": "media",
+  "problema": "A nota tn diz que o NA28 traz o aoristo ēkolouthēsamen. O aparato oficial do SBLGNT dá ἠκολουθήκαμέν a WH, Treg e NA28 e só o RP (Bizantino) com o aoristo. A afirmação sobre o NA28 vem do TAGNT e contradiz o aparato.",
+  "sugestao": "Reescrever: 'O SBLGNT, Westcott-Hort, Tregelles e o NA28 trazem o perfeito ēkolouthēkamen (“temos seguido”); o Texto Bizantino traz o aoristo ēkolouthēsamen (“seguimos”).' (o TR também, pelo TAGNT).",
+  "decisao": "aceito em parte",
+  "motivo": "TAGNT atribui o aoristo ao NA28; o aparato do SBLGNT dá o perfeito ao NA28. Sem como decidir, a nota não afirma mais a leitura do NA28: perfeito em SBLGNT, WH e Tregelles; aoristo no TR e no Bizantino."
+ },
+ {
+  "ref": "Mrk.11.32",
+  "gravidade": "media",
+  "problema": "A nota tc diz que o NA28 traz laon (“povo”). O aparato do SBLGNT dá ὄχλον a WH e NA28; laon é de Treg e RP. Dado falso sobre edição.",
+  "sugestao": "Reescrever: 'O SBLGNT, Westcott-Hort e o NA28 trazem ochlon (“multidão”); Tregelles, o Textus Receptus e o Texto Bizantino, laon (“povo”).'",
+  "decisao": "aceito em parte",
+  "motivo": "TAGNT e aparato do SBLGNT discordam quanto ao NA28; retirado o NA28 da nota. Ficou: ochlon em SBLGNT e WH; laon em Tregelles, TR e Bizantino."
+ },
+ {
+  "ref": "Mrk.12.26",
+  "gravidade": "media",
+  "problema": "A nota sn diz que a citação de Êx 3:6 é 'segundo a Septuaginta, sem o verbo eimi'. A LXX de Êx 3:6 traz 'ἐγώ εἰμι ὁ θεὸς τοῦ πατρός σου, θεὸς Ἀβραάμ...' e 3:15 tem outra forma; a redação de Marcos (com ὁ θεός repetido) é adaptação própria, próxima de At 7:32. Dizer 'segundo a Septuaginta' é impreciso.",
+  "sugestao": "Trocar por: 'Citação adaptada de Êx 3:6 (cf. 3:15), com a fórmula repetida “o Deus de...” e sem o verbo “sou”, que o português precisa; a forma é próxima de At 7:32.'",
+  "decisao": "aceito",
+  "motivo": "A LXX de Êx 3:6 traz eimi e outra fórmula; a nota agora diz que a citação é adaptada e próxima de At 7:32."
+ },
+ {
+  "ref": "Mrk.12.15",
+  "gravidade": "media",
+  "problema": "A nota tn é incoerente: diz que 'o SBLGNT põe a pergunta no fim do v. 14; a base da APV ... a põe no começo do v. 15', mas a base da APV é o SBLGNT. O leitor não entende de que base se fala (a divisão de versículos vem do TAGNT/folha).",
+  "sugestao": "Reescrever: 'No SBLGNT a pergunta “δῶμεν ἢ μὴ δῶμεν;” fecha o v. 14; a numeração tradicional das Bíblias em português a põe no começo do v. 15, e a APV a segue.'",
+  "decisao": "aceito",
+  "motivo": "Nota reescrita: no SBLGNT a pergunta fecha o v. 14; a APV segue a numeração tradicional das Bíblias em português."
+ },
+ {
+  "ref": "Mrk.10.13",
+  "gravidade": "media",
+  "problema": "A nota tn afirma que αὐτοῖς é 'masculino plural' e por isso refere-se a quem trazia as crianças, não a elas. A forma é dativo plural comum a masculino e neutro, e paidia é neutro; a referência às crianças não é excluída pela morfologia. Além disso o texto traduzido acrescenta 'os que as traziam', sem base explícita.",
+  "sugestao": "Dizer que αὐτοῖς é ambíguo (pode ser neutro, as crianças), que o contexto (o pedido de tocá-las e a reação de Jesus) sugere os que as traziam, e marcar 'os que as traziam' como explicitação.",
+  "decisao": "aceito",
+  "motivo": "Autois pode ser masculino ou neutro. A nota agora apresenta a ambiguidade e marca “os que as traziam” como explicitação apoiada no contexto."
+ },
+ {
+  "ref": "Mrk.10.20",
+  "gravidade": "media",
+  "problema": "A nota sn afirma que 'na tradição judaica o menino passava a responder pela observância dos mandamentos por volta dos treze anos'. É dado histórico sem fonte, que remete a prática posterior (bar mitzvah) e não é demonstrável para o séc. I.",
+  "sugestao": "Suprimir, ou suavizar: 'ἐκ νεότητος significa desde a juventude, sem precisar a idade; ele se declara fiel à Lei desde cedo.'",
+  "decisao": "aceito",
+  "motivo": "Retirada a afirmação sobre os treze anos; a nota agora só diz que neotēs não precisa a idade."
+ },
+ {
+  "ref": "Mrk.10.32",
+  "gravidade": "baixa",
+  "problema": "'Tomando de novo os Doze à parte': 'à parte' não está no grego de Mc 10:32 (παραλαβὼν πάλιν τοὺς δώδεκα, “tomando consigo de novo os Doze”); a expressão é de Mt 20:17 (κατ᾽ ἰδίαν). Acréscimo sem base.",
+  "sugestao": "“Tomando consigo de novo os Doze, começou a dizer-lhes...”",
+  "decisao": "aceito",
+  "motivo": "Paralambanō não implica “à parte”, que é de Mt 20:17; o texto agora diz “Tomando consigo de novo os Doze”."
+ },
+ {
+  "ref": "Mrk.10.6",
+  "gravidade": "baixa",
+  "problema": "O 'Deus' no texto principal é acréscimo do Textus Receptus/Bizantino (ὁ θεός), não do texto-base; o português 'os fez' dispensa sujeito. A nota explica, mas o texto traz palavra de outra edição sem sinal.",
+  "sugestao": "Considerar tirar 'Deus' do texto ('os fez homem e mulher') ou marcá-lo com ⟦ ⟧; manter a nota tc.",
+  "decisao": "aceito",
+  "motivo": "Retirado “Deus” do texto (‘os fez homem e mulher’), seguindo o texto-base; a nota tc explica que o sujeito é Deus e que o TR acrescenta ho theos."
+ },
+ {
+  "ref": "Mrk.10.44",
+  "gravidade": "baixa",
+  "problema": "A nota tn contém comentário interno ('a escolha precisa ser harmonizada na revisão') e remete a texto de 9:35 que o leitor não vê; deve ir para o campo revisar, não para o texto da nota. Já anotado para passada posterior (δοῦλος 'escravo' aqui x 'servo' em 12:2 e 13:34; nota de 9:35).",
+  "sugestao": "Retirar a frase final da nota e deixar só a justificativa; harmonizar δοῦλος em 10:44, 12:2 e 13:34 e na nota de 9:35.",
+  "decisao": "aceito",
+  "motivo": "Retirada da nota a frase interna sobre harmonização; revisar:true mantido. A nota está honesta. A escolha entre “escravo” e “servo” fica para a passada de harmonização."
+ },
+ {
+  "ref": "Mrk.12.2",
+  "gravidade": "baixa",
+  "problema": "δοῦλος traduzido 'servo' com nota; o guia manda 'escravo' quando há contraste com senhor de escravos como condição social (parábola do proprietário e dos escravos). Mesma questão em 13:34. Harmonização já prevista.",
+  "sugestao": "Decidir na passada de harmonização; se mantiver 'servo', a justificativa (profetas) deve citar o guia.",
+  "decisao": "rejeitado",
+  "motivo": "Por ora fica “servo”, decisão adiada para a passada de harmonização. A nota diz o literal (“escravo”) e a razão (eco de “meus servos, os profetas”); não cita o guia, porque as notas são para o leitor. Marcada revisar:true."
+ },
+ {
+  "ref": "Mrk.13.34",
+  "gravidade": "baixa",
+  "problema": "δούλοις 'servos' (ver nota de 12:2): possível desvio da regra do guia, a harmonizar.",
+  "sugestao": "Ver Mrk.12.2.",
+  "decisao": "rejeitado",
+  "motivo": "Como em 12:2: “servos” mantido até a harmonização, com nota honesta (lit. “escravos”). Marcada revisar:true."
+ },
+ {
+  "ref": "Mrk.13.6",
+  "gravidade": "baixa",
+  "problema": "'Sou eu' x 'Eu Sou' (ἐγώ εἰμι): a nota inclui a frase 'Decisão a harmonizar... na revisão humana', que é comentário interno e não deve estar no texto da nota (o campo revisar já marca). Já anotado para passada posterior.",
+  "sugestao": "Retirar a frase interna; decidir a tradução junto com 6:50 e 14:62.",
+  "decisao": "aceito",
+  "motivo": "Retirada da nota a frase interna; revisar:true mantido. A escolha entre “Sou eu” e “Eu Sou” fica para a passada com 6:50 e 14:62."
+ },
+ {
+  "ref": "Mrk.11.26",
+  "gravidade": "baixa",
+  "problema": "A nota diz que o versículo foi 'tirado quase palavra por palavra de Mt 6:15'. Mt 6:15 tem outra redação (ἐὰν δὲ μὴ ἀφῆτε τοῖς ἀνθρώποις...); a dependência é só de teor. Metzger é citado sem ressalva.",
+  "sugestao": "'...formado a partir do teor de Mt 6:14-15 (cf. Metzger)'.",
+  "decisao": "aceito em parte",
+  "motivo": "A segunda metade de Mc 11:26 TR é de fato quase idêntica a Mt 6:15; a nota agora diz que o versículo foi formado a partir de Mt 6:15 (cf. 6:14), cuja segunda metade é quase idêntica (Metzger)."
+ },
+ {
+  "ref": "Mrk.13.30",
+  "gravidade": "baixa",
+  "problema": "Na nota, 'Os que o seguem entendem que “todas essas coisas” são...' é ambíguo (parece referir-se aos discípulos); o antecedente é o sentido 'contemporâneos'.",
+  "sugestao": "'Quem adota esse sentido entende que “todas essas coisas” são os acontecimentos dos vv. 5-23...'",
+  "decisao": "aceito",
+  "motivo": "Antecedente corrigido: “Quem adota esse sentido entende...”."
+ },
+ {
+  "ref": "Mrk.13.9",
+  "gravidade": "baixa",
+  "problema": "'Entregarão vocês aos tribunais' é seco e ambíguo quanto ao sujeito (impessoal); o português natural pede pronome oblíquo.",
+  "sugestao": "'Eles os entregarão aos tribunais' ou 'Vocês serão entregues aos tribunais'.",
+  "decisao": "aceito em parte",
+  "motivo": "Adotada outra forma impessoal: “Vão entregá-los aos tribunais”, que não introduz um sujeito “eles” sem referente; a nota dá o literal."
+ },
+ {
+  "ref": "Mrk.12.15",
+  "gravidade": "baixa",
+  "problema": "A nota sn afirma que Jesus pede o denário porque 'não a tem consigo' e os adversários têm. É inferência não dita no texto.",
+  "sugestao": "Introduzir com 'provavelmente' ou retirar.",
+  "decisao": "aceito",
+  "motivo": "A nota agora diz “provavelmente não a tinha consigo”."
+ }
+]

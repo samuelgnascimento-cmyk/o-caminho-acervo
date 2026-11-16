@@ -1,10 +1,12 @@
 """Confere uma parte traduzida: todos os versículos do trecho, âncoras presentes, tipos válidos, campos completos.
 Uso: python3 scripts/validar_parte.py <pasta fontes> traducao/partes/<Livro>_<ini>-<fim>.json"""
 import json, os, re, sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from regras import com_extras
 fontes, arq = sys.argv[1:3]
 m = re.match(r'(\w+)_(\d+)-(\d+)\.json$', os.path.basename(arq))
 livro, ini, fim = m.group(1), int(m.group(2)), int(m.group(3))
-vs = json.load(open(os.path.join(fontes, f'{livro}.json'), encoding='utf-8'))
+vs = com_extras(json.load(open(os.path.join(fontes, f'{livro}.json'), encoding='utf-8')))
 esperados = [r for r in vs if ini <= int(r.split('.')[1]) <= fim]
 d = json.load(open(arq, encoding='utf-8'))
 erros = []

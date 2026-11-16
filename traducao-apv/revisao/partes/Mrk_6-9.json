@@ -1,0 +1,178 @@
+[
+ {
+  "ref": "Mrk.9.3",
+  "gravidade": "media",
+  "problema": "Palavra do grego omitida: λευκὰ λίαν (“extremamente brancas”). A tradução diz só “brancas”, e o grau de brancura é o ponto da comparação com o pisoeiro. Além disso, γναφεύς é traduzido “lavadeiro”, enquanto a nota diz “pisoeiro”; o texto e a nota divergem.",
+  "sugestao": "“...e as suas roupas ficaram resplandecentes, extremamente brancas, como nenhum pisoeiro na terra seria capaz de branqueá-las.” (ou manter “lavadeiro” e dizer na nota que é o artesão que alvejava tecidos)",
+  "decisao": "aceito",
+  "motivo_decisao": "Acrescentado “extremamente” (leuka lian); mantido “lavadeiro” no texto e a nota agora explica que gnapheus é o pisoeiro."
+ },
+ {
+  "ref": "Mrk.7.4",
+  "gravidade": "media",
+  "problema": "Referência bíblica errada na nota de “jarros, vasilhas de bronze”: Lv 15:12 trata de vaso de barro (quebrado) e de madeira (lavado), não de metal. A purificação de utensílios de metal por lavagem/fogo está em Lv 6:28 (6:21 no hebraico) e Nm 31:22-23.",
+  "sugestao": "Trocar “(Lv 15:12)” por “(Lv 6:28; Nm 31:22-23)”.",
+  "decisao": "aceito",
+  "motivo_decisao": "Lv 15:12 trata de barro e madeira; trocado por Lv 6:28 (lavagem) e Nm 31:22-23 (fogo)."
+ },
+ {
+  "ref": "Mrk.7.19",
+  "gravidade": "media",
+  "problema": "Nota sobre καθαρίζων atribui a leitura a Orígenes e Crisóstomo (“Assim o entenderam Orígenes e Crisóstomo”) sem que a folha confirme; o guia exige certeza para citar autores/obras. A atribuição patrística dessa passagem é discutida (há quem cite esses Pais para a leitura neutra/digestiva).",
+  "sugestao": "Retirar os nomes: “Assim o entendem a maioria dos estudiosos hoje e já parte dos intérpretes antigos”, ou citar só se houver passagem verificada. Em tc, trocar “passou a muitas traduções antigas” por algo preciso (p. ex. “passou a algumas traduções em português tradicionais”).",
+  "decisao": "aceito",
+  "motivo_decisao": "Retirados os nomes de Orígenes e Crisóstomo (não verificáveis aqui); a nota tc agora diz que a leitura neutra aparece nas traduções feitas a partir do Textus Receptus."
+ },
+ {
+  "ref": "Mrk.7.19",
+  "gravidade": "baixa",
+  "problema": "“Assim, declarava puros todos os alimentos”: o “Assim” não existe no grego e pesa a leitura (participação de Jesus vs. comentário de Marcos). O participio nominativo masculino já é comentário de Marcos.",
+  "sugestao": "Usar “(Com isso, ele declarava puros todos os alimentos.)” ou deixar sem conectivo explícito e manter a explicação na nota.",
+  "decisao": "aceito",
+  "motivo_decisao": "Texto agora: “(Com isso, declarava puros todos os alimentos.)”; os parênteses marcam o comentário do narrador, e a nota explica."
+ },
+ {
+  "ref": "Mrk.6.50",
+  "gravidade": "media",
+  "problema": "“Sou eu” para ἐγώ εἰμι (sem predicado). O guia manda “Eu Sou” para ἐγώ εἰμι “absoluto” e nota sn (Êx 3:14; Is 43:10). Aqui não há predicado no grego, portanto formalmente absoluto; a escolha “Sou eu” é defensável pelo contexto (identificação), e a nota explica, mas fere a letra do guia. Também a nota afirma uma regra (“A APV reserva ‘Eu Sou’ para usos absolutos sem predicado possível”) que não consta no guia e que, aplicada ao pé da letra, incluiria este caso.",
+  "sugestao": "Manter “Sou eu” somente se a coordenação decidir assim; manter revisar:true e reescrever a frase da nota: “O guia pede ‘Eu Sou’ nos usos absolutos; aqui, por ser fala de identificação a discípulos assustados, optou-se por ‘Sou eu’, com a leitura ‘Eu Sou’ registrada acima. Decisão para revisão humana (cf. 13:6; 14:62).”",
+  "decisao": "aceito em parte",
+  "motivo_decisao": "Mantido “Sou eu” (fala de identificação diante do “fantasma”, como Jo 6:20) e revisar:true; a nota não afirma mais uma regra fora do guia: diz que o guia pede “Eu Sou” no absoluto e deixa a decisão para a revisão humana."
+ },
+ {
+  "ref": "Mrk.6.2",
+  "gravidade": "media",
+  "problema": "Nota em “milagres” afirma que Marcos “reserva” sēmeion para o sinal que os fariseus exigem (8:11-12). Falso como generalização: Marcos usa sēmeion também em 13:4, 13:22 e 16:17, 20 (este último fora do texto crítico, mas 13:4, 22 são seguros).",
+  "sugestao": "“Marcos raramente usa ‘sinal’ (sēmeion) para os milagres de Jesus; no primeiro Evangelho o termo aparece primeiro no pedido dos fariseus (8:11-12).”",
+  "decisao": "aceito em parte",
+  "motivo_decisao": "A generalização “reserva” estava errada (13:4, 22); mas “raramente” também seria impreciso, pois Marcos nunca chama de sēmeion os milagres de Jesus. Nova redação cita 8:11-12 e 13:4, 22."
+ },
+ {
+  "ref": "Mrk.6.17",
+  "gravidade": "media",
+  "problema": "“por causa de Herodias, mulher de seu irmão Filipe, com quem ele tinha se casado”: “ele” é ambíguo em português (Filipe ou Herodes). No grego o sujeito de ἐγάμησεν é Herodes (Antipas).",
+  "sugestao": "“...mulher de Filipe, seu irmão, pois Herodes se casara com ela.” (ou “...porque ele, Herodes, se casara com ela”)",
+  "decisao": "aceito",
+  "motivo_decisao": "Ambiguidade real; texto: “mulher de Filipe, seu irmão, porque Herodes tinha se casado com ela”."
+ },
+ {
+  "ref": "Mrk.7.4",
+  "gravidade": "baixa",
+  "problema": "Nota sobre manuscritos: “o Códice de Beza, D, e o Códice W” repete o mesmo testemunho duas vezes (Beza = D = 05). A folha traz só “05, 032”.",
+  "sugestao": "“Alguns manuscritos (o Códice de Beza, D/05, e o Códice Freer, W/032) trazem hotan elthōsin, ‘quando chegam’.”",
+  "decisao": "aceito em parte",
+  "motivo_decisao": "Não havia repetição: Beza é D (05) e W é outro códice (032). Ainda assim, acrescentados os números da folha e o nome Freer para clareza."
+ },
+ {
+  "ref": "Mrk.6.4",
+  "gravidade": "baixa",
+  "problema": "“Não há profeta sem honra, a não ser na sua terra, entre os seus parentes e na sua casa” segue de muito perto a redação da NAA (sequência “a não ser na sua terra, entre os seus parentes e na sua casa”). Risco de cópia de tradução protegida.",
+  "sugestao": "Reformular, por ex.: “Um profeta só é desprezado na sua terra, entre os seus parentes e dentro da sua casa” (ἄτιμος = sem honra; manter “sem honra” se quiser literalidade: “Um profeta não fica sem honra, exceto em sua terra...”).",
+  "decisao": "aceito",
+  "motivo_decisao": "Por cautela, reformulado: “Nenhum profeta fica sem honra, exceto em sua própria terra...”; o literal fica na nota."
+ },
+ {
+  "ref": "Mrk.6.50",
+  "gravidade": "baixa",
+  "problema": "“Coragem! Sou eu. Não tenham medo” é idêntico à NVI nessa fórmula.",
+  "sugestao": "Variar: “Tenham ânimo! Sou eu. Não temam.”",
+  "decisao": "aceito em parte",
+  "motivo_decisao": "Trocado “Coragem!” por “Tenham ânimo!”; mantido “Não tenham medo”, forma corrente que a APV já usa em 5:36."
+ },
+ {
+  "ref": "Mrk.6.21",
+  "gravidade": "baixa",
+  "problema": "“Chegou, porém, um dia oportuno”: “porém” acrescenta contraste que não está no grego (Καὶ γενομένης ἡμέρας εὐκαίρου).",
+  "sugestao": "“E, chegando um dia oportuno, ...” ou “Chegou, então, um dia oportuno”.",
+  "decisao": "aceito",
+  "motivo_decisao": "“porém” trocado por “então”; o kai é só narrativo."
+ },
+ {
+  "ref": "Mrk.6.31",
+  "gravidade": "baixa",
+  "problema": "δεῦτε ὑμεῖς αὐτοί: o enfático αὐτοί (“vocês mesmos/sozinhos”) ficou sem equivalente claro: “Venham vocês, à parte”.",
+  "sugestao": "“Venham, vocês mesmos, à parte, para um lugar deserto...”",
+  "decisao": "aceito em parte",
+  "motivo_decisao": "O enfático autoi é traduzido por “sozinhos” (“Venham vocês, sozinhos, à parte”), mais claro que “vocês mesmos” para o sentido de retiro."
+ },
+ {
+  "ref": "Mrk.6.25",
+  "gravidade": "baixa",
+  "problema": "“Quero que o senhor me dê”: o guia reserva “o senhor” para quem chama alguém de κύριε; a moça não usa título. A nota admite isso, mas o texto diverge da regra (outros falantes sem κύριε recebem “você”).",
+  "sugestao": "Ou “Quero que você me dê” (e nota sobre o respeito devido ao rei), ou manter “o senhor” e marcar revisar:true por ser exceção ao guia.",
+  "decisao": "aceito em parte",
+  "motivo_decisao": "Nem “você” (familiar diante de um rei) nem “o senhor” (que o guia liga ao kyrie): texto sem pronome, “Quero que me dê”, e a nota explica."
+ },
+ {
+  "ref": "Mrk.8.32",
+  "gravidade": "baixa",
+  "problema": "A nota cita Mt 16:22 em “tu/te/ti” (“Deus tenha compaixão de ti, Senhor!”). Pedro diz κύριε a Jesus, caso em que o guia prescreve “o senhor”; além disso a citação soa próxima de tradições protegidas.",
+  "sugestao": "“Que Deus tenha misericórdia do senhor! Isso jamais lhe acontecerá!” ou parafrasear em prosa sem citar.",
+  "decisao": "aceito",
+  "motivo_decisao": "A nota não cita mais Mt 16:22 com “tu”; descreve o conteúdo do protesto em prosa."
+ },
+ {
+  "ref": "Mrk.7.6",
+  "gravidade": "baixa",
+  "problema": "A nota diz que a citação de Is 29:13 é “muito próxima da Septuaginta”. Isso vale para a segunda parte (“mandamentos e doutrinas de homens”); a primeira parte (“este povo me honra com os lábios”) diverge bastante do texto da LXX (“aproxima-se de mim com a boca e com os lábios me honra”).",
+  "sugestao": "“Citação de Is 29:13, próxima da Septuaginta na segunda metade e resumida na primeira.”",
+  "decisao": "aceito",
+  "motivo_decisao": "A nota agora diz que a primeira metade da citação é resumida e a segunda é próxima da Septuaginta, com a forma da LXX."
+ },
+ {
+  "ref": "Mrk.8.12",
+  "gravidade": "baixa",
+  "problema": "Nota afirma que “esta geração” é “sempre negativa” em Marcos, citando 13:30, onde o uso é neutro (a geração que verá o cumprimento).",
+  "sugestao": "“Em Marcos a expressão costuma ser negativa (8:38; 9:19); em 13:30 designa o tempo que verá os acontecimentos.”",
+  "decisao": "aceito",
+  "motivo_decisao": "13:30 tem uso neutro; corrigido para “costuma ser negativa”."
+ },
+ {
+  "ref": "Mrk.9.2",
+  "gravidade": "baixa",
+  "problema": "Nota sobre μετεμορφώθη diz que a palavra “só volta em Rm 12:2 e 2Co 3:18”; omite Mt 17:2, o paralelo.",
+  "sugestao": "“Também em Mt 17:2, e em Rm 12:2 e 2Co 3:18...”",
+  "decisao": "aceito",
+  "motivo_decisao": "Acrescentado o paralelo de Mt 17:2."
+ },
+ {
+  "ref": "Mrk.7.29",
+  "gravidade": "baixa",
+  "problema": "Afirmação não sustentada: “É a única pessoa em Marcos que vence Jesus numa discussão” (interpretativa; Marcos apresenta a mulher aceitando o argumento de Jesus e aprofundando-o).",
+  "sugestao": "“A resposta dela inverte o argumento de Jesus a favor dela; ele a aceita.”",
+  "decisao": "aceito",
+  "motivo_decisao": "A afirmação interpretativa foi trocada pela descrição: ela vira a imagem a seu favor, e Jesus aceita."
+ },
+ {
+  "ref": "Mrk.9.35",
+  "gravidade": "baixa",
+  "problema": "Nota sobre ἔσται diz que a leitura imperativa “combina com o tom de ensino”, mas o texto traduz “será” (leitura de consequência). Nota e texto se contradizem.",
+  "sugestao": "Ajustar a nota (“a APV seguiu a leitura de consequência, ‘será’; a imperativa, ‘que seja’, é possível”) ou mudar o texto para “que seja o último de todos”.",
+  "decisao": "aceito em parte",
+  "motivo_decisao": "Não havia contradição de fato (o texto “será” mantém a ambiguidade), mas a nota agora diz isso explicitamente."
+ },
+ {
+  "ref": "Mrk.9.18",
+  "gravidade": "baixa",
+  "problema": "Frase auto-referencial na nota: “A nota não reduz o relato a diagnóstico moderno...”.",
+  "sugestao": "Reescrever sem referir a própria nota: “O relato não se reduz a diagnóstico moderno, e nem toda epilepsia é caso de possessão.”",
+  "decisao": "aceito",
+  "motivo_decisao": "Frase reescrita sem se referir à própria nota."
+ },
+ {
+  "ref": "Mrk.9.50",
+  "gravidade": "baixa",
+  "problema": "Nota afirma como fato que o cloreto de sódio puro não perde o sabor e que o sal do mar Morto era misturado a outros minerais e se dissolvia. Dado não confirmável pela folha, apresentado sem ressalva.",
+  "sugestao": "Suavizar: “Alguns intérpretes lembram que o sal de má qualidade, misturado a outras substâncias, podia perder o gosto salgado.”",
+  "decisao": "aceito",
+  "motivo_decisao": "Nota suavizada: “alguns intérpretes lembram...”, mais a leitura do paradoxo."
+ },
+ {
+  "ref": "Mrk.6.40",
+  "gravidade": "baixa",
+  "problema": "Notas apresentam como fato elementos sem base no texto: “com roupas coloridas” (6:40) e “Jesus aparece como novo Moisés” (afirmação sem ressalva). O guia pede cautela com acréscimos.",
+  "sugestao": "Tirar “com roupas coloridas” e escrever “Alguns leem aqui Jesus como novo Moisés.”",
+  "decisao": "aceito",
+  "motivo_decisao": "Retirado “com roupas coloridas”; “novo Moisés” atribuído a “alguns intérpretes”."
+ }
+]
