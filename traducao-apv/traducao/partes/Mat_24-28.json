@@ -1,0 +1,912 @@
+{
+ "Mat.24.1": {
+  "t": "Jesus saiu do templo e, enquanto se afastava, os seus discípulos se aproximaram dele para lhe mostrar as construções do templo.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "as construções do templo",
+    "termo": "τὰς οἰκοδομὰς τοῦ ἱεροῦ",
+    "titulo": "o templo de Herodes",
+    "texto": "Hieron é o conjunto do templo: o santuário, os pátios e os pórticos. A reconstrução promovida por Herodes, o Grande, começou por volta de 20 a.C. e ainda continuava nos dias de Jesus (cf. Jo 2:20); era famosa pelo tamanho das pedras e pelo brilho do mármore e do ouro (Josefo, Antiguidades Judaicas 15). Jesus sai do templo depois de anunciar que a “casa” ficaria abandonada (23:38); o gesto dá início ao último discurso de Mateus (caps. 24-25)."
+   }
+  ]
+ },
+ "Mat.24.2": {
+  "t": "Ele lhes respondeu: “Vocês estão vendo tudo isso? Em verdade lhes digo: aqui não ficará pedra sobre pedra que não seja derrubada.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "não ficará pedra sobre pedra",
+    "termo": "οὐ μὴ ἀφεθῇ ὧδε λίθος ἐπὶ λίθον",
+    "titulo": "negação enfática",
+    "texto": "Ou mē com subjuntivo é a negação mais forte do grego: “de modo nenhum ficará”. A frase anuncia a destruição completa do templo."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "que não seja derrubada",
+    "termo": "ὃς οὐ καταλυθήσεται (hos ou katalythēsetai)",
+    "titulo": "o ano 70",
+    "texto": "A profecia cumpriu-se no ano 70, quando as tropas romanas de Tito tomaram Jerusalém e incendiaram o templo; Josefo conta que depois a cidade e o templo foram arrasados (Guerra Judaica 6-7). Jesus está na linha dos profetas que anunciaram a destruição do primeiro templo (Jr 7:14; 26:6; Mq 3:12)."
+   }
+  ]
+ },
+ "Mat.24.3": {
+  "t": "Estando ele sentado no monte das Oliveiras, os discípulos se aproximaram dele em particular e disseram: “Diga-nos: quando vão acontecer essas coisas? E qual será o sinal da sua vinda e do fim da era?”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "monte das Oliveiras",
+    "termo": "τοῦ ὄρους τῶν ἐλαιῶν",
+    "titulo": "diante do templo",
+    "texto": "O monte fica a leste de Jerusalém, do outro lado do vale do Cedrom, e dele se vê o templo de frente. Em Zc 14:4 é o lugar onde o SENHOR porá os pés no dia do juízo e da salvação. Jesus fala do templo sentado, como mestre (cf. 5:1), diante dele."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "vinda",
+    "termo": "παρουσίας (parousias)",
+    "titulo": "parousia",
+    "texto": "Primeira ocorrência em Mateus (24:3, 27, 37, 39), única nos Evangelhos. A palavra significa “presença” e “chegada”; no mundo grego designava também a visita oficial de um rei ou governador a uma cidade, recebida com honras. No NT tornou-se o termo para a vinda gloriosa de Cristo (1Co 15:23; 1Ts 4:15; Tg 5:7). “Vinda” é a tradução tradicional e mantém o vínculo com o verbo “vir” (v. 30)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "fim da era",
+    "termo": "συντελείας τοῦ αἰῶνος (synteleias tou aiōnos)",
+    "titulo": "“consumação da era”",
+    "texto": "A mesma expressão de 13:39-49 e 28:20. A era presente terminará e dará lugar à era vindoura. A APV usa “era” em vez de “século” (ARC) ou “mundo”, porque aiōn é um tempo, não o universo físico."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "quando vão acontecer essas coisas?",
+    "termo": "πότε ταῦτα ἔσται",
+    "titulo": "as perguntas e as leituras do discurso",
+    "texto": "“Essas coisas” são a destruição do templo (v. 2). Em Mateus, os discípulos ligam essa destruição à vinda de Jesus e ao fim da era, como se fossem um único acontecimento. A resposta de Jesus (24:4-25:46) é lida de modos diferentes por intérpretes que levam a Escritura a sério: (1) a leitura preterista entende que a maior parte de 24:4-35 se cumpriu na guerra judaica e na destruição de Jerusalém em 66-70, e que a vinda final só aparece claramente a partir de 24:36 (R. T. France; N. T. Wright, com diferenças); o “preterismo pleno”, que põe também a ressurreição e a vinda final no ano 70, é rejeitado pelas igrejas históricas; (2) a leitura futurista entende que o discurso trata sobretudo dos acontecimentos do fim, ainda por vir, como uma grande tribulação final (muitos intérpretes dispensacionalistas e outros); (3) a leitura mista, talvez a mais comum, vê os dois planos entrelaçados: a destruição de Jerusalém, perto no tempo, prefigura o juízo final, e a profecia “sobrepõe” os dois horizontes, como faziam os profetas do AT (D. A. Carson, entre outros). As notas seguintes indicam onde essas leituras se separam."
+   }
+  ]
+ },
+ "Mat.24.4": {
+  "t": "Jesus lhes respondeu: “Cuidado para que ninguém os engane.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "engane",
+    "termo": "πλανήσῃ (planēsē)",
+    "titulo": "planaō",
+    "texto": "Lit. “desviar do caminho”. O verbo volta nos vv. 5, 11 e 24: a primeira preocupação de Jesus não é dar um calendário, mas proteger os discípulos do engano. Blepete (“vejam”) foi traduzido por “cuidado”."
+   }
+  ]
+ },
+ "Mat.24.5": {
+  "t": "Pois muitos virão em meu nome, dizendo: ‘Eu sou o Cristo’, e enganarão muitos.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "em meu nome",
+    "termo": "ἐπὶ τῷ ὀνόματί μου",
+    "titulo": "que nome?",
+    "texto": "Não são cristãos que falam em nome de Jesus, mas pessoas que reivindicam o título que pertence a ele: “Eu sou o Cristo”. Também se pode entender “usando o meu nome”, isto é, apresentando-se como Jesus que voltou."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "muitos virão",
+    "termo": "πολλοὶ γὰρ ἐλεύσονται",
+    "titulo": "pretendentes",
+    "texto": "Nas décadas antes da guerra contra Roma surgiram vários líderes que prometiam livramento e arrastavam multidões, como Teudas e “o egípcio” (At 5:36; 21:38; Josefo, Antiguidades Judaicas 20). A advertência vale também para todo o tempo da igreja."
+   }
+  ]
+ },
+ "Mat.24.6": {
+  "t": "Vocês vão ouvir falar de guerras e de rumores de guerras. Cuidado, não se assustem, pois é necessário que isso aconteça, mas ainda não é o fim.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "não se assustem",
+    "termo": "μὴ θροεῖσθε (mē throeisthe)",
+    "titulo": "throeō, raro",
+    "texto": "Só aqui, em Mc 13:7 e em 2Ts 2:2, sempre na voz passiva: “ser perturbado, alarmado”. Paulo usa o mesmo verbo contra quem dizia que o dia do Senhor já tinha chegado."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "é necessário que isso aconteça",
+    "termo": "δεῖ γενέσθαι (dei genesthai)",
+    "titulo": "Daniel 2:28",
+    "texto": "A expressão vem de Dn 2:28 na Septuaginta (“o que deve acontecer nos últimos dias”). As guerras fazem parte do plano de Deus, mas não são sinal de que o fim chegou. O Textus Receptus e o Texto Bizantino acrescentam panta: “é necessário que tudo isso aconteça”."
+   }
+  ]
+ },
+ "Mat.24.7": {
+  "t": "Pois se levantará nação contra nação e reino contra reino, e haverá fomes e terremotos em vários lugares.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "nação contra nação e reino contra reino",
+    "termo": "ἔθνος ἐπὶ ἔθνος καὶ βασιλεία ἐπὶ βασιλείαν",
+    "titulo": "linguagem profética",
+    "texto": "Eco de Is 19:2 e 2Cr 15:6, que descrevem tempos de confusão e juízo. A linguagem é a dos profetas, e não um aviso de que o fim já está às portas."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "fomes",
+    "termo": "λιμοὶ (limoi)",
+    "titulo": "“e pestes”",
+    "texto": "O Textus Receptus e o Texto Bizantino acrescentam kai loimoi, “e pestes”, com jogo de sons (limoi, loimoi) que aparece em Lc 21:11. O SBLGNT, Westcott-Hort, Tregelles e o NA28 não trazem; o acréscimo provavelmente vem do paralelo de Lucas."
+   }
+  ]
+ },
+ "Mat.24.8": {
+  "t": "Mas tudo isso é o princípio das dores de parto.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "dores de parto",
+    "termo": "ὠδίνων (ōdinōn)",
+    "titulo": "ōdines",
+    "texto": "A palavra designa as dores do parto. Os profetas usam a imagem para a angústia que precede a libertação (Is 26:17-19; 66:7-9; Mq 4:9-10), e o judaísmo posterior falou das “dores do Messias”. A imagem tem dois lados: a dor é real e crescente, mas anuncia um nascimento. “Princípio” confirma o v. 6: ainda não é o fim."
+   }
+  ]
+ },
+ "Mat.24.9": {
+  "t": "Então os entregarão à tribulação e os matarão, e vocês serão odiados por todas as nações por causa do meu nome.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "tribulação",
+    "termo": "θλῖψιν (thlipsin)",
+    "titulo": "thlipsis",
+    "texto": "Lit. “aperto, pressão”: sofrimento causado de fora. A palavra liga este versículo à “grande tribulação” (v. 21) e ao “depois da tribulação” (v. 29)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "todas as nações",
+    "termo": "πάντων τῶν ἐθνῶν",
+    "titulo": "além de Israel",
+    "texto": "Em 10:17-22 a perseguição vinha de tribunais e sinagogas; aqui se estende a todas as nações, e o evangelho também (v. 14; 28:19). O sofrimento acompanha a missão."
+   }
+  ]
+ },
+ "Mat.24.10": {
+  "t": "Nesse tempo, muitos tropeçarão, e entregarão uns aos outros, e odiarão uns aos outros.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "tropeçarão",
+    "termo": "σκανδαλισθήσονται (skandalisthēsontai)",
+    "titulo": "skandalizomai",
+    "texto": "Lit. “serão escandalizados”: cair, abandonar a fé diante da pressão, como o terreno pedregoso da parábola (13:21). Não se trata de ficar escandalizado no sentido atual de “chocado”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "entregarão uns aos outros",
+    "termo": "ἀλλήλους παραδώσουσιν",
+    "titulo": "o mesmo verbo do v. 9",
+    "texto": "Paradidōmi é o verbo do v. 9 (“os entregarão”) e da traição de Judas (26:15-16). A perseguição vinda de fora (v. 9) produz traição dentro da própria comunidade. “Trair” seria natural, mas apagaria o eco."
+   }
+  ]
+ },
+ "Mat.24.11": {
+  "t": "E muitos falsos profetas se levantarão e enganarão muitos.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "falsos profetas",
+    "termo": "ψευδοπροφῆται (pseudoprophētai)",
+    "titulo": "dentro da comunidade",
+    "texto": "Jesus já tinha alertado contra os falsos profetas que vêm “vestidos de ovelhas” (7:15-23). Aqui o perigo vem de dentro, como no v. 10. Cf. Dt 13:1-5."
+   }
+  ]
+ },
+ "Mat.24.12": {
+  "t": "E, por se multiplicar a iniquidade, o amor da maioria esfriará.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "esfriará",
+    "termo": "ψυγήσεται (psygēsetai)",
+    "titulo": "psychō, hápax",
+    "texto": "Única ocorrência no NT. O verbo significa “soprar”, “resfriar”, e no passivo “esfriar-se”. A imagem é a do fogo que se apaga. Hápax é a palavra que só aparece uma vez no NT."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "a iniquidade",
+    "termo": "τὴν ἀνομίαν (tēn anomian)",
+    "titulo": "anomia",
+    "texto": "Lit. “ausência de lei”, isto é, desprezo pela vontade de Deus. Em Mateus, a palavra descreve até mesmo gente religiosa (7:23; 13:41; 23:28)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "da maioria",
+    "termo": "τῶν πολλῶν (tōn pollōn)",
+    "titulo": "“dos muitos”",
+    "texto": "Com artigo, hoi polloi é “os muitos”, “a maioria”. O alerta é dirigido à comunidade dos discípulos: o amor de muitos deles esfriará."
+   }
+  ]
+ },
+ "Mat.24.13": {
+  "t": "Mas aquele que perseverar até o fim, esse será salvo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "perseverar até o fim",
+    "termo": "ὁ δὲ ὑπομείνας εἰς τέλος",
+    "titulo": "eis telos",
+    "texto": "Como em 10:22. Eis telos pode ser “até o fim” (da provação, da vida ou da era) ou “inteiramente”. Hypomenō é ficar firme sob o peso. A salvação aqui é a final. Os intérpretes reformados leem a perseverança como sinal de quem é verdadeiramente eleito; os arminianos e outros veem nela também uma condição real, sem a qual se pode cair. O versículo, em todo caso, é exortação: chama a permanecer."
+   }
+  ]
+ },
+ "Mat.24.14": {
+  "t": "E este evangelho do Reino será proclamado em todo o mundo habitado, como testemunho a todas as nações, e então virá o fim.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "mundo habitado",
+    "termo": "τῇ οἰκουμένῃ (tē oikoumenē)",
+    "titulo": "oikoumenē",
+    "texto": "Lit. “a (terra) habitada”. No século 1, a palavra designava muitas vezes o mundo conhecido, sobretudo o Império Romano (Lc 2:1; At 11:28). Os intérpretes preteristas notam que Paulo já fala do evangelho anunciado “em todo o mundo” antes do ano 70 (Rm 1:8; 10:18; Cl 1:6, 23) e ligam “o fim” à destruição do templo. Os futuristas e muitos outros veem aqui a missão a todos os povos, que continua até a vinda de Cristo (28:19-20)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "como testemunho a todas as nações",
+    "termo": "εἰς μαρτύριον πᾶσιν τοῖς ἔθνεσιν",
+    "titulo": "testemunho",
+    "texto": "Pode ser testemunho “para” as nações, que ouvem e são chamadas, ou testemunho “contra” elas, se rejeitarem (cf. 10:18). As duas ideias cabem. O sentido principal é que o fim não vem antes que o anúncio chegue aos povos."
+   }
+  ]
+ },
+ "Mat.24.15": {
+  "t": "Portanto, quando vocês virem a abominação da desolação, de que falou o profeta Daniel, instalada no lugar santo — quem lê, entenda —,",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "a abominação da desolação",
+    "termo": "τὸ βδέλυγμα τῆς ἐρημώσεως (to bdelygma tēs erēmōseōs)",
+    "titulo": "Daniel",
+    "texto": "Expressão de Dn 9:27; 11:31 e 12:11 (Septuaginta). Bdelygma é o que causa repulsa, sobretudo a idolatria; erēmōsis (raro no NT: aqui, Mc 13:14 e Lc 21:20) é a devastação. Em Daniel, e em 1Mc 1:54, designa o sacrilégio de Antíoco IV Epífanes, que em 167 a.C. ergueu um altar pagão no templo: uma abominação que leva o lugar santo à ruína. Mateus é o único evangelista que nomeia Daniel aqui."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "instalada no lugar santo",
+    "termo": "ἑστὸς ἐν τόπῳ ἁγίῳ (hestos en topō hagiō)",
+    "titulo": "o que é a abominação?",
+    "texto": "Lit. “de pé em lugar santo”: o templo, ou a cidade santa e a terra. As principais identificações: (1) os exércitos romanos com os seus estandartes, que recebiam honra religiosa, cercando a cidade e entrando no templo em 70 (Lc 21:20 fala de “Jerusalém cercada por exércitos”); (2) a profanação do templo pelos zelotes, que o ocuparam e o mancharam de sangue durante a guerra (Josefo, Guerra Judaica 4); (3) uma figura do fim dos tempos, o “homem da iniquidade” que se assenta no templo de Deus (2Ts 2:3-4). Os preteristas preferem (1) ou (2); os futuristas, (3); muitos veem um cumprimento no ano 70 que aponta para outro, final.",
+    "revisar": true
+   },
+   {
+    "tipo": "tn",
+    "ancora": "quem lê, entenda",
+    "termo": "ὁ ἀναγινώσκων νοείτω",
+    "titulo": "o aviso",
+    "texto": "Aviso entre travessões, provavelmente do evangelista ao leitor, ou a quem lia o Evangelho em voz alta na igreja: é preciso discernir a referência velada. Também pode remeter a quem lê Daniel (cf. Dn 9:23, 25; 12:10)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "instalada",
+    "termo": "ἑστὸς (hestos)",
+    "titulo": "gênero",
+    "texto": "O texto crítico traz o neutro hestos, que concorda com bdelygma (neutro); o Texto Bizantino traz o masculino hestōs, como em Mc 13:14, que parece pensar numa pessoa. O português não marca a diferença."
+   }
+  ]
+ },
+ "Mat.24.16": {
+  "t": "então os que estiverem na Judeia fujam para os montes.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "fujam para os montes",
+    "termo": "φευγέτωσαν ἐπὶ τὰ ὄρη",
+    "titulo": "a fuga",
+    "texto": "Os montes eram o refúgio tradicional em tempo de guerra (Gn 19:17; 1Mc 2:28). Eusébio (História Eclesiástica 3.5.3) conta que os cristãos de Jerusalém, avisados por um oráculo, deixaram a cidade antes da guerra e foram para Pela, na Transjordânia. A ordem é concreta e local (“na Judeia”), o que pesa a favor de ler os vv. 15-21 em relação à guerra judaica."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "para os montes",
+    "termo": "ἐπὶ τὰ ὄρη",
+    "titulo": "epi ou eis",
+    "texto": "O SBLGNT e o Texto Bizantino trazem epi; Westcott-Hort, Tregelles e o NA28, eis. As duas preposições significam “para”."
+   }
+  ]
+ },
+ "Mat.24.17": {
+  "t": "Quem estiver no terraço não desça para tirar as coisas da sua casa,",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "no terraço",
+    "termo": "ἐπὶ τοῦ δώματος",
+    "titulo": "telhados planos",
+    "texto": "As casas tinham telhado plano, usado como terraço, com escada pelo lado de fora. Quem estivesse lá em cima devia fugir sem entrar em casa. A urgência é a de Ló em Sodoma (Gn 19:17; cf. Lc 17:31-32)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "não desça",
+    "termo": "μὴ καταβάτω (mē katabatō)",
+    "titulo": "formas verbais",
+    "texto": "O Textus Receptus e o Texto Bizantino trazem o presente katabainetō; o Textus Receptus traz ainda ti (“alguma coisa”) em vez de ta (“as coisas”). Sem efeito no sentido."
+   }
+  ]
+ },
+ "Mat.24.18": {
+  "t": "e quem estiver no campo não volte para trás para pegar o seu manto.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "manto",
+    "termo": "τὸ ἱμάτιον (to himation)",
+    "titulo": "himation",
+    "texto": "A peça de roupa exterior, que servia também de coberta à noite (Êx 22:26-27). Quem trabalhava no campo a deixava de lado. O Textus Receptus e o Texto Bizantino trazem o plural, “as suas roupas”."
+   }
+  ]
+ },
+ "Mat.24.19": {
+  "t": "Ai das que estiverem grávidas e das que estiverem amamentando naqueles dias!",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Ai",
+    "termo": "οὐαὶ (ouai)",
+    "titulo": "lamento",
+    "texto": "Aqui ouai não é maldição, como em 23:13-29, mas lamento e compaixão: a fuga seria muito mais dura para elas. “Grávidas” traduz en gastri echousais, lit. “que têm no ventre”."
+   }
+  ]
+ },
+ "Mat.24.20": {
+  "t": "Orem para que a fuga de vocês não aconteça no inverno nem num sábado.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "fuga",
+    "termo": "φυγὴ (phygē)",
+    "titulo": "phygē, hápax",
+    "texto": "A palavra comum para “fuga”, única vez no NT."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "no inverno nem num sábado",
+    "termo": "χειμῶνος μηδὲ σαββάτῳ",
+    "titulo": "por que o sábado?",
+    "texto": "No inverno, as chuvas enchiam os leitos secos e tornavam as estradas difíceis. Só Mateus menciona o sábado. As explicações: as restrições de viagem no sábado (cf. o “caminho de um sábado”, At 1:12) ou as portas fechadas nas cidades tornariam a fuga lenta ou chamariam a atenção; ou os próprios discípulos judeus ainda guardavam o sábado e hesitariam em fugir. O texto não decide. O Textus Receptus acrescenta en (“em”), sem efeito no sentido."
+   }
+  ]
+ },
+ "Mat.24.21": {
+  "t": "Pois haverá então grande tribulação, como não houve desde o princípio do mundo até agora, nem jamais haverá.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "grande tribulação",
+    "termo": "θλῖψις μεγάλη",
+    "titulo": "Daniel 12:1",
+    "texto": "Eco de Dn 12:1 (“tempo de angústia, qual nunca houve”; cf. Jl 2:2; Êx 11:6). Os preteristas lembram que Josefo, no prefácio da Guerra Judaica, diz que as desgraças dos judeus naquela guerra superaram as de todos os povos desde o princípio, e notam que “nem jamais haverá” supõe que a história continua depois dessa tribulação. Os futuristas a identificam com a tribulação final, ligada a Ap 7:14 (“a grande tribulação”). A leitura mista vê no ano 70 o início ou o tipo de uma tribulação que culmina no fim."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "nem jamais haverá",
+    "termo": "οὐδ᾽ οὐ μὴ γένηται",
+    "titulo": "negação reforçada",
+    "texto": "Oud’ ou mē: negação tripla e enfática. A frase é hiperbólica no estilo dos profetas, mas afirma a gravidade única do que vem."
+   }
+  ]
+ },
+ "Mat.24.22": {
+  "t": "Se aqueles dias não fossem abreviados, ninguém seria salvo; mas, por causa dos escolhidos, aqueles dias serão abreviados.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "ninguém seria salvo",
+    "termo": "οὐκ ἂν ἐσώθη πᾶσα σάρξ",
+    "titulo": "“nenhuma carne”",
+    "texto": "Lit. “não seria salva toda carne”, expressão hebraica (kol basar) para “nenhum ser humano”. “Salvo” aqui é, antes de tudo, sobreviver; mas o verbo é o mesmo da salvação final (v. 13)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "abreviados",
+    "termo": "ἐκολοβώθησαν (ekolobōthēsan)",
+    "titulo": "koloboō",
+    "texto": "“Cortar, mutilar, encurtar”. O aoristo apresenta a decisão de Deus como já tomada: ele limita o tempo do sofrimento."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "escolhidos",
+    "termo": "ἐκλεκτοὺς (eklektous)",
+    "titulo": "eklektoi",
+    "texto": "O povo escolhido de Deus (Is 65:9, 15, 22 LXX), aqui os discípulos de Jesus (vv. 24, 31; cf. 22:14). Por causa deles, Deus encurta os dias."
+   }
+  ]
+ },
+ "Mat.24.23": {
+  "t": "Então, se alguém lhes disser: ‘Vejam, aqui está o Cristo!’, ou: ‘Está ali!’, não creiam.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "‘Está ali!’",
+    "termo": "ἤ· ὧδε",
+    "titulo": "“ou: aqui”",
+    "texto": "Lit. “ou: Aqui!”. O grego repete hōde; a tradução varia para “ali” para evitar repetição e dar a ideia de boatos em direções diferentes."
+   }
+  ]
+ },
+ "Mat.24.24": {
+  "t": "Pois surgirão falsos cristos e falsos profetas, e realizarão grandes sinais e prodígios para enganar, se possível, até os escolhidos.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "falsos cristos",
+    "termo": "ψευδόχριστοι (pseudochristoi)",
+    "titulo": "pseudochristos, raro",
+    "texto": "Só aqui e em Mc 13:22: “falsos messias”, que reivindicam o papel do Cristo. Sinais e prodígios não bastam para provar que alguém vem de Deus (Dt 13:1-3; 2Ts 2:9; Ap 13:13-14)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "se possível",
+    "termo": "εἰ δυνατόν (ei dynaton)",
+    "titulo": "os escolhidos podem ser enganados?",
+    "texto": "A expressão pode sugerir que enganar os escolhidos não é possível (leitura comum entre intérpretes reformados, que ligam o versículo aos vv. 22 e 31) ou apenas mostrar a força do engano, sem decidir. Em qualquer leitura, o aviso é real: “Cuidado” (v. 4). Westcott-Hort e Tregelles trazem planasthai (“de modo a serem enganados”), em vez de planēsai; sentido próximo."
+   }
+  ]
+ },
+ "Mat.24.25": {
+  "t": "Vejam que eu lhes disse isso de antemão.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "eu lhes disse isso de antemão",
+    "termo": "προείρηκα ὑμῖν (proeirēka hymin)",
+    "titulo": "o perfeito",
+    "texto": "O perfeito indica um aviso dado e que continua valendo. Saber antes protege da surpresa e do engano (cf. Jo 13:19; 14:29)."
+   }
+  ]
+ },
+ "Mat.24.26": {
+  "t": "Portanto, se lhes disserem: ‘Vejam, ele está no deserto’, não saiam; ‘Vejam, ele está nos aposentos de dentro’, não creiam.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "no deserto",
+    "termo": "ἐν τῇ ἐρήμῳ",
+    "titulo": "o deserto",
+    "texto": "Vários pretendentes do século 1 levaram multidões ao deserto, lugar do êxodo e da esperança de um novo livramento (At 21:38; Josefo, Guerra Judaica 2)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "nos aposentos de dentro",
+    "termo": "ἐν τοῖς ταμείοις (en tois tameiois)",
+    "titulo": "tameion",
+    "texto": "O cômodo interno da casa, sem janelas para fora, usado também como despensa (6:6; Lc 12:3, 24). Aqui é o esconderijo do messias secreto, que só alguns conhecem. A vinda verdadeira não será secreta (v. 27)."
+   }
+  ]
+ },
+ "Mat.24.27": {
+  "t": "Pois, assim como o relâmpago sai do oriente e brilha até o ocidente, assim será a vinda do Filho do Homem.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "o relâmpago",
+    "termo": "ἡ ἀστραπὴ",
+    "titulo": "visível a todos",
+    "texto": "A imagem fala de algo súbito, público e impossível de ignorar: ninguém precisará de informantes para saber onde está o Filho do Homem. A maioria lê aqui a vinda gloriosa no fim; os preteristas, a manifestação do juízo sobre Jerusalém. Sobre “o Filho do Homem”, ver nota em 8:20. O Textus Receptus e o Texto Bizantino acrescentam kai (“também”), sem efeito no sentido."
+   }
+  ]
+ },
+ "Mat.24.28": {
+  "t": "Onde estiver o cadáver, ali se ajuntarão os abutres.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "abutres",
+    "termo": "οἱ ἀετοί (hoi aetoi)",
+    "titulo": "“águias” ou “abutres”",
+    "texto": "Aetos é em geral a águia, mas a palavra cobria também as grandes aves de rapina, e são os abutres que se juntam sobre cadáveres (cf. Jó 39:27-30; Hc 1:8). O dito parece um provérbio: onde há morte, os sinais são inconfundíveis; do mesmo modo, a vinda do Filho do Homem e o juízo serão evidentes (v. 27). Alguns intérpretes, sobretudo preteristas, veem aqui as águias dos estandartes romanos sobre Jerusalém, um povo como “cadáver” sob juízo; “águias” manteria esse jogo, mas deixaria a imagem do provérbio menos clara. O Textus Receptus e o Texto Bizantino começam com gar (“Pois”).",
+    "revisar": true
+   }
+  ]
+ },
+ "Mat.24.29": {
+  "t": "Logo depois da tribulação daqueles dias, ‘o sol se escurecerá, e a lua não dará a sua luz, e as estrelas cairão do céu, e os poderes dos céus serão abalados’.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "o sol se escurecerá",
+    "termo": "ὁ ἥλιος σκοτισθήσεται",
+    "titulo": "Isaías 13 e 34",
+    "texto": "Combinação de Is 13:10 e 34:4 (com ecos de Ez 32:7 e Jl 2:10, 31; 3:15). Os profetas usam essa linguagem para o juízo de Deus sobre nações (Babilônia em Is 13, Edom em Is 34): o mundo como se conhecia “desaba”. Uns entendem aqui abalos cósmicos reais na vinda de Cristo; outros, como R. T. France e N. T. Wright, leem a linguagem como símbolo profético da queda de Jerusalém e do fim da ordem do templo. Muitos veem as duas dimensões."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Logo depois",
+    "termo": "εὐθέως δὲ μετὰ",
+    "titulo": "eutheōs",
+    "texto": "“Imediatamente depois”. A palavra pesa no debate: para os preteristas, liga o v. 29 diretamente ao ano 70 e favorece a leitura simbólica; para os futuristas, a “tribulação daqueles dias” é a final, de modo que a vinda segue logo depois; outros entendem “daqueles dias” como todo o período de sofrimento até o fim, visto do ponto de vista de Deus, como em 2Pe 3:8."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "luz",
+    "termo": "τὸ φέγγος (to phengos)",
+    "titulo": "phengos, raro",
+    "texto": "“Brilho, claridade”: só aqui e em Mc 13:24."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "os poderes dos céus",
+    "termo": "αἱ δυνάμεις τῶν οὐρανῶν",
+    "titulo": "astros ou potências?",
+    "texto": "Pode designar os astros (o “exército dos céus”, Is 34:4) ou os poderes espirituais que os antigos associavam a eles. O paralelo com sol, lua e estrelas favorece os astros."
+   }
+  ]
+ },
+ "Mat.24.30": {
+  "t": "Então aparecerá no céu o sinal do Filho do Homem, e então todas as tribos da terra se lamentarão e verão o Filho do Homem vindo sobre as nuvens do céu, com poder e grande glória.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "o sinal do Filho do Homem",
+    "termo": "τὸ σημεῖον τοῦ υἱοῦ τοῦ ἀνθρώπου",
+    "titulo": "que sinal?",
+    "texto": "Responde à pergunta do v. 3 (“qual será o sinal?”). As leituras: (1) o próprio Filho do Homem é o sinal (“o sinal que é o Filho do Homem”), visto em seguida; (2) um estandarte erguido, que nos profetas acompanha o som da trombeta e a reunião do povo (Is 11:12; 18:3; 27:13; cf. v. 31); (3) a cruz no céu, leitura de vários Pais da Igreja. O texto não diz mais."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "se lamentarão",
+    "termo": "κόψονται (kopsontai)",
+    "titulo": "koptomai",
+    "texto": "Lit. “baterão no peito”, gesto de luto. Eco de Zc 12:10-14, onde as famílias e as tribos “da terra” (de Israel) choram por aquele a quem traspassaram (cf. Ap 1:7). Hai phylai tēs gēs pode ser “as tribos da terra (de Israel)”, como em Zacarias, leitura preferida por preteristas, ou “todos os povos da terra” (cf. Gn 12:3; 28:14 LXX). O lamento pode ser de arrependimento ou de pavor diante do juízo."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "vindo sobre as nuvens do céu",
+    "termo": "ἐρχόμενον ἐπὶ τῶν νεφελῶν τοῦ οὐρανοῦ",
+    "titulo": "Daniel 7:13",
+    "texto": "Palavras de Dn 7:13 na Septuaginta (“sobre as nuvens do céu”). Em Daniel, “um como filho de homem” vem até o Ancião de Dias e recebe domínio eterno sobre todos os povos. A maioria dos intérpretes e a tradição da igreja, com o Credo (“virá para julgar os vivos e os mortos”), leem aqui a vinda gloriosa de Cristo no fim (cf. 16:27; 25:31; 26:64; At 1:11). Outros, notando que em Daniel o filho de homem vem a Deus, leem a exaltação e a vindicação de Jesus, manifestadas no juízo sobre o templo (France). O SBLGNT e o Texto Bizantino trazem o artigo antes de “céu” no início do versículo (en tō ouranō); Westcott-Hort, Tregelles e o NA28 o omitem, sem efeito no sentido."
+   }
+  ]
+ },
+ "Mat.24.31": {
+  "t": "Ele enviará os seus anjos ao som de uma grande trombeta, e eles reunirão os seus escolhidos dos quatro ventos, de uma extremidade dos céus à outra.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "grande trombeta",
+    "termo": "σάλπιγγος μεγάλης",
+    "titulo": "Isaías 27:13",
+    "texto": "Em Is 27:13, ao som da “grande trombeta”, os exilados dispersos voltam para adorar o SENHOR em Jerusalém. “Dos quatro ventos” ecoa Zc 2:6, e “de uma extremidade dos céus à outra”, Dt 30:4 (a reunião do povo disperso). A trombeta acompanha a vinda do Senhor e a ressurreição em 1Ts 4:16 e 1Co 15:52."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "os seus anjos",
+    "termo": "τοὺς ἀγγέλους αὐτοῦ",
+    "titulo": "anjos ou mensageiros",
+    "texto": "A maioria entende os anjos que acompanham o Filho do Homem (13:41; 16:27; 25:31). Alguns preteristas leem angeloi como “mensageiros”, isto é, os missionários que reúnem os escolhidos de todas as nações depois do ano 70 (cf. v. 14). Os paralelos em Mateus favorecem os anjos."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "ao som de uma grande trombeta",
+    "termo": "μετὰ σάλπιγγος μεγάλης",
+    "titulo": "phōnēs",
+    "texto": "O SBLGNT, Westcott-Hort e o NA28 trazem só “grande trombeta”; Tregelles, o Textus Receptus e o Texto Bizantino acrescentam phōnēs (“com grande som de trombeta”). A tradução “ao som de” corresponde às duas formas."
+   }
+  ]
+ },
+ "Mat.24.32": {
+  "t": "Aprendam com a figueira esta parábola: quando os seus ramos já ficam tenros e as folhas brotam, vocês sabem que o verão está próximo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "parábola",
+    "termo": "τὴν παραβολήν (tēn parabolēn)",
+    "titulo": "“comparação”",
+    "texto": "Parabolē é aqui uma comparação tirada da natureza, uma lição. Mantido “parábola”, palavra de Mateus em todo o Evangelho."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "os seus ramos já ficam tenros e as folhas brotam",
+    "termo": "ὁ κλάδος αὐτῆς γένηται ἁπαλὸς καὶ τὰ φύλλα ἐκφύῃ",
+    "titulo": "hapalos e ekphyō, raros",
+    "texto": "Lit. “o seu ramo se torna tenro e faz brotar as folhas” (os dois termos só aqui e em Mc 13:28). Conforme a acentuação, ekphyē pode ter como sujeito o ramo (“faz brotar”) ou as folhas (“brotam”); o sentido é o mesmo. Em Israel, a maioria das árvores conserva as folhas no inverno, mas a figueira as perde, e a sua brotação anuncia o verão."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "o verão",
+    "termo": "τὸ θέρος (to theros)",
+    "titulo": "theros, raro",
+    "texto": "“Verão”, também a estação da colheita. A figueira lembra a de 21:18-22, sem frutos e amaldiçoada; aqui a imagem é positiva: sinais que indicam algo próximo."
+   }
+  ]
+ },
+ "Mat.24.33": {
+  "t": "Assim também vocês: quando virem todas essas coisas, saibam que está próximo, às portas.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "saibam que está próximo",
+    "termo": "γινώσκετε ὅτι ἐγγύς ἐστιν",
+    "titulo": "quem ou o quê?",
+    "texto": "O grego não diz o sujeito: “ele” (o Filho do Homem) ou “isso” (o fim, a destruição anunciada); Lc 21:31 diz “o Reino de Deus”. A tradução deixa o sujeito implícito, como no original. Ginōskete pode ser indicativo (“vocês sabem”, como no v. 32) ou imperativo (“saibam”); o paralelo “quando virem” favorece o imperativo."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "todas essas coisas",
+    "termo": "πάντα ταῦτα (panta tauta)",
+    "titulo": "quais coisas?",
+    "texto": "Para os preteristas e para muitos da leitura mista, “essas coisas” são os sinais dos vv. 4-28, que culminaram no ano 70, e não a própria vinda dos vv. 29-31, que não precisa de sinal para ser reconhecida. Para os futuristas, incluem os sinais finais. A mesma expressão volta no v. 34."
+   }
+  ]
+ },
+ "Mat.24.34": {
+  "t": "Em verdade lhes digo que esta geração não passará até que todas essas coisas aconteçam.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "esta geração",
+    "termo": "ἡ γενεὰ αὕτη (hē genea hautē)",
+    "titulo": "o versículo mais discutido do discurso",
+    "texto": "Em Mateus, “esta geração” designa sempre os contemporâneos de Jesus (11:16; 12:39-45; 16:4; 17:17; 23:36), e esse é o sentido mais natural. As leituras: (1) “todas essas coisas” são os acontecimentos dos vv. 4-31 (ou 4-28), cumpridos na geração dos discípulos com a destruição do templo no ano 70, cerca de quarenta anos depois; os vv. 29-31 seriam então linguagem profética sobre esse juízo (preteristas, France, Wright); (2) genea seria “raça”, o povo judeu, que não desapareceria até o fim, ou “tipo de gente”, a humanidade incrédula; (3) a geração que verá os sinais do fim verá também a vinda (muitos futuristas); (4) a leitura mista: a geração dos discípulos viu o cumprimento no ano 70, que é penhor e figura do fim. A dificuldade está em ligar este versículo ao v. 36, onde Jesus diz não saber o dia. A APV traduz literalmente e deixa a decisão ao leitor. O Texto Bizantino não traz hoti (“que”), sem efeito no sentido.",
+    "revisar": true
+   }
+  ]
+ },
+ "Mat.24.35": {
+  "t": "O céu e a terra passarão, mas as minhas palavras jamais passarão.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "as minhas palavras jamais passarão",
+    "termo": "οἱ δὲ λόγοι μου οὐ μὴ παρέλθωσιν",
+    "titulo": "a palavra que permanece",
+    "texto": "No AT, só a palavra de Deus “permanece para sempre”, quando a erva seca e os céus se desfazem (Is 40:8; 51:6; Sl 102:25-27). Jesus atribui às suas palavras a mesma permanência (cf. 5:18). Ou mē dá à negação força máxima. O Textus Receptus e o Texto Bizantino trazem o verbo no plural (“passarão”, concordando com céu e terra), sem efeito na tradução."
+   }
+  ]
+ },
+ "Mat.24.36": {
+  "t": "Mas, quanto àquele dia e hora, ninguém sabe, nem os anjos dos céus, nem o Filho, a não ser somente o Pai.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "nem o Filho",
+    "termo": "οὐδὲ ὁ υἱός (oude ho huios)",
+    "titulo": "omissão em parte dos manuscritos",
+    "texto": "O SBLGNT, Westcott-Hort e o NA28 trazem oude ho huios (“nem o Filho”), que está em manuscritos antigos; Tregelles, o Textus Receptus e o Texto Bizantino não o trazem, e daí a sua ausência na ARC. Em Mc 13:32 todas essas edições trazem as palavras. A omissão em Mateus é explicada, em geral, como correção de copistas que se incomodaram com a ideia de que o Filho não soubesse algo; um acréscimo para igualar Mateus a Marcos é considerado menos provável (Metzger). O Texto Bizantino traz ainda “meu Pai”.",
+    "revisar": true
+   },
+   {
+    "tipo": "sn",
+    "ancora": "nem o Filho",
+    "termo": "οὐδὲ ὁ υἱός",
+    "titulo": "o saber do Filho",
+    "texto": "Jesus se chama “o Filho”, de modo absoluto, ao lado do Pai e acima dos anjos (cf. 11:27; 28:19), e ao mesmo tempo diz não saber o dia. Pais da Igreja como Atanásio e Gregório de Nazianzo explicaram o dito pela verdadeira humanidade de Cristo: o Filho encarnado, em sua condição humana, não conhecia a data; outros falaram de um saber que não lhe cabia revelar. A fé de Calcedônia sustenta as duas naturezas sem confusão, e o versículo é testemunho da humanidade real de Jesus."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Mas, quanto àquele dia e hora",
+    "termo": "Περὶ δὲ τῆς ἡμέρας ἐκείνης",
+    "titulo": "uma passagem?",
+    "texto": "Muitos intérpretes veem aqui uma mudança de assunto: das coisas que têm sinais e que acontecerão “nesta geração” (vv. 4-35) para “aquele dia”, o dia do Senhor (Am 8:9; Zc 14:4-9), que não tem sinais nem data (vv. 36-51). Para a leitura preterista moderada, é aqui que o discurso passa do ano 70 à vinda final. Outros veem continuidade, e a passagem como mudança de ênfase: dos sinais à vigilância."
+   }
+  ]
+ },
+ "Mat.24.37": {
+  "t": "Pois, assim como foram os dias de Noé, assim será a vinda do Filho do Homem.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "Pois",
+    "termo": "γὰρ (gar)",
+    "titulo": "gar ou de",
+    "texto": "O texto crítico traz gar (“pois”); o Textus Receptus e o Texto Bizantino, de (“e, mas”), e acrescentam kai (“também”) antes de “a vinda”. Sem efeito no sentido."
+   }
+  ]
+ },
+ "Mat.24.38": {
+  "t": "Pois, nos dias que antecederam o dilúvio, comiam e bebiam, casavam-se e davam em casamento, até o dia em que Noé entrou na arca,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "comiam e bebiam, casavam-se e davam em casamento",
+    "termo": "τρώγοντες καὶ πίνοντες, γαμοῦντες καὶ γαμίζοντες",
+    "titulo": "a vida normal",
+    "texto": "Nada disso é pecado: é a vida de todos os dias. O perigo é viver como se nada fosse acontecer. “Davam em casamento” é o pai que dá a filha a um marido (cf. 22:30). Trōgō é o verbo coloquial para “comer”."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "nos dias que antecederam o dilúvio",
+    "termo": "ἐν ταῖς ἡμέραις ταῖς πρὸ τοῦ κατακλυσμοῦ",
+    "titulo": "ekeinais",
+    "texto": "Westcott-Hort, Tregelles e o NA28 acrescentam ekeinais (“naqueles dias”); o SBLGNT e o Texto Bizantino não o trazem. Tregelles e o Texto Bizantino trazem ainda ekgamizontes por gamizontes, e o Texto Bizantino, hōsper por hōs. Sem efeito no sentido."
+   }
+  ]
+ },
+ "Mat.24.39": {
+  "t": "e não perceberam nada até que veio o dilúvio e levou todos. Assim será também a vinda do Filho do Homem.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "não perceberam nada",
+    "termo": "οὐκ ἔγνωσαν (ouk egnōsan)",
+    "titulo": "“não souberam”",
+    "texto": "Lit. “não souberam”, “não se deram conta”. Gn 6-7 mostra que foram avisados; o problema foi não levar o aviso a sério."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "levou todos",
+    "termo": "ἦρεν ἅπαντας (ēren hapantas)",
+    "titulo": "airō",
+    "texto": "O dilúvio “arrastou” todos, isto é, em juízo. O verbo é diferente de paralambanō nos vv. 40-41."
+   }
+  ]
+ },
+ "Mat.24.40": {
+  "t": "Então, dois homens estarão no campo: um será levado, e o outro, deixado.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "um será levado, e o outro, deixado",
+    "termo": "εἷς παραλαμβάνεται καὶ εἷς ἀφίεται",
+    "titulo": "levado para onde?",
+    "texto": "Os presentes têm valor de futuro. As leituras: (1) “levado” é ser recolhido para estar com o Senhor, como os escolhidos reunidos pelos anjos (v. 31), e “deixado” é ficar para o juízo; paralambanō é o verbo de Jo 14:3 (“tomarei vocês para mim”), e aphiēmi lembra a casa “deixada” de 23:38; (2) “levado” é ser arrebatado em juízo, como os do dilúvio (v. 39), e “deixado” é ser poupado, como Noé. A maioria dos comentaristas prefere a primeira. Na teologia dispensacionalista, o versículo é ligado a um arrebatamento da igreja antes da tribulação; outros veem aqui a reunião única que acompanha a vinda (1Ts 4:16-17). Em qualquer leitura, o ponto é que a separação será súbita, entre pessoas que faziam a mesma coisa lado a lado. “Homens” foi acrescentado porque o numeral é masculino; o v. 41 fala de mulheres."
+   }
+  ]
+ },
+ "Mat.24.41": {
+  "t": "Duas mulheres estarão moendo no moinho: uma será levada, e a outra, deixada.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "moendo no moinho",
+    "termo": "ἀλήθουσαι ἐν τῷ μύλῳ",
+    "titulo": "alēthō, raro",
+    "texto": "Só aqui e em Lc 17:35. Moer grão no moinho manual de pedra era trabalho diário das mulheres, muitas vezes em dupla (Êx 11:5). O Textus Receptus e o Texto Bizantino trazem mylōni, “no lugar do moinho”."
+   }
+  ]
+ },
+ "Mat.24.42": {
+  "t": "Portanto, vigiem, porque vocês não sabem em que dia vem o seu Senhor.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "vigiem",
+    "termo": "γρηγορεῖτε (grēgoreite)",
+    "titulo": "grēgoreō",
+    "texto": "Lit. “fiquem acordados”. A palavra-chave da última parte do discurso (24:42-43; 25:13; cf. 26:38-41, no Getsêmani). Vigiar não é calcular datas, mas viver pronto."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "o seu Senhor",
+    "termo": "ὁ κύριος ὑμῶν",
+    "titulo": "“o Senhor de vocês”",
+    "texto": "É Jesus, o Filho do Homem (v. 44). A palavra kyrios liga o versículo às parábolas seguintes, em que o “senhor” volta para os seus escravos (vv. 45-51; 25:14-30). O Textus Receptus e o Texto Bizantino trazem hōra (“em que hora”) em vez de hēmera (“em que dia”)."
+   }
+  ]
+ },
+ "Mat.24.43": {
+  "t": "Mas entendam isto: se o dono da casa soubesse em que vigília da noite viria o ladrão, ficaria acordado e não deixaria que a sua casa fosse arrombada.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "vigília da noite",
+    "termo": "φυλακῇ (phylakē)",
+    "titulo": "phylakē",
+    "texto": "A noite era dividida em vigílias, quatro no uso romano (14:25). O ladrão vem quando menos se espera (1Ts 5:2; Ap 3:3)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "arrombada",
+    "termo": "διορυχθῆναι (diorychthēnai)",
+    "titulo": "“escavada”",
+    "texto": "Lit. “escavada através”: as paredes de barro ou de pedra solta eram furadas pelos ladrões (cf. 6:19-20)."
+   }
+  ]
+ },
+ "Mat.24.44": {
+  "t": "Por isso, estejam também vocês preparados, porque o Filho do Homem vem numa hora em que vocês não esperam.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "numa hora em que vocês não esperam",
+    "termo": "ᾗ οὐ δοκεῖτε ὥρᾳ",
+    "titulo": "“em hora que não pensam”",
+    "texto": "Lit. “na hora que vocês não pensam”. A vinda não pode ser prevista nem mesmo pelos que vigiam; por isso a prontidão tem de ser constante."
+   }
+  ]
+ },
+ "Mat.24.45": {
+  "t": "Quem é, então, o escravo fiel e prudente, a quem o senhor pôs à frente dos criados da sua casa, para lhes dar o alimento no tempo certo?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "escravo",
+    "termo": "δοῦλος (doulos)",
+    "titulo": "doulos: aqui “escravo”",
+    "texto": "A APV usa “escravo” nesta parábola e na dos talentos (25:14-30) porque a condição de propriedade está em foco: o senhor dispõe do escravo, o põe sobre os outros escravos da casa, o recompensa ou o castiga, e o próprio escravo bate nos seus “companheiros de escravidão” (v. 49), como em 18:23-35. É também a escolha da APV no paralelo de Lc 12:35-48. Ver nota em 8:9. O leitor pode lembrar que a parábola fala dos discípulos, sobretudo dos que têm responsabilidade na comunidade, diante do seu Senhor.",
+    "revisar": true
+   },
+   {
+    "tipo": "tn",
+    "ancora": "criados da sua casa",
+    "termo": "τῆς οἰκετείας αὐτοῦ (tēs oiketeias autou)",
+    "titulo": "oiketeia, hápax",
+    "texto": "O conjunto dos escravos e servidores de uma casa. O Textus Receptus e o Texto Bizantino trazem therapeias (“serviçais”), com o mesmo sentido, e didonai em vez de dounai."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "prudente",
+    "termo": "φρόνιμος (phronimos)",
+    "titulo": "phronimos",
+    "texto": "Sensato, que age com previsão: o mesmo adjetivo do homem que constrói sobre a rocha (7:24) e das virgens que levam óleo (25:2-9)."
+   }
+  ]
+ },
+ "Mat.24.46": {
+  "t": "Bem-aventurado aquele escravo que o seu senhor, quando vier, encontrar agindo assim.",
+  "n": []
+ },
+ "Mat.24.47": {
+  "t": "Em verdade lhes digo que o porá à frente de todos os seus bens.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "o porá à frente de todos os seus bens",
+    "termo": "ἐπὶ πᾶσιν τοῖς ὑπάρχουσιν αὐτοῦ καταστήσει αὐτόν",
+    "titulo": "recompensa",
+    "texto": "A recompensa da fidelidade é mais responsabilidade (cf. 25:21, 23). A imagem lembra José, posto à frente de toda a casa do faraó (Gn 39:4; 41:40)."
+   }
+  ]
+ },
+ "Mat.24.48": {
+  "t": "Mas, se aquele escravo for mau e disser no seu coração: ‘O meu senhor está demorando’,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "se aquele escravo for mau",
+    "termo": "ἐὰν δὲ εἴπῃ ὁ κακὸς δοῦλος ἐκεῖνος",
+    "titulo": "“aquele escravo mau”",
+    "texto": "Lit. “se aquele escravo mau disser”. Não é outro personagem: é o mesmo escravo, descrito na outra possibilidade. Por isso “se ... for mau”."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "está demorando",
+    "termo": "χρονίζει (chronizei)",
+    "titulo": "a demora",
+    "texto": "A demora do senhor volta em 25:5 e 25:19. As parábolas supõem um intervalo antes da vinda, longo o bastante para que alguns relaxem. O Textus Receptus e o Texto Bizantino acrescentam elthein (“demora a vir”)."
+   }
+  ]
+ },
+ "Mat.24.49": {
+  "t": "e começar a espancar os seus companheiros de escravidão, e a comer e a beber com os bêbados,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "companheiros de escravidão",
+    "termo": "τοὺς συνδούλους αὐτοῦ (tous syndoulous autou)",
+    "titulo": "syndouloi",
+    "texto": "Lit. “coescravos” (ver nota em 18:28). Quem devia alimentá-los (v. 45) passa a abusar deles: o pecado é o abuso da autoridade recebida. O Textus Receptus e o Texto Bizantino trazem os infinitivos esthiein e pinein e não têm autou; sem efeito no sentido."
+   }
+  ]
+ },
+ "Mat.24.50": {
+  "t": "o senhor daquele escravo virá num dia em que ele não espera e numa hora que ele não sabe,",
+  "n": []
+ },
+ "Mat.24.51": {
+  "t": "e o cortará em dois e lhe dará lugar entre os hipócritas. Ali haverá choro e ranger de dentes.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "o cortará em dois",
+    "termo": "διχοτομήσει αὐτὸν (dichotomēsei auton)",
+    "titulo": "dichotomeō, raro",
+    "texto": "Só aqui e em Lc 12:46: lit. “cortar em duas partes”, castigo brutal conhecido na Antiguidade (cf. 1Sm 15:33; Hb 11:37). Como o escravo continua a existir “entre os hipócritas”, alguns propõem um sentido figurado, “castigar com rigor” ou “separar, cortar fora” (da casa e do povo); não há, porém, exemplos seguros desse sentido. A APV mantém o literal: a parábola usa uma imagem extrema para a seriedade do juízo, sem suavizá-la.",
+    "revisar": true
+   },
+   {
+    "tipo": "tn",
+    "ancora": "lhe dará lugar entre os hipócritas",
+    "termo": "τὸ μέρος αὐτοῦ μετὰ τῶν ὑποκριτῶν θήσει",
+    "titulo": "“porá a sua parte”",
+    "texto": "Lit. “porá a sua parte com os hipócritas”: o destino que lhe cabe. Lc 12:46 diz “com os infiéis”; Mateus fala dos “hipócritas”, palavra que resume as acusações do cap. 23."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "choro e ranger de dentes",
+    "termo": "ὁ κλαυθμὸς καὶ ὁ βρυγμὸς τῶν ὀδόντων",
+    "titulo": "fórmula de juízo",
+    "texto": "Ver nota em 8:12. A APV não suaviza a imagem."
+   }
+  ]
+ }
+}

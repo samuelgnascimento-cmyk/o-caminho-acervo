@@ -107,6 +107,9 @@ Nomes próprios: a forma tradicional das Bíblias em português (Pedro, Tiago, J
 **Decisões da onda 2:**
 - παράκλητος (Jo 14:16, 26; 15:26; 16:7; 1Jo 2:1): “Advogado”, provisório e com revisar:true, com nota listando Consolador, Conselheiro, Ajudador e Paráclito.
 - κύριε dirigido a Jesus por pessoas: “Senhor”, com tratamento “o senhor”; quem diz “Rabi” ou “Mestre” usa “você”. Quando quem fala ainda não sabe quem é (At 9:5; 22:8; 26:15): “Quem é o senhor?”, sem “tu”.
+- δοῦλος nas parábolas: “escravo” quando a condição de propriedade está em foco (Mt 18:23-35, venda do devedor; Mt 20:27 e Mc 10:44, “primeiro” x “escravo”; Lc 7:2-10; Lc 12:35-48); “servos” quando os enviados ecoam “meus servos, os profetas” (Mt 21:34-36; 22:3-10; Mc 12:2-5). Nota dá sempre o literal.
+- Notas tc: cite só o que o SBLGNT oficial e o seu aparato (WH, Treg, NA28, RP) confirmam; nada de 𝔓/ℵ/B/D, Metzger ou UBS sem certeza.
+- NA28: o TAGNT e o aparato do SBLGNT às vezes discordam sobre o que o NA28 traz (o TAGNT parece registrar revisões posteriores em Atos). Quando discordarem, não atribua leitura ao NA28; cite só as edições em que as duas fontes concordam. A base TAGNT (STEPBible, aberta) pode ser citada pelo nome quando perde palavras do SBLGNT.
 - Notas são para o leitor da Bíblia: nunca mencione o aplicativo, a “folha” nem as ferramentas do projeto.
 
 **Versaletes:** no NT não use SENHOR em versaletes; o grego tem κύριος.

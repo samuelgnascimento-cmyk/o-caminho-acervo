@@ -26,7 +26,7 @@
     "ancora": "Tiago, irmão de João",
     "termo": "Ἰάκωβον τὸν ἀδελφὸν Ἰωάννου",
     "titulo": "o primeiro apóstolo mártir",
-    "texto": "Tiago, filho de Zebedeu, um dos três mais próximos de Jesus (Lc 8:51; 9:28). Cumpre-se a palavra de Jesus de que ele beberia o seu cálice (Mc 10:39). É o único dos Doze cuja morte o NT relata. Lucas a narra em uma só frase, sem discurso nem milagre: Tiago morre e Pedro é libertado, e o texto não explica a diferença. Não confundir com Tiago, irmão do Senhor (v. 17)."
+    "texto": "Tiago, filho de Zebedeu, um dos três mais próximos de Jesus (Lc 8:51; 9:28). Cumpre-se a palavra de Jesus de que ele beberia o seu cálice (Mc 10:39). É o único dos Doze cujo martírio o NT narra (de Judas o NT narra a morte, mas não como mártir: Mt 27:5; At 1:18). Lucas a narra em uma só frase, sem discurso nem milagre: Tiago morre e Pedro é libertado, e o texto não explica a diferença. Não confundir com Tiago, irmão do Senhor (v. 17)."
    },
    {
     "tipo": "tn",
@@ -71,7 +71,7 @@
     "ancora": "quatro grupos de quatro soldados",
     "termo": "τέσσαρσιν τετραδίοις στρατιωτῶν (tessarsin tetradiois stratiōtōn)",
     "titulo": "tetradion, hápax",
-    "texto": "Única ocorrência no NT. Tetradion é um grupo de quatro; a palavra aparece em outros escritos gregos para um destacamento de quatro soldados. Os romanos dividiam a noite em quatro vigílias, e cada grupo devia cuidar de uma delas: dezesseis homens se revezavam na guarda de um só prisioneiro. Dois ficavam acorrentados a ele e dois junto à porta (v. 6)."
+    "texto": "Única ocorrência no NT. Tetradion é um grupo de quatro; a palavra aparece em outros escritos gregos para um destacamento de quatro soldados. Os romanos dividiam a noite em quatro vigílias, e cada grupo devia cuidar de uma delas: dezesseis homens se revezavam na guarda de um só prisioneiro. Dois ficavam acorrentados a ele, e havia sentinelas diante da porta (v. 6)."
    },
    {
     "tipo": "tn",
@@ -90,11 +90,11 @@
   ]
  },
  "Act.12.5": {
-  "t": "Pedro, então, era guardado na prisão; mas a igreja orava a Deus por ele sem cessar.",
+  "t": "Pedro, então, era guardado na prisão; mas a igreja orava a Deus por ele intensamente.",
   "n": [
    {
     "tipo": "tn",
-    "ancora": "sem cessar",
+    "ancora": "intensamente",
     "termo": "ἐκτενῶς (ektenōs)",
     "titulo": "ektenōs",
     "texto": "Advérbio raro (também 1Pe 1:22): “com intensidade, com perseverança”, de ekteinō, “estender”. O Textus Receptus e o Texto Bizantino trazem o adjetivo ektenēs (“oração intensa”) e hyper em vez de peri (“por ele”), com o mesmo sentido."
@@ -123,7 +123,7 @@
     "ancora": "Pedro dormia",
     "termo": "ἦν ὁ Πέτρος κοιμώμενος",
     "titulo": "o sono de Pedro",
-    "texto": "Na noite anterior ao provável julgamento e morte, Pedro dorme. Lucas não comenta, mas o quadro lembra o Sl 4:8 (“Em paz me deito e logo pego no sono”) e contrasta com o Pedro que dormia de tristeza no Getsêmani (Lc 22:45)."
+    "texto": "Na noite anterior ao provável julgamento e morte, Pedro dorme. Lucas não comenta, mas o quadro lembra o Sl 4:8, em que o salmista se deita e dorme em paz, confiado em Deus, e contrasta com o Pedro que dormia de tristeza no Getsêmani (Lc 22:45)."
    }
   ]
  },
@@ -199,7 +199,7 @@
     "ancora": "eles saíram e seguiram por uma rua",
     "termo": "ἐξελθόντες προῆλθον ῥύμην μίαν",
     "titulo": "o acréscimo do texto ocidental",
-    "texto": "O Códice de Beza (D), principal testemunha do chamado texto ocidental de Atos, acrescenta depois de “saíram”: “desceram os sete degraus”. O detalhe pode refletir conhecimento local da fortaleza de Jerusalém, mas não está na grande maioria dos manuscritos nem em nenhuma das edições críticas ou no Textus Receptus."
+    "texto": "O Códice de Beza (D), principal testemunha do chamado texto ocidental de Atos, acrescenta depois de “saíram”: “desceram os sete degraus”. O acréscimo não está na grande maioria dos manuscritos nem em nenhuma das edições críticas ou no Textus Receptus."
    }
   ]
  },
@@ -341,14 +341,14 @@
   ]
  },
  "Act.12.19": {
-  "t": "Herodes mandou procurá-lo e, não o encontrando, interrogou os guardas e ordenou que fossem levados à execução. Depois desceu da Judeia para Cesareia e ali permaneceu.",
+  "t": "Herodes mandou procurá-lo e, não o encontrando, interrogou os guardas e ordenou que fossem levados ao castigo. Depois desceu da Judeia para Cesareia e ali permaneceu.",
   "n": [
    {
     "tipo": "tn",
-    "ancora": "fossem levados à execução",
+    "ancora": "fossem levados ao castigo",
     "termo": "ἐκέλευσεν ἀπαχθῆναι (ekeleusen apachthēnai)",
     "titulo": "apagō",
-    "texto": "Lit. “ordenou que fossem levados embora”. Apagō é o termo legal para conduzir alguém à pena (Lc 23:26, a caminho da crucificação). Pelo costume romano, o guarda que deixava fugir um prisioneiro sofria a pena que caberia a este (cf. 16:27; 27:42). Por isso a maioria entende que foram executados. O texto, porém, não diz a palavra “execução”: alguns entendem apenas que foram levados presos.",
+    "texto": "Lit. “ordenou que fossem levados embora”; “ao castigo” explicita o sentido legal do verbo, sem dizer qual foi a pena. Apagō é o termo legal para conduzir alguém à pena (Lc 23:26, a caminho da crucificação). Pelo costume romano, o guarda que deixava fugir um prisioneiro sofria a pena que caberia a este (cf. 16:27; 27:42). Por isso a maioria entende que foram executados. O texto, porém, não diz “execução”, e por isso a tradução não a põe no texto: alguns entendem apenas que foram levados presos ou punidos de outro modo.",
     "revisar": true
    },
    {
@@ -470,7 +470,7 @@
     "ancora": "tendo concluído em Jerusalém o seu serviço, voltaram",
     "termo": "ὑπέστρεψαν, εἰς Ἰερουσαλὴμ πληρώσαντες τὴν διακονίαν",
     "titulo": "voltaram “a” ou “de” Jerusalém?",
-    "texto": "Um dos problemas textuais mais difíceis de Atos. A leitura mais bem atestada, seguida pelo SBLGNT, NA28, Westcott-Hort e Texto Bizantino, é eis Ierousalēm, “para Jerusalém”. Mas em 11:30 Barnabé e Saulo já tinham ido a Jerusalém, e em 13:1 estão em Antioquia: esperava-se “voltaram de Jerusalém”. Por isso alguns manuscritos trazem ex Ierousalēm (assim Tregelles e o Textus Receptus) ou apo Ierousalēm (assim o texto grego da comissão da NIV), leituras que parecem corrigir a dificuldade. O SBLGNT põe vírgula depois de “voltaram”, o que permite ligar eis Ierousalēm a “tendo concluído o serviço”: “voltaram, depois de cumprir o seu serviço em Jerusalém” (no grego da época, eis às vezes equivale a en, “em”). A APV segue essa leitura, que mantém o texto mais bem atestado e combina com o contexto. Metzger discute longamente o problema.",
+    "texto": "Um dos problemas textuais mais difíceis de Atos. A leitura mais bem atestada, seguida pelo SBLGNT, NA28, Westcott-Hort e Texto Bizantino, é eis Ierousalēm, “para Jerusalém”. Mas em 11:30 Barnabé e Saulo já tinham ido a Jerusalém, e em 13:1 estão em Antioquia: esperava-se “voltaram de Jerusalém”. Por isso alguns manuscritos trazem ex Ierousalēm (assim Tregelles e o Textus Receptus) ou apo Ierousalēm (assim o texto grego subjacente à NIV), leituras que parecem corrigir a dificuldade. O SBLGNT põe vírgula depois de “voltaram”, o que permite ligar eis Ierousalēm a “tendo concluído o serviço”: “voltaram, depois de cumprir o seu serviço em Jerusalém” (no grego da época, eis às vezes equivale a en, “em”). A APV segue essa leitura, que mantém o texto mais bem atestado e combina com o contexto. Metzger discute longamente o problema.",
     "revisar": true
    },
    {
@@ -632,7 +632,7 @@
     "ancora": "procurava ouvir",
     "termo": "ἐπεζήτησεν ἀκοῦσαι (epezētēsen akousai)",
     "titulo": "epizēteō",
-    "texto": "“Procurou com empenho, desejou”. Sergio Paulo toma a iniciativa. Um magistrado romano podia manter junto a si adivinhos e conselheiros religiosos; por isso Barjesus estava “com” ele."
+    "texto": "“Procurou com empenho, desejou”. Sérgio Paulo toma a iniciativa. Um magistrado romano podia manter junto a si adivinhos e conselheiros religiosos; por isso Barjesus estava “com” ele."
    }
   ]
  },
@@ -664,7 +664,7 @@
     "ancora": "Saulo, também chamado Paulo",
     "termo": "Σαῦλος δέ, ὁ καὶ Παῦλος",
     "titulo": "Saulo e Paulo",
-    "texto": "A partir daqui Lucas passa a chamá-lo de Paulo. Não há mudança de nome na conversão: como muitos judeus da Dispersão, e sendo cidadão romano (16:37; 22:28), ele tinha um nome hebraico, Saulo (Shaul, o rei da sua tribo, v. 21), e um nome romano, Paulus (“pequeno”). A troca acontece quando a missão entra no mundo greco-romano e diante de um romano de mesmo nome. Também a ordem muda: agora é “Paulo e Barnabé” (v. 13, 43), e Paulo passa a ser o principal pregador."
+    "texto": "A partir daqui Lucas passa a chamá-lo de Paulo. Não há mudança de nome na conversão: como muitos judeus da Dispersão, e sendo cidadão romano (16:37; 22:28), ele tinha um nome hebraico, Saulo (Shaul, o rei da sua tribo, v. 21), e um nome romano, Paulus (“pequeno”). A troca acontece quando a missão entra de vez no mundo greco-romano; alguns propõem também uma ligação com o encontro com o procônsul de mesmo nome, mas isso é só hipótese. Também a ordem muda: agora é “Paulo e Barnabé” (v. 13, 43), e Paulo passa a ser o principal pregador."
    },
    {
     "tipo": "tn",
@@ -716,7 +716,7 @@
     "ancora": "você ficará cego e por algum tempo não verá o sol",
     "termo": "ἔσῃ τυφλὸς μὴ βλέπων τὸν ἥλιον ἄχρι καιροῦ",
     "titulo": "uma cegueira temporária",
-    "texto": "Paulo impõe ao mago a mesma experiência que ele próprio tivera: também ele ficou cego e precisou ser conduzido pela mão (9:8-9, com cheiragōgeō, palavra da mesma família de cheiragōgos, “guia”, aqui). “Por algum tempo” (achri kairou) indica que a cegueira não seria definitiva; muitos veem aí uma porta aberta ao arrependimento. Achlys (“névoa”, hápax) é termo também usado por escritores de medicina para a vista turva. O NA28 traz te em vez de de, e o NA28, o Textus Receptus e o Texto Bizantino, epepesen (“caiu sobre”), sem efeito na tradução."
+    "texto": "Paulo impõe ao mago a mesma experiência que ele próprio tivera: também ele ficou cego e precisou ser conduzido pela mão (9:8-9, com cheiragōgeō, palavra da mesma família de cheiragōgos, “guia”, aqui). “Por algum tempo” (achri kairou) indica que a cegueira não seria definitiva; muitos veem aí uma porta aberta ao arrependimento. Achlys (“névoa”, hápax) é termo também usado por escritores de medicina para a vista turva. O NA28 traz te em vez de de; o Textus Receptus e o Texto Bizantino trazem epepesen (“caiu sobre”), sem efeito na tradução."
    }
   ]
  },
@@ -766,7 +766,7 @@
     "ancora": "Antioquia da Pisídia",
     "termo": "Ἀντιόχειαν τὴν Πισιδίαν (Antiocheian tēn Pisidian)",
     "titulo": "“a Antioquia pisídia”",
-    "texto": "O SBLGNT traz o adjetivo: “Antioquia, a pisídia”. A cidade ficava na fronteira da Frígia com a Pisídia, na província romana da Galácia; era colônia romana. Distingue-se de Antioquia da Síria (v. 1). O Textus Receptus e o Texto Bizantino trazem o genitivo, “Antioquia da Pisídia”. Westcott-Hort e o THGNT trazem elthontes (“indo”) em vez de eiselthontes (“entrando”)."
+    "texto": "O SBLGNT traz o adjetivo: “Antioquia, a pisídia”. A cidade ficava na fronteira da Frígia com a Pisídia, na província romana da Galácia; era colônia romana. Distingue-se de Antioquia da Síria (v. 1). O Textus Receptus e o Texto Bizantino trazem o genitivo, “Antioquia da Pisídia”. Westcott-Hort traz elthontes (“indo”) em vez de eiselthontes (“entrando”)."
    },
    {
     "tipo": "tn",
@@ -823,7 +823,7 @@
     "ancora": "com braço erguido",
     "termo": "μετὰ βραχίονος ὑψηλοῦ (meta brachionos hypsēlou)",
     "titulo": "o êxodo",
-    "texto": "Expressão da Septuaginta para o poder de Deus no êxodo (Êx 6:1, 6; Dt 5:15; Sl 136:12). Paroikia é a permanência como estrangeiro residente (7:6, 29). O Texto Bizantino omite “Israel”; o Textus Receptus e o Texto Bizantino trazem “no Egito” em lugar de “na terra do Egito”, sem efeito no sentido."
+    "texto": "Expressão da Septuaginta para o poder de Deus no êxodo (Êx 6:1, 6; Dt 5:15; Sl 136:12). Paroikia é a permanência como estrangeiro residente (7:6, 29). O Texto Bizantino omite “Israel”; o Textus Receptus e o Texto Bizantino trazem Aiguptō (dativo) em vez de Aiguptou, sem efeito no sentido."
    },
    {
     "tipo": "tn",
@@ -867,7 +867,7 @@
     "ancora": "num período de cerca de quatrocentos e cinquenta anos. Depois disso, deu-lhes juízes",
     "termo": "ὡς ἔτεσιν τετρακοσίοις καὶ πεντήκοντα. καὶ μετὰ ταῦτα ἔδωκεν κριτάς",
     "titulo": "a que se referem os 450 anos?",
-    "texto": "No texto crítico (SBLGNT, NA28, Westcott-Hort, Tregelles), os 450 anos fecham o que veio antes: aproximadamente 400 anos no Egito (7:6; Gn 15:13), 40 no deserto e uns 10 da conquista. Lit. “como em quatrocentos e cinquenta anos; e depois disso deu juízes”. O Textus Receptus e o Texto Bizantino põem “e depois disso” antes do número: “depois disso, deu-lhes juízes por cerca de 450 anos, até o profeta Samuel”, o que daria aos juízes um período longo demais diante de 1Rs 6:1 (480 anos do êxodo ao templo). A ordem do texto crítico é a dos manuscritos mais antigos e evita a dificuldade. O NA28 e o Texto Bizantino trazem o artigo antes de “profeta”."
+    "texto": "No texto crítico (SBLGNT, NA28, Westcott-Hort, Tregelles), os 450 anos fecham o que veio antes: aproximadamente 400 anos no Egito (7:6; Gn 15:13), 40 no deserto e uns 10 da conquista. Lit. “como em quatrocentos e cinquenta anos; e depois disso deu juízes”. O Textus Receptus e o Texto Bizantino põem “e depois disso” antes do número: “depois disso, deu-lhes juízes por cerca de 450 anos, até o profeta Samuel”, o que daria aos juízes um período longo demais diante de 1Rs 6:1 (480 anos do êxodo ao templo). A ordem do texto crítico é a dos manuscritos mais antigos e evita a dificuldade. Westcott-Hort e Tregelles omitem o artigo antes de “profeta”."
    }
   ]
  },
@@ -1050,7 +1050,7 @@
     "ancora": "para os nossos filhos",
     "termo": "τοῖς τέκνοις ἡμῶν (tois teknois hēmōn)",
     "titulo": "“nossos filhos” ou “a nós, filhos deles”",
-    "texto": "O SBLGNT, Westcott-Hort e Tregelles trazem tois teknois hēmōn (“para os nossos filhos”), leitura de vários dos manuscritos mais antigos. O NA28, o THGNT, o Textus Receptus e o Texto Bizantino trazem tois teknois autōn hēmin (“para nós, os filhos deles”), que faz melhor sentido: a promessa feita aos pais cumpriu-se para a geração presente. Metzger explica que a comissão do texto da UBS considerou hēmōn uma corrupção muito antiga. A APV segue o texto-base, mas o sentido mais provável é o de “nós, filhos dos pais”; “os nossos filhos” pode ser entendido como a descendência de Israel que agora recebe a promessa.",
+    "texto": "O SBLGNT, Westcott-Hort e Tregelles trazem tois teknois hēmōn (“para os nossos filhos”), leitura bem atestada. O Textus Receptus e o Texto Bizantino (e outras edições) trazem tois teknois autōn hēmin (“para nós, os filhos deles”), que faz melhor sentido: a promessa feita aos pais cumpriu-se para a geração presente. Por isso muitos estudiosos consideram hēmōn uma corrupção antiga de hēmin. A APV segue o texto-base, mas o sentido mais provável é o de “nós, filhos dos pais”; “os nossos filhos” pode ser entendido como a descendência de Israel que agora recebe a promessa.",
     "revisar": true
    },
    {
@@ -1422,7 +1422,7 @@
     "ancora": "que dava testemunho à palavra da sua graça",
     "termo": "τῷ μαρτυροῦντι τῷ λόγῳ τῆς χάριτος αὐτοῦ",
     "titulo": "os sinais confirmam a palavra",
-    "texto": "Os sinais não são o centro, mas o testemunho de Deus a favor da mensagem (cf. Mc 16:20; Hb 2:3-4). “A palavra da sua graça” é o evangelho como mensagem do favor de Deus (20:24, 32). Sinais e prodígios acompanham Paulo e Barnabé como acompanharam os apóstolos em Jerusalém (2:43; 5:12; 15:12). O NA28 traz epi antes de “palavra”, sem efeito na tradução."
+    "texto": "Os sinais não são o centro, mas o testemunho de Deus a favor da mensagem (cf. Hb 2:3-4). “A palavra da sua graça” é o evangelho como mensagem do favor de Deus (20:24, 32). Sinais e prodígios acompanham Paulo e Barnabé como acompanharam os apóstolos em Jerusalém (2:43; 5:12; 15:12)."
    }
   ]
  },
@@ -1899,7 +1899,7 @@
     "ancora": "foram recebidos pela igreja",
     "termo": "παρεδέχθησαν ἀπὸ τῆς ἐκκλησίας",
     "titulo": "formas do verbo",
-    "texto": "O Textus Receptus e o Texto Bizantino trazem apedechthēsan (“foram bem acolhidos”), e o NA28, o THGNT, o Textus Receptus e o Texto Bizantino, hypo em vez de apo, todos com o mesmo sentido. Tregelles traz Hierosolyma, outra forma do nome de Jerusalém."
+    "texto": "O Textus Receptus e o Texto Bizantino trazem apedechthēsan (“foram bem acolhidos”), e hypo em vez de apo, com o mesmo sentido. Tregelles traz Hierosolyma, outra forma do nome de Jerusalém."
    },
    {
     "tipo": "sn",
@@ -2061,14 +2061,14 @@
   ]
  },
  "Act.15.14": {
-  "t": "Simeão contou como Deus, no princípio, visitou os gentios para tirar dentre eles um povo para o seu nome.",
+  "t": "Simeão contou como Deus, pela primeira vez, visitou os gentios para tirar dentre eles um povo para o seu nome.",
   "n": [
    {
     "tipo": "tn",
     "ancora": "Simeão",
     "termo": "Συμεών (Symeōn)",
     "titulo": "o nome hebraico de Pedro",
-    "texto": "Forma hebraica (Shim‘on) do nome de Simão Pedro, usada também em 2Pe 1:1. Na boca de Tiago, soa como o nome familiar da igreja de Jerusalém. Alguns autores antigos pensaram em Simeão de Lc 2:25-32, que falou da luz para os gentios, mas o contexto (v. 7-11) mostra que é Pedro."
+    "texto": "Forma hebraica (Shim‘on) do nome de Simão Pedro, usada também em 2Pe 1:1. Na boca de Tiago, soa como o nome familiar da igreja de Jerusalém. O contexto (v. 7-11) mostra que é Pedro."
    },
    {
     "tipo": "sn",
@@ -2126,7 +2126,7 @@
     "ancora": "sobre as quais o meu nome foi invocado",
     "termo": "ἐφ᾽ οὓς ἐπικέκληται τὸ ὄνομά μου ἐπ᾽ αὐτούς",
     "titulo": "pertencer a Deus",
-    "texto": "Hebraísmo: ter o nome de alguém invocado sobre si é pertencer a ele (Dt 28:10; Jr 14:9). O pronome repetido (“sobre os quais ... sobre eles”) imita o hebraico. “O Senhor” que fala é YHWH no texto de Amós. O NA28, o THGNT, o Textus Receptus e o Texto Bizantino trazem o artigo antes de kyrios no fim; o Textus Receptus e o Texto Bizantino acrescentam panta (“que faz todas estas coisas”)."
+    "texto": "Hebraísmo: ter o nome de alguém invocado sobre si é pertencer a ele (Dt 28:10; Jr 14:9). O pronome repetido (“sobre os quais ... sobre eles”) imita o hebraico. “O Senhor” que fala é YHWH no texto de Amós. O Textus Receptus e o Texto Bizantino trazem o artigo antes de kyrios no fim; o Textus Receptus e o Texto Bizantino acrescentam panta (“que faz todas estas coisas”)."
    }
   ]
  },
@@ -2177,7 +2177,7 @@
     "ancora": "contaminações dos ídolos",
     "termo": "τῶν ἀλισγημάτων τῶν εἰδώλων (tōn alisgēmatōn tōn eidōlōn)",
     "titulo": "alisgēma, hápax",
-    "texto": "Única ocorrência no NT: “contaminação, poluição ritual”. Na carta (v. 29) a expressão é precisada como eidōlothyta, “coisas sacrificadas aos ídolos”, especialmente a carne vendida ou comida depois dos sacrifícios. O Textus Receptus e o Texto Bizantino acrescentam apo (“abster-se de”); Westcott-Hort e Tregelles omitem o artigo antes de “imoralidade”."
+    "texto": "Única ocorrência no NT: “contaminação, poluição ritual”. Na carta (v. 29) a expressão é precisada como eidōlothyta, “coisas sacrificadas aos ídolos”, especialmente a carne vendida ou comida depois dos sacrifícios. O Textus Receptus e o Texto Bizantino acrescentam apo (“abster-se de”); Westcott-Hort e Tregelles omitem o artigo antes de “estrangulado” (tou pniktou)."
    },
    {
     "tipo": "tn",
@@ -2676,7 +2676,7 @@
     "ancora": "navegamos em linha reta",
     "termo": "εὐθυδρομήσαμεν (euthydromēsamen)",
     "titulo": "euthydromeō",
-    "texto": "“Correr em linha reta”, termo náutico para a navegação com vento favorável (também 21:1). Samotrácia era uma ilha montanhosa no meio do caminho, onde os navios passavam a noite; Neápolis (hoje Kavala) era o porto de Filipos. A viagem durou dois dias; em sentido contrário, levará cinco (20:6). O NA28 traz de em vez de oun; o Textus Receptus e o Texto Bizantino trazem o artigo antes de “Trôade”, te em vez de de, e a grafia Neapolin."
+    "texto": "“Correr em linha reta”, termo náutico para a navegação com vento favorável (também 21:1). Samotrácia era uma ilha montanhosa no meio do caminho, onde os navios passavam a noite; Neápolis (hoje Kavala) era o porto de Filipos. A viagem durou dois dias; em sentido contrário, levará cinco (20:6). O Textus Receptus e o Texto Bizantino trazem o artigo antes de “Trôade”, te em vez de de, e a grafia Neapolin."
    }
   ]
  },
@@ -2688,7 +2688,7 @@
     "ancora": "cidade principal daquele distrito da Macedônia",
     "termo": "πρώτη τῆς μερίδος Μακεδονίας πόλις (prōtē tēs meridos Makedonias polis)",
     "titulo": "“primeira cidade” ou “do primeiro distrito”",
-    "texto": "O SBLGNT, Westcott-Hort e Tregelles trazem prōtē tēs meridos Makedonias polis, lit. “primeira cidade do distrito da Macedônia”, isto é, uma das cidades mais importantes. A dificuldade é que a capital do distrito era Anfípolis. O NA28 adota uma conjectura apoiada em poucas testemunhas antigas: prōtēs meridos, “cidade do primeiro distrito da Macedônia”. De fato, os romanos dividiram a Macedônia em quatro distritos (merides) em 167 a.C., e Filipos ficava no primeiro. O Textus Receptus e o Texto Bizantino trazem “a primeira cidade da parte da Macedônia”. “Primeira” pode também ser título honorífico, de orgulho local. A APV segue o texto-base, mas entende prōtē como “principal”.",
+    "texto": "O SBLGNT, Westcott-Hort e Tregelles trazem prōtē tēs meridos Makedonias polis, lit. “primeira cidade do distrito da Macedônia”, isto é, uma das cidades principais. O Textus Receptus e o Texto Bizantino trazem a mesma frase com o artigo tēs antes de “Macedônia”. Edições críticas modernas da série Nestle-Aland trazem outra forma, prōtēs meridos tēs Makedonias, “cidade do primeiro distrito da Macedônia”. A questão histórica por trás da variante: os romanos dividiram a Macedônia em quatro distritos (merides) em 167 a.C., e Filipos ficava no primeiro, cuja capital era Anfípolis, e não Filipos. Por isso “primeira cidade” é entendida como “cidade principal” ou como título honorífico de orgulho local. A APV segue o texto-base nesse sentido.",
     "revisar": true
    },
    {
@@ -2708,7 +2708,7 @@
     "ancora": "onde pensávamos haver um lugar de oração",
     "termo": "οὗ ἐνομίζομεν προσευχὴν εἶναι",
     "titulo": "“pensávamos” ou “costumava-se”",
-    "texto": "O SBLGNT, Westcott-Hort e Tregelles trazem enomizomen proseuchēn einai (“onde pensávamos haver um lugar de oração”). O NA28, o Textus Receptus e o Texto Bizantino trazem enomizeto proseuchē einai, “onde costumava haver oração” ou “onde se supunha haver um lugar de oração”. O Textus Receptus e o Texto Bizantino trazem também “para fora da cidade” em vez de “pela porta”."
+    "texto": "O SBLGNT, Westcott-Hort e Tregelles trazem enomizomen proseuchēn einai (“onde pensávamos haver um lugar de oração”). O Textus Receptus e o Texto Bizantino trazem enomizeto proseuchē einai, “onde costumava haver oração” ou “onde se supunha haver um lugar de oração”. O sentido geral não muda. O Textus Receptus e o Texto Bizantino trazem também “para fora da cidade” em vez de “pela porta”."
    },
    {
     "tipo": "tn",
@@ -2739,7 +2739,7 @@
   ]
  },
  "Act.16.15": {
-  "t": "Depois de ser batizada, ela e a sua casa, fez-nos um pedido: “Se vocês me julgam fiel ao Senhor, entrem em minha casa e fiquem ali.” E nos convenceu a ficar.",
+  "t": "Depois que ela e a sua casa foram batizadas, ela nos fez um pedido: “Se vocês me julgam fiel ao Senhor, entrem em minha casa e fiquem ali.” E nos convenceu a ficar.",
   "n": [
    {
     "tipo": "sn",
@@ -2784,7 +2784,7 @@
     "ancora": "servos do Deus Altíssimo",
     "termo": "δοῦλοι τοῦ θεοῦ τοῦ ὑψίστου (douloi tou theou tou hypsistou)",
     "titulo": "um título ambíguo",
-    "texto": "“Deus Altíssimo” é título bíblico (Gn 14:18; Lc 1:32; At 7:48), mas os pagãos também o usavam para Zeus e para outras divindades supremas. Na boca da moça, o grito era verdadeiro, mas podia ser entendido pelos ouvintes de forma pagã. Douloi: ver a nota sobre “servos” em 4:29. O NA28, o Textus Receptus e o Texto Bizantino trazem o aoristo katakolouthēsasa, sem efeito na tradução."
+    "texto": "“Deus Altíssimo” é título bíblico (Gn 14:18; Lc 1:32; At 7:48), mas os pagãos também o usavam para Zeus e para outras divindades supremas. Na boca da moça, o grito era verdadeiro, mas podia ser entendido pelos ouvintes de forma pagã. Douloi: ver a nota sobre “servos” em 4:29. O Textus Receptus e o Texto Bizantino trazem o aoristo katakolouthēsasa, sem efeito na tradução."
    },
    {
     "tipo": "tn",
@@ -3011,7 +3011,7 @@
     "ancora": "lavou-lhes os ferimentos; e logo foi batizado",
     "termo": "ἔλουσεν ἀπὸ τῶν πληγῶν, καὶ ἐβαπτίσθη",
     "titulo": "duas lavagens",
-    "texto": "Lit. “lavou-os das feridas”. O carcereiro lava as feridas que os golpes produziram (v. 23), e logo é lavado pelo batismo. A mudança de vida se mostra em atos concretos de cuidado. O batismo acontece na mesma noite, provavelmente com a água usada para as feridas ou num poço do pátio. Westcott-Hort traz hapantes, com o mesmo sentido."
+    "texto": "Lit. “lavou-os das feridas”. O carcereiro lava as feridas que os golpes produziram (v. 23), e logo é lavado pelo batismo. A mudança de vida se mostra em atos concretos de cuidado. O batismo acontece na mesma noite; o texto não diz onde. Westcott-Hort traz hapantes, com o mesmo sentido."
    }
   ]
  },
@@ -3054,7 +3054,7 @@
     "ancora": "vão em paz",
     "termo": "πορεύεσθε ἐν εἰρήνῃ (poreuesthe en eirēnē)",
     "titulo": "uma despedida",
-    "texto": "Fórmula de despedida com bênção (15:33; Lc 7:50; 8:48). Na boca do carcereiro, agora irmão na fé, pode ter mais que o sentido comum. O NA28 e o Texto Bizantino trazem toutous (“essas palavras”); Westcott-Hort e Tregelles omitem o pronome."
+    "texto": "Fórmula de despedida com bênção (15:33; Lc 7:50; 8:48). Na boca do carcereiro, agora irmão na fé, pode ter mais que o sentido comum. Westcott-Hort e Tregelles omitem toutous (“essas”)."
    }
   ]
  },
@@ -3073,7 +3073,7 @@
     "ancora": "De modo nenhum!",
     "termo": "οὐ γάρ (ou gar)",
     "titulo": "“não, pois”",
-    "texto": "Lit. “não, de fato”: recusa enfática. “Às escondidas” (lathra) contrasta com “publicamente” (dēmosia): a injustiça foi pública, a reparação também deve ser. O Texto Bizantino omite o primeiro hēmas (“nos”)."
+    "texto": "Lit. “não, de fato”: recusa enfática. “Às escondidas” (lathra) contrasta com “publicamente” (dēmosia): a injustiça foi pública, a reparação também deve ser. O Texto Bizantino omite o último hēmas (“nos”, antes de “tirem”)."
    }
   ]
  },
@@ -3290,7 +3290,7 @@
     "ancora": "examinando todos os dias as Escrituras",
     "termo": "τὸ καθ᾽ ἡμέραν ἀνακρίνοντες τὰς γραφάς",
     "titulo": "o exemplo de Bereia",
-    "texto": "Anakrinō é “examinar, investigar”, termo também usado para o interrogatório judicial (4:9; 12:19). Os bereanos acolhem a mensagem com entusiasmo e, ao mesmo tempo, a conferem com as Escrituras (o AT). A combinação de abertura e exame crítico tornou-se proverbial na igreja. Tregelles e o NA28 omitem o artigo to, sem efeito na tradução."
+    "texto": "Anakrinō é “examinar, investigar”, termo também usado para o interrogatório judicial (4:9; 12:19). Os bereanos acolhem a mensagem com entusiasmo e, ao mesmo tempo, a conferem com as Escrituras (o AT). A combinação de abertura e exame crítico tornou-se proverbial na igreja. Tregelles omite o artigo to, sem efeito na tradução."
    }
   ]
  },
@@ -3357,7 +3357,7 @@
     "ancora": "cheia de ídolos",
     "termo": "κατείδωλον (kateidōlon)",
     "titulo": "kateidōlos, hápax",
-    "texto": "Palavra rara, que não aparece antes de Lucas: “repleta de ídolos”, “coberta de ídolos”. Atenas era famosa pelos seus templos, estátuas e altares, que Pausânias, no século II, descreve em detalhe. Para os visitantes cultos, eram obras de arte; para Paulo, ídolos."
+    "texto": "Palavra rara, sem outro uso no NT: “repleta de ídolos”, “coberta de ídolos”. Atenas era famosa pelos seus templos, estátuas e altares, que Pausânias, no século II, descreve em detalhe. Para os visitantes cultos, eram obras de arte; para Paulo, ídolos."
    }
   ]
  },
@@ -3374,7 +3374,7 @@
   ]
  },
  "Act.17.18": {
-  "t": "Também alguns filósofos epicureus e estoicos debatiam com ele. Uns diziam: “O que quer dizer este catador de ideias?” Outros: “Parece ser um pregador de divindades estrangeiras”, porque ele anunciava o evangelho de Jesus e da ressurreição.",
+  "t": "Também alguns filósofos epicureus e estoicos debatiam com ele. Uns diziam: “O que quer dizer este catador de ideias?” Outros: “Parece ser um pregador de divindades estrangeiras”, porque ele anunciava Jesus e a ressurreição como boa notícia.",
   "n": [
    {
     "tipo": "sn",
@@ -3389,6 +3389,13 @@
     "termo": "ὁ σπερμολόγος οὗτος (ho spermologos houtos)",
     "titulo": "spermologos, hápax",
     "texto": "Lit. “catador de sementes”: o pássaro que cata grãos aqui e ali. Na gíria de Atenas, era quem recolhe restos de ideias alheias e as repete sem entendê-las, um palrador de segunda mão. Almeida traduziu “paroleiro”. “Tagarela” perderia a imagem de quem junta migalhas de saber."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "anunciava Jesus e a ressurreição como boa notícia",
+    "termo": "τὸν Ἰησοῦν καὶ τὴν ἀνάστασιν εὐηγγελίζετο",
+    "titulo": "dois objetos do verbo",
+    "texto": "Lit. “evangelizava Jesus e a ressurreição”. Os dois substantivos são objetos do verbo euangelizomai, lado a lado; por isso alguns ouvintes podiam entendê-los como duas divindades (ver a nota seguinte). A tradução mantém os dois como objetos."
    },
    {
     "tipo": "sn",
@@ -3470,7 +3477,7 @@
     "ancora": "aquilo que vocês adoram sem conhecer é o que eu lhes anuncio",
     "termo": "ὃ οὖν ἀγνοοῦντες εὐσεβεῖτε, τοῦτο ἐγὼ καταγγέλλω ὑμῖν",
     "titulo": "neutro ou masculino",
-    "texto": "O texto crítico traz pronomes neutros (ho ... touto, “aquilo que ... isso”): Paulo fala de modo impessoal do objeto vago do culto ateniense, e não diz que eles já adoram o Deus verdadeiro sem saber. O Textus Receptus e o Texto Bizantino trazem o masculino (hon ... touton, “aquele a quem ... a este”), mais pessoal. “Sem conhecer” (agnoountes) faz jogo com “desconhecido” (agnōstos) e prepara “os tempos da ignorância” (agnoia, v. 30): o que era desconhecido é agora anunciado."
+    "texto": "O texto crítico traz pronomes neutros (ho ... touto, “aquilo que ... isso”); o Textus Receptus e o Texto Bizantino trazem o masculino (hon ... touton, “aquele a quem ... a este”), mais pessoal. O neutro é mais impessoal, mas a gramática não decide sozinha a questão teológica. Os intérpretes divergem: para uns, Paulo encontra na religiosidade dos atenienses um ponto de contato, uma busca real, ainda que às cegas, pelo Deus que ele anuncia (cf. v. 27); para outros, ele acentua o contraste: eles adoram sem conhecer, e esse tempo de ignorância exige arrependimento (v. 30). Muitos combinam as duas coisas. “Sem conhecer” (agnoountes) faz jogo com “desconhecido” (agnōstos) e prepara “os tempos da ignorância” (agnoia, v. 30)."
    }
   ]
  },
@@ -3545,7 +3552,7 @@
     "ancora": "nele vivemos, nos movemos e existimos",
     "termo": "ἐν αὐτῷ γὰρ ζῶμεν καὶ κινούμεθα καὶ ἐσμέν",
     "titulo": "uma fórmula grega",
-    "texto": "A frase tem ritmo de citação ou de fórmula conhecida. Uma tradição cristã antiga, em comentaristas de língua síria, a atribui ao poeta cretense Epimênides, numa passagem que também conteria as palavras citadas em Tt 1:12; a atribuição é possível, mas incerta. Em boca estoica, “nele” poderia ter sentido panteísta (Deus confundido com o mundo); em Paulo, depois dos v. 24-26, significa dependência total do Criador, que é distinto do mundo.",
+    "texto": "A frase tem ritmo de citação ou de fórmula conhecida. Um comentário sírio medieval (de Isho‘dad de Merv, século IX), que talvez dependa de autores mais antigos, atribui essas palavras ao poeta cretense Epimênides, numa passagem que também conteria as palavras citadas em Tt 1:12; a atribuição é possível, mas incerta. Em boca estoica, “nele” poderia ter sentido panteísta (Deus confundido com o mundo); em Paulo, depois dos v. 24-26, significa dependência total do Criador, que é distinto do mundo.",
     "revisar": true
    },
    {
@@ -3596,7 +3603,7 @@
     "ancora": "há de julgar o mundo com justiça",
     "termo": "μέλλει κρίνειν τὴν οἰκουμένην ἐν δικαιοσύνῃ",
     "titulo": "Salmos 9, 96 e 98",
-    "texto": "A frase reproduz palavras da Septuaginta de Sl 9:8; 96:13 e 98:9: “ele julgará o mundo com justiça”. Os epicureus negavam um juízo depois da morte; Paulo o afirma. O Textus Receptus e o Texto Bizantino trazem dioti em vez de kathoti, com o mesmo sentido."
+    "texto": "A frase ecoa a Septuaginta de Sl 9:9; 95:13 e 97:9 (Sl 9:8; 96:13; 98:9 na numeração hebraica): “ele julgará o mundo com justiça”. Os epicureus negavam um juízo depois da morte; Paulo o afirma. O Textus Receptus e o Texto Bizantino trazem dioti em vez de kathoti, com o mesmo sentido."
    },
    {
     "tipo": "tn",
@@ -3646,7 +3653,7 @@
     "ancora": "Dionísio, o areopagita, uma mulher chamada Dâmaris",
     "termo": "Διονύσιος ὁ Ἀρεοπαγίτης καὶ γυνὴ ὀνόματι Δάμαρις",
     "titulo": "os convertidos de Atenas",
-    "texto": "Dionísio era membro do conselho do Areópago, cargo de prestígio. Segundo Dionísio de Corinto, citado por Eusébio (História Eclesiástica, livro 3 e livro 4), ele se tornou o primeiro bispo de Atenas. Os escritos místicos atribuídos a ele (o “Pseudo-Dionísio”) são de fato dos séculos V-VI. De Dâmaris nada se sabe; ser nomeada ao lado de Dionísio sugere que era conhecida na igreja. O Códice de Beza (D) omite o nome dela. O resultado em Atenas parece modesto, mas não nulo: alguns homens “se juntaram” (kollaō, “colar-se”, 5:13; 9:26) a Paulo e creram. Areopagitēs é hápax."
+    "texto": "Dionísio era membro do conselho do Areópago, cargo de prestígio. Segundo Dionísio de Corinto, citado por Eusébio (História Eclesiástica, livro 3 e livro 4), ele se tornou o primeiro bispo de Atenas. Os escritos místicos atribuídos a ele (o “Pseudo-Dionísio”) são de fato dos séculos V-VI. De Dâmaris nada se sabe; ser nomeada ao lado de Dionísio sugere que era conhecida na igreja. O resultado em Atenas parece modesto, mas não nulo: alguns homens “se juntaram” (kollaō, “colar-se”, 5:13; 9:26) a Paulo e creram. Areopagitēs é hápax."
    }
   ]
  }

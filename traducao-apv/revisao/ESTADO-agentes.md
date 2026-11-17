@@ -49,3 +49,12 @@ Rev Luk_9-12 (17) → decisão a6644c01d701d285a. Act_12-17 traduzido (220, 362 
 Rev Mat_19-23 (18; 19:29 γυναῖκα perdida no TAGNT) → decisão a7a762d622bb91915.
 Rev Jhn_10-14 (23) → decisão a0d34f4a44f609461.
 Final: Luk_9-12 (15/2/0).
+Onda 4: Luk_13-18 a2fcafa0131f973e5.
+Final: Mat_19-23 (16/1/1).
+Onda 4: Mat_24-28 a961b6a980bae0260.
+Final: Jhn_10-14 (22/1/0). Onda 4: Jhn_15-21 (ver spawn).
+Mrk_14-16 traduzido (139, 290 notas) → rev (ver spawn). HARMONIZAR: ναός='santuário' x ἱερόν='templo' (Mc 14:58; 15:29,38) — conferir partes anteriores.
+Rev Act_12-17 (30) → decisão aa23a80f8a26078ca. GUIA: regra NA28 TAGNT x aparato.
+# PASSADA FINAL (antes de montar cada livro): conferir notas tc que citam NA28 contra o aparato SBLGNT nas partes antigas (At 1-11 sobretudo); harmonizar δοῦλος, ἐγώ εἰμι, ναός.
+Rev Mrk_14-16 (13) → decisão a1bbce93fda8de14d.
+Final: Act_12-17 (27/3/0).

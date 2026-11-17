@@ -1,0 +1,964 @@
+{
+ "Jhn.15.1": {
+  "t": "“Eu sou a videira verdadeira, e o meu Pai é o agricultor.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Eu sou a videira verdadeira",
+    "termo": "ἐγώ εἰμι ἡ ἄμπελος ἡ ἀληθινή (egō eimi hē ampelos hē alēthinē)",
+    "titulo": "o sétimo “Eu sou”",
+    "texto": "Último dos sete “Eu sou” com predicado (ver nota em 6:35). No AT, Israel é a videira ou a vinha que Deus plantou e da qual esperava fruto (Sl 80:8-16; Is 5:1-7; Jr 2:21; Ez 15:1-8; 19:10-14; Os 10:1); quase sempre a imagem aparece para denunciar que a vinha não deu o fruto esperado. Ao dizer-se a videira “verdadeira” (alēthinos, “genuína”, como o “pão verdadeiro” de 6:32), Jesus se apresenta como aquele em quem se cumpre o que Israel devia ser: o povo de Deus passa a ser definido pela união com ele."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "agricultor",
+    "termo": "γεωργός (geōrgos)",
+    "titulo": "geōrgos",
+    "texto": "Quem cultiva a terra; numa vinha, o vinhateiro, que planta, poda e colhe. “Lavrador” (ARC) é correto, mas hoje evoca mais o campo de cereais. O Pai é o dono e o cultivador da vinha, como em Is 5:1-7."
+   }
+  ]
+ },
+ "Jhn.15.2": {
+  "t": "Todo ramo que em mim não dá fruto, ele o corta; e todo o que dá fruto, ele o limpa, para que dê mais fruto.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "ele o corta",
+    "termo": "αἴρει (airei)",
+    "titulo": "airō: “tirar” ou “levantar”",
+    "texto": "Airō pode significar “levantar” ou “tirar, remover”. Alguns intérpretes propõem que o vinhateiro “levanta” do chão o ramo caído para que volte a dar fruto. No contexto, porém, o paralelo com o v. 6 (o ramo é lançado fora e queimado) favorece “tirar”, “cortar fora”, que é o sentido de airō na maioria dos usos em João (1:29; 11:39, 48; 19:15). A leitura “levantar” continua defendida por alguns.",
+    "revisar": true
+   },
+   {
+    "tipo": "tn",
+    "ancora": "ele o limpa",
+    "termo": "καθαίρει (kathairei)",
+    "titulo": "kathairō, hápax",
+    "texto": "Única ocorrência no NT. Kathairō é “limpar, purificar”; aplicado à vinha, é “podar”, tirar os brotos inúteis para que a força da planta vá para o fruto. A APV traduz “limpa” para manter o jogo de palavras com o v. 3: “vocês já estão limpos” (katharoi). “Poda” seria a palavra técnica da agricultura, mas perderia a ligação."
+   }
+  ]
+ },
+ "Jhn.15.3": {
+  "t": "Vocês já estão limpos por causa da palavra que eu lhes falei.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Vocês já estão limpos",
+    "termo": "ἤδη ὑμεῖς καθαροί ἐστε (ēdē hymeis katharoi este)",
+    "titulo": "eco de 13:10",
+    "texto": "Retoma 13:10 (“vocês estão limpos, mas não todos”); agora, depois da saída de Judas (13:30), não há exceção. Quem limpa é a palavra de Jesus, recebida com fé (cf. 17:17; Ef 5:26). A limpeza já recebida não dispensa a poda contínua do v. 2."
+   }
+  ]
+ },
+ "Jhn.15.4": {
+  "t": "Permaneçam em mim, e eu permanecerei em vocês. Assim como o ramo não pode dar fruto por si mesmo, se não permanecer na videira, assim também vocês não podem, se não permanecerem em mim.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "e eu permanecerei em vocês",
+    "termo": "κἀγὼ ἐν ὑμῖν (kagō en hymin)",
+    "titulo": "frase sem verbo",
+    "texto": "Lit. “permaneçam em mim, e eu em vocês”. A segunda parte não tem verbo e pode ser lida como promessa (“e eu permanecerei em vocês”), como parte da mesma ordem (“permaneçam em mim, e [façam que] eu [permaneça] em vocês”) ou como comparação (“permaneçam em mim, como eu em vocês”). A APV explicita o verbo como promessa, leitura mais simples e que combina com o v. 5 (“quem permanece em mim, e eu nele”). Menō (“permanecer”) é a palavra-chave dos vv. 4-10, onde aparece dez vezes; para João, permanecer é continuar unido a Jesus pela fé, pelo amor e pela obediência à sua palavra (v. 7, 10; 8:31)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "se não permanecer na videira",
+    "termo": "ἐὰν μὴ μένῃ (ean mē menē)",
+    "titulo": "presente ou aoristo",
+    "texto": "O texto-base, com Westcott-Hort e o NA28, traz o presente menē; Tregelles, o TR e o Texto Bizantino, o aoristo meinē. No fim do versículo, o TR e o Texto Bizantino trazem também meinēte em vez de menēte. A diferença de aspecto não muda a tradução."
+   }
+  ]
+ },
+ "Jhn.15.5": {
+  "t": "Eu sou a videira; vocês são os ramos. Quem permanece em mim, e eu nele, esse dá muito fruto; porque sem mim vocês não podem fazer nada.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "sem mim",
+    "termo": "χωρὶς ἐμοῦ (chōris emou)",
+    "titulo": "“separados de mim”",
+    "texto": "Chōris é “à parte de, separado de”. A frase não diz que, sem Jesus, ninguém pode fazer coisa alguma em sentido absoluto, mas que, separados dele, os discípulos não podem dar o fruto de que fala a imagem. O “fruto” não é definido aqui; no contexto inclui o amor (v. 12), a obediência (v. 10) e o testemunho que leva outros à fé (v. 16; 4:36; 12:24)."
+   }
+  ]
+ },
+ "Jhn.15.6": {
+  "t": "Se alguém não permanece em mim, é lançado fora, como o ramo, e seca; esses ramos são recolhidos e lançados ao fogo, e queimam.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "é lançado fora, como o ramo, e seca",
+    "termo": "ἐβλήθη ἔξω ὡς τὸ κλῆμα καὶ ἐξηράνθη (eblēthē exō hōs to klēma kai exēranthē)",
+    "titulo": "aoristos",
+    "texto": "Lit. “foi lançado fora como o ramo e secou”. Os verbos estão no aoristo (passado), mas o sentido é de verdade geral ou de consequência imediata, já certa: assim que o ramo é separado, está perdido. Por isso a tradução usa o presente. “São recolhidos e lançados” traduz dois verbos ativos de sujeito indeterminado (“recolhem-nos e lançam-nos”), forma comum para expressar a passiva."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "lançados ao fogo, e queimam",
+    "termo": "εἰς τὸ πῦρ βάλλουσιν, καὶ καίεται",
+    "titulo": "o ramo queimado",
+    "texto": "A imagem lembra Ez 15:1-8: a madeira da videira não serve para nada, a não ser para o fogo, e assim é tratado o povo infiel. O fogo é imagem frequente do juízo (Mt 3:10, 12; 13:40-42). O versículo é muito discutido. Para uns (de tradição arminiana e wesleyana), adverte que um verdadeiro discípulo pode deixar de permanecer em Cristo e perder-se. Para outros (de tradição reformada), os ramos que não permanecem são os que nunca estiveram unidos a ele de verdade, como Judas, que estava entre os Doze mas não era “limpo” (13:10-11; cf. 1Jo 2:19), e a advertência é um dos meios pelos quais Deus guarda os seus (10:28-29). As duas leituras levam a sério a advertência: só quem permanece dá fruto."
+   }
+  ]
+ },
+ "Jhn.15.7": {
+  "t": "Se vocês permanecerem em mim, e as minhas palavras permanecerem em vocês, peçam o que quiserem, e isso lhes será concedido.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "e isso lhes será concedido",
+    "termo": "καὶ γενήσεται ὑμῖν (kai genēsetai hymin)",
+    "titulo": "“e acontecerá para vocês”",
+    "texto": "Lit. “e acontecerá para vocês”. A promessa está ligada à condição: quem permanece em Jesus e tem nele as suas palavras pede de acordo com elas (14:13-14; 1Jo 5:14). Não é uma garantia para qualquer desejo."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "peçam",
+    "termo": "αἰτήσασθε (aitēsasthe)",
+    "titulo": "imperativo ou futuro",
+    "texto": "O texto-base, com Westcott-Hort, Tregelles e o NA28, traz o imperativo aitēsasthe (“peçam”). O TR e o Texto Bizantino trazem o futuro aitēsesthe (“vocês pedirão o que quiserem”). As formas diferem por uma letra; o sentido geral é o mesmo."
+   }
+  ]
+ },
+ "Jhn.15.8": {
+  "t": "Nisto o meu Pai é glorificado: que vocês deem muito fruto e assim se mostrem meus discípulos.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Nisto o meu Pai é glorificado",
+    "termo": "ἐν τούτῳ ἐδοξάσθη ὁ πατήρ μου",
+    "titulo": "aoristo e “nisto”",
+    "texto": "O verbo está no aoristo (“foi glorificado”), com valor de verdade geral ou olhando o resultado como já certo; por isso o presente. “Nisto” aponta para o que segue (“que vocês deem muito fruto”). O Pai é glorificado no Filho (13:31; 14:13) e também no fruto dos discípulos."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "e assim se mostrem meus discípulos",
+    "termo": "καὶ γένησθε ἐμοὶ μαθηταί (kai genēsthe emoi mathētai)",
+    "titulo": "“e se tornem meus discípulos”",
+    "texto": "Lit. “e se tornem meus discípulos”. Eles já são discípulos; “tornar-se” aqui é mostrar-se, ser de fato o que já são, como em 8:31 e 13:35. Por isso “se mostrem”. O TR e o Texto Bizantino trazem o futuro genēsesthe (“e vocês serão meus discípulos”), sem mudança importante no sentido."
+   }
+  ]
+ },
+ "Jhn.15.9": {
+  "t": "Assim como o Pai me amou, também eu amei vocês; permaneçam no meu amor.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "no meu amor",
+    "termo": "ἐν τῇ ἀγάπῃ τῇ ἐμῇ (en tē agapē tē emē)",
+    "titulo": "o amor de quem?",
+    "texto": "Lit. “no amor, o meu”. É o amor que Jesus tem por eles, não o amor deles por Jesus: o v. 10 fala do amor do Pai pelo Filho da mesma forma. Permanecer nesse amor é continuar a viver dentro dele, recebendo-o. A corrente do amor vai do Pai ao Filho, do Filho aos discípulos, e deles uns aos outros (v. 12)."
+   }
+  ]
+ },
+ "Jhn.15.10": {
+  "t": "Se vocês guardarem os meus mandamentos, permanecerão no meu amor, assim como eu tenho guardado os mandamentos de meu Pai e permaneço no seu amor.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "eu tenho guardado",
+    "termo": "τετήρηκα (tetērēka)",
+    "titulo": "perfeito",
+    "texto": "O perfeito olha para toda a vida de Jesus como obediência cumprida e que permanece (4:34; 8:29). A obediência não é o preço do amor, mas o modo de permanecer nele, como o Filho permanece no amor do Pai (ver nota em 14:21)."
+   }
+  ]
+ },
+ "Jhn.15.11": {
+  "t": "Eu lhes disse essas coisas para que a minha alegria esteja em vocês, e a alegria de vocês seja completa.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "a alegria de vocês seja completa",
+    "termo": "ἡ χαρὰ ὑμῶν πληρωθῇ (hē chara hymōn plērōthē)",
+    "titulo": "alegria completa",
+    "texto": "A alegria de Jesus vem da comunhão com o Pai e da obediência a ele, até a cruz. Ele quer que os discípulos a tenham como sua. A “alegria completa” é tema de João (3:29; 16:24; 17:13; 1Jo 1:4; 2Jo 12)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "esteja em vocês",
+    "termo": "ἐν ὑμῖν ᾖ (en hymin ē)",
+    "titulo": "“esteja” ou “permaneça”",
+    "texto": "O texto-base, com Westcott-Hort, Tregelles e o NA28, traz ē (“esteja”). O TR e o Texto Bizantino trazem meinē (“permaneça”), talvez por influência dos vv. 4-10."
+   }
+  ]
+ },
+ "Jhn.15.12": {
+  "t": "Este é o meu mandamento: que vocês se amem uns aos outros, assim como eu os amei.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "assim como eu os amei",
+    "termo": "καθὼς ἠγάπησα ὑμᾶς (kathōs ēgapēsa hymas)",
+    "titulo": "o mandamento novo",
+    "texto": "Retoma o “mandamento novo” de 13:34. O aoristo (“amei”) olha o amor de Jesus como um todo, que culmina na entrega da vida, como explica o v. 13. Kathōs (“assim como”) é medida e também fundamento: amem porque foram amados, e do modo como foram amados."
+   }
+  ]
+ },
+ "Jhn.15.13": {
+  "t": "Ninguém tem amor maior do que este: que alguém dê a sua vida pelos seus amigos.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "dê a sua vida",
+    "termo": "τὴν ψυχὴν αὐτοῦ θῇ (tēn psychēn autou thē)",
+    "titulo": "“pôr a vida”",
+    "texto": "Lit. “ponha a sua vida (psychē)”: a mesma expressão de 10:11, 15, 17-18, onde o bom pastor “dá a sua vida pelas ovelhas”. Hyper (“por, em favor de”) expressa a morte em benefício dos outros. A frase tinha paralelos no ideal grego da amizade; aqui ela se cumpre na morte de Jesus, que logo vai acontecer, e que, segundo Paulo, foi também por inimigos (Rm 5:8, 10)."
+   }
+  ]
+ },
+ "Jhn.15.14": {
+  "t": "Vocês são meus amigos se fizerem o que eu lhes mando.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Vocês são meus amigos",
+    "termo": "ὑμεῖς φίλοι μού ἐστε (hymeis philoi mou este)",
+    "titulo": "a condição",
+    "texto": "A condição não diz como alguém se torna amigo de Jesus, mas como os amigos se mostram: fazendo o que ele manda. A amizade é iniciativa de Jesus (v. 16). Westcott-Hort traz ho (“aquilo que”), o TR e o Texto Bizantino hosa (“tudo quanto”), em vez de ha (“o que”); sem diferença de sentido."
+   }
+  ]
+ },
+ "Jhn.15.15": {
+  "t": "Já não os chamo escravos, porque o escravo não sabe o que o seu senhor faz; mas eu os tenho chamado amigos, porque tudo o que ouvi de meu Pai eu lhes dei a conhecer.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "escravos",
+    "termo": "δούλους (doulous)",
+    "titulo": "“escravos” ou “servos”",
+    "texto": "Como em 13:16, doulos está em contraste direto com o seu senhor (kyrios) e com o amigo, como condição social; por isso “escravo” (ver nota em 13:16). O escravo recebia ordens sem explicação; o amigo é admitido aos planos do outro. Isso não anula o dever de obedecer (v. 14) nem o título de “servo” de Cristo que os apóstolos usarão com honra (Rm 1:1; Tg 1:1); e logo adiante Jesus repete o dito sobre o escravo e o senhor (v. 20)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "amigos",
+    "termo": "φίλους (philous)",
+    "titulo": "amigos de Deus",
+    "texto": "No AT, Abraão é chamado “amigo” de Deus (2Cr 20:7; Is 41:8; Tg 2:23), e Deus falava com Moisés “como alguém fala com o seu amigo” (Êx 33:11). Também ali a amizade significa revelação: Deus não esconde de Abraão o que vai fazer (Gn 18:17). “Tudo o que ouvi de meu Pai” se refere ao que era necessário que eles soubessem naquela hora; Jesus ainda tem muito a dizer, que o Espírito vai revelar (16:12-13)."
+   }
+  ]
+ },
+ "Jhn.15.16": {
+  "t": "Não foram vocês que me escolheram; fui eu que os escolhi e os designei para que vão e deem fruto, e o fruto de vocês permaneça, a fim de que o Pai lhes conceda tudo o que pedirem a ele em meu nome.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "fui eu que os escolhi",
+    "termo": "ἐγὼ ἐξελεξάμην ὑμᾶς (egō exelexamēn hymas)",
+    "titulo": "a escolha",
+    "texto": "Diferente do costume judaico, em que o aluno escolhia o rabino, aqui é o mestre quem escolhe os discípulos (6:70; 13:18). O contexto fala da escolha para o discipulado e para a missão (“para que vão e deem fruto”). O texto é também citado no debate sobre a eleição para a salvação; ele afirma claramente a iniciativa de Jesus, mas não trata diretamente dessa questão."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "os designei",
+    "termo": "ἔθηκα ὑμᾶς (ethēka hymas)",
+    "titulo": "tithēmi",
+    "texto": "Lit. “os pus”. Tithēmi com pessoa pode significar “estabelecer, designar para uma função” (At 20:28; 1Tm 1:12). “Nomeei” (ARC) é possível. Pode haver também um eco do v. 13: o mesmo verbo é usado para “dar” (pôr) a vida."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "a fim de que o Pai lhes conceda",
+    "termo": "ἵνα ὅ τι ἂν αἰτήσητε τὸν πατέρα ἐν τῷ ὀνόματί μου δῷ ὑμῖν",
+    "titulo": "a segunda finalidade",
+    "texto": "Lit. “para que, o que quer que peçam ao Pai em meu nome, ele lhes dê”. A segunda oração com hina pode ser paralela à primeira (“os designei para que deem fruto e para que o Pai lhes dê...”) ou depender dela (“deem fruto, a fim de que o Pai lhes dê...”). Nos dois casos, o fruto e a oração atendida andam juntos (v. 7). A ordem das palavras foi ajustada para o português."
+   }
+  ]
+ },
+ "Jhn.15.17": {
+  "t": "Isto eu lhes mando: que vocês se amem uns aos outros.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Isto eu lhes mando",
+    "termo": "ταῦτα ἐντέλλομαι ὑμῖν (tauta entellomai hymin)",
+    "titulo": "“estas coisas”",
+    "texto": "Lit. “estas coisas eu lhes mando, para que vocês se amem”. Pode ser lido como “tudo o que eu lhes mando tem este fim: que se amem”, ou, mais simplesmente, como a síntese dos mandamentos: o amor mútuo. A APV adota a segunda leitura, que fecha a seção dos vv. 12-17 com o mesmo mandamento com que ela começa."
+   }
+  ]
+ },
+ "Jhn.15.18": {
+  "t": "Se o mundo odeia vocês, saibam que ele me odiou antes de odiar vocês.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "saibam",
+    "termo": "γινώσκετε (ginōskete)",
+    "titulo": "imperativo ou indicativo",
+    "texto": "A forma pode ser imperativo (“saibam”) ou indicativo (“vocês sabem”). O imperativo combina melhor com o tom de advertência e preparação dos vv. 18-25. “O mundo” é aqui a humanidade organizada em oposição a Deus (ver nota em 1:10)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "me odiou antes de odiar vocês",
+    "termo": "ἐμὲ πρῶτον ὑμῶν μεμίσηκεν (eme prōton hymōn memisēken)",
+    "titulo": "“primeiro que vocês”",
+    "texto": "Lit. “me odiou primeiro que vocês”. Prōton com genitivo pode ser comparação de tempo (“antes de vocês”), como em 1:15, 30, ou de ordem. O sentido é o mesmo: o ódio que os discípulos vão sofrer começou contra Jesus. O perfeito (“odiou e continua odiando”) indica um ódio que permanece."
+   }
+  ]
+ },
+ "Jhn.15.19": {
+  "t": "Se vocês fossem do mundo, o mundo amaria o que é seu; mas, porque vocês não são do mundo, e eu os escolhi do mundo, por isso o mundo odeia vocês.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "amaria",
+    "termo": "ἐφίλει (ephilei)",
+    "titulo": "phileō",
+    "texto": "Aqui o verbo é phileō, não agapaō; em João os dois são usados como sinônimos (ver nota em 5:20). “O que é seu” (to idion, neutro) é o que pertence ao mundo: o mundo ama a si mesmo naquilo que lhe é próprio."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "do mundo",
+    "termo": "ἐκ τοῦ κόσμου (ek tou kosmou)",
+    "titulo": "ek: origem e pertença",
+    "texto": "“Ser do mundo” é ter nele a sua origem e pertencer a ele (8:23; 17:14, 16; 1Jo 4:5). A escolha de Jesus tira os discípulos “do mundo” quanto à pertença, mas não quanto ao lugar: eles continuam “no mundo” (17:11, 15)."
+   }
+  ]
+ },
+ "Jhn.15.20": {
+  "t": "Lembrem-se da palavra que eu lhes disse: ‘Nenhum escravo é maior do que o seu senhor’. Se perseguiram a mim, também perseguirão vocês; se guardaram a minha palavra, também guardarão a de vocês.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Nenhum escravo é maior do que o seu senhor",
+    "termo": "οὐκ ἔστιν δοῦλος μείζων τοῦ κυρίου αὐτοῦ",
+    "titulo": "o mesmo dito, outra aplicação",
+    "texto": "Jesus repete o dito de 13:16. Lá a aplicação era o serviço humilde; aqui é a perseguição: os discípulos não podem esperar tratamento melhor do que o do seu Senhor (cf. Mt 10:24-25)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "se guardaram a minha palavra",
+    "termo": "εἰ τὸν λόγον μου ἐτήρησαν (ei ton logon mou etērēsan)",
+    "titulo": "esperança ou ironia?",
+    "texto": "A segunda frase pode ser lida de dois modos. (1) Como paralela à primeira: assim como alguns perseguiram Jesus, outros guardaram a sua palavra, e assim será também com os discípulos: haverá rejeição e também acolhida. (2) Como ironia: o mundo não guardou a palavra de Jesus, e tampouco guardará a deles. O contexto de ódio e perseguição favorece um tom sombrio, mas a primeira leitura combina com 17:20 (os que vão crer “por meio da palavra deles”)."
+   }
+  ]
+ },
+ "Jhn.15.21": {
+  "t": "Mas tudo isso farão a vocês por causa do meu nome, porque não conhecem aquele que me enviou.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "por causa do meu nome",
+    "termo": "διὰ τὸ ὄνομά μου (dia to onoma mou)",
+    "titulo": "sofrer pelo nome",
+    "texto": "Pelo fato de pertencerem a Jesus e o confessarem (Mt 10:22; At 5:41; 1Pe 4:14-16). A raiz da perseguição é a ignorância de Deus: quem não conhece o Pai não reconhece o Filho que ele enviou (8:19; 16:3). O TR e o Texto Bizantino trazem hymin (“a vocês”) em vez de eis hymas, sem mudar o sentido."
+   }
+  ]
+ },
+ "Jhn.15.22": {
+  "t": "Se eu não tivesse vindo e não lhes tivesse falado, eles não teriam pecado; mas agora não têm desculpa para o seu pecado.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "não teriam pecado",
+    "termo": "ἁμαρτίαν οὐκ εἴχοσαν (hamartian ouk eichosan)",
+    "titulo": "“não teriam pecado”",
+    "texto": "Lit. “não tinham pecado”: ter pecado é ser culpado (9:41; 19:11). Não se diz que seriam sem pecado algum, mas que não teriam a culpa de rejeitar a revelação que lhes foi dada. Eichosan é forma da língua comum para eichon (“tinham”), que é a do Texto Bizantino; o sentido é o mesmo."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "desculpa",
+    "termo": "πρόφασιν (prophasin)",
+    "titulo": "prophasis",
+    "texto": "Prophasis é o motivo alegado, a desculpa ou o pretexto (Fp 1:18, “pretexto”). Depois de ouvirem Jesus, ninguém pode alegar ignorância."
+   }
+  ]
+ },
+ "Jhn.15.23": {
+  "t": "Quem me odeia odeia também o meu Pai.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "odeia também o meu Pai",
+    "termo": "καὶ τὸν πατέρα μου μισεῖ",
+    "titulo": "o Pai e o Filho",
+    "texto": "A atitude diante do Filho é atitude diante do Pai (5:23; 8:42; 1Jo 2:23). Quem rejeita Jesus em nome de Deus está, sem saber, rejeitando o próprio Deus."
+   }
+  ]
+ },
+ "Jhn.15.24": {
+  "t": "Se eu não tivesse feito entre eles as obras que nenhum outro fez, eles não teriam pecado; mas agora eles viram, e odiaram tanto a mim como a meu Pai.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "eles viram, e odiaram tanto a mim como a meu Pai",
+    "termo": "καὶ ἑωράκασιν καὶ μεμισήκασιν καὶ ἐμὲ καὶ τὸν πατέρα μου",
+    "titulo": "a ordem das palavras",
+    "texto": "Lit. “e viram e odiaram tanto a mim como a meu Pai”. “Viram” pode ter como objeto as obras (“viram as obras e odiaram...”) ou o mesmo objeto do verbo seguinte (“viram e odiaram tanto a mim como ao Pai”), já que quem vê Jesus vê o Pai (14:9). A tradução deixa “viram” sem objeto, como no grego. Os perfeitos indicam um estado que permanece."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "que nenhum outro fez",
+    "termo": "ἃ οὐδεὶς ἄλλος ἐποίησεν",
+    "titulo": "aoristo ou perfeito",
+    "texto": "O TR e o Texto Bizantino trazem o perfeito pepoiēken (“tem feito”) em vez do aoristo epoiēsen. Sem diferença na tradução. As obras são os sinais de Jesus (5:36; 10:37-38)."
+   }
+  ]
+ },
+ "Jhn.15.25": {
+  "t": "Mas isso aconteceu para que se cumprisse a palavra escrita na lei deles: ‘Odiaram-me sem motivo’.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Mas isso aconteceu para que se cumprisse",
+    "termo": "ἀλλ᾽ ἵνα πληρωθῇ (all’ hina plērōthē)",
+    "titulo": "frase elíptica",
+    "texto": "Lit. “mas para que se cumprisse”. A frase depende de um verbo subentendido; a tradução completa com “isso aconteceu”, como em 9:3 e 13:18."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Odiaram-me sem motivo",
+    "termo": "ἐμίσησάν με δωρεάν (emisēsan me dōrean)",
+    "titulo": "Salmos 35 e 69",
+    "texto": "As palavras estão em Sl 35:19 e Sl 69:4 (34:19 e 68:5 na Septuaginta), onde o justo perseguido se queixa dos que o odeiam “sem motivo” (dōrean, “de graça”, isto é, sem causa). O Sl 69 é citado também em 2:17 e evocado em 19:28-29. “Lei” aqui designa as Escrituras em geral, como em 10:34; “deles” sublinha a ironia: a própria Escritura que eles honram descreve o que fazem."
+   }
+  ]
+ },
+ "Jhn.15.26": {
+  "t": "Quando vier o Advogado, que eu lhes enviarei da parte do Pai, o Espírito da verdade, que procede do Pai, ele dará testemunho a meu respeito.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Advogado",
+    "termo": "παράκλητος (paraklētos)",
+    "titulo": "paraklētos",
+    "texto": "Ver nota em 14:16, que apresenta as outras traduções (Consolador, Conselheiro, Ajudador, Paráclito). O contexto aqui é de tribunal: o mundo acusa Jesus e os seus, e o Espírito é testemunha de defesa. Como em 14:26, o pronome que o retoma, ekeinos (“ele”), é masculino.",
+    "revisar": true
+   },
+   {
+    "tipo": "sn",
+    "ancora": "que procede do Pai",
+    "termo": "ὃ παρὰ τοῦ πατρὸς ἐκπορεύεται (ho para tou patros ekporeuetai)",
+    "titulo": "a procedência do Espírito",
+    "texto": "A frase entrou no Credo Niceno-Constantinopolitano (381): o Espírito Santo “procede do Pai”. Mais tarde, a igreja do Ocidente acrescentou ao Credo “e do Filho” (Filioque), o que se tornou um dos pontos de divisão com as igrejas do Oriente. A tradição oriental entende o versículo como fala da origem eterna do Espírito, que é só o Pai. A tradição ocidental observa que, no mesmo versículo, o Filho envia o Espírito (cf. 16:7; 20:22) e que o Espírito é chamado “Espírito do Filho” (Gl 4:6); muitos intérpretes, de ambas as tradições, entendem que o versículo trata em primeiro lugar da missão do Espírito no mundo, e não diretamente da relação eterna. O texto afirma com clareza que o Pai e o Filho estão ambos na vinda do Espírito, que é distinto dos dois."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Quando vier",
+    "termo": "Ὅταν ἔλθῃ (Hotan elthē)",
+    "titulo": "“Mas quando”",
+    "texto": "Tregelles, o TR e o Texto Bizantino trazem de (“mas quando vier”). O texto-base segue Westcott-Hort e o NA28."
+   }
+  ]
+ },
+ "Jhn.15.27": {
+  "t": "E vocês também darão testemunho, porque estão comigo desde o princípio.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "darão testemunho",
+    "termo": "μαρτυρεῖτε (martyreite)",
+    "titulo": "presente: indicativo ou imperativo",
+    "texto": "A forma pode ser indicativo (“vocês dão testemunho”) ou imperativo (“deem testemunho”). O paralelo com o futuro do v. 26 (“ele dará testemunho”) sugere uma afirmação sobre o futuro próximo, por isso “darão”. O testemunho do Espírito e o dos discípulos andam juntos (At 5:32): o Espírito testemunha por meio deles."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "estão comigo desde o princípio",
+    "termo": "ἀπ᾽ ἀρχῆς μετ᾽ ἐμοῦ ἐστε (ap’ archēs met’ emou este)",
+    "titulo": "presente com “desde”",
+    "texto": "O presente com “desde o princípio” indica uma situação que começou no passado e continua (“estão e têm estado”). “O princípio” é o início do ministério de Jesus (cf. At 1:21-22; 1Jo 1:1). Por isso o testemunho apostólico tem valor único: é de quem viu e ouviu."
+   }
+  ]
+ },
+ "Jhn.16.1": {
+  "t": "“Eu lhes disse essas coisas para que vocês não tropecem.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "não tropecem",
+    "termo": "μὴ σκανδαλισθῆτε (mē skandalisthēte)",
+    "titulo": "skandalizō",
+    "texto": "Skandalizō é “fazer tropeçar”; na passiva, “tropeçar, cair”, isto é, perder a fé e abandonar o caminho por causa de um obstáculo (6:61; Mt 26:31). “Escandalizar-se” (ARC) hoje sugere apenas indignação moral. Jesus avisa da perseguição (15:18-25; 16:2-3) para que ela não pegue os discípulos de surpresa e os derrube."
+   }
+  ]
+ },
+ "Jhn.16.2": {
+  "t": "Vão expulsá-los das sinagogas; mais ainda, vem a hora em que todo aquele que matar vocês pensará estar prestando culto a Deus.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Vão expulsá-los das sinagogas",
+    "termo": "ἀποσυναγώγους ποιήσουσιν ὑμᾶς (aposynagōgous poiēsousin hymas)",
+    "titulo": "aposynagōgos, raro",
+    "texto": "Lit. “vão fazer de vocês excluídos da sinagoga”. A palavra só aparece em João (9:22; 12:42; aqui); ver as notas em 9:22, que tratam também do debate sobre a época dessas expulsões."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "pensará estar prestando culto a Deus",
+    "termo": "δόξῃ λατρείαν προσφέρειν τῷ θεῷ (doxē latreian prospherein tō theō)",
+    "titulo": "latreia",
+    "texto": "Lit. “pense oferecer serviço sagrado a Deus”. Latreia é o culto, o serviço religioso (Rm 9:4; 12:1; Hb 9:1, 6), e prospherō é o verbo das ofertas no templo: matar os discípulos seria visto como um ato de devoção. Saulo é o exemplo mais claro no NT (At 8:1-3; 22:4; 26:9-11; Gl 1:13-14). Alla tem aqui valor de gradação (“mais ainda”)."
+   }
+  ]
+ },
+ "Jhn.16.3": {
+  "t": "E farão isso porque não conheceram o Pai, nem a mim.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "não conheceram o Pai, nem a mim",
+    "termo": "οὐκ ἔγνωσαν τὸν πατέρα οὐδὲ ἐμέ",
+    "titulo": "zelo sem conhecimento",
+    "texto": "Retoma 15:21. O zelo dos perseguidores é sincero, mas sem conhecimento (cf. Rm 10:2; 1Tm 1:13). Conhecer, em João, é mais do que saber coisas: é ter relação com Deus (17:3). O TR traz hymin (“farão isso a vocês”), sem mudar o sentido."
+   }
+  ]
+ },
+ "Jhn.16.4": {
+  "t": "Mas eu lhes disse essas coisas para que, quando chegar a hora delas, vocês se lembrem de que eu as anunciei a vocês. Não lhes disse essas coisas desde o princípio, porque eu estava com vocês.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "quando chegar a hora delas",
+    "termo": "ὅταν ἔλθῃ ἡ ὥρα αὐτῶν (hotan elthē hē hōra autōn)",
+    "titulo": "“a hora delas”",
+    "texto": "“A hora delas” é o tempo em que essas perseguições acontecerem. O Texto Bizantino não traz este primeiro autōn (“a hora”), e a edição NIV do aparato do SBLGNT também não; sem mudança de sentido. Como em 13:19 e 14:29, a predição cumprida deve confirmar a fé, e não abalá-la."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Não lhes disse essas coisas desde o princípio",
+    "termo": "ταῦτα δὲ ὑμῖν ἐξ ἀρχῆς οὐκ εἶπον",
+    "titulo": "e os avisos anteriores?",
+    "texto": "Nos outros Evangelhos, Jesus avisa da perseguição já no envio dos Doze (Mt 10:16-23). Aqui o ponto parece ser outro: enquanto Jesus estava com eles, o ódio do mundo se voltava contra ele, e ele os protegia (17:12); agora que vai partir, eles mesmos serão o alvo, e precisam saber disso de modo claro e completo."
+   }
+  ]
+ },
+ "Jhn.16.5": {
+  "t": "Mas agora vou para aquele que me enviou, e nenhum de vocês me pergunta: ‘Para onde você vai?’",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "nenhum de vocês me pergunta",
+    "termo": "οὐδεὶς ἐξ ὑμῶν ἐρωτᾷ με (oudeis ex hymōn erōta me)",
+    "titulo": "e Pedro e Tomé?",
+    "texto": "Pedro já tinha perguntado “Senhor, para onde o senhor vai?” (13:36), e Tomé falou do mesmo assunto (14:5). Alguns veem aqui sinal de que o evangelista juntou discursos de momentos diferentes (ver nota em 14:31). Mas o presente “pergunta” pode indicar que, agora, nenhum deles está interessado em saber aonde Jesus vai e o que isso significa de bom; só pensam na própria perda, como diz o v. 6. A pergunta citada vem sem o vocativo “Senhor” e por isso usa “você”."
+   }
+  ]
+ },
+ "Jhn.16.6": {
+  "t": "Ao contrário, porque eu lhes disse essas coisas, a tristeza encheu o coração de vocês.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "a tristeza encheu",
+    "termo": "ἡ λύπη πεπλήρωκεν (hē lypē peplērōken)",
+    "titulo": "perfeito",
+    "texto": "O perfeito descreve um estado: a tristeza tomou conta do coração deles e ali está. “Coração” está no singular, como em 14:1."
+   }
+  ]
+ },
+ "Jhn.16.7": {
+  "t": "Mas eu lhes digo a verdade: é para o bem de vocês que eu vou. Pois, se eu não for, o Advogado não virá até vocês; mas, se eu for, eu o enviarei a vocês.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "é para o bem de vocês",
+    "termo": "συμφέρει ὑμῖν (sympherei hymin)",
+    "titulo": "sympherei",
+    "texto": "Lit. “convém a vocês”, “é vantajoso para vocês”. O mesmo verbo aparece na boca de Caifás: “convém que um homem morra pelo povo” (11:50; 18:14). Lá, a conveniência era política; aqui, é o bem que vem aos discípulos com a partida de Jesus: a vinda do Espírito, que não seria dado antes da glorificação de Jesus (7:39)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Advogado",
+    "termo": "παράκλητος (paraklētos)",
+    "titulo": "paraklētos",
+    "texto": "Ver nota em 14:16, com as outras traduções possíveis (Consolador, Conselheiro, Ajudador, Paráclito). Nos vv. 8-11, o Espírito age como num tribunal, o que combina com “Advogado”, mas aqui ele não defende o mundo: expõe a sua culpa.",
+    "revisar": true
+   },
+   {
+    "tipo": "tc",
+    "ancora": "não virá até vocês",
+    "termo": "οὐ μὴ ἔλθῃ (ou mē elthē)",
+    "titulo": "duas formas do “não”",
+    "texto": "O texto-base, com Westcott-Hort e Tregelles, traz ou mē elthē (negação enfática: “de modo algum virá”); o NA28 e o Texto Bizantino trazem ouk eleusetai (“não virá”). O sentido é o mesmo. O Texto Bizantino traz também egō (“se eu não for”). Observação sobre as fontes: na base TAGNT falta a negação ou mē, que está no texto oficial do SBLGNT; a APV segue o SBLGNT."
+   }
+  ]
+ },
+ "Jhn.16.8": {
+  "t": "E, quando ele vier, convencerá o mundo a respeito do pecado, da justiça e do juízo:",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "convencerá",
+    "termo": "ἐλέγξει (elenxei)",
+    "titulo": "elenchō",
+    "texto": "Elenchō é “expor, trazer à luz, provar a culpa de alguém, repreender” (3:20; 8:46; Mt 18:15; Ef 5:11). É linguagem de tribunal: o Espírito vai fazer o mundo, que julgou Jesus, ver-se como réu. “Convencer” é usado aqui no sentido jurídico de provar a culpa (como em “réu convicto”), e não apenas de persuadir. Os vv. 9-11 são dos mais difíceis do Evangelho. Há duas leituras principais: (1) o Espírito mostra ao mundo a verdade sobre o pecado, a justiça e o juízo, isto é, o que essas coisas realmente são à luz de Jesus; (2) o Espírito prova que o mundo está errado quanto ao seu próprio pecado, à sua falsa justiça e ao seu juízo equivocado sobre Jesus (leitura defendida, entre outros, por D. A. Carson). Em ambas, o Espírito age pelo testemunho dos discípulos (15:26-27) e pode levar à conversão, como em At 2:37, ou deixar o mundo sem desculpa.",
+    "revisar": true
+   }
+  ]
+ },
+ "Jhn.16.9": {
+  "t": "a respeito do pecado, porque não creem em mim;",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "porque não creem em mim",
+    "termo": "ὅτι οὐ πιστεύουσιν εἰς ἐμέ (hoti ou pisteuousin eis eme)",
+    "titulo": "hoti: “porque” ou “isto é”",
+    "texto": "Hoti pode ser causal (“porque”) ou explicativo (“no fato de que”). Nos dois casos, a incredulidade em Jesus aparece como o pecado decisivo, o que revela todos os outros (3:18-19; 8:24; 15:22)."
+   }
+  ]
+ },
+ "Jhn.16.10": {
+  "t": "a respeito da justiça, porque vou para o Pai, e vocês já não me verão;",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "a respeito da justiça, porque vou para o Pai",
+    "termo": "περὶ δικαιοσύνης δέ, ὅτι πρὸς τὸν πατέρα ὑπάγω",
+    "titulo": "que justiça?",
+    "texto": "Dikaiosynē só aparece em João nestes dois versículos. O mundo condenou Jesus como pecador e blasfemo (9:24; 19:7); a volta dele ao Pai, pela ressurreição e exaltação, mostra que ele era o Justo e que Deus lhe deu razão (At 2:22-36; 1Tm 3:16; 1Jo 2:1). Na leitura (2) da nota do v. 8, é a falsa justiça do mundo que é exposta. A ausência visível de Jesus (“vocês já não me verão”) é o motivo pelo qual o Espírito faz agora o que Jesus fazia. O TR e o Texto Bizantino trazem “meu Pai”."
+   }
+  ]
+ },
+ "Jhn.16.11": {
+  "t": "a respeito do juízo, porque o príncipe deste mundo já está julgado.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "já está julgado",
+    "termo": "κέκριται (kekritai)",
+    "titulo": "perfeito",
+    "texto": "O perfeito indica um juízo já pronunciado e em vigor: na cruz, onde o mundo pensava julgar Jesus, foi o príncipe deste mundo que foi julgado e condenado (12:31; 14:30; Cl 2:15). O juízo final ainda virá, mas a sentença já foi dada."
+   }
+  ]
+ },
+ "Jhn.16.12": {
+  "t": "Ainda tenho muitas coisas para lhes dizer, mas vocês não as podem suportar agora.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "suportar",
+    "termo": "βαστάζειν (bastazein)",
+    "titulo": "bastazō",
+    "texto": "Bastazō é “carregar um peso” (19:17, a cruz). Os discípulos ainda não podem carregar o peso dessas coisas, nem entendê-las, antes da cruz, da ressurreição e do Espírito (2:22; 12:16). Não se diz que o Espírito trará outro evangelho, mas que levará os discípulos a compreender plenamente o de Jesus (vv. 13-15)."
+   }
+  ]
+ },
+ "Jhn.16.13": {
+  "t": "Mas, quando ele vier, o Espírito da verdade, ele os guiará em toda a verdade; pois não falará por si mesmo, mas dirá o que ouvir e lhes anunciará as coisas que hão de vir.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "os guiará em toda a verdade",
+    "termo": "ὁδηγήσει ὑμᾶς ἐν τῇ ἀληθείᾳ πάσῃ (hodēgēsei hymas en tē alētheia pasē)",
+    "titulo": "hodēgeō",
+    "texto": "Hodēgeō é “guiar pelo caminho”, como um guia que conhece a estrada. Ecoa os Salmos: “guia-me na tua verdade” (Sl 25:5; cf. 143:10). “Toda a verdade” é a verdade revelada em Jesus (14:6), não todo conhecimento possível. Ekeinos (“ele”) é de novo masculino (ver nota em 14:26)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "em toda a verdade",
+    "termo": "ἐν τῇ ἀληθείᾳ πάσῃ",
+    "titulo": "“em” ou “para”",
+    "texto": "O texto-base segue o NA28: en tē alētheia pasē (“em toda a verdade”). Westcott-Hort e Tregelles trazem eis tēn alētheian pasan, e o Texto Bizantino eis pasan tēn alētheian (“para toda a verdade”). A diferença é pequena: guiar dentro da verdade ou guiar até ela. Quanto ao verbo “ouvir”, o texto-base e o NA28 trazem o futuro akousei (“ouvir”), Westcott-Hort o presente akouei (“ouve”), e o Texto Bizantino an akousē (“o que quer que ouça”)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "as coisas que hão de vir",
+    "termo": "τὰ ἐρχόμενα (ta erchomena)",
+    "titulo": "o que o Espírito anuncia",
+    "texto": "“As coisas que vêm” podem ser os acontecimentos próximos (a cruz e a ressurreição, cujo sentido o Espírito explicará), a vida da igreja que vai nascer, ou os acontecimentos finais (como em Apocalipse). Muitos intérpretes entendem que o sentido inclui tudo o que pertence à nova ordem inaugurada pela glorificação de Jesus. Como o Filho, o Espírito não fala “por si mesmo” (cf. 7:17; 12:49): transmite o que ouve."
+   }
+  ]
+ },
+ "Jhn.16.14": {
+  "t": "Ele me glorificará, porque receberá do que é meu e o anunciará a vocês.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Ele me glorificará",
+    "termo": "ἐκεῖνος ἐμὲ δοξάσει (ekeinos eme doxasei)",
+    "titulo": "o Espírito aponta para Cristo",
+    "texto": "Assim como o Filho glorifica o Pai (17:4), o Espírito glorifica o Filho. A obra do Espírito se reconhece por isto: ela torna Jesus conhecido e honrado. “Do que é meu” (ek tou emou) é o que pertence a Jesus: a sua palavra, a sua obra, a sua glória."
+   }
+  ]
+ },
+ "Jhn.16.15": {
+  "t": "Tudo o que o Pai tem é meu; por isso eu disse que ele recebe do que é meu e o anunciará a vocês.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Tudo o que o Pai tem é meu",
+    "termo": "πάντα ὅσα ἔχει ὁ πατὴρ ἐμά ἐστιν",
+    "titulo": "o Pai, o Filho e o Espírito",
+    "texto": "Retomado na oração: “tudo o que é meu é teu, e o que é teu é meu” (17:10). O que o Espírito recebe do Filho é, ao mesmo tempo, do Pai. O versículo é um dos que a igreja antiga usou para mostrar a unidade de ação do Pai, do Filho e do Espírito. O TR traz o futuro lēpsetai (“receberá”), como no v. 14, em vez do presente lambanei (“recebe”)."
+   }
+  ]
+ },
+ "Jhn.16.16": {
+  "t": "Um pouco, e vocês já não me verão; e mais um pouco, e vocês me verão.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Um pouco, e vocês já não me verão",
+    "termo": "μικρὸν καὶ οὐκέτι θεωρεῖτέ με (mikron kai ouketi theōreite me)",
+    "titulo": "“um pouco”",
+    "texto": "Lit. “um pouco e já não me veem, e de novo um pouco e me verão”. O primeiro “pouco” termina com a morte de Jesus, horas depois. O segundo, para a maioria dos intérpretes, termina com as aparições do Ressuscitado (20:20: “os discípulos se alegraram ao ver o Senhor”), o que combina com a tristeza que vira alegria (vv. 20-22). Outros pensam também na vinda do Espírito ou na volta de Jesus no fim. Os dois verbos de “ver” (theōreō e horaō) são usados por João sem diferença clara de sentido."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "e vocês me verão",
+    "termo": "καὶ ὄψεσθέ με (kai opsesthe me)",
+    "titulo": "acréscimo",
+    "texto": "O TR e o Texto Bizantino acrescentam “porque eu vou para o Pai”, talvez para explicar a pergunta dos discípulos no v. 17, que cita essas palavras (do v. 10). Trazem também ou (“não”) em vez de ouketi (“já não”). O texto-base segue Westcott-Hort, Tregelles e o NA28."
+   }
+  ]
+ },
+ "Jhn.16.17": {
+  "t": "Então alguns dos seus discípulos disseram uns aos outros: “Que é isso que ele está nos dizendo: ‘Um pouco, e vocês não me verão; e mais um pouco, e vocês me verão’, e ‘Porque vou para o Pai’?”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "alguns dos seus discípulos",
+    "termo": "ἐκ τῶν μαθητῶν αὐτοῦ (ek tōn mathētōn autou)",
+    "titulo": "partitivo",
+    "texto": "Lit. “dos seus discípulos disseram”: ek com genitivo indica parte do grupo, e por isso “alguns”. A segunda citação vem do v. 10. Os discípulos não entendem como ligar “um pouco” e “ir para o Pai”. O TR e o Texto Bizantino trazem egō (“eu vou”), sem efeito."
+   }
+  ]
+ },
+ "Jhn.16.18": {
+  "t": "Diziam, então: “Que é esse ‘um pouco’ de que ele fala? Não sabemos do que ele está falando.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Que é esse ‘um pouco’ de que ele fala?",
+    "termo": "τί ἐστιν τοῦτο ὃ λέγει μικρόν;",
+    "titulo": "“que é isto que diz, um pouco?”",
+    "texto": "Lit. “que é isto que ele diz, ‘um pouco’?”. O imperfeito “diziam” indica que repetiam a pergunta entre si. O NA28 e o Texto Bizantino trazem o artigo to antes de mikron (“o ‘um pouco’”); o Texto Bizantino inverte também a ordem das primeiras palavras. Sem efeito na tradução."
+   }
+  ]
+ },
+ "Jhn.16.19": {
+  "t": "Jesus percebeu que queriam interrogá-lo e lhes disse: “Vocês estão discutindo entre si sobre isto que eu disse: ‘Um pouco, e vocês não me verão; e mais um pouco, e vocês me verão’?",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Jesus percebeu",
+    "termo": "ἔγνω Ἰησοῦς (egnō Iēsous)",
+    "titulo": "Jesus conhece",
+    "texto": "Jesus sabe o que os discípulos pensam antes que perguntem (2:24-25; 6:61). É isso que os leva à confissão do v. 30. O NA28 traz o artigo (“o Jesus”), e o Texto Bizantino oun ho (“então Jesus”); sem efeito."
+   }
+  ]
+ },
+ "Jhn.16.20": {
+  "t": "Em verdade, em verdade lhes digo: vocês vão chorar e se lamentar, mas o mundo vai se alegrar; vocês ficarão tristes, mas a tristeza de vocês se transformará em alegria.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "chorar e se lamentar",
+    "termo": "κλαύσετε καὶ θρηνήσετε (klausete kai thrēnēsete)",
+    "titulo": "luto",
+    "texto": "Klaiō é o choro alto, e thrēneō é o lamento fúnebre, como diante de um morto (Lc 23:27). Jesus descreve o luto dos discípulos pela sua morte, enquanto o mundo celebra a vitória sobre ele."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "se transformará em alegria",
+    "termo": "εἰς χαρὰν γενήσεται (eis charan genēsetai)",
+    "titulo": "“virá a ser alegria”",
+    "texto": "Lit. “virá a ser alegria”. Não se diz que a tristeza será trocada por outra coisa, mas que ela mesma se tornará alegria: a mesma cruz que os entristece será o motivo da alegria, como mostra a imagem do parto (v. 21)."
+   }
+  ]
+ },
+ "Jhn.16.21": {
+  "t": "A mulher, quando está para dar à luz, sente dor, porque chegou a sua hora; mas, depois que dá à luz a criança, já não se lembra da aflição, por causa da alegria de ter nascido um ser humano no mundo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "sente dor",
+    "termo": "λύπην ἔχει (lypēn echei)",
+    "titulo": "lypē: “dor” e “tristeza”",
+    "texto": "Lit. “tem tristeza”. Lypē é a mesma palavra traduzida “tristeza” nos vv. 6, 20 e 22; aqui designa a dor e a angústia do parto, como em Gn 3:16 na Septuaginta (“em dores darás à luz”). A tradução usa “dor” por clareza; o leitor deve notar a ligação com a tristeza dos discípulos."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "chegou a sua hora",
+    "termo": "ἦλθεν ἡ ὥρα αὐτῆς (ēlthen hē hōra autēs)",
+    "titulo": "a hora e o parto",
+    "texto": "“A sua hora” lembra a “hora” de Jesus (2:4; 12:23; 13:1). Os profetas usam a imagem da mulher em trabalho de parto para falar da angústia que precede a salvação de Deus e o nascimento de um povo novo (Is 26:17-19; 66:7-14; Mq 4:9-10). “Um ser humano” traduz anthrōpos, não “filho”: o acento está no nascimento de uma vida nova."
+   }
+  ]
+ },
+ "Jhn.16.22": {
+  "t": "Assim também vocês agora têm tristeza; mas eu os verei de novo, e o coração de vocês se alegrará, e ninguém lhes tira a sua alegria.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "o coração de vocês se alegrará",
+    "termo": "χαρήσεται ὑμῶν ἡ καρδία (charēsetai hymōn hē kardia)",
+    "titulo": "eco de Isaías 66:14",
+    "texto": "A frase reproduz quase palavra por palavra Is 66:14 na Septuaginta: “vocês verão, e o coração de vocês se alegrará”, no mesmo contexto do parto de Sião (Is 66:7-9). Aqui, porém, é Jesus quem diz “eu os verei”: a iniciativa do encontro é dele (20:19-20)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "ninguém lhes tira",
+    "termo": "οὐδεὶς αἴρει (oudeis airei)",
+    "titulo": "presente ou futuro",
+    "texto": "O texto-base, com o NA28 e o Texto Bizantino, traz o presente airei (“ninguém tira”); Westcott-Hort e Tregelles, o futuro arei (“ninguém tirará”). O presente pode ter valor de futuro, mas também descreve uma alegria que já não pode ser tirada."
+   }
+  ]
+ },
+ "Jhn.16.23": {
+  "t": "Naquele dia vocês não me perguntarão nada. Em verdade, em verdade lhes digo: se pedirem alguma coisa ao Pai, ele a dará a vocês em meu nome.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "não me perguntarão nada",
+    "termo": "ἐμὲ οὐκ ἐρωτήσετε οὐδέν (eme ouk erōtēsete ouden)",
+    "titulo": "erōtaō: “perguntar” ou “pedir”",
+    "texto": "Erōtaō pode ser “perguntar” ou “pedir”; logo depois vem aiteō, que é só “pedir”. A APV entende “perguntar”, como nos vv. 5, 19 e 30: depois da ressurreição e com o Espírito, os discípulos não precisarão mais fazer as perguntas que fazem agora. Outros entendem “vocês não pedirão a mim, mas ao Pai”; mas em 14:14 Jesus diz que a oração pode ser dirigida a ele."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "ele a dará a vocês em meu nome",
+    "termo": "δώσει ὑμῖν ἐν τῷ ὀνόματί μου (dōsei hymin en tō onomati mou)",
+    "titulo": "onde fica “em meu nome”",
+    "texto": "O texto-base, com Westcott-Hort e Tregelles, põe “em meu nome” depois de “dará”: o Pai dá em nome de Jesus. O NA28 e o Texto Bizantino põem antes: “se pedirem ao Pai alguma coisa em meu nome, ele a dará a vocês”, como em 15:16. O Texto Bizantino traz também hoti hosa an (“tudo quanto pedirem”). O sentido geral não muda: a oração e a resposta passam por Jesus."
+   }
+  ]
+ },
+ "Jhn.16.24": {
+  "t": "Até agora vocês não pediram nada em meu nome. Peçam, e receberão, para que a alegria de vocês seja completa.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Peçam",
+    "termo": "αἰτεῖτε (aiteite)",
+    "titulo": "imperativo presente",
+    "texto": "O imperativo presente sugere pedir continuamente. Até então, os discípulos pediam a Jesus diretamente; depois da sua glorificação, pedirão ao Pai “em nome” de Jesus (ver nota em 14:13). “Seja completa” traduz o perfeito perifrástico ē peplērōmenē (“esteja plena”, como estado), como em 15:11."
+   }
+  ]
+ },
+ "Jhn.16.25": {
+  "t": "Eu lhes disse essas coisas por meio de figuras; vem a hora em que já não lhes falarei por figuras, mas lhes falarei abertamente a respeito do Pai.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "figuras",
+    "termo": "παροιμίαις (paroimiais)",
+    "titulo": "paroimia",
+    "texto": "Ver nota em 10:6. A linguagem figurada (a videira, o parto, “um pouco”) esconde e revela ao mesmo tempo; o sentido pleno só fica claro depois da ressurreição e com o Espírito. “Abertamente” traduz parrēsia, falar claro, sem rodeios (7:26; 10:24; 11:14). O TR e o Texto Bizantino trazem all’ (“mas vem a hora”) e anangelō em vez de apangelō, sem diferença de sentido."
+   }
+  ]
+ },
+ "Jhn.16.26": {
+  "t": "Naquele dia vocês pedirão em meu nome; e não lhes digo que eu rogarei ao Pai por vocês,",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "não lhes digo que eu rogarei ao Pai por vocês",
+    "termo": "οὐ λέγω ὑμῖν ὅτι ἐγὼ ἐρωτήσω τὸν πατέρα περὶ ὑμῶν",
+    "titulo": "Jesus não intercede?",
+    "texto": "Jesus não nega a sua intercessão, que o NT afirma (17:9; Rm 8:34; Hb 7:25; 1Jo 2:1), mas exclui uma ideia errada: a de que o Pai seria relutante e precisaria ser convencido pelo Filho. O motivo vem no v. 27: o próprio Pai os ama. Erōtaō aqui é “pedir, rogar”."
+   }
+  ]
+ },
+ "Jhn.16.27": {
+  "t": "pois o próprio Pai os ama, porque vocês me amaram e creram que eu saí de junto de Deus.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "o próprio Pai os ama, porque vocês me amaram",
+    "termo": "αὐτὸς γὰρ ὁ πατὴρ φιλεῖ ὑμᾶς, ὅτι ὑμεῖς ἐμὲ πεφιλήκατε",
+    "titulo": "phileō e o “porque”",
+    "texto": "Os dois verbos são phileō (ver nota em 5:20). O “porque” não faz do amor dos discípulos a causa do amor do Pai, que vem antes (3:16; 1Jo 4:10, 19); indica que eles, ao amar e crer no Filho, estão dentro desse amor, como em 14:21, 23. Os perfeitos (“amaram”, “creram”) descrevem uma atitude firmada e que continua."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "de junto de Deus",
+    "termo": "παρὰ τοῦ θεοῦ (para tou theou)",
+    "titulo": "“Deus” ou “Pai”",
+    "texto": "O texto-base, com o NA28 e o Texto Bizantino, traz theou (“Deus”); Westcott-Hort e Tregelles, patros (“Pai”). Sem efeito importante."
+   }
+  ]
+ },
+ "Jhn.16.28": {
+  "t": "Eu saí do Pai e vim ao mundo; agora deixo o mundo e vou para o Pai.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Eu saí do Pai e vim ao mundo",
+    "termo": "ἐξῆλθον ἐκ τοῦ πατρὸς καὶ ἐλήλυθα εἰς τὸν κόσμον",
+    "titulo": "o movimento inteiro",
+    "texto": "Num só versículo, Jesus resume a sua missão: vinda do Pai (encarnação), presença no mundo, partida do mundo (cruz e ressurreição) e volta ao Pai (exaltação), como em 13:3 e 1:1, 14; 17:5. O perfeito “vim” (elēlytha) indica uma vinda cujo efeito permanece. “Agora” traduz palin (lit. “de novo”, “por sua vez”), que marca o movimento inverso, e não uma segunda partida."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "do Pai",
+    "termo": "ἐκ τοῦ πατρὸς (ek tou patros)",
+    "titulo": "ek ou para",
+    "texto": "O texto-base, com Westcott-Hort e Tregelles, traz ek (“saí do Pai”); o NA28 e o Texto Bizantino, para (“saí de junto do Pai”), como no v. 27. A diferença é pequena."
+   }
+  ]
+ },
+ "Jhn.16.29": {
+  "t": "Os seus discípulos disseram: “Agora sim você está falando abertamente, e não usa nenhuma figura!",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Agora sim você está falando abertamente",
+    "termo": "ἴδε νῦν ἐν παρρησίᾳ λαλεῖς (ide nyn en parrēsia laleis)",
+    "titulo": "ide",
+    "texto": "Lit. “eis que agora falas com franqueza”. Ide (“veja!”) é interjeição de quem se dá conta de algo; “agora sim” procura dar o tom. Os discípulos pensam que a “hora” do v. 25 já chegou, mas ainda não entendem. Falam a Jesus sem vocativo, por isso “você”. O TR e o Texto Bizantino trazem autō (“disseram-lhe”) e não trazem en (“com”), sem efeito."
+   }
+  ]
+ },
+ "Jhn.16.30": {
+  "t": "Agora sabemos que você sabe todas as coisas e não precisa que alguém lhe faça perguntas. Por isso cremos que você saiu de Deus.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "não precisa que alguém lhe faça perguntas",
+    "termo": "οὐ χρείαν ἔχεις ἵνα τίς σε ἐρωτᾷ",
+    "titulo": "o sentido",
+    "texto": "Esperaríamos “não precisa que alguém lhe diga” (cf. 2:25). Mas o ponto é o do v. 19: Jesus responde às perguntas antes que elas sejam feitas, porque conhece o pensamento deles. Para os discípulos, esse conhecimento é sinal de que ele vem de Deus. “Por isso” traduz en toutō (“nisto”)."
+   }
+  ]
+ },
+ "Jhn.16.31": {
+  "t": "Jesus lhes respondeu: “Agora vocês creem?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Agora vocês creem?",
+    "termo": "ἄρτι πιστεύετε; (arti pisteuete?)",
+    "titulo": "pergunta ou afirmação",
+    "texto": "A frase pode ser pergunta (“Agora vocês creem?”) ou afirmação (“Agora vocês creem”), talvez irônica. Em ambos os casos, Jesus não nega a fé deles (17:8), mas mostra como ela é ainda frágil: em pouco tempo vão abandoná-lo (v. 32). O TR e o Texto Bizantino trazem o artigo (“o Jesus”), sem efeito."
+   }
+  ]
+ },
+ "Jhn.16.32": {
+  "t": "Vejam: vem a hora, e já chegou, em que vocês serão dispersos, cada um para o seu lado, e me deixarão sozinho. Mas eu não estou sozinho, porque o Pai está comigo.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "vocês serão dispersos",
+    "termo": "σκορπισθῆτε (skorpisthēte)",
+    "titulo": "eco de Zacarias 13:7",
+    "texto": "Os outros Evangelhos citam aqui Zc 13:7: “ferirei o pastor, e as ovelhas serão dispersas” (Mt 26:31; Mc 14:27). João não cita, mas a imagem combina com o bom pastor (10:12). “Cada um para o seu lado” traduz eis ta idia (lit. “para as coisas próprias”), que pode significar “para a sua casa” (19:27). O TR e o Texto Bizantino trazem nyn (“e agora já chegou”), sem efeito."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Mas eu não estou sozinho, porque o Pai está comigo",
+    "termo": "καὶ οὐκ εἰμὶ μόνος, ὅτι ὁ πατὴρ μετ᾽ ἐμοῦ ἐστιν",
+    "titulo": "e o grito da cruz?",
+    "texto": "Retoma 8:29. Alguns leitores perguntam como a frase se harmoniza com o grito “Meu Deus, meu Deus, por que me abandonaste?” (Mc 15:34; Sl 22:1). João não registra esse grito. Os intérpretes costumam dizer que as duas coisas são verdadeiras em planos diferentes: Jesus sofre de fato o abandono que o Salmo descreve, levando o pecado, mas a comunhão do Filho com o Pai não se rompe, e o próprio Sl 22 termina em confiança e livramento."
+   }
+  ]
+ },
+ "Jhn.16.33": {
+  "t": "Eu lhes disse essas coisas para que tenham paz em mim. No mundo vocês têm aflição; mas tenham coragem: eu venci o mundo.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "aflição",
+    "termo": "θλῖψιν (thlipsin)",
+    "titulo": "thlipsis",
+    "texto": "Thlipsis é a pressão, o aperto, e daí a aflição ou tribulação. É a mesma palavra da “aflição” do parto no v. 21. “Em mim” e “no mundo” são as duas esferas em que o discípulo vive ao mesmo tempo."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "eu venci o mundo",
+    "termo": "ἐγὼ νενίκηκα τὸν κόσμον (egō nenikēka ton kosmon)",
+    "titulo": "perfeito",
+    "texto": "O perfeito apresenta a vitória como já conquistada, embora a cruz ainda esteja à frente: Jesus fala do resultado como certo. A vitória dele é a base da coragem dos discípulos (1Jo 5:4-5; Ap 3:21). É a última palavra do discurso antes da oração do cap. 17."
+   }
+  ]
+ }
+}

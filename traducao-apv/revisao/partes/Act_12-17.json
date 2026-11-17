@@ -1,0 +1,242 @@
+[
+ {
+  "ref": "Act.16.12",
+  "gravidade": "alta",
+  "problema": "Nota tc diz que o NA28 'adota uma conjectura apoiada em poucas testemunhas antigas': a frase é contraditória (conjectura não tem testemunhas) e não é confirmada pela folha nem pelo aparato do SBLGNT, que só registra 'πρώτης μερίδος τῆς' para o NA28 (marcado 'em').",
+  "sugestao": "Reescrever: 'O SBLGNT, Westcott-Hort e Tregelles trazem prōtē tēs meridos...; o NA28 traz prōtēs meridos tēs Makedonias (“cidade do primeiro distrito da Macedônia”); o Texto Bizantino acrescenta o artigo tēs antes de Makedonias.' Retirar 'conjectura apoiada em poucas testemunhas antigas'.",
+  "decisao": "aceito em parte",
+  "motivo": "Retirada a 'conjectura apoiada em testemunhas'. Pela regra nova, a forma prōtēs meridos não é atribuída ao NA28: TAGNT e aparato divergem sobre essa edição; a nota fala em 'edições da série Nestle-Aland'."
+ },
+ {
+  "ref": "Act.16.13",
+  "gravidade": "alta",
+  "problema": "Nota tc afirma que o NA28 traz enomizeto proseuchē. O aparato do SBLGNT diz o contrário: 'ἐνομίζομεν προσευχὴν WH Treg NA28 ] ἐνομίζετο προσευχὴ RP'. O NA28 coincide com o SBLGNT; só o Bizantino (e o TR, pela folha) trazem enomizeto.",
+  "sugestao": "Trocar por: 'O SBLGNT, o NA28, Westcott-Hort e Tregelles trazem enomizomen proseuchēn einai...; o Textus Receptus e o Texto Bizantino, enomizeto proseuchē einai...'",
+  "decisao": "aceito em parte",
+  "motivo": "Retirado o NA28. Pela regra nova, como TAGNT e aparato do SBLGNT divergem, o NA28 também não foi listado com o SBLGNT: ficaram SBLGNT/WH/Treg contra TR/Byz."
+ },
+ {
+  "ref": "Act.13.11",
+  "gravidade": "media",
+  "problema": "Nota diz que o NA28 traz epepesen (“caiu sobre”). Pelo aparato do SBLGNT, 'ἔπεσεν WH Treg NA28 ] ἐπέπεσεν RP': o NA28 traz epesen (como o texto-base); epepesen é do Bizantino (e do TR, pela folha). Erro da folha/TAGNT repetido na nota.",
+  "sugestao": "Corrigir para: 'O NA28 traz te em vez de de; o Textus Receptus e o Texto Bizantino trazem epepesen (“caiu sobre”), sem efeito na tradução.'",
+  "decisao": "aceito",
+  "motivo": "epepesen agora só para TR/Byz; mantido 'NA28 traz te', em que as duas fontes concordam."
+ },
+ {
+  "ref": "Act.15.4",
+  "gravidade": "media",
+  "problema": "Nota diz que o NA28 traz hypo em vez de apo. Aparato do SBLGNT: 'ἀπὸ WH Treg NA28 ] ὑπὸ RP'. O NA28 lê apo; hypo é do Bizantino/TR (a folha atribui ao NA28 por engano).",
+  "sugestao": "Retirar 'o NA28' da lista: 'o Textus Receptus e o Texto Bizantino trazem apedechthēsan e hypo em vez de apo'. (THGNT só se mantiver se confirmado.)",
+  "decisao": "aceito",
+  "motivo": "Retirados o NA28 e o THGNT; hypo e apedechthēsan ficaram só para TR/Byz."
+ },
+ {
+  "ref": "Act.15.17",
+  "gravidade": "media",
+  "problema": "Nota diz que o NA28 traz o artigo antes de kyrios no fim. Aparato do SBLGNT: 'κύριος WH Treg NA28 ] + ὁ RP': o NA28 NÃO tem o artigo.",
+  "sugestao": "Corrigir: 'O Textus Receptus e o Texto Bizantino trazem o artigo antes de kyrios...' (sem NA28).",
+  "decisao": "aceito",
+  "motivo": "Artigo antes de kyrios atribuído só a TR/Byz."
+ },
+ {
+  "ref": "Act.16.17",
+  "gravidade": "media",
+  "problema": "Nota diz que o NA28 traz o aoristo katakolouthēsasa. Aparato do SBLGNT: 'κατακολουθοῦσα WH Treg NA28 ] κατακολουθήσασα RP': o NA28 lê o presente, como o texto-base.",
+  "sugestao": "Corrigir: 'O Textus Receptus e o Texto Bizantino trazem o aoristo katakolouthēsasa, sem efeito na tradução.'",
+  "decisao": "aceito",
+  "motivo": "katakolouthēsasa atribuído só a TR/Byz."
+ },
+ {
+  "ref": "Act.15.20",
+  "gravidade": "media",
+  "problema": "Nota diz que Westcott-Hort e Tregelles 'omitem o artigo antes de imoralidade'. No aparato do SBLGNT a variante 'τοῦ NA28 RP ] – WH Treg' está antes de 'πνικτοῦ' (tou pniktou, 'do estrangulado'), não antes de porneias.",
+  "sugestao": "Corrigir: 'Westcott-Hort e Tregelles omitem o artigo antes de “estrangulado” (tou pniktou).'",
+  "decisao": "aceito",
+  "motivo": "Conferido no SBLGNT: a variante do artigo está em tou pniktou; nota corrigida."
+ },
+ {
+  "ref": "Act.12.2",
+  "gravidade": "media",
+  "problema": "Nota afirma que Tiago é 'o único dos Doze cuja morte o NT relata'. Falso: a morte de Judas é narrada em Mt 27:5 e At 1:18.",
+  "sugestao": "Dizer 'o único dos Doze cujo martírio o NT narra'.",
+  "decisao": "aceito",
+  "motivo": "Agora diz 'cujo martírio o NT narra', com menção à morte de Judas (Mt 27:5; At 1:18)."
+ },
+ {
+  "ref": "Act.12.19",
+  "gravidade": "media",
+  "problema": "O texto principal traz 'ordenou que fossem levados à execução', mas o grego é só ἀπαχθῆναι ('ser levados [embora/à pena]'); 'execução' é interpretação que a própria nota admite não estar no texto. Fortalece o que o grego deixa aberto (guia, seção 4).",
+  "sugestao": "Texto: 'ordenou que fossem levados' (ou 'levados ao castigo'), mantendo na nota a explicação de apagō como termo legal e a discussão sobre execução.",
+  "decisao": "aceito",
+  "motivo": "Texto: 'levados ao castigo'; a nota explica apagō e deixa a execução como interpretação provável, não como texto."
+ },
+ {
+  "ref": "Act.17.23",
+  "gravidade": "media",
+  "problema": "Nota tc afirma como certo que, com os neutros, Paulo 'não diz que eles já adoram o Deus verdadeiro sem saber'. É posição interpretativa disputada (continuidade x descontinuidade com o culto pagão), apresentada sem equilíbrio e como se decorresse da variante textual.",
+  "sugestao": "Reformular: o texto crítico traz neutros (ho...touto), o TR/Bizantino masculinos; o neutro é mais impessoal, mas os intérpretes divergem: alguns veem em Paulo um ponto de contato com a busca religiosa dos atenienses, outros um contraste (adoram sem conhecer, v. 30). Não tirar conclusão teológica da gramática.",
+  "decisao": "aceito",
+  "motivo": "Nota reescrita: a gramática não decide; apresenta as leituras de ponto de contato e de contraste."
+ },
+ {
+  "ref": "Act.17.28",
+  "gravidade": "media",
+  "problema": "Nota sobre Epimênides diz que 'uma tradição cristã antiga, em comentaristas de língua síria' atribui 'nele vivemos...' a Epimênides. A fonte é um comentário sírio medieval (Isho'dad de Merv, séc. IX, divulgado por R. Harris, 1907), não 'antiga' em sentido estrito, e não é nomeada. Dado impreciso sobre fonte.",
+  "sugestao": "Reescrever: 'Um comentário sírio medieval (Isho'dad de Merv, séc. IX), que talvez dependa de autores mais antigos, atribui essas palavras a Epimênides de Creta; a atribuição é possível, mas incerta.'",
+  "decisao": "aceito",
+  "motivo": "Fonte nomeada: comentário sírio medieval de Isho‘dad de Merv (séc. IX); a atribuição continua dada como incerta."
+ },
+ {
+  "ref": "Act.17.34",
+  "gravidade": "media",
+  "problema": "Nota afirma que o Códice de Beza (D) omite o nome de Dâmaris. Isso não consta da folha nem do aparato do SBLGNT (sem entrada em 17:34); afirmação sobre manuscrito sem base verificável no material (guia: só citar manuscrito com certeza).",
+  "sugestao": "Remover a frase sobre D, ou verificar em aparato (NA28/Metzger) antes de manter.",
+  "decisao": "aceito",
+  "motivo": "Retirada a frase sobre o Códice D, que não tem base no material disponível."
+ },
+ {
+  "ref": "Act.13.33",
+  "gravidade": "baixa",
+  "problema": "Nota atribui a Metzger que a comissão da UBS considerou hēmōn 'corrupção muito antiga' e diz que hēmōn é 'leitura de vários dos manuscritos mais antigos'. Nenhuma das duas afirmações é confirmada pela folha ou pelo aparato do SBLGNT.",
+  "sugestao": "Manter só o que o aparato mostra (SBLGNT, WH, Tregelles: hēmōn; NA28, TR, Bizantino: autōn hēmin); remover a paráfrase de Metzger ou conferi-la.",
+  "decisao": "aceito em parte",
+  "motivo": "Retiradas a paráfrase de Metzger e a menção aos 'mais antigos manuscritos'. O NA28 não é atribuído (fontes divergem). Mantido, sem atribuir a ninguém, que muitos veem hēmōn como corrupção antiga de hēmin, pois isso explica o problema de sentido."
+ },
+ {
+  "ref": "Act.12.25",
+  "gravidade": "baixa",
+  "problema": "'o texto grego da comissão da NIV': o aparato do SBLGNT só registra 'ἀπὸ NIV'; 'comissão' é acréscimo não confirmado.",
+  "sugestao": "Dizer 'o texto grego subjacente à NIV' ou omitir a atribuição.",
+  "decisao": "aceito",
+  "motivo": "Agora diz 'texto grego subjacente à NIV'."
+ },
+ {
+  "ref": "Act.12.6",
+  "gravidade": "baixa",
+  "problema": "Nota sobre o sono de Pedro cita Sl 4:8 como “Em paz me deito e logo pego no sono”, que coincide palavra por palavra com a ARA (tradução protegida).",
+  "sugestao": "Parafrasear ou traduzir do hebraico/LXX sem copiar: 'Em paz me deito e logo durmo'.",
+  "decisao": "aceito",
+  "motivo": "A citação literal foi trocada por paráfrase do Sl 4:8."
+ },
+ {
+  "ref": "Act.12.5",
+  "gravidade": "baixa",
+  "problema": "'sem cessar' traduz ἐκτενῶς ('intensamente, com empenho'); 'sem cessar' sugere ἀδιαλείπτως e é mais forte que o grego (a própria nota diz 'com intensidade, com perseverança').",
+  "sugestao": "'orava intensamente por ele' (ou 'com empenho').",
+  "decisao": "aceito",
+  "motivo": "Texto: 'intensamente'; âncora e título da nota ajustados."
+ },
+ {
+  "ref": "Act.12.4",
+  "gravidade": "baixa",
+  "problema": "Nota diz que dois soldados ficavam 'junto à porta (v. 6)'. O v. 6 fala em dois soldados junto a Pedro e φύλακες (sentinelas, sem número) diante da porta.",
+  "sugestao": "Dizer 'sentinelas diante da porta (v. 6)'.",
+  "decisao": "aceito",
+  "motivo": "Agora diz 'sentinelas diante da porta (v. 6)'."
+ },
+ {
+  "ref": "Act.12.10",
+  "gravidade": "baixa",
+  "problema": "Nota tc sobre D: 'pode refletir conhecimento local da fortaleza de Jerusalém' é especulação sem base no material.",
+  "sugestao": "Cortar a conjectura; manter apenas que D (texto ocidental) acrescenta 'desceram os sete degraus'.",
+  "decisao": "aceito",
+  "motivo": "Cortada a conjectura sobre a fortaleza."
+ },
+ {
+  "ref": "Act.13.7",
+  "gravidade": "baixa",
+  "problema": "Grafia 'Sergio Paulo' na nota (o texto traz 'Sérgio Paulo').",
+  "sugestao": "Padronizar 'Sérgio Paulo'.",
+  "decisao": "aceito",
+  "motivo": "Grafia corrigida para 'Sérgio Paulo'."
+ },
+ {
+  "ref": "Act.13.17",
+  "gravidade": "baixa",
+  "problema": "Nota diz que TR/Bizantino trazem 'no Egito' em lugar de 'na terra do Egito'. A variante (Aiguptō, dativo) altera só o caso de Αἰγύπτου; ambos têm 'terra' (γῇ).",
+  "sugestao": "Dizer: 'o Textus Receptus e o Texto Bizantino trazem Aiguptō (dativo) em vez de Aiguptou, sem efeito no sentido.'",
+  "decisao": "aceito",
+  "motivo": "Variante descrita como Aiguptō (dativo) em vez de Aiguptou."
+ },
+ {
+  "ref": "Act.13.9",
+  "gravidade": "baixa",
+  "problema": "Nota afirma como fato que a troca Saulo/Paulo ocorre 'diante de um romano de mesmo nome'; é só uma hipótese (outra: uso do nome romano ao entrar na missão aos gentios).",
+  "sugestao": "Introduzir com 'alguns propõem' e citar a alternativa.",
+  "decisao": "aceito",
+  "motivo": "A ligação com o procônsul agora vem como hipótese ('alguns propõem')."
+ },
+ {
+  "ref": "Act.14.3",
+  "gravidade": "baixa",
+  "problema": "Nota usa Mc 16:20 como paralelo sem avisar que o trecho (Mc 16:9-20) é de autenticidade disputada, contra o tratamento do guia.",
+  "sugestao": "Citar Hb 2:3-4, ou indicar 'Mc 16:20, texto disputado'.",
+  "decisao": "aceito",
+  "motivo": "Retirado Mc 16:20; ficou Hb 2:3-4."
+ },
+ {
+  "ref": "Act.15.14",
+  "gravidade": "baixa",
+  "problema": "'Alguns autores antigos pensaram em Simeão de Lc 2:25-32': afirmação sem fonte nomeada e não confirmável.",
+  "sugestao": "Cortar a frase, ou citar a fonte exata.",
+  "decisao": "aceito",
+  "motivo": "Retirada a frase sem fonte."
+ },
+ {
+  "ref": "Act.15.14",
+  "gravidade": "baixa",
+  "problema": "'no princípio' traduz πρῶτον ('primeiro, pela primeira vez'); 'no princípio' sugere origem remota e perde o sentido de 'pela primeira vez'.",
+  "sugestao": "'como Deus, pela primeira vez, visitou os gentios para tirar...'",
+  "decisao": "aceito",
+  "motivo": "prōton agora traduzido 'pela primeira vez'."
+ },
+ {
+  "ref": "Act.16.15",
+  "gravidade": "baixa",
+  "problema": "Português truncado: 'Depois de ser batizada, ela e a sua casa, fez-nos um pedido' (particípio no singular com sujeito composto, vírgulas mal postas).",
+  "sugestao": "'Depois que ela e a sua casa foram batizadas, ela nos fez um pedido:'",
+  "decisao": "aceito",
+  "motivo": "Frase refeita: 'Depois que ela e a sua casa foram batizadas, ela nos fez um pedido'."
+ },
+ {
+  "ref": "Act.16.37",
+  "gravidade": "baixa",
+  "problema": "Nota diz que o Bizantino 'omite o primeiro hēmas'; no aparato do SBLGNT a omissão é do ÚLTIMO hēmas (antes de exagagetōsan).",
+  "sugestao": "Trocar 'primeiro' por 'último (antes de “tirem”)'.",
+  "decisao": "aceito",
+  "motivo": "Conferido na folha e no aparato: é o último hēmas; nota corrigida."
+ },
+ {
+  "ref": "Act.16.33",
+  "gravidade": "baixa",
+  "problema": "Nota afirma, sem base, que o batismo foi 'provavelmente com a água usada para as feridas ou num poço do pátio'; o texto não diz onde.",
+  "sugestao": "Cortar ou marcar como conjectura ('o texto não diz onde').",
+  "decisao": "aceito",
+  "motivo": "Cortada a conjectura; a nota diz que o texto não informa onde foi o batismo."
+ },
+ {
+  "ref": "Act.17.18",
+  "gravidade": "baixa",
+  "problema": "O texto traz 'anunciava o evangelho de Jesus e da ressurreição': εὐηγγελίζετο τὸν Ἰησοῦν καὶ τὴν ἀνάστασιν tem 'Jesus' e 'a ressurreição' como objetos do verbo; 'evangelho de Jesus' muda a relação sintática e enfraquece o ponto da nota (os ouvintes entenderam duas divindades).",
+  "sugestao": "'porque anunciava Jesus e a ressurreição como boa notícia' (com nota).",
+  "decisao": "aceito",
+  "motivo": "Texto: 'anunciava Jesus e a ressurreição como boa notícia', com nova nota tn sobre os dois objetos do verbo."
+ },
+ {
+  "ref": "Act.17.31",
+  "gravidade": "baixa",
+  "problema": "Nota mistura numerações: cita 'Sl 9:8; 96:13; 98:9' como da Septuaginta, cuja numeração é 9:9; 95:13; 97:9; 'reproduz' é forte, pois só μέλλει κρίνειν τὴν οἰκουμένην ἐν δικαιοσύνῃ ecoa a LXX.",
+  "sugestao": "'ecoa a Septuaginta de Sl 9:9; 95:13; 97:9 (Sl 9:8; 96:13; 98:9 na numeração hebraica)'.",
+  "decisao": "aceito",
+  "motivo": "Agora 'ecoa' a Septuaginta, com a numeração LXX e a hebraica."
+ },
+ {
+  "ref": "Act.17.16",
+  "gravidade": "baixa",
+  "problema": "'palavra rara, que não aparece antes de Lucas': afirmação lexical não demonstrável.",
+  "sugestao": "'Palavra rara, sem outro uso no NT.' (omitir o resto)",
+  "decisao": "aceito",
+  "motivo": "Agora 'sem outro uso no NT'."
+ }
+]
