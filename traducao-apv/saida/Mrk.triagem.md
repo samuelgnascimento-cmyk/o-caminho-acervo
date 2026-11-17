@@ -1,0 +1,296 @@
+# Triagem para revisão humana: Marcos
+
+Pontos que um revisor com hebraico/grego deve conferir antes de o texto ser considerado final.
+
+- Mrk.1.1: “Filho de Deus”: O SBLGNT, texto-base da APV, termina o versículo em “Jesus Cristo”. O NA28, o NA27, o THGNT, Tregelles, o Textus Receptus e o Texto Bizantino acrescentam huiou theou: “Princípio do evangelho de Jesus Cristo, Filho de Deus”. A forma longa tem apoio amplo e antigo (entre eles o Códice Vaticano); a curta está na primeira mão do Códice Sinaítico e em citações de Orígenes. A favor da forma curta: é mais fácil um copista acrescentar um título solene do que omiti-lo. A favor da longa: um olho que salta entre terminações iguais (-ou, -ou) explica bem a omissão, e o título “Filho de Deus” emoldura o livro (1:11; 3:11; 15:39). Os especialistas continuam divididos (Metzger registra a dúvida da comissão). Seja qual for a leitura, a filiação divina de Jesus é afirmada no próprio Evangelho já no v. 11.
+- Mrk.1.3: palavra rara τρίβους (τρίβος, G5147): raro (3x)
+- Mrk.1.6: palavra rara δερματίνην (δερμάτινος, G1193): raro (2x)
+- Mrk.1.6: palavra rara ἄγριον. (ἄγριος, G0066): raro (3x)
+- Mrk.1.7: palavra rara κύψας (κύπτω, G2955): hapax
+- Mrk.1.16: palavra rara ἀμφιβάλλοντας (ἀμφιβάλλω, G6006): hapax
+- Mrk.1.20: palavra rara μισθωτῶν (μισθωτός, G3411): raro (3x)
+- Mrk.1.26: palavra rara σπαράξαν (σπαράσσω, G4682): raro (3x)
+- Mrk.1.27: palavra rara ἐθαμβήθησαν (θαμβέω, G2284): raro (3x)
+- Mrk.1.30: palavra rara πυρέσσουσα, (πυρέσσω, G4445): raro (2x)
+- Mrk.1.32: palavra rara ἔδυ (δύνω, δῦμι, G1416): raro (2x)
+- Mrk.1.35: palavra rara ἔννυχα (ἔννυχος, G1773): hapax
+- Mrk.1.36: palavra rara κατεδίωξεν (καταδιώκω, G2614): hapax
+- Mrk.1.38: palavra rara ἀλλαχοῦ (ἀλλαχόθεν, G0237): raro (2x)
+- Mrk.1.38: palavra rara κωμοπόλεις (κωμόπολις, G2969): hapax
+- Mrk.1.41: “indignado” ou “movido de compaixão”: O SBLGNT lê orgistheis, “irado, indignado”, com o Códice de Beza (D) e alguns manuscritos da Antiga Latina. O NA28, o NA27, o THGNT, Westcott-Hort, Tregelles, o Textus Receptus e o Texto Bizantino leem splanchnistheis, “movido de compaixão”, com a grande maioria dos manuscritos. A favor de orgistheis: é a leitura mais difícil, e é mais fácil entender um copista que trocasse a ira de Jesus por compaixão do que o contrário; Mateus e Lucas, que seguem Marcos de perto aqui, omitem o particípio, como se o achassem embaraçoso; e o v. 43 continua em tom áspero. A favor de splanchnistheis: o peso dos manuscritos. Se a ira é original, não se dirige ao leproso, mas à doença e ao poder do mal que o separava de Deus e do povo (cf. Jo 11:33, 38). A APV segue o texto-base, mas a questão é aberta.
+- Mrk.1.45: palavra rara διαφημίζειν (διαφημίζω, G1310): raro (3x)
+- Mrk.1.45: palavra rara φανερῶς (φανερῶς, G5320): raro (3x)
+- Mrk.1.45: palavra rara πάντοθεν.¶ (πάντοθεν, G3840): raro (3x)
+- Mrk.2.4: palavra rara ἀπεστέγασαν (ἀποστεγάζω, G0648): hapax
+- Mrk.2.4: palavra rara στέγην (στέγη, G4721): raro (3x)
+- Mrk.2.4: palavra rara ἐξορύξαντες (ἐξορύσσω, G1846): raro (2x)
+- Mrk.2.14: palavra rara τελώνιον (τελώνιον, G5058): raro (3x)
+- Mrk.2.19: palavra rara νυμφῶνος (νυμφών, G3567): raro (3x)
+- Mrk.2.20: palavra rara ἀπαρθῇ (ἀπαίρω, G0522): raro (3x)
+- Mrk.2.21: palavra rara ῥάκους (ῥάκος, G4470): raro (2x)
+- Mrk.2.21: palavra rara ἀγνάφου (ἄγναφος, G0046): raro (2x)
+- Mrk.2.21: palavra rara ἐπιράπτει (ἐπιρράπτω, G1976): hapax
+- Mrk.2.23: palavra rara σπορίμων, (σπόριμος, G4702): raro (3x)
+- Mrk.2.23: palavra rara τίλλοντες (τίλλω, G5089): raro (3x)
+- Mrk.2.26: Abiatar ou Aimeleque?: Em 1Sm 21:1-6, o sacerdote que dá os pães a Davi é Aimeleque, pai de Abiatar. Mateus e Lucas omitem o nome nos paralelos. As explicações principais: (1) epi com genitivo pode significar “na passagem sobre”, como em 12:26 (“na passagem da sarça”), e Abiatar seria o nome da seção das Escrituras, já que ele é o sacerdote mais conhecido da história de Davi; (2) “no tempo de” Abiatar, filho de Aimeleque e sacerdote ligado a Davi depois do massacre de Nobe (1Sm 22:20-23), que se tornou o sumo sacerdote mais conhecido do reinado de Davi, mais que o pai; (3) confusão de nomes, já presente no próprio AT (2Sm 8:17 e 1Cr 18:16 trocam pai e filho). A tradução mantém o sentido temporal, o mais natural, e deixa o debate na nota. Alguns manuscritos omitem a expressão, provavelmente para evitar a dificuldade.
+- Mrk.3.5: palavra rara συλλυπούμενος (συλλυπέω, G4818): hapax
+- Mrk.3.5: palavra rara πωρώσει (πώρωσις, G4457): raro (3x)
+- Mrk.3.27: palavra rara διαρπάσαι, (διαρπάζω, G1283): raro (3x)
+- Mrk.3.27: palavra rara διαρπάσει.¶ (διαρπάζω, G1283): raro (3x)
+- Mrk.4.5: palavra rara ἐξανέτειλεν (ἐξανατέλλω, G1816): raro (2x)
+- Mrk.4.12: finalidade, resultado ou cumprimento?: Hina normalmente indica finalidade: as parábolas teriam o objetivo de impedir a compreensão dos de fora. Essa é a leitura mais natural do grego e corresponde ao juízo de Is 6: quem rejeita a luz recebe enigmas. Outras propostas sérias: (1) hina indica resultado (“de modo que”), como Mt 13:13 (hoti, “porque”); (2) hina é abreviação de “para que se cumpra a Escritura”; (3) T. W. Manson sugeriu que o aramaico por trás de mēpote poderia significar “a menos que”, abrindo a porta ao arrependimento. A tradução mantém a forma do texto; em todo caso, o capítulo mostra que as parábolas também convidam a ouvir (vv. 9, 23, 33) e que o oculto é para ser revelado (v. 22).
+- Mrk.4.21: palavra rara μόδιον (μόδιος, G3426): raro (3x)
+- Mrk.4.22: palavra rara ἀπόκρυφον (ἀπόκρυφος, G0614): raro (3x)
+- Mrk.4.27: palavra rara μηκύνηται (μηκύνω, G3373): hapax
+- Mrk.4.28: palavra rara αὐτομάτη (αὐτόματος, G0844): raro (2x)
+- Mrk.4.34: palavra rara ἐπέλυεν (ἐπιλύω, G1956): raro (2x)
+- Mrk.4.37: palavra rara λαῖλαψ (λαῖλαψ, G2978): raro (3x)
+- Mrk.4.38: palavra rara πρύμνῃ (πρύμνα, G4403): raro (3x)
+- Mrk.4.38: palavra rara προσκεφάλαιον (προσκεφάλαιον, G4344): hapax
+- Mrk.4.39: palavra rara ἐκόπασεν (κοπάζω, G2869): raro (3x)
+- Mrk.4.39: palavra rara γαλήνη (γαλήνη, G1055): raro (3x)
+- Mrk.4.40: palavra rara δειλοί (δειλός, G1169): raro (3x)
+- Mrk.5.1: palavra rara Γερασηνῶν.¶ (Γεργεσηνός, Γερασηνός, G1086): raro (3x)
+- Mrk.5.3: palavra rara κατοίκησιν (κατοίκησις, G2731): hapax
+- Mrk.5.4: palavra rara πέδαις (πέδη, G3976): raro (3x)
+- Mrk.5.4: palavra rara διεσπάσθαι (διασπάω, G1288): raro (2x)
+- Mrk.5.4: palavra rara πέδας (πέδη, G3976): raro (3x)
+- Mrk.5.5: palavra rara κατακόπτων (κατακόπτω, G2629): hapax
+- Mrk.5.7: palavra rara ὁρκίζω (ὁρκίζω, G3726): raro (2x)
+- Mrk.5.13: palavra rara κρημνοῦ (κρημνός, G2911): raro (3x)
+- Mrk.5.13: palavra rara δισχίλιοι (δισχίλιοι, G1367): hapax
+- Mrk.5.13: palavra rara ἐπνίγοντο (πνίγω, G4155): raro (3x)
+- Mrk.5.15: palavra rara ἱματισμένον (ἱματίζω, G2439): raro (2x)
+- Mrk.5.23: palavra rara θυγάτριόν (θυγάτριον, G2365): raro (2x)
+- Mrk.5.23: palavra rara ἐσχάτως (ἐσχάτως, G2079): hapax
+- Mrk.5.24: palavra rara συνέθλιβον (συνθλίβω, G4918): raro (2x)
+- Mrk.5.25: palavra rara ῥύσει (ῥύσις, G4511): raro (3x)
+- Mrk.5.31: palavra rara συνθλίβοντά (συνθλίβω, G4918): raro (2x)
+- Mrk.5.33: palavra rara τρέμουσα, (τρέμω, G5141): raro (3x)
+- Mrk.5.36: palavra rara παρακούσας (παρακούω, G3878): raro (3x)
+- Mrk.5.37: palavra rara συνακολουθῆσαι (συνακολουθέω, G4870): raro (3x)
+- Mrk.5.38: palavra rara ἀλαλάζοντας (ἀλαλάζω, G0214): raro (2x)
+- Mrk.5.40: palavra rara κατεγέλων (καταγελάω, G2606): raro (3x)
+- Mrk.5.41: palavra rara ταλιθα (ταλιθά, G5008): hapax
+- Mrk.5.41: palavra rara κουμ, (κοῦμι, G2891): hapax
+- Mrk.6.3: palavra rara τέκτων, (τέκτων, G5045): raro (2x)
+- Mrk.6.9: palavra rara ὑποδεδεμένους (ὑποδέω, G5265): raro (3x)
+- Mrk.6.9: palavra rara σανδάλια, (σανδάλιον, G4547): raro (2x)
+- Mrk.6.11: palavra rara χοῦν (χόος, G5522): raro (2x)
+- Mrk.6.17: Herodias e Filipe: Segundo o historiador Flávio Josefo (Antiguidades 18), Herodias foi casada primeiro com um meio-irmão de Antipas chamado Herodes, que vivia como particular, e a filha deles, Salomé, casou-se depois com Filipe, o tetrarca. Marcos chama o primeiro marido de Filipe. As soluções propostas: esse meio-irmão teria o nome duplo Herodes Filipe (os filhos de Herodes, o Grande, repetiam nomes); ou Marcos teria confundido os parentes. A questão continua debatida.
+- Mrk.6.19: palavra rara ἐνεῖχεν (ἐνέχω, G1758): raro (3x)
+- Mrk.6.20: palavra rara συνετήρει (συντηρέω, G4933): raro (3x)
+- Mrk.6.20: palavra rara ἡδέως (ἡδέως, G2234): raro (3x)
+- Mrk.6.21: palavra rara εὐκαίρου (εὔκαιρος, G2121): raro (2x)
+- Mrk.6.21: palavra rara γενεσίοις (γενέσια, γενέθλιος, G1077): raro (2x)
+- Mrk.6.21: palavra rara μεγιστᾶσιν (μεγιστάν, G3175): raro (3x)
+- Mrk.6.22: “filha dele, Herodias”: O SBLGNT traz autēs (“dela”): “a filha da própria Herodias”, com a maioria dos manuscritos. O NA28, o NA27 e Westcott-Hort trazem autou (“dele”): “sua filha Herodias”, como se a moça fosse filha de Herodes e se chamasse também Herodias; essa leitura tem apoio de alguns manuscritos antigos importantes. Josefo dá à filha de Herodias o nome Salomé e diz que era filha do primeiro marido. O NA28, o NA27, Westcott-Hort e Tregelles trazem ainda o verbo finito ēresen (“agradou”) em lugar do particípio, sem mudar a tradução.
+- Mrk.6.27: palavra rara σπεκουλάτορα (σπεκουλάτωρ, G4688): hapax
+- Mrk.6.31: palavra rara εὐκαίρουν.¶ (εὐκαιρέω, G2119): raro (3x)
+- Mrk.6.33: palavra rara πεζῇ (πεζῇ, G3979): raro (2x)
+- Mrk.6.33: palavra rara συνέδραμον (συντρέχω, G4936): raro (3x)
+- Mrk.6.39: palavra rara συμπόσια (συμπόσιον, G4849): raro (2x)
+- Mrk.6.39: palavra rara συμπόσια (συμπόσιον, G4849): raro (2x)
+- Mrk.6.40: palavra rara πρασιαὶ (πρασιά, G4237): raro (2x)
+- Mrk.6.40: palavra rara πρασιαὶ (πρασιά, G4237): raro (2x)
+- Mrk.6.41: palavra rara κατέκλασεν (κατακλάω, G2622): raro (2x)
+- Mrk.6.49: palavra rara φάντασμά (φάντασμα, G5326): raro (2x)
+- Mrk.6.50: egō eimi: Lit. “Eu sou”. No plano imediato, Jesus se identifica (“Sou eu, não um fantasma”), e por isso a tradução usa “Sou eu”. Mas, depois de andar sobre o mar e querer “passar” (v. 48), a expressão ecoa o nome divino revelado a Moisés (Êx 3:14) e o “Eu sou” de Deus em Isaías (Is 43:10; 51:12, na Septuaginta: egō eimi), onde Deus diz ao povo para não ter medo. O guia da APV pede “Eu Sou” para o egō eimi absoluto (Jo 8:58), e aqui não há predicado no grego. Optou-se por “Sou eu” porque, diante de discípulos que pensam ver um fantasma, a frase funciona primeiro como identificação (como em Jo 6:20); a leitura “Eu Sou” fica registrada nesta nota. Decisão a confirmar na revisão humana, junto com 13:6 e 14:62.
+- Mrk.6.51: palavra rara ἐκόπασεν (κοπάζω, G2869): raro (3x)
+- Mrk.6.53: palavra rara προσωρμίσθησαν. (προσορμίζω, G4358): hapax
+- Mrk.6.55: palavra rara περιέδραμον (περιτρέχω, G4063): hapax
+- Mrk.6.55: palavra rara περιφέρειν (περιφέρω, G4064): raro (3x)
+- Mrk.7.2: palavra rara ἀνίπτοις, (ἄνιπτος, G0449): raro (2x)
+- Mrk.7.3: palavra rara πυγμῇ (πυγμή, G4435): hapax
+- Mrk.7.3: pygmē, hápax: Lit. “lavar com o punho”. A expressão é obscura. Propostas: (1) esfregar o punho fechado na palma da outra mão; (2) lavar até o pulso; (3) com uma mão em concha, isto é, com um punhado de água; (4) sentido figurado, “com esmero, à risca”. Alguns copistas a acharam tão difícil que a trocaram por pykna (“frequentemente”) ou a omitiram. “Cuidadosamente” dá o sentido geral sem decidir o gesto.
+- Mrk.7.4: palavra rara ξεστῶν (ξέστης, G3582): hapax
+- Mrk.7.4: palavra rara χαλκίων (χαλκίον, G5473): hapax
+- Mrk.7.7: palavra rara μάτην (μάτην, G3155): raro (2x)
+- Mrk.7.7: palavra rara ἐντάλματα (ἔνταλμα, G1778): raro (3x)
+- Mrk.7.13: palavra rara ἀκυροῦντες (ἀκυρόω, G0208): raro (3x)
+- Mrk.7.13: palavra rara παρόμοια (παρόμοιος, G3946): hapax
+- Mrk.7.19: palavra rara ἀφεδρῶνα (ἀφεδρών, G0856): raro (2x)
+- Mrk.7.21: palavra rara κλοπαί, (κλοπή, G2829): raro (2x)
+- Mrk.7.22: palavra rara μοιχεῖαι, (μοιχεία, G3430): raro (2x)
+- Mrk.7.22: palavra rara ὑπερηφανία, (ὑπερηφανία, G5243): hapax
+- Mrk.7.25: palavra rara θυγάτριον (θυγάτριον, G2365): raro (2x)
+- Mrk.7.26: palavra rara Ἑλληνὶς (Ἑλληνίς, G1674): raro (2x)
+- Mrk.7.26: palavra rara Συροφοινίκισσα (Συροφοίνισσα, G4949): hapax
+- Mrk.7.28: palavra rara ψιχίων (ψιχίον, ψίξ, G5589): raro (2x)
+- Mrk.7.32: palavra rara μογιλάλον (μογιλάλος, G3424): hapax
+- Mrk.7.33: palavra rara πτύσας (πτύω, G4429): raro (3x)
+- Mrk.7.34: palavra rara εφφαθα, (ἐφφαθά, G2188): hapax
+- Mrk.7.37: palavra rara ἀλάλους (ἄλαλος, G0216): raro (3x)
+- Mrk.8.3: palavra rara νήστεις (νῆστις, G3523): raro (2x)
+- Mrk.8.7: palavra rara ἰχθύδια (ἰχθύδιον, G2485): raro (2x)
+- Mrk.8.12: palavra rara ἀναστενάξας (ἀναστενάζω, G0389): hapax
+- Mrk.8.23: palavra rara πτύσας (πτύω, G4429): raro (3x)
+- Mrk.8.23: palavra rara ὄμματα (ὄμμα, G3659): raro (2x)
+- Mrk.8.25: palavra rara διέβλεψεν (διαβλέπω, G1227): raro (3x)
+- Mrk.8.25: palavra rara τηλαυγῶς (τηλαυγῶς, G5081): hapax
+- Mrk.8.37: palavra rara ἀντάλλαγμα (ἀντάλλαγμα, G0465): raro (2x)
+- Mrk.9.1: a que se refere?: Dito difícil. As principais leituras: (1) a transfiguração, que vem logo em seguida (vv. 2-8) e que três dos presentes veem, como antecipação da glória de 8:38 (assim muitos Pais da Igreja; cf. 2Pe 1:16-18); (2) a ressurreição e o derramamento do Espírito em Pentecostes; (3) a destruição do templo em 70 d.C., como juízo; (4) a vinda final, que Jesus esperaria para aquela geração (leitura de A. Schweitzer, que concluía que Jesus se enganou). A posição do versículo, entre 8:38 e a transfiguração, favorece a primeira, sem excluir a segunda: o que os três veem no monte é amostra do Reino que vem com poder.
+- Mrk.9.3: palavra rara στίλβοντα, (στίλβω, G4744): hapax
+- Mrk.9.3: palavra rara γναφεὺς (γναφεύς, G1102): hapax
+- Mrk.9.3: palavra rara λευκᾶναι. (λευκαίνω, G3021): raro (2x)
+- Mrk.9.6: palavra rara ἔκφοβοι (ἔκφοβος, G1630): raro (2x)
+- Mrk.9.8: palavra rara ἐξάπινα (ἐξάπινα, G1819): hapax
+- Mrk.9.12: palavra rara ἐξουδενηθῇ. (ἐξουδενόω, G1847): hapax
+- Mrk.9.12: pergunta: A sintaxe é difícil. A frase é lida em geral como pergunta retórica que contrapõe dois dados das Escrituras: a restauração por Elias e o sofrimento do Filho do Homem. Alguns a pontuam de outro modo (“Elias vem primeiro e restaura tudo? Então como está escrito...?”), tomando a primeira frase como citação da opinião dos escribas. O sentido final é o mesmo: Elias veio e foi rejeitado, e o mesmo acontecerá ao Filho do Homem.
+- Mrk.9.15: palavra rara προστρέχοντες (προστρέχω, G4370): raro (3x)
+- Mrk.9.17: palavra rara ἄλαλον. (ἄλαλος, G0216): raro (3x)
+- Mrk.9.18: palavra rara ἀφρίζει (ἀφρίζω, G0875): raro (2x)
+- Mrk.9.18: palavra rara τρίζει (τρίζω, G5149): hapax
+- Mrk.9.20: palavra rara συνεσπάραξεν (συσπαράσσω, G4952): raro (2x)
+- Mrk.9.20: palavra rara ἐκυλίετο (κυλίω, G2947): hapax
+- Mrk.9.20: palavra rara ἀφρίζων. (ἀφρίζω, G0875): raro (2x)
+- Mrk.9.21: palavra rara παιδιόθεν. (παιδιόθεν, G3812): hapax
+- Mrk.9.25: palavra rara ἐπισυντρέχει (ἐπισυντρέχω, G1998): hapax
+- Mrk.9.25: palavra rara ἄλαλον (ἄλαλος, G0216): raro (3x)
+- Mrk.9.26: palavra rara σπαράξας (σπαράσσω, G4682): raro (3x)
+- Mrk.9.29: “e jejum”: O SBLGNT termina em “oração”, com dois dos manuscritos mais antigos (ℵ original e B). O THGNT, Tregelles, o Textus Receptus e o Texto Bizantino acrescentam kai nēsteia, “e jejum”, que tem apoio amplo e antigo. Muitos estudiosos pensam que o acréscimo reflete a importância crescente do jejum na igreja primitiva (cf. a mesma tendência em At 10:30 e 1Co 7:5 em alguns manuscritos; Metzger). A forma curta não diminui o valor do jejum; apenas não o põe nos lábios de Jesus aqui.
+- Mrk.9.36: palavra rara ἐναγκαλισάμενος (ἐναγκαλίζομαι, G1723): raro (2x)
+- Mrk.9.42: palavra rara ὀνικὸς (ὀνικός, G3684): raro (2x)
+- Mrk.9.43: palavra rara ἄσβεστον. (ἄσβεστος, G0762): raro (3x)
+- Mrk.9.47: palavra rara μονόφθαλμον (μονόφθαλμος, G3442): raro (2x)
+- Mrk.9.48: palavra rara σκώληξ (σκώληξ, G4663): hapax
+- Mrk.9.49: palavra rara ἁλισθήσεται (ἁλίζω, G0233): raro (2x)
+- Mrk.9.49: um dito obscuro: Um dos versículos mais difíceis dos Evangelhos. Liga-se ao anterior pela palavra “fogo” e ao seguinte pela palavra “sal”. Leituras propostas: (1) todo discípulo será purificado e provado pelo fogo do sofrimento e da perseguição, como o sal acompanhava o sacrifício (Lv 2:13; cf. 1Pe 1:7; 4:12); (2) todos passarão pelo fogo do juízo: os ímpios para a destruição, os fiéis para a purificação (1Co 3:13-15); (3) o sal, que preserva, aponta para a vida consagrada a Deus. A primeira leitura combina melhor com o chamado à renúncia dos vv. 43-47 e com o v. 50. Halizō (“salgar”) é raro (Mt 5:13).
+- Mrk.9.50: palavra rara ἄναλον (ἄναλος, G0358): hapax
+- Mrk.9.50: palavra rara ἀρτύσετε; (ἀρτύω, G0741): raro (3x)
+- Mrk.10.2: “aproximaram-se uns fariseus”: O SBLGNT, texto-base da APV, não traz proselthontes Pharisaioi (“aproximaram-se uns fariseus”). Segundo o aparato do próprio SBLGNT, a omissão está à margem de Westcott-Hort; o texto de Westcott-Hort, Tregelles, o NA28, o THGNT, o Textus Receptus e o Texto Bizantino trazem as palavras. Sem elas, o sujeito fica indefinido (“perguntavam”), e o leitor entende que são pessoas da multidão do v. 1 ou adversários; com elas, a pergunta vem dos fariseus, como em Mt 19:3. A omissão tem poucos testemunhos; quem a prefere supõe que as palavras vieram do paralelo de Mateus, e a maioria das edições as considera parte do texto.
+- Mrk.10.4: palavra rara ἀποστασίου (ἀποστάσιον, G0647): raro (3x)
+- Mrk.10.5: palavra rara σκληροκαρδίαν (σκληροκαρδία, G4641): raro (2x)
+- Mrk.10.7: palavra rara προσκολληθήσεται (προσκολλάω, G4347): raro (2x)
+- Mrk.10.9: palavra rara συνέζευξεν, (συζεύγνυμι, G4801): raro (2x)
+- Mrk.10.16: palavra rara ἐναγκαλισάμενος (ἐναγκαλίζομαι, G1723): raro (2x)
+- Mrk.10.16: palavra rara κατευλόγει (κατευλογέω, G6050): hapax
+- Mrk.10.17: palavra rara προσδραμὼν (προστρέχω, G4370): raro (3x)
+- Mrk.10.22: palavra rara στυγνάσας (στυγνάζω, G4768): raro (2x)
+- Mrk.10.23: palavra rara δυσκόλως (δυσκόλως, G1423): raro (3x)
+- Mrk.10.24: palavra rara ἐθαμβοῦντο (θαμβέω, G2284): raro (3x)
+- Mrk.10.24: palavra rara δύσκολόν (δύσκολος, G1422): hapax
+- Mrk.10.25: palavra rara τρυμαλιᾶς (τρυμαλιά, G5168): hapax
+- Mrk.10.25: palavra rara ῥαφίδος (ῥαφίς, G4476): raro (2x)
+- Mrk.10.30: palavra rara ἑκατονταπλασίονα (ἑκατονταπλασίων, G1542): raro (3x)
+- Mrk.10.32: palavra rara ἐθαμβοῦντο· (θαμβέω, G2284): raro (3x)
+- Mrk.10.35: palavra rara προσπορεύονται (προσπορεύομαι, G4365): hapax
+- Mrk.10.42: palavra rara κατεξουσιάζουσιν (κατεξουσιάζω, G2715): raro (2x)
+- Mrk.10.44: doulos: “servo” ou “escravo”: Primeira ocorrência de doulos em Marcos. Doulos é o escravo, que pertence a outro e não tem direitos; “servo” é a forma tradicional e a que a APV usa quando o termo descreve a relação com Deus. Aqui, porém, Jesus opõe o “primeiro” ao escravo, a posição mais baixa da escala social, num crescendo (servidor de vocês, escravo de todos). Por isso “escravo”, como em 1Co 9:19 (“tornei-me escravo de todos”).
+- Mrk.10.45: palavra rara λύτρον (λύτρον, G3083): raro (2x)
+- Mrk.10.46: palavra rara προσαίτης, (προσαίτης, G6075): raro (2x)
+- Mrk.10.50: palavra rara ἀποβαλὼν (ἀποβάλλω, G0577): raro (2x)
+- Mrk.10.50: palavra rara ἀναπηδήσας (ἀναπηδάω, G6008): hapax
+- Mrk.11.3: quem é “o Senhor”?: Pode ser Jesus, que só aqui em Marcos parece referir-se a si mesmo como “o Senhor” (cf. 2:28); Deus (como em 5:19); ou o dono do animal, se Jesus estiver com ele. A leitura mais comum é Jesus: o pedido é feito com a autoridade de quem tem direito ao que pede, como o rei que requisita um animal. Maiúscula pela leitura cristológica.
+- Mrk.11.4: palavra rara ἀμφόδου (ἄμφοδον, G0296): hapax
+- Mrk.11.8: palavra rara στιβάδας (στοιβάς, στιβάς, G4746): hapax
+- Mrk.11.11: palavra rara ὀψὲ (, G3796): raro (3x)
+- Mrk.11.13: por que procurar fruto?: Era primavera, perto da Páscoa; os figos maduros só vêm no começo do verão. Alguns lembram que a figueira produz, junto com as folhas, pequenos frutos verdes que se comiam; a ausência deles mostraria que a árvore não daria fruto. A explicação de Marcos, porém, indica que o gesto é sobretudo um sinal profético: a figueira cheia de folhas e sem fruto representa o templo, movimentado mas sem o fruto que Deus procura. No AT, a figueira sem fruto é imagem de Israel infiel (Jr 8:13; Os 9:10, 16; Mq 7:1).
+- Mrk.11.15: palavra rara κολλυβιστῶν (κολλυβιστής, G2855): raro (3x)
+- Mrk.11.15: palavra rara καθέδρας (καθέδρα, G2515): raro (3x)
+- Mrk.11.15: palavra rara κατέστρεψεν (καταστρέφω, G2690): raro (2x)
+- Mrk.11.16: skeuos: Skeuos é qualquer utensílio, vaso ou carga. Pode referir-se a quem usava o pátio do templo como atalho com mercadorias (a Mishná proíbe fazer do monte do templo um atalho, Berakhot 9:5), ou a vasos usados no comércio e no culto. Só Marcos registra o detalhe.
+- Mrk.11.19: palavra rara ὀψὲ (ὀψέ, G3796): raro (3x)
+- Mrk.11.31: só no SBLGNT: Segundo o aparato do próprio SBLGNT, a pergunta “Que diremos?” é leitura do editor do SBLGNT (Holmes); Westcott-Hort, Tregelles, o NA28, o Textus Receptus e o Texto Bizantino não a trazem. A APV segue o seu texto-base. O sentido do versículo não muda: a deliberação dos líderes já está implícita em “discutiam entre si”.
+- Mrk.12.1: palavra rara ὤρυξεν (ὀρύσσω, G3736): raro (3x)
+- Mrk.12.1: palavra rara ὑπολήνιον (ὑπολήνιον, G5276): hapax
+- Mrk.12.2: doulos: “servo” ou “escravo”: Lit. “escravo” (ver a nota em 10:44). Na história, é o escravo do proprietário, enviado com a autoridade dele. A APV usa “servo” porque a parábola evoca os profetas, que o AT chama “meus servos, os profetas” (Jr 7:25; Am 3:7), enviados por Deus a Israel e muitas vezes maltratados (2Cr 24:19-21; 36:15-16; Ne 9:26).
+- Mrk.12.4: palavra rara ἐκεφαλίωσαν (κεφαλαιόω, G2775): hapax
+- Mrk.12.4: kephalioō, hápax: Única ocorrência no NT, e a palavra é desconhecida em outros textos gregos com este sentido. Vem de kephalē (“cabeça”), e o contexto pede uma agressão: “bater na cabeça”, sentido adotado pelos léxicos (BDAG) e pela maioria das versões. Alguns pensam em alusão à decapitação de João Batista (6:27). Westcott-Hort e o NA28 grafam ekephaliōsan; Tregelles e o Texto Bizantino, ekephalaiōsan, que normalmente significaria “resumir”.
+- Mrk.12.13: palavra rara ἀγρεύσωσιν (ἀγρεύω, G0064): hapax
+- Mrk.12.17: palavra rara ἐξεθαύμαζον (ἐκθαυμάζω, G6028): hapax
+- Mrk.12.19: palavra rara ἐξαναστήσῃ (ἐξανίστημι, G1817): raro (3x)
+- Mrk.12.33: palavra rara ὁλοκαυτωμάτων (ὁλοκαύτωμα, G3646): raro (3x)
+- Mrk.12.34: palavra rara νουνεχῶς (νουνεχῶς, G3562): hapax
+- Mrk.12.37: palavra rara ἡδέως.¶ (ἡδέως, G2234): raro (3x)
+- Mrk.12.42: palavra rara λεπτὰ (λεπτός, G3016): raro (3x)
+- Mrk.12.42: palavra rara κοδράντης. (κοδράντης, G2835): raro (2x)
+- Mrk.12.44: palavra rara ὑστερήσεως (ὑστέρησις, G5304): raro (2x)
+- Mrk.13.6: egō eimi: Lit. “Eu sou”. Como em 6:50, a APV traduz “Sou eu”: os impostores dizem ser o Cristo (cf. v. 21-22; Mt 24:5 explicita: “Eu sou o Cristo”). Mas a expressão também ecoa o nome divino (Êx 3:14; Is 43:10), e alguns entendem que os falsos mestres usurpam a identidade de Jesus e até a de Deus.
+- Mrk.13.7: palavra rara θροεῖσθε· (θροέω, G2360): raro (3x)
+- Mrk.13.11: palavra rara προμεριμνᾶτε (προμεριμνάω, G4305): hapax
+- Mrk.13.12: palavra rara ἐπαναστήσονται (ἐπανίστημι, G1881): raro (2x)
+- Mrk.13.14: palavra rara ἐρημώσεως (ἐρήμωσις, G2050): raro (3x)
+- Mrk.13.14: particípio masculino: Lit. “de pé onde não deve”. O particípio hestēkota é masculino, embora bdelygma seja neutro: Marcos parece pensar numa pessoa, não só num objeto. O português não pode marcar isso. As principais identificações propostas são: os exércitos romanos e os seus estandartes em 70 d.C. (Lc 21:20 fala de Jerusalém cercada por exércitos); a profanação do templo pelos zelotes durante a guerra; e uma figura do fim dos tempos, o “homem da iniquidade” que se assenta no templo de Deus (2Ts 2:3-4). Muitos veem um cumprimento em 70 d.C. que aponta para outro, final.
+- Mrk.13.22: palavra rara ψευδόχριστοι (ψευδόχριστος, G5580): raro (2x)
+- Mrk.13.22: palavra rara ἀποπλανᾶν (ἀποπλανάω, G0635): raro (2x)
+- Mrk.13.24: palavra rara φέγγος (φέγγος, G5338): raro (2x)
+- Mrk.13.26: Daniel 7:13: Eco de Dn 7:13-14, onde “um como filho de homem” vem com as nuvens até o Ancião de Dias e recebe domínio eterno (ver a nota em 2:10). A maioria entende aqui a vinda gloriosa de Cristo no fim dos tempos (cf. 8:38; 14:62; At 1:11). Outros, notando que em Daniel o filho de homem vem a Deus, leem a exaltação de Jesus e a sua vindicação, manifestada no juízo sobre o templo. A tradição da igreja e o Credo (“virá para julgar os vivos e os mortos”) leem a vinda final.
+- Mrk.13.28: palavra rara ἁπαλὸς (ἁπαλός, G0527): raro (2x)
+- Mrk.13.28: palavra rara ἐκφύῃ (ἐκφύω, G1631): raro (2x)
+- Mrk.13.28: palavra rara θέρος (θέρος, G2330): raro (3x)
+- Mrk.13.30: que geração?: Em Marcos, “esta geração” são sempre os contemporâneos de Jesus (8:12, 38; 9:19), e esse é o sentido mais natural. Quem adota esse sentido entende que “todas essas coisas” são os acontecimentos dos vv. 5-23, que culminaram na destruição do templo em 70 d.C., cerca de quarenta anos depois. Outras propostas: genea seria “raça” (o povo judeu) ou “tipo de gente” (a humanidade incrédula), ou a geração que verá os sinais do fim. A dificuldade está em relacionar este versículo com os vv. 24-27 e com o v. 32, onde Jesus diz não saber o dia.
+- Mrk.13.34: palavra rara ἀπόδημος (ἀπόδημος, G0590): hapax
+- Mrk.13.34: douloi: Lit. “escravos” da casa (ver as notas em 10:44 e 12:2). Aqui recebem autoridade e tarefas do senhor ausente, figura dos discípulos, a quem Jesus confia a sua obra; por isso “servos”.
+- Mrk.13.35: palavra rara ὀψὲ (ὀψέ, G3796): raro (3x)
+- Mrk.13.35: palavra rara ἀλεκτοροφωνίας (ἀλεκτοροφωνία, G0219): hapax
+- Mrk.14.3: palavra rara νάρδου (νάρδος, G3487): raro (2x)
+- Mrk.14.3: palavra rara πιστικῆς (πιστικός, G4101): raro (2x)
+- Mrk.14.3: palavra rara πολυτελοῦς. (πολυτελής, G4185): raro (3x)
+- Mrk.14.3: palavra rara κατέχεεν (καταχέω, G2708): raro (2x)
+- Mrk.14.5: palavra rara τριακοσίων (τριακόσιοι, G5145): raro (2x)
+- Mrk.14.8: palavra rara προέλαβεν (προλαμβάνω, G4301): raro (3x)
+- Mrk.14.8: palavra rara μυρίσαι (μυρίζω, G3462): hapax
+- Mrk.14.8: palavra rara ἐνταφιασμόν. (ἐνταφιασμός, G1780): raro (2x)
+- Mrk.14.9: palavra rara μνημόσυνον (μνημόσυνον, G3422): raro (3x)
+- Mrk.14.11: palavra rara εὐκαίρως (εὐκαίρως, G2122): raro (2x)
+- Mrk.14.13: palavra rara ἀπαντήσει (ἀπαντάω, G0528): raro (2x)
+- Mrk.14.13: palavra rara κεράμιον (κεράμιον, G2765): raro (2x)
+- Mrk.14.14: palavra rara κατάλυμά (κατάλυμα, G2646): raro (3x)
+- Mrk.14.15: palavra rara ἀνάγαιον (ἀνώγεον, G0508): raro (2x)
+- Mrk.14.20: palavra rara ἐμβαπτόμενος (ἐμβάπτω, G1686): raro (2x)
+- Mrk.14.20: palavra rara τρύβλιον. (τρύβλιον, G5165): raro (2x)
+- Mrk.14.31: palavra rara συναποθανεῖν (συναποθνήσκω, G4880): raro (3x)
+- Mrk.14.33: palavra rara ἀδημονεῖν. (ἀδημονέω, G0085): raro (3x)
+- Mrk.14.38: palavra rara πρόθυμον, (πρόθυμος, G4289): raro (3x)
+- Mrk.14.40: palavra rara καταβαρυνόμενοι, (καταβαρύνω, G6046): hapax
+- Mrk.14.41: apechei, palavra enigmática: Uma das palavras mais difíceis de Marcos. As principais leituras: (1) “basta!”, “chega!” (de sono), uso impessoal atestado; (2) termo comercial de recibo, “está pago, quitado” (ver Fp 4:18): Judas recebeu o dinheiro, ou a conta está acertada; (3) “está longe?”, como pergunta (“o fim está longe?”); alguns manuscritos acrescentam “o fim”, dando o sentido “o fim está (ainda) longe?” ou “o fim chegou”. “Basta!” é a leitura mais adotada e combina com o que segue: “chegou a hora”.
+- Mrk.14.44: palavra rara σύσσημον (σύσσημον, G4953): hapax
+- Mrk.14.44: palavra rara ἀσφαλῶς. (ἀσφαλῶς, G0806): raro (3x)
+- Mrk.14.47: palavra rara σπασάμενος (σπάω, G4685): raro (2x)
+- Mrk.14.47: palavra rara ὠτάριον. (ὠτάριον, G6090): raro (2x)
+- Mrk.14.51: palavra rara συνηκολούθει (συνακολουθέω, G4870): raro (3x)
+- Mrk.14.54: palavra rara συγκαθήμενος (συγκάθημαι, G4775): raro (2x)
+- Mrk.14.58: palavra rara ἀχειροποίητον (ἀχειροποίητος, G0886): raro (3x)
+- Mrk.14.60: palavra rara καταμαρτυροῦσιν; (καταμαρτυρέω, G2649): raro (3x)
+- Mrk.14.62: resposta e nome divino: No plano da conversa, egō eimi responde à pergunta: “Sou” (o Cristo, o Filho do Bendito). É a única vez em Marcos que Jesus afirma abertamente ser o Messias, e o faz quando já não pode ser confundido com um libertador político: preso, diante de quem o condenará. A expressão, porém, é a mesma que em 6:50 Jesus diz ao andar sobre o mar, e ecoa o nome com que Deus se revela (Êx 3:14) e o “Eu Sou” de Isaías (Is 41:4; 43:10, 25; 51:12, na Septuaginta). Aqui a APV usa “Eu Sou”, com maiúsculas, como faz com o uso absoluto de egō eimi, porque a frase não tem predicado e porque o que vem em seguida põe Jesus ao lado de Deus. O leitor deve guardar as duas coisas: é a resposta direta à pergunta e é dita com palavras que, na Escritura, pertencem a Deus. Muitos intérpretes preferem ver aqui só a resposta afirmativa (“Sou eu”, “Sim”).
+- Mrk.14.65: palavra rara περικαλύπτειν (περικαλύπτω, G4028): raro (3x)
+- Mrk.14.65: palavra rara ῥαπίσμασιν (ῥάπισμα, G4475): raro (3x)
+- Mrk.14.68: palavra rara προαύλιον, (προαύλιον, G4259): hapax
+- Mrk.14.70: palavra rara ὁμοιάζει. (ὁμοιάζω, G3662): hapax
+- Mrk.14.72: epibalōn, expressão obscura: Lit. “e, tendo lançado (sobre), chorava”. O sentido de epibalōn aqui é dos mais discutidos do NT: (1) “começando”, “pondo-se a” chorar (uso atestado em papiros), base de “desatou a chorar”; (2) “pensando nisso”, “refletindo” (com ton noun, “lançando a mente”), base de “caindo em si” ou “pensando nisso, chorava”; (3) “cobrindo a cabeça” (com o manto), gesto de luto; (4) “saindo às pressas”. Mt 26:75 e Lc 22:62 dizem “saindo, chorou amargamente”. O imperfeito eklaien indica choro continuado.
+- Mrk.15.7: palavra rara στασιαστῶν (συστασιαστής, G4955): hapax
+- Mrk.15.11: palavra rara ἀνέσεισαν (ἀνασείω, G0383): raro (2x)
+- Mrk.15.15: palavra rara φραγελλώσας (φραγελλόω, G5417): raro (2x)
+- Mrk.15.17: palavra rara ἐνδιδύσκουσιν (ἐνδιδύσκω, G1737): raro (2x)
+- Mrk.15.17: palavra rara πλέξαντες (πλέκω, G4120): raro (3x)
+- Mrk.15.17: palavra rara ἀκάνθινον (ἀκάνθινος, G0174): raro (2x)
+- Mrk.15.21: palavra rara ἀγγαρεύουσιν (ἀγγαρεύω, G0029): raro (3x)
+- Mrk.15.23: palavra rara ἐσμυρνισμένον (σμυρνίζω, G4669): hapax
+- Mrk.15.29: palavra rara Οὐά, (οὐά, G3758): hapax
+- Mrk.15.34: palavra rara ελωι (ἐλωΐ, G1682): raro (2x)
+- Mrk.15.34: palavra rara ελωι, (ἐλωΐ, G1682): raro (2x)
+- Mrk.15.34: palavra rara λεμα (λαμά, G2982): raro (2x)
+- Mrk.15.34: palavra rara σαβαχθανι; (σαβαχθάνι, G4518): raro (2x)
+- Mrk.15.36: palavra rara σπόγγον (σπόγγος, G4699): raro (3x)
+- Mrk.15.37: palavra rara ἐξέπνευσεν.¶ (ἐκπνέω, G1606): raro (3x)
+- Mrk.15.39: palavra rara κεντυρίων (κεντυρίων, G2760): raro (3x)
+- Mrk.15.39: palavra rara ἐξέπνευσεν, (ἐκπνέω, G1606): raro (3x)
+- Mrk.15.41: palavra rara συναναβᾶσαι (συναναβαίνω, G4872): raro (2x)
+- Mrk.15.43: palavra rara βουλευτὴς (βουλευτής, G1010): raro (2x)
+- Mrk.15.44: palavra rara κεντυρίωνα (κεντυρίων, G2760): raro (3x)
+- Mrk.15.45: palavra rara κεντυρίωνος (κεντυρίων, G2760): raro (3x)
+- Mrk.15.45: palavra rara ἐδωρήσατο (δωρέω, G1433): raro (3x)
+- Mrk.15.46: palavra rara ἐνείλησεν (ἐνειλέω, G1750): hapax
+- Mrk.15.46: palavra rara λελατομημένον (λατομέω, G2998): raro (2x)
+- Mrk.15.46: palavra rara προσεκύλισεν (προσκυλίω, G4351): raro (2x)
+- Mrk.16.1: palavra rara διαγενομένου (διαγίνομαι, G1230): raro (3x)
+- Mrk.16.8: palavra rara συντόμως (συντόμως, G4935): raro (2x)
+- Mrk.16.8: palavra rara ἐξήγγειλαν. (ἐξαγγέλλω, G1804): raro (2x)
+- Mrk.16.8: palavra rara δύσεως (δύσις, G6091): hapax
+- Mrk.16.9: os finais de Marcos: Os vv. 9-20, o chamado “final longo”, não pertencem ao texto de Marcos tal como os manuscritos mais antigos o conservam. O SBLGNT, texto-base da APV, os imprime entre colchetes duplos, como Westcott-Hort e o NA28; a APV os traduz por inteiro e entre ⟦ ⟧, para que o leitor tenha o texto e saiba da sua situação. Os fatos principais: (1) O Evangelho termina em 16:8 nos dois manuscritos gregos completos mais antigos, os códices Sinaítico (ℵ) e Vaticano (B), do século IV, e também no manuscrito siríaco mais antigo (o Sinaítico), em muitos manuscritos armênios e nos manuscritos georgianos mais antigos. Clemente de Alexandria e Orígenes não mostram conhecer os vv. 9-20; Eusébio diz que eles faltavam nas cópias exatas do seu tempo; Jerônimo, que faltavam em quase todos os códices gregos. Vários manuscritos que trazem o final longo o marcam com sinais ou notas de dúvida. (2) O final longo está na grande maioria dos manuscritos gregos, entre eles os códices Alexandrino (A), de Éfrem (C), de Beza (D) e de Washington (W), no Texto Bizantino, no Textus Receptus e daí na ARC e nas Bíblias tradicionais. É antigo: Ireneu, por volta de 180 d.C., cita o v. 19 como palavra de Marcos (Contra as Heresias 3.10.5), e Taciano o usou no Diatessarão; Justino talvez o conhecesse. (3) Há ainda o “final curto” (ver nota em 16:8), que alguns manuscritos trazem sozinho ou antes do final longo, e o “final intermediário”, nome dado à combinação dos dois. O códice de Washington (W) acrescenta depois do v. 14 um diálogo entre Jesus e os discípulos sobre Satanás e o fim de seu poder (o chamado “logion de Freer”), que Jerônimo conhecia em parte. (4) O vocabulário e o estilo dos vv. 9-20 diferem dos de Marcos, e a passagem não continua com naturalidade o v. 8: o sujeito muda das mulheres para Jesus sem que ele seja nomeado, e Maria Madalena é apresentada como se não tivesse aparecido antes (cf. 15:40, 47; 16:1). O conteúdo resume aparições e fatos narrados em Lucas, João e Atos (vv. 12-13, 15-20). Por isso a grande maioria dos estudiosos, de diversas tradições, conclui que o final longo foi acrescentado no século II por alguém que sentiu falta de aparições do Ressuscitado (Metzger). Uma minoria defende que faz parte do Evangelho original (J. W. Burgon, The Last Twelve Verses of the Gospel According to S. Mark, 1871; W. R. Farmer, The Last Twelve Verses of Mark, 1974). Entre os que o consideram acréscimo, há quem pense que Marcos terminou de propósito em 16:8, deixando o leitor diante do túmulo vazio e da promessa do v. 7, e quem pense que o final original se perdeu ou não chegou a ser escrito. Ao mesmo tempo, o final longo é recebido há muitos séculos como Escritura canônica pela Igreja Católica, pelas Igrejas Ortodoxas e por muitas igrejas protestantes, e é lido no culto. O que ele afirma (as aparições, a missão, o batismo, os sinais, a ascensão) está atestado em outros textos do NT. A APV o traduz por inteiro, marcado, deixando ao leitor tanto a informação sobre a sua origem quanto o seu uso na igreja.
+- Mrk.16.12: palavra rara μορφῇ (μορφή, G3444): raro (2x)
+- Mrk.16.14: palavra rara σκληροκαρδίαν (σκληροκαρδία, G4641): raro (2x)
+- Mrk.16.18: palavra rara θανάσιμόν (θανάσιμος, G2286): hapax
+- Mrk.16.18: palavra rara βλάψῃ (, G0984): hapax
+- Mrk.16.20: palavra rara ἐπακολουθούντων (ἐπακολουθέω, G1872): raro (3x)

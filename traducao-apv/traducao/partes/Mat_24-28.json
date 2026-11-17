@@ -908,5 +908,698 @@
     "texto": "Ver nota em 8:12. A APV não suaviza a imagem."
    }
   ]
+ },
+ "Mat.25.1": {
+  "t": "Então o Reino dos céus será semelhante a dez virgens que pegaram as suas lâmpadas e saíram ao encontro do noivo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Então",
+    "termo": "Τότε (tote)",
+    "titulo": "quando?",
+    "texto": "Liga a parábola à vinda do Filho do Homem (24:42-51): “naquele tempo”, quando ele vier. O futuro “será semelhante” contrasta com o “é semelhante” de outras parábolas do Reino (13:24; 22:2)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "virgens",
+    "termo": "παρθένοις (parthenois)",
+    "titulo": "parthenoi",
+    "texto": "Moças solteiras, aqui as amigas da noiva ou da família que esperavam o noivo para acompanhá-lo em cortejo até a festa. O casamento judaico incluía a ida do noivo, à noite, à casa da noiva, e o cortejo com luzes até a casa dele. A parábola não fala da noiva; o centro é a espera."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "lâmpadas",
+    "termo": "τὰς λαμπάδας (tas lampadas)",
+    "titulo": "lampas: “lâmpadas” ou “tochas”",
+    "texto": "Lampas pode ser a lâmpada de barro com azeite ou a tocha, um pau com trapos embebidos em óleo, que se acendia na hora do cortejo e precisava de óleo de tempos em tempos (cf. Jo 18:3, “tochas”). Muitos estudiosos pensam em tochas, o que explica a necessidade de vasilhas à parte (v. 4). A APV mantém “lâmpadas”, palavra tradicional, que serve às duas imagens."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "ao encontro do noivo",
+    "termo": "εἰς ὑπάντησιν τοῦ νυμφίου",
+    "titulo": "hypantēsis, raro",
+    "texto": "“Encontro, ida ao encontro” (também 8:34; Jo 12:13). Indica sair para receber alguém e acompanhá-lo na chegada. O Textus Receptus e o Texto Bizantino trazem apantēsin, de mesmo sentido (cf. v. 6)."
+   }
+  ]
+ },
+ "Mat.25.2": {
+  "t": "Cinco delas eram insensatas, e cinco, prudentes.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "insensatas",
+    "termo": "μωραὶ ... φρόνιμοι (mōrai ... phronimoi)",
+    "titulo": "os dois grupos",
+    "texto": "Os mesmos adjetivos dos dois construtores (7:24-27) e do escravo prudente (24:45). A sabedoria aqui é prever e se preparar. O Textus Receptus e o Texto Bizantino põem as prudentes primeiro; sem efeito no sentido."
+   }
+  ]
+ },
+ "Mat.25.3": {
+  "t": "Pois as insensatas pegaram as suas lâmpadas, mas não levaram óleo consigo;",
+  "n": []
+ },
+ "Mat.25.4": {
+  "t": "as prudentes, porém, levaram óleo em vasilhas, junto com as suas lâmpadas.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "vasilhas",
+    "termo": "ἀγγείοις (angeiois)",
+    "titulo": "angeion, hápax",
+    "texto": "Recipiente, vaso. A diferença entre os grupos não está em dormir ou não (todas dormem, v. 5), mas em ter levado reserva para uma espera mais longa que o previsto."
+   }
+  ]
+ },
+ "Mat.25.5": {
+  "t": "Como o noivo demorava, todas cochilaram e adormeceram.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "cochilaram",
+    "termo": "ἐνύσταξαν (enystaxan)",
+    "titulo": "nystazō, raro",
+    "texto": "“Cochilar, cabecear de sono” (também 2Pe 2:3). O aoristo (“cochilaram”) e o imperfeito (“dormiam”) mostram o sono que vai vencendo. A demora do noivo retoma 24:48."
+   }
+  ]
+ },
+ "Mat.25.6": {
+  "t": "À meia-noite, ouviu-se um grito: ‘Aí vem o noivo! Saiam ao encontro dele!’",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Aí vem o noivo!",
+    "termo": "Ἰδοὺ ὁ νυμφίος",
+    "titulo": "“Eis o noivo!”",
+    "texto": "Lit. “Eis o noivo!”. O Textus Receptus e o Texto Bizantino acrescentam erchetai (“vem”), que a tradução já supõe."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "ao encontro dele",
+    "termo": "εἰς ἀπάντησιν (eis apantēsin)",
+    "titulo": "apantēsis, raro",
+    "texto": "Termo usado para a delegação que sai da cidade para receber uma autoridade e acompanhá-la na entrada (At 28:15). Paulo usa a mesma palavra para o encontro com o Senhor em 1Ts 4:17. Westcott-Hort omite autou (“dele”)."
+   }
+  ]
+ },
+ "Mat.25.7": {
+  "t": "Então todas aquelas virgens se levantaram e prepararam as suas lâmpadas.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "prepararam",
+    "termo": "ἐκόσμησαν (ekosmēsan)",
+    "titulo": "kosmeō",
+    "texto": "“Pôr em ordem, arrumar”: aparar o pavio ou os trapos e completar o óleo para que a chama ficasse viva."
+   }
+  ]
+ },
+ "Mat.25.8": {
+  "t": "As insensatas disseram às prudentes: ‘Deem-nos um pouco do seu óleo, porque as nossas lâmpadas estão se apagando’.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "estão se apagando",
+    "termo": "σβέννυνται (sbennyntai)",
+    "titulo": "presente",
+    "texto": "O presente mostra a chama que já está morrendo: elas tinham algum óleo, mas não o bastante para a espera."
+   }
+  ]
+ },
+ "Mat.25.9": {
+  "t": "Mas as prudentes responderam: ‘Pode ser que não chegue para nós e para vocês. É melhor irem aos que vendem e comprarem para vocês mesmas’.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Pode ser que não chegue",
+    "termo": "Μήποτε οὐ μὴ ἀρκέσῃ",
+    "titulo": "recusa ou prudência?",
+    "texto": "Lit. “Para que não aconteça que de modo nenhum seja suficiente”. A resposta não é egoísmo dentro da história: se dividissem o óleo, todas as tochas se apagariam no cortejo. Na aplicação, a prontidão não pode ser emprestada na última hora. O Texto Bizantino traz ouk em vez de ou mē, e acrescenta de (“mas”)."
+   }
+  ]
+ },
+ "Mat.25.10": {
+  "t": "Enquanto elas foram comprar, chegou o noivo; as que estavam prontas entraram com ele para a festa de casamento, e a porta foi fechada.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "festa de casamento",
+    "termo": "τοὺς γάμους (tous gamous)",
+    "titulo": "gamoi",
+    "texto": "O plural designa as festividades do casamento, como em 22:2-12. O banquete é imagem tradicional do Reino consumado (8:11; Is 25:6-8; Ap 19:9)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "e a porta foi fechada",
+    "termo": "καὶ ἐκλείσθη ἡ θύρα",
+    "titulo": "tarde demais",
+    "texto": "A frase curta tem força de sentença. Cf. a porta da arca, fechada pelo próprio Deus (Gn 7:16), já lembrada em 24:37-39, e Lc 13:24-25."
+   }
+  ]
+ },
+ "Mat.25.11": {
+  "t": "Mais tarde, chegaram também as outras virgens e disseram: ‘Senhor, Senhor, abra-nos a porta!’",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Senhor, Senhor",
+    "termo": "Κύριε κύριε",
+    "titulo": "eco de 7:21-23",
+    "texto": "O mesmo apelo duplo de 7:21-22, na boca de quem pensava ter direito de entrar. Dentro da história, é tratamento respeitoso ao noivo; na aplicação, é o clamor a Jesus. As maiúsculas seguem 7:21-22."
+   }
+  ]
+ },
+ "Mat.25.12": {
+  "t": "Mas ele respondeu: ‘Em verdade lhes digo: não conheço vocês’.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "não conheço vocês",
+    "termo": "οὐκ οἶδα ὑμᾶς (ouk oida hymas)",
+    "titulo": "fórmula de rejeição",
+    "texto": "Não é falta de informação, mas recusa de reconhecer relação, como em 7:23 (“Nunca os conheci”). Alguns veem aqui uma fórmula rabínica de afastamento."
+   }
+  ]
+ },
+ "Mat.25.13": {
+  "t": "Portanto, vigiem, porque vocês não sabem o dia nem a hora.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "o dia nem a hora",
+    "termo": "τὴν ἡμέραν οὐδὲ τὴν ὥραν",
+    "titulo": "acréscimo",
+    "texto": "O Textus Receptus e o Texto Bizantino acrescentam “em que o Filho do Homem vem”, daí a forma longa da ARC. O SBLGNT, Westcott-Hort, Tregelles e o NA28 terminam em “a hora”. O acréscimo explica corretamente o sentido (cf. 24:44), mas não está nas edições críticas."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "vigiem",
+    "termo": "γρηγορεῖτε (grēgoreite)",
+    "titulo": "vigiar e dormir",
+    "texto": "Como em 24:42. Todas as virgens dormiram (v. 5); vigiar, aqui, não é nunca dormir, mas estar preparado a qualquer hora."
+   }
+  ]
+ },
+ "Mat.25.14": {
+  "t": "Pois será como um homem que, ao partir de viagem, chamou os seus escravos e lhes confiou os seus bens.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Pois será como um homem",
+    "termo": "Ὥσπερ γὰρ ἄνθρωπος",
+    "titulo": "frase incompleta",
+    "texto": "Lit. “Pois, como um homem...”. A comparação começa sem terminar; o sentido é “o Reino será como...” (cf. v. 1). A tradução completa o verbo."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "os seus escravos",
+    "termo": "τοὺς ἰδίους δούλους (tous idious doulous)",
+    "titulo": "douloi: aqui “escravos”",
+    "texto": "Lit. “os seus próprios escravos”: o adjetivo idios sublinha que lhe pertencem. Era comum que senhores ricos confiassem negócios e dinheiro a escravos de confiança, que prestavam contas a eles. Como em 24:45-51 e 18:23-35, a APV usa “escravo” porque a relação de propriedade está no centro: o senhor confia o que é seu, pede contas, recompensa e castiga (ver notas em 8:9 e 24:45)."
+   }
+  ]
+ },
+ "Mat.25.15": {
+  "t": "A um deu cinco talentos, a outro dois e a outro um, a cada um segundo a sua capacidade; e partiu de viagem.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "talentos",
+    "termo": "τάλαντα (talanta)",
+    "titulo": "talanton",
+    "texto": "O talento era uma medida de peso e a maior unidade monetária: cerca de seis mil denários, o salário de uns seis mil dias de trabalho de um diarista (ver nota em 18:24). Mesmo um talento era uma fortuna. O uso de “talento” para “dom, aptidão”, em português e em outras línguas, nasceu da interpretação desta parábola; no texto, porém, o talento é dinheiro, e a aptidão é outra coisa: a “capacidade” (dynamis) de cada um."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "e partiu de viagem",
+    "termo": "καὶ ἀπεδήμησεν. εὐθέως",
+    "titulo": "eutheōs",
+    "texto": "O advérbio eutheōs (“imediatamente”) está no fim do v. 15 na numeração tradicional. O Textus Receptus o liga à partida (“e logo partiu”); o SBLGNT e as edições críticas o ligam pela pontuação ao que segue: o primeiro escravo foi “imediatamente” negociar. A APV segue as edições críticas e o traduz no v. 16."
+   }
+  ]
+ },
+ "Mat.25.16": {
+  "t": "Imediatamente, o que tinha recebido os cinco talentos foi negociar com eles e ganhou outros cinco.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "foi negociar com eles",
+    "termo": "πορευθεὶς ... ἠργάσατο ἐν αὐτοῖς",
+    "titulo": "“trabalhou com eles”",
+    "texto": "Lit. “indo, trabalhou com eles”, isto é, aplicou o dinheiro no comércio. O Textus Receptus e o Texto Bizantino trazem epoiēsen (“fez”) em vez de ekerdēsen (“ganhou”), e acrescentam “talentos” no fim; sem efeito no sentido."
+   }
+  ]
+ },
+ "Mat.25.17": {
+  "t": "Do mesmo modo, o que tinha recebido os dois ganhou outros dois.",
+  "n": []
+ },
+ "Mat.25.18": {
+  "t": "Mas o que tinha recebido um foi, cavou um buraco na terra e escondeu o dinheiro do seu senhor.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "cavou um buraco na terra",
+    "termo": "ὤρυξεν γῆν (ōryxen gēn)",
+    "titulo": "oryssō, raro",
+    "texto": "Lit. “cavou terra”. Enterrar era considerado um modo seguro de guardar valores (cf. 13:44). Segundo a tradição rabínica posterior, quem enterrava um depósito ficava livre de responsabilidade se ele se perdesse. O escravo protege a si mesmo, não os interesses do senhor."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "dinheiro",
+    "termo": "τὸ ἀργύριον (to argyrion)",
+    "titulo": "“prata”",
+    "texto": "Lit. “a prata”, palavra comum para dinheiro."
+   }
+  ]
+ },
+ "Mat.25.19": {
+  "t": "Depois de muito tempo, o senhor daqueles escravos voltou e acertou contas com eles.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "acertou contas",
+    "termo": "συναίρει λόγον (synairei logon)",
+    "titulo": "synairō, raro",
+    "texto": "Termo comercial: “ajustar as contas”, só em Mateus (aqui e em 18:23-24). Os verbos estão no presente histórico (“vem e acerta”), que dá vida à narração. “Depois de muito tempo” retoma o tema da demora (24:48; 25:5)."
+   }
+  ]
+ },
+ "Mat.25.20": {
+  "t": "O que tinha recebido os cinco talentos aproximou-se, trouxe outros cinco talentos e disse: ‘Senhor, o senhor me confiou cinco talentos; veja, ganhei outros cinco talentos’.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "ganhei outros cinco talentos",
+    "termo": "ἄλλα πέντε τάλαντα ἐκέρδησα",
+    "titulo": "lucro de cem por cento",
+    "texto": "O escravo dobrou o capital. O Textus Receptus e o Texto Bizantino acrescentam ep’ autois (“além deles”)."
+   }
+  ]
+ },
+ "Mat.25.21": {
+  "t": "O seu senhor lhe disse: ‘Muito bem, escravo bom e fiel! Você foi fiel no pouco; eu o porei à frente de muito. Entre na alegria do seu senhor’.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "escravo bom e fiel",
+    "termo": "δοῦλε ἀγαθὲ καὶ πιστέ",
+    "titulo": "a expressão tradicional",
+    "texto": "Na tradição de língua portuguesa a frase é conhecida como “servo bom e fiel”. A APV usa “escravo” nesta parábola pelas razões dadas no v. 14; o elogio é o mesmo: quem pertence inteiramente ao seu senhor é chamado bom e fiel."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "no pouco",
+    "termo": "ἐπὶ ὀλίγα (epi oliga)",
+    "titulo": "“sobre poucas coisas”",
+    "texto": "Cinco talentos eram uma fortuna, mas são “pouco” diante do que o senhor confiará depois. A recompensa da fidelidade é mais responsabilidade (24:47)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Entre na alegria do seu senhor",
+    "termo": "εἴσελθε εἰς τὴν χαρὰν τοῦ κυρίου σου",
+    "titulo": "a alegria",
+    "texto": "“Alegria” pode ser a própria festa (como em português “entrar na festa”) ou a comunhão no contentamento do senhor. Aqui a figura da parábola dá lugar à realidade: é a linguagem da salvação final, a participação no gozo do Senhor (cf. v. 10)."
+   }
+  ]
+ },
+ "Mat.25.22": {
+  "t": "Também se aproximou o que tinha recebido os dois talentos e disse: ‘Senhor, o senhor me confiou dois talentos; veja, ganhei outros dois talentos’.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "o que tinha recebido os dois talentos",
+    "termo": "ὁ τὰ δύο τάλαντα",
+    "titulo": "lambanō",
+    "texto": "O Textus Receptus e o Texto Bizantino trazem labōn (“o que recebeu”) e, no fim, ep’ autois (“além deles”); o SBLGNT e as edições críticas não. A tradução completa “tinha recebido”, implícito no texto crítico. Westcott-Hort omite de (“e”), sem efeito no sentido."
+   }
+  ]
+ },
+ "Mat.25.23": {
+  "t": "O seu senhor lhe disse: ‘Muito bem, escravo bom e fiel! Você foi fiel no pouco; eu o porei à frente de muito. Entre na alegria do seu senhor’.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Muito bem, escravo bom e fiel!",
+    "termo": "Εὖ, δοῦλε ἀγαθὲ καὶ πιστέ",
+    "titulo": "o mesmo elogio",
+    "texto": "As palavras são idênticas às do v. 21, embora o segundo escravo tenha ganhado menos. O senhor avalia a fidelidade com o que foi confiado a cada um, “segundo a sua capacidade” (v. 15), não a quantia."
+   }
+  ]
+ },
+ "Mat.25.24": {
+  "t": "Aproximou-se também o que tinha recebido um talento e disse: ‘Senhor, eu sabia que o senhor é um homem severo, que colhe onde não semeou e recolhe onde não espalhou.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "eu sabia que o senhor é um homem severo",
+    "termo": "ἔγνων σε ὅτι σκληρὸς εἶ ἄνθρωπος",
+    "titulo": "sklēros",
+    "texto": "Lit. “conheci-te que és homem duro”. Sklēros é “duro, exigente, implacável”. O escravo justifica a sua inércia com a imagem que faz do senhor; a parábola mostra que essa imagem é falsa diante da generosidade com os outros dois."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "recolhe onde não espalhou",
+    "termo": "συνάγων ὅθεν οὐ διεσκόρπισας",
+    "titulo": "a imagem agrícola",
+    "texto": "Diaskorpizō é “espalhar”: pode ser espalhar a semente na semeadura ou lançar o grão ao vento na debulha, para separar a palha. Nos dois casos, a acusação é a mesma: o senhor se aproveita do trabalho alheio."
+   }
+  ]
+ },
+ "Mat.25.25": {
+  "t": "Fiquei com medo, fui e escondi o seu talento na terra. Veja, aqui está o que é seu’.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "aqui está o que é seu",
+    "termo": "ἴδε ἔχεις τὸ σόν",
+    "titulo": "“tens o que é teu”",
+    "texto": "Lit. “eis, tens o que é teu”. O escravo devolve exatamente o que recebeu e se considera quite. Ele não perdeu nada, mas também não fez nada pelo senhor."
+   }
+  ]
+ },
+ "Mat.25.26": {
+  "t": "O seu senhor lhe respondeu: ‘Escravo mau e preguiçoso! Você sabia que colho onde não semeei e recolho onde não espalhei?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "preguiçoso",
+    "termo": "ὀκνηρέ (oknēre)",
+    "titulo": "oknēros, raro",
+    "texto": "“Hesitante, preguiçoso, que adia” (também Rm 12:11; Fp 3:1). O contrário do “imediatamente” do primeiro escravo (v. 16)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Você sabia que colho onde não semeei",
+    "termo": "ᾔδεις ὅτι θερίζω ὅπου οὐκ ἔσπειρα",
+    "titulo": "pergunta ou afirmação?",
+    "texto": "A frase pode ser lida como afirmação (“Você sabia...”) ou como pergunta irônica. Em qualquer caso, o senhor não admite a acusação: ele argumenta a partir das palavras do próprio escravo. Se pensava assim, devia ao menos ter agido de acordo (v. 27)."
+   }
+  ]
+ },
+ "Mat.25.27": {
+  "t": "Então você devia ter entregado o meu dinheiro aos banqueiros, e, ao voltar, eu teria recebido o que é meu com juros.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "banqueiros",
+    "termo": "τοῖς τραπεζίταις (tois trapezitais)",
+    "titulo": "trapezitēs, hápax",
+    "texto": "De trapeza, “mesa”: os cambistas e banqueiros que recebiam depósitos e emprestavam a juros. A Lei proibia cobrar juros de um israelita pobre (Êx 22:25; Dt 23:19-20), mas a parábola usa a prática comercial da época sem tratar da sua ética."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "juros",
+    "termo": "τόκῳ (tokō)",
+    "titulo": "tokos, raro",
+    "texto": "Lit. “fruto, descendência”: o que o dinheiro “gera”. Só aqui e em Lc 19:23. Tregelles, o Textus Receptus e o Texto Bizantino trazem “o meu dinheiro” no singular (to argyrion); sem efeito na tradução."
+   }
+  ]
+ },
+ "Mat.25.28": {
+  "t": "Portanto, tirem dele o talento e deem-no ao que tem os dez talentos.",
+  "n": []
+ },
+ "Mat.25.29": {
+  "t": "Pois a todo aquele que tem, mais será dado, e ele terá em abundância; mas, daquele que não tem, até o que tem lhe será tirado.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "a todo aquele que tem, mais será dado",
+    "termo": "τῷ γὰρ ἔχοντι παντὶ δοθήσεται",
+    "titulo": "o princípio de 13:12",
+    "texto": "O mesmo dito de 13:12, ali sobre ouvir as parábolas. Quem usa o que recebeu de Deus recebe mais; quem o enterra perde até o que tinha. Não é regra econômica, mas lei do Reino."
+   }
+  ]
+ },
+ "Mat.25.30": {
+  "t": "E quanto ao escravo inútil, lancem-no para fora, nas trevas exteriores. Ali haverá choro e ranger de dentes’.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "inútil",
+    "termo": "ἀχρεῖον (achreion)",
+    "titulo": "achreios, raro",
+    "texto": "“Sem proveito, inútil” (também Lc 17:10). O escravo não roubou nem desperdiçou; foi julgado por não ter feito nada com o que recebeu."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "trevas exteriores",
+    "termo": "τὸ σκότος τὸ ἐξώτερον",
+    "titulo": "o juízo",
+    "texto": "A mesma linguagem de 8:12 e 22:13 (ver notas ali). Aqui a parábola deixa de ser só uma história de negócios: o destino do escravo é o de quem fica fora do Reino."
+   }
+  ]
+ },
+ "Mat.25.31": {
+  "t": "Quando o Filho do Homem vier na sua glória, e todos os anjos com ele, então se assentará no seu trono glorioso.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Quando o Filho do Homem vier na sua glória",
+    "termo": "Ὅταν δὲ ἔλθῃ ὁ υἱὸς τοῦ ἀνθρώπου ἐν τῇ δόξῃ αὐτοῦ",
+    "titulo": "o juízo final",
+    "texto": "O fim do discurso deixa as parábolas e descreve o juízo. Ecoa Dn 7:9-14 (tronos, o juízo, o filho de homem que recebe domínio sobre todos os povos) e Zc 14:5 (“o SENHOR virá, e todos os santos com ele”). O mesmo quadro aparece em 16:27 e 19:28. Em 1 Enoque (62; 69), escrito judaico dos séculos anteriores, o Filho do Homem também se assenta “no trono da sua glória” para julgar."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "no seu trono glorioso",
+    "termo": "ἐπὶ θρόνου δόξης αὐτοῦ",
+    "titulo": "“trono da sua glória”",
+    "texto": "Lit. “no trono da sua glória”, genitivo hebraizante; a mesma expressão de 19:28. O Filho do Homem ocupa o lugar de juiz que o AT atribui a Deus (Jl 3:12; Sl 9:7-8)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "todos os anjos",
+    "termo": "πάντες οἱ ἄγγελοι",
+    "titulo": "“santos anjos”",
+    "texto": "O Textus Receptus e o Texto Bizantino trazem “todos os santos anjos”. O SBLGNT, Westcott-Hort, Tregelles e o NA28 não trazem “santos”."
+   }
+  ]
+ },
+ "Mat.25.32": {
+  "t": "Todas as nações serão reunidas diante dele, e ele separará as pessoas umas das outras, como o pastor separa as ovelhas dos cabritos.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "separará as pessoas umas das outras",
+    "termo": "ἀφορίσει αὐτοὺς ἀπ᾽ ἀλλήλων",
+    "titulo": "o pronome masculino",
+    "texto": "Ethnē (“nações”) é neutro, mas o pronome autous é masculino: o juízo não separa nações inteiras, mas pessoas de todas as nações. Por isso “as pessoas”, em vez de “umas das outras” sozinho, que sugeriria povos."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Todas as nações",
+    "termo": "πάντα τὰ ἔθνη (panta ta ethnē)",
+    "titulo": "quem é julgado?",
+    "texto": "A maioria entende toda a humanidade, inclusive Israel e os discípulos (cf. 24:14; 28:19). Outros entendem ta ethnē no sentido de “os gentios”, os povos que ouviram o evangelho por meio dos discípulos, julgados pelo modo como os trataram (ver nota no v. 40). Na teologia dispensacionalista, trata-se do juízo das nações vivas na volta de Cristo, antes do reino milenar."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "cabritos",
+    "termo": "τῶν ἐρίφων (tōn eriphōn)",
+    "titulo": "eriphos, raro",
+    "texto": "Eriphos é o cabrito, e eriphion (v. 33, hápax), o seu diminutivo; designam as cabras em geral. Na Palestina, ovelhas e cabras pastavam juntas e eram separadas pelo pastor, por exemplo à noite. Cf. Ez 34:17: “julgarei entre ovelha e ovelha, entre carneiros e bodes”. “Bodes”, tradicional, é possível; “cabritos” é mais próximo do grego."
+   }
+  ]
+ },
+ "Mat.25.33": {
+  "t": "Ele porá as ovelhas à sua direita e os cabritos à esquerda.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "à esquerda",
+    "termo": "ἐξ εὐωνύμων (ex euōnymōn)",
+    "titulo": "“do lado de bom nome”",
+    "texto": "Euōnymos (“de bom nome”) era o eufemismo grego para “esquerdo”, lado considerado de mau agouro. A direita é o lugar de honra (Sl 110:1)."
+   }
+  ]
+ },
+ "Mat.25.34": {
+  "t": "Então o Rei dirá aos que estiverem à sua direita: ‘Venham, benditos de meu Pai! Herdem o Reino que lhes foi preparado desde a fundação do mundo.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "o Rei",
+    "termo": "ὁ βασιλεὺς (ho basileus)",
+    "titulo": "o Filho do Homem é Rei",
+    "texto": "O Filho do Homem do v. 31 é chamado agora de Rei: é o Messias davídico (2:2; 21:5; 27:37), que recebe o reino de Dn 7:14. Maiúscula porque o título designa diretamente Jesus, e não um personagem de parábola."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "que lhes foi preparado desde a fundação do mundo",
+    "termo": "τὴν ἡτοιμασμένην ὑμῖν βασιλείαν ἀπὸ καταβολῆς κόσμου",
+    "titulo": "graça e obras",
+    "texto": "O Reino é herança preparada por Deus antes de qualquer ato humano (cf. Ef 1:4); não é salário. Ao mesmo tempo, o juízo é feito segundo as obras (16:27; Rm 2:6; 2Co 5:10). As tradições explicam a relação de modos diferentes: para a tradição protestante, as obras são o fruto e a evidência da fé que recebe a graça; para a católica e a ortodoxa, as obras feitas na graça têm valor real diante de Deus, também como dom dele. Todas concordam que a fé viva se mostra no amor concreto."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Herdem",
+    "termo": "κληρονομήσατε (klēronomēsate)",
+    "titulo": "klēronomeō",
+    "texto": "“Receber como herança”: o que se recebe por ser filho, não por pagamento. “Benditos de meu Pai” liga a herança à filiação."
+   }
+  ]
+ },
+ "Mat.25.35": {
+  "t": "Pois eu tive fome, e vocês me deram de comer; tive sede, e vocês me deram de beber; era forasteiro, e vocês me acolheram;",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "forasteiro",
+    "termo": "ξένος (xenos)",
+    "titulo": "xenos",
+    "texto": "O estrangeiro ou o de fora, sem casa nem parentes no lugar, que dependia da hospitalidade (cf. Hb 13:2). “Acolheram” traduz synēgagete, lit. “recolheram (em casa)”."
+   }
+  ]
+ },
+ "Mat.25.36": {
+  "t": "estava nu, e vocês me vestiram; fiquei doente, e vocês me visitaram; estava na prisão, e vocês foram me ver’.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "nu",
+    "termo": "γυμνὸς (gymnos)",
+    "titulo": "gymnos",
+    "texto": "Também “mal vestido”, sem a roupa necessária (cf. Tg 2:15)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "visitaram",
+    "termo": "ἐπεσκέψασθέ (epeskepsasthe)",
+    "titulo": "episkeptomai",
+    "texto": "Visitar para cuidar e ajudar, não só para ver (cf. Tg 1:27). Os presos dependiam de parentes e amigos para comer."
+   }
+  ]
+ },
+ "Mat.25.37": {
+  "t": "Então os justos lhe responderão: ‘Senhor, quando foi que te vimos com fome e te demos de comer, ou com sede e te demos de beber?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "te vimos",
+    "termo": "σε εἴδομεν",
+    "titulo": "tratamento",
+    "texto": "Diante do Rei no juízo, os justos falam a Jesus como se fala a Deus; por isso “tu”, como em 7:22."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "quando foi que te vimos",
+    "termo": "πότε σε εἴδομεν",
+    "titulo": "a surpresa",
+    "texto": "Os justos não sabiam que serviam ao Rei; agiram por amor, não por cálculo. A surpresa dos dois grupos (v. 44) é parte central da cena."
+   }
+  ]
+ },
+ "Mat.25.38": {
+  "t": "Quando foi que te vimos forasteiro e te acolhemos, ou nu e te vestimos?",
+  "n": []
+ },
+ "Mat.25.39": {
+  "t": "Quando foi que te vimos doente ou na prisão e fomos te visitar?’",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "doente",
+    "termo": "ἀσθενοῦντα (asthenounta)",
+    "titulo": "forma",
+    "texto": "O Textus Receptus e o Texto Bizantino trazem o adjetivo asthenē em vez do particípio; mesmo sentido."
+   }
+  ]
+ },
+ "Mat.25.40": {
+  "t": "E o Rei lhes responderá: ‘Em verdade lhes digo: sempre que o fizeram a um destes meus irmãos mais pequeninos, foi a mim que o fizeram’.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "um destes meus irmãos mais pequeninos",
+    "termo": "ἑνὶ τούτων τῶν ἀδελφῶν μου τῶν ἐλαχίστων",
+    "titulo": "quem são?",
+    "texto": "As principais leituras: (1) qualquer pessoa necessitada, com quem Cristo se identifica; leitura muito difundida, sobretudo nos dois últimos séculos, e base de grande parte do ensino social cristão; (2) os discípulos de Jesus, sobretudo os mensageiros enviados às nações: em Mateus, “irmãos” de Jesus são os seus discípulos (12:48-50; 28:10), e “um destes pequeninos” é o discípulo enviado (10:40-42; 18:6, 10); leitura frequente na igreja antiga e em muitos comentaristas atuais; (3) o povo judeu, na teologia dispensacionalista. A segunda leitura é a mais próxima do vocabulário de Mateus; a primeira se apoia no caráter universal da cena e no amor ao próximo ensinado em toda a Escritura (22:39; Lc 10:29-37; Gl 6:10)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "sempre que",
+    "termo": "ἐφ᾽ ὅσον (eph’ hoson)",
+    "titulo": "eph’ hoson",
+    "texto": "“Na medida em que, todas as vezes que”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "mais pequeninos",
+    "termo": "τῶν ἐλαχίστων (tōn elachistōn)",
+    "titulo": "elachistos",
+    "texto": "Superlativo de mikros (“pequeno”): “os menores”, os de menos importância aos olhos do mundo (cf. 5:19; 10:42)."
+   }
+  ]
+ },
+ "Mat.25.41": {
+  "t": "Então dirá também aos que estiverem à sua esquerda: ‘Afastem-se de mim, malditos, para o fogo eterno, preparado para o Diabo e os seus anjos.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "preparado para o Diabo e os seus anjos",
+    "termo": "τὸ ἡτοιμασμένον τῷ διαβόλῳ καὶ τοῖς ἀγγέλοις αὐτοῦ",
+    "titulo": "uma assimetria",
+    "texto": "O Reino foi preparado “para vocês” (v. 34); o fogo, não para os seres humanos, mas para o Diabo e os seus anjos (cf. Ap 20:10). Também não se diz “malditos de meu Pai”, em paralelo com “benditos de meu Pai”. Muitos veem aqui que Deus não destina ninguém à perdição como fim próprio, embora o texto não trate dessa questão diretamente. Westcott-Hort omite o artigo antes de “malditos”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Afastem-se de mim",
+    "termo": "Πορεύεσθε ἀπ᾽ ἐμοῦ",
+    "titulo": "a separação",
+    "texto": "Lit. “Vão-se de mim”. O centro do juízo é a separação de Cristo (cf. 7:23; 2Ts 1:9)."
+   }
+  ]
+ },
+ "Mat.25.42": {
+  "t": "Pois eu tive fome, e vocês não me deram de comer; tive sede, e vocês não me deram de beber;",
+  "n": []
+ },
+ "Mat.25.43": {
+  "t": "era forasteiro, e vocês não me acolheram; estava nu, e vocês não me vestiram; doente e na prisão, e vocês não me visitaram’.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "doente e na prisão",
+    "termo": "ἀσθενὴς καὶ ἐν φυλακῇ",
+    "titulo": "abreviação",
+    "texto": "A lista se abrevia no fim, juntando os dois últimos casos. O pecado aqui é de omissão: não se acusa nenhum ato de violência, só o bem que não se fez."
+   }
+  ]
+ },
+ "Mat.25.44": {
+  "t": "Então também eles responderão: ‘Senhor, quando foi que te vimos com fome, ou com sede, ou forasteiro, ou nu, ou doente, ou na prisão, e não te servimos?’",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "não te servimos",
+    "termo": "οὐ διηκονήσαμέν σοι (ou diēkonēsamen soi)",
+    "titulo": "diakoneō",
+    "texto": "Lit. “não te servimos”, o verbo do serviço à mesa e do serviço em geral (20:28). Eles teriam servido, dizem, se soubessem que era o Rei. O Textus Receptus acrescenta autō (“lhe responderão”)."
+   }
+  ]
+ },
+ "Mat.25.45": {
+  "t": "Então ele lhes responderá: ‘Em verdade lhes digo: sempre que deixaram de fazê-lo a um destes mais pequeninos, foi a mim que deixaram de fazê-lo’.",
+  "n": []
+ },
+ "Mat.25.46": {
+  "t": "E estes irão para o castigo eterno, mas os justos, para a vida eterna.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "castigo eterno",
+    "termo": "κόλασιν αἰώνιον (kolasin aiōnion)",
+    "titulo": "kolasis, raro",
+    "texto": "Kolasis (também 1Jo 4:18) é “castigo, punição”. No grego clássico, alguns autores a distinguiam da vingança como castigo que corrige; mas no grego da época do NT a palavra é usada para punição em geral. O mesmo adjetivo aiōnios qualifica o castigo e a vida. A leitura tradicional, já defendida por Agostinho com base nesse paralelo (A Cidade de Deus 21.23), é a de castigo consciente e sem fim. Alguns teólogos evangélicos (por exemplo, John Stott, com cautela) defendem a imortalidade condicional: o castigo é eterno no seu efeito, a destruição definitiva. Os universalistas leem kolasis como correção temporária, leitura que tem dificuldade com o paralelo com “vida eterna”. A APV traduz sem suavizar."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "para a vida eterna",
+    "termo": "εἰς ζωὴν αἰώνιον",
+    "titulo": "Daniel 12:2",
+    "texto": "Eco de Dn 12:2: “uns para a vida eterna, outros para a vergonha e o horror eterno”. Assim termina o último grande discurso de Jesus em Mateus."
+   }
+  ]
  }
 }

@@ -3,78 +3,104 @@
   "ref": "Mrk.14.38",
   "gravidade": "media",
   "problema": "Nota sobre 'espírito disposto' afirma que Sl 51:12 na Septuaginta traz 'espírito disposto'. A LXX (Sl 50:14) traz pneumati hēgemonikō ('espírito guia/soberano'); 'disposto' (nedivah) é do hebraico. A ligação com prothymos não vale para a LXX.",
-  "sugestao": "Trocar por: 'Alguns entendem espírito como o Espírito de Deus, que dá prontidão (cf. Sl 51:12, no hebraico: “espírito disposto”)'; ou retirar a referência."
+  "sugestao": "Trocar por: 'Alguns entendem espírito como o Espírito de Deus, que dá prontidão (cf. Sl 51:12, no hebraico: “espírito disposto”)'; ou retirar a referência.",
+  "decisao": "aceito",
+  "motivo": "A Septuaginta (Sl 50:14) traz pneumati hēgemonikō; corrigido para “no hebraico”."
  },
  {
   "ref": "Mrk.15.2",
   "gravidade": "media",
   "problema": "A nota diz que o título 'rei dos judeus' volta seis vezes (vv. 2, 9, 12, 18, 26, 32). No v. 32 o texto traz 'rei de Israel' (e a própria nota 15:32 diz isso). Com 'dos judeus' são cinco ocorrências (vv. 2, 9, 12, 18, 26).",
-  "sugestao": "Escrever 'volta cinco vezes no capítulo (vv. 2, 9, 12, 18, 26)' e, se quiser, acrescentar que no v. 32 os líderes dizem 'rei de Israel'."
+  "sugestao": "Escrever 'volta cinco vezes no capítulo (vv. 2, 9, 12, 18, 26)' e, se quiser, acrescentar que no v. 32 os líderes dizem 'rei de Israel'.",
+  "decisao": "aceito",
+  "motivo": "No v. 32 é “rei de Israel”; agora são cinco ocorrências, com menção ao v. 32."
  },
  {
   "ref": "Mrk.15.28",
   "gravidade": "media",
   "problema": "Nota tc cita ℵ, A, B, C e D como testemunhas da omissão: o aparato oficial do SBLGNT não lista manuscritos, e o guia proíbe citar ℵ/B/D sem confirmação nas fontes. Além disso, atribui a Metzger a afirmação 'Marcos raramente comenta o cumprimento das Escrituras com fórmulas desse tipo', que não é confirmada e é fraca (Mc 14:49 usa 'para que se cumpram as Escrituras').",
-  "sugestao": "Reescrever: 'Falta nos manuscritos gregos mais antigos e em boa parte da tradição; o SBLGNT, Westcott-Hort e o NA28 não o trazem; Tregelles, o Textus Receptus e o Texto Bizantino o trazem.' Retirar a lista de códices e a frase atribuída a Metzger (ou citar Metzger só para a origem a partir de Lc 22:37, se confirmado)."
+  "sugestao": "Reescrever: 'Falta nos manuscritos gregos mais antigos e em boa parte da tradição; o SBLGNT, Westcott-Hort e o NA28 não o trazem; Tregelles, o Textus Receptus e o Texto Bizantino o trazem.' Retirar a lista de códices e a frase atribuída a Metzger (ou citar Metzger só para a origem a partir de Lc 22:37, se confirmado).",
+  "decisao": "aceito",
+  "motivo": "Tirei as siglas dos manuscritos e a frase atribuída a Metzger; fica a redação genérica e a origem em Lc 22:37."
  },
  {
   "ref": "Mrk.14.70",
   "gravidade": "media",
   "problema": "Nota tc diz que o SBLGNT e o Bizantino trazem 'e o seu modo de falar é parecido com o deles' e que WH e Tregelles não a trazem, mas o aparato do SBLGNT mostra que o NA28 também omite ('RP ] – WH Treg NA28'). O leitor fica sem saber que todas as outras edições críticas omitem e que o SBLGNT é o único crítico a trazê-la; o TR também não é mencionado.",
-  "sugestao": "Acrescentar: 'Westcott-Hort, Tregelles e o NA28 não a trazem; o SBLGNT e o Texto Bizantino a trazem.' Dizer que a frase é a única diferença relevante entre o SBLGNT e o NA28 aqui."
+  "sugestao": "Acrescentar: 'Westcott-Hort, Tregelles e o NA28 não a trazem; o SBLGNT e o Texto Bizantino a trazem.' Dizer que a frase é a única diferença relevante entre o SBLGNT e o NA28 aqui.",
+  "decisao": "aceito em parte",
+  "motivo": "Acrescentei o TR e disse que aqui o SBLGNT se afasta de outras edições críticas. Não atribuí leitura ao NA28: o TAGNT e o aparato discordam (regra nova do guia)."
  },
  {
   "ref": "Mrk.14.30",
   "gravidade": "baixa",
   "problema": "Nota diz que 'alguns manuscritos omitem “duas vezes” aqui e nos vv. 68 e 72'. No v. 68 não há 'duas vezes': a variante é a omissão de toda a oração 'e um galo cantou'; no v. 72 as variantes são a ordem de 'duas vezes' e 'pela segunda vez' (ek deuterou).",
-  "sugestao": "Reformular: 'Alguns manuscritos omitem “duas vezes” aqui, e há variantes parecidas no v. 72 e na primeira menção do galo no v. 68, provavelmente para harmonizar com os outros Evangelhos.'"
+  "sugestao": "Reformular: 'Alguns manuscritos omitem “duas vezes” aqui, e há variantes parecidas no v. 72 e na primeira menção do galo no v. 68, provavelmente para harmonizar com os outros Evangelhos.'",
+  "decisao": "aceito",
+  "motivo": "Reformulado: “duas vezes” falta aqui; nos vv. 68 e 72 há variantes parecidas."
  },
  {
   "ref": "Mrk.14.41",
   "gravidade": "baixa",
   "problema": "Nota apresenta 'Durmam agora e descansem!' como citação da ARC. A ARC diz 'Dormi agora e repousai'; o texto citado é versão modernizada, e a guia manda citar no máximo palavra ou expressão de traduções protegidas.",
-  "sugestao": "Trocar por 'a leitura imperativa (“durmam agora e descansem”), como na tradição de Almeida'."
+  "sugestao": "Trocar por 'a leitura imperativa (“durmam agora e descansem”), como na tradição de Almeida'.",
+  "decisao": "aceito",
+  "motivo": "Agora “como na tradição de Almeida”, sem citação literal da ARC."
  },
  {
   "ref": "Mrk.14.26",
   "gravidade": "baixa",
   "problema": "A tradução põe 'os salmos' no texto principal, mas o grego diz só hymnēsantes ('tendo cantado hinos/louvor'). O acréscimo interpretativo (Hallel) vai para o texto e não para a nota, contra o guia (não acrescentar interpretação ao texto).",
-  "sugestao": "Texto: 'Depois de cantarem um hino, saíram...' e deixar 'o Hallel (Sl 113-118)' só na nota."
+  "sugestao": "Texto: 'Depois de cantarem um hino, saíram...' e deixar 'o Hallel (Sl 113-118)' só na nota.",
+  "decisao": "aceito",
+  "motivo": "Texto: “Depois de cantarem um hino”; o Hallel fica só na nota."
  },
  {
   "ref": "Mrk.14.65",
   "gravidade": "baixa",
   "problema": "'E os guardas o receberam a bofetadas' é ambíguo em português (pode soar como 'acolheram'); o grego é ῥαπίσμασιν αὐτὸν ἔλαβον, idiomático.",
-  "sugestao": "'E os guardas o recebiam com bofetadas' ou 'o agarraram dando-lhe bofetadas' (com a nota atual explicando o literal)."
+  "sugestao": "'E os guardas o recebiam com bofetadas' ou 'o agarraram dando-lhe bofetadas' (com a nota atual explicando o literal).",
+  "decisao": "aceito em parte",
+  "motivo": "Para evitar o sentido de “acolheram”: “o trataram a bofetadas”, com o literal na nota. A sugestão “recebiam” ainda soaria como acolher."
  },
  {
   "ref": "Mrk.14.67",
   "gravidade": "baixa",
   "problema": "Ναζαρηνός é 'o nazareno' em 14:67 e 'de Nazaré' em 16:6. As duas notas remetem a 10:47, mas o texto não é uniforme.",
-  "sugestao": "Escolher uma forma só (p. ex. 'o nazareno' nos dois lugares, ou 'Jesus de Nazaré' nos dois)."
+  "sugestao": "Escolher uma forma só (p. ex. 'o nazareno' nos dois lugares, ou 'Jesus de Nazaré' nos dois).",
+  "decisao": "aceito",
+  "motivo": "Uniformizado como “Jesus de Nazaré” (1:24; 10:47; 16:6); a nota registra a ordem grega."
  },
  {
   "ref": "Mrk.15.25",
   "gravidade": "baixa",
   "problema": "Nota diz que Marcos marca a Paixão 'de três em três horas (15:1, 25, 33, 34, 42)'. 15:1 ('de manhã') e 15:42 ('ao cair da tarde') não são horas numeradas; só 15:25, 33 e 34 são.",
-  "sugestao": "Citar apenas 15:25, 33, 34 (horas terceira, sexta, nona) e dizer que o dia vai de manhã a tarde."
+  "sugestao": "Citar apenas 15:25, 33, 34 (horas terceira, sexta, nona) e dizer que o dia vai de manhã a tarde.",
+  "decisao": "aceito",
+  "motivo": "Só as horas numeradas (15:25, 33, 34), com 15:1 e 15:42 como manhã e tarde."
  },
  {
   "ref": "Mrk.15.45",
   "gravidade": "baixa",
   "problema": "Nota afirma 'Era comum que governadores vendessem a liberação de corpos de executados', sem fonte; é dado histórico não confirmado.",
-  "sugestao": "Retirar a frase ou suavizar: 'Alguns estudiosos supõem que a liberação do corpo pudesse envolver pagamento, mas o texto diz que Pilatos o deu de presente.'"
+  "sugestao": "Retirar a frase ou suavizar: 'Alguns estudiosos supõem que a liberação do corpo pudesse envolver pagamento, mas o texto diz que Pilatos o deu de presente.'",
+  "decisao": "aceito",
+  "motivo": "Tirei o dado histórico sem fonte."
  },
  {
   "ref": "Mrk.16.9",
   "gravidade": "baixa",
   "problema": "Nota tc diz que Eusébio e Jerônimo falam de 'cópias gregas exatas'. 'Cópias exatas' (akribē antigrapha) é de Eusébio; Jerônimo fala de 'quase todos os códices gregos' (Ad Hedibiam). Atribuir a mesma fórmula aos dois é impreciso.",
-  "sugestao": "Escrever: 'Eusébio diz que faltavam nas cópias exatas; Jerônimo, que faltavam em quase todos os códices gregos.' O restante da nota (Ireneu 3.10.5, Taciano, Burgon, Farmer, logion de Freer) confere."
+  "sugestao": "Escrever: 'Eusébio diz que faltavam nas cópias exatas; Jerônimo, que faltavam em quase todos os códices gregos.' O restante da nota (Ireneu 3.10.5, Taciano, Burgon, Farmer, logion de Freer) confere.",
+  "decisao": "aceito",
+  "motivo": "Eusébio: “cópias exatas”; Jerônimo: “quase todos os códices gregos”."
  },
  {
   "ref": "Mrk.16.17",
   "gravidade": "baixa",
   "problema": "Nota tc diz que WH e Tregelles trazem 'a ordem akolouthēsei tauta', mas a variante também troca o verbo (akolouthēsei no lugar de parakolouthēsei do SBLGNT/NA28).",
-  "sugestao": "'Westcott-Hort e Tregelles trazem akolouthēsei tauta (outro verbo, “seguirão”, e outra ordem), sem diferença importante de sentido.'"
+  "sugestao": "'Westcott-Hort e Tregelles trazem akolouthēsei tauta (outro verbo, “seguirão”, e outra ordem), sem diferença importante de sentido.'",
+  "decisao": "aceito",
+  "motivo": "A nota diz agora que é outro verbo (akolouthēsei) e outra ordem."
  }
 ]

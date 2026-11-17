@@ -960,5 +960,415 @@
     "texto": "O perfeito apresenta a vitória como já conquistada, embora a cruz ainda esteja à frente: Jesus fala do resultado como certo. A vitória dele é a base da coragem dos discípulos (1Jo 5:4-5; Ap 3:21). É a última palavra do discurso antes da oração do cap. 17."
    }
   ]
+ },
+ "Jhn.17.1": {
+  "t": "Depois de dizer essas coisas, Jesus ergueu os olhos para o céu e disse: “Pai, chegou a hora. Glorifica o teu Filho, para que o Filho te glorifique,",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Pai, chegou a hora",
+    "termo": "Πάτερ, ἐλήλυθεν ἡ ὥρα (Pater, elēlythen hē hōra)",
+    "titulo": "a oração do cap. 17",
+    "texto": "O capítulo inteiro é uma oração de Jesus ao Pai, no fim da última ceia. Desde o século XVI (com o teólogo luterano David Chytraeus) é chamada “oração sacerdotal”, porque nela Jesus se consagra pelo seu povo (v. 19) e intercede por ele, como o sumo sacerdote. Jesus chama Deus simplesmente “Pai” (vv. 1, 5, 11, 21, 24, 25), provavelmente o aramaico Abba (Mc 14:36). A “hora”, anunciada desde Caná como ainda não chegada (2:4; 7:30; 8:20), chegou (12:23; 13:1): é a hora da cruz e da glorificação. Na oração, o Filho trata o Pai por “tu”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Glorifica o teu Filho",
+    "termo": "δόξασόν σου τὸν υἱόν (doxason sou ton huion)",
+    "titulo": "glorificar",
+    "texto": "Em João, a glorificação de Jesus inclui a cruz: é ali que o amor e a obediência do Filho mostram o que Deus é (12:23-28; 13:31-32), e é por ela que ele volta à glória que tinha (v. 5). O Filho pede ser glorificado para glorificar o Pai: o pedido não é egoísta. O TR e o Texto Bizantino trazem “o teu Filho te glorifique” (sou depois de huios) e kai antes de “o Filho”; trazem também “ergueu os olhos ... e disse” com dois verbos finitos. Sem efeito no sentido."
+   }
+  ]
+ },
+ "Jhn.17.2": {
+  "t": "assim como lhe deste autoridade sobre toda a humanidade, para que ele dê a vida eterna a todos os que lhe deste.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "toda a humanidade",
+    "termo": "πάσης σαρκός (pasēs sarkos)",
+    "titulo": "“toda carne”",
+    "texto": "Lit. “toda carne”, expressão hebraica (kol basar) para todos os seres humanos (Gn 6:12; Is 40:5-6; Jl 2:28). Aqui sarx não tem sentido moral; designa a humanidade na sua fraqueza e dependência de Deus. Por clareza, “toda a humanidade”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "a todos os que lhe deste",
+    "termo": "πᾶν ὃ δέδωκας αὐτῷ ... αὐτοῖς (pan ho dedōkas autō ... autois)",
+    "titulo": "neutro e plural",
+    "texto": "Lit. “para que tudo o que lhe deste, ele dê a eles vida eterna”. O neutro singular (“tudo o que”) vê os discípulos como um conjunto, um todo dado pelo Pai ao Filho (6:37, 39; v. 24); o plural “a eles” os vê como pessoas. A tradução une as duas coisas em “todos os que”. Westcott-Hort e o Texto Bizantino trazem o futuro dōsei em vez do subjuntivo dōsē, sem efeito."
+   }
+  ]
+ },
+ "Jhn.17.3": {
+  "t": "E a vida eterna é esta: que te conheçam a ti, o único Deus verdadeiro, e a Jesus Cristo, a quem enviaste.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "que te conheçam",
+    "termo": "ἵνα γινώσκωσιν σὲ (hina ginōskōsin se)",
+    "titulo": "conhecer a Deus",
+    "texto": "Conhecer, na Bíblia, não é só saber a respeito: é ter relação pessoal, comunhão (Jr 31:34; Os 6:6; 1Jo 4:7-8). O versículo não define tudo o que é a vida eterna, mas diz em que ela consiste no essencial: comunhão com o Pai e com o Filho, que começa já agora (5:24)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "o único Deus verdadeiro, e a Jesus Cristo",
+    "termo": "τὸν μόνον ἀληθινὸν θεὸν καὶ ὃν ἀπέστειλας Ἰησοῦν Χριστόν",
+    "titulo": "o único Deus e o enviado",
+    "texto": "“O único Deus verdadeiro” opõe o Deus de Israel aos ídolos (1Ts 1:9; Is 37:20) e confirma o monoteísmo bíblico (Dt 6:4). O versículo já foi usado para negar a divindade de Jesus, mas põe o conhecimento de Jesus Cristo ao lado do conhecimento do Pai como conteúdo da vida eterna, algo impensável para uma simples criatura; e 1Jo 5:20 chama o próprio Jesus Cristo “o verdadeiro Deus e a vida eterna”. Jesus se nomeia na terceira pessoa (“Jesus Cristo”), coisa rara; alguns veem aqui uma formulação do evangelista na linguagem de fé da igreja, outros um modo solene de falar."
+   }
+  ]
+ },
+ "Jhn.17.4": {
+  "t": "Eu te glorifiquei na terra, completando a obra que me deste para fazer.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "completando a obra",
+    "termo": "τὸ ἔργον τελειώσας (to ergon teleiōsas)",
+    "titulo": "teleioō",
+    "texto": "Lit. “tendo completado a obra”. Teleioō é “levar ao fim, consumar”. Jesus fala da obra como já concluída, embora a cruz ainda esteja à frente: a oração olha a partir da hora que chegou. A última palavra na cruz usa o mesmo grupo de palavras: “Está consumado” (19:30; cf. 4:34; 5:36). O TR e o Texto Bizantino trazem o verbo finito eteleiōsa (“completei a obra”)."
+   }
+  ]
+ },
+ "Jhn.17.5": {
+  "t": "E agora, Pai, glorifica-me tu junto de ti mesmo, com a glória que eu tinha junto de ti antes que o mundo existisse.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "a glória que eu tinha junto de ti antes que o mundo existisse",
+    "termo": "τῇ δόξῃ ᾗ εἶχον πρὸ τοῦ τὸν κόσμον εἶναι παρὰ σοί",
+    "titulo": "a preexistência do Filho",
+    "texto": "Jesus fala da glória que tinha com o Pai antes da criação (cf. 1:1-2; 8:58; v. 24). O imperfeito “tinha” indica uma posse contínua, não um começo. Em Is 42:8 e 48:11, Deus diz que não dá a sua glória a outro; o Filho participa dessa glória desde sempre. O pedido é voltar, agora também como o Filho encarnado, à glória que deixou ao vir ao mundo (cf. Fp 2:6-11). É um dos textos centrais para a fé na eternidade do Filho, afirmada no Credo Niceno."
+   }
+  ]
+ },
+ "Jhn.17.6": {
+  "t": "Manifestei o teu nome às pessoas que me deste do mundo. Eram teus, e tu os deste a mim, e eles têm guardado a tua palavra.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "o teu nome",
+    "termo": "σου τὸ ὄνομα (sou to onoma)",
+    "titulo": "o nome de Deus",
+    "texto": "Na Bíblia, o “nome” é a própria pessoa revelada no seu caráter (Êx 3:13-15; 34:5-7; Sl 9:10). Jesus tornou conhecido quem Deus é: o Pai. Alguns pensam também no nome divino “Eu Sou”, que Jesus usa para si (8:58; 13:19; cf. v. 11, “o teu nome, que me deste”)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "têm guardado a tua palavra",
+    "termo": "τὸν λόγον σου τετήρηκαν (ton logon sou tetērēkan)",
+    "titulo": "perfeito",
+    "texto": "O perfeito descreve uma fidelidade que continua, apesar das fraquezas que Jesus conhece (13:38; 16:31-32). “Às pessoas” traduz tois anthrōpois (“aos homens”, em sentido genérico). O TR e o Texto Bizantino trazem o perfeito dedōkas em vez do aoristo edōkas (“deste”) duas vezes, sem efeito na tradução."
+   }
+  ]
+ },
+ "Jhn.17.7": {
+  "t": "Agora eles sabem que tudo o que me deste vem de ti;",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Agora eles sabem",
+    "termo": "νῦν ἔγνωκαν (nyn egnōkan)",
+    "titulo": "perfeito",
+    "texto": "Lit. “agora eles conheceram”: o perfeito indica um conhecimento alcançado e firme. Egnōkan é forma da língua comum para egnōkasin. Tregelles e o Texto Bizantino trazem o singular estin em vez de eisin (“é de ti”), e o TR omite o verbo; sem efeito."
+   }
+  ]
+ },
+ "Jhn.17.8": {
+  "t": "porque as palavras que me deste eu as dei a eles, e eles as receberam e reconheceram verdadeiramente que saí de junto de ti, e creram que tu me enviaste.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "reconheceram verdadeiramente",
+    "termo": "ἔγνωσαν ἀληθῶς (egnōsan alēthōs)",
+    "titulo": "conhecer e crer",
+    "texto": "Receber as palavras, conhecer e crer aparecem aqui juntos: em João, conhecer e crer não são duas etapas separadas, mas dois aspectos da mesma relação com Jesus (6:69; 16:30). O conteúdo é a origem de Jesus em Deus e a sua missão. O TR e o Texto Bizantino trazem dedōkas (“me tens dado”), sem efeito."
+   }
+  ]
+ },
+ "Jhn.17.9": {
+  "t": "Eu rogo por eles. Não rogo pelo mundo, mas por aqueles que me deste, porque são teus;",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Não rogo pelo mundo",
+    "termo": "οὐ περὶ τοῦ κόσμου ἐρωτῶ (ou peri tou kosmou erōtō)",
+    "titulo": "e o amor ao mundo?",
+    "texto": "Não significa que Jesus não ame o mundo (3:16) ou não queira a sua salvação: nos vv. 21 e 23 ele ora para que o mundo creia e saiba. Aqui o pedido é específico: a proteção e a santificação dos discípulos, que só cabe a quem pertence a Deus. Em Lc 23:34 Jesus ora pelos que o crucificam. Erōtaō é “rogar, pedir” (como em 16:26)."
+   }
+  ]
+ },
+ "Jhn.17.10": {
+  "t": "e tudo o que é meu é teu, e o que é teu é meu; e eu sou glorificado neles.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "tudo o que é meu é teu, e o que é teu é meu",
+    "termo": "τὰ ἐμὰ πάντα σά ἐστιν καὶ τὰ σὰ ἐμά",
+    "titulo": "a comunhão de bens",
+    "texto": "Qualquer crente pode dizer a Deus “tudo o que é meu é teu”; só o Filho pode acrescentar “e o que é teu é meu” (cf. 16:15). A frase expressa a plena comunhão entre o Pai e o Filho. O neutro plural (“as coisas minhas”) inclui os discípulos, mas vai além deles."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "eu sou glorificado neles",
+    "termo": "δεδόξασμαι ἐν αὐτοῖς (dedoxasmai en autois)",
+    "titulo": "perfeito",
+    "texto": "O perfeito indica uma glorificação já em curso: a fé e a fidelidade dos discípulos (vv. 6-8) honram o Filho. Ver 15:8."
+   }
+  ]
+ },
+ "Jhn.17.11": {
+  "t": "Já não estou no mundo; mas eles estão no mundo, e eu vou para ti. Pai santo, guarda-os no teu nome, que me deste, para que sejam um, assim como nós.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Já não estou no mundo",
+    "termo": "οὐκέτι εἰμὶ ἐν τῷ κόσμῳ (ouketi eimi en tō kosmō)",
+    "titulo": "olhando à frente",
+    "texto": "Jesus ainda está no mundo (v. 13), mas fala como quem já partiu: a oração é feita do ponto de vista da hora que chegou (ver nota no v. 4)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Pai santo",
+    "termo": "Πάτερ ἅγιε (Pater hagie)",
+    "titulo": "um vocativo único",
+    "texto": "Só aqui no NT Deus é chamado “Pai santo”. A santidade de Deus combina com o pedido: guardar os discípulos como povo separado para ele (vv. 17-19; Lv 11:44; 1Pe 1:15-16)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "no teu nome, que me deste",
+    "termo": "ἐν τῷ ὀνόματί σου ᾧ δέδωκάς μοι",
+    "titulo": "o nome dado ao Filho",
+    "texto": "No texto-base, o relativo hō concorda com “nome”: o Pai deu ao Filho o seu próprio nome (cf. Êx 23:21, “o meu nome está nele”; Fp 2:9). O TR traz hous (“guarda no teu nome aqueles que me deste”), forma que também aparece no Texto Bizantino no v. 12; é provavelmente uma correção da frase mais difícil. Tregelles, o TR e o Texto Bizantino trazem houtoi (“estes”) em vez de autoi (“eles”), sem efeito."
+   }
+  ]
+ },
+ "Jhn.17.12": {
+  "t": "Enquanto eu estava com eles, eu os guardava no teu nome, que me deste; eu os protegi, e nenhum deles se perdeu, a não ser o filho da perdição, para que se cumprisse a Escritura.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "o filho da perdição",
+    "termo": "ὁ υἱὸς τῆς ἀπωλείας (ho huios tēs apōleias)",
+    "titulo": "um jogo de palavras",
+    "texto": "Em grego há um jogo entre apōleto (“se perdeu”) e apōleias (“perdição”). “Filho de” é expressão hebraica para quem pertence a algo ou está destinado a algo (cf. “filhos da luz”, 12:36). A mesma expressão é usada em 2Ts 2:3 para o “homem da iniquidade”. Aqui é Judas (13:2, 27). O texto mostra ao mesmo tempo a responsabilidade dele e o cumprimento do plano anunciado na Escritura, sem resolver a tensão entre as duas coisas."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "para que se cumprisse a Escritura",
+    "termo": "ἵνα ἡ γραφὴ πληρωθῇ (hina hē graphē plērōthē)",
+    "titulo": "que Escritura?",
+    "texto": "Provavelmente o Sl 41:9, já citado em 13:18 a respeito de Judas (“quem come o meu pão levantou contra mim o calcanhar”). Em At 1:16-20, Pedro aplica a Judas os Sl 69:25 e 109:8."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "eu os guardava no teu nome, que me deste",
+    "termo": "ἐγὼ ἐτήρουν αὐτοὺς ἐν τῷ ὀνόματί σου ᾧ δέδωκάς μοι, καὶ ἐφύλαξα",
+    "titulo": "variantes",
+    "texto": "O TR e o Texto Bizantino trazem “enquanto eu estava com eles no mundo”, hous (“aqueles que me deste”) em vez de hō (ver nota no v. 11), e não trazem kai antes de “protegi”. O texto-base segue Westcott-Hort, Tregelles e o NA28."
+   }
+  ]
+ },
+ "Jhn.17.13": {
+  "t": "Mas agora vou para ti, e digo estas coisas no mundo para que eles tenham em si mesmos a minha alegria completa.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "a minha alegria completa",
+    "termo": "τὴν χαρὰν τὴν ἐμὴν πεπληρωμένην (tēn charan tēn emēn peplērōmenēn)",
+    "titulo": "alegria plena",
+    "texto": "Lit. “a minha alegria, cumprida (plena) neles”. Retoma 15:11 e 16:24. Jesus ora em voz alta (“digo estas coisas no mundo”) para que os discípulos ouçam e sejam consolados (cf. 11:42). O TR e o Texto Bizantino trazem autois (“neles”) em vez de heautois (“em si mesmos”), sem efeito."
+   }
+  ]
+ },
+ "Jhn.17.14": {
+  "t": "Eu lhes dei a tua palavra, e o mundo os odiou, porque não são do mundo, assim como eu não sou do mundo.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "não são do mundo",
+    "termo": "οὐκ εἰσὶν ἐκ τοῦ κόσμου (ouk eisin ek tou kosmou)",
+    "titulo": "origem e pertença",
+    "texto": "Ver nota em 15:19. A palavra de Deus recebida separa os discípulos do mundo quanto à origem e à lealdade, e por isso atrai o ódio do mundo (15:18-21)."
+   }
+  ]
+ },
+ "Jhn.17.15": {
+  "t": "Não rogo que os tires do mundo, mas que os guardes do Maligno.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "do Maligno",
+    "termo": "ἐκ τοῦ πονηροῦ (ek tou ponērou)",
+    "titulo": "“do Maligno” ou “do mal”",
+    "texto": "Tou ponērou pode ser masculino (“o Maligno”, o diabo) ou neutro (“o mal”). O uso joanino favorece o masculino: em 1Jo 2:13-14; 3:12; 5:18-19, ho ponēros é o diabo, e em João o “príncipe deste mundo” é o adversário presente na Paixão (12:31; 14:30; 16:11). Cf. Mt 6:13, com a mesma ambiguidade. “Do mal” também é tradução possível."
+   }
+  ]
+ },
+ "Jhn.17.16": {
+  "t": "Eles não são do mundo, assim como eu não sou do mundo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Eles não são do mundo",
+    "termo": "ἐκ τοῦ κόσμου οὐκ εἰσὶν (ek tou kosmou ouk eisin)",
+    "titulo": "repetição",
+    "texto": "Repete o v. 14, com “do mundo” em posição de ênfase no início da frase. A repetição prepara o pedido dos vv. 17-19: os que não são do mundo são consagrados e enviados ao mundo. O Texto Bizantino muda a ordem das últimas palavras, sem efeito."
+   }
+  ]
+ },
+ "Jhn.17.17": {
+  "t": "Santifica-os na verdade; a tua palavra é verdade.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Santifica-os",
+    "termo": "ἁγίασον αὐτοὺς (hagiason autous)",
+    "titulo": "hagiazō",
+    "texto": "Hagiazō é “tornar santo, consagrar”, isto é, separar para Deus e para o seu serviço. No AT, consagram-se sacerdotes, profetas e sacrifícios (Êx 28:41; 29:1; Jr 1:5). Aqui a consagração tem em vista a missão (v. 18). Inclui a purificação moral, mas o acento está em pertencer a Deus e ser posto a serviço dele."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "na verdade; a tua palavra é verdade",
+    "termo": "ἐν τῇ ἀληθείᾳ· ὁ λόγος ὁ σὸς ἀλήθειά ἐστιν",
+    "titulo": "a verdade e a palavra",
+    "texto": "“Na verdade” pode indicar o meio (“pela verdade”) ou a esfera (“dentro da verdade”); a frase seguinte mostra que a verdade é a palavra de Deus, a revelação trazida por Jesus (v. 14; 8:31-32). No fim, “verdade” vem sem artigo, como qualidade: a palavra de Deus é verdadeira por natureza (cf. 2Sm 7:28; Sl 119:142, 160). O TR e o Texto Bizantino trazem “na tua verdade”."
+   }
+  ]
+ },
+ "Jhn.17.18": {
+  "t": "Assim como tu me enviaste ao mundo, também eu os enviei ao mundo.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "também eu os enviei ao mundo",
+    "termo": "κἀγὼ ἀπέστειλα αὐτοὺς εἰς τὸν κόσμον",
+    "titulo": "a missão",
+    "texto": "A missão dos discípulos segue o modelo da missão do Filho (20:21). O aoristo “enviei” pode olhar para o envio já começado (4:38; 13:20) ou antecipar o envio depois da ressurreição (20:21). Os discípulos não são tirados do mundo (v. 15): são mandados de volta a ele."
+   }
+  ]
+ },
+ "Jhn.17.19": {
+  "t": "E por eles eu me santifico a mim mesmo, para que também eles sejam santificados na verdade.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "por eles eu me santifico a mim mesmo",
+    "termo": "ὑπὲρ αὐτῶν ἐγὼ ἁγιάζω ἐμαυτόν (hyper autōn egō hagiazō emauton)",
+    "titulo": "a consagração do Filho",
+    "texto": "Jesus já foi consagrado pelo Pai (10:36). Aqui ele se consagra a si mesmo, “por eles” (hyper, a preposição da morte em favor de outros: 6:51; 10:11; 11:50-52; 15:13). Hagiazō é usado no AT para o sacerdote e para a vítima oferecida a Deus (Êx 28:38, 41; Dt 15:19). Muitos intérpretes, desde os Pais da Igreja (como João Crisóstomo), veem aqui Jesus como sacerdote que se oferece em sacrifício, e daí o nome “oração sacerdotal”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "na verdade",
+    "termo": "ἐν ἀληθείᾳ (en alētheia)",
+    "titulo": "sem artigo",
+    "texto": "Sem artigo, en alētheia pode significar “verdadeiramente” (como em 2Jo 1; 3Jo 1), isto é, sejam de fato santificados; ou “na verdade”, como no v. 17. A tradução mantém a forma literal, que permite as duas leituras."
+   }
+  ]
+ },
+ "Jhn.17.20": {
+  "t": "Não rogo somente por estes, mas também por aqueles que vão crer em mim por meio da palavra deles,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "aqueles que vão crer em mim",
+    "termo": "τῶν πιστευόντων ... εἰς ἐμέ (tōn pisteuontōn ... eis eme)",
+    "titulo": "presente com sentido futuro",
+    "texto": "Lit. “os que creem em mim por meio da palavra deles”. O particípio presente olha para as gerações futuras como se já estivessem presentes; por isso “vão crer”. O TR traz o particípio futuro pisteusontōn (“os que crerão”). A fé dos que virão depende do testemunho apostólico, “a palavra deles” (15:27; 20:29-31; 1Jo 1:1-3)."
+   }
+  ]
+ },
+ "Jhn.17.21": {
+  "t": "para que todos sejam um; como tu, Pai, estás em mim, e eu em ti, que também eles estejam em nós, para que o mundo creia que tu me enviaste.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "para que todos sejam um",
+    "termo": "ἵνα πάντες ἓν ὦσιν (hina pantes hen ōsin)",
+    "titulo": "a unidade dos crentes",
+    "texto": "Como em 10:30, hen é neutro: “uma só coisa”, uma unidade, não uma só pessoa. O modelo e a fonte dessa unidade é a comunhão do Pai e do Filho (“como tu em mim, e eu em ti”), e ela só existe “em nós”, isto é, na participação nessa comunhão. Não se trata apenas de uniformidade de organização, nem só de um sentimento invisível: a unidade deve ser visível, a ponto de o mundo crer. O versículo é central no movimento pela unidade dos cristãos; as tradições divergem sobre a forma que essa unidade deve tomar."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "que também eles estejam em nós",
+    "termo": "ἵνα καὶ αὐτοὶ ἐν ἡμῖν ὦσιν",
+    "titulo": "“um em nós”",
+    "texto": "O TR e o Texto Bizantino trazem “que também eles sejam um em nós” (hen depois de hēmin), talvez por assimilação ao início do versículo; o texto-base segue Westcott-Hort, Tregelles e o NA28. Trazem também o aoristo pisteusē (“venha a crer”) em vez do presente pisteuē (“creia”), sem efeito importante. Tregelles traz o nominativo patēr em lugar do vocativo pater."
+   }
+  ]
+ },
+ "Jhn.17.22": {
+  "t": "Eu lhes dei a glória que me deste, para que sejam um, assim como nós somos um:",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Eu lhes dei a glória que me deste",
+    "termo": "κἀγὼ τὴν δόξαν ἣν δέδωκάς μοι δέδωκα αὐτοῖς",
+    "titulo": "que glória?",
+    "texto": "Não é a glória eterna do v. 5, própria do Filho, mas a glória que o Pai lhe deu na missão: a revelação do Pai (1:14), a comunhão com ele e, segundo alguns, também a glória da cruz e do serviço. Os perfeitos (“deste”, “dei”) indicam um dom que permanece. O fim do dom é a unidade. O TR e o Texto Bizantino trazem esmen (“somos”) no fim; o texto-base deixa o verbo subentendido, sem efeito na tradução."
+   }
+  ]
+ },
+ "Jhn.17.23": {
+  "t": "eu neles, e tu em mim, para que sejam levados à plena unidade, a fim de que o mundo saiba que tu me enviaste e os amaste como amaste a mim.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "levados à plena unidade",
+    "termo": "ὦσιν τετελειωμένοι εἰς ἕν (ōsin teteleiōmenoi eis hen)",
+    "titulo": "“aperfeiçoados em um”",
+    "texto": "Lit. “sejam aperfeiçoados em direção a um”. O verbo é teleioō, o mesmo do v. 4 (“completar a obra”): a unidade é um alvo que deve chegar à sua plenitude. O TR e o Texto Bizantino trazem kai (“e para que o mundo saiba”), sem efeito."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "e os amaste como amaste a mim",
+    "termo": "καὶ ἠγάπησας αὐτοὺς καθὼς ἐμὲ ἠγάπησας",
+    "titulo": "o amor do Pai aos discípulos",
+    "texto": "Afirmação ousada: o Pai ama os discípulos com o mesmo amor com que ama o Filho (cf. 16:27). “Como” (kathōs) indica qualidade e fundamento, não igualdade de posição: o Filho é amado desde a eternidade (v. 24), e os discípulos são amados nele."
+   }
+  ]
+ },
+ "Jhn.17.24": {
+  "t": "Pai, quero que, onde eu estou, estejam comigo também aqueles que me deste, para que vejam a minha glória, a glória que me deste, porque me amaste antes da fundação do mundo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "quero",
+    "termo": "θέλω (thelō)",
+    "titulo": "“quero”",
+    "texto": "Jesus, que até aqui “rogou” (erōtō, vv. 9, 15, 20), agora diz “quero”. Não é exigência, mas expressão da vontade do Filho, que é uma só com a do Pai (5:30; 6:38-40). “Aqueles que me deste” traduz de novo um neutro coletivo, ho (“o que me deste”; ver nota no v. 2); o TR e o Texto Bizantino trazem o masculino hous, e também o aoristo edōkas no fim, sem efeito."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "para que vejam a minha glória",
+    "termo": "ἵνα θεωρῶσιν τὴν δόξαν τὴν ἐμὴν",
+    "titulo": "o último pedido",
+    "texto": "O último pedido da oração olha para o futuro definitivo: estar com Jesus e ver a sua glória (14:3; 1Jo 3:2; Ap 22:4). “Antes da fundação do mundo” (cf. Ef 1:4; 1Pe 1:20) une o amor eterno do Pai pelo Filho e a glória que ele lhe deu. Alguns veem uma tensão entre glória “dada” e glória eterna (v. 5); a doutrina trinitária entende que o Filho recebe do Pai, desde sempre, tudo o que tem, sem ser inferior a ele."
+   }
+  ]
+ },
+ "Jhn.17.25": {
+  "t": "Pai justo, o mundo não te conheceu, mas eu te conheci, e estes reconheceram que tu me enviaste.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Pai justo",
+    "termo": "Πάτερ δίκαιε (Pater dikaie)",
+    "titulo": "o Pai justo",
+    "texto": "Como “Pai santo” (v. 11), um vocativo único. O Pai é justo ao distinguir entre o mundo que não o conheceu e os discípulos que o reconheceram no seu enviado (cf. 1Jo 1:9). A construção kai ... de liga os contrastes: “de um lado, o mundo não te conheceu; eu, porém, te conheci, e estes reconheceram”. Tregelles traz Patēr (nominativo), sem efeito."
+   }
+  ]
+ },
+ "Jhn.17.26": {
+  "t": "Eu lhes dei a conhecer o teu nome e ainda o darei a conhecer, para que o amor com que me amaste esteja neles, e eu esteja neles.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "e ainda o darei a conhecer",
+    "termo": "καὶ γνωρίσω (kai gnōrisō)",
+    "titulo": "a revelação continua",
+    "texto": "Jesus continuará a tornar o Pai conhecido: pela cruz e ressurreição, e depois pelo Espírito (16:13-15). A oração termina com o amor do Pai e a presença do Filho nos discípulos (14:20, 23; 15:9): a última palavra é “neles”."
+   }
+  ]
  }
 }

@@ -58,3 +58,5 @@ Rev Act_12-17 (30) → decisão aa23a80f8a26078ca. GUIA: regra NA28 TAGNT x apar
 # PASSADA FINAL (antes de montar cada livro): conferir notas tc que citam NA28 contra o aparato SBLGNT nas partes antigas (At 1-11 sobretudo); harmonizar δοῦλος, ἐγώ εἰμι, ναός.
 Rev Mrk_14-16 (13) → decisão a1bbce93fda8de14d.
 Final: Act_12-17 (27/3/0).
+Onda 4: Act_18-23 a65d73a74f7f22479.
+Final: Mrk_14-16 (11/2/0). MARCOS COMPLETO: juntado+montado, na página (versão 4). Onda 4: Rom_9-16 a92e23dfe9590a855.

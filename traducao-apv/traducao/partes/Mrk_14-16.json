@@ -531,14 +531,14 @@
   ]
  },
  "Mrk.14.26": {
-  "t": "Depois de cantarem os salmos, saíram para o monte das Oliveiras.",
+  "t": "Depois de cantarem um hino, saíram para o monte das Oliveiras.",
   "n": [
    {
     "tipo": "tn",
-    "ancora": "Depois de cantarem os salmos",
+    "ancora": "Depois de cantarem um hino",
     "termo": "ὑμνήσαντες (hymnēsantes)",
     "titulo": "hymneō",
-    "texto": "Lit. “tendo hineado”, isto é, depois de cantar louvores. Na refeição pascal, cantava-se o Hallel (Sl 113-118): a primeira parte durante a refeição e a segunda (Sl 115-118) no fim (Mishná, Pesachim 10). Por isso “os salmos”, embora o grego não traga substantivo. O Sl 118 fala da pedra rejeitada (citada em 12:10-11) e de “aquele que vem em nome do Senhor” (11:9)."
+    "texto": "Lit. “tendo hineado”, isto é, depois de cantar louvores. Na refeição pascal, cantava-se o Hallel (Sl 113-118): a primeira parte durante a refeição e a segunda (Sl 115-118) no fim (Mishná, Pesachim 10). O hino cantado aqui era provavelmente essa segunda parte do Hallel; o grego não diz qual. O Sl 118 fala da pedra rejeitada (citada em 12:10-11) e de “aquele que vem em nome do Senhor” (11:9)."
    },
    {
     "tipo": "sn",
@@ -606,7 +606,7 @@
     "ancora": "antes que o galo cante duas vezes",
     "termo": "πρὶν ἢ δὶς ἀλέκτορα φωνῆσαι",
     "titulo": "duas vezes",
-    "texto": "Só Marcos fala de dois cantos do galo (14:68, 72); Mateus, Lucas e João mencionam um só. Alguns manuscritos omitem “duas vezes” aqui e nos vv. 68 e 72, provavelmente para harmonizar com os outros Evangelhos. Os romanos chamavam “canto do galo” à vigília da noite que ia da meia-noite às três horas (cf. 13:35)."
+    "texto": "Só Marcos fala de dois cantos do galo (14:68, 72); Mateus, Lucas e João mencionam um só. Alguns manuscritos omitem “duas vezes” aqui, e há variantes parecidas na primeira menção do galo (v. 68) e no v. 72, provavelmente para harmonizar com os outros Evangelhos. Os romanos chamavam “canto do galo” à vigília da noite que ia da meia-noite às três horas (cf. 13:35)."
    },
    {
     "tipo": "tn",
@@ -772,7 +772,7 @@
     "ancora": "O espírito está disposto, mas a carne é fraca",
     "termo": "τὸ μὲν πνεῦμα πρόθυμον, ἡ δὲ σὰρξ ἀσθενής",
     "titulo": "espírito e carne",
-    "texto": "O espírito (minúscula) é o espírito humano, o querer interior que deseja ser fiel; a carne é a fragilidade humana diante do medo e do cansaço, não uma natureza má. Alguns entendem “espírito” como o Espírito de Deus, que dá prontidão (cf. Sl 51:12, na Septuaginta: “espírito disposto”), mas o contraste com a carne de quem dorme favorece o espírito humano. Prothymos (“disposto, pronto”) só aparece aqui, em Mt 26:41 e Rm 1:15. O dito vale para os discípulos e, de outro modo, para o próprio Jesus na sua luta."
+    "texto": "O espírito (minúscula) é o espírito humano, o querer interior que deseja ser fiel; a carne é a fragilidade humana diante do medo e do cansaço, não uma natureza má. Alguns entendem “espírito” como o Espírito de Deus, que dá prontidão (cf. Sl 51:12, no hebraico: “espírito disposto”), mas o contraste com a carne de quem dorme favorece o espírito humano. Prothymos (“disposto, pronto”) só aparece aqui, em Mt 26:41 e Rm 1:15. O dito vale para os discípulos e, de outro modo, para o próprio Jesus na sua luta."
    }
   ]
  },
@@ -815,7 +815,7 @@
     "ancora": "Vocês ainda estão dormindo e descansando?",
     "termo": "καθεύδετε τὸ λοιπὸν καὶ ἀναπαύεσθε",
     "titulo": "pergunta ou ordem",
-    "texto": "As formas podem ser indicativo (pergunta de censura: “Ainda dormem e descansam?”) ou imperativo, irônico ou resignado (“Durmam agora e descansem!”, ARC). To loipon pode ser “ainda” ou “de agora em diante”. Como Jesus logo manda que se levantem (v. 42), a pergunta parece mais natural."
+    "texto": "As formas podem ser indicativo (pergunta de censura: “Ainda dormem e descansam?”) ou imperativo, irônico ou resignado (“durmam agora e descansem”, como na tradição de Almeida). To loipon pode ser “ainda” ou “de agora em diante”. Como Jesus logo manda que se levantem (v. 42), a pergunta parece mais natural."
    },
    {
     "tipo": "tn",
@@ -1257,7 +1257,7 @@
   ]
  },
  "Mrk.14.65": {
-  "t": "Alguns começaram a cuspir nele, a cobrir-lhe o rosto, a dar-lhe socos e a dizer-lhe: “Profetize!”. E os guardas o receberam a bofetadas.",
+  "t": "Alguns começaram a cuspir nele, a cobrir-lhe o rosto, a dar-lhe socos e a dizer-lhe: “Profetize!”. E os guardas o trataram a bofetadas.",
   "n": [
    {
     "tipo": "sn",
@@ -1275,10 +1275,10 @@
    },
    {
     "tipo": "tn",
-    "ancora": "o receberam a bofetadas",
+    "ancora": "o trataram a bofetadas",
     "termo": "ῥαπίσμασιν αὐτὸν ἔλαβον",
     "titulo": "expressão rara",
-    "texto": "Lit. “com bofetadas o receberam (ou tomaram)”, expressão incomum, talvez coloquial. Rhapisma é o golpe com a mão aberta ou com vara (Jo 18:22; 19:3). O Textus Receptus e o Texto Bizantino trazem eballon (“o golpeavam”)."
+    "texto": "Lit. “com bofetadas o receberam (ou tomaram)”, expressão incomum, talvez coloquial; “receberam” soaria em português como “acolheram”, por isso “trataram”. Rhapisma é o golpe com a mão aberta ou com vara (Jo 18:22; 19:3). O Textus Receptus e o Texto Bizantino trazem eballon (“o golpeavam”)."
    }
   ]
  },
@@ -1295,14 +1295,14 @@
   ]
  },
  "Mrk.14.67": {
-  "t": "Vendo Pedro aquecendo-se, olhou bem para ele e disse: “Você também estava com o nazareno, Jesus”.",
+  "t": "Vendo Pedro aquecendo-se, olhou bem para ele e disse: “Você também estava com Jesus de Nazaré”.",
   "n": [
    {
     "tipo": "tn",
-    "ancora": "com o nazareno, Jesus",
+    "ancora": "com Jesus de Nazaré",
     "termo": "μετὰ τοῦ Ναζαρηνοῦ ... τοῦ Ἰησοῦ",
     "titulo": "ordem das palavras",
-    "texto": "Lit. “com o Nazareno estavas, o Jesus”. A criada põe primeiro a origem, talvez com desprezo pelo galileu do interior (cf. Jo 1:46), e só depois o nome. A tradução conserva a ordem. Ver nota em 10:47 sobre Nazarēnos."
+    "texto": "Lit. “com o Nazareno estavas, o Jesus”. A criada põe primeiro a origem, talvez com desprezo pelo galileu do interior (cf. Jo 1:46), e só depois o nome. A tradução usa a forma de 1:24, 10:47 e 16:6 (“Jesus de Nazaré”), para manter o mesmo termo em todo o livro, e não reproduz a ordem. Ver nota em 10:47 sobre Nazarēnos."
    },
    {
     "tipo": "tn",
@@ -1366,7 +1366,7 @@
     "ancora": "e o seu modo de falar é parecido com o deles",
     "termo": "καὶ ἡ λαλιά σου ὁμοιάζει (kai hē lalia sou homoiazei)",
     "titulo": "frase ausente de outras edições",
-    "texto": "O SBLGNT e o Texto Bizantino trazem a frase; segundo o aparato do SBLGNT, Westcott-Hort e Tregelles não a trazem, e ela falta em manuscritos antigos importantes. Pode ter vindo do paralelo de Mt 26:73 (“o seu modo de falar o denuncia”), embora com outras palavras. Homoiazō (“ser parecido”) só aparece aqui e em alguns manuscritos de Mt 23:27. Os galileus tinham pronúncia própria do aramaico, reconhecível em Jerusalém. “Com o deles” foi acrescentado por clareza."
+    "texto": "O SBLGNT, o Textus Receptus e o Texto Bizantino trazem a frase; segundo o aparato do SBLGNT, Westcott-Hort e Tregelles não a trazem, e ela falta em manuscritos antigos importantes. Aqui o SBLGNT se afasta de outras edições críticas. Pode ter vindo do paralelo de Mt 26:73 (“o seu modo de falar o denuncia”), embora com outras palavras. Homoiazō (“ser parecido”) só aparece aqui e em alguns manuscritos de Mt 23:27. Os galileus tinham pronúncia própria do aramaico, reconhecível em Jerusalém. “Com o deles” foi acrescentado por clareza."
    }
   ]
  },
@@ -1457,7 +1457,7 @@
     "ancora": "o rei dos judeus",
     "termo": "ὁ βασιλεὺς τῶν Ἰουδαίων",
     "titulo": "um título político",
-    "texto": "É o modo como um romano descreveria um pretendente messiânico; os próprios judeus diriam “rei de Israel” (v. 32). Para Roma, quem se dizia rei sem nomeação de César era rebelde. O título volta seis vezes no capítulo (vv. 2, 9, 12, 18, 26, 32) e será a acusação escrita na cruz."
+    "texto": "É o modo como um romano descreveria um pretendente messiânico; os próprios judeus diriam “rei de Israel” (v. 32). Para Roma, quem se dizia rei sem nomeação de César era rebelde. O título volta cinco vezes no capítulo (vv. 2, 9, 12, 18, 26; no v. 32 os líderes dizem “rei de Israel”) e será a acusação escrita na cruz."
    }
   ]
  },
@@ -1852,7 +1852,7 @@
     "ancora": "a hora terceira",
     "termo": "ὥρα τρίτη (hōra tritē)",
     "titulo": "nove da manhã",
-    "texto": "As horas eram contadas a partir do nascer do sol (cerca de seis da manhã): a terceira hora é por volta das nove. Marcos marca a Paixão de três em três horas (15:1, 25, 33, 34, 42). Jo 19:14 diz que Pilatos ainda julgava Jesus “por volta da hora sexta”. Entre as explicações propostas: as horas eram aproximadas e designavam blocos de tempo (a “terceira hora” cobria das nove ao meio-dia); João contaria as horas de outro modo; ou houve erro de copista num dos números, como já supunham autores antigos."
+    "texto": "As horas eram contadas a partir do nascer do sol (cerca de seis da manhã): a terceira hora é por volta das nove. Marcos marca o dia da cruz de três em três horas (a terceira, a sexta e a nona: 15:25, 33, 34), entre a manhã (15:1) e a tarde (15:42). Jo 19:14 diz que Pilatos ainda julgava Jesus “por volta da hora sexta”. Entre as explicações propostas: as horas eram aproximadas e designavam blocos de tempo (a “terceira hora” cobria das nove ao meio-dia); João contaria as horas de outro modo; ou houve erro de copista num dos números, como já supunham autores antigos."
    }
   ]
  },
@@ -1895,7 +1895,7 @@
     "ancora": "⟦E cumpriu-se a Escritura que diz: “Ele foi contado entre os transgressores”.⟧",
     "termo": "καὶ ἐπληρώθη ἡ γραφὴ ἡ λέγουσα· καὶ μετὰ ἀνόμων ἐλογίσθη",
     "titulo": "versículo ausente do texto crítico",
-    "texto": "Este versículo não está no SBLGNT, texto-base da APV, nem em Westcott-Hort e no NA28; falta nos manuscritos mais antigos e importantes, como ℵ, A, B, C e D. Tregelles, o Textus Receptus e o Texto Bizantino o trazem. É provavelmente um acréscimo de copistas inspirado em Lc 22:37, onde Jesus aplica a si Is 53:12 (“foi contado com os transgressores”). Marcos raramente comenta o cumprimento das Escrituras com fórmulas desse tipo (Metzger). Vai entre colchetes duplos para indicar que não faz parte do texto crítico. O conteúdo, porém, corresponde à cena: Jesus morre entre dois bandidos, como o Servo de Isaías."
+    "texto": "Este versículo não está no SBLGNT, texto-base da APV, nem em Westcott-Hort e no NA28; falta nos manuscritos gregos mais antigos e em boa parte da tradição. Tregelles, o Textus Receptus e o Texto Bizantino o trazem. É provavelmente um acréscimo de copistas inspirado em Lc 22:37, onde Jesus aplica a si Is 53:12 (“foi contado com os transgressores”). Vai entre colchetes duplos para indicar que não faz parte do texto crítico. O conteúdo, porém, corresponde à cena: Jesus morre entre dois bandidos, como o Servo de Isaías."
    }
   ]
  },
@@ -2232,7 +2232,7 @@
     "ancora": "cedeu",
     "termo": "ἐδωρήσατο (edōrēsato)",
     "titulo": "dōreomai, raro",
-    "texto": "“Dar de presente”, sem cobrar. Era comum que governadores vendessem a liberação de corpos de executados."
+    "texto": "“Dar de presente”, sem cobrar: Pilatos entrega o corpo a José como favor."
    },
    {
     "tipo": "tc",
@@ -2483,7 +2483,7 @@
     "ancora": "⟦Depois de ressuscitar",
     "termo": "Ἀναστὰς δὲ πρωῒ πρώτῃ σαββάτου ... (16:9-20)",
     "titulo": "os finais de Marcos",
-    "texto": "Os vv. 9-20, o chamado “final longo”, não pertencem ao texto de Marcos tal como os manuscritos mais antigos o conservam. O SBLGNT, texto-base da APV, os imprime entre colchetes duplos, como Westcott-Hort e o NA28; a APV os traduz por inteiro e entre ⟦ ⟧, para que o leitor tenha o texto e saiba da sua situação. Os fatos principais: (1) O Evangelho termina em 16:8 nos dois manuscritos gregos completos mais antigos, os códices Sinaítico (ℵ) e Vaticano (B), do século IV, e também no manuscrito siríaco mais antigo (o Sinaítico), em muitos manuscritos armênios e nos manuscritos georgianos mais antigos. Clemente de Alexandria e Orígenes não mostram conhecer os vv. 9-20; Eusébio e Jerônimo dizem que eles faltavam em quase todas as cópias gregas exatas do seu tempo. Vários manuscritos que trazem o final longo o marcam com sinais ou notas de dúvida. (2) O final longo está na grande maioria dos manuscritos gregos, entre eles os códices Alexandrino (A), de Éfrem (C), de Beza (D) e de Washington (W), no Texto Bizantino, no Textus Receptus e daí na ARC e nas Bíblias tradicionais. É antigo: Ireneu, por volta de 180 d.C., cita o v. 19 como palavra de Marcos (Contra as Heresias 3.10.5), e Taciano o usou no Diatessarão; Justino talvez o conhecesse. (3) Há ainda o “final curto” (ver nota em 16:8), que alguns manuscritos trazem sozinho ou antes do final longo, e o “final intermediário”, nome dado à combinação dos dois. O códice de Washington (W) acrescenta depois do v. 14 um diálogo entre Jesus e os discípulos sobre Satanás e o fim de seu poder (o chamado “logion de Freer”), que Jerônimo conhecia em parte. (4) O vocabulário e o estilo dos vv. 9-20 diferem dos de Marcos, e a passagem não continua com naturalidade o v. 8: o sujeito muda das mulheres para Jesus sem que ele seja nomeado, e Maria Madalena é apresentada como se não tivesse aparecido antes (cf. 15:40, 47; 16:1). O conteúdo resume aparições e fatos narrados em Lucas, João e Atos (vv. 12-13, 15-20). Por isso a grande maioria dos estudiosos, de diversas tradições, conclui que o final longo foi acrescentado no século II por alguém que sentiu falta de aparições do Ressuscitado (Metzger). Uma minoria defende que faz parte do Evangelho original (J. W. Burgon, The Last Twelve Verses of the Gospel According to S. Mark, 1871; W. R. Farmer, The Last Twelve Verses of Mark, 1974). Entre os que o consideram acréscimo, há quem pense que Marcos terminou de propósito em 16:8, deixando o leitor diante do túmulo vazio e da promessa do v. 7, e quem pense que o final original se perdeu ou não chegou a ser escrito. Ao mesmo tempo, o final longo é recebido há muitos séculos como Escritura canônica pela Igreja Católica, pelas Igrejas Ortodoxas e por muitas igrejas protestantes, e é lido no culto. O que ele afirma (as aparições, a missão, o batismo, os sinais, a ascensão) está atestado em outros textos do NT. A APV o traduz por inteiro, marcado, deixando ao leitor tanto a informação sobre a sua origem quanto o seu uso na igreja.",
+    "texto": "Os vv. 9-20, o chamado “final longo”, não pertencem ao texto de Marcos tal como os manuscritos mais antigos o conservam. O SBLGNT, texto-base da APV, os imprime entre colchetes duplos, como Westcott-Hort e o NA28; a APV os traduz por inteiro e entre ⟦ ⟧, para que o leitor tenha o texto e saiba da sua situação. Os fatos principais: (1) O Evangelho termina em 16:8 nos dois manuscritos gregos completos mais antigos, os códices Sinaítico (ℵ) e Vaticano (B), do século IV, e também no manuscrito siríaco mais antigo (o Sinaítico), em muitos manuscritos armênios e nos manuscritos georgianos mais antigos. Clemente de Alexandria e Orígenes não mostram conhecer os vv. 9-20; Eusébio diz que eles faltavam nas cópias exatas do seu tempo; Jerônimo, que faltavam em quase todos os códices gregos. Vários manuscritos que trazem o final longo o marcam com sinais ou notas de dúvida. (2) O final longo está na grande maioria dos manuscritos gregos, entre eles os códices Alexandrino (A), de Éfrem (C), de Beza (D) e de Washington (W), no Texto Bizantino, no Textus Receptus e daí na ARC e nas Bíblias tradicionais. É antigo: Ireneu, por volta de 180 d.C., cita o v. 19 como palavra de Marcos (Contra as Heresias 3.10.5), e Taciano o usou no Diatessarão; Justino talvez o conhecesse. (3) Há ainda o “final curto” (ver nota em 16:8), que alguns manuscritos trazem sozinho ou antes do final longo, e o “final intermediário”, nome dado à combinação dos dois. O códice de Washington (W) acrescenta depois do v. 14 um diálogo entre Jesus e os discípulos sobre Satanás e o fim de seu poder (o chamado “logion de Freer”), que Jerônimo conhecia em parte. (4) O vocabulário e o estilo dos vv. 9-20 diferem dos de Marcos, e a passagem não continua com naturalidade o v. 8: o sujeito muda das mulheres para Jesus sem que ele seja nomeado, e Maria Madalena é apresentada como se não tivesse aparecido antes (cf. 15:40, 47; 16:1). O conteúdo resume aparições e fatos narrados em Lucas, João e Atos (vv. 12-13, 15-20). Por isso a grande maioria dos estudiosos, de diversas tradições, conclui que o final longo foi acrescentado no século II por alguém que sentiu falta de aparições do Ressuscitado (Metzger). Uma minoria defende que faz parte do Evangelho original (J. W. Burgon, The Last Twelve Verses of the Gospel According to S. Mark, 1871; W. R. Farmer, The Last Twelve Verses of Mark, 1974). Entre os que o consideram acréscimo, há quem pense que Marcos terminou de propósito em 16:8, deixando o leitor diante do túmulo vazio e da promessa do v. 7, e quem pense que o final original se perdeu ou não chegou a ser escrito. Ao mesmo tempo, o final longo é recebido há muitos séculos como Escritura canônica pela Igreja Católica, pelas Igrejas Ortodoxas e por muitas igrejas protestantes, e é lido no culto. O que ele afirma (as aparições, a missão, o batismo, os sinais, a ascensão) está atestado em outros textos do NT. A APV o traduz por inteiro, marcado, deixando ao leitor tanto a informação sobre a sua origem quanto o seu uso na igreja.",
     "revisar": true
    },
    {
@@ -2636,7 +2636,7 @@
     "ancora": "Estes sinais acompanharão os que crerem",
     "termo": "σημεῖα δὲ τοῖς πιστεύσασιν ταῦτα παρακολουθήσει",
     "titulo": "o texto do SBLGNT",
-    "texto": "O texto oficial do SBLGNT traz o versículo completo, como as demais edições; no TAGNT faltam as palavras “sinais aos que crerem” e “em meu nome expulsarão demônios, falarão línguas”. A APV segue o SBLGNT. Westcott-Hort e Tregelles trazem a ordem akolouthēsei tauta, sem diferença de sentido."
+    "texto": "O texto oficial do SBLGNT traz o versículo completo, como as demais edições; no TAGNT faltam as palavras “sinais aos que crerem” e “em meu nome expulsarão demônios, falarão línguas”. A APV segue o SBLGNT. Westcott-Hort e Tregelles trazem akolouthēsei tauta (outro verbo, “seguirão”, e outra ordem), sem diferença importante de sentido."
    },
    {
     "tipo": "tc",
