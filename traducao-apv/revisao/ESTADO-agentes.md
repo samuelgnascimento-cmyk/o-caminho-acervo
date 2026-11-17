@@ -44,3 +44,8 @@ Luk_9-12 traduzido (217, 334 notas) → rev (ver spawn).
 Final: Mrk_10-13 (10/4/2; 12:2 e 13:34 aguardam harmonização δοῦλος). Onda 3: Mrk_14-16 (ver spawn).
 # PAUSA 3: 2026-11-16 12:09 UTC (Samuel, via coordenador: "Pause a tradução ate que termine as demandas novas"). Todos parados.
 Ao retomar: respawnar revisores de Mat_19-23, Luk_9-12, Jhn_10-14 (interrompidos; tradutores com contexto: Mat a7a762d622bb91915, Luk a6644c01d701d285a, Jhn a0d34f4a44f609461). Retomar tradutores: Act_12-17 aa23a80f8a26078ca, Mrk_14-16 a1bbce93fda8de14d (mal começou).
+# RETOMADA 2026-11-17 02:09 UTC (Samuel: 'Continue'). Revisores: Mat_19-23 ac14c80ff81c0d90b; Luk_9-12 a28405903d3df9b9d; Jhn_10-14 a2a089a466a3058c1. Tradutores retomados: Act_12-17 aa23a80f8a26078ca; Mrk_14-16 a1bbce93fda8de14d. Commit/push autorizado pelo Samuel (2026-11-16).
+Rev Luk_9-12 (17) → decisão a6644c01d701d285a. Act_12-17 traduzido (220, 362 notas) → rev aa367d1a3e00bbe98.
+Rev Mat_19-23 (18; 19:29 γυναῖκα perdida no TAGNT) → decisão a7a762d622bb91915.
+Rev Jhn_10-14 (23) → decisão a0d34f4a44f609461.
+Final: Luk_9-12 (15/2/0).

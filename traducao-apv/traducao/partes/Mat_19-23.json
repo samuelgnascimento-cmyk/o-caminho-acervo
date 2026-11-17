@@ -187,14 +187,14 @@
   ]
  },
  "Mat.19.9": {
-  "t": "E eu lhes digo: quem se divorciar da sua mulher, a não ser por imoralidade sexual, e se casar com outra comete adultério; e quem se casar com a mulher divorciada comete adultério.”",
+  "t": "E eu lhes digo: quem se divorciar da sua mulher a não ser por imoralidade sexual e se casar com outra comete adultério; e quem se casar com a mulher divorciada comete adultério.”",
   "n": [
    {
     "tipo": "tn",
     "ancora": "a não ser por imoralidade sexual",
     "termo": "μὴ ἐπὶ πορνείᾳ (mē epi porneia)",
     "titulo": "a cláusula de exceção",
-    "texto": "Lit. “não por imoralidade sexual”. É a mesma exceção de 5:32 (ver nota ali), com outra forma. Porneia é termo amplo para conduta sexual ilícita. As leituras principais: (1) a infidelidade conjugal, que permite o divórcio e, segundo a maioria dos protestantes desde a Reforma, o novo casamento da parte inocente; (2) uniões ilícitas por parentesco (Lv 18; At 15:20), que nunca foram casamento válido, leitura comum na tradição católica; (3) a infidelidade durante o noivado (1:19). Muitos Pais da Igreja admitiam a separação nesse caso, mas não o novo casamento. A APV traduz pelo sentido amplo e deixa a decisão à nota.",
+    "texto": "Lit. “não por imoralidade sexual”. É a mesma exceção de 5:32 (ver nota ali), com outra forma. Porneia é termo amplo para conduta sexual ilícita. As leituras principais: (1) a infidelidade conjugal, que permite o divórcio e, segundo a maioria dos protestantes desde a Reforma, o novo casamento da parte inocente; (2) uniões ilícitas por parentesco (Lv 18; At 15:20), que nunca foram casamento válido, leitura comum na tradição católica; (3) a infidelidade durante o noivado (1:19). Muitos Pais da Igreja admitiam a separação nesse caso, mas não o novo casamento. O grego não tem pontuação, e o alcance da exceção é disputado: ela pode valer só para “se divorciar” (o divórcio é legítimo, o novo casamento não) ou também para “se casar com outra” (a parte inocente pode casar de novo). A APV traduz pelo sentido amplo, sem vírgulas que decidam a questão, e deixa a decisão à nota.",
     "revisar": true
    },
    {
@@ -202,7 +202,7 @@
     "ancora": "e se casar com outra comete adultério",
     "termo": "μοιχᾶται (moichatai)",
     "titulo": "moichaomai",
-    "texto": "Jesus chama de adultério o novo casamento depois de um divórcio que Deus não reconhece: aos olhos de Deus, o primeiro vínculo continua. A frase é mais dura que a escola de Shamai, que proibia o divórcio sem motivo grave, mas não chamava de adultério o casamento seguinte."
+    "texto": "Jesus chama de adultério o novo casamento depois de um divórcio. O alcance da frase depende da leitura da exceção (ver nota anterior): (1) vale para quem se casa de novo depois de um divórcio sem a causa da exceção; nesse caso, a parte inocente de um divórcio por imoralidade pode casar de novo (posição da maioria protestante desde a Reforma); (2) vale para todo novo casamento enquanto o outro cônjuge vive, porque o vínculo não se desfaz pelo divórcio (posição católica e de muitos Pais da Igreja; as igrejas ortodoxas orientais admitem novo casamento em certos casos, por concessão pastoral). Nas duas leituras, a exigência é mais dura que a da escola de Shamai, que proibia o divórcio sem motivo grave, mas não chamava de adultério o casamento seguinte."
    },
    {
     "tipo": "tc",
@@ -428,7 +428,7 @@
     "ancora": "‘Não mate’",
     "termo": "οὐ φονεύσεις (ou phoneuseis)",
     "titulo": "Êxodo 20 e Deuteronômio 5",
-    "texto": "Os mandamentos citados são da segunda tábua do Decálogo (Êx 20:12-16; Dt 5:16-20), na forma da Septuaginta: homicídio, adultério, furto, falso testemunho e, no fim, o dever para com os pais. Sobre o imperativo com “você” no lugar da forma tradicional (“Não matarás”), ver nota em 5:21."
+    "texto": "Os mandamentos citados são da segunda tábua do Decálogo (Êx 20:12-16; Dt 5:16-20), na ordem do texto hebraico (homicídio, adultério, furto, falso testemunho) com a forma de mandamento comum à Septuaginta (ou com o futuro); o dever para com os pais vem no fim. A Septuaginta e Lc 18:20 trazem o adultério antes do homicídio. Sobre o imperativo com “você” no lugar da forma tradicional (“Não matarás”), ver nota em 5:21."
    },
    {
     "tipo": "tn",
@@ -473,14 +473,14 @@
     "ancora": "O jovem",
     "termo": "ὁ νεανίσκος (ho neaniskos)",
     "titulo": "neaniskos",
-    "texto": "Homem jovem, em geral entre a adolescência e uns quarenta anos. Só Mateus lhe dá essa idade; Marcos e Lucas mostram o homem dizendo que guardou os mandamentos “desde a juventude”."
+    "texto": "Homem jovem, em plena força. Só Mateus lhe dá essa idade; Marcos e Lucas mostram o homem dizendo que guardou os mandamentos “desde a juventude”."
    },
    {
     "tipo": "tc",
     "ancora": "Tudo isso eu tenho guardado",
     "termo": "πάντα ταῦτα ἐφύλαξα",
     "titulo": "“desde a minha juventude”",
-    "texto": "O Textus Receptus e o Texto Bizantino trazem ephylaxamēn ek neotētos mou, “tenho guardado desde a minha juventude”, como em Mc 10:20 e Lc 18:21. Os manuscritos mais antigos de Mateus não têm o acréscimo, que contrastaria com “jovem”."
+    "texto": "O Textus Receptus e o Texto Bizantino trazem ephylaxamēn ek neotētos mou, “tenho guardado desde a minha juventude”, como em Mc 10:20 e Lc 18:21. O acréscimo provavelmente veio desses paralelos; os manuscritos mais antigos de Mateus não o têm."
    },
    {
     "tipo": "tn",
@@ -492,7 +492,7 @@
   ]
  },
  "Mat.19.21": {
-  "t": "Jesus lhe disse: “Se você quer ser perfeito, vá, venda os seus bens e dê o dinheiro aos pobres, e você terá um tesouro nos céus. Depois venha e siga-me.”",
+  "t": "Jesus lhe disse: “Se você quer ser perfeito, vá, venda os seus bens e dê o dinheiro aos pobres, e você terá um tesouro nos céus. E venha, siga-me.”",
   "n": [
    {
     "tipo": "tn",
@@ -520,7 +520,7 @@
     "ancora": "siga-me",
     "termo": "ἀκολούθει μοι (akolouthei moi)",
     "titulo": "o chamado",
-    "texto": "O mesmo chamado feito aos primeiros discípulos (4:19; 9:9). Vender os bens não é o alvo, mas o caminho para seguir a Jesus."
+    "texto": "Lit. “e venha, siga-me”: o grego não marca sequência entre vender e seguir. É o mesmo chamado feito aos primeiros discípulos (4:19; 9:9). Vender os bens não é o alvo, mas o que liberta o jovem para seguir a Jesus."
    }
   ]
  },
@@ -546,7 +546,7 @@
     "ancora": "foi embora triste",
     "termo": "ἀπῆλθεν λυπούμενος",
     "titulo": "a tristeza",
-    "texto": "É o único chamado de Jesus, nos Evangelhos, que a pessoa recusa. O homem procurou a vida eterna e saiu triste: tinha os bens, mas os bens o tinham também (6:24)."
+    "texto": "É um dos poucos casos nos Evangelhos em que alguém chamado pessoalmente por Jesus a segui-lo se afasta (cf. Lc 9:57-62). O homem procurou a vida eterna e saiu triste: tinha os bens, mas os bens o tinham também (6:24)."
    }
   ]
  },
@@ -700,14 +700,14 @@
   ]
  },
  "Mat.19.29": {
-  "t": "E todo aquele que tiver deixado casas, ou irmãos, ou irmãs, ou pai, ou mãe, ou filhos, ou campos, por causa do meu nome, receberá cem vezes mais e herdará a vida eterna.",
+  "t": "E todo aquele que tiver deixado casas, ou irmãos, ou irmãs, ou pai, ou mãe, ou mulher, ou filhos, ou campos, por causa do meu nome, receberá cem vezes mais e herdará a vida eterna.",
   "n": [
    {
     "tipo": "tc",
-    "ancora": "ou mãe, ou filhos",
-    "termo": "ἢ μητέρα ἢ τέκνα",
+    "ancora": "ou mulher",
+    "termo": "ἢ γυναῖκα (ē gynaika)",
     "titulo": "“ou mulher”",
-    "texto": "O Textus Receptus e o Texto Bizantino acrescentam “ou mulher” (ē gynaika) depois de “mãe”, como em Lc 18:29. Os manuscritos mais antigos de Mateus e as edições críticas não trazem. Tregelles omite “casas” no início e o põe depois de “campos”."
+    "texto": "O SBLGNT, o Textus Receptus e o Texto Bizantino trazem “ou mulher” (ē gynaika) depois de “mãe”, como em Lc 18:29; Westcott-Hort, Tregelles e o NA28 a omitem, segundo o aparato do SBLGNT, como Mc 10:29. A palavra pode ter sido acrescentada a partir de Lucas ou omitida por assimilação a Marcos. A APV segue o texto-base. Tregelles também omite “casas” no início e põe “ou casas” depois de “campos”."
    },
    {
     "tipo": "tc",
@@ -787,7 +787,7 @@
     "ancora": "a sua vinha",
     "termo": "τὸν ἀμπελῶνα αὐτοῦ",
     "titulo": "a vinha",
-    "texto": "No AT a vinha é imagem de Israel, o povo que Deus plantou e de que espera fruto (Is 5:1-7; Sl 80:8-16). Mateus volta à imagem em 21:28-32 e 21:33-43. Na época da colheita da uva, o proprietário precisava de mais braços com urgência."
+    "texto": "No AT a vinha é imagem de Israel, o povo que Deus plantou e de que espera fruto (Is 5:1-7; Sl 80:8-16). Mateus volta à imagem em 21:28-32 e 21:33-43. O texto não diz em que época do ano a cena se passa; talvez seja a vindima, quando se precisava de muitos braços."
    }
   ]
  },
@@ -1212,14 +1212,14 @@
     "ancora": "O meu cálice, de fato, vocês beberão",
     "termo": "τὸ μὲν ποτήριόν μου πίεσθε",
     "titulo": "a sorte dos dois irmãos",
-    "texto": "Tiago foi o primeiro dos Doze a morrer pela fé (At 12:2). De João, a tradição diz que sofreu exílio e perseguição (cf. Ap 1:9), não que tenha sido morto. Os dois partilharam, de modos diferentes, o sofrimento de Jesus."
+    "texto": "Tiago foi o primeiro dos Doze a morrer pela fé (At 12:2). De João, a tradição mais difundida diz que sofreu exílio e perseguição (cf. Ap 1:9) e morreu em idade avançada; há também uma tradição antiga, minoritária, de que teria sido morto. Os dois partilharam, de modos diferentes, o sofrimento de Jesus."
    },
    {
     "tipo": "sn",
     "ancora": "não cabe a mim conceder",
     "termo": "οὐκ ἔστιν ἐμὸν δοῦναι",
     "titulo": "o Filho e o Pai",
-    "texto": "Jesus, que no Reino se assentará no trono glorioso (19:28), deixa ao Pai a distribuição dos lugares, como deixa ao Pai o conhecimento do dia (24:36). A tradição ortodoxa lê isso como expressão da sua missão de Filho que faz a vontade do Pai, e não como inferioridade de natureza. Há ironia: na cruz, os que estarão “um à direita e outro à esquerda” serão dois criminosos (27:38)."
+    "texto": "Jesus, que no Reino se assentará no trono glorioso (19:28), deixa ao Pai a distribuição dos lugares, como deixa ao Pai o conhecimento do dia (24:36). A leitura cristã tradicional, na linha dos credos, vê nisso a expressão da sua missão de Filho que faz a vontade do Pai, e não como inferioridade de natureza. Há ironia: na cruz, os que estarão “um à direita e outro à esquerda” serão dois criminosos (27:38)."
    },
    {
     "tipo": "tn",
@@ -1465,10 +1465,10 @@
    },
    {
     "tipo": "tc",
-    "ancora": "de Jerusalém",
-    "termo": "εἰς Ἱεροσόλυμα",
+    "ancora": "junto ao monte das Oliveiras",
+    "termo": "εἰς τὸ ὄρος τῶν ἐλαιῶν",
     "titulo": "eis ou pros",
-    "texto": "O THGNT, o Textus Receptus e o Texto Bizantino trazem pros (“para junto de”) em vez do segundo eis, e o artigo antes de “Jesus”. Sem efeito na tradução."
+    "texto": "O THGNT, o Textus Receptus e o Texto Bizantino trazem pros (“junto a”) em vez de eis antes de “o monte das Oliveiras”; o THGNT, Tregelles, o Textus Receptus e o Texto Bizantino trazem o artigo antes de “Jesus”. Sem efeito na tradução."
    }
   ]
  },
@@ -1760,21 +1760,21 @@
   ]
  },
  "Mat.21.16": {
-  "t": "e lhe disseram: “Você está ouvindo o que estes estão dizendo?” Jesus lhes respondeu: “Sim. Vocês nunca leram: ‘Da boca de pequeninos e de bebês de peito tiraste louvor perfeito’?”",
+  "t": "e lhe disseram: “Você está ouvindo o que estes estão dizendo?” Jesus lhes respondeu: “Sim. Vocês nunca leram: ‘Da boca de pequeninos e de bebês de peito preparaste louvor para ti’?”",
   "n": [
    {
     "tipo": "sn",
-    "ancora": "Da boca de pequeninos e de bebês de peito tiraste louvor perfeito",
+    "ancora": "Da boca de pequeninos e de bebês de peito preparaste louvor para ti",
     "termo": "ἐκ στόματος νηπίων καὶ θηλαζόντων κατηρτίσω αἶνον",
     "titulo": "Salmo 8:2",
     "texto": "Citação de Sl 8:2 (8:3 na Septuaginta) nas palavras da Septuaginta, que traz “louvor”; o hebraico traz “força” (ʿoz). No salmo, o louvor é dirigido a Deus; Jesus o aplica ao louvor que as crianças lhe dão. O argumento é ousado: se as crianças o louvam, Deus mesmo está preparando esse louvor. Como o salmo fala com Deus, o verbo está em “tu”."
    },
    {
     "tipo": "tn",
-    "ancora": "tiraste louvor perfeito",
+    "ancora": "preparaste louvor para ti",
     "termo": "κατηρτίσω αἶνον (katērtisō ainon)",
     "titulo": "katartizō",
-    "texto": "Katartizō é “completar, preparar, deixar em ordem” (cf. 4:21, onde se diz das redes consertadas). Ainos (raro) é “louvor”. Lit. “preparaste para ti louvor”; “perfeito” traduz a ideia de completar."
+    "texto": "Katartizō é “completar, preparar, deixar em ordem” (cf. 4:21, onde se diz das redes consertadas); a voz média indica “para ti”. Ainos (raro) é “louvor”. As traduções tradicionais trazem “tiraste perfeito louvor”, que acentua a ideia de completar; a APV fica com o sentido básico do verbo."
    },
    {
     "tipo": "tn",
@@ -2027,7 +2027,7 @@
     "ancora": "Ele respondeu: ‘Não quero’; mas depois mudou de ideia e foi",
     "termo": "ὁ δὲ ἀποκριθεὶς εἶπεν· οὐ θέλω· ὕστερον δὲ μεταμεληθεὶς ἀπῆλθεν",
     "titulo": "a ordem dos dois filhos",
-    "texto": "Os manuscritos contam a parábola de três modos. (1) O texto-base, com Tregelles, o NA28 e o texto bizantino: o primeiro filho diz “não” e vai; o segundo diz “sim” e não vai; a resposta é “o primeiro”. (2) Westcott-Hort, com B e outros manuscritos: o primeiro diz “sim” e não vai; o segundo diz “não” e vai; a resposta é “o último”. (3) Alguns manuscritos, entre eles D: o primeiro diz “não” e vai, mas a resposta é “o último”, o que faria os líderes responderem errado por teimosia. A forma (1) é a mais bem atestada e a mais clara; a (2) pode ter nascido da ideia de que o filho que diz “sim” e não faz representa os judeus, chamados primeiro (Metzger).",
+    "texto": "Os manuscritos contam a parábola de três modos. (1) O texto-base, com o NA28 e o texto bizantino: o primeiro filho diz “não” e vai; o segundo diz “sim” e não vai; a resposta é “o primeiro”. Tregelles tem este diálogo, mas responde “o último” (forma 3). (2) Westcott-Hort, com B e outros manuscritos: o primeiro diz “sim” e não vai; o segundo diz “não” e vai; a resposta é “o último”. (3) Alguns manuscritos, entre eles D: o primeiro diz “não” e vai, mas a resposta é “o último”, o que faria os líderes responderem errado por teimosia. A forma (1) é a mais bem atestada e a mais clara; a (2) pode ter nascido da ideia de que o filho que diz “sim” e não faz representa os judeus, chamados primeiro (Metzger).",
     "revisar": true
    }
   ]
@@ -2059,7 +2059,7 @@
     "ancora": "O primeiro",
     "termo": "ὁ πρῶτος (ho prōtos)",
     "titulo": "“o primeiro” ou “o último”",
-    "texto": "O texto-base, com o NA28 e o texto bizantino, traz ho prōtos; Westcott-Hort e Tregelles, ho hysteros, “o último”, de acordo com a ordem que adotam ou com a forma (3) descrita na nota ao v. 29. O Textus Receptus e o Texto Bizantino acrescentam autō (“responderam-lhe”)."
+    "texto": "O texto-base, com o NA28 e o texto bizantino, traz ho prōtos; Westcott-Hort e Tregelles, ho hysteros, “o último”: em Westcott-Hort, de acordo com a ordem inversa dos filhos (forma 2); em Tregelles, com o diálogo do texto-base (forma 3), descritas na nota ao v. 29. O Textus Receptus e o Texto Bizantino acrescentam autō (“responderam-lhe”)."
    },
    {
     "tipo": "tn",
@@ -2144,7 +2144,7 @@
     "ancora": "servos",
     "termo": "δούλους (doulous)",
     "titulo": "douloi",
-    "texto": "A APV mantém “servos” porque a parábola não põe em foco a condição de escravo, e porque os enviados representam os profetas, que o AT chama de “meus servos, os profetas” (Jr 7:25; Am 3:7). Ver nota em 8:9."
+    "texto": "A APV mantém “servos” porque a parábola não põe em foco a condição de escravo, e porque os enviados representam os profetas, que o AT chama de “meus servos, os profetas” (Jr 7:25; Am 3:7). Em 18:23-35 a APV usou “escravos” porque ali a própria condição de propriedade é o centro da história (a venda do devedor com a família, v. 25); aqui o centro é a missão dos enviados e a rejeição deles. Ver nota em 8:9. Literalmente, douloi são escravos."
    },
    {
     "tipo": "tn",
@@ -2466,7 +2466,7 @@
     "ancora": "não deram importância",
     "termo": "ἀμελήσαντες (amelēsantes)",
     "titulo": "ameleō",
-    "texto": "“Descuidar, não fazer caso” (cf. Hb 2:3: “se negligenciarmos tão grande salvação”). A recusa não é hostil, mas indiferente: os negócios de cada dia valem mais que o convite do rei."
+    "texto": "“Descuidar, não fazer caso” (cf. Hb 2:3, onde o mesmo verbo descreve quem descuida de uma salvação tão grande). A recusa não é hostil, mas indiferente: os negócios de cada dia valem mais que o convite do rei."
    },
    {
     "tipo": "tn",
@@ -2497,7 +2497,7 @@
     "ancora": "incendiou a cidade deles",
     "termo": "τὴν πόλιν αὐτῶν ἐνέπρησεν",
     "titulo": "Jerusalém em 70?",
-    "texto": "Muitos veem aqui uma alusão à destruição de Jerusalém pelos romanos no ano 70, que Jesus anuncia em 23:38 e 24:2. Outros lembram que incendiar a cidade de quem se revolta era a punição comum na guerra antiga e no AT (Jz 1:8; Is 5:24-25), e que a imagem não exige que o texto tenha sido escrito depois de 70. Emprēthō (“incendiar”) é hápax."
+    "texto": "Muitos veem aqui uma alusão à destruição de Jerusalém pelos romanos no ano 70, que Jesus anuncia em 23:38 e 24:2. Outros lembram que incendiar a cidade de quem se revolta era a punição comum na guerra antiga e no AT (Js 8:19; Jz 1:8; 20:48), e que a imagem não exige que o texto tenha sido escrito depois de 70. Emprēthō (“incendiar”) é hápax."
    },
    {
     "tipo": "tc",
@@ -2566,7 +2566,7 @@
     "ancora": "roupa de festa de casamento",
     "termo": "ἔνδυμα γάμου (endyma gamou)",
     "titulo": "a roupa de festa",
-    "texto": "Não se trata de roupa luxuosa, mas de roupa adequada, limpa, própria para a festa. Não há prova segura de que o anfitrião fornecesse as roupas, como às vezes se diz. O sentido da imagem é debatido: (1) a justiça e os frutos que o Reino exige (5:20; 21:43; cf. Ap 19:8, “o linho fino são os atos de justiça dos santos”); (2) a justiça dada por Deus, como “vestes de salvação” (Is 61:10; Zc 3:3-5), leitura comum na tradição da Reforma. Para Mateus as duas coisas não se separam: quem aceita o convite gratuito deve viver de modo digno dele."
+    "texto": "Não se trata de roupa luxuosa, mas de roupa adequada, limpa, própria para a festa. Não há prova segura de que o anfitrião fornecesse as roupas, como às vezes se diz. O sentido da imagem é debatido: (1) a justiça e os frutos que o Reino exige (5:20; 21:43; cf. Ap 19:8, onde o linho fino são as ações justas dos santos); (2) a justiça dada por Deus, como “vestes de salvação” (Is 61:10; Zc 3:3-5), leitura comum na tradição da Reforma. Para Mateus as duas coisas não se separam: quem aceita o convite gratuito deve viver de modo digno dele."
    },
    {
     "tipo": "tn",
@@ -2877,14 +2877,14 @@
   ]
  },
  "Mat.22.30": {
-  "t": "Pois na ressurreição nem os homens se casam nem as mulheres são dadas em casamento; são como anjos de Deus no céu.",
+  "t": "Pois na ressurreição nem se casam nem são dados em casamento; são como anjos de Deus no céu.",
   "n": [
    {
     "tipo": "tn",
-    "ancora": "nem os homens se casam nem as mulheres são dadas em casamento",
+    "ancora": "nem se casam nem são dados em casamento",
     "termo": "οὔτε γαμοῦσιν οὔτε γαμίζονται",
     "titulo": "dois verbos",
-    "texto": "Gameō é casar-se (dito do homem); gamizō, dar em casamento (dito da mulher, entregue pelo pai). A tradução explicita os sujeitos para mostrar os dois lados do costume da época. O Textus Receptus e o Texto Bizantino trazem ekgamizontai, de mesmo sentido."
+    "texto": "Gameō é casar-se, dito de homens e de mulheres (Mc 10:12; 1Co 7:28); gamizō, dar em casamento, dito em geral da filha que o pai entrega. Os dois verbos juntos cobrem o casamento por inteiro: na ressurreição ninguém toma nem é dado em casamento. O Textus Receptus e o Texto Bizantino trazem ekgamizontai, de mesmo sentido."
    },
    {
     "tipo": "sn",
@@ -3597,7 +3597,7 @@
     "ancora": "a justiça, a misericórdia e a fidelidade",
     "termo": "τὴν κρίσιν καὶ τὸ ἔλεος καὶ τὴν πίστιν",
     "titulo": "krisis, eleos e pistis",
-    "texto": "Krisis traduz o hebraico mishpat, “direito, justiça” (ver nota em 12:18); não é dikaiosynē. Pistis aqui não é a fé em Deus que salva, mas a fidelidade, a lealdade a Deus e aos outros (cf. Gl 5:22); por isso “fidelidade”. A tríade lembra Mq 6:8 (“praticar a justiça, amar a misericórdia e andar humildemente com o seu Deus”) e Os 6:6 (cf. 9:13; 12:7). O Textus Receptus e o Texto Bizantino trazem ton eleon, forma masculina de mesmo sentido."
+    "texto": "Krisis traduz o hebraico mishpat, “direito, justiça” (ver nota em 12:18); não é dikaiosynē. Pistis aqui não é a fé em Deus que salva, mas a fidelidade, a lealdade a Deus e aos outros (cf. Gl 5:22); por isso “fidelidade”. A tríade lembra Mq 6:8, que no hebraico pede agir com justiça (mishpat), amar a bondade leal (ḥesed) e caminhar com humildade diante de Deus, e Os 6:6 (cf. 9:13; 12:7). O Textus Receptus e o Texto Bizantino trazem ton eleon, forma masculina de mesmo sentido."
    },
    {
     "tipo": "tn",
@@ -3831,7 +3831,7 @@
     "ancora": "esta geração",
     "termo": "τὴν γενεὰν ταύτην (tēn genean tautēn)",
     "titulo": "genea",
-    "texto": "Os contemporâneos de Jesus. O juízo anunciado cumpriu-se em grande parte na destruição de Jerusalém e do templo no ano 70 (24:2, 34). O Texto Bizantino traz hoti antes de “virá”; Tregelles, o Textus Receptus e o Texto Bizantino, outra ordem em “tudo isso”."
+    "texto": "Em Mateus, genea com “esta” designa em geral os contemporâneos de Jesus, marcados pela incredulidade (11:16; 12:39-45; 17:17). As leituras principais: (1) o juízo cumpriu-se na destruição de Jerusalém e do templo no ano 70, menos de quarenta anos depois (24:2); (2) “esta geração” é a humanidade incrédula como tipo moral, que continua até a vinda de Cristo; (3) há dupla referência: o ano 70 antecipa o juízo final. A primeira é a mais natural no contexto imediato (23:38; 24:1-2); a mesma questão volta em 24:34. O Texto Bizantino traz hoti antes de “virá”; Tregelles, o Textus Receptus e o Texto Bizantino, outra ordem em “tudo isso”."
    }
   ]
  },

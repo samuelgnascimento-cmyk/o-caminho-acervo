@@ -1,0 +1,138 @@
+[
+ {
+  "ref": "Luk.10.42",
+  "gravidade": "media",
+  "problema": "Nota tc com duas afirmações que o aparato do SBLGNT não confirma e que são duvidosas. (1) “a comissão do NA28 e do UBS preferiu ‘uma só coisa’ (Metzger)”: o NA28 imprime ἑνὸς δέ ἐστιν χρεία (confirmado no aparato), mas a comissão do UBS, segundo Metzger, escolheu a forma mais longa (ὀλίγων … ἢ ἑνός) como texto; atribuir ‘uma só coisa’ também ao UBS e citar Metzger para isso é provavelmente falso. (2) “o Códice de Beza e manuscritos latinos antigos omitem a frase inteira junto com parte do v. 41”: nada disso está no aparato do SBLGNT e o alcance exato da omissão não é seguro. Também falta dizer que o texto-base do SBLGNT (ὀλίγων ἢ ἑνὸς δέ ἐστιν χρεία) tem ordem própria, diferente da de WH (ὀλίγων δέ … ἢ ἑνός).",
+  "sugestao": "Reescrever só com o que o aparato mostra: WH traz ὀλίγων δέ ἐστιν χρεία ἢ ἑνός; NA28, Tregelles e RP trazem ἑνὸς δέ ἐστιν χρεία. Dizer apenas que “o NA28 imprime ‘uma só coisa’”; tirar a frase sobre a comissão do UBS (ou conferir Metzger, 2ª ed., antes de manter) e trocar a menção a Beza e às latinas por “alguns poucos testemunhos omitem a frase” (ou remover). Marcar revisar:true (já está).",
+  "decisao": "aceito em parte",
+  "motivo": "Retirei a frase sobre a comissão do UBS/Metzger e a menção a Beza e às latinas (agora 'alguns poucos testemunhos'); fica só 'o NA28 imprime uma só coisa'. Não aceito a ordem própria do SBLGNT: o texto oficial do SBLGNT traz ὀλίγων δέ ἐστιν χρεία ἢ ἑνός, igual a WH."
+ },
+ {
+  "ref": "Luk.11.2",
+  "gravidade": "media",
+  "problema": "Nota tc sobre a variante do Espírito Santo: junta “os minúsculos 162 e 700 e Gregório de Nissa” como se todos trouxessem a petição “Venha o teu Espírito Santo sobre nós e nos purifique” no lugar de “Venha o teu Reino”. O aparato do SBLGNT não registra essa variante, então não há confirmação local; pela tradição do aparato crítico, a posição da petição varia entre as testemunhas (700 e Gregório de Nissa no lugar de “venha o teu Reino”; 162 em outro ponto da oração), e Marcião/Máximo também são citados. Além disso, “leitura que a crítica considera secundária” é generalização: Harnack e Streeter a defenderam como original; a maioria a rejeita.",
+  "sugestao": "Suavizar: “Alguns poucos testemunhos tardios (entre eles o minúsculo 700) e Gregório de Nissa trazem uma petição pelo Espírito Santo no lugar de um dos dois primeiros pedidos; a maioria dos críticos a considera secundária.” Tirar o 162 se não for conferido no aparato do NA28/UBS. Manter revisar:true na nota.",
+  "decisao": "aceito",
+  "motivo": "Tirei os minúsculos 162 e 700, 𝔓75/B e Metzger. A variante do Espírito agora vem atribuída a 'poucos testemunhos tardios e Gregório de Nissa', no lugar de um dos primeiros pedidos, com a observação de que alguns a defenderam e a maioria a rejeita."
+ },
+ {
+  "ref": "Luk.9.32",
+  "gravidade": "media",
+  "problema": "Nota tn sobre διαγρηγορέω afirma que “despertar completamente” é o sentido “mais comum nos dicionários” e que “manter-se acordado” é só defendido “por vários comentaristas”. A afirmação sobre os dicionários não é segura: os léxicos (BDAG, LSJ) registram os dois sentidos, e “permanecer acordado, vencer o sono” é muito defendido (a leitura de ‘ficaram acordados’ é comum nas versões e comentários).",
+  "sugestao": "Trocar por “os léxicos e os comentaristas se dividem; a APV segue ‘despertar por completo’ porque… (justificar pelo contraste com βεβαρημένοι ὕπνῳ e pelo aoristo ingressivo)”, sem apelar a ‘mais comum nos dicionários’. Marcar revisar:true (hápax de sentido disputado).",
+  "decisao": "aceito",
+  "motivo": "Tirei 'mais comum nos dicionários'; os léxicos e os comentaristas se dividem, justifiquei pelo aoristo e marquei revisar:true."
+ },
+ {
+  "ref": "Luk.11.9",
+  "gravidade": "media",
+  "problema": "“Por isso eu lhes digo” traduz κἀγὼ ὑμῖν λέγω. O grego traz καί + ἐγώ (“e eu”, “eu, de minha parte”), sem conectivo causal; “Por isso” é acréscimo que cria uma inferência não escrita (o guia manda manter os conectivos e não acrescentar interpretação) e perde o ἐγώ enfático.",
+  "sugestao": "“E eu lhes digo: peçam, e lhes será dado…” (ou “Pois eu também lhes digo”, se quiser marcar o paralelo com a parábola).",
+  "decisao": "aceito",
+  "motivo": "'E eu lhes digo' (κἀγώ), sem conectivo causal acrescentado; nota sobre o egō enfático."
+ },
+ {
+  "ref": "Luk.11.27",
+  "gravidade": "media",
+  "problema": "Palavras de uma mulher dirigidas diretamente a Jesus: μακαρία ἡ κοιλία ἡ βαστάσασά σε, καὶ μαστοὶ οὓς ἐθήλασας. A tradução usa a 3ª pessoa (“que o carregou”) onde o grego tem σε (2ª pessoa), contra o tratamento do guia (“você” para quem fala com Jesus sem κύριε). Além disso, “os seios que o amamentaram” inverte a construção: οὓς ἐθήλασας tem Jesus como sujeito (“os seios que você mamou/sugou”), não os seios.",
+  "sugestao": "“Bem-aventurado o ventre que carregou você e os seios que você mamou!”",
+  "decisao": "aceito",
+  "motivo": "Segunda pessoa, conforme o tratamento (sem κύριε): 'que carregou você e os seios que você mamou', com o sujeito correto de ἐθήλασας; nota explica."
+ },
+ {
+  "ref": "Luk.12.58",
+  "gravidade": "media",
+  "problema": "O conectivo γάρ de ὡς γὰρ ὑπάγεις foi omitido: “Quando você estiver indo…”. O versículo é o fundamento do v. 57 (“Pois…”), e o guia manda manter os conectivos lógicos do grego. O ὡς temporal/comparativo também fica reduzido a “quando”.",
+  "sugestao": "“Pois, quando você estiver indo com o seu adversário ao magistrado, faça o possível…” (ou “Por exemplo: quando você…” com nota, se o revisor preferir explicitar a função de exemplo).",
+  "decisao": "aceito",
+  "motivo": "'Pois, quando você...', mantendo γάρ; nota liga o v. 58 ao v. 57."
+ },
+ {
+  "ref": "Luk.12.3",
+  "gravidade": "media",
+  "problema": "Nota tn sobre ἀνθ᾽ ὧν: diz que “Lucas usa a expressão nos dois sentidos (1:20; 19:44)”. Mas em 1:20 e 19:44 a expressão significa “porque” (ἀνθ᾽ ὧν οὐκ ἐπίστευσας; ἀνθ᾽ ὧν οὐκ ἔγνως), os dois no mesmo sentido; as referências não provam o sentido inferencial (“por isso”) adotado aqui e que é raro.",
+  "sugestao": "Reescrever: “ἀνθ᾽ ὧν é literalmente ‘em troca do que’ e costuma significar ‘porque’ (1:20; 19:44); aqui tem sentido de consequência (‘por isso’, ‘de modo que’), como o contexto exige.” Não afirmar que Lucas usa ‘nos dois sentidos’ com essas referências.",
+  "decisao": "aceito",
+  "motivo": "Nota reescrita: 1:20 e 19:44 têm o sentido de 'porque'; aqui o sentido é de consequência, exigido pelo contexto."
+ },
+ {
+  "ref": "Luk.11.38",
+  "gravidade": "media",
+  "problema": "Desvio do termo fixo: o guia manda βαπτίζω → “batizar”. Aqui ἐβαπτίσθη é traduzido por “fazer a lavagem ritual”, e a nota ainda afirma “A APV traduz sempre baptizō por ‘batizar’”, o que se contradiz com o próprio texto. A exceção é defensável (Mc 7:4; Lc 11:38), mas deixa de ser termo fixo sem sinalização.",
+  "sugestao": "Manter a exceção, mas marcar a nota com revisar:true e reformular: “Em geral a APV traduz baptizō por ‘batizar’; aqui, por ser uma imersão/lavagem ritual antes da refeição, usa ‘lavagem ritual’ (lit. ‘foi batizado’).” Ou, para preservar o termo fixo: “não se batizou (purificou-se por imersão) primeiro”.",
+  "decisao": "aceito",
+  "motivo": "Mantive a exceção ('lavagem ritual') e reformulei a nota ('em geral a APV traduz batizar'), com revisar:true."
+ },
+ {
+  "ref": "Luk.9.52",
+  "gravidade": "baixa",
+  "problema": "ἀγγέλους traduzido “mensageiros” sem nota tn. O guia pede nota sempre que ἄγγελος for ambíguo (anjo/mensageiro); aqui o contexto exige mensageiros humanos e a decisão merece uma linha (a nota de 10:1 só remete a “mensageiros de 9:52”).",
+  "sugestao": "Acrescentar tn em “mensageiros”: ἄγγελος é “enviado, mensageiro”; aqui são pessoas enviadas à frente, não anjos (cf. 7:24, 27; 9:52 com 4:10).",
+  "decisao": "aceito",
+  "motivo": "Acrescentei nota tn sobre ἄγγελος = mensageiros humanos."
+ },
+ {
+  "ref": "Luk.10.13",
+  "gravidade": "baixa",
+  "problema": "A nota diz que o particípio do texto-base (καθήμενοι) é masculino, referindo-se aos habitantes, e que o feminino (καθήμεναι) é do TR/Bizantino concordando com as cidades; mas a tradução “elas teriam se arrependido, sentadas” segue justamente o feminino do TR.",
+  "sugestao": "“…teriam se arrependido, sentados em pano de saco e cinza” (ou “…há muito tempo elas teriam se arrependido, com os seus habitantes sentados…”).",
+  "decisao": "aceito",
+  "motivo": "'teriam se arrependido, sentados', seguindo o masculino καθήμενοι do texto-base; nota ajustada."
+ },
+ {
+  "ref": "Luk.9.25",
+  "gravidade": "baixa",
+  "problema": "ζημιωθείς (“sofrer perda, ser prejudicado”) traduzido “for arruinada”, mais forte que o grego (a nota mesmo diz “sofrer prejuízo”). Também “se perder a si mesma ou for arruinada” perde o paralelo ἀπολέσας ἢ ζημιωθείς.",
+  "sugestao": "“…em ganhar o mundo inteiro, mas perder-se a si mesma ou sofrer a perda de si?” (ou “…se perder a si mesma ou sofrer dano”).",
+  "decisao": "aceito em parte",
+  "motivo": "Mudei 'for arruinada', forte demais, mas usei 'sair no prejuízo' para manter o par comercial lucro/prejuízo do grego; nota explica o passivo."
+ },
+ {
+  "ref": "Luk.9.35",
+  "gravidade": "baixa",
+  "problema": "Na sn: “aqui fala aos discípulos, e por isso a APV usa ‘vocês’”. O versículo não contém pronome de 2ª pessoa em português (“Ouçam-no!”); a frase é confusa e parece resto de uma redação em que a voz diria “tu és” a Jesus. A nota também cita Sl 2:7 como “Tu és o meu Filho” sem explicar que a voz aqui é “Este é”.",
+  "sugestao": "Reescrever: “No batismo a voz fala a Jesus (‘Tu és o meu Filho’, 3:22); aqui fala aos discípulos (‘Este é o meu Filho’), e por isso o imperativo ‘Ouçam-no’ está no plural.”",
+  "decisao": "aceito",
+  "motivo": "Nota reescrita: no batismo a voz diz 'Tu és'; aqui 'Este é', e 'Ouçam-no' fica no plural. Tirei também a atribuição a Metzger na nota tc."
+ },
+ {
+  "ref": "Luk.12.1",
+  "gravidade": "baixa",
+  "problema": "τῶν μυριάδων (“as miríades, dezenas de milhares”) traduzido “aos milhares”: o texto diz dezenas de milhares (hipérbole), e “milhares” reduz a ordem de grandeza; a nota reconhece isso, mas o texto principal fica mais fraco que o grego.",
+  "sugestao": "“a multidão se reuniu aos montes, às dezenas de milhares” (ou “aos milhares e milhares”), mantendo a nota sobre myrias.",
+  "decisao": "aceito",
+  "motivo": "'às dezenas de milhares', mantendo a ordem de grandeza de μυριάδες."
+ },
+ {
+  "ref": "Luk.11.6",
+  "gravidade": "baixa",
+  "problema": "Afirmações culturais sem base na folha ou em fonte citada: “Viajava-se à noite para evitar o calor. O pão era feito a cada dia; à meia-noite, o pão do dia podia ter acabado.” Servem de explicação, mas são apresentadas como fato.",
+  "sugestao": "Suavizar (“é provável que…”) ou cortar a segunda e a terceira frases; manter só o dever de hospitalidade.",
+  "decisao": "aceito",
+  "motivo": "Cortei as afirmações culturais sem fonte (viagens noturnas, pão do dia); ficou só o dever de hospitalidade."
+ },
+ {
+  "ref": "Luk.10.25",
+  "gravidade": "baixa",
+  "problema": "“o mestre ensinava sentado, e quem fazia uma pergunta se punha de pé”: costume apresentado como fato sem fonte; ἀνέστη em Lucas é frase comum de “levantar-se para falar” (cf. 4:16).",
+  "sugestao": "Cortar a frase ou escrever “‘Se levantou’ indica que ele toma a palavra diante de Jesus e dos presentes.”",
+  "decisao": "aceito",
+  "motivo": "Troquei o costume afirmado sem fonte por 'indica que ele toma a palavra'."
+ },
+ {
+  "ref": "Luk.11.42",
+  "gravidade": "baixa",
+  "problema": "“A arruda … era, segundo a Mishná, isenta do dízimo”: referência vaga à Mishná, sem tratado nem passagem (a isenção da arruda costuma ser citada de m. Šebiʿit 9:1 ou Maʿaśerot, e o ponto é discutido); a nota não deveria afirmar sem referência.",
+  "sugestao": "Escrever “segundo algumas fontes rabínicas, como a Mishná, a arruda não estava sujeita ao dízimo” ou remover a afirmação.",
+  "decisao": "aceito",
+  "motivo": "'Segundo algumas fontes rabínicas posteriores', sem afirmar a Mishná sem referência."
+ },
+ {
+  "ref": "Luk.10.38",
+  "gravidade": "baixa",
+  "problema": "Na nota tc de 10:38, o THGNT (εἰς presente, conforme a folha) é omitido da lista dos que acrescentam “em casa/em sua casa”; a lista fica incompleta e a descrição “O texto-base, com NA28, traz só ‘o recebeu’” deveria dizer que são variantes distintas (WH: εἰς τὴν οἰκίαν; Treg/RP: εἰς τὸν οἶκον αὐτῆς).",
+  "sugestao": "Acrescentar o THGNT ao grupo que traz εἰς e distinguir as duas formas (“em casa” de WH, “em sua casa” de Tregelles e TR/Bizantino).",
+  "decisao": "aceito",
+  "motivo": "As duas formas ficam distintas (WH εἰς τὴν οἰκίαν; Treg/TR/Byz εἰς τὸν οἶκον αὐτῆς) e o THGNT entra no grupo que traz εἰς."
+ }
+]

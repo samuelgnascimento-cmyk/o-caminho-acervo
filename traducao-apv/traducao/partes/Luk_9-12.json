@@ -463,14 +463,14 @@
   ]
  },
  "Luk.9.25": {
-  "t": "Pois que proveito tem uma pessoa em ganhar o mundo inteiro, se perder a si mesma ou for arruinada?",
+  "t": "Pois que proveito tem uma pessoa em ganhar o mundo inteiro, se perder a si mesma ou sair no prejuízo?",
   "n": [
    {
     "tipo": "tn",
-    "ancora": "se perder a si mesma ou for arruinada",
+    "ancora": "se perder a si mesma ou sair no prejuízo",
     "termo": "ἑαυτὸν δὲ ἀπολέσας ἢ ζημιωθείς",
     "titulo": "lucro e prejuízo",
-    "texto": "Kerdainō (“ganhar, lucrar”) e zēmioō (“sofrer prejuízo, perder”) são termos de comércio: de que adianta o lucro total se o preço é a própria pessoa? Lucas troca “a sua vida” (Mc 8:36) por “a si mesmo”, que explica o sentido de psychē no v. 24."
+    "texto": "Kerdainō (“ganhar, lucrar”) e zēmioō (“sofrer prejuízo, perder”) são termos de comércio: de que adianta o lucro total se o preço é a própria pessoa? Zēmiōtheis é passivo, “sofrer a perda, ser lesado”; “sair no prejuízo” guarda o par lucro/prejuízo sem tornar o verbo mais forte que o grego. Lucas troca “a sua vida” (Mc 8:36) por “a si mesmo”, que explica o sentido de psychē no v. 24."
    }
   ]
  },
@@ -589,7 +589,8 @@
     "ancora": "ao despertarem por completo",
     "termo": "διαγρηγορήσαντες (diagrēgorēsantes)",
     "titulo": "diagrēgoreō, hápax",
-    "texto": "O verbo só aparece aqui no NT. Pode significar “despertar completamente” ou “manter-se acordado” (vencendo o sono). Com “pesados de sono” logo antes, as duas leituras são possíveis: ou os discípulos tinham adormecido e acordaram a tempo de ver a glória, ou lutaram contra o sono e permaneceram acordados. A tradução segue a primeira, mais comum nos dicionários; a segunda é defendida por vários comentaristas."
+    "texto": "O verbo só aparece aqui no NT. Pode significar “despertar completamente” ou “manter-se acordado” (vencendo o sono). Com “pesados de sono” logo antes, as duas leituras são possíveis: ou os discípulos tinham adormecido e acordaram a tempo de ver a glória, ou lutaram contra o sono e permaneceram acordados. Os léxicos registram os dois sentidos, e os comentaristas se dividem. A APV segue “despertar por completo”, entendendo o aoristo como o início de um novo estado depois do sono pesado mencionado antes; “permanecendo acordados” é igualmente defensável.",
+    "revisar": true
    },
    {
     "tipo": "sn",
@@ -653,14 +654,14 @@
     "ancora": "Este é o meu Filho, o Escolhido. Ouçam-no!",
     "termo": "οὗτός ἐστιν ὁ υἱός μου ὁ ἐκλελεγμένος, αὐτοῦ ἀκούετε",
     "titulo": "três textos do AT",
-    "texto": "A voz une Sl 2:7 (“Tu és o meu Filho”), Is 42:1 (“o meu escolhido”, o Servo sobre quem Deus põe o seu Espírito) e Dt 18:15 (“a ele ouvireis”, o profeta como Moisés que Deus levantaria; cf. At 3:22). No batismo a voz falou a Jesus (3:22); aqui fala aos discípulos, e por isso a APV usa “vocês”. Depois do anúncio da paixão (v. 22), a ordem é ouvir Jesus também quando ele fala da cruz."
+    "texto": "A voz une Sl 2:7 (“Tu és o meu Filho”), Is 42:1 (“o meu escolhido”, o Servo sobre quem Deus põe o seu Espírito) e Dt 18:15 (“a ele ouvireis”, o profeta como Moisés que Deus levantaria; cf. At 3:22). No batismo a voz fala a Jesus (“Tu és o meu Filho”, 3:22); aqui fala aos discípulos (“Este é o meu Filho”), e por isso o imperativo “Ouçam-no” está no plural. Depois do anúncio da paixão (v. 22), a ordem é ouvir Jesus também quando ele fala da cruz."
    },
    {
     "tipo": "tc",
     "ancora": "o Escolhido",
     "termo": "ὁ ἐκλελεγμένος (ho eklelegmenos)",
     "titulo": "“o Escolhido” ou “o amado”",
-    "texto": "O texto-base, com Westcott-Hort, Tregelles e NA28, traz ho eklelegmenos (“o escolhido”); o Textus Receptus e o Texto Bizantino, ho agapētos (“o amado”), como em Mc 9:7, Mt 17:5 e Lc 3:22. A leitura mais incomum, que não coincide com os paralelos, é a mais provável; a troca para “amado” é assimilação (Metzger). O título volta em 23:35."
+    "texto": "O texto-base, com Westcott-Hort, Tregelles e NA28, traz ho eklelegmenos (“o escolhido”); o Textus Receptus e o Texto Bizantino, ho agapētos (“o amado”), como em Mc 9:7, Mt 17:5 e Lc 3:22. A leitura que não coincide com os paralelos é a mais provável; a troca para “amado” se explica como assimilação aos outros relatos. O título volta em 23:35."
    }
   ]
  },
@@ -959,6 +960,13 @@
   "n": [
    {
     "tipo": "tn",
+    "ancora": "mensageiros",
+    "termo": "ἀγγέλους (angelous)",
+    "titulo": "angelos",
+    "texto": "Angelos é “enviado, mensageiro”; o contexto decide entre “anjo” e “mensageiro”. Aqui são pessoas enviadas à frente para preparar a chegada de Jesus, e não anjos; por isso “mensageiros”, como em 7:24 e 7:27."
+   },
+   {
+    "tipo": "tn",
     "ancora": "à sua frente",
     "termo": "πρὸ προσώπου αὐτοῦ",
     "titulo": "“diante do seu rosto”",
@@ -1026,7 +1034,7 @@
     "ancora": "os repreendeu",
     "termo": "ἐπετίμησεν αὐτοῖς",
     "titulo": "o acréscimo dos vv. 55-56",
-    "texto": "O Textus Receptus e o Texto Bizantino acrescentam: “e disse: ‘Vocês não sabem de que espírito são. Pois o Filho do Homem não veio para destruir a vida das pessoas, mas para salvá-las’”. As palavras não estão nos manuscritos mais antigos (entre eles 𝔓75, ℵ e B) e não constam do texto-base, de Westcott-Hort, Tregelles e NA28. Aparecem em várias formas, mais curtas e mais longas, sinal de acréscimo gradual; a segunda frase lembra 19:10. Metzger considera o acréscimo antigo, mas secundário. O texto crítico termina com a repreensão, sem explicá-la."
+    "texto": "O Textus Receptus e o Texto Bizantino acrescentam: “e disse: ‘Vocês não sabem de que espírito são. Pois o Filho do Homem não veio para destruir a vida das pessoas, mas para salvá-las’”. As palavras não estão nos manuscritos mais antigos e não constam do texto-base, de Westcott-Hort, Tregelles e NA28. Nos manuscritos que as trazem aparecem em formas mais curtas e mais longas, sinal de acréscimo gradual; a segunda frase lembra 19:10. A maioria dos críticos considera o acréscimo antigo, mas secundário. O texto crítico termina com a repreensão, sem explicá-la."
    },
    {
     "tipo": "sn",
@@ -1157,7 +1165,7 @@
     "ancora": "setenta e dois",
     "termo": "ἑβδομήκοντα δύο (hebdomēkonta dyo)",
     "titulo": "setenta e dois ou setenta",
-    "texto": "O texto-base, com Westcott-Hort e NA28, traz “setenta e dois” (aqui e no v. 17); Tregelles, o Textus Receptus e o Texto Bizantino, “setenta”. Os manuscritos antigos se dividem: 𝔓75 e B trazem setenta e dois; ℵ e A, setenta. Os dois números têm simbolismo: a lista das nações de Gn 10 tem setenta nomes no hebraico e setenta e dois na Septuaginta, o que faria da missão um sinal da missão a todos os povos; e os setenta anciãos que receberam o Espírito com Moisés (Nm 11:16-25) são setenta e dois se contados Eldade e Medade (Nm 11:26). Metzger julga a questão quase empatada; a APV segue o texto-base.",
+    "texto": "O texto-base, com Westcott-Hort e NA28, traz “setenta e dois” (aqui e no v. 17); Tregelles, o Textus Receptus e o Texto Bizantino, “setenta”. Os manuscritos antigos se dividem entre as duas leituras. Os dois números têm simbolismo: a lista das nações de Gn 10 tem setenta nomes no hebraico e setenta e dois na Septuaginta, o que faria da missão um sinal da missão a todos os povos; e os setenta anciãos que receberam o Espírito com Moisés (Nm 11:16-25) são setenta e dois se contados Eldade e Medade (Nm 11:26). Como o apoio é equilibrado, a decisão é difícil; a APV segue o texto-base.",
     "revisar": true
    },
    {
@@ -1336,7 +1344,7 @@
   ]
  },
  "Luk.10.13": {
-  "t": "Ai de você, Corazim! Ai de você, Betsaida! Porque, se em Tiro e em Sidom tivessem sido realizados os milagres que foram realizados entre vocês, há muito tempo elas teriam se arrependido, sentadas em pano de saco e cinza.",
+  "t": "Ai de você, Corazim! Ai de você, Betsaida! Porque, se em Tiro e em Sidom tivessem sido realizados os milagres que foram realizados entre vocês, há muito tempo teriam se arrependido, sentados em pano de saco e cinza.",
   "n": [
    {
     "tipo": "tn",
@@ -1354,10 +1362,10 @@
    },
    {
     "tipo": "tn",
-    "ancora": "sentadas em pano de saco e cinza",
+    "ancora": "sentados em pano de saco e cinza",
     "termo": "ἐν σάκκῳ καὶ σποδῷ καθήμενοι",
     "titulo": "sinais de luto",
-    "texto": "O saco, tecido grosseiro de pelo de cabra, e a cinza eram sinais de luto e arrependimento (Jn 3:6; Dn 9:3). O particípio no texto-base é masculino (kathēmenoi), pensando nos habitantes; o Textus Receptus e o Texto Bizantino trazem o feminino (kathēmenai), concordando com as cidades. “Milagres” traduz dynameis, lit. “poderes”, “obras de poder”."
+    "texto": "O saco, tecido grosseiro de pelo de cabra, e a cinza eram sinais de luto e arrependimento (Jn 3:6; Dn 9:3). O particípio no texto-base é masculino (kathēmenoi), pensando nos habitantes, e a tradução o acompanha (“sentados”); o Textus Receptus e o Texto Bizantino trazem o feminino (kathēmenai), concordando com as cidades. “Milagres” traduz dynameis, lit. “poderes”, “obras de poder”."
    }
   ]
  },
@@ -1542,7 +1550,7 @@
     "ancora": "perito na Lei",
     "termo": "νομικός (nomikos)",
     "titulo": "nomikos",
-    "texto": "Veja a nota em 7:30. “Se levantou”: o mestre ensinava sentado, e quem fazia uma pergunta se punha de pé."
+    "texto": "Veja a nota em 7:30. “Se levantou” indica que ele toma a palavra diante de Jesus e dos presentes."
    },
    {
     "tipo": "tn",
@@ -1768,7 +1776,7 @@
     "ancora": "o recebeu",
     "termo": "ὑπεδέξατο αὐτόν (hypedexato auton)",
     "titulo": "“em sua casa”",
-    "texto": "O texto-base, com NA28, traz só “o recebeu”. Westcott-Hort acrescenta “em casa”; Tregelles, o Textus Receptus e o Texto Bizantino, “em sua casa”. O sentido é o mesmo: Marta é a anfitriã. O Textus Receptus e o Texto Bizantino começam com “E aconteceu que”."
+    "texto": "O texto-base, com NA28, traz só “o recebeu”. Há dois acréscimos distintos: Westcott-Hort traz eis tēn oikian (“em casa”); Tregelles, o Textus Receptus e o Texto Bizantino, eis ton oikon autēs (“em sua casa”). O THGNT também traz um acréscimo com eis. O sentido é o mesmo: Marta é a anfitriã. O Textus Receptus e o Texto Bizantino começam com “E aconteceu que”."
    },
    {
     "tipo": "sn",
@@ -1844,7 +1852,7 @@
     "ancora": "mas poucas coisas são necessárias, ou mesmo uma só",
     "termo": "ὀλίγων δέ ἐστιν χρεία ἢ ἑνός",
     "titulo": "o texto do v. 42",
-    "texto": "O texto-base, com Westcott-Hort, traz “poucas coisas são necessárias, ou uma só”. NA28, Tregelles, o Textus Receptus e o Texto Bizantino trazem só “uma só coisa é necessária”. Alguns testemunhos, como o Códice de Beza e manuscritos latinos antigos, omitem a frase inteira junto com parte do v. 41. Discute-se qual forma é a original: a do texto-base pode ser o original, que os copistas simplificaram, ou uma combinação de duas leituras antigas (“poucas coisas” e “uma só coisa”); a comissão do NA28 e do UBS preferiu “uma só coisa” (Metzger). Quem lê “poucas coisas” entende às vezes um jogo de palavras: Marta não precisava preparar muitos pratos; bastavam poucos, ou mesmo um. Em todas as formas, o sentido é o mesmo: a única coisa realmente necessária é ouvir a palavra de Jesus.",
+    "texto": "O texto-base, com Westcott-Hort, traz “poucas coisas são necessárias, ou uma só”. NA28, Tregelles, o Textus Receptus e o Texto Bizantino trazem só “uma só coisa é necessária”. Alguns poucos testemunhos omitem a frase. Discute-se qual forma é a original: a do texto-base pode ser o original, que os copistas simplificaram, ou uma combinação de duas leituras antigas (“poucas coisas” e “uma só coisa”); o NA28 imprime “uma só coisa”. Quem lê “poucas coisas” entende às vezes um jogo de palavras: Marta não precisava preparar muitos pratos; bastavam poucos, ou mesmo um. Em todas as formas, o sentido é o mesmo: a única coisa realmente necessária é ouvir a palavra de Jesus.",
     "revisar": true
    },
    {
@@ -1876,7 +1884,7 @@
     "ancora": "Pai, santificado seja o teu nome. Venha o teu Reino.",
     "termo": "Πάτερ, ἁγιασθήτω τὸ ὄνομά σου· ἐλθέτω ἡ βασιλεία σου",
     "titulo": "o Pai-Nosso em Lucas",
-    "texto": "No texto crítico (texto-base, Westcott-Hort, Tregelles e NA28), a oração do Senhor em Lucas é mais curta que em Mt 6:9-13: cinco pedidos em vez de sete. O Textus Receptus e o Texto Bizantino completam-na com as palavras de Mateus: aqui, “Pai nosso, que estás nos céus” e, depois de “Venha o teu Reino”, “seja feita a tua vontade, como no céu, assim também na terra”; no v. 4, “mas livra-nos do mal”. Os manuscritos mais antigos, como 𝔓75 e B, trazem a forma curta, e é muito mais provável que os copistas tenham acrescentado a Lucas as frases da forma usada no culto, que é a de Mateus, do que as tenham suprimido (Metzger). Alguns poucos testemunhos (os minúsculos 162 e 700) e Gregório de Nissa trazem, no lugar de “Venha o teu Reino”, “Venha o teu Espírito Santo sobre nós e nos purifique”, leitura que a crítica considera secundária. As duas formas canônicas não se opõem: Jesus provavelmente ensinou a oração mais de uma vez, ou cada evangelista a transmitiu como era rezada na sua comunidade."
+    "texto": "No texto crítico (texto-base, Westcott-Hort, Tregelles e NA28), a oração do Senhor em Lucas é mais curta que em Mt 6:9-13: cinco pedidos em vez de sete. O Textus Receptus e o Texto Bizantino completam-na com as palavras de Mateus: aqui, “Pai nosso, que estás nos céus” e, depois de “Venha o teu Reino”, “seja feita a tua vontade, como no céu, assim também na terra”; no v. 4, “mas livra-nos do mal”. Os manuscritos mais antigos trazem a forma curta, e é muito mais provável que os copistas tenham acrescentado a Lucas as frases da forma usada no culto, que é a de Mateus, do que as tenham suprimido. Alguns poucos testemunhos tardios e Gregório de Nissa trazem uma petição pelo Espírito Santo (“Venha o teu Espírito Santo sobre nós e nos purifique”) no lugar de um dos primeiros pedidos; alguns estudiosos a defenderam como original, mas a maioria a considera secundária. As duas formas canônicas não se opõem: Jesus provavelmente ensinou a oração mais de uma vez, ou cada evangelista a transmitiu como era rezada na sua comunidade."
    },
    {
     "tipo": "tn",
@@ -1959,7 +1967,7 @@
     "ancora": "não tenho nada para lhe oferecer",
     "termo": "οὐκ ἔχω ὃ παραθήσω αὐτῷ",
     "titulo": "a hospitalidade",
-    "texto": "Receber um hóspede era dever sagrado, que envolvia a honra da casa e da aldeia. Viajava-se à noite para evitar o calor. O pão era feito a cada dia; à meia-noite, o pão do dia podia ter acabado."
+    "texto": "Receber um hóspede era dever sagrado, que envolvia a honra da casa e da aldeia. O hóspede chega à meia-noite, e o anfitrião não tem pão em casa para servir."
    }
   ]
  },
@@ -1989,14 +1997,14 @@
   ]
  },
  "Luk.11.9": {
-  "t": "Por isso eu lhes digo: peçam, e lhes será dado; busquem, e acharão; batam, e a porta lhes será aberta.",
+  "t": "E eu lhes digo: peçam, e lhes será dado; busquem, e acharão; batam, e a porta lhes será aberta.",
   "n": [
    {
     "tipo": "tn",
     "ancora": "peçam, e lhes será dado",
     "termo": "αἰτεῖτε, καὶ δοθήσεται ὑμῖν",
     "titulo": "imperativos presentes",
-    "texto": "Os três imperativos estão no presente: “continuem pedindo, continuem buscando, continuem batendo”. “Será dado” e “será aberta” são passivas que têm Deus como agente. “A porta” foi acrescentada para clareza, já que “bater” sem objeto pressupõe a porta (v. 7)."
+    "texto": "Os três imperativos estão no presente: “continuem pedindo, continuem buscando, continuem batendo”. “Será dado” e “será aberta” são passivas que têm Deus como agente. “A porta” foi acrescentada para clareza, já que “bater” sem objeto pressupõe a porta (v. 7). “E eu lhes digo” traduz kagō hymin legō, com egō enfático: Jesus aplica a parábola com a sua própria autoridade."
    }
   ]
  },
@@ -2225,14 +2233,14 @@
   ]
  },
  "Luk.11.27": {
-  "t": "Enquanto Jesus dizia essas coisas, uma mulher da multidão levantou a voz e lhe disse: “Bem-aventurado o ventre que o carregou e os seios que o amamentaram!”",
+  "t": "Enquanto Jesus dizia essas coisas, uma mulher da multidão levantou a voz e lhe disse: “Bem-aventurado o ventre que carregou você e os seios que você mamou!”",
   "n": [
    {
     "tipo": "sn",
-    "ancora": "Bem-aventurado o ventre que o carregou",
+    "ancora": "Bem-aventurado o ventre que carregou você",
     "termo": "μακαρία ἡ κοιλία ἡ βαστάσασά σε",
     "titulo": "a bem-aventurança da mãe",
-    "texto": "Fórmula comum de elogio, em que se exalta uma pessoa pela mãe que a gerou. Lembra 1:42 e 1:48 (“todas as gerações me chamarão bem-aventurada”). Mastos (“seio”) é raro no NT. Só Lucas traz esta cena."
+    "texto": "Fórmula comum de elogio, em que se exalta uma pessoa pela mãe que a gerou. Lembra 1:42 e 1:48 (“todas as gerações me chamarão bem-aventurada”). Mastos (“seio”) é raro no NT. A mulher fala diretamente a Jesus (se, “você”), e em hous ethēlasas o sujeito é Jesus: lit. “os seios que você sugou”. Como não o chama de kyrie, a APV usa “você”. Só Lucas traz esta cena."
    }
   ]
  },
@@ -2378,7 +2386,8 @@
     "ancora": "não tivesse feito a lavagem ritual",
     "termo": "οὐ πρῶτον ἐβαπτίσθη (ou prōton ebaptisthē)",
     "titulo": "baptizō",
-    "texto": "Lit. “não foi primeiro batizado” ou “não se lavou primeiro”. Baptizō é aqui a lavagem ritual das mãos antes da refeição, prática que os fariseus observavam segundo a tradição dos antigos (Mc 7:3-4). A APV traduz sempre baptizō por “batizar”, mas aqui “batizar” levaria o leitor a pensar no batismo cristão; por isso “fazer a lavagem ritual”. Não se trata de higiene, mas de pureza ritual."
+    "texto": "Lit. “não foi primeiro batizado” ou “não se lavou primeiro”. Baptizō é aqui a lavagem ritual das mãos antes da refeição, prática que os fariseus observavam segundo a tradição dos antigos (Mc 7:3-4). Em geral a APV traduz baptizō por “batizar”; aqui, por ser uma lavagem ritual antes da refeição, “batizar” levaria o leitor a pensar no batismo cristão, e por isso a APV usa “fazer a lavagem ritual”. Não se trata de higiene, mas de pureza ritual.",
+    "revisar": true
    }
   ]
  },
@@ -2441,7 +2450,7 @@
     "ancora": "dão o dízimo da hortelã, da arruda e de toda hortaliça",
     "termo": "ἀποδεκατοῦτε τὸ ἡδύοσμον καὶ τὸ πήγανον καὶ πᾶν λάχανον",
     "titulo": "o dízimo",
-    "texto": "A Lei mandava dar o dízimo do produto da terra (Lv 27:30; Dt 14:22-23). Os fariseus o estendiam às menores ervas de tempero. A arruda (pēganon, hápax) era, segundo a Mishná, isenta do dízimo; Mt 23:23 diz “o endro e o cominho”. Jesus não condena o dízimo (“sem deixar de lado aquelas”), mas a inversão de prioridades. O Textus Receptus e o Texto Bizantino trazem aphienai no lugar de pareinai, ambos “deixar de lado”."
+    "texto": "A Lei mandava dar o dízimo do produto da terra (Lv 27:30; Dt 14:22-23). Os fariseus o estendiam às menores ervas de tempero. Segundo algumas fontes rabínicas posteriores, a arruda (pēganon, hápax) não estava sujeita ao dízimo; Mt 23:23 diz “o endro e o cominho”. Jesus não condena o dízimo (“sem deixar de lado aquelas”), mas a inversão de prioridades. O Textus Receptus e o Texto Bizantino trazem aphienai no lugar de pareinai, ambos “deixar de lado”."
    }
   ]
  },
@@ -2612,11 +2621,11 @@
   ]
  },
  "Luk.12.1": {
-  "t": "Enquanto isso, a multidão se reuniu aos milhares, a ponto de uns pisarem nos outros. Jesus começou a falar primeiro aos seus discípulos: “Tenham cuidado com o fermento dos fariseus, que é a hipocrisia.",
+  "t": "Enquanto isso, a multidão se reuniu às dezenas de milhares, a ponto de uns pisarem nos outros. Jesus começou a falar primeiro aos seus discípulos: “Tenham cuidado com o fermento dos fariseus, que é a hipocrisia.",
   "n": [
    {
     "tipo": "tn",
-    "ancora": "aos milhares",
+    "ancora": "às dezenas de milhares",
     "termo": "τῶν μυριάδων (tōn myriadōn)",
     "titulo": "myrias",
     "texto": "Lit. “tendo-se reunido as dezenas de milhares da multidão”. Myrias é “dez mil”, e no plural indica um número enorme, sem precisão. “Enquanto isso” traduz en hois, que liga a cena à anterior (11:53-54)."
@@ -2657,7 +2666,7 @@
     "ancora": "Por isso",
     "termo": "ἀνθ᾽ ὧν (anth’ hōn)",
     "titulo": "anth’ hōn",
-    "texto": "Pode ser “por isso, portanto” ou “porque”. Lucas usa a expressão nos dois sentidos (1:20; 19:44). Aqui tira a consequência do v. 2."
+    "texto": "Anth’ hōn é literalmente “em troca do que” e costuma significar “porque” (1:20; 19:44). Aqui, como o contexto exige, tem sentido de consequência: “por isso, de modo que”, tirando a conclusão do v. 2."
    },
    {
     "tipo": "tn",
@@ -3394,14 +3403,14 @@
   ]
  },
  "Luk.12.58": {
-  "t": "Quando você estiver indo com o seu adversário ao magistrado, faça o possível para se livrar dele no caminho, para que ele não o arraste até o juiz, e o juiz o entregue ao oficial de justiça, e o oficial o lance na prisão.",
+  "t": "Pois, quando você estiver indo com o seu adversário ao magistrado, faça o possível para se livrar dele no caminho, para que ele não o arraste até o juiz, e o juiz o entregue ao oficial de justiça, e o oficial o lance na prisão.",
   "n": [
    {
     "tipo": "tn",
     "ancora": "faça o possível para se livrar dele",
     "termo": "δὸς ἐργασίαν ἀπηλλάχθαι ἀπ᾽ αὐτοῦ",
     "titulo": "dos ergasian",
-    "texto": "Lit. “dê trabalho para ser libertado dele”, uma expressão que corresponde ao latim da operam, “empenhe-se”. Apallassō é “livrar-se”, aqui “entrar em acordo”. O discurso passa para o singular (“você”): cada ouvinte é chamado a reconciliar-se enquanto há tempo, antes do juízo de Deus. Katasyrō (“arrastar”) é hápax."
+    "texto": "Lit. “dê trabalho para ser libertado dele”, uma expressão que corresponde ao latim da operam, “empenhe-se”. Apallassō é “livrar-se”, aqui “entrar em acordo”. O discurso passa para o singular (“você”): cada ouvinte é chamado a reconciliar-se enquanto há tempo, antes do juízo de Deus. Katasyrō (“arrastar”) é hápax. “Pois” traduz gar: o caso do adversário ilustra o v. 57."
    },
    {
     "tipo": "tn",

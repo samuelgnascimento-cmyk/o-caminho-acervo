@@ -1,0 +1,1419 @@
+{
+ "Mrk.14.1": {
+  "t": "Faltavam dois dias para a Páscoa e a festa dos Pães sem Fermento. Os chefes dos sacerdotes e os escribas procuravam um modo de prender Jesus com astúcia e matá-lo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Faltavam dois dias para a Páscoa",
+    "termo": "Ἦν δὲ τὸ πάσχα καὶ τὰ ἄζυμα μετὰ δύο ἡμέρας",
+    "titulo": "“era a Páscoa depois de dois dias”",
+    "texto": "Lit. “Era a Páscoa e os Ázimos depois de dois dias”. A construção grega soaria estranha em português; “faltavam dois dias” diz o mesmo. Pela contagem inclusiva da época, “depois de dois dias” pode ser “no dia seguinte” ou “dali a dois dias”; o texto não permite fixar a data com precisão."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "a Páscoa e a festa dos Pães sem Fermento",
+    "termo": "τὸ πάσχα καὶ τὰ ἄζυμα (to pascha kai ta azyma)",
+    "titulo": "duas festas unidas",
+    "texto": "A Páscoa lembrava a libertação do Egito: o cordeiro era sacrificado na tarde do dia 14 do mês de nisã e comido na noite seguinte (Êx 12:1-14). A festa dos Pães sem Fermento (azyma, “ázimos”) vinha logo depois e durava sete dias, de 15 a 21 de nisã (Lv 23:5-8). No tempo de Jesus as duas eram tratadas como uma só celebração, e Jerusalém se enchia de peregrinos."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "com astúcia",
+    "termo": "ἐν δόλῳ (en dolō)",
+    "titulo": "dolos",
+    "texto": "Dolos é o engano, o ardil, a trama às escondidas. Os líderes querem evitar uma prisão pública. A mesma palavra aparece na lista de 7:22."
+   }
+  ]
+ },
+ "Mrk.14.2": {
+  "t": "Pois diziam: “Não durante a festa, para que não haja tumulto entre o povo”.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Não durante a festa",
+    "termo": "μὴ ἐν τῇ ἑορτῇ (mē en tē heortē)",
+    "titulo": "“durante a festa” ou “diante da multidão da festa”",
+    "texto": "Lit. “não na festa”. O sentido mais comum é temporal: não durante os dias da festa. Alguns estudiosos propõem que heortē aqui signifique a multidão reunida para a festa (“não diante do povo da festa”), o que explicaria por que a prisão acabou acontecendo durante a festa, mas à noite e longe da multidão. A tradução literal permite as duas leituras."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "tumulto entre o povo",
+    "termo": "θόρυβος τοῦ λαοῦ",
+    "titulo": "o medo das autoridades",
+    "texto": "Na Páscoa, festa da libertação, os ânimos nacionalistas se acendiam, e o governador romano costumava subir a Jerusalém com tropas. Os líderes temem a multidão que ouvia Jesus com prazer (11:18, 32; 12:12, 37). Ironia: o plano de esperar é desfeito pela oferta de Judas (vv. 10-11), e Jesus morre justamente na festa."
+   }
+  ]
+ },
+ "Mrk.14.3": {
+  "t": "Jesus estava em Betânia, na casa de Simão, o leproso. Enquanto ele estava à mesa, veio uma mulher com um frasco de alabastro cheio de perfume de nardo puro, muito caro. Ela quebrou o frasco e derramou o perfume sobre a cabeça dele.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Simão, o leproso",
+    "termo": "Σίμωνος τοῦ λεπροῦ",
+    "titulo": "um anfitrião marcado",
+    "texto": "Não é mencionado em outro lugar. Como não se recebiam hóspedes na casa de um leproso, ele provavelmente tinha sido curado e conservava o apelido (cf. 1:40-45)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "à mesa",
+    "termo": "κατακειμένου αὐτοῦ (katakeimenou autou)",
+    "titulo": "“reclinado”",
+    "texto": "Lit. “estando ele reclinado”. Em banquetes e refeições festivas, os convidados se reclinavam em divãs baixos, apoiados no cotovelo esquerdo, com os pés para fora. Por isso a mulher pode derramar o perfume sobre a cabeça dele (e, em Jo 12:3, sobre os pés)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "nardo puro",
+    "termo": "νάρδου πιστικῆς (nardou pistikēs)",
+    "titulo": "pistikos, raro",
+    "texto": "Nardo é um óleo aromático extraído de uma planta do Himalaia, importado e muito caro (Ct 1:12). Pistikos aparece só aqui e em Jo 12:3, e o sentido é discutido: a explicação mais comum o liga a pistis/pistos, “genuíno, não adulterado”; outros pensam num nome de lugar ou numa planta (o pistache). “Puro” segue a explicação mais aceita."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "derramou o perfume sobre a cabeça dele",
+    "termo": "κατέχεεν αὐτοῦ τῆς κεφαλῆς",
+    "titulo": "a unção da cabeça",
+    "texto": "No AT se ungia a cabeça dos reis (1Sm 10:1; 2Rs 9:3, 6). “Cristo” significa “Ungido” (ver nota em 1:1). Sem dizer palavra, a mulher unge o Messias, e Jesus interpreta o gesto como unção para a sepultura (v. 8): o rei será coroado na cruz (15:26)."
+   }
+  ]
+ },
+ "Mrk.14.4": {
+  "t": "Alguns dos que estavam ali, indignados, diziam entre si: “Para que este desperdício de perfume?",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "diziam entre si",
+    "termo": "πρὸς ἑαυτούς (+ καὶ λέγοντες)",
+    "titulo": "verbo de dizer",
+    "texto": "O SBLGNT, com Westcott-Hort e o NA28, traz só “estavam indignados entre si”, e a pergunta vem sem verbo que a introduza. Tregelles, o Textus Receptus e o Texto Bizantino acrescentam kai legontes (“e diziam”). A APV acrescenta “diziam” por clareza, como exige o português; o sentido é o mesmo."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "desperdício",
+    "termo": "ἀπώλεια (apōleia)",
+    "titulo": "apōleia",
+    "texto": "“Perda, desperdício”; em outros textos, “perdição, destruição” (Mt 7:13). Aqui é o perfume “perdido” num só gesto."
+   }
+  ]
+ },
+ "Mrk.14.5": {
+  "t": "Este perfume poderia ter sido vendido por mais de trezentos denários, e o dinheiro, dado aos pobres”. E a repreendiam com dureza.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "trezentos denários",
+    "termo": "δηναρίων τριακοσίων",
+    "titulo": "quase um ano de salário",
+    "texto": "O denário era o salário de um dia de trabalho (ver nota em 12:15). Trezentos denários equivaliam ao ganho de quase um ano de um trabalhador, descontados os sábados e as festas."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "e o dinheiro",
+    "termo": "καὶ δοθῆναι τοῖς πτωχοῖς",
+    "titulo": "acréscimo",
+    "texto": "Lit. “e ser dado aos pobres”. “O dinheiro” foi acrescentado, porque não é o perfume que seria dado, mas o valor da venda. Era costume dar esmolas aos pobres na noite da Páscoa (cf. Jo 13:29)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "a repreendiam com dureza",
+    "termo": "ἐνεβριμῶντο αὐτῇ (enebrimōnto autē)",
+    "titulo": "embrimaomai",
+    "texto": "O verbo descreve indignação forte, quase um bufar (ver nota em 1:43). O imperfeito sugere censura repetida."
+   }
+  ]
+ },
+ "Mrk.14.6": {
+  "t": "Mas Jesus disse: “Deixem-na. Por que vocês a estão incomodando? Ela fez uma boa obra para comigo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "uma boa obra",
+    "termo": "καλὸν ἔργον (kalon ergon)",
+    "titulo": "kalos: “bom” e “belo”",
+    "texto": "Kalos é ao mesmo tempo “bom” e “belo, nobre”. Alguns estudiosos lembram que, na tradição judaica, os atos de misericórdia, como sepultar os mortos, eram estimados acima da esmola, porque exigem a pessoa e não só o dinheiro. Jesus classifica o gesto como uma dessas obras (v. 8)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "para comigo",
+    "termo": "ἐν ἐμοί (en emoi)",
+    "titulo": "en emoi ou eis eme",
+    "texto": "O texto crítico traz en emoi; o Textus Receptus, eis eme. As duas formas significam “para comigo, em relação a mim”."
+   }
+  ]
+ },
+ "Mrk.14.7": {
+  "t": "Pois os pobres vocês sempre têm com vocês e, quando quiserem, podem fazer-lhes o bem; mas a mim vocês não terão sempre.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "os pobres vocês sempre têm com vocês",
+    "termo": "πάντοτε γὰρ τοὺς πτωχοὺς ἔχετε μεθ᾽ ἑαυτῶν",
+    "titulo": "eco de Deuteronômio 15:11",
+    "texto": "Eco de Dt 15:11: “Nunca deixará de haver pobres na terra; por isso eu lhe ordeno: abra a mão para o seu irmão”. Jesus não despreza o cuidado com os pobres, que a Lei manda praticar sempre (“quando quiserem, podem”); diz que a ocasião de honrá-lo antes da morte é única."
+   }
+  ]
+ },
+ "Mrk.14.8": {
+  "t": "Ela fez o que estava ao seu alcance: antecipou-se a ungir o meu corpo para o sepultamento.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Ela fez o que estava ao seu alcance",
+    "termo": "ὃ ἔσχεν ἐποίησεν (ho eschen epoiēsen)",
+    "titulo": "“o que tinha, fez”",
+    "texto": "Lit. “o que ela tinha, fez”: fez o que podia, deu o que tinha. Tregelles, o Textus Receptus e o Texto Bizantino acrescentam “esta” (hautē) como sujeito, sem mudar o sentido."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "antecipou-se a ungir",
+    "termo": "προέλαβεν μυρίσαι (proelaben myrisai)",
+    "titulo": "prolambanō e myrizō",
+    "texto": "Prolambanō é “fazer antes, antecipar”; myrizō, “ungir com perfume”, só aparece aqui no NT. A frase é um semitismo: “ela antecipou ungir” é “ela ungiu de antemão”."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "para o sepultamento",
+    "termo": "εἰς τὸν ἐνταφιασμόν (eis ton entaphiasmon)",
+    "titulo": "a unção que faltará",
+    "texto": "Entaphiasmos é a preparação do corpo para a sepultura (só aqui e em Jo 12:7). Em 16:1 as mulheres irão ao túmulo com aromas para ungir o corpo de Jesus e não poderão fazê-lo, porque ele terá ressuscitado. Esta mulher foi a única a ungi-lo."
+   }
+  ]
+ },
+ "Mrk.14.9": {
+  "t": "Em verdade lhes digo: onde quer que o evangelho for proclamado, no mundo inteiro, também o que ela fez será contado em memória dela”.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "em memória dela",
+    "termo": "εἰς μνημόσυνον αὐτῆς (eis mnēmosynon autēs)",
+    "titulo": "mnēmosynon",
+    "texto": "Mnēmosynon é o “memorial”, o que mantém viva uma lembrança; na Septuaginta é também a parte da oferta queimada como “memorial” diante de Deus (Lv 2:2). Pode ser lembrança dela entre os homens ou diante de Deus (cf. At 10:4); as duas ideias cabem. Ironia: Marcos não registra o nome da mulher, mas o seu gesto é lembrado onde o evangelho chega. Jo 12:3 a identifica como Maria, irmã de Marta e Lázaro."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "o evangelho",
+    "termo": "τὸ εὐαγγέλιον (+ τοῦτο)",
+    "titulo": "“este evangelho”",
+    "texto": "O Textus Receptus e o Texto Bizantino trazem “este evangelho”, como em Mt 26:13. Sem efeito no sentido."
+   }
+  ]
+ },
+ "Mrk.14.10": {
+  "t": "Então Judas Iscariotes, um dos Doze, foi aos chefes dos sacerdotes para lhes entregar Jesus.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "um dos Doze",
+    "termo": "ὁ εἷς τῶν δώδεκα (ho heis tōn dōdeka)",
+    "titulo": "o artigo",
+    "texto": "O grego tem o artigo (“o um dos Doze”), o que pode ser só um semitismo para “um dos Doze” ou indicar “aquele dos Doze” já conhecido do leitor (3:19). A tradução simples basta; o peso está na repetição: quem entrega é “um dos Doze” (vv. 20, 43)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "entregar",
+    "termo": "παραδοῖ (paradoi)",
+    "titulo": "paradidōmi",
+    "texto": "O verbo de 3:19 e das predições da Paixão (9:31; 10:33). A APV mantém “entregar” em vez de “trair” para conservar a ligação que Marcos faz entre o ato de Judas, o plano de Deus e o destino de João e dos discípulos (1:14; 13:9; ver nota em 3:19)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "foi aos chefes dos sacerdotes",
+    "termo": "ἀπῆλθεν πρὸς τοὺς ἀρχιερεῖς",
+    "titulo": "a moldura",
+    "texto": "Marcos põe a unção generosa da mulher (vv. 3-9) entre a trama dos líderes (vv. 1-2) e a ida de Judas (vv. 10-11). O contraste é deliberado: ela gasta uma fortuna com Jesus; ele o entrega por dinheiro. Marcos não dá o motivo de Judas."
+   }
+  ]
+ },
+ "Mrk.14.11": {
+  "t": "Eles, ao ouvir isso, ficaram contentes e prometeram dar-lhe dinheiro. E ele procurava uma ocasião oportuna para entregá-lo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "dinheiro",
+    "termo": "ἀργύριον (argyrion)",
+    "titulo": "“prata”",
+    "texto": "Lit. “prata”, isto é, dinheiro em moedas de prata. Marcos não diz a quantia; Mt 26:15 fala de trinta moedas de prata, em eco de Zc 11:12."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "uma ocasião oportuna",
+    "termo": "εὐκαίρως (eukairōs)",
+    "titulo": "eukairōs, raro",
+    "texto": "“No momento oportuno” (só aqui e em 2Tm 4:2). Retoma o v. 2: a ocasião procurada é aquela em que Jesus esteja longe da multidão."
+   }
+  ]
+ },
+ "Mrk.14.12": {
+  "t": "No primeiro dia dos Pães sem Fermento, quando se sacrificava o cordeiro da Páscoa, os seus discípulos lhe perguntaram: “Aonde você quer que vamos fazer os preparativos para você comer a Páscoa?”.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "quando se sacrificava o cordeiro da Páscoa",
+    "termo": "ὅτε τὸ πάσχα ἔθυον (hote to pascha ethyon)",
+    "titulo": "“quando sacrificavam a Páscoa”",
+    "texto": "Lit. “quando sacrificavam a Páscoa”. Pascha designa a festa, a refeição e também o cordeiro pascal (1Co 5:7). “O cordeiro da Páscoa” deixa o sentido claro. Os cordeiros eram imolados no templo na tarde do dia 14 de nisã."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "No primeiro dia dos Pães sem Fermento",
+    "termo": "τῇ πρώτῃ ἡμέρᾳ τῶν ἀζύμων",
+    "titulo": "a data da ceia",
+    "texto": "Pela contagem oficial, o primeiro dia dos Pães sem Fermento era o dia 15 de nisã, mas o fermento era retirado das casas já no dia 14, e o uso popular podia chamar esse dia de “primeiro”. Marcos, Mateus e Lucas apresentam a última ceia como refeição pascal; João a situa na véspera da Páscoa, com Jesus morrendo na hora em que os cordeiros eram imolados (Jo 18:28; 19:14). As principais soluções propostas: João segue outro calendário; os Sinóticos descrevem uma ceia de caráter pascal antecipada; ou as expressões de João se referem à semana festiva e não ao jantar pascal. A questão continua aberta."
+   }
+  ]
+ },
+ "Mrk.14.13": {
+  "t": "Ele enviou dois dos seus discípulos e lhes disse: “Vão à cidade, e um homem carregando um cântaro de água virá ao encontro de vocês. Sigam-no.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "um homem carregando um cântaro de água",
+    "termo": "ἄνθρωπος κεράμιον ὕδατος βαστάζων",
+    "titulo": "um sinal",
+    "texto": "Buscar água em cântaros de barro era, em geral, tarefa das mulheres; um homem com um cântaro seria fácil de reconhecer. Como na preparação da entrada em Jerusalém (11:1-6), Marcos mostra Jesus no controle dos acontecimentos, quer por conhecimento profético, quer por um acordo prévio que mantinha o lugar em segredo de Judas."
+   }
+  ]
+ },
+ "Mrk.14.14": {
+  "t": "E, onde ele entrar, digam ao dono da casa: ‘O Mestre pergunta: Onde está a minha sala de hóspedes, em que eu possa comer a Páscoa com os meus discípulos?’.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "a minha sala de hóspedes",
+    "termo": "τὸ κατάλυμά μου (to katalyma mou)",
+    "titulo": "katalyma",
+    "texto": "Katalyma é o lugar onde se hospeda alguém: o quarto de hóspedes de uma casa ou uma pousada (é a palavra de Lc 2:7). Na Páscoa, os moradores de Jerusalém cediam cômodos aos peregrinos, que tinham de comer o cordeiro dentro da cidade. O Textus Receptus e o Texto Bizantino não trazem “minha” (“a sala de hóspedes”)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "O Mestre",
+    "termo": "ὁ διδάσκαλος (ho didaskalos)",
+    "titulo": "como recado",
+    "texto": "O recado supõe que o dono da casa sabe quem é “o Mestre”, talvez um discípulo ou simpatizante."
+   }
+  ]
+ },
+ "Mrk.14.15": {
+  "t": "Ele lhes mostrará uma sala grande no andar de cima, já arrumada e pronta. Ali façam os preparativos para nós”.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "uma sala grande no andar de cima",
+    "termo": "ἀνάγαιον μέγα (anagaion mega)",
+    "titulo": "anagaion, raro",
+    "texto": "Só aqui e em Lc 22:12: um cômodo “acima do chão”, no andar superior ou no terraço coberto da casa. Uma sala grande indica uma casa de família de posses."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "arrumada",
+    "termo": "ἐστρωμένον (estrōmenon)",
+    "titulo": "strōnnymi",
+    "texto": "Lit. “estendida, forrada”: com os tapetes e os divãs já dispostos para a refeição reclinada (ver nota no v. 3). Restava aos discípulos preparar o cordeiro, os pães, as ervas amargas e o vinho."
+   }
+  ]
+ },
+ "Mrk.14.16": {
+  "t": "Os discípulos saíram, foram à cidade, encontraram tudo como ele lhes tinha dito e prepararam a Páscoa.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "Os discípulos",
+    "termo": "οἱ μαθηταί (+ αὐτοῦ)",
+    "titulo": "“seus discípulos”",
+    "texto": "Tregelles, o Textus Receptus e o Texto Bizantino trazem “os seus discípulos”. Sem efeito no sentido."
+   }
+  ]
+ },
+ "Mrk.14.17": {
+  "t": "Ao anoitecer, ele chegou com os Doze.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Ao anoitecer",
+    "termo": "ὀψίας γενομένης (opsias genomenēs)",
+    "titulo": "uma refeição noturna",
+    "texto": "A refeição pascal era comida à noite (Êx 12:8). Pela contagem judaica, o dia começava ao pôr do sol: a ceia, a prisão, o julgamento e a morte de Jesus caem no mesmo dia. O verbo está no presente histórico (“chega”), traduzido no passado."
+   }
+  ]
+ },
+ "Mrk.14.18": {
+  "t": "Enquanto estavam à mesa comendo, Jesus disse: “Em verdade lhes digo que um de vocês vai me entregar, um que come comigo”.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "um que come comigo",
+    "termo": "ὁ ἐσθίων μετ᾽ ἐμοῦ",
+    "titulo": "eco do Salmo 41",
+    "texto": "Eco de Sl 41:9 (41:10 no hebraico): “até o meu amigo íntimo, em quem eu confiava, que comia do meu pão, levantou contra mim o calcanhar”. Jo 13:18 cita o salmo de modo explícito. No Oriente, comer juntos selava amizade e lealdade; a traição por um comensal era especialmente grave."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "vai me entregar",
+    "termo": "παραδώσει με (paradōsei me)",
+    "titulo": "paradidōmi",
+    "texto": "Ver nota no v. 10. A tradução evita “trair” para manter a ligação com as predições da Paixão."
+   }
+  ]
+ },
+ "Mrk.14.19": {
+  "t": "Eles começaram a ficar tristes e a perguntar-lhe, um após outro: “Por acaso sou eu?”.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Por acaso sou eu?",
+    "termo": "μήτι ἐγώ; (mēti egō?)",
+    "titulo": "pergunta que espera um “não”",
+    "texto": "Mēti introduz pergunta que espera resposta negativa: “Não sou eu, sou?”. “Por acaso” guarda a hesitação de quem quer ouvir que não."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "um após outro",
+    "termo": "εἷς κατὰ εἷς (heis kata heis)",
+    "titulo": "expressão popular",
+    "texto": "Expressão do grego popular (com o nominativo depois da preposição), equivalente a “um por um”."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Por acaso sou eu?",
+    "termo": "μήτι ἐγώ (+ καὶ ἄλλος· μήτι ἐγώ;)",
+    "titulo": "acréscimo do TR",
+    "texto": "O Textus Receptus e o Texto Bizantino acrescentam: “E outro: ‘Por acaso sou eu?’”. Tregelles, o Textus Receptus e o Texto Bizantino também começam com “E eles”. O texto crítico tem a forma breve."
+   }
+  ]
+ },
+ "Mrk.14.20": {
+  "t": "Ele lhes respondeu: “É um dos Doze, um que molha o pão comigo no prato.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "um que molha o pão comigo no prato",
+    "termo": "ὁ ἐμβαπτόμενος μετ᾽ ἐμοῦ εἰς τὸ τρύβλιον",
+    "titulo": "embaptō e tryblion",
+    "texto": "Lit. “o que mergulha comigo na tigela”. Os convivas molhavam o pão num molho comum (na Páscoa, um molho de frutas e as ervas amargas). Não identifica Judas para os outros: todos os Doze comiam do mesmo prato. O ponto é a intimidade traída (v. 18). Westcott-Hort traz “no mesmo prato”."
+   }
+  ]
+ },
+ "Mrk.14.21": {
+  "t": "Pois o Filho do Homem vai, como está escrito a respeito dele, mas ai daquele homem por meio de quem o Filho do Homem é entregue! Seria melhor para esse homem não ter nascido”.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "vai",
+    "termo": "ὑπάγει (hypagei)",
+    "titulo": "hypagō",
+    "texto": "“Vai, parte”: eufemismo para a morte, o caminho que Jesus percorre por vontade própria e segundo as Escrituras."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "como está escrito a respeito dele",
+    "termo": "καθὼς γέγραπται περὶ αὐτοῦ",
+    "titulo": "que Escrituras?",
+    "texto": "Marcos não cita um texto. Os mais prováveis são o Servo sofredor de Is 53 e os salmos do justo perseguido (Sl 22; 41; 69), além de Dn 7, onde o “filho de homem” representa os santos que sofrem antes de receber o reino. O plano de Deus não diminui a culpa de quem entrega: o versículo afirma as duas coisas lado a lado."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Seria melhor para esse homem não ter nascido",
+    "termo": "καλὸν αὐτῷ εἰ οὐκ ἐγεννήθη ὁ ἄνθρωπος ἐκεῖνος",
+    "titulo": "kalon sem verbo",
+    "texto": "Lit. “bom para ele se não tivesse nascido aquele homem”. Tregelles, o Textus Receptus e o Texto Bizantino acrescentam ēn (“seria”), que a tradução já supõe. A frase é proverbial em textos judaicos para a desgraça extrema (cf. 1 Enoque 38:2)."
+   }
+  ]
+ },
+ "Mrk.14.22": {
+  "t": "Enquanto comiam, ele tomou pão, pronunciou a bênção, partiu-o, deu-o a eles e disse: “Tomem; isto é o meu corpo”.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "pronunciou a bênção",
+    "termo": "εὐλογήσας (eulogēsas)",
+    "titulo": "bendizer a Deus",
+    "texto": "Lit. “tendo abençoado”. Como em 6:41, é a bênção judaica dirigida a Deus pelo pão. A sequência tomar, abençoar, partir e dar repete a das multiplicações (6:41; 8:6)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "isto é o meu corpo",
+    "termo": "τοῦτό ἐστιν τὸ σῶμά μου",
+    "titulo": "o sentido das palavras",
+    "texto": "Na Páscoa, quem presidia explicava os elementos da refeição à luz do êxodo (“este é o pão da aflição que os nossos pais comeram no Egito”). Jesus dá ao pão um sentido novo, ligado à sua morte. As tradições cristãs leem a frase de modos diferentes: a Igreja Católica e as Igrejas Ortodoxas entendem uma mudança real do pão no corpo de Cristo; os luteranos, a presença real do corpo “em, com e sob” o pão; a tradição reformada (Calvino), a presença real e espiritual de Cristo recebida pela fé; e outros (Zuínglio, muitas igrejas evangélicas), um sinal memorial. A APV traduz literalmente, sem decidir entre elas."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Tomem",
+    "termo": "λάβετε (+ φάγετε)",
+    "titulo": "“comam”",
+    "texto": "O Textus Receptus e o Texto Bizantino acrescentam “comam”, como em Mt 26:26. Tregelles, o Textus Receptus e o Texto Bizantino trazem também “Jesus” como sujeito. O texto crítico tem a forma breve."
+   }
+  ]
+ },
+ "Mrk.14.23": {
+  "t": "Depois tomou um cálice, deu graças e o deu a eles, e todos beberam dele.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "deu graças",
+    "termo": "εὐχαριστήσας (eucharistēsas)",
+    "titulo": "eucharisteō",
+    "texto": "O verbo de 8:6, de onde vem o nome “eucaristia”. Abençoar a Deus (v. 22) e dar graças (v. 23) são duas formas de descrever a mesma oração judaica."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "um cálice",
+    "termo": "ποτήριον (potērion)",
+    "titulo": "os cálices da Páscoa",
+    "texto": "Segundo a Mishná (Pesachim 10), a refeição pascal tinha quatro cálices de vinho. Muitos identificam este com o terceiro, bebido depois da refeição, chamado “cálice da bênção” (cf. 1Co 10:16; Lc 22:20: “depois de cearem”). Marcos não especifica. “Todos beberam dele”, inclusive Judas."
+   }
+  ]
+ },
+ "Mrk.14.24": {
+  "t": "E lhes disse: “Isto é o meu sangue da aliança, que é derramado em favor de muitos.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "o meu sangue da aliança",
+    "termo": "τὸ αἷμά μου τῆς διαθήκης",
+    "titulo": "Êxodo 24:8",
+    "texto": "Eco de Êx 24:8, quando Moisés asperge o povo com o sangue dos sacrifícios no Sinai: “Este é o sangue da aliança que o SENHOR fez com vocês”. Cf. Zc 9:11. A morte de Jesus inaugura a aliança prometida em Jr 31:31-34, em que Deus perdoa o pecado e escreve a sua lei no coração."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "aliança",
+    "termo": "διαθήκης (diathēkēs)",
+    "titulo": "diathēkē: “aliança” ou “testamento”",
+    "texto": "Diathēkē traduz na Septuaginta o hebraico berit, “aliança”, o pacto que Deus estabelece com o seu povo. A tradição latina (testamentum) deu origem a “testamento” (ARC: “Novo Testamento”). Em português de hoje, “testamento” sugere a disposição de bens após a morte; “aliança” guarda o sentido bíblico."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "da aliança",
+    "termo": "τῆς διαθήκης (+ καινῆς)",
+    "titulo": "“nova aliança”",
+    "texto": "O Textus Receptus e o Texto Bizantino trazem “da nova aliança”, palavra que vem de Lc 22:20 e 1Co 11:25 (e de Jr 31:31). O texto crítico, com os manuscritos mais antigos, não a traz em Marcos nem em Mateus (Metzger). O Textus Receptus e o Texto Bizantino trazem também peri (“por”) em vez de hyper (“em favor de”), de sentido próximo."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "derramado em favor de muitos",
+    "termo": "τὸ ἐκχυννόμενον ὑπὲρ πολλῶν",
+    "titulo": "Isaías 53:12",
+    "texto": "O sangue “derramado” evoca o sangue dos sacrifícios derramado junto ao altar (Lv 4:7). “Muitos” retoma 10:45 e Is 53:11-12, onde o Servo “derramou a sua vida até a morte” e “levou o pecado de muitos”. O particípio presente apresenta a morte iminente como já em curso. “Muitos” é semitismo para a multidão, sem restringir o alcance (ver nota em 10:45)."
+   }
+  ]
+ },
+ "Mrk.14.25": {
+  "t": "Em verdade lhes digo que nunca mais beberei do fruto da videira, até aquele dia em que o beberei, novo, no Reino de Deus”.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "nunca mais beberei",
+    "termo": "οὐκέτι οὐ μὴ πίω (ouketi ou mē piō)",
+    "titulo": "negação tripla",
+    "texto": "Ouketi (“não mais”) com ou mē, a negação mais forte do grego. Alguns entendem que Jesus se abstém já desta taça em diante, como um voto; outros, que esta é a última vez que bebe antes da morte."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "do fruto da videira",
+    "termo": "ἐκ τοῦ γενήματος τῆς ἀμπέλου",
+    "titulo": "expressão da bênção",
+    "texto": "É a expressão da bênção judaica sobre o vinho: “Bendito és tu, Senhor... que crias o fruto da videira”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "novo",
+    "termo": "καινόν (kainon)",
+    "titulo": "“novo”, não “de novo”",
+    "texto": "Kainon é adjetivo: o vinho será “novo”, próprio da nova criação, não apenas bebido “outra vez”. As vírgulas evitam a leitura “o beberei de novo”."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "no Reino de Deus",
+    "termo": "ἐν τῇ βασιλείᾳ τοῦ θεοῦ",
+    "titulo": "o banquete messiânico",
+    "texto": "Os profetas descrevem a salvação final como um banquete preparado por Deus “com vinho envelhecido e fino” (Is 25:6-9). Na véspera da morte, Jesus olha para além dela: a refeição será retomada no Reino consumado (cf. 1Co 11:26, “até que ele venha”)."
+   }
+  ]
+ },
+ "Mrk.14.26": {
+  "t": "Depois de cantarem os salmos, saíram para o monte das Oliveiras.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Depois de cantarem os salmos",
+    "termo": "ὑμνήσαντες (hymnēsantes)",
+    "titulo": "hymneō",
+    "texto": "Lit. “tendo hineado”, isto é, depois de cantar louvores. Na refeição pascal, cantava-se o Hallel (Sl 113-118): a primeira parte durante a refeição e a segunda (Sl 115-118) no fim (Mishná, Pesachim 10). Por isso “os salmos”, embora o grego não traga substantivo. O Sl 118 fala da pedra rejeitada (citada em 12:10-11) e de “aquele que vem em nome do Senhor” (11:9)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "monte das Oliveiras",
+    "termo": "τὸ ὄρος τῶν ἐλαιῶν",
+    "titulo": "fora da cidade",
+    "texto": "A leste de Jerusalém, do outro lado do vale do Cedrom. Ali Jesus falou do fim (13:3), e Zc 14:4 situa ali a vinda do Senhor."
+   }
+  ]
+ },
+ "Mrk.14.27": {
+  "t": "Jesus lhes disse: “Todos vocês vão tropeçar, pois está escrito: ‘Ferirei o pastor, e as ovelhas serão dispersas’.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "vão tropeçar",
+    "termo": "σκανδαλισθήσεσθε (skandalisthēsesthe)",
+    "titulo": "skandalizomai",
+    "texto": "O verbo de 4:17 (ver a nota ali): cair, abandonar a fé diante de um obstáculo. Aqui, a prisão e a cruz serão o tropeço. O Textus Receptus e o Texto Bizantino acrescentam “por minha causa, nesta noite”, como em Mt 26:31."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Ferirei o pastor, e as ovelhas serão dispersas",
+    "termo": "πατάξω τὸν ποιμένα, καὶ τὰ πρόβατα διασκορπισθήσονται",
+    "titulo": "Zacarias 13:7",
+    "texto": "Citação de Zc 13:7. No hebraico e na Septuaginta, Deus ordena à espada: “Fere o pastor”. Marcos traz a primeira pessoa (“ferirei”), que deixa explícito o que já está no profeta: é Deus quem fere o pastor. Em Zacarias o texto segue com a purificação de um remanescente (13:8-9), e a promessa do v. 28 abre essa esperança."
+   }
+  ]
+ },
+ "Mrk.14.28": {
+  "t": "Mas, depois que eu ressuscitar, irei adiante de vocês para a Galileia”.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "depois que eu ressuscitar",
+    "termo": "μετὰ τὸ ἐγερθῆναί με (meta to egerthēnai me)",
+    "titulo": "passiva",
+    "texto": "Lit. “depois de eu ser levantado”. A passiva pode indicar a ação de Deus que ressuscita o Filho (passiva divina); o português “ressuscitar” no sentido intransitivo é o uso comum."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "irei adiante de vocês",
+    "termo": "προάξω ὑμᾶς (proaxō hymas)",
+    "titulo": "o pastor à frente",
+    "texto": "Proagō é “ir à frente”, como o pastor que conduz o rebanho (Jo 10:4). As ovelhas dispersas (v. 27) serão reunidas de novo. A promessa é repetida pelo jovem no túmulo (16:7)."
+   }
+  ]
+ },
+ "Mrk.14.29": {
+  "t": "Pedro lhe disse: “Ainda que todos tropecem, eu não!”.",
+  "n": []
+ },
+ "Mrk.14.30": {
+  "t": "Jesus lhe disse: “Em verdade lhe digo: hoje, nesta mesma noite, antes que o galo cante duas vezes, você me negará três vezes”.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "hoje, nesta mesma noite",
+    "termo": "σήμερον ταύτῃ τῇ νυκτί",
+    "titulo": "o dia judaico",
+    "texto": "O dia começava ao pôr do sol; a noite já pertence ao “hoje”. A dupla indicação de tempo dá ênfase: não haverá demora."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "antes que o galo cante duas vezes",
+    "termo": "πρὶν ἢ δὶς ἀλέκτορα φωνῆσαι",
+    "titulo": "duas vezes",
+    "texto": "Só Marcos fala de dois cantos do galo (14:68, 72); Mateus, Lucas e João mencionam um só. Alguns manuscritos omitem “duas vezes” aqui e nos vv. 68 e 72, provavelmente para harmonizar com os outros Evangelhos. Os romanos chamavam “canto do galo” à vigília da noite que ia da meia-noite às três horas (cf. 13:35)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "me negará",
+    "termo": "με ἀπαρνήσῃ (me aparnēsē)",
+    "titulo": "aparneomai",
+    "texto": "O mesmo verbo de 8:34 (“negue a si mesmo”): dizer “não conheço”. Pedro fará com Jesus o que Jesus pediu que o discípulo fizesse consigo mesmo."
+   }
+  ]
+ },
+ "Mrk.14.31": {
+  "t": "Mas ele insistia ainda mais: “Mesmo que eu tenha de morrer com você, de modo nenhum o negarei!”. E todos diziam o mesmo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "insistia ainda mais",
+    "termo": "ἐκπερισσῶς ἐλάλει (ekperissōs elalei)",
+    "titulo": "ekperissōs, hápax",
+    "texto": "Ekperissōs (“com excesso, veementemente”) só aparece aqui. O imperfeito sugere protesto repetido. O Textus Receptus e o Texto Bizantino trazem ek perissou elegen mallon, de mesmo sentido."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "de modo nenhum o negarei",
+    "termo": "οὐ μή σε ἀπαρνήσομαι",
+    "titulo": "negação enfática",
+    "texto": "Ou mē, a negação mais forte. Pedro fala a Jesus sem chamá-lo de kyrie; por isso “você”, como nas outras falas dos discípulos (ver nota em 8:29)."
+   }
+  ]
+ },
+ "Mrk.14.32": {
+  "t": "Chegaram a um lugar chamado Getsêmani, e Jesus disse aos seus discípulos: “Sentem-se aqui enquanto eu oro”.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Getsêmani",
+    "termo": "Γεθσημανί (Gethsēmani)",
+    "titulo": "“prensa de azeite”",
+    "texto": "Nome aramaico (provavelmente gat shemanim), “prensa de azeite”: uma propriedade com oliveiras na encosta do monte das Oliveiras. Chōrion é “terreno, propriedade”; Jo 18:1 o chama “jardim”. Jesus costumava ir ali com os discípulos (Lc 22:39; Jo 18:2)."
+   }
+  ]
+ },
+ "Mrk.14.33": {
+  "t": "E levou consigo Pedro, Tiago e João, e começou a sentir-se tomado de pavor e de angústia.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "tomado de pavor e de angústia",
+    "termo": "ἐκθαμβεῖσθαι καὶ ἀδημονεῖν (ekthambeisthai kai adēmonein)",
+    "titulo": "dois verbos fortes",
+    "texto": "Ekthambeomai, só em Marcos (9:15; 16:5-6), é espanto profundo, abalo diante do que assombra; adēmoneō (Mt 26:37; Fp 2:26) é angústia que aperta e deixa sem rumo. Marcos não suaviza: Jesus enfrenta a morte com a aflição real de um homem. A fé cristã confessa nele a natureza humana completa, capaz de pavor e de tristeza (Hb 5:7)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Pedro, Tiago e João",
+    "termo": "τὸν Πέτρον καὶ Ἰάκωβον καὶ Ἰωάννην",
+    "titulo": "os três",
+    "texto": "Os mesmos três que viram a filha de Jairo ressuscitada (5:37) e a transfiguração (9:2). Viram a glória; agora veem a angústia. Tiago e João tinham dito que podiam beber o cálice (10:38-39)."
+   }
+  ]
+ },
+ "Mrk.14.34": {
+  "t": "E lhes disse: “A minha alma está profundamente triste, a ponto de morrer. Fiquem aqui e vigiem”.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "A minha alma está profundamente triste",
+    "termo": "περίλυπός ἐστιν ἡ ψυχή μου",
+    "titulo": "eco dos Salmos 42 e 43",
+    "texto": "Eco do refrão de Sl 42:5, 11; 43:5 na Septuaginta: “Por que você está tão triste, ó minha alma?”. Perilypos é “cercado de tristeza”, triste ao extremo."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "a ponto de morrer",
+    "termo": "ἕως θανάτου (heōs thanatou)",
+    "titulo": "“até a morte”",
+    "texto": "Lit. “até a morte”: uma tristeza que poderia matar (cf. Jn 4:9, na Septuaginta). Não significa “até a hora de morrer”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "vigiem",
+    "termo": "γρηγορεῖτε (grēgoreite)",
+    "titulo": "grēgoreō",
+    "texto": "“Fiquem acordados, vigiem”. É o verbo de 13:34-37 (“vigiem!”). O sermão sobre o fim termina com a ordem de vigiar, e o Getsêmani mostra os discípulos dormindo na hora da prova."
+   }
+  ]
+ },
+ "Mrk.14.35": {
+  "t": "Indo um pouco adiante, prostrava-se em terra e orava para que, se fosse possível, passasse dele aquela hora.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "prostrava-se em terra",
+    "termo": "ἔπιπτεν ἐπὶ τῆς γῆς (epipten epi tēs gēs)",
+    "titulo": "imperfeito",
+    "texto": "O imperfeito (“caía, prostrava-se”) e o de “orava” podem indicar oração prolongada ou repetida. Tregelles, o Textus Receptus e o Texto Bizantino trazem o aoristo epesen (“prostrou-se”), e Tregelles e o Texto Bizantino, proselthōn (“aproximando-se”) em vez de proelthōn (“indo adiante”). Sem efeito importante."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "aquela hora",
+    "termo": "ἡ ὥρα (hē hōra)",
+    "titulo": "a hora",
+    "texto": "Lit. “a hora”: o tempo da Paixão, determinado por Deus (v. 41; cf. Jo 12:27)."
+   }
+  ]
+ },
+ "Mrk.14.36": {
+  "t": "E dizia: “Aba, Pai, tudo te é possível. Afasta de mim este cálice. Mas não o que eu quero, e sim o que tu queres”.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Aba, Pai",
+    "termo": "αββα ὁ πατήρ (abba ho patēr)",
+    "titulo": "abba",
+    "texto": "Abba é a palavra aramaica para “pai”, usada por filhos de qualquer idade; Marcos a conserva e a traduz. É a única vez nos Evangelhos que a forma aramaica aparece na boca de Jesus, e os cristãos de fala grega a guardaram na oração (Rm 8:15; Gl 4:6). J. Jeremias destacou a intimidade da palavra, rara na oração judaica dirigida a Deus; J. Barr mostrou que não equivale a “papai”, linguagem de criança pequena (“Abbā isn’t Daddy”, 1988). É a palavra de um filho que confia, sem ser infantil."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Afasta de mim este cálice",
+    "termo": "παρένεγκε τὸ ποτήριον τοῦτο ἀπ᾽ ἐμοῦ",
+    "titulo": "o cálice",
+    "texto": "No AT, o cálice é muitas vezes o da ira de Deus contra o pecado (Sl 75:8; Is 51:17, 22; Jr 25:15). Jesus já tinha falado do cálice que beberia (10:38). O pedido mostra que o sofrimento não lhe é indiferente; a submissão mostra que a vontade do Pai é decisiva."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "não o que eu quero, e sim o que tu queres",
+    "termo": "ἀλλ᾽ οὐ τί ἐγὼ θέλω ἀλλὰ τί σύ",
+    "titulo": "duas vontades",
+    "texto": "Jesus distingue a sua vontade humana, que recua diante da morte, e a do Pai, à qual se entrega. O Terceiro Concílio de Constantinopla (681) leu passagens como esta para afirmar que Cristo tem vontade divina e vontade humana, esta sempre submetida àquela. Cf. a oração ensinada aos discípulos: “seja feita a tua vontade” (Mt 6:10)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "te",
+    "termo": "σοι (soi)",
+    "titulo": "tratamento",
+    "texto": "Jesus fala ao Pai; por isso “tu”, como em toda oração dirigida a Deus na APV."
+   }
+  ]
+ },
+ "Mrk.14.37": {
+  "t": "Voltou e os encontrou dormindo, e disse a Pedro: “Simão, você está dormindo? Não teve forças para vigiar uma hora?",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Simão",
+    "termo": "Σίμων (Simōn)",
+    "titulo": "o nome antigo",
+    "texto": "Desde 3:16, Marcos chama o discípulo de Pedro. Aqui Jesus o chama pelo nome antigo, talvez porque ele não está à altura do nome novo, “rocha”. Pedro, que prometera morrer com Jesus (v. 31), não consegue vigiar uma hora."
+   }
+  ]
+ },
+ "Mrk.14.38": {
+  "t": "Vigiem e orem, para que não caiam em tentação. O espírito está disposto, mas a carne é fraca”.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "não caiam em tentação",
+    "termo": "μὴ ἔλθητε εἰς πειρασμόν (mē elthēte eis peirasmon)",
+    "titulo": "peirasmos",
+    "texto": "Lit. “para que não entrem em tentação”. Peirasmos é a prova que testa a fidelidade e a tentação que leva a cair; aqui é a prova desta noite, em que os discípulos podem abandonar Jesus. Ecoa o pedido do Pai-Nosso (Mt 6:13). Tregelles, o Textus Receptus e o Texto Bizantino trazem eiselthēte (“entrem”), de mesmo sentido."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "O espírito está disposto, mas a carne é fraca",
+    "termo": "τὸ μὲν πνεῦμα πρόθυμον, ἡ δὲ σὰρξ ἀσθενής",
+    "titulo": "espírito e carne",
+    "texto": "O espírito (minúscula) é o espírito humano, o querer interior que deseja ser fiel; a carne é a fragilidade humana diante do medo e do cansaço, não uma natureza má. Alguns entendem “espírito” como o Espírito de Deus, que dá prontidão (cf. Sl 51:12, na Septuaginta: “espírito disposto”), mas o contraste com a carne de quem dorme favorece o espírito humano. Prothymos (“disposto, pronto”) só aparece aqui, em Mt 26:41 e Rm 1:15. O dito vale para os discípulos e, de outro modo, para o próprio Jesus na sua luta."
+   }
+  ]
+ },
+ "Mrk.14.39": {
+  "t": "De novo se afastou e orou, dizendo as mesmas palavras.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "as mesmas palavras",
+    "termo": "τὸν αὐτὸν λόγον (ton auton logon)",
+    "titulo": "“a mesma palavra”",
+    "texto": "Lit. “a mesma palavra”, isto é, o mesmo pedido do v. 36."
+   }
+  ]
+ },
+ "Mrk.14.40": {
+  "t": "Ao voltar, de novo os encontrou dormindo, pois os seus olhos estavam pesados de sono; e não sabiam o que lhe responder.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "pesados de sono",
+    "termo": "καταβαρυνόμενοι (katabarynomenoi)",
+    "titulo": "katabarynō, hápax",
+    "texto": "Só aqui no NT: “carregados, oprimidos de peso”. “De sono” explica a imagem. O Textus Receptus e o Texto Bizantino trazem bebarēmenoi, de mesmo sentido."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "não sabiam o que lhe responder",
+    "termo": "οὐκ ᾔδεισαν τί ἀποκριθῶσιν αὐτῷ",
+    "titulo": "eco da transfiguração",
+    "texto": "Os mesmos três discípulos, no monte da transfiguração, também não sabiam o que dizer (9:6). Na glória e na angústia, eles não entendem."
+   }
+  ]
+ },
+ "Mrk.14.41": {
+  "t": "Voltou pela terceira vez e lhes disse: “Vocês ainda estão dormindo e descansando? Basta! Chegou a hora. Vejam: o Filho do Homem está sendo entregue nas mãos dos pecadores.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Vocês ainda estão dormindo e descansando?",
+    "termo": "καθεύδετε τὸ λοιπὸν καὶ ἀναπαύεσθε",
+    "titulo": "pergunta ou ordem",
+    "texto": "As formas podem ser indicativo (pergunta de censura: “Ainda dormem e descansam?”) ou imperativo, irônico ou resignado (“Durmam agora e descansem!”, ARC). To loipon pode ser “ainda” ou “de agora em diante”. Como Jesus logo manda que se levantem (v. 42), a pergunta parece mais natural."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Basta!",
+    "termo": "ἀπέχει (apechei)",
+    "titulo": "apechei, palavra enigmática",
+    "texto": "Uma das palavras mais difíceis de Marcos. As principais leituras: (1) “basta!”, “chega!” (de sono), uso impessoal atestado; (2) termo comercial de recibo, “está pago, quitado” (ver Fp 4:18): Judas recebeu o dinheiro, ou a conta está acertada; (3) “está longe?”, como pergunta (“o fim está longe?”); alguns manuscritos acrescentam “o fim”, dando o sentido “o fim está (ainda) longe?” ou “o fim chegou”. “Basta!” é a leitura mais adotada e combina com o que segue: “chegou a hora”.",
+    "revisar": true
+   },
+   {
+    "tipo": "sn",
+    "ancora": "nas mãos dos pecadores",
+    "termo": "εἰς τὰς χεῖρας τῶν ἁμαρτωλῶν",
+    "titulo": "os pecadores",
+    "texto": "Na linguagem judaica, “pecadores” podia designar os gentios, que não tinham a Lei (Gl 2:15). Aqui inclui as autoridades de Israel e as romanas. O Filho do Homem, que veio chamar pecadores (2:17), é entregue nas mãos deles."
+   }
+  ]
+ },
+ "Mrk.14.42": {
+  "t": "Levantem-se, vamos! Vejam: aquele que me entrega está chegando”.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "está chegando",
+    "termo": "ἤγγικεν (ēngiken)",
+    "titulo": "engizō",
+    "texto": "O perfeito de engizō, o mesmo de 1:15 (“o Reino de Deus está próximo”). A mesma forma marca a aproximação do Reino e a do que entrega Jesus: o Reino vem pelo caminho da cruz."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Levantem-se, vamos!",
+    "termo": "ἐγείρεσθε, ἄγωμεν",
+    "titulo": "não é fuga",
+    "texto": "Jesus não chama os discípulos para fugir, mas para ir ao encontro de quem vem prendê-lo."
+   }
+  ]
+ },
+ "Mrk.14.43": {
+  "t": "E logo, enquanto ele ainda falava, chegou Judas, um dos Doze, e com ele uma multidão com espadas e porretes, enviada pelos chefes dos sacerdotes, pelos escribas e pelos anciãos.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "porretes",
+    "termo": "ξύλων (xylōn)",
+    "titulo": "xylon",
+    "texto": "Lit. “madeiras”: paus, cacetes. A multidão era provavelmente formada pela guarda do templo e por servos das autoridades (v. 47), não por soldados romanos; Jo 18:3, 12 menciona também uma coorte."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "enviada pelos",
+    "termo": "παρὰ τῶν ἀρχιερέων",
+    "titulo": "“da parte dos”",
+    "texto": "Lit. “da parte dos chefes dos sacerdotes...”. Os três grupos formavam o Sinédrio (ver nota em 8:31). O Textus Receptus e o Texto Bizantino trazem “uma grande multidão”."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Judas",
+    "termo": "Ἰούδας",
+    "titulo": "“Judas Iscariotes”",
+    "texto": "O SBLGNT, o NA28 e o Texto Bizantino trazem só “Judas”; Westcott-Hort, “o Judas”; Tregelles, “Judas Iscariotes”. Sem efeito no sentido."
+   }
+  ]
+ },
+ "Mrk.14.44": {
+  "t": "Aquele que o entregava tinha combinado com eles um sinal, dizendo: “É aquele que eu beijar. Prendam-no e levem-no bem guardado”.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "um sinal",
+    "termo": "σύσσημον (syssēmon)",
+    "titulo": "syssēmon, hápax",
+    "texto": "Só aqui no NT: “sinal combinado”, senha. Na noite, entre oliveiras, era preciso identificar Jesus entre os discípulos."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "bem guardado",
+    "termo": "ἀσφαλῶς (asphalōs)",
+    "titulo": "asphalōs",
+    "texto": "“Com segurança”, sob guarda firme (cf. At 16:23), para que não escape nem seja libertado pelos que o seguem."
+   }
+  ]
+ },
+ "Mrk.14.45": {
+  "t": "Assim que chegou, aproximou-se de Jesus e disse: “Rabi!”, e o beijou.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "e o beijou",
+    "termo": "κατεφίλησεν αὐτόν (katephilēsen auton)",
+    "titulo": "o beijo",
+    "texto": "O beijo era a saudação de um discípulo ao mestre e de amigos entre si. Kataphileō pode ser forma intensiva (“beijou efusivamente”), mas no grego da época muitas vezes equivale a phileō. O sinal de afeto vira sinal de entrega; cf. Joabe, que beija Amasa e o mata (2Sm 20:9-10), e Pv 27:6."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "“Rabi!”",
+    "termo": "ῥαββί (rhabbi)",
+    "titulo": "“Rabi, Rabi”",
+    "texto": "O Textus Receptus e o Texto Bizantino trazem “Rabi, Rabi” e acrescentam “a ele”. O texto crítico tem a forma breve."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Rabi",
+    "termo": "ῥαββί (rhabbi)",
+    "titulo": "tratamento",
+    "texto": "Judas chama Jesus de “Rabi”, não de “Senhor”. Em Marcos, os que chamam Jesus de “Rabi” ou “Mestre” falam com ele por “você” (ver 9:5; 11:21)."
+   }
+  ]
+ },
+ "Mrk.14.46": {
+  "t": "Então eles lançaram as mãos sobre ele e o prenderam.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "lançaram as mãos sobre ele",
+    "termo": "ἐπέβαλον τὰς χεῖρας αὐτῷ",
+    "titulo": "ordem e pronome",
+    "texto": "O Textus Receptus e o Texto Bizantino trazem “lançaram sobre ele as mãos deles”. Sem efeito no sentido."
+   }
+  ]
+ },
+ "Mrk.14.47": {
+  "t": "Mas um dos que estavam ali puxou da espada, feriu o servo do sumo sacerdote e lhe cortou a orelha.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "servo",
+    "termo": "δοῦλον (doulon)",
+    "titulo": "doulos",
+    "texto": "Lit. “escravo” (ver nota em 10:44). Era um escravo da casa do sumo sacerdote. Como o texto não contrasta a condição social, a APV usa “servo”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "a orelha",
+    "termo": "τὸ ὠτάριον (to ōtarion)",
+    "titulo": "diminutivo",
+    "texto": "Ōtarion é diminutivo de ous (“orelha”), mas no grego da época os diminutivos perdiam muitas vezes o valor de “pequeno”. Alguns entendem “o lóbulo da orelha”. O Textus Receptus e o Texto Bizantino trazem ōtion, também diminutivo."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "um dos que estavam ali",
+    "termo": "εἷς δέ τις τῶν παρεστηκότων",
+    "titulo": "anônimo",
+    "texto": "Marcos não diz quem foi; Jo 18:10 identifica Pedro e diz que o servo se chamava Malco, e Lc 22:51 conta que Jesus curou a orelha. Marcos não diz se o golpe veio de um discípulo, e Jesus não reage ao golpe, mas à prisão."
+   }
+  ]
+ },
+ "Mrk.14.48": {
+  "t": "Jesus tomou a palavra e lhes disse: “Vocês saíram com espadas e porretes para me prender, como se eu fosse um bandido?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "um bandido",
+    "termo": "λῃστήν (lēstēn)",
+    "titulo": "lēstēs",
+    "texto": "Lēstēs é o salteador armado, e no tempo de Jesus era também o nome dado pelos romanos e por Josefo aos rebeldes armados. É a palavra de 11:17 (“covil de bandidos”) e dos dois crucificados com Jesus (15:27). Jesus protesta contra ser tratado como insurgente perigoso."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "tomou a palavra",
+    "termo": "ἀποκριθεὶς ... εἶπεν",
+    "titulo": "“respondendo, disse”",
+    "texto": "Lit. “respondendo, disse”: fórmula semítica para começar a falar, mesmo sem pergunta prévia."
+   }
+  ]
+ },
+ "Mrk.14.49": {
+  "t": "Todos os dias eu estava com vocês no templo, ensinando, e vocês não me prenderam. Mas isto acontece para que se cumpram as Escrituras”.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Mas isto acontece para que se cumpram as Escrituras",
+    "termo": "ἀλλ᾽ ἵνα πληρωθῶσιν αἱ γραφαί",
+    "titulo": "frase elíptica",
+    "texto": "Lit. “mas para que se cumpram as Escrituras”. Falta o verbo principal; “isto acontece” completa a elipse. Também se pode ler como imperativo: “mas que se cumpram as Escrituras”."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "as Escrituras",
+    "termo": "αἱ γραφαί",
+    "titulo": "quais?",
+    "texto": "No contexto imediato, Zc 13:7 (v. 27) e o Servo “contado com os transgressores” (Is 53:12). O plural aponta para o conjunto das Escrituras sobre o sofrimento do Messias."
+   }
+  ]
+ },
+ "Mrk.14.50": {
+  "t": "Então todos o abandonaram e fugiram.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "todos o abandonaram e fugiram",
+    "termo": "ἀφέντες αὐτὸν ἔφυγον πάντες",
+    "titulo": "as ovelhas dispersas",
+    "texto": "Cumpre-se o v. 27. “Todos” retoma o v. 31 (“todos diziam o mesmo”). Os que tinham “deixado” tudo para segui-lo (1:18, 20; 10:28) agora “deixam” Jesus: o verbo é o mesmo (aphiēmi)."
+   }
+  ]
+ },
+ "Mrk.14.51": {
+  "t": "Um jovem o seguia, envolto num pano de linho sobre o corpo nu. Eles o agarraram,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "envolto num pano de linho sobre o corpo nu",
+    "termo": "περιβεβλημένος σινδόνα ἐπὶ γυμνοῦ",
+    "titulo": "sindōn",
+    "texto": "Sindōn é um tecido de linho fino, usado como peça de roupa ou como lençol. Lit. “vestido de um linho sobre o nu”: não usava a túnica por baixo. É a mesma palavra do lençol em que Jesus será envolto para a sepultura (15:46)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Um jovem",
+    "termo": "νεανίσκος τις (neaniskos tis)",
+    "titulo": "quem era?",
+    "texto": "Só Marcos conta o episódio. Muitos intérpretes, desde há séculos, supõem que fosse o próprio Marcos, que assinaria discretamente a sua presença, mas o texto não diz. Outros veem um sentido simbólico: o discípulo que queria seguir até o fim e foge nu, em eco de Am 2:16 (“o mais corajoso dos guerreiros fugirá nu naquele dia”), em contraste com o jovem vestido de branco no túmulo (16:5). O Textus Receptus e o Texto Bizantino trazem “um certo jovem” e “os jovens o agarraram”."
+   }
+  ]
+ },
+ "Mrk.14.52": {
+  "t": "mas ele largou o pano de linho e fugiu nu.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "fugiu nu",
+    "termo": "γυμνὸς ἔφυγεν (+ ἀπ᾽ αὐτῶν)",
+    "titulo": "“fugiu deles”",
+    "texto": "O Textus Receptus e o Texto Bizantino acrescentam “deles”. Sem efeito no sentido."
+   }
+  ]
+ },
+ "Mrk.14.53": {
+  "t": "Levaram Jesus ao sumo sacerdote, e todos os chefes dos sacerdotes, os anciãos e os escribas se reuniram.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "ao sumo sacerdote",
+    "termo": "πρὸς τὸν ἀρχιερέα",
+    "titulo": "Caifás",
+    "texto": "Marcos não diz o nome; Mt 26:57 identifica Caifás, sumo sacerdote de cerca de 18 a 36 d.C. Jo 18:13 conta que Jesus foi levado primeiro a Anás, sogro de Caifás e antigo sumo sacerdote. No singular, archiereus é o sumo sacerdote; no plural, os chefes dos sacerdotes (ver nota em 8:31)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "se reuniram",
+    "termo": "συνέρχονται (+ αὐτῷ)",
+    "titulo": "“se reuniram com ele”",
+    "texto": "O THGNT, Tregelles, o Textus Receptus e o Texto Bizantino acrescentam autō: “se reuniram com ele”, isto é, com o sumo sacerdote. Sem efeito importante."
+   }
+  ]
+ },
+ "Mrk.14.54": {
+  "t": "Pedro o seguiu de longe até dentro do pátio do sumo sacerdote e ficou sentado com os guardas, aquecendo-se junto ao fogo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "os guardas",
+    "termo": "τῶν ὑπηρετῶν (tōn hypēretōn)",
+    "titulo": "hypēretēs",
+    "texto": "Hypēretēs é o auxiliar, o subordinado; aqui, os guardas do templo a serviço do sumo sacerdote, os mesmos que maltratam Jesus no v. 65."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "junto ao fogo",
+    "termo": "πρὸς τὸ φῶς (pros to phōs)",
+    "titulo": "“junto à luz”",
+    "texto": "Lit. “junto à luz”: o fogo aceso no pátio. A luz do fogo também deixa ver o rosto de Pedro (v. 67)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Pedro o seguiu de longe",
+    "termo": "ὁ Πέτρος ἀπὸ μακρόθεν ἠκολούθησεν αὐτῷ",
+    "titulo": "duas cenas entrelaçadas",
+    "texto": "Marcos intercala a negação de Pedro (vv. 54, 66-72) e o julgamento de Jesus (vv. 55-65): enquanto Jesus confessa quem é diante do sumo sacerdote, Pedro nega conhecê-lo diante de uma criada. Pedro ainda “segue”, mas “de longe”."
+   }
+  ]
+ },
+ "Mrk.14.55": {
+  "t": "Os chefes dos sacerdotes e todo o Sinédrio procuravam algum testemunho contra Jesus para condená-lo à morte, mas não encontravam.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Sinédrio",
+    "termo": "συνέδριον (synedrion)",
+    "titulo": "synedrion",
+    "texto": "O supremo conselho dos judeus em Jerusalém, presidido pelo sumo sacerdote e formado por chefes dos sacerdotes, anciãos e escribas; a tradição posterior (Mishná, Sanhedrin 1:6) fala em setenta e um membros. Sob os romanos, julgava questões religiosas e civis, mas, segundo Jo 18:31, não podia executar penas de morte."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "procuravam algum testemunho",
+    "termo": "ἐζήτουν ... μαρτυρίαν",
+    "titulo": "um processo irregular",
+    "texto": "A Mishná (Sanhedrin 4-5) descreve regras para julgamentos de pena capital: julgamento durante o dia, nunca na véspera de sábado ou de festa, sentença de condenação só no dia seguinte. A sessão narrada aqui fere várias dessas regras. Mas a Mishná foi compilada por volta de 200 d.C., e não se sabe com certeza quanto dessas regras valia no tempo de Jesus. O próprio texto mostra a decisão tomada antes do processo (v. 1; 3:6): buscam provas para uma sentença já desejada."
+   }
+  ]
+ },
+ "Mrk.14.56": {
+  "t": "Pois muitos davam falso testemunho contra ele, mas os testemunhos não concordavam.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "os testemunhos não concordavam",
+    "termo": "ἴσαι αἱ μαρτυρίαι οὐκ ἦσαν",
+    "titulo": "duas ou três testemunhas",
+    "texto": "Lit. “os testemunhos não eram iguais”. A Lei exigia o acordo de duas ou três testemunhas para uma condenação (Nm 35:30; Dt 17:6; 19:15). O falso testemunho era proibido pelos Dez Mandamentos (Êx 20:16), como Jesus lembrou em 10:19, e Dt 19:16-19 manda punir a testemunha falsa. Ecoa também os salmos do justo perseguido: “levantam-se contra mim testemunhas falsas” (Sl 27:12; 35:11)."
+   }
+  ]
+ },
+ "Mrk.14.57": {
+  "t": "Então alguns se levantaram e davam falso testemunho contra ele, dizendo:",
+  "n": []
+ },
+ "Mrk.14.58": {
+  "t": "“Nós o ouvimos dizer: ‘Eu destruirei este santuário feito por mãos humanas e em três dias construirei outro, não feito por mãos humanas’”.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "santuário",
+    "termo": "ναόν (naon)",
+    "titulo": "naos e hieron",
+    "texto": "Marcos distingue to hieron, o conjunto do templo com seus pátios (11:11, 15; 13:1), e ho naos, o santuário propriamente dito, a casa de Deus com o Lugar Santo e o Santíssimo. Naos só aparece em três lugares de Marcos, todos ligados à Paixão: esta acusação, o escárnio na cruz (15:29) e o véu rasgado (15:38). A APV traduz naos por “santuário” para que o leitor perceba a ligação."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "feito por mãos humanas",
+    "termo": "χειροποίητον ... ἀχειροποίητον",
+    "titulo": "cheiropoiētos",
+    "texto": "Lit. “feito à mão” e “não feito à mão”. Na Septuaginta, cheiropoiētos descreve muitas vezes os ídolos (Lv 26:1; Is 46:6). No NT, a oposição aponta para a obra de Deus que supera o templo de pedra (At 7:48; 2Co 5:1; Hb 9:11, 24). Acheiropoiētos só aparece aqui, em 2Co 5:1 e Cl 2:11."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Nós o ouvimos dizer",
+    "termo": "ἡμεῖς ἠκούσαμεν αὐτοῦ λέγοντος",
+    "titulo": "uma acusação deturpada",
+    "texto": "Marcos chama o testemunho de falso (v. 57). Jesus tinha anunciado a destruição do templo (13:2), mas não disse que ele mesmo o destruiria. Jo 2:19 registra um dito parecido (“Destruam este santuário, e em três dias o levantarei”), que o evangelista aplica ao corpo de Jesus (Jo 2:21). A acusação será repetida ao pé da cruz (15:29), e a ironia de Marcos é que ela se cumpre de outro modo: com a morte de Jesus o véu do santuário se rasga (15:38) e, com a ressurreição “depois de três dias”, muitos intérpretes veem surgir a nova casa de Deus, não feita por mãos: o Ressuscitado e a comunidade reunida em torno dele."
+   }
+  ]
+ },
+ "Mrk.14.59": {
+  "t": "Mas nem assim o testemunho deles concordava.",
+  "n": []
+ },
+ "Mrk.14.60": {
+  "t": "Então o sumo sacerdote se levantou no meio deles e interrogou Jesus: “Você não responde nada? Que é isso que estes testemunham contra você?”.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Você não responde nada? Que é isso que estes testemunham contra você?",
+    "termo": "οὐκ ἀποκρίνῃ οὐδὲν τί οὗτοί σου καταμαρτυροῦσιν;",
+    "titulo": "uma ou duas perguntas",
+    "texto": "O grego pode ser lido como duas perguntas (assim a pontuação do SBLGNT) ou como uma só: “Você não responde nada ao que estes testemunham contra você?”. O sentido é o mesmo. Katamartyreō (“testemunhar contra”) é raro (também em Mt 26:62; 27:13)."
+   }
+  ]
+ },
+ "Mrk.14.61": {
+  "t": "Mas ele ficava calado e não respondia nada. De novo o sumo sacerdote o interrogou e lhe disse: “Você é o Cristo, o Filho do Bendito?”.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "ficava calado",
+    "termo": "ἐσιώπα (esiōpa)",
+    "titulo": "o silêncio do Servo",
+    "texto": "Eco de Is 53:7: “Ele foi oprimido e humilhado, mas não abriu a boca; como cordeiro foi levado ao matadouro”; cf. Sl 38:13-14. Jesus não se defende das acusações falsas, mas responderá à pergunta sobre quem ele é (v. 62)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "o Filho do Bendito",
+    "termo": "ὁ υἱὸς τοῦ εὐλογητοῦ (ho huios tou eulogētou)",
+    "titulo": "“o Bendito”",
+    "texto": "“O Bendito” é modo reverente de se referir a Deus sem pronunciar o seu nome, como na fórmula judaica “o Santo, bendito seja ele”. Na boca do sumo sacerdote, “Filho do Bendito” é título do Messias, o rei a quem Deus chama de filho (2Sm 7:14; Sl 2:7). Para o leitor de Marcos, que ouviu a voz do céu (1:11; 9:7), a pergunta diz mais do que o sumo sacerdote sabe."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "o Cristo",
+    "termo": "ὁ χριστός (ho christos)",
+    "titulo": "título",
+    "texto": "Com artigo, “o Cristo” é título: o Messias esperado (ver notas em 1:1 e 8:29)."
+   }
+  ]
+ },
+ "Mrk.14.62": {
+  "t": "Jesus respondeu: “Eu Sou. E vocês verão o Filho do Homem sentado à direita do Poder e vindo com as nuvens do céu”.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Eu Sou",
+    "termo": "ἐγώ εἰμι (egō eimi)",
+    "titulo": "resposta e nome divino",
+    "texto": "No plano da conversa, egō eimi responde à pergunta: “Sou” (o Cristo, o Filho do Bendito). É a única vez em Marcos que Jesus afirma abertamente ser o Messias, e o faz quando já não pode ser confundido com um libertador político: preso, diante de quem o condenará. A expressão, porém, é a mesma que em 6:50 Jesus diz ao andar sobre o mar, e ecoa o nome com que Deus se revela (Êx 3:14) e o “Eu Sou” de Isaías (Is 41:4; 43:10, 25; 51:12, na Septuaginta). Aqui a APV usa “Eu Sou”, com maiúsculas, como faz com o uso absoluto de egō eimi, porque a frase não tem predicado e porque o que vem em seguida põe Jesus ao lado de Deus. O leitor deve guardar as duas coisas: é a resposta direta à pergunta e é dita com palavras que, na Escritura, pertencem a Deus. Muitos intérpretes preferem ver aqui só a resposta afirmativa (“Sou eu”, “Sim”).",
+    "revisar": true
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Eu Sou",
+    "termo": "ἐγώ εἰμι (egō eimi)",
+    "titulo": "“Você disse que eu sou”",
+    "texto": "As edições críticas, o Textus Receptus e o Texto Bizantino concordam em egō eimi. Alguns poucos manuscritos trazem “Você disse que eu sou”, provavelmente por influência de Mt 26:64 (“Você o disse”) e Lc 22:70 (“Vocês dizem que eu sou”), cujas respostas são menos diretas."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "sentado à direita do Poder e vindo com as nuvens do céu",
+    "termo": "ἐκ δεξιῶν καθήμενον τῆς δυνάμεως καὶ ἐρχόμενον μετὰ τῶν νεφελῶν τοῦ οὐρανοῦ",
+    "titulo": "Salmo 110:1 e Daniel 7:13",
+    "texto": "Jesus une dois textos: Sl 110:1 (“Senta-te à minha direita”, já citado em 12:36) e Dn 7:13 (“vinha com as nuvens do céu um como filho de homem”). “O Poder” é outro modo reverente de dizer “Deus”. Jesus não só se declara Messias, mas anuncia que o Filho do Homem partilhará o trono de Deus e virá como juiz. Os juízes de agora serão julgados. Sobre o sentido de “vindo com as nuvens” (a vinda final ou a exaltação junto de Deus), ver a nota em 13:26."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "vocês verão",
+    "termo": "ὄψεσθε (opsesthe)",
+    "titulo": "quem verá?",
+    "texto": "O plural se dirige ao sumo sacerdote e ao Sinédrio. Pode indicar que eles verão, nos acontecimentos que se seguem, a vindicação de Jesus por Deus, ou que verão o Filho do Homem no juízo final, quando todos comparecerão diante dele (cf. Ap 1:7)."
+   }
+  ]
+ },
+ "Mrk.14.63": {
+  "t": "Então o sumo sacerdote rasgou as suas vestes e disse: “Que necessidade ainda temos de testemunhas?",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "rasgou as suas vestes",
+    "termo": "διαρρήξας τοὺς χιτῶνας αὐτοῦ",
+    "titulo": "sinal de horror",
+    "texto": "Rasgar as roupas era sinal de dor ou de horror diante de uma blasfêmia (2Rs 18:37; 19:1). A Mishná (Sanhedrin 7:5) prescreve que os juízes rasguem as vestes ao ouvir a blasfêmia. Chitōn é a túnica, a roupa usada junto ao corpo; o plural pode indicar mais de uma túnica ou as vestes em geral."
+   }
+  ]
+ },
+ "Mrk.14.64": {
+  "t": "Vocês ouviram a blasfêmia. Que lhes parece?”. E todos o condenaram como réu de morte.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "a blasfêmia",
+    "termo": "τῆς βλασφημίας (tēs blasphēmias)",
+    "titulo": "qual blasfêmia?",
+    "texto": "Segundo Lv 24:16, quem blasfemasse o nome do SENHOR seria apedrejado. A Mishná (Sanhedrin 7:5) restringe a blasfêmia punível com a morte à pronúncia do nome divino, e Jesus não o pronunciou (disse “o Poder”). Por isso muitos estudiosos entendem que o Sinédrio viu blasfêmia na pretensão de Jesus de sentar-se à direita de Deus e vir como juiz celeste, partilhando a honra que pertence só a Deus (D. Bock, Blasphemy and Exaltation in Judaism, 1998). Já em 2:7 os escribas o acusavam de blasfêmia por perdoar pecados."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "o condenaram como réu de morte",
+    "termo": "κατέκριναν αὐτὸν ἔνοχον εἶναι θανάτου",
+    "titulo": "enochos",
+    "texto": "Lit. “condenaram-no a ser réu de morte”: declararam-no merecedor da pena capital. Enochos é termo jurídico, “sujeito a, culpado de” (3:29). “Todos” mostra que nenhum dos presentes se opôs; Lc 23:50-51 diz que José de Arimateia não concordou com a decisão, e talvez não estivesse presente."
+   }
+  ]
+ },
+ "Mrk.14.65": {
+  "t": "Alguns começaram a cuspir nele, a cobrir-lhe o rosto, a dar-lhe socos e a dizer-lhe: “Profetize!”. E os guardas o receberam a bofetadas.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "a cuspir nele",
+    "termo": "ἐμπτύειν αὐτῷ (emptyein autō)",
+    "titulo": "Isaías 50:6",
+    "texto": "Cumpre-se o anúncio de 10:34 e se ecoa o Servo de Is 50:6: “Ofereci as costas aos que me feriam e o rosto aos que me arrancavam a barba; não escondi o rosto às afrontas e às cusparadas”. A Septuaginta usa ali rhapismata (“bofetadas”), a palavra do fim deste versículo."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Profetize!",
+    "termo": "προφήτευσον (prophēteuson)",
+    "titulo": "a ironia",
+    "texto": "Com o rosto coberto, Jesus deveria adivinhar quem lhe batia (assim Mt 26:68 e Lc 22:64). Ironia de Marcos: enquanto zombam do profeta, no pátio embaixo a profecia de Jesus sobre Pedro está se cumprindo palavra por palavra (vv. 66-72)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "o receberam a bofetadas",
+    "termo": "ῥαπίσμασιν αὐτὸν ἔλαβον",
+    "titulo": "expressão rara",
+    "texto": "Lit. “com bofetadas o receberam (ou tomaram)”, expressão incomum, talvez coloquial. Rhapisma é o golpe com a mão aberta ou com vara (Jo 18:22; 19:3). O Textus Receptus e o Texto Bizantino trazem eballon (“o golpeavam”)."
+   }
+  ]
+ },
+ "Mrk.14.66": {
+  "t": "Enquanto Pedro estava embaixo, no pátio, chegou uma das criadas do sumo sacerdote.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "criadas",
+    "termo": "παιδισκῶν (paidiskōn)",
+    "titulo": "paidiskē",
+    "texto": "Paidiskē é a moça escrava ou serva da casa. Pedro, que se dizia pronto a morrer, é desafiado por uma das pessoas de menor posição social do pátio."
+   }
+  ]
+ },
+ "Mrk.14.67": {
+  "t": "Vendo Pedro aquecendo-se, olhou bem para ele e disse: “Você também estava com o nazareno, Jesus”.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "com o nazareno, Jesus",
+    "termo": "μετὰ τοῦ Ναζαρηνοῦ ... τοῦ Ἰησοῦ",
+    "titulo": "ordem das palavras",
+    "texto": "Lit. “com o Nazareno estavas, o Jesus”. A criada põe primeiro a origem, talvez com desprezo pelo galileu do interior (cf. Jo 1:46), e só depois o nome. A tradução conserva a ordem. Ver nota em 10:47 sobre Nazarēnos."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "olhou bem para ele",
+    "termo": "ἐμβλέψασα αὐτῷ (emblepsasa autō)",
+    "titulo": "emblepō",
+    "texto": "“Fixar o olhar”. Ela o reconhece à luz do fogo (v. 54)."
+   }
+  ]
+ },
+ "Mrk.14.68": {
+  "t": "Mas ele negou, dizendo: “Não sei nem entendo o que você está dizendo”. E saiu para fora, para o vestíbulo, e um galo cantou.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Não sei nem entendo o que você está dizendo",
+    "termo": "οὔτε οἶδα οὔτε ἐπίσταμαι σὺ τί λέγεις",
+    "titulo": "dupla negação",
+    "texto": "Dois verbos de saber em negação dupla: a fórmula de quem se faz de desentendido. Também se pode pontuar “Não sei nem entendo. O que você está dizendo?”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "vestíbulo",
+    "termo": "προαύλιον (proaulion)",
+    "titulo": "proaulion, hápax",
+    "texto": "Só aqui no NT: a entrada coberta entre a rua e o pátio interno. Pedro se afasta da luz do fogo."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "e um galo cantou",
+    "termo": "καὶ ἀλέκτωρ ἐφώνησεν",
+    "titulo": "o primeiro canto",
+    "texto": "O SBLGNT, Tregelles e o Texto Bizantino trazem a frase; segundo o aparato do SBLGNT, Westcott-Hort não a traz, com alguns manuscritos antigos importantes. A frase prepara o “pela segunda vez” do v. 72 e combina com a predição do v. 30; a omissão pode ter surgido para harmonizar com os outros Evangelhos, que falam de um só canto do galo."
+   }
+  ]
+ },
+ "Mrk.14.69": {
+  "t": "A criada, vendo-o, começou de novo a dizer aos que estavam ali: “Este é um deles”.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "A criada",
+    "termo": "ἡ παιδίσκη (hē paidiskē)",
+    "titulo": "a mesma criada",
+    "texto": "Com o artigo, é a mesma criada do v. 66; em Mt 26:71 é outra, e em Lc 22:58 é um homem. Os relatos variam nos detalhes das três negações, mas concordam no essencial."
+   }
+  ]
+ },
+ "Mrk.14.70": {
+  "t": "Mas ele negou de novo. Pouco depois, os que estavam ali disseram de novo a Pedro: “Com certeza você é um deles, pois também é galileu, e o seu modo de falar é parecido com o deles”.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "negou de novo",
+    "termo": "πάλιν ἠρνεῖτο (palin ērneito)",
+    "titulo": "imperfeito",
+    "texto": "O imperfeito pode indicar negação insistente, repetida."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "e o seu modo de falar é parecido com o deles",
+    "termo": "καὶ ἡ λαλιά σου ὁμοιάζει (kai hē lalia sou homoiazei)",
+    "titulo": "frase ausente de outras edições",
+    "texto": "O SBLGNT e o Texto Bizantino trazem a frase; segundo o aparato do SBLGNT, Westcott-Hort e Tregelles não a trazem, e ela falta em manuscritos antigos importantes. Pode ter vindo do paralelo de Mt 26:73 (“o seu modo de falar o denuncia”), embora com outras palavras. Homoiazō (“ser parecido”) só aparece aqui e em alguns manuscritos de Mt 23:27. Os galileus tinham pronúncia própria do aramaico, reconhecível em Jerusalém. “Com o deles” foi acrescentado por clareza."
+   }
+  ]
+ },
+ "Mrk.14.71": {
+  "t": "Ele, porém, começou a lançar maldições e a jurar: “Não conheço esse homem de quem vocês estão falando!”.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "lançar maldições",
+    "termo": "ἀναθεματίζειν (anathematizein)",
+    "titulo": "maldição contra quem?",
+    "texto": "Anathematizō é “invocar maldição”. O verbo não tem objeto expresso. Pode ser que Pedro invoque maldições sobre si mesmo, se estiver mentindo (como em At 23:12, 14), ou que amaldiçoe Jesus para provar que não é discípulo, o que tornaria a negação ainda mais grave. A tradução deixa o objeto em aberto, como o grego."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "esse homem",
+    "termo": "τὸν ἄνθρωπον τοῦτον",
+    "titulo": "nem o nome",
+    "texto": "Pedro nem pronuncia o nome de Jesus. É a terceira negação, a mais forte."
+   }
+  ]
+ },
+ "Mrk.14.72": {
+  "t": "E logo o galo cantou pela segunda vez. Pedro se lembrou da palavra que Jesus lhe tinha dito: “Antes que o galo cante duas vezes, você me negará três vezes”. E desatou a chorar.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "E desatou a chorar",
+    "termo": "καὶ ἐπιβαλὼν ἔκλαιεν (kai epibalōn eklaien)",
+    "titulo": "epibalōn, expressão obscura",
+    "texto": "Lit. “e, tendo lançado (sobre), chorava”. O sentido de epibalōn aqui é dos mais discutidos do NT: (1) “começando”, “pondo-se a” chorar (uso atestado em papiros), base de “desatou a chorar”; (2) “pensando nisso”, “refletindo” (com ton noun, “lançando a mente”), base de “caindo em si” ou “pensando nisso, chorava”; (3) “cobrindo a cabeça” (com o manto), gesto de luto; (4) “saindo às pressas”. Mt 26:75 e Lc 22:62 dizem “saindo, chorou amargamente”. O imperfeito eklaien indica choro continuado.",
+    "revisar": true
+   },
+   {
+    "tipo": "tc",
+    "ancora": "E logo",
+    "termo": "καὶ εὐθύς",
+    "titulo": "euthys",
+    "texto": "O Textus Receptus e o Texto Bizantino não trazem “logo”. Há também diferenças na ordem de “duas vezes” e “três vezes”, sem efeito no sentido."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Pedro se lembrou da palavra",
+    "termo": "ἀνεμνήσθη ὁ Πέτρος τὸ ῥῆμα",
+    "titulo": "a palavra cumprida",
+    "texto": "Cumpre-se ao pé da letra a predição do v. 30. O fracasso de Pedro não é o fim: o anjo mandará avisar “os discípulos e Pedro” (16:7). Segundo uma tradição antiga (Papias, citado por Eusébio, História Eclesiástica 3.39.15), Marcos registrou a pregação de Pedro; se assim for, foi o próprio Pedro quem fez questão de contar a sua queda."
+   }
+  ]
+ }
+}

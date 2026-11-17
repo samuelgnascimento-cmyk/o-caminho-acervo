@@ -1,0 +1,110 @@
+[
+ {
+  "ref": "Mat.19.9",
+  "gravidade": "media",
+  "problema": "A nota tn sobre “e se casar com outra comete adultério” afirma como fato uma só posição (“um divórcio que Deus não reconhece: aos olhos de Deus, o primeiro vínculo continua”), sem equilíbrio, embora a primeira nota admita que a cláusula de exceção pode abrir o novo casamento da parte inocente. Isso contradiz a primeira nota e o ponto sobre o alcance da exceção (só o divórcio ou também o novo casamento) não aparece. As vírgulas em volta de “a não ser por imoralidade sexual” também já decidem que a exceção cobre os dois verbos.",
+  "sugestao": "Reescrever a nota 2 como debate: o “comete adultério” vale (a) para quem se casa de novo após divórcio sem a causa da exceção (leitura da maioria protestante), ou (b) para qualquer novo casamento, pois o vínculo não se desfaz (leitura católica, ortodoxa oriental e de muitos Pais). Dizer que o grego não traz vírgulas e que o alcance de “μὴ ἐπὶ πορνείᾳ” (só ἀπολύσῃ, ou também γαμήσῃ) é disputado. Se possível pontuar o texto de modo neutro."
+ },
+ {
+  "ref": "Mat.19.18",
+  "gravidade": "media",
+  "problema": "A nota sn diz que os mandamentos aparecem “na forma da Septuaginta”. A ordem de Mateus (φονεύσεις, μοιχεύσεις, κλέψεις) segue o hebraico de Êx 20:13-15 e Dt 5:17-19; na Septuaginta de Êx 20 e Dt 5 a ordem é outra (adultério antes de homicídio e furto, com variação entre manuscritos). Só o futuro com οὐ coincide.",
+  "sugestao": "Trocar por: “na ordem do texto hebraico (Êx 20:13-15; Dt 5:17-19) e com o futuro de οὐ + indicativo, comum à Septuaginta; Marcos e Lucas trazem outra ordem (adultério antes de homicídio).” Ou retirar a afirmação sobre a Septuaginta."
+ },
+ {
+  "ref": "Mat.19.20",
+  "gravidade": "baixa",
+  "problema": "Na nota tc, “o acréscimo, que contrastaria com ‘jovem’” não faz sentido: ἐκ νεότητός μου não contrasta com νεανίσκος, concorda com ele. Na nota tn, a faixa “entre a adolescência e uns quarenta anos” não tem fonte.",
+  "sugestao": "Reescrever: “Provavelmente foi trazido de Mc 10:20 e Lc 18:21; os manuscritos mais antigos de Mateus não o têm.” Tirar a faixa de idade ou dizer só “homem jovem, em plena força”."
+ },
+ {
+  "ref": "Mat.19.21",
+  "gravidade": "baixa",
+  "problema": "“Depois venha e siga-me” acrescenta “Depois”, que não está em καὶ δεῦρο ἀκολούθει μοι (“e venha, siga-me”) e cria uma sequência (primeiro vender, depois seguir) que o grego não marca; a nota diz que vender é o caminho, mas o texto não explica o acréscimo.",
+  "sugestao": "“e venha, siga-me.” (sem “Depois”), ou registrar na nota que “Depois” foi acrescentado."
+ },
+ {
+  "ref": "Mat.19.22",
+  "gravidade": "baixa",
+  "problema": "A nota sn diz que este é “o único chamado de Jesus, nos Evangelhos, que a pessoa recusa”. A afirmação é forte demais e não verificável (cf. Lc 9:57-62; 14:15-24; Jo 6:66).",
+  "sugestao": "Atenuar: “É o único caso nos Evangelhos em que alguém que Jesus chama pessoalmente ao seguimento se afasta triste” ou “um dos poucos casos”."
+ },
+ {
+  "ref": "Mat.19.29",
+  "gravidade": "alta",
+  "problema": "Omissão de palavra do texto-base: o SBLGNT traz “ἢ γυναῖκα” (“ou mulher”) entre “ἢ μητέρα” e “ἢ τέκνα” (aparato do SBLGNT: «γυναῖκα ἢ RP ] – WH Treg NA28»), mas a tradução diz só “ou pai, ou mãe, ou filhos”. A nota tc “ou mãe, ou filhos” afirma o contrário do real: diz que o TR e o Bizantino acrescentam “ou mulher” e que as edições críticas não a trazem. Na verdade o texto-base e o Bizantino (RP) a trazem; quem omite são Westcott-Hort, Tregelles e o NA28.",
+  "sugestao": "Texto: “…ou pai, ou mãe, ou mulher, ou filhos, ou campos…”. Nota tc: “O SBLGNT e o texto bizantino trazem ‘ou mulher’ (gynaika), como em Lc 18:29; Westcott-Hort, Tregelles e o NA28 a omitem. A APV segue o texto-base.” Manter a observação sobre Tregelles (omite “casas” no início e põe “ou casas” depois de “campos”). Ancorar a nota em “ou mulher”."
+ },
+ {
+  "ref": "Mat.20.1",
+  "gravidade": "baixa",
+  "problema": "A nota sn afirma que “na época da colheita da uva, o proprietário precisava de mais braços com urgência”. O texto não diz isso (a hora é o dia, não a estação); é suposição apresentada como dado.",
+  "sugestao": "Retirar a frase ou marcá-la como possibilidade (“talvez a cena se passe na vindima”)."
+ },
+ {
+  "ref": "Mat.20.23",
+  "gravidade": "baixa",
+  "problema": "Na nota sn, “A tradição ortodoxa lê isso…” é ambíguo (pode ser entendido como Igreja Ortodoxa Oriental). Em “De João, a tradição diz… não que tenha sido morto” a afirmação é segura demais: há uma tradição minoritária antiga (Papias, segundo autores tardios) de morte precoce de João.",
+  "sugestao": "Trocar por “A leitura cristã tradicional (credal) vê nisso…” e “A tradição mais difundida diz que João sofreu exílio e perseguição (cf. Ap 1:9) e morreu em idade avançada; há uma tradição minoritária de morte violenta”."
+ },
+ {
+  "ref": "Mat.21.1",
+  "gravidade": "baixa",
+  "problema": "Nota tc ancorada em “de Jerusalém” e dizendo que o THGNT/TR/Bizantino trazem πρός “em vez do segundo eis”. A variante εἰς→πρός da folha e do aparato é a do terceiro εἰς (“εἰς τὸ ὄρος”, TR: πρὸς τὸ ὄρος), não a de “εἰς Ἱεροσόλυμα” nem a de “εἰς Βηθφαγή”. Também omite que Tregelles traz o artigo antes de “Jesus”.",
+  "sugestao": "Ancorar em “junto ao monte das Oliveiras” e escrever: “O THGNT, o Textus Receptus e o Texto Bizantino trazem pros (‘junto a’) em vez de eis antes de ‘o monte das Oliveiras’; o THGNT, Tregelles, o TR e o Bizantino trazem o artigo antes de ‘Jesus’. Sem efeito na tradução.”"
+ },
+ {
+  "ref": "Mat.21.16",
+  "gravidade": "media",
+  "problema": "“tiraste louvor perfeito” não traduz κατηρτίσω αἶνον (“preparaste/aperfeiçoaste louvor”): “tiraste” não tem base no verbo grego e a combinação “tiraste… perfeito louvor” repete a fórmula da ARC/ARA (“tiraste perfeito louvor”). A nota admite que o literal é “preparaste para ti louvor”, mas o texto fica com a leitura tradicional protegida.",
+  "sugestao": "“Da boca de pequeninos e de bebês de peito preparaste louvor para ti” ou “aperfeiçoaste o louvor”; manter a nota sobre katartizō e ainda indicar que as traduções tradicionais dizem “tiraste”."
+ },
+ {
+  "ref": "Mat.21.29",
+  "gravidade": "baixa",
+  "problema": "Na nota tc, o grupo (1) inclui Tregelles com o texto-base, mas no v. 31 Tregelles traz ὕστερος (“o último”); isto é, Tregelles segue o diálogo de (1) e a resposta de (3). A nota não diz isso e o leitor lê Tregelles como testemunha plena de (1).",
+  "sugestao": "Acrescentar: “Tregelles tem o diálogo de (1), mas responde ‘o último’ (forma 3).”"
+ },
+ {
+  "ref": "Mat.21.34",
+  "gravidade": "media",
+  "problema": "δοῦλοι vertido “servos” (também 21:35-36; 22:3, 4, 6, 8, 10), com a justificativa de que representam profetas. O guia manda “escravo” quando o δοῦλος aparece diante do seu senhor/dono como figura da relação de propriedade (Mat 18:23 já foi traduzido “escravos” com esse critério; 20:27 também). Aqui o dono/rei (κύριος, βασιλεύς) envia seus δοῦλοι: é o mesmo caso. Fica inconsistente com 18:23-32 e com o v. 20:27 e com o próprio critério citado na nota.",
+  "sugestao": "Seguir o critério de 18:23: “escravos” nas parábolas de 21:33-41 e 22:1-10, com nota (lembrando “meus servos, os profetas”, Jr 7:25), ou então levar o caso a revisor humano (revisar: true) para uniformizar com Mt 18, 24 e 25."
+ },
+ {
+  "ref": "Mat.22.5",
+  "gravidade": "baixa",
+  "problema": "A nota cita “se negligenciarmos tão grande salvação” (Hb 2:3) com a redação da ARA/NAA; guia: no máximo palavra ou expressão curta de tradução protegida.",
+  "sugestao": "Citar só “negligenciar” ou traduzir direto do grego: “como escaparemos, tendo descuidado de tamanha salvação?”."
+ },
+ {
+  "ref": "Mat.22.7",
+  "gravidade": "baixa",
+  "problema": "A nota cita Is 5:24-25 como exemplo de cidade incendiada em guerra; o texto é sobre fogo que consome o restolho, não sobre incêndio de cidade. Referência imprópria.",
+  "sugestao": "Trocar por Jz 1:8; 20:48; Js 8:19 (cidades incendiadas), ou retirar Is 5:24-25."
+ },
+ {
+  "ref": "Mat.22.11",
+  "gravidade": "baixa",
+  "problema": "A nota cita “o linho fino são os atos de justiça dos santos” (Ap 19:8) com a redação da ARA/NAA, sem tradução própria.",
+  "sugestao": "Traduzir do grego: “o linho fino são as ações justas dos santos”, ou só referenciar Ap 19:8."
+ },
+ {
+  "ref": "Mat.22.30",
+  "gravidade": "baixa",
+  "problema": "A nota diz que gameō é dito “do homem” e gamizō “da mulher”. γαμέω é usado de ambos os sexos (Mc 10:12; 1Co 7:28, 39), e γαμοῦσιν aqui é plural genérico. A tradução acrescenta “os homens” e “as mulheres”, que não estão no grego, para fazer essa divisão.",
+  "sugestao": "“…na ressurreição nem se casam nem são dados em casamento”, ou manter “os homens… as mulheres” explicando na nota que é acréscimo e que gameō não é restrito ao homem."
+ },
+ {
+  "ref": "Mat.23.23",
+  "gravidade": "baixa",
+  "problema": "A nota cita Mq 6:8 como “praticar a justiça, amar a misericórdia e andar humildemente com o seu Deus”, que reproduz a redação da ARA/NAA.",
+  "sugestao": "Traduzir do hebraico com palavras próprias (“agir com justiça, amar a bondade leal, andar com humildade diante do teu Deus”) ou só referenciar Mq 6:8."
+ },
+ {
+  "ref": "Mat.23.36",
+  "gravidade": "baixa",
+  "problema": "A nota afirma que o juízo “cumpriu-se em grande parte na destruição de Jerusalém e do templo no ano 70” como única leitura; não mostra as outras posições sérias (cumprimento ainda futuro, “esta geração” como a raça/geração incrédula, dupla referência).",
+  "sugestao": "Apresentar as posições: (1) cumprimento no ano 70; (2) “geração” como tipo moral que continua até a volta de Cristo; (3) dupla referência (ano 70 e fim). Nota para 24:34."
+ }
+]

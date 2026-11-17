@@ -1,0 +1,140 @@
+[
+ {
+  "ref": "Jhn.14.30",
+  "gravidade": "media",
+  "problema": "A tradução diz \"Ele não tem nenhum poder sobre mim\" para ἐν ἐμοὶ οὐκ ἔχει οὐδέν (lit. \"em mim não tem nada\"). A própria nota explica a expressão como \"não ter direito/apoio\" em Jesus, mas o texto traz \"poder\", que é outra coisa: Satanás de fato age na Paixão (13:27), e o que Jesus nega é direito ou ponto de apoio, não capacidade de agir. Também afasta-se do literal sem dizer \"Lit.\" no corpo do texto.",
+  "sugestao": "Texto: \"e nada tem em mim\" (literal) ou \"não tem nenhum direito sobre mim\". Na nota, manter \"Lit. 'em mim não tem nada'\" e alinhar a explicação (direito/ponto de apoio)."
+ },
+ {
+  "ref": "Jhn.14.23",
+  "gravidade": "media",
+  "problema": "μονὴν παρ᾽ αὐτῷ ποιησόμεθα está traduzido \"faremos nele a nossa morada\". O grego diz παρ᾽ αὐτῷ (\"junto dele\", \"com ele\"), não ἐν αὐτῷ. A nota do v. 17 do próprio tradutor destaca justamente que παρ᾽ ὑμῖν e ἐν ὑμῖν são diferentes, e a nota do v. 23 diz \"Lit. 'junto dele'\" e depois afirma que as três pessoas \"habitam no crente\". \"Nele\" decide por conta própria uma leitura (habitação interior) que o grego só sugere.",
+  "sugestao": "Texto: \"faremos morada junto dele\" (ou \"com ele\"). Na nota, dizer que \"junto dele\" pode apontar para habitação interior (cf. v. 17, \"em vocês\") sem apagar a preposição do grego."
+ },
+ {
+  "ref": "Jhn.14.11",
+  "gravidade": "media",
+  "problema": "Omissão de μοι: πιστεύετέ μοι ὅτι... está traduzido \"Creiam que eu estou no Pai\", sem o dativo (\"creiam-me\" / \"creiam em mim\"). Além disso, a nota atribui a Tregelles, TR e Bizantino a presença de moi como se faltasse no texto-base (\"creiam em mim, que eu estou no Pai\"), mas o texto-base já traz μοι na primeira oração; o μοι que a folha marca como VARIANTE está no fim do versículo (διὰ τὰ ἔργα αὐτὰ πιστεύετε μοι).",
+  "sugestao": "Texto: \"Creiam-me: eu estou no Pai e o Pai está em mim; se não, creiam ao menos por causa das próprias obras.\" Nota: \"Tregelles, o TR e o Texto Bizantino trazem também moi depois do segundo 'creiam' (final do versículo); o sentido não muda.\""
+ },
+ {
+  "ref": "Jhn.12.13",
+  "gravidade": "media",
+  "problema": "O καί de καὶ ὁ βασιλεὺς τοῦ Ἰσραήλ (que faz parte do SBLGNT e das outras edições críticas, segundo o aparato) foi suprimido na tradução (\"...em nome do Senhor, o Rei de Israel!\"), com a nota afirmando que o kai \"tem valor de explicação: 'isto é, o Rei de Israel'\". Essa leitura epexegética é só uma possibilidade; o mais natural é aditivo (\"e o Rei de Israel\"), e a supressão desfaz a distinção que a própria nota faz entre o que está no Sl 118 e o que a multidão acrescenta.",
+  "sugestao": "Texto: \"Bendito o que vem em nome do Senhor, e o Rei de Israel!\" Nota: dizer que o kai pode ser lido como explicativo (\"isto é\") por alguns, mas que a APV mantém \"e\" porque a multidão acrescenta o título ao salmo."
+ },
+ {
+  "ref": "Jhn.10.4",
+  "gravidade": "media",
+  "problema": "Dado errado sobre o TR/Bizantino: a nota diz que eles leem \"todas as suas ovelhas\" (\"probata em vez de panta\"). Pela folha, probata substitui panta, ou seja, o TR/Bizantino têm \"as suas ovelhas\" (τὰ ἴδια πρόβατα), sem \"todas\". Também omite que TR/Bizantino trazem καὶ antes de ὅταν.",
+  "sugestao": "Corrigir: \"O TR e o Texto Bizantino trazem probata (\\\"as suas ovelhas\\\") no lugar de panta (\\\"todas as suas\\\"), e kai no início da oração; o sentido é o mesmo.\""
+ },
+ {
+  "ref": "Jhn.10.29",
+  "gravidade": "media",
+  "problema": "Na nota tc, a forma (3) (TR/Bizantino, hos ... meizōn) é descrita como \"forma mais fácil e conhecida das traduções antigas\". Afirmação duvidosa e sem base na folha ou no aparato: a Vulgata, por exemplo, traz o neutro (quod dedit mihi maius omnibus est), isto é, a leitura (2), não a (3). Além disso, a ordem do Bizantino (μείζων πάντων) difere do texto-base e não é mencionada.",
+  "sugestao": "Tirar \"conhecida das traduções antigas\" (ou substituir por \"forma mais fácil gramaticalmente\"). Acrescentar que o Bizantino também inverte a ordem (meizōn pantōn)."
+ },
+ {
+  "ref": "Jhn.12.8",
+  "gravidade": "media",
+  "problema": "A nota afirma que \"alguns poucos testemunhos antigos omitem este versículo\". Nem a folha nem o aparato do SBLGNT registram variante em 12:8; é dado sobre manuscritos sem fonte verificável, contra a regra de só afirmar o que a folha mostra e de citar manuscritos só com certeza.",
+  "sugestao": "Remover a frase sobre omissão (deixar só \"o SBLGNT... trazem o versículo\" se quiser) ou citar a fonte exata (p. ex. Metzger, Textual Commentary) se o revisor humano confirmar."
+ },
+ {
+  "ref": "Jhn.12.32",
+  "gravidade": "media",
+  "problema": "A variante panta (\"todas as coisas\") muda o sentido do versículo, mas está só dentro de uma nota sn e com a atribuição vaga \"alguns manuscritos\", sem nenhuma confirmação na folha ou no aparato do SBLGNT. O mesmo padrão aparece em 12:28 (\"glorifica o teu Filho\"/\"glorifica-me\") e 12:31 (katō): variantes de manuscritos não identificados, não ligadas ao aparato. O guia pede nota tc quando a variante muda o sentido e proíbe citar o que a folha não mostra.",
+  "sugestao": "Transformar em nota tc curta, apenas com o que o aparato mostra (as edições críticas e o Bizantino leem pantas), e tirar a menção a \"alguns manuscritos\" ou nomeá-los com segurança (Metzger). Mesma correção em 12:28 e 12:31."
+ },
+ {
+  "ref": "Jhn.14.2",
+  "gravidade": "baixa",
+  "problema": "Na nota tc*, a leitura (2) é descrita como \"com hoti causal... a forma das traduções que seguem o TR e o Texto Bizantino, onde hoti não aparece\". Contradição: se o TR não tem hoti, essa leitura não pode ser \"com hoti causal\"; são duas coisas distintas (TR sem hoti, com pontuação \"eu teria dito; vou preparar-lhes lugar\"; e texto crítico com ὅτι tomado como \"pois\"). Além disso, o texto-base do SBLGNT pontua com ponto alto depois de ὑμῖν, e a tradução impôs uma interrogação sem dizer.",
+  "sugestao": "Separar: (2a) TR/Bizantino sem hoti: \"eu lhes teria dito; vou preparar-lhes lugar\"; (2b) com hoti causal \"pois\". Dizer que a pergunta do texto é decisão de pontuação, já que o SBLGNT não traz ponto de interrogação."
+ },
+ {
+  "ref": "Jhn.11.3",
+  "gravidade": "baixa",
+  "problema": "ἴδε (\"eis\") foi omitido: κύριε, ἴδε ὃν φιλεῖς ἀσθενεῖ está \"Senhor, aquele que o senhor ama está doente\".",
+  "sugestao": "\"Senhor, olhe: aquele que o senhor ama está doente\" ou, se a omissão for intencional, dizer na nota que ide foi absorvido pelo tom do recado."
+ },
+ {
+  "ref": "Jhn.11.2",
+  "gravidade": "baixa",
+  "problema": "\"era o irmão dela, Lázaro, que estava doente\" para ἧς ὁ ἀδελφὸς Λάζαρος ἠσθένει (\"cujo irmão Lázaro estava doente\", relativa genitiva): a frase portuguesa fica ambígua (\"Maria era aquela que...; era o irmão dela que estava doente\") e quase truncada.",
+  "sugestao": "\"Maria era aquela que ungiu o Senhor com perfume e lhe enxugou os pés com os seus cabelos; era o irmão dela, Lázaro, que estava doente\" -> \"...; o irmão dela, Lázaro, estava doente.\""
+ },
+ {
+  "ref": "Jhn.11.41",
+  "gravidade": "baixa",
+  "problema": "A nota tn manda \"ver o guia de tratamento da APV\". O leitor da Bíblia não conhece o guia do projeto; o guia proíbe mencionar ferramentas ou documentos internos nas notas. Também afirma sem ressalva que \"Pater\" corresponde ao aramaico abba (ponto debatido).",
+  "sugestao": "Trocar por \"Jesus fala com o Pai, e por isso 'tu' (ver nota em 17:1)\" ou explicar o 'tu' em uma frase. Suavizar: \"provavelmente\" já está; acrescentar \"como muitos propõem\" ou citar o debate sobre abba."
+ },
+ {
+  "ref": "Jhn.11.48",
+  "gravidade": "baixa",
+  "problema": "ἀροῦσιν (de αἴρω, \"tirar, levar\") está traduzido \"destruirão tanto o nosso lugar como a nossa nação\". \"Destruir\" é interpretação; o grego diz \"tirarão\" (tomarão o lugar e a nação). A nota admite \"destruir, tomar\", mas o texto escolhe o sentido mais forte.",
+  "sugestao": "Texto: \"tirarão de nós tanto o lugar como a nação\" (ou \"tomarão\"), com nota dizendo que a consequência é a destruição (ver 70 d.C.)."
+ },
+ {
+  "ref": "Jhn.11.52",
+  "gravidade": "baixa",
+  "problema": "\"para reunir num só corpo\" para συναγάγῃ εἰς ἕν (lit. \"em um\"): \"corpo\" acrescenta imagem paulina (igreja como corpo) que não está no texto; a nota reconhece que o neutro hen é só \"unidade\". Também a sn diz que são chamados \"filhos de Deus\" \"do ponto de vista de Deus, que já os conhece\": posição predestinacionista dada como única, sem as alternativas (promessa futura, ou filhos potenciais).",
+  "sugestao": "Texto: \"para reuni-los em um\" ou \"para reuni-los em unidade\". Na sn, apresentar as leituras (prolepse pela eleição, ou \"os que se tornarão filhos\") e deixar a decisão aberta."
+ },
+ {
+  "ref": "Jhn.11.13",
+  "gravidade": "baixa",
+  "problema": "A nota cita 11:24 como exemplo de \"mal-entendido típico de João\"; em 11:24 Marta não se engana sobre o sentido de uma metáfora, só limita a promessa ao último dia (o que o v. 25 corrige). A referência mais próxima é 11:12.",
+  "sugestao": "Trocar \"11:24\" por \"11:12\" ou por \"6:52; 8:57\"."
+ },
+ {
+  "ref": "Jhn.12.7",
+  "gravidade": "baixa",
+  "problema": "A nota cita Mc 14:8 como \"antecipou-se a ungir o meu corpo para a sepultura\", frase praticamente idêntica à da ARA/ARC. O guia proíbe copiar frases de traduções protegidas (ARA, NAA etc.). Também a leitura (2) da nota (\"para guardá-lo [na memória]\") é pouco defendida e apresentada como equivalente às outras.",
+  "sugestao": "Parafrasear a partir do grego de Mc 14:8: \"ela ungiu de antemão o meu corpo para o sepultamento\". Retirar ou qualificar a leitura \"na memória\"."
+ },
+ {
+  "ref": "Jhn.12.8",
+  "gravidade": "baixa",
+  "problema": "A citação de Dt 15:11 (\"Nunca deixará de haver pobres na terra; por isso eu ordeno a você: abra a mão para o seu irmão\") segue de perto a redação de ARA/NAA (\"nunca deixará de haver pobres na terra; por isso eu te ordeno...\").",
+  "sugestao": "Traduzir de novo do hebraico/LXX com outras palavras (p. ex. \"Não faltarão pobres no país; por isso lhe ordeno: abra a mão ao seu irmão\")."
+ },
+ {
+  "ref": "Jhn.12.49",
+  "gravidade": "baixa",
+  "problema": "A citação de Dt 18:18 na nota (\"porei as minhas palavras na sua boca, e ele lhes dirá tudo o que eu lhe ordenar\") é muito próxima da ARA/NVI (\"porei na sua boca as minhas palavras, e ele lhes falará tudo o que eu lhe ordenar\").",
+  "sugestao": "Refazer do hebraico: \"colocarei minhas palavras na boca dele, e ele lhes dirá tudo que eu mandar\" (ou apenas aludir a Dt 18:18 sem citar)."
+ },
+ {
+  "ref": "Jhn.12.15",
+  "gravidade": "baixa",
+  "problema": "A nota diz \"Lit. 'um potro de jumenta'\" para πῶλον ὄνου. ὄνος é \"jumento/asno\" sem marca de gênero (a forma feminina, no hebraico de Zc 9:9, é 'atonot); portanto \"jumenta\" não é literal. A frase final da sn (\"A fala de Deus ao povo segue o tratamento 'você' da APV\") é meta e fala de \"Deus\" sendo que em Zc 9:9 é o profeta que fala.",
+  "sugestao": "Texto e nota: \"filhote de jumento\" (lit. \"potro de jumento\"), dizendo que o hebraico de Zc 9:9 usa a forma feminina. Cortar a última frase da sn."
+ },
+ {
+  "ref": "Jhn.12.34",
+  "gravidade": "baixa",
+  "problema": "\"Como, então, você diz...\": o \"então\" não está no grego (καὶ πῶς λέγεις σύ), enquanto o οὖν inicial de Ἀπεκρίθη οὖν foi omitido em \"A multidão lhe respondeu\". As posições trocaram de lugar sem razão.",
+  "sugestao": "\"Então a multidão lhe respondeu: ... E como você diz que o Filho do Homem precisa ser levantado?\""
+ },
+ {
+  "ref": "Jhn.13.2",
+  "gravidade": "baixa",
+  "problema": "Na nota tc: \"o aoristo genomenou, que pode ser lido 'terminado o jantar', forma de traduções antigas\". \"Traduções antigas\" é vago e não verificável (o sentido \"terminado o jantar\" vem de versões como a KJV, não de versões antigas); contra a regra de só afirmar o que se sabe com certeza.",
+  "sugestao": "Tirar \"forma de traduções antigas\" ou trocar por \"forma que alguns leem como 'terminado o jantar'\"."
+ },
+ {
+  "ref": "Jhn.14.12",
+  "gravidade": "baixa",
+  "problema": "A sn cita Mc 16:17-18 como apoio à promessa de sinais e curas, sem avisar que esses versículos pertencem ao final de Marcos tratado pelo projeto como texto em disputa (entre ⟦ ⟧). Fora disso a nota é equilibrada. Mencionar \"a linha continuísta da APV\" também é meta.",
+  "sugestao": "Substituir por At 3:6-8; 5:12-16 (sem problema textual) ou acrescentar \"(final de Marcos, ver nota tc ali)\"."
+ },
+ {
+  "ref": "Jhn.12.32",
+  "gravidade": "baixa",
+  "problema": "Na sn de 12:32, \"todos\" é explicado só como \"pessoas de todos os povos\". Esta é uma leitura séria, mas outras (extensão universal da graça preveniente, convite a todos) também são sustentadas e não aparecem; o guia pede equilíbrio.",
+  "sugestao": "Acrescentar uma frase com a leitura alternativa (todos sem exceção, no sentido de oferta universal; cf. 3:16-17; 12:47)."
+ }
+]
