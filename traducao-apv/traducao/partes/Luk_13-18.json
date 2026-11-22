@@ -1633,5 +1633,1564 @@
     "texto": "O pai corrige o mais velho: não é só “seu filho” (v. 30), mas “seu irmão”. A parábola termina sem dizer se ele entrou na festa. A decisão fica com os ouvintes, os fariseus e escribas que murmuravam (v. 2). O Textus Receptus e o Texto Bizantino trazem anezēsen (“voltou a viver”) como no v. 24; o texto-base traz ezēsen (“viveu”), sem diferença de sentido."
    }
   ]
+ },
+ "Luk.16.1": {
+  "t": "Jesus dizia também aos discípulos: “Havia um homem rico que tinha um administrador, e este lhe foi denunciado como alguém que desperdiçava os seus bens.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "administrador",
+    "termo": "οἰκονόμον (oikonomon)",
+    "titulo": "oikonomos",
+    "texto": "O oikonomos administrava a casa ou as propriedades de outro: fazia contratos, cobrava dívidas, cuidava das rendas (veja a nota em 12:42). O texto não diz se este era escravo ou homem livre; o v. 3 sugere que, demitido, ficaria sem meio de vida."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "lhe foi denunciado",
+    "termo": "διεβλήθη αὐτῷ (dieblēthē autō)",
+    "titulo": "diaballō, hápax",
+    "texto": "Diaballō (da mesma família de diabolos, “acusador”) é “denunciar, acusar”, às vezes com malícia. Aqui o texto não diz se a acusação era falsa; o administrador não se defende (v. 3). “Desperdiçava” é o mesmo verbo usado para o filho mais novo em 15:13 (diaskorpizō)."
+   }
+  ]
+ },
+ "Luk.16.2": {
+  "t": "Ele o chamou e lhe disse: ‘Que é isto que ouço a seu respeito? Preste contas da sua administração, porque você já não pode continuar como administrador.’",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Preste contas da sua administração",
+    "termo": "ἀπόδος τὸν λόγον τῆς οἰκονομίας σου",
+    "titulo": "a prestação de contas",
+    "texto": "Lit. “entregue a conta da sua administração”: os registros e livros que o administrador deveria apresentar antes de deixar o cargo. Oikonomeō (“administrar”) só aparece aqui no NT."
+   }
+  ]
+ },
+ "Luk.16.3": {
+  "t": "O administrador disse consigo mesmo: ‘Que vou fazer, já que o meu senhor está tirando de mim a administração? Cavar, não tenho forças; mendigar, tenho vergonha.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Cavar, não tenho forças; mendigar, tenho vergonha",
+    "termo": "σκάπτειν οὐκ ἰσχύω, ἐπαιτεῖν αἰσχύνομαι",
+    "titulo": "as alternativas",
+    "texto": "Cavar a terra era o trabalho braçal mais pesado; mendigar (epaiteō, só aqui e em 18:35), o mais humilhante. O monólogo interior é comum nas parábolas de Lucas (12:17; 15:17; 18:4; 20:13). A ordem enfática do grego foi conservada."
+   }
+  ]
+ },
+ "Luk.16.4": {
+  "t": "Já sei o que vou fazer, para que, quando eu for afastado da administração, haja quem me receba em casa.’",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "haja quem me receba em casa",
+    "termo": "δέξωνταί με εἰς τοὺς οἴκους ἑαυτῶν",
+    "titulo": "sujeito indeterminado",
+    "texto": "Lit. “me recebam nas casas deles”. O sujeito não é dito; o v. 5 mostra que são os devedores. Numa sociedade de favores recíprocos, quem recebia um benefício ficava obrigado a retribuir. O texto-base, com Westcott-Hort e Tregelles, traz heautōn (“deles mesmos”); NA28, o Textus Receptus e o Texto Bizantino, autōn. Sem diferença no sentido."
+   }
+  ]
+ },
+ "Luk.16.5": {
+  "t": "Chamou então cada um dos devedores do seu senhor e perguntou ao primeiro: ‘Quanto você deve ao meu senhor?’",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "devedores",
+    "termo": "χρεοφειλετῶν (chreopheiletōn)",
+    "titulo": "chreopheiletēs",
+    "texto": "“Devedor” (só aqui e em 7:41). Podiam ser arrendatários que pagavam a renda da terra em produtos, ou comerciantes que tinham recebido mercadorias a crédito."
+   }
+  ]
+ },
+ "Luk.16.6": {
+  "t": "Ele respondeu: ‘Cem batos de azeite.’ O administrador lhe disse: ‘Pegue a sua conta, sente-se depressa e escreva cinquenta.’",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "batos",
+    "termo": "βάτους (batous)",
+    "titulo": "batos, hápax",
+    "texto": "O bato (hebraico bat) era uma medida de líquidos. O valor é discutido: as estimativas vão de cerca de 20 a perto de 40 litros. Cem batos de azeite eram, de qualquer modo, uma dívida grande. “Conta” traduz ta grammata, o documento escrito da dívida, que o próprio devedor reescreve com a sua letra."
+   }
+  ]
+ },
+ "Luk.16.7": {
+  "t": "Depois perguntou a outro: ‘E você, quanto deve?’ Ele respondeu: ‘Cem coros de trigo.’ Disse-lhe: ‘Pegue a sua conta e escreva oitenta.’",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "coros",
+    "termo": "κόρους (korous)",
+    "titulo": "koros, hápax",
+    "texto": "O coro (hebraico kor) era a maior medida de grãos, equivalente a dez batos (Ez 45:14). Cem coros eram uma quantidade enorme de trigo, a produção de uma grande área de terra."
+   }
+  ]
+ },
+ "Luk.16.8": {
+  "t": "E o senhor elogiou o administrador desonesto, porque agiu com esperteza. Pois os filhos deste mundo são mais espertos com a sua própria gente do que os filhos da luz.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "o senhor elogiou",
+    "termo": "ἐπῄνεσεν ὁ κύριος",
+    "titulo": "que senhor?",
+    "texto": "Kyrios pode ser o patrão da parábola (vv. 3, 5) ou Jesus, “o Senhor”, como em 18:6. A maioria entende que é o patrão, e por isso a APV escreve “o senhor”; nesse caso, as palavras de Jesus começam no v. 8b (“Pois os filhos...”) ou no v. 9 (“E eu lhes digo”). O patrão não elogia a desonestidade, mas a esperteza com que o administrador garantiu o futuro."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "o administrador desonesto",
+    "termo": "τὸν οἰκονόμον τῆς ἀδικίας",
+    "titulo": "“administrador da injustiça”",
+    "texto": "Lit. “o administrador da injustiça”, construção semítica equivalente a um adjetivo (cf. 18:6, “o juiz da injustiça”). Alguns propõem que os descontos dos vv. 6-7 seriam a comissão do próprio administrador ou juros proibidos pela Lei (Êx 22:25; Lv 25:36-37), e então ele teria agido corretamente; mas o texto o chama de “desonesto” justamente aqui. A leitura mais simples é que ele lesou o patrão mais uma vez, e foi elogiado pela astúcia, não pela moral."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "com esperteza",
+    "termo": "φρονίμως (phronimōs)",
+    "titulo": "phronimōs, hápax",
+    "texto": "Phronimos é “prudente, sensato, previdente” (12:42). Aqui é a sagacidade prática de quem age a tempo diante de uma crise. Jesus aplica a lição aos discípulos: diante da crise final, é preciso agir com a mesma decisão."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "os filhos deste mundo",
+    "termo": "οἱ υἱοὶ τοῦ αἰῶνος τούτου ... τοὺς υἱοὺς τοῦ φωτός",
+    "titulo": "duas classes de pessoas",
+    "texto": "“Filhos de” indica pertença ou caráter. Os “filhos deste mundo” (lit. “desta era”, 20:34) vivem só pelo tempo presente; os “filhos da luz” pertencem a Deus (Jo 12:36; Ef 5:8; 1Ts 5:5). A expressão aparece também nos textos de Qumran. “Com a sua própria gente” traduz eis tēn genean tēn heautōn, lit. “para a sua própria geração”: os espertos sabem lidar com os da sua espécie."
+   }
+  ]
+ },
+ "Luk.16.9": {
+  "t": "E eu lhes digo: façam amigos para vocês por meio do dinheiro injusto, para que, quando ele acabar, eles os recebam nas tendas eternas.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "dinheiro injusto",
+    "termo": "τοῦ μαμωνᾶ τῆς ἀδικίας (tou mamōna tēs adikias)",
+    "titulo": "mamōnas",
+    "texto": "Mamōnas é palavra aramaica para riqueza e bens (veja a nota em Mt 6:24); a ARC a translitera como “Mamom”. “Da injustiça” é genitivo semítico: o dinheiro é chamado injusto porque muitas vezes é ganho ou usado com injustiça e porque pertence a este mundo, em contraste com a “verdadeira” riqueza (v. 11). Os discípulos devem usá-lo para fazer amigos, isto é, dando aos pobres (12:33; 14:13-14; 18:22)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "eles os recebam",
+    "termo": "δέξωνται ὑμᾶς (dexōntai hymas)",
+    "titulo": "quem recebe?",
+    "texto": "O sujeito pode ser os amigos feitos com a ajuda dada (os pobres, que testemunharão a favor de quem os ajudou), ou um plural impessoal que, à maneira semítica, indica a ação de Deus (cf. 6:38; 12:20). Nos dois casos, é Deus quem acolhe na morada eterna; a esmola não compra a salvação, mas mostra onde está o coração (12:34)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "tendas eternas",
+    "termo": "τὰς αἰωνίους σκηνάς (tas aiōnious skēnas)",
+    "titulo": "skēnai",
+    "texto": "Lit. “tendas eternas”. O paradoxo é proposital: a tenda é a morada provisória, mas estas são eternas. Ecoa a habitação de Deus com o seu povo (Êx 25:8-9; Ap 21:3) e contrasta com as casas que o administrador buscava (v. 4)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "quando ele acabar",
+    "termo": "ὅταν ἐκλίπῃ (hotan eklipē)",
+    "titulo": "o dinheiro ou vocês?",
+    "texto": "O texto-base, com Westcott-Hort, Tregelles e NA28, traz eklipē (“quando ele [o dinheiro] acabar”); o Textus Receptus e o Texto Bizantino, eklipēte (“quando vocês faltarem”, isto é, morrerem). O sentido final é parecido: o dinheiro e a vida presente têm fim."
+   }
+  ]
+ },
+ "Luk.16.10": {
+  "t": "Quem é fiel no pouco também é fiel no muito, e quem é desonesto no pouco também é desonesto no muito.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "no pouco",
+    "termo": "ἐν ἐλαχίστῳ (en elachistō)",
+    "titulo": "elachistos",
+    "texto": "Lit. “no mínimo”. O dinheiro, por maior que seja, é “o mínimo” em comparação com as riquezas do Reino (cf. 19:17). A palavra “desonesto” (adikos) retoma a “injustiça” dos vv. 8-9."
+   }
+  ]
+ },
+ "Luk.16.11": {
+  "t": "Portanto, se vocês não foram fiéis no dinheiro injusto, quem lhes confiará a verdadeira riqueza?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "quem lhes confiará a verdadeira riqueza?",
+    "termo": "τὸ ἀληθινὸν τίς ὑμῖν πιστεύσει;",
+    "titulo": "o jogo de palavras",
+    "texto": "Lit. “o verdadeiro, quem lhes confiará?”. Há um jogo entre pistoi (“fiéis”) e pisteusei (“confiará”), e entre o dinheiro “injusto” e a riqueza “verdadeira”, isto é, os bens do Reino, que não acabam. “Riqueza” foi acrescentado por clareza."
+   }
+  ]
+ },
+ "Luk.16.12": {
+  "t": "E, se não foram fiéis no que é dos outros, quem lhes dará o que é de vocês?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "no que é dos outros",
+    "termo": "ἐν τῷ ἀλλοτρίῳ (en tō allotriō)",
+    "titulo": "bens emprestados",
+    "texto": "Os bens deste mundo pertencem a Deus e nos são confiados por algum tempo, como os do patrão ao administrador. O que é “de vocês” são os bens eternos que Deus quer dar como herança própria (12:32-33)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "o que é de vocês",
+    "termo": "τὸ ὑμέτερον (to hymeteron)",
+    "titulo": "“de vocês” ou “nosso”",
+    "texto": "O texto-base, com Tregelles, NA28 e o Texto Bizantino, traz hymeteron (“o que é de vocês”). Westcott-Hort traz hēmeteron (“o que é nosso”), isto é, de Deus e de Jesus, leitura de alguns manuscritos antigos, mas que parece uma dificuldade criada por confusão entre duas palavras de som quase igual."
+   }
+  ]
+ },
+ "Luk.16.13": {
+  "t": "Nenhum criado pode ser escravo de dois senhores, pois ou odiará um e amará o outro, ou se dedicará a um e desprezará o outro. Vocês não podem ser escravos de Deus e do dinheiro.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "criado",
+    "termo": "οἰκέτης (oiketēs)",
+    "titulo": "oiketēs",
+    "texto": "Oiketēs é o criado da casa, em geral escravo doméstico (At 10:7; Rm 14:4). Lucas acrescenta a palavra ao dito que aparece também em Mt 6:24 e liga assim o dito à parábola do administrador."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "ser escravo de dois senhores",
+    "termo": "δυσὶν κυρίοις δουλεύειν",
+    "titulo": "douleuō",
+    "texto": "Douleuō é servir como escravo, e os kyrioi são os donos. Um empregado pode ter dois patrões; um escravo pertence inteiramente a um só dono. Por isso “ser escravo”, como em Mt 6:24 (veja a nota ali). Sobre “odiará... amará” como preferência total, veja a nota em 14:26. “Dinheiro” traduz mamōnas, aqui personificado como um senhor rival de Deus (v. 9)."
+   }
+  ]
+ },
+ "Luk.16.14": {
+  "t": "Os fariseus, que eram amigos do dinheiro, ouviam tudo isso e zombavam de Jesus.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "amigos do dinheiro",
+    "termo": "φιλάργυροι (philargyroi)",
+    "titulo": "philargyros",
+    "texto": "Lit. “amigos da prata” (só aqui e em 2Tm 3:2). A acusação é dirigida a fariseus deste episódio e não descreve todos os fariseus; mas a ideia de que a riqueza era sinal de bênção divina tornava as palavras de Jesus ofensivas para muitos."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "zombavam",
+    "termo": "ἐξεμυκτήριζον (exemyktērizon)",
+    "titulo": "ekmyktērizō",
+    "texto": "Lit. “torcer o nariz”, zombar com desprezo (só aqui e em 23:35, os chefes zombando de Jesus na cruz). O verbo está no Sl 22:7 (21:8 na Septuaginta)."
+   }
+  ]
+ },
+ "Luk.16.15": {
+  "t": "Ele lhes disse: “Vocês são os que se justificam a si mesmos diante das pessoas, mas Deus conhece o coração de vocês. Pois o que é elevado entre os homens é abominação diante de Deus.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "se justificam a si mesmos",
+    "termo": "οἱ δικαιοῦντες ἑαυτούς",
+    "titulo": "dikaioō",
+    "texto": "Declarar-se justo, apresentar-se como justo diante dos outros (10:29; 18:9-14). Mas quem declara justo é Deus, que conhece o coração (1Sm 16:7; 1Rs 8:39)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "abominação",
+    "termo": "βδέλυγμα (bdelygma)",
+    "titulo": "bdelygma",
+    "texto": "Palavra forte da Septuaginta para o que Deus detesta, usada muitas vezes para a idolatria (Dt 7:25-26). Em Pv 16:5, “todo arrogante de coração é abominação para o Senhor”. Jesus põe o orgulho e o amor ao dinheiro na mesma categoria da idolatria (cf. v. 13; Cl 3:5)."
+   }
+  ]
+ },
+ "Luk.16.16": {
+  "t": "A Lei e os Profetas vão até João. Desde então, o Reino de Deus é anunciado como boa notícia, e todos se esforçam para entrar nele.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "A Lei e os Profetas vão até João",
+    "termo": "ὁ νόμος καὶ οἱ προφῆται μέχρι Ἰωάννου",
+    "titulo": "frase sem verbo",
+    "texto": "O grego não tem verbo: “A Lei e os Profetas até João”. A tradução usa “vão até”, que indica um período da história da salvação sem afirmar que a Lei foi abolida (o v. 17 o nega). João Batista fecha o tempo da promessa e abre o tempo do anúncio do Reino (cf. 7:28; At 10:37). Mt 11:12-13 traz um dito semelhante, em outra ordem."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "todos se esforçam para entrar nele",
+    "termo": "πᾶς εἰς αὐτὴν βιάζεται (pas eis autēn biazetai)",
+    "titulo": "biazetai",
+    "texto": "Expressão muito discutida. Biazomai pode ser médio, “forçar a entrada, empenhar-se com violência”, ou passivo, “ser forçado, ser pressionado”. As principais leituras: (1) todos fazem força, com empenho e urgência, para entrar no Reino (cf. 13:24: “esforcem-se para entrar”); (2) todos são instados com insistência a entrar (cf. 14:23: “obrigue-os a entrar”); (3) todos tentam forçar o Reino com violência, num sentido negativo, como no paralelo de Mt 11:12. A APV segue a primeira, a mais comum, mas a segunda tem defensores sérios e combina bem com o v. 16a. “Todos” é hipérbole: gente de toda espécie, inclusive cobradores de impostos e pecadores (15:1).",
+    "revisar": true
+   },
+   {
+    "tipo": "tn",
+    "ancora": "é anunciado como boa notícia",
+    "termo": "εὐαγγελίζεται (euangelizetai)",
+    "titulo": "euangelizō",
+    "texto": "O verbo de onde vem euangelion, “evangelho”: “anunciar uma boa notícia” (4:18, 43; 8:1)."
+   }
+  ]
+ },
+ "Luk.16.17": {
+  "t": "Mas é mais fácil passarem o céu e a terra do que cair um só traço da Lei.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "um só traço",
+    "termo": "μίαν κεραίαν (mian keraian)",
+    "titulo": "keraia",
+    "texto": "Lit. “um chifrinho”: o pequeno traço que distingue certas letras hebraicas umas das outras (só aqui e em Mt 5:18). A chegada do Reino não anula a Lei; ela se cumpre nele (24:44). O v. 18 dá um exemplo de como o ensino de Jesus leva a Lei mais a fundo."
+   }
+  ]
+ },
+ "Luk.16.18": {
+  "t": "Todo aquele que se divorcia da sua mulher e se casa com outra comete adultério; e quem se casa com uma mulher divorciada pelo marido comete adultério.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "se divorcia",
+    "termo": "ὁ ἀπολύων (ho apolyōn)",
+    "titulo": "apolyō",
+    "texto": "Lit. “o que solta, despede”: o termo comum para o divórcio feito pelo marido (Dt 24:1-4 na Septuaginta usa outro verbo, mas o sentido é o mesmo). “Divorciada pelo marido” traduz apolelymenēn apo andros, “despedida por um marido”."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "comete adultério",
+    "termo": "μοιχεύει (moicheuei)",
+    "titulo": "divórcio e novo casamento",
+    "texto": "Lucas traz o dito sem a exceção que aparece em Mateus (“exceto por imoralidade sexual”, Mt 5:32; 19:9); Marcos também não a traz (Mc 10:11-12). Paulo acrescenta o caso do cônjuge descrente que se separa (1Co 7:10-15). As tradições cristãs divergem sobre se as exceções de Mateus e Paulo valem também para o dito de Lucas, que a maioria lê à luz delas, e sobre se o novo casamento é permitido nesses casos. O texto de Lucas, em todo caso, afirma com força que o casamento é permanente diante de Deus. Jesus fala da prática em que só o homem tomava a iniciativa do divórcio."
+   }
+  ]
+ },
+ "Luk.16.19": {
+  "t": "Havia um homem rico que se vestia de púrpura e de linho fino e todos os dias se banqueteava com esplendor.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "púrpura e de linho fino",
+    "termo": "πορφύραν καὶ βύσσον (porphyran kai byssos)",
+    "titulo": "roupas de luxo",
+    "texto": "A púrpura era tecido tingido com um corante caríssimo, extraído de moluscos, próprio de reis e grandes; byssos (hápax) era o linho fino, usado em roupas de baixo de luxo. Lamprōs (“com esplendor”, hápax) e o banquete “todos os dias” mostram uma vida de festa contínua, quando a festa era coisa rara para a maioria."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Havia um homem rico",
+    "termo": "ἄνθρωπος δέ τις ἦν πλούσιος",
+    "titulo": "o rico sem nome",
+    "texto": "O rico não tem nome; o pobre tem (v. 20). A tradição latina o chamou de “Dives”, que significa simplesmente “rico”. A parábola, só em Lucas, ilustra os vv. 13-15 e a inversão anunciada em 1:52-53 e 6:20-25."
+   }
+  ]
+ },
+ "Luk.16.20": {
+  "t": "E um pobre chamado Lázaro estava deitado junto ao portão dele, coberto de feridas,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "estava deitado",
+    "termo": "ἐβέβλητο (eveblēto)",
+    "titulo": "“tinha sido lançado”",
+    "texto": "Lit. “tinha sido lançado, posto”. O mais-que-perfeito passivo sugere que outros o deixavam ali, talvez porque não conseguia andar. Pylōn é o portão de entrada de uma casa grande. Helkoō (“estar coberto de úlceras”) é hápax."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Lázaro",
+    "termo": "Λάζαρος (Lazaros)",
+    "titulo": "o pobre com nome",
+    "texto": "É o único personagem com nome nas parábolas de Jesus. Lazaros é forma grega do hebraico Eleazar, “Deus ajuda”: quem não tem ajuda de ninguém tem a de Deus. Não se trata do Lázaro irmão de Marta e Maria (Jo 11), embora o v. 31 faça pensar nele."
+   }
+  ]
+ },
+ "Luk.16.21": {
+  "t": "e desejava saciar-se com o que caía da mesa do rico. E até os cães vinham lamber as suas feridas.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "E até os cães",
+    "termo": "ἀλλὰ καὶ οἱ κύνες",
+    "titulo": "os cães",
+    "texto": "Lit. “mas até os cães”. Os cães de rua eram animais impuros e desprezados (Mt 7:6; Fp 3:2). A frase aumenta a miséria de Lázaro: fraco demais para afastá-los, ele recebe dos cães uma atenção que o rico não lhe dá. Epileichō (“lamber”) é hápax."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "com o que caía",
+    "termo": "ἀπὸ τῶν πιπτόντων",
+    "titulo": "“das migalhas”",
+    "texto": "Tregelles, o Textus Receptus e o Texto Bizantino acrescentam tōn psichiōn: “com as migalhas que caíam”, como em Mt 15:27. O texto-base, com Westcott-Hort e NA28, não traz a palavra. “Desejava saciar-se” lembra o filho mais novo em 15:16."
+   }
+  ]
+ },
+ "Luk.16.22": {
+  "t": "Aconteceu que o pobre morreu e foi levado pelos anjos para junto de Abraão. Morreu também o rico e foi sepultado.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "para junto de Abraão",
+    "termo": "εἰς τὸν κόλπον Ἀβραάμ (eis ton kolpon Abraam)",
+    "titulo": "“ao seio de Abraão”",
+    "texto": "Lit. “ao seio de Abraão”, forma tradicional. Kolpos é o peito, o colo. Nos banquetes, o convidado reclinado ao lado do anfitrião ficava “no seu seio” (Jo 13:23). Lázaro, que não teve lugar à mesa do rico, recebe o lugar de honra ao lado do pai de Israel no banquete do Reino (13:28-29). Também se dizia que os justos mortos iam “para junto dos pais” (Gn 15:15)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "foi sepultado",
+    "termo": "ἐτάφη (etaphē)",
+    "titulo": "o contraste",
+    "texto": "Do pobre não se diz que foi sepultado, talvez por não ter tido enterro digno; do rico, sim, mas é só isso. Os anjos levam o pobre; o rico fica com o seu funeral."
+   }
+  ]
+ },
+ "Luk.16.23": {
+  "t": "No Hades, estando em tormentos, ergueu os olhos e viu de longe Abraão, e Lázaro ao lado dele.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "No Hades",
+    "termo": "ἐν τῷ ᾅδῃ (en tō hadē)",
+    "titulo": "Hades",
+    "texto": "Sobre o Hades, veja a nota em 10:15. Aqui o Hades é lugar de tormento para o rico, enquanto Lázaro está junto de Abraão. No judaísmo da época, o mundo dos mortos era muitas vezes imaginado com compartimentos separados para justos e ímpios até o juízo final (1 Enoque 22). Basanos (“tormento”) só aparece aqui, no v. 28 e em Mt 4:24."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "estando em tormentos",
+    "termo": "ὑπάρχων ἐν βασάνοις",
+    "titulo": "uma parábola sobre o além?",
+    "texto": "Os intérpretes discutem até que ponto a parábola descreve literalmente o estado dos mortos. Ela usa imagens correntes no judaísmo (chama, abismo, seio de Abraão), e o seu objetivo principal é o uso da riqueza e a escuta da Escritura (vv. 29-31). Mesmo assim, supõe e confirma que há existência consciente depois da morte, que as decisões desta vida são definitivas e que há juízo."
+   }
+  ]
+ },
+ "Luk.16.24": {
+  "t": "Então ele gritou: ‘Pai Abraão, tenha compaixão de mim e mande Lázaro molhar na água a ponta do dedo e refrescar a minha língua, porque estou sofrendo terrivelmente nesta chama.’",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "estou sofrendo terrivelmente",
+    "termo": "ὀδυνῶμαι (odynōmai)",
+    "titulo": "odynaomai",
+    "texto": "“Sofrer dor intensa, angustiar-se” (2:48; At 20:38). Katapsychō (“refrescar”) é hápax."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Pai Abraão",
+    "termo": "πάτερ Ἀβραάμ",
+    "titulo": "o filho de Abraão",
+    "texto": "O rico apela à descendência de Abraão (cf. 3:8: “não comecem a dizer: Temos Abraão por pai”). Mesmo ali, trata Lázaro como alguém que pode ser mandado para servi-lo. Abraão o reconhece como “filho” (v. 25), mas a filiação não muda a sua situação."
+   }
+  ]
+ },
+ "Luk.16.25": {
+  "t": "Mas Abraão respondeu: ‘Filho, lembre-se de que você recebeu os seus bens durante a vida, e Lázaro, igualmente, os males. Agora, porém, ele é consolado aqui, e você está em agonia.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "ele é consolado aqui",
+    "termo": "ὧδε παρακαλεῖται",
+    "titulo": "a inversão",
+    "texto": "É a inversão das bem-aventuranças e dos ais (6:20-25: “ai de vocês, os ricos, porque já receberam a sua consolação”) e do cântico de Maria (1:53). O texto não diz que Lázaro era justo nem que o rico era especialmente cruel; mas a parábola mostra que o rico viu o pobre todos os dias e não fez nada (cf. v. 24, em que ele conhece o nome de Lázaro). O verbo apelabes (“recebeu”) é termo de pagamento recebido por completo."
+   }
+  ]
+ },
+ "Luk.16.26": {
+  "t": "Além de tudo isso, entre nós e vocês foi posto um grande abismo, para que os que quiserem passar daqui para vocês não possam, nem os de lá passem para nós.’",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "foi posto um grande abismo",
+    "termo": "χάσμα μέγα ἐστήρικται (chasma mega estēriktai)",
+    "titulo": "chasma, hápax",
+    "texto": "Chasma (hápax) é uma fenda, um precipício aberto, e não a mesma palavra do “abismo” de 8:31 (abyssos). O perfeito passivo estēriktai (“foi firmado e permanece”) indica algo estabelecido por Deus e definitivo: depois da morte, a situação não se inverte. O texto-base traz en (“em tudo isso”); Tregelles, o Textus Receptus e o Texto Bizantino, epi (“além de tudo isso”), com sentido semelhante."
+   }
+  ]
+ },
+ "Luk.16.27": {
+  "t": "Ele disse: ‘Então eu lhe peço, pai, que o mande à casa do meu pai,",
+  "n": []
+ },
+ "Luk.16.28": {
+  "t": "pois tenho cinco irmãos. Que ele os advirta, para que não venham também eles para este lugar de tormento.’",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Que ele os advirta",
+    "termo": "ὅπως διαμαρτύρηται αὐτοῖς (hopōs diamartyrētai autois)",
+    "titulo": "diamartyromai",
+    "texto": "“Testemunhar solenemente, advertir com insistência” (At 2:40; 20:21). O rico pensa que os irmãos não foram suficientemente avisados, como se a culpa fosse da falta de informação."
+   }
+  ]
+ },
+ "Luk.16.29": {
+  "t": "Abraão respondeu: ‘Eles têm Moisés e os Profetas; que os ouçam.’",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Moisés e os Profetas",
+    "termo": "Μωϋσέα καὶ τοὺς προφήτας",
+    "titulo": "a Escritura basta",
+    "texto": "“Moisés e os Profetas” é a Escritura de Israel (v. 16; 24:27, 44). Ela já ensinava o cuidado com o pobre (Dt 15:7-11; Is 58:6-7; Am 6:4-7). “Ouvir” tem aqui o sentido bíblico de obedecer."
+   }
+  ]
+ },
+ "Luk.16.30": {
+  "t": "Ele disse: ‘Não, pai Abraão; mas, se alguém dentre os mortos for até eles, eles se arrependerão.’",
+  "n": []
+ },
+ "Luk.16.31": {
+  "t": "Abraão lhe respondeu: ‘Se não ouvem Moisés e os Profetas, também não se deixarão convencer, ainda que alguém ressuscite dentre os mortos.’ ”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "ainda que alguém ressuscite dentre os mortos",
+    "termo": "οὐδ᾽ ἐάν τις ἐκ νεκρῶν ἀναστῇ πεισθήσονται",
+    "titulo": "a ressurreição",
+    "texto": "A frase muda de “for até eles” (v. 30) para “ressuscite”, o verbo usado para a ressurreição de Jesus (18:33; 24:7, 46). Os leitores de Lucas sabem que Jesus ressuscitou e que muitos ainda assim não creram (At 4:1-3; 17:32). Em Lc 24:25-27, 44-47, o Ressuscitado aponta de novo para “Moisés e os Profetas”: quem não ouve a Escritura não será convencido nem por um milagre."
+   }
+  ]
+ },
+ "Luk.17.1": {
+  "t": "Jesus disse aos seus discípulos: “É impossível que não venham tropeços, mas ai daquele por meio de quem eles vêm!",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "É impossível que não venham tropeços",
+    "termo": "ἀνένδεκτόν ἐστιν τοῦ τὰ σκάνδαλα μὴ ἐλθεῖν",
+    "titulo": "anendektos, hápax",
+    "texto": "Anendektos (“inadmissível, impossível”) só aparece aqui no NT. Skandalon é a armadilha ou a pedra em que se tropeça; em sentido figurado, o que leva alguém a pecar ou a abandonar a fé. Num mundo marcado pelo pecado, os tropeços virão; isso não tira a responsabilidade de quem os causa (cf. Mt 18:7)."
+   }
+  ]
+ },
+ "Luk.17.2": {
+  "t": "Seria melhor para ele que lhe amarrassem uma pedra de moinho ao pescoço e o lançassem ao mar do que fazer tropeçar um só destes pequeninos.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Seria melhor para ele",
+    "termo": "λυσιτελεῖ αὐτῷ (lysitelei autō)",
+    "titulo": "lysitelei, hápax",
+    "texto": "Lit. “é vantajoso para ele”. O grego diz “se uma pedra de moinho estivesse posta ao redor do seu pescoço e ele tivesse sido lançado ao mar”: uma morte horrível seria menos grave do que o juízo reservado a quem faz cair um destes pequeninos. “Os pequeninos” são os discípulos humildes, sem importância aos olhos do mundo (10:21), não só as crianças."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "uma pedra de moinho",
+    "termo": "λίθος μυλικός (lithos mylikos)",
+    "titulo": "“pedra de moinho” ou “mó de jumento”",
+    "texto": "O texto-base, com Westcott-Hort, Tregelles e NA28, traz lithos mylikos (“pedra de moinho”, hápax); o Textus Receptus e o Texto Bizantino, mylos onikos (“mó de jumento”, a pedra grande, girada por um animal), como em Mt 18:6 e Mc 9:42. A leitura bizantina parece assimilação aos paralelos."
+   }
+  ]
+ },
+ "Luk.17.3": {
+  "t": "Tenham cuidado com vocês mesmos. Se o seu irmão pecar, repreenda-o; e, se ele se arrepender, perdoe-lhe.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Tenham cuidado com vocês mesmos",
+    "termo": "προσέχετε ἑαυτοῖς (prosechete heautois)",
+    "titulo": "a que se liga?",
+    "texto": "A advertência pode fechar o que vem antes (cuidado para não fazer ninguém tropeçar) ou abrir o que vem depois (cuidado no modo de lidar com o irmão que peca). Pode servir às duas coisas. “Irmão” é aqui o companheiro de fé."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Se o seu irmão pecar",
+    "termo": "ἐὰν ἁμάρτῃ ὁ ἀδελφός σου",
+    "titulo": "“contra você”",
+    "texto": "O Textus Receptus e o Texto Bizantino acrescentam eis se, “contra você”, como no v. 4 e em Mt 18:15. O texto-base, com Westcott-Hort, Tregelles e NA28, não o traz; nesse caso, o pecado do irmão é qualquer pecado, e não só uma ofensa pessoal."
+   }
+  ]
+ },
+ "Luk.17.4": {
+  "t": "Mesmo que ele peque contra você sete vezes no dia e sete vezes volte a você, dizendo: ‘Estou arrependido’, perdoe-lhe.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "perdoe-lhe",
+    "termo": "ἀφήσεις αὐτῷ (aphēseis autō)",
+    "titulo": "futuro como ordem",
+    "texto": "Lit. “você lhe perdoará”: o futuro com valor de mandamento, como nos mandamentos do AT. “Sete vezes” indica uma repetição sem limite, não um número exato (cf. Mt 18:21-22). O perdão é dado a quem se arrepende (v. 3), mas sem contar as vezes."
+   }
+  ]
+ },
+ "Luk.17.5": {
+  "t": "Os apóstolos disseram ao Senhor: “Aumente a nossa fé.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Aumente a nossa fé",
+    "termo": "πρόσθες ἡμῖν πίστιν (prosthes hēmin pistin)",
+    "titulo": "“acrescente-nos fé”",
+    "texto": "Lit. “acrescente-nos fé”. Diante da exigência do perdão sem limite, os apóstolos sentem que não têm fé suficiente. Lucas chama Jesus de “o Senhor” na narração (veja a nota em 7:13)."
+   }
+  ]
+ },
+ "Luk.17.6": {
+  "t": "O Senhor respondeu: “Se vocês tivessem fé como um grão de mostarda, diriam a esta amoreira: ‘Arranque-se e plante-se no mar’, e ela obedeceria a vocês.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Se vocês tivessem fé",
+    "termo": "εἰ ἔχετε πίστιν (ei echete pistin)",
+    "titulo": "uma condição mista",
+    "texto": "O grego começa com o presente (“se vocês têm fé”) e conclui com a forma das condições irreais (“diriam... e ela obedeceria”). A mistura sugere: vocês não precisam de mais fé, mas de fé verdadeira; mesmo a menor fé real em Deus faz o impossível. A tradução usa a forma irreal, que é a da conclusão. O Textus Receptus traz eichete (“tivessem”), que torna toda a frase irreal."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "amoreira",
+    "termo": "συκαμίνῳ (sykaminō)",
+    "titulo": "sykaminos, hápax",
+    "texto": "A sykaminos é a amoreira-preta, árvore de raízes profundas e muito difícil de arrancar. Não é o sicômoro (sykomorea) em que Zaqueu sobe (19:4). Arrancar uma árvore e plantá-la no mar é imagem do impossível, como mover montes em Mt 17:20."
+   }
+  ]
+ },
+ "Luk.17.7": {
+  "t": "Qual de vocês, tendo um escravo que lavra a terra ou cuida do rebanho, lhe dirá, quando ele voltar do campo: ‘Venha logo e ponha-se à mesa’?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "escravo",
+    "termo": "δοῦλον (doulon)",
+    "titulo": "doulos",
+    "texto": "A pequena parábola (vv. 7-10) supõe a relação entre o senhor e o seu escravo, que lhe pertence e trabalha para ele sem salário nem descanso garantido. Por isso “escravo” (veja a nota em 12:37). A situação é o contrário de 12:37, onde o senhor que volta serve os escravos fiéis: lá, Jesus fala da graça de Deus; aqui, do dever do discípulo."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "ponha-se à mesa",
+    "termo": "ἀνάπεσε (anapese)",
+    "titulo": "anapiptō",
+    "texto": "Lit. “reclina-te”, a postura das refeições (11:37; 14:10). Arotriaō (“lavrar”) só aparece aqui e em 1Co 9:10."
+   }
+  ]
+ },
+ "Luk.17.8": {
+  "t": "Pelo contrário, não lhe dirá: ‘Prepare o meu jantar, cinja-se e sirva-me enquanto eu como e bebo; depois disso você comerá e beberá’?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "cinja-se",
+    "termo": "περιζωσάμενος (perizōsamenos)",
+    "titulo": "perizōnnymi",
+    "texto": "Lit. “tendo-se cingido”: prender a túnica comprida com o cinto para poder trabalhar e servir (12:35, 37). O mesmo verbo descreve o senhor que serve em 12:37."
+   }
+  ]
+ },
+ "Luk.17.9": {
+  "t": "Por acaso ele fica agradecido ao escravo por ter feito o que lhe foi ordenado?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "fica agradecido",
+    "termo": "μὴ ἔχει χάριν (mē echei charin)",
+    "titulo": "echō charin",
+    "texto": "Lit. “tem gratidão?”. A pergunta com mē espera resposta negativa. O escravo não ganha crédito por cumprir o seu dever. O Textus Receptus e o Texto Bizantino acrescentam “aquele” (ekeinō) e a resposta ou dokō, “penso que não”."
+   }
+  ]
+ },
+ "Luk.17.10": {
+  "t": "Assim também vocês: quando tiverem feito tudo o que lhes foi ordenado, digam: ‘Somos escravos inúteis; fizemos apenas o que devíamos fazer.’ ”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "escravos inúteis",
+    "termo": "δοῦλοι ἀχρεῖοι (douloi achreioi)",
+    "titulo": "achreios",
+    "texto": "Achreios (só aqui e em Mt 25:30) é lit. “sem utilidade, que não traz proveito”. Aqui não significa que os discípulos sejam imprestáveis, mas que não têm crédito a cobrar de Deus: o que fizeram era o que deviam. O sentido é “escravos a quem nada se deve”. A APV mantém o literal, que é forte de propósito, e a nota dá o sentido. “Apenas” foi acrescentado: está implícito na frase."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "fizemos apenas o que devíamos fazer",
+    "termo": "ὃ ὠφείλομεν ποιῆσαι πεποιήκαμεν",
+    "titulo": "dever e graça",
+    "texto": "Diante de Deus ninguém pode exigir recompensa como um direito (cf. Rm 4:4; 1Co 9:16). Isso não contradiz as promessas de recompensa que Jesus faz (6:35; 12:37; 18:29-30): elas vêm da graça de Deus, não da dívida dele para com o discípulo."
+   }
+  ]
+ },
+ "Luk.17.11": {
+  "t": "A caminho de Jerusalém, Jesus passava entre a Samaria e a Galileia.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "passava entre a Samaria e a Galileia",
+    "termo": "διήρχετο διὰ μέσον Σαμαρείας καὶ Γαλιλαίας",
+    "titulo": "a geografia",
+    "texto": "Lit. “passava pelo meio da Samaria e da Galileia”. O sentido mais provável é que Jesus seguia pela região de fronteira entre as duas, onde podiam conviver judeus e samaritanos, como no grupo dos dez leprosos. A ordem (primeiro Samaria) prepara a surpresa do v. 16. Lucas volta a lembrar a viagem para Jerusalém (9:51; 13:22)."
+   }
+  ]
+ },
+ "Luk.17.12": {
+  "t": "Ao entrar num povoado, vieram ao seu encontro dez leprosos, que pararam a distância",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "pararam a distância",
+    "termo": "ἔστησαν πόρρωθεν",
+    "titulo": "a Lei sobre os leprosos",
+    "texto": "A Lei mandava que o leproso vivesse fora do acampamento e avisasse quem se aproximasse (Lv 13:45-46; Nm 5:2-3). Sobre a “lepra” na Bíblia, veja a nota em 5:12. Westcott-Hort traz anestēsan (“levantaram-se”); Tregelles, NA28 e o Texto Bizantino acrescentam autō (“a ele”) depois de “vieram ao encontro”. A tradução não muda."
+   }
+  ]
+ },
+ "Luk.17.13": {
+  "t": "e gritaram: “Jesus, Mestre, tenha compaixão de nós!”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Mestre",
+    "termo": "ἐπιστάτα (epistata)",
+    "titulo": "epistatēs",
+    "texto": "Sobre epistatēs, veja a nota em 5:5. É a única vez em que a palavra está na boca de quem não é discípulo. “Tenha compaixão de nós” (eleēson hēmas) é o grito dos que pedem socorro a Deus nos Salmos (Sl 6:2; 41:4) e o do cego de Jericó (18:38-39)."
+   }
+  ]
+ },
+ "Luk.17.14": {
+  "t": "Ao vê-los, Jesus lhes disse: “Vão e mostrem-se aos sacerdotes.” E aconteceu que, enquanto iam, ficaram purificados.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "mostrem-se aos sacerdotes",
+    "termo": "ἐπιδείξατε ἑαυτοὺς τοῖς ἱερεῦσιν",
+    "titulo": "a ordem da Lei",
+    "texto": "Só o sacerdote podia declarar purificado quem tinha tido lepra (Lv 14:1-32; veja 5:14). Jesus os envia antes da cura: obedecer à ordem já era um ato de fé, e a purificação acontece no caminho (cf. 2Rs 5:10-14, Naamã)."
+   }
+  ]
+ },
+ "Luk.17.15": {
+  "t": "Um deles, vendo que tinha sido curado, voltou glorificando a Deus em alta voz.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "vendo que tinha sido curado",
+    "termo": "ἰδὼν ὅτι ἰάθη",
+    "titulo": "ver e voltar",
+    "texto": "Os dez viram a cura; só um “viu” de modo a voltar. Glorificar a Deus é a resposta típica aos atos de Jesus em Lucas (5:25-26; 7:16; 13:13; 18:43)."
+   }
+  ]
+ },
+ "Luk.17.16": {
+  "t": "Prostrou-se com o rosto em terra aos pés de Jesus, agradecendo-lhe. E ele era samaritano.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "E ele era samaritano",
+    "termo": "καὶ αὐτὸς ἦν Σαμαρίτης",
+    "titulo": "o samaritano",
+    "texto": "A frase vem no fim, em destaque: “e este era samaritano”. Judeus e samaritanos se hostilizavam (9:52-54; Jo 4:9). Como na parábola do samaritano (10:30-37), quem age como se espera do povo de Deus é o de fora. Prostrar-se aos pés de Jesus e glorificar a Deus (v. 15) aparecem juntos: Jesus é o lugar onde se dá glória a Deus."
+   }
+  ]
+ },
+ "Luk.17.17": {
+  "t": "Jesus perguntou: “Não foram dez os purificados? Onde estão os outros nove?",
+  "n": []
+ },
+ "Luk.17.18": {
+  "t": "Não se achou nenhum que voltasse para dar glória a Deus, a não ser este estrangeiro?”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "este estrangeiro",
+    "termo": "ὁ ἀλλογενὴς οὗτος (ho allogenēs houtos)",
+    "titulo": "allogenēs, hápax",
+    "texto": "“De outra raça, estrangeiro”. Única ocorrência no NT, mas frequente na Septuaginta. A palavra aparece na inscrição de advertência do templo de Jerusalém, que proibia aos estrangeiros, sob pena de morte, passar da barreira do pátio exterior. O excluído do templo é o único que volta para dar glória a Deus diante de Jesus."
+   }
+  ]
+ },
+ "Luk.17.19": {
+  "t": "E lhe disse: “Levante-se e vá; a sua fé o salvou.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "a sua fé o salvou",
+    "termo": "ἡ πίστις σου σέσωκέν σε (hē pistis sou sesōken se)",
+    "titulo": "sōzō",
+    "texto": "Sōzō é “salvar” e também “curar” (8:48; 18:42). Os dez foram curados, mas só a este Jesus diz que a sua fé o salvou. Como em 7:50, a palavra vai além da cura do corpo: é a salvação que vem com o encontro de fé com Jesus. O perfeito indica um resultado que permanece."
+   }
+  ]
+ },
+ "Luk.17.20": {
+  "t": "Interrogado pelos fariseus sobre quando viria o Reino de Deus, Jesus lhes respondeu: “O Reino de Deus não vem de modo que se possa observá-lo,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "de modo que se possa observá-lo",
+    "termo": "μετὰ παρατηρήσεως (meta paratērēseōs)",
+    "titulo": "paratērēsis, hápax",
+    "texto": "Lit. “com observação”. Paratērēsis era usado para a observação dos astros e de sinais: o Reino não vem de modo que se possa calcular por sinais e datas, nem por um acontecimento visível que se possa vigiar e apontar (v. 21)."
+   }
+  ]
+ },
+ "Luk.17.21": {
+  "t": "nem dirão: ‘Está aqui!’ ou: ‘Está ali!’ Pois o Reino de Deus está no meio de vocês.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "está no meio de vocês",
+    "termo": "ἐντὸς ὑμῶν ἐστιν (entos hymōn estin)",
+    "titulo": "entos hymōn",
+    "texto": "Entos (só aqui e em Mt 23:26) pode significar “dentro de” ou “no meio de, entre”. As principais leituras: (1) “dentro de vocês”, o Reino como realidade interior (ARC); (2) “no meio de vocês”, isto é, presente na pessoa e nas obras de Jesus (11:20); (3) “ao alcance de vocês”. A APV segue a segunda porque Jesus fala com fariseus que não o aceitam, e em Lucas o Reino não é apresentado como realidade interior, mas como o domínio de Deus que chega com Jesus. A primeira leitura tem longa tradição e não é impossível no grego.",
+    "revisar": true
+   }
+  ]
+ },
+ "Luk.17.22": {
+  "t": "Então disse aos discípulos: “Virão dias em que vocês desejarão ver um dos dias do Filho do Homem e não verão.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "um dos dias do Filho do Homem",
+    "termo": "μίαν τῶν ἡμερῶν τοῦ υἱοῦ τοῦ ἀνθρώπου",
+    "titulo": "que dias?",
+    "texto": "Pode ser o desejo de ver de novo um dos dias do ministério de Jesus na terra, ou o desejo de ver já um dia da sua vinda gloriosa (v. 24). O segundo sentido combina melhor com o contexto: em tempos de sofrimento, os discípulos ansiarão pela vinda do Senhor, mas ela não virá quando quiserem. Sobre “Filho do Homem”, veja a nota em 5:24."
+   }
+  ]
+ },
+ "Luk.17.23": {
+  "t": "E lhes dirão: ‘Está lá!’ ‘Está aqui!’ Não vão nem corram atrás.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "Está lá!’ ‘Está aqui!",
+    "termo": "ἰδοὺ ἐκεῖ ἰδοὺ ὧδε",
+    "titulo": "a forma da frase",
+    "texto": "O texto-base, com Tregelles, traz “Eis lá! Eis aqui!”; Westcott-Hort e NA28 trazem “Eis lá, ou: Eis aqui!”; o Texto Bizantino, “Eis aqui, ou: Eis lá!”. O sentido não muda. Jesus previne contra quem anunciar a sua vinda num lugar escondido (21:8; Mt 24:26)."
+   }
+  ]
+ },
+ "Luk.17.24": {
+  "t": "Pois, assim como o relâmpago, ao brilhar, ilumina o céu de um extremo ao outro, assim será o Filho do Homem no seu dia.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "de um extremo ao outro",
+    "termo": "ἐκ τῆς ὑπὸ τὸν οὐρανὸν εἰς τὴν ὑπ᾽ οὐρανόν",
+    "titulo": "“de debaixo do céu para debaixo do céu”",
+    "texto": "Lit. “da [região] debaixo do céu até a [região] debaixo do céu”. A vinda do Filho do Homem será repentina e visível a todos, como o relâmpago; não haverá necessidade de que alguém a anuncie (v. 23)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "no seu dia",
+    "termo": "ἐν τῇ ἡμέρᾳ αὐτοῦ",
+    "titulo": "omissão",
+    "texto": "Westcott-Hort omite “no seu dia”, com alguns manuscritos antigos. O texto-base, com Tregelles, NA28 e o Texto Bizantino, traz a expressão."
+   }
+  ]
+ },
+ "Luk.17.25": {
+  "t": "Mas primeiro é necessário que ele sofra muitas coisas e seja rejeitado por esta geração.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "primeiro é necessário que ele sofra muitas coisas",
+    "termo": "πρῶτον δὲ δεῖ αὐτὸν πολλὰ παθεῖν",
+    "titulo": "a cruz antes da glória",
+    "texto": "Sobre o dei (“é necessário”) e o anúncio da paixão, veja a nota em 9:22. Antes do dia da glória vem a rejeição em Jerusalém (24:26). Quem espera a glória do Filho do Homem precisa aceitar antes a cruz."
+   }
+  ]
+ },
+ "Luk.17.26": {
+  "t": "Como aconteceu nos dias de Noé, assim também será nos dias do Filho do Homem:",
+  "n": []
+ },
+ "Luk.17.27": {
+  "t": "comiam, bebiam, casavam-se e davam-se em casamento, até o dia em que Noé entrou na arca; então veio o dilúvio e destruiu a todos.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "até o dia em que Noé entrou na arca",
+    "termo": "ἄχρι ἧς ἡμέρας εἰσῆλθεν Νῶε εἰς τὴν κιβωτόν",
+    "titulo": "os dias de Noé",
+    "texto": "Gn 6:5-7:23. As atividades listadas não são pecados em si; o problema é que as pessoas viviam despreocupadas, sem atenção a Deus e ao juízo que vinha (cf. 12:16-21). Os imperfeitos descrevem a rotina que continuava. “Casavam-se e davam-se em casamento” traduz os dois verbos para o homem que se casa e para a mulher que é dada em casamento."
+   }
+  ]
+ },
+ "Luk.17.28": {
+  "t": "Do mesmo modo, como aconteceu nos dias de Ló: comiam, bebiam, compravam, vendiam, plantavam, construíam;",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "nos dias de Ló",
+    "termo": "ἐν ταῖς ἡμέραις Λώτ",
+    "titulo": "os dias de Ló",
+    "texto": "Só Lucas acrescenta o exemplo de Ló (Gn 18:16-19:29). A lista é de atividades normais do comércio e da vida diária. Noé e Ló aparecem juntos como exemplos de juízo repentino também em 2Pe 2:5-8."
+   }
+  ]
+ },
+ "Luk.17.29": {
+  "t": "mas, no dia em que Ló saiu de Sodoma, choveu fogo e enxofre do céu e destruiu a todos.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "choveu fogo e enxofre do céu",
+    "termo": "ἔβρεξεν πῦρ καὶ θεῖον ἀπ᾽ οὐρανοῦ",
+    "titulo": "Gênesis 19:24",
+    "texto": "Eco de Gn 19:24, onde é o Senhor quem faz chover fogo e enxofre sobre Sodoma e Gomorra. O sujeito de “choveu” não é dito; a ideia é a ação de Deus."
+   }
+  ]
+ },
+ "Luk.17.30": {
+  "t": "Assim será no dia em que o Filho do Homem for revelado.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "for revelado",
+    "termo": "ἀποκαλύπτεται (apokalyptetai)",
+    "titulo": "apokalyptō",
+    "texto": "Lit. “é revelado”. O presente com valor futuro olha para a revelação gloriosa do Filho do Homem, hoje oculta (cf. 1Co 1:7; 2Ts 1:7; 1Pe 1:7, 13). O THGNT, o Textus Receptus e o Texto Bizantino trazem tauta (“estas coisas”) em vez de ta auta (“as mesmas coisas”) em “assim será”, sem mudança no sentido."
+   }
+  ]
+ },
+ "Luk.17.31": {
+  "t": "Naquele dia, quem estiver no terraço e tiver os seus bens dentro de casa não desça para apanhá-los; e, do mesmo modo, quem estiver no campo não volte para trás.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "não desça para apanhá-los",
+    "termo": "μὴ καταβάτω ἆραι αὐτά",
+    "titulo": "sem apego",
+    "texto": "As casas tinham teto plano, usado como terraço, com escada externa. Em Mc 13:15-16 e Mt 24:17-18, o dito se refere à fuga diante da destruição de Jerusalém; Lucas o aplica ao dia do Filho do Homem: quando ele vier, não haverá tempo para salvar bens, e o apego a eles será fatal (v. 32). “Não volte para trás” prepara a menção da mulher de Ló."
+   }
+  ]
+ },
+ "Luk.17.32": {
+  "t": "Lembrem-se da mulher de Ló!",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "a mulher de Ló",
+    "termo": "τῆς γυναικὸς Λώτ",
+    "titulo": "olhar para trás",
+    "texto": "A mulher de Ló olhou para trás, para a cidade que deixava, e virou uma coluna de sal (Gn 19:26). Ela já estava fora de Sodoma, mas o coração tinha ficado lá."
+   }
+  ]
+ },
+ "Luk.17.33": {
+  "t": "Quem procurar preservar a sua vida a perderá, e quem a perder a conservará viva.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "a conservará viva",
+    "termo": "περιποιήσασθαι ... ζῳογονήσει",
+    "titulo": "dois verbos raros",
+    "texto": "Peripoieomai é “conservar para si, adquirir” (At 20:28; 1Tm 3:13); zōogoneō é “dar vida, manter vivo” (At 7:19; 1Tm 6:13). O dito, que aparece em forma semelhante em 9:24, mostra que quem se agarra à vida presente a perde, e quem a entrega a Deus a recebe de volta viva. O Textus Receptus e o Texto Bizantino trazem sōsai (“salvar”) no lugar de peripoiēsasthai, como em 9:24."
+   }
+  ]
+ },
+ "Luk.17.34": {
+  "t": "Eu lhes digo: naquela noite, dois estarão numa mesma cama; um será levado, e o outro será deixado.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "um será levado, e o outro será deixado",
+    "termo": "ὁ εἷς παραλημφθήσεται, καὶ ὁ ἕτερος ἀφεθήσεται",
+    "titulo": "levado para onde?",
+    "texto": "Paralambanō é “tomar consigo, receber” (9:10, 28; Jo 14:3: “virei e os levarei para junto de mim”); aphiēmi é “deixar, abandonar”. A maioria entende que ser levado é ser recolhido para a salvação, e ser deixado é ficar para o juízo. Outros entendem o contrário, a partir do dilúvio que “levou” a todos (Mt 24:39) e do v. 37. O texto não diz para onde são levados; o ponto é a separação repentina entre pessoas que viviam lado a lado. Este versículo não decide o debate sobre o arrebatamento e a ordem dos acontecimentos finais."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "naquela noite",
+    "termo": "ταύτῃ τῇ νυκτί (tautē tē nykti)",
+    "titulo": "“nesta noite”",
+    "texto": "Lit. “nesta noite”. A noite e, no v. 35, o trabalho do moinho, feito de madrugada, mostram que o dia virá a qualquer hora. “Dois” pode ser homem e mulher, ou dois homens; o grego usa o masculino de modo genérico."
+   }
+  ]
+ },
+ "Luk.17.35": {
+  "t": "Duas mulheres estarão moendo juntas; uma será levada, e a outra será deixada.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "moendo juntas",
+    "termo": "ἀλήθουσαι ἐπὶ τὸ αὐτό (alēthousai epi to auto)",
+    "titulo": "alēthō",
+    "texto": "Alēthō (“moer”) só aparece aqui e em Mt 24:41. Moer o grão no moinho manual era tarefa diária das mulheres, muitas vezes em dupla, girando juntas a pedra de cima."
+   }
+  ]
+ },
+ "Luk.17.36": {
+  "t": "⟦“Dois homens estarão no campo; um será levado, e o outro será deixado.”⟧",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "⟦“Dois homens estarão no campo",
+    "termo": "δύο ἐν ἀγρῷ· εἷς παραλημφθήσεται καὶ ὁ ἕτερος ἀφεθήσεται",
+    "titulo": "versículo ausente do texto crítico",
+    "texto": "Este versículo não está nos manuscritos mais antigos nem no texto crítico: falta no SBLGNT, em Westcott-Hort, Tregelles, NA28 e também no Texto Bizantino (Robinson-Pierpont). Está no Textus Receptus, que o recebeu de uma parte dos manuscritos, e por isso entrou em traduções antigas como a de Almeida. Deve ter sido acrescentado a partir de Mt 24:40, que tem quase as mesmas palavras. A APV o traduz entre colchetes duplos, para que o leitor o conheça, sem considerá-lo parte do texto original de Lucas. “Homens” corresponde ao masculino genérico do grego (“dois”)."
+   }
+  ]
+ },
+ "Luk.17.37": {
+  "t": "Eles lhe perguntaram: “Onde, Senhor?” Ele respondeu: “Onde estiver o cadáver, ali também se ajuntarão os abutres.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "os abutres",
+    "termo": "οἱ ἀετοί (hoi aetoi)",
+    "titulo": "aetos",
+    "texto": "Aetos é normalmente a “águia”, mas também designava aves de rapina que se ajuntam sobre carniça, o que se diz dos abutres e não das águias. “Cadáver” traduz sōma (“corpo”), aqui o corpo morto (Mt 24:28 tem ptōma, “cadáver”)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Onde estiver o cadáver",
+    "termo": "ὅπου τὸ σῶμα",
+    "titulo": "um provérbio",
+    "texto": "Provérbio (cf. Jó 39:30). Os discípulos perguntam “onde” acontecerá a separação; Jesus não dá um lugar: assim como as aves descobrem a carniça sem que ninguém lhes mostre, o juízo virá infalivelmente onde houver motivo para ele, e a vinda do Filho do Homem será evidente (v. 24). Alguns veem nas “águias” os estandartes romanos, mas Lucas usa o dito no contexto do fim, não da guerra."
+   }
+  ]
+ },
+ "Luk.18.1": {
+  "t": "Jesus lhes contou uma parábola para mostrar que é necessário orar sempre e nunca desanimar.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "nunca desanimar",
+    "termo": "μὴ ἐγκακεῖν (mē enkakein)",
+    "titulo": "enkakeō",
+    "texto": "“Perder o ânimo, cansar-se, esmorecer” (2Co 4:1, 16; Gl 6:9; Ef 3:13). Lucas diz o objetivo da parábola antes de contá-la. Ela continua o ensino sobre a vinda do Filho do Homem (17:22-37; 18:8): enquanto ele não vem, os discípulos oram sem desistir."
+   }
+  ]
+ },
+ "Luk.18.2": {
+  "t": "Ele disse: “Havia numa cidade um juiz que não temia a Deus nem respeitava ninguém.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "nem respeitava ninguém",
+    "termo": "ἄνθρωπον μὴ ἐντρεπόμενος",
+    "titulo": "entrepomai",
+    "texto": "Lit. “não se envergonhava diante de homem”: não se importava com a opinião de ninguém. O juiz de Israel devia julgar com temor de Deus e sem favorecer ninguém (Dt 1:16-17; 2Cr 19:6-7); este é o contrário."
+   }
+  ]
+ },
+ "Luk.18.3": {
+  "t": "Havia também naquela cidade uma viúva que vinha a ele repetidas vezes, dizendo: ‘Faça-me justiça contra o meu adversário.’",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Faça-me justiça",
+    "termo": "ἐκδίκησόν με (ekdikēson me)",
+    "titulo": "ekdikeō",
+    "texto": "Não é pedido de vingança, mas de sentença justa: “defenda a minha causa, faça valer o meu direito”. A mesma família de palavras volta nos vv. 5, 7 e 8. O imperfeito ērcheto indica que ela vinha repetidamente."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "uma viúva",
+    "termo": "χήρα (chēra)",
+    "titulo": "a viúva",
+    "texto": "A viúva era o exemplo clássico de pessoa sem defesa, sem marido que a representasse e muitas vezes sem recursos. A Lei e os profetas mandam defendê-la e condenam quem a explora (Êx 22:22-24; Dt 10:18; Is 1:17, 23; cf. Lc 20:47)."
+   }
+  ]
+ },
+ "Luk.18.4": {
+  "t": "Por algum tempo ele não quis atendê-la. Mas depois disse consigo mesmo: ‘Embora eu não tema a Deus nem respeite ninguém,",
+  "n": []
+ },
+ "Luk.18.5": {
+  "t": "como esta viúva me incomoda, vou lhe fazer justiça, para que ela não acabe me esgotando com as suas vindas.’ ”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "não acabe me esgotando",
+    "termo": "ἵνα μὴ εἰς τέλος ἐρχομένη ὑπωπιάζῃ με",
+    "titulo": "hypōpiazō",
+    "texto": "Hypōpiazō (só aqui e em 1Co 9:27) é lit. “bater embaixo do olho”, deixar o olho roxo. Pode ser figurado, “cansar, esgotar”, ou até “envergonhar”, “manchar a reputação”. Alguns o tomam ao pé da letra, com humor: o juiz teme que a viúva acabe por agredi-lo. Eis telos pode ser “por fim” ou “continuamente”. A APV segue o sentido figurado, o mais comum."
+   }
+  ]
+ },
+ "Luk.18.6": {
+  "t": "E o Senhor disse: “Ouçam o que diz o juiz injusto.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "o juiz injusto",
+    "termo": "ὁ κριτὴς τῆς ἀδικίας",
+    "titulo": "“o juiz da injustiça”",
+    "texto": "Construção semítica, como em 16:8 (“o administrador da injustiça”). O argumento vai do menor ao maior: se até um juiz injusto acaba fazendo justiça, quanto mais Deus, que é justo e ama os seus. Deus não é comparado ao juiz, mas contrastado com ele."
+   }
+  ]
+ },
+ "Luk.18.7": {
+  "t": "E Deus não fará justiça aos seus escolhidos, que clamam a ele dia e noite? Será que vai demorar em atendê-los?",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Será que vai demorar em atendê-los?",
+    "termo": "καὶ μακροθυμεῖ ἐπ᾽ αὐτοῖς; (kai makrothymei ep’ autois)",
+    "titulo": "makrothymeō",
+    "texto": "Frase difícil. Makrothymeō é “ser paciente, demorar a agir, esperar com paciência”. As principais leituras: (1) uma segunda pergunta: “Será que vai demorar para atendê-los?” (resposta: não; v. 8); (2) uma concessão: “ainda que demore em favor deles”, isto é, ainda que pareça tardar; (3) “e é paciente com eles”, a paciência de Deus com os seus. A APV segue a primeira, que combina com o “depressa” do v. 8; mas a segunda explica bem a experiência de quem ora e espera (cf. 2Pe 3:9).",
+    "revisar": true
+   },
+   {
+    "tipo": "sn",
+    "ancora": "os seus escolhidos",
+    "termo": "τῶν ἐκλεκτῶν αὐτοῦ",
+    "titulo": "os escolhidos",
+    "texto": "Os discípulos, o povo que Deus escolheu (cf. Is 65:9; Mc 13:20, 27). “Clamam dia e noite” lembra Ana, que servia a Deus “noite e dia” com orações (2:37)."
+   }
+  ]
+ },
+ "Luk.18.8": {
+  "t": "Eu lhes digo que ele lhes fará justiça depressa. Contudo, quando o Filho do Homem vier, encontrará fé na terra?”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "depressa",
+    "termo": "ἐν τάχει (en tachei)",
+    "titulo": "en tachei",
+    "texto": "Pode significar “em breve” ou “de repente”, sem aviso. Nas duas leituras, a justiça de Deus é certa; a sua demora aparente não é indiferença."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "encontrará fé na terra?",
+    "termo": "ἆρα εὑρήσει τὴν πίστιν ἐπὶ τῆς γῆς;",
+    "titulo": "a pergunta final",
+    "texto": "Ara introduz uma pergunta que deixa a resposta em suspenso, com tom de dúvida. O artigo (tēn pistin, “a fé”) aponta para a fé de que a parábola fala: a fé perseverante, que continua orando como a viúva. A questão não é se Deus será fiel, mas se os discípulos o serão."
+   }
+  ]
+ },
+ "Luk.18.9": {
+  "t": "Contou também esta parábola a alguns que confiavam em si mesmos, por se considerarem justos, e desprezavam os outros:",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "que confiavam em si mesmos, por se considerarem justos",
+    "termo": "τοὺς πεποιθότας ἐφ᾽ ἑαυτοῖς ὅτι εἰσὶν δίκαιοι",
+    "titulo": "a confiança errada",
+    "texto": "Lit. “os que confiavam em si mesmos de que eram justos”. Pros tinas pode ser “a alguns” ou “a respeito de alguns”. Exoutheneō é “ter por nada, desprezar” (23:11). Lucas não diz que eram fariseus; o perigo é de qualquer um, discípulos inclusive."
+   }
+  ]
+ },
+ "Luk.18.10": {
+  "t": "“Dois homens subiram ao templo para orar: um era fariseu, e o outro, cobrador de impostos.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "subiram ao templo para orar",
+    "termo": "ἀνέβησαν εἰς τὸ ἱερὸν προσεύξασθαι",
+    "titulo": "a oração no templo",
+    "texto": "“Subir” é o verbo próprio para ir a Jerusalém e ao templo, no alto do monte. Havia horas fixas de oração ligadas aos sacrifícios da manhã e da tarde (1:10; At 3:1). Para os ouvintes, o fariseu era modelo de piedade; o cobrador de impostos, exemplo de pecador (veja a nota em 3:12)."
+   }
+  ]
+ },
+ "Luk.18.11": {
+  "t": "O fariseu, de pé, orava assim consigo mesmo: ‘Ó Deus, eu te agradeço porque não sou como os outros homens: extorsores, injustos, adúlteros, nem mesmo como este cobrador de impostos.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "orava assim consigo mesmo",
+    "termo": "σταθεὶς πρὸς ἑαυτὸν ταῦτα προσηύχετο",
+    "titulo": "pros heauton",
+    "texto": "Pros heauton pode ligar-se a “orava” (“orava consigo mesmo, para si”) ou a “de pé” (“de pé, à parte”). O texto-base, com NA28 e o Texto Bizantino, põe pros heauton antes de tauta (“estas coisas”), o que favorece a ligação com “orava”: a oração é um monólogo, mais para si do que para Deus. Westcott-Hort e Tregelles trazem a outra ordem, que favorece “de pé, à parte”. Orar de pé era a postura normal (1Sm 1:26; Mc 11:25)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "extorsores",
+    "termo": "ἅρπαγες (harpages)",
+    "titulo": "harpax",
+    "texto": "Harpax é quem toma com violência ou abuso, o extorsor; é distinto de kleptēs, “ladrão”. A lista inclui pecados que os ouvintes associavam aos cobradores de impostos (cf. 3:12-13)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "eu te agradeço",
+    "termo": "εὐχαριστῶ σοι (eucharistō soi)",
+    "titulo": "ação de graças",
+    "texto": "Agradecer a Deus pela própria fidelidade era comum na piedade judaica (cf. Sl 17:1-5). O problema não é a ação de graças, mas o desprezo pelos outros e a ausência de qualquer pedido: o fariseu não pede nada a Deus. Na oração dirigida a Deus, a APV usa “tu”."
+   }
+  ]
+ },
+ "Luk.18.12": {
+  "t": "Jejuo duas vezes por semana e dou o dízimo de tudo o que ganho.’",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Jejuo duas vezes por semana",
+    "termo": "νηστεύω δὶς τοῦ σαββάτου",
+    "titulo": "além do exigido",
+    "texto": "Lit. “duas vezes do sábado”: sabbaton é aqui a semana. A Lei exigia jejum só no Dia da Expiação (Lv 16:29-31); os piedosos jejuavam também em outros dias, e a Didaquê (8:1), escrito cristão antigo, menciona os jejuns judaicos da segunda e da quinta-feira. O dízimo era devido sobre os produtos da terra (Dt 14:22-23); ele o paga sobre tudo o que adquire. O fariseu faz mais do que a Lei pede."
+   }
+  ]
+ },
+ "Luk.18.13": {
+  "t": "Mas o cobrador de impostos, ficando a distância, nem sequer queria erguer os olhos para o céu, mas batia no peito, dizendo: ‘Ó Deus, sê propício a mim, o pecador!’",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "sê propício a mim",
+    "termo": "ἱλάσθητί μοι (hilasthēti moi)",
+    "titulo": "hilaskomai",
+    "texto": "Hilaskomai (só aqui e em Hb 2:17) é da família de hilastērion e hilasmos (“propiciação”, Rm 3:25; 1Jo 2:2). O pedido não é só “tem pena de mim”, mas “sê aplacado, perdoa o meu pecado, sê favorável a mim”, como no Sl 79:9 (78:9 na Septuaginta), onde o mesmo verbo pede o perdão dos pecados. Alguns intérpretes ligam a oração à hora do sacrifício no templo (v. 10), mas o texto não o diz."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "o pecador",
+    "termo": "τῷ ἁμαρτωλῷ (tō hamartōlō)",
+    "titulo": "com artigo",
+    "texto": "Lit. “a mim, o pecador”. O artigo pode indicar que ele se vê como o pecador por excelência (cf. 1Tm 1:15), enquanto o fariseu se comparava com os outros. “Batia no peito” era gesto de dor e arrependimento (23:48)."
+   }
+  ]
+ },
+ "Luk.18.14": {
+  "t": "Eu lhes digo que este, e não aquele, desceu para casa justificado. Pois todo aquele que se exalta será humilhado, e quem se humilha será exaltado.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "este, e não aquele",
+    "termo": "οὗτος ... παρ᾽ ἐκεῖνον (houtos ... par’ ekeinon)",
+    "titulo": "comparação excludente",
+    "texto": "Lit. “este, ao lado daquele” ou “mais do que aquele”. Em estilo semítico, a comparação tem sentido excludente: um foi justificado, o outro não. O Textus Receptus e o Texto Bizantino trazem ē gar ekeinos (“mais do que aquele”, lit. “ou aquele?”), com o mesmo sentido."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "justificado",
+    "termo": "δεδικαιωμένος (dedikaiōmenos)",
+    "titulo": "a justificação",
+    "texto": "Dikaioō é “declarar justo”, e o passivo indica que é Deus quem declara (cf. 16:15, onde os fariseus “se justificam a si mesmos”). O que se recebe não é fruto das obras listadas pelo fariseu, mas da misericórdia pedida pelo pecador. Muitos veem aqui, no ensino de Jesus, o núcleo do que Paulo explicará sobre a justificação pela fé (Rm 3:21-28; 4:5). A frase final retoma 14:11."
+   }
+  ]
+ },
+ "Luk.18.15": {
+  "t": "Traziam a Jesus até as crianças pequenas, para que ele as tocasse. Ao verem isso, os discípulos os repreendiam.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "até as crianças pequenas",
+    "termo": "καὶ τὰ βρέφη (kai ta brephē)",
+    "titulo": "brephos",
+    "texto": "Brephos é o bebê, a criança de colo (1:41; 2:12, 16). Lucas usa essa palavra onde Marcos e Mateus têm paidia (“crianças”); no v. 16 volta a paidia. O kai (“até, também”) sugere que traziam não só doentes e adultos, mas até bebês. Aqui Lucas retoma a narrativa paralela a Marcos (Mc 10:13-52), que tinha deixado em 9:50."
+   }
+  ]
+ },
+ "Luk.18.16": {
+  "t": "Mas Jesus as chamou para junto de si e disse: “Deixem as crianças virem a mim e não as impeçam, pois o Reino de Deus pertence aos que são como elas.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "pertence aos que são como elas",
+    "termo": "τῶν γὰρ τοιούτων ἐστὶν ἡ βασιλεία τοῦ θεοῦ",
+    "titulo": "tōn toioutōn",
+    "texto": "Lit. “dos tais é o Reino de Deus”: das crianças e dos que são como elas. O Reino é recebido como dom por quem nada tem a apresentar, como o cobrador de impostos do v. 13."
+   }
+  ]
+ },
+ "Luk.18.17": {
+  "t": "Em verdade lhes digo: quem não receber o Reino de Deus como uma criança de modo nenhum entrará nele.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "como uma criança",
+    "termo": "ὡς παιδίον (hōs paidion)",
+    "titulo": "nominativo ou acusativo",
+    "texto": "Paidion pode ser lido como sujeito (“como uma criança o recebe”: com confiança e dependência) ou como objeto (“como se recebe uma criança”). A primeira leitura é a mais comum (veja a nota em Mc 10:15). Ou mē com subjuntivo é a negação mais forte do grego: “de modo nenhum”."
+   }
+  ]
+ },
+ "Luk.18.18": {
+  "t": "Certo líder lhe perguntou: “Bom Mestre, que devo fazer para herdar a vida eterna?”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Certo líder",
+    "termo": "τις ... ἄρχων (tis ... archōn)",
+    "titulo": "archōn",
+    "texto": "Archōn é “chefe, autoridade”: podia ser membro de um conselho, chefe de sinagoga (8:41) ou autoridade civil. Só Lucas diz que era um líder; Mateus diz que era jovem (Mt 19:20), e os três que era rico (v. 23). Como o chama de “Mestre” (didaskale), e não de kyrie, a APV usa o tratamento “você” nas respostas."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "que devo fazer para herdar a vida eterna?",
+    "termo": "τί ποιήσας ζωὴν αἰώνιον κληρονομήσω;",
+    "titulo": "a mesma pergunta",
+    "texto": "Lit. “tendo feito o quê, herdarei a vida eterna?”. É a mesma pergunta do perito na Lei em 10:25 (veja a nota ali). Logo depois da lição sobre receber o Reino como criança (v. 17), a pergunta pensa num feito que garanta a herança."
+   }
+  ]
+ },
+ "Luk.18.19": {
+  "t": "Jesus lhe respondeu: “Por que você me chama de bom? Ninguém é bom, a não ser um só: Deus.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Por que você me chama de bom?",
+    "termo": "τί με λέγεις ἀγαθόν;",
+    "titulo": "a pergunta de Jesus",
+    "texto": "Jesus não nega a própria bondade nem a sua divindade; leva o homem a pensar no que diz. Se só Deus é bom, chamar Jesus de bom é mais do que um elogio: ou o título é usado à toa, ou o homem está diante de quem fala com a autoridade de Deus. Lit. “um, Deus”: eco de Dt 6:4 (veja a nota em Mc 10:18)."
+   }
+  ]
+ },
+ "Luk.18.20": {
+  "t": "Você conhece os mandamentos: ‘Não cometa adultério, não mate, não furte, não dê falso testemunho, honre o seu pai e a sua mãe.’ ”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Não cometa adultério, não mate",
+    "termo": "μὴ μοιχεύσῃς, μὴ φονεύσῃς",
+    "titulo": "a forma dos mandamentos",
+    "texto": "Jesus cita a segunda tábua do Decálogo (Êx 20:12-16; Dt 5:16-20), os mandamentos sobre o próximo. Como em outros lugares da APV, os mandamentos na segunda pessoa do singular vão no imperativo com “você”; a forma tradicional é “Não adulterarás, não matarás, não furtarás”. Lucas põe o adultério antes do homicídio, ordem que aparece também em Rm 13:9 e Tg 2:11 e em parte da tradição da Septuaginta."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "honre o seu pai e a sua mãe",
+    "termo": "τίμα τὸν πατέρα σου καὶ τὴν μητέρα",
+    "titulo": "o quinto mandamento no fim",
+    "texto": "O mandamento sobre os pais, que no Decálogo vem antes dos outros, aparece aqui no fim. Nenhum dos mandamentos citados trata diretamente do dinheiro; o ponto fraco do homem aparecerá no v. 22. Os primeiros mandamentos, sobre Deus, estão implícitos na exigência de seguir Jesus."
+   }
+  ]
+ },
+ "Luk.18.21": {
+  "t": "Ele disse: “Tudo isso eu tenho guardado desde a minha juventude.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "desde a minha juventude",
+    "termo": "ἐκ νεότητος μου (ek neotētos mou)",
+    "titulo": "a juventude",
+    "texto": "Provavelmente desde os treze anos, quando um menino judeu passava a ser responsável pelo cumprimento da Lei. O homem não mente necessariamente: fala da obediência exterior e visível. Westcott-Hort e NA28 não trazem mou (“minha”), sem efeito na tradução."
+   }
+  ]
+ },
+ "Luk.18.22": {
+  "t": "Ao ouvir isso, Jesus lhe disse: “Ainda lhe falta uma coisa: venda tudo o que você tem e distribua aos pobres, e você terá um tesouro nos céus; depois venha e siga-me.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Ainda lhe falta uma coisa",
+    "termo": "ἔτι ἕν σοι λείπει",
+    "titulo": "o que falta",
+    "texto": "A riqueza ocupava o lugar que só Deus pode ter (16:13). Jesus não dá esta ordem a todos do mesmo modo (cf. Zaqueu, 19:8-9), mas a exigência de pôr tudo abaixo do seguimento vale para todos (14:33). O tesouro nos céus é a riqueza verdadeira (12:33-34; 16:11). O verbo “siga-me” no presente indica seguimento contínuo."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "nos céus",
+    "termo": "ἐν οὐρανοῖς (en ouranois)",
+    "titulo": "artigo e número",
+    "texto": "O texto-base traz en ouranois; Westcott-Hort, Tregelles e NA28, en tois ouranois; o Textus Receptus e o Texto Bizantino, en ouranō (“no céu”). Sem diferença na tradução."
+   }
+  ]
+ },
+ "Luk.18.23": {
+  "t": "Mas, ao ouvir isso, ele ficou muito triste, porque era muito rico.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "muito triste",
+    "termo": "περίλυπος (perilypos)",
+    "titulo": "perilypos",
+    "texto": "“Profundamente triste”, a palavra usada para a angústia de Jesus no Getsêmani (Mc 14:34). Lucas não diz que o homem foi embora, como Marcos e Mateus; ele fica e ouve o que segue."
+   }
+  ]
+ },
+ "Luk.18.24": {
+  "t": "Vendo-o assim, Jesus disse: “Como é difícil os que têm riquezas entrarem no Reino de Deus!",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "Vendo-o assim",
+    "termo": "ἰδὼν δὲ αὐτὸν ὁ Ἰησοῦς",
+    "titulo": "“que ficou muito triste”",
+    "texto": "Tregelles, NA28, o Textus Receptus e o Texto Bizantino acrescentam perilypon genomenon: “vendo-o ficar muito triste”. O texto-base, com Westcott-Hort, não traz a frase, que pode ter sido acrescentada a partir do v. 23. “Assim” foi usado para manter a ligação com o versículo anterior."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Como é difícil",
+    "termo": "πῶς δυσκόλως (pōs dyskolōs)",
+    "titulo": "dyskolōs",
+    "texto": "“Com dificuldade” (só aqui e nos paralelos, Mt 19:23; Mc 10:23). Chrēmata são os bens, o dinheiro. O presente eisporeuontai (“entram”) apresenta a afirmação como verdade geral."
+   }
+  ]
+ },
+ "Luk.18.25": {
+  "t": "Pois é mais fácil um camelo passar pelo buraco de uma agulha do que um rico entrar no Reino de Deus.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "buraco de uma agulha",
+    "termo": "τρήματος βελόνης (trēmatos belonēs)",
+    "titulo": "trēma e belonē",
+    "texto": "Lucas usa palavras diferentes dos paralelos (Mt 19:24; Mc 10:25): trēma (“furo”) e belonē (“agulha”), ambas hápax; belonē era também a palavra para a agulha de cirurgião. O Textus Receptus e o Texto Bizantino trazem as palavras de Marcos. É hipérbole deliberada, para dizer o humanamente impossível (v. 27). As explicações que a suavizam (uma porta estreita em Jerusalém chamada “agulha”, ou a troca de kamēlos, “camelo”, por kamilos, “corda”) não têm base segura (veja a nota em Mc 10:25)."
+   }
+  ]
+ },
+ "Luk.18.26": {
+  "t": "Os que ouviram isso perguntaram: “Então, quem pode ser salvo?”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Então, quem pode ser salvo?",
+    "termo": "καὶ τίς δύναται σωθῆναι;",
+    "titulo": "a surpresa",
+    "texto": "Lit. “E quem pode ser salvo?”. Para muitos, a riqueza era sinal da bênção de Deus (Dt 28:1-14); se nem os ricos entram, quem entrará?"
+   }
+  ]
+ },
+ "Luk.18.27": {
+  "t": "Ele respondeu: “O que é impossível para os homens é possível para Deus.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "é possível para Deus",
+    "termo": "δυνατὰ παρὰ τῷ θεῷ ἐστιν",
+    "titulo": "o possível de Deus",
+    "texto": "Eco de Gn 18:14 (“Há alguma coisa difícil demais para o Senhor?”) e das palavras do anjo a Maria (1:37). A salvação, também a do rico, é obra de Deus. Lucas mostra logo um rico que é salvo: Zaqueu (19:1-10)."
+   }
+  ]
+ },
+ "Luk.18.28": {
+  "t": "Pedro disse: “Veja, nós deixamos o que era nosso e o seguimos.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "o que era nosso",
+    "termo": "τὰ ἴδια (ta idia)",
+    "titulo": "ta idia",
+    "texto": "Lit. “as coisas próprias”: bens, casa, família (cf. Jo 19:27; At 21:6). O Textus Receptus e o Texto Bizantino trazem “deixamos tudo” (aphēkamen panta), como em Mc 10:28 e Mt 19:27. Pedro não usa kyrie; o pronome “o” vale para o tratamento “você”."
+   }
+  ]
+ },
+ "Luk.18.29": {
+  "t": "Jesus lhes disse: “Em verdade lhes digo que não há ninguém que tenha deixado casa, ou mulher, ou irmãos, ou pais, ou filhos, por causa do Reino de Deus,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "ou mulher",
+    "termo": "ἢ γυναῖκα (ē gynaika)",
+    "titulo": "a esposa",
+    "texto": "Só Lucas menciona a esposa nesta lista (cf. 14:26). O texto-base, com Westcott-Hort e NA28, traz a ordem “mulher, irmãos, pais”; Tregelles e o Texto Bizantino, “pais, irmãos, mulher”."
+   }
+  ]
+ },
+ "Luk.18.30": {
+  "t": "que não receba muitas vezes mais neste tempo e, na era que há de vir, a vida eterna.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "muitas vezes mais",
+    "termo": "πολλαπλασίονα (pollaplasiona)",
+    "titulo": "pollaplasiōn, hápax",
+    "texto": "Lit. “múltiplas vezes”. Marcos diz “cem vezes mais” (Mc 10:30). Neste tempo, o discípulo recebe uma nova família, a comunidade de fé (8:21; At 2:44-47); na era futura, a vida eterna que o líder buscava (v. 18)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "neste tempo e, na era que há de vir",
+    "termo": "ἐν τῷ καιρῷ τούτῳ καὶ ἐν τῷ αἰῶνι τῷ ἐρχομένῳ",
+    "titulo": "as duas eras",
+    "texto": "O judaísmo distinguia a era presente e a era futura, a do Reino plenamente manifesto. Jesus promete recompensa nas duas, sem negar as perseguições que Marcos menciona (Mc 10:30)."
+   }
+  ]
+ },
+ "Luk.18.31": {
+  "t": "Jesus chamou à parte os Doze e lhes disse: “Vejam, estamos subindo para Jerusalém, e se cumprirá tudo o que foi escrito pelos profetas a respeito do Filho do Homem.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "tudo o que foi escrito pelos profetas",
+    "termo": "πάντα τὰ γεγραμμένα διὰ τῶν προφητῶν",
+    "titulo": "o terceiro anúncio",
+    "texto": "É o terceiro anúncio da paixão em Lucas (9:22, 44). Só Lucas diz que tudo cumprirá o que os profetas escreveram, tema que volta depois da ressurreição (24:25-27, 44-46). “A respeito do Filho do Homem” traduz o dativo tō huiō tou anthrōpou, que pode ligar-se a “se cumprirá” (“se cumprirá para o Filho do Homem”) ou a “foi escrito” (“escrito a respeito dele”)."
+   }
+  ]
+ },
+ "Luk.18.32": {
+  "t": "Pois ele será entregue aos gentios, zombarão dele, o insultarão e cuspirão nele;",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "zombarão dele, o insultarão e cuspirão nele",
+    "termo": "ἐμπαιχθήσεται καὶ ὑβρισθήσεται καὶ ἐμπτυσθήσεται",
+    "titulo": "os passivos",
+    "texto": "Lit. “será ridicularizado, ultrajado e cuspido”. Em português, a voz ativa com sujeito indeterminado é mais natural. Os maus-tratos lembram o servo de Is 50:6 (“não escondi o rosto das afrontas e dos cuspes”). Lucas narra a zombaria em 22:63; 23:11, 36."
+   }
+  ]
+ },
+ "Luk.18.33": {
+  "t": "e, depois de açoitá-lo, o matarão; e no terceiro dia ele ressuscitará.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "ele ressuscitará",
+    "termo": "ἀναστήσεται (anastēsetai)",
+    "titulo": "anistēmi",
+    "texto": "“Levantar-se, ressuscitar”, na voz média: “ele se levantará”. Em 9:22 o verbo é egeirō no passivo (“ser ressuscitado”). As duas formas aparecem no NT: o Pai ressuscita o Filho, e o Filho ressuscita (Jo 10:17-18)."
+   }
+  ]
+ },
+ "Luk.18.34": {
+  "t": "Mas eles não entenderam nada disso; esse assunto estava escondido deles, e não compreendiam o que se dizia.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "esse assunto estava escondido deles",
+    "termo": "ἦν τὸ ῥῆμα τοῦτο κεκρυμμένον ἀπ᾽ αὐτῶν",
+    "titulo": "a incompreensão",
+    "texto": "Lucas diz a mesma coisa de três modos, para dar ênfase. O passivo sugere que o sentido estava encoberto por Deus até a hora certa (veja a nota em 9:45). Só depois da ressurreição Jesus lhes abrirá o entendimento (24:45). Rhēma pode ser “palavra” ou “assunto, coisa”."
+   }
+  ]
+ },
+ "Luk.18.35": {
+  "t": "Quando Jesus se aproximava de Jericó, um cego estava sentado à beira do caminho, pedindo esmola.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Quando Jesus se aproximava de Jericó",
+    "termo": "ἐν τῷ ἐγγίζειν αὐτὸν εἰς Ἰεριχώ",
+    "titulo": "os relatos paralelos",
+    "texto": "Marcos (10:46) situa a cura quando Jesus saía de Jericó e dá o nome do cego, Bartimeu; Mateus (20:29-34) fala de dois cegos, também na saída. Há várias propostas de harmonização (por exemplo, a existência de uma Jericó antiga e de uma nova, construída por Herodes, a pouca distância uma da outra), mas nenhuma é segura. Lucas talvez tenha posto a cura antes da entrada na cidade para deixar o episódio de Zaqueu (19:1-10) dentro dela. Epaiteō (“mendigar”) só aparece aqui e em 16:3."
+   }
+  ]
+ },
+ "Luk.18.36": {
+  "t": "Ouvindo a multidão passar, perguntou o que era aquilo.",
+  "n": []
+ },
+ "Luk.18.37": {
+  "t": "Disseram-lhe: “Jesus de Nazaré está passando.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Jesus de Nazaré",
+    "termo": "Ἰησοῦς ὁ Ναζωραῖος (Iēsous ho Nazōraios)",
+    "titulo": "Nazōraios",
+    "texto": "Lit. “Jesus, o Nazoreu”, isto é, de Nazaré. Lucas usa as duas formas, Nazōraios e Nazarēnos (4:34; 24:19), sem diferença de sentido."
+   }
+  ]
+ },
+ "Luk.18.38": {
+  "t": "Então ele gritou: “Jesus, Filho de Davi, tenha compaixão de mim!”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Filho de Davi",
+    "termo": "υἱὲ Δαυίδ",
+    "titulo": "o título messiânico",
+    "texto": "Em Lucas, é a primeira vez que alguém chama Jesus assim. Deus prometeu a Davi um descendente cujo trono seria eterno (2Sm 7:12-16; Is 11:1-10), e Lucas já o anunciou em 1:32-33. O cego reconhece em “Jesus de Nazaré” o Messias, logo antes da entrada em Jerusalém (19:38). “Tenha compaixão de mim” (eleēson me) é o clamor dos Salmos (Sl 51:1; 123:3; cf. 17:13)."
+   }
+  ]
+ },
+ "Luk.18.39": {
+  "t": "Os que iam à frente o repreendiam para que se calasse, mas ele gritava ainda mais: “Filho de Davi, tenha compaixão de mim!”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "gritava ainda mais",
+    "termo": "πολλῷ μᾶλλον ἔκραζεν",
+    "titulo": "krazō",
+    "texto": "No v. 38 o verbo é boaō (“clamar”); aqui, krazō, “gritar alto”, no imperfeito: ele gritava sem parar. Como a viúva (18:1-8), o cego insiste e não desanima."
+   }
+  ]
+ },
+ "Luk.18.40": {
+  "t": "Jesus parou e mandou que o trouxessem até ele. Quando ele chegou perto, Jesus lhe perguntou:",
+  "n": []
+ },
+ "Luk.18.41": {
+  "t": "“Que você quer que eu lhe faça?” Ele respondeu: “Senhor, que eu volte a ver.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "que eu volte a ver",
+    "termo": "ἵνα ἀναβλέψω (hina anablepsō)",
+    "titulo": "anablepō",
+    "texto": "Anablepō é “olhar para cima” e “recuperar a vista”. Pode indicar que o homem já tinha enxergado antes, mas também se usa para quem recebe a vista pela primeira vez (Jo 9:11, 15, 18). É uma das obras anunciadas em 4:18 e 7:22. O cego agora chama Jesus de kyrie, “Senhor”."
+   }
+  ]
+ },
+ "Luk.18.42": {
+  "t": "Jesus lhe disse: “Volte a ver! A sua fé o salvou.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "A sua fé o salvou",
+    "termo": "ἡ πίστις σου σέσωκέν σε",
+    "titulo": "salvou ou curou",
+    "texto": "Sōzō é “salvar” e “curar” (veja a nota em 17:19). A cura dos olhos é sinal de uma salvação maior: o homem passa a seguir Jesus (v. 43)."
+   }
+  ]
+ },
+ "Luk.18.43": {
+  "t": "No mesmo instante ele voltou a ver e seguia Jesus, glorificando a Deus. E todo o povo, ao ver isso, deu louvor a Deus.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "seguia Jesus, glorificando a Deus",
+    "termo": "ἠκολούθει αὐτῷ δοξάζων τὸν θεόν",
+    "titulo": "o seguidor",
+    "texto": "O imperfeito indica que ele passou a seguir Jesus no caminho para Jerusalém. Em contraste com o líder rico (vv. 18-23), o mendigo cego segue Jesus. Ainos (“louvor”) só aparece aqui e em Mt 21:16. O louvor do povo prepara a entrada em Jerusalém (19:37)."
+   }
+  ]
  }
 }

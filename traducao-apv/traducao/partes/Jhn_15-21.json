@@ -552,7 +552,7 @@
     "ancora": "é para o bem de vocês",
     "termo": "συμφέρει ὑμῖν (sympherei hymin)",
     "titulo": "sympherei",
-    "texto": "Lit. “convém a vocês”, “é vantajoso para vocês”. O mesmo verbo aparece na boca de Caifás: “convém que um homem morra pelo povo” (11:50; 18:14). Lá, a conveniência era política; aqui, é o bem que vem aos discípulos com a partida de Jesus: a vinda do Espírito, que não seria dado antes da glorificação de Jesus (7:39)."
+    "texto": "Lit. “convém a vocês”, “é vantajoso para vocês”. O mesmo verbo aparece na boca de Caifás: “é melhor para vocês que morra um só homem pelo povo” (11:50; 18:14). Lá, a conveniência era política; aqui, é o bem que vem aos discípulos com a partida de Jesus: a vinda do Espírito, que não seria dado antes da glorificação de Jesus (7:39)."
    },
    {
     "tipo": "tn",
@@ -1368,6 +1368,1272 @@
     "termo": "καὶ γνωρίσω (kai gnōrisō)",
     "titulo": "a revelação continua",
     "texto": "Jesus continuará a tornar o Pai conhecido: pela cruz e ressurreição, e depois pelo Espírito (16:13-15). A oração termina com o amor do Pai e a presença do Filho nos discípulos (14:20, 23; 15:9): a última palavra é “neles”."
+   }
+  ]
+ },
+ "Jhn.18.1": {
+  "t": "Depois de dizer essas coisas, Jesus saiu com os seus discípulos para o outro lado do ribeiro do Cedrom, onde havia um jardim, no qual ele entrou com os seus discípulos.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "ribeiro",
+    "termo": "χειμάρρου (cheimarrou)",
+    "titulo": "cheimarros, hápax",
+    "texto": "Única ocorrência no NT. Cheimarros é a torrente de inverno, o leito seco que só corre na estação das chuvas (o que em árabe se chama uádi). O Cedrom separa Jerusalém do monte das Oliveiras, a leste."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Cedrom",
+    "termo": "τοῦ Κεδρών (tou Kedrōn)",
+    "titulo": "Davi e o Cedrom",
+    "texto": "Davi atravessou o Cedrom ao fugir de Absalão, chorando, traído por Aitofel, o seu conselheiro (2Sm 15:23, 30-31; cf. 17:23). Muitos intérpretes veem aqui um paralelo: o Filho de Davi cruza o mesmo ribeiro, traído por um amigo. João não dá o nome do jardim; os outros Evangelhos o chamam Getsêmani (Mt 26:36; Mc 14:32)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "do ribeiro do Cedrom",
+    "termo": "τοῦ χειμάρρου τοῦ Κεδρών",
+    "titulo": "“do Cedrom” ou “dos cedros”",
+    "texto": "O texto-base, com Tregelles e o NA28, traz tou Kedrōn (“do Cedrom”), forma do nome hebraico (Qidron, “escuro”). Westcott-Hort, o TR e o Texto Bizantino trazem tōn Kedrōn, que se lê como “dos cedros”, provavelmente porque copistas entenderam o nome como plural da palavra grega kedros (“cedro”). O lugar é o mesmo."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "um jardim",
+    "termo": "κῆπος (kēpos)",
+    "titulo": "o jardim",
+    "texto": "Só João fala de “jardim” na prisão (vv. 1, 26) e no sepultamento (19:41), e Maria Madalena vai pensar que Jesus ressuscitado é “o jardineiro” (20:15). Alguns veem um eco do jardim do Éden: a história da redenção começa e termina num jardim. A ligação é possível, mas o texto não a explicita."
+   }
+  ]
+ },
+ "Jhn.18.2": {
+  "t": "Judas, que o entregava, também conhecia aquele lugar, porque Jesus muitas vezes se reunia ali com os seus discípulos.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "que o entregava",
+    "termo": "ὁ παραδιδοὺς αὐτόν (ho paradidous auton)",
+    "titulo": "paradidōmi",
+    "texto": "Lit. “o que o entrega”: o particípio presente identifica Judas pelo que está fazendo. Paradidōmi é “entregar”, e daí “trair” quando a entrega é feita por quem devia ser fiel. A APV usa “entregar” para manter a ligação com a cadeia de entregas da Paixão: Judas entrega Jesus às autoridades (v. 2), elas o entregam a Pilatos (vv. 30, 35), Pilatos o entrega para ser crucificado (19:16), e Jesus “entrega” o espírito (19:30)."
+   }
+  ]
+ },
+ "Jhn.18.3": {
+  "t": "Judas, então, tomando a tropa e guardas enviados pelos chefes dos sacerdotes e pelos fariseus, chegou ali com lanternas, tochas e armas.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "a tropa",
+    "termo": "τὴν σπεῖραν (tēn speiran)",
+    "titulo": "speira",
+    "texto": "Speira é o termo técnico para a coorte romana (cerca de seiscentos homens), mas também designava destacamentos menores. Com o “comandante” (chiliarchos, o tribuno romano) do v. 12, o texto sugere que soldados romanos participaram da prisão, ao lado dos guardas do templo (hypēretai; ver nota em 7:32). Alguns estudiosos duvidam da presença romana e pensam que speira designa aqui a guarda do templo; outros a consideram plausível, dado o medo de tumulto na Páscoa. “Tropa” deixa a questão aberta."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "lanternas, tochas",
+    "termo": "φανῶν καὶ λαμπάδων (phanōn kai lampadōn)",
+    "titulo": "phanos, hápax",
+    "texto": "Phanos (só aqui) é uma lanterna; lampas, uma tocha ou lâmpada. Na Páscoa havia lua cheia, mas o jardim podia ter lugares escuros. Há ironia: vêm com lanternas e tochas, de noite (13:30), buscar aquele que é “a luz do mundo” (8:12; 9:5)."
+   }
+  ]
+ },
+ "Jhn.18.4": {
+  "t": "Jesus, sabendo tudo o que lhe ia acontecer, saiu e lhes perguntou: “A quem vocês procuram?”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "sabendo tudo o que lhe ia acontecer",
+    "termo": "εἰδὼς πάντα τὰ ἐρχόμενα ἐπ᾽ αὐτὸν",
+    "titulo": "Jesus toma a iniciativa",
+    "texto": "João não narra a agonia nem o beijo de Judas (Mc 14:32-45). Jesus sabe tudo e vai ao encontro dos que vêm prendê-lo: ninguém tira a sua vida; ele a dá por si mesmo (10:18; 13:1, 3). A pergunta “A quem vocês procuram?” lembra as primeiras palavras dele no Evangelho (“Que vocês procuram?”, 1:38) e a pergunta a Maria Madalena (20:15). O TR e o Texto Bizantino trazem “saindo, disse-lhes”, sem efeito."
+   }
+  ]
+ },
+ "Jhn.18.5": {
+  "t": "Responderam-lhe: “Jesus, o Nazareno.” Ele lhes disse: “Eu Sou.” E Judas, que o entregava, também estava ali com eles.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "o Nazareno",
+    "termo": "τὸν Ναζωραῖον (ton Nazōraion)",
+    "titulo": "Nazōraios",
+    "texto": "Primeira ocorrência em João (também v. 7 e 19:19). Nazōraios indica, em primeiro lugar, quem é de Nazaré (1:45-46). A forma do nome pode trazer também outros ecos, como o “rebento” (netser) de Is 11:1 (cf. Mt 2:23), mas isso não está em foco aqui."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Eu Sou",
+    "termo": "ἐγώ εἰμι (egō eimi)",
+    "titulo": "identificação e nome divino",
+    "texto": "No nível imediato, é uma identificação: “Sou eu [Jesus, o Nazareno]”, como em 9:9. Mas o narrador repete as palavras no v. 6 e mostra o efeito: os que vieram prendê-lo recuam e caem. Por isso a maioria dos intérpretes vê aqui também o eco do nome divino dos usos absolutos de egō eimi (8:24, 28, 58; 13:19; Êx 3:14; Is 43:10). A APV escreve “Eu Sou”, como nesses textos, para que o leitor perceba o duplo sentido; a tradução “Sou eu” é igualmente legítima no plano gramatical (ver notas em 4:26, 6:20 e 9:9). O mesmo vale para os vv. 6 e 8. O TR e o Texto Bizantino trazem “Jesus lhes disse”.",
+    "revisar": true
+   },
+   {
+    "tipo": "tn",
+    "ancora": "E Judas, que o entregava, também estava ali com eles",
+    "termo": "εἱστήκει δὲ καὶ Ἰούδας ... μετ᾽ αὐτῶν",
+    "titulo": "o lugar de Judas",
+    "texto": "O mais-que-perfeito eistēkei descreve uma posição: Judas estava de pé, “com eles”, do lado dos que vieram prender Jesus. O narrador o menciona justamente antes de todos caírem por terra: também ele cai diante de Jesus."
+   }
+  ]
+ },
+ "Jhn.18.6": {
+  "t": "Quando Jesus lhes disse: “Eu Sou”, eles recuaram e caíram por terra.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "eles recuaram e caíram por terra",
+    "termo": "ἀπῆλθον εἰς τὰ ὀπίσω καὶ ἔπεσαν χαμαί",
+    "titulo": "cair diante de Deus",
+    "texto": "Nos Salmos, os inimigos do justo “recuam e caem” (Sl 27:2; 35:4; 56:9), e em visões de Deus as pessoas caem por terra (Ez 1:28; Dn 10:9; Ap 1:17). A cena mostra que Jesus poderia não ser preso; ele se entrega. Chamai (“por terra”) só aparece aqui e em 9:6. O TR e o Texto Bizantino trazem hoti antes da fala, sem efeito."
+   }
+  ]
+ },
+ "Jhn.18.7": {
+  "t": "Ele lhes perguntou de novo: “A quem vocês procuram?” Eles disseram: “Jesus, o Nazareno.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Ele lhes perguntou de novo",
+    "termo": "πάλιν οὖν ἐπηρώτησεν αὐτούς",
+    "titulo": "a repetição",
+    "texto": "A pergunta e a resposta se repetem como num interrogatório. Jesus conduz a cena: faz que o alvo da prisão seja ele, e só ele, o que prepara o pedido do v. 8. O Texto Bizantino muda a ordem das palavras, sem efeito."
+   }
+  ]
+ },
+ "Jhn.18.8": {
+  "t": "Jesus respondeu: “Eu lhes disse que Eu Sou. Se, pois, é a mim que vocês procuram, deixem estes ir embora.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "deixem estes ir embora",
+    "termo": "ἄφετε τούτους ὑπάγειν (aphete toutous hypagein)",
+    "titulo": "o pastor protege as ovelhas",
+    "texto": "O bom pastor se põe entre as ovelhas e o perigo (10:11-15). A frase é uma ordem, não um pedido: mesmo preso, Jesus fala com autoridade. Sobre “Eu Sou”, ver nota no v. 5."
+   }
+  ]
+ },
+ "Jhn.18.9": {
+  "t": "Isso aconteceu para que se cumprisse a palavra que ele tinha dito: “Dos que me deste, não perdi nenhum.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "para que se cumprisse a palavra que ele tinha dito",
+    "termo": "ἵνα πληρωθῇ ὁ λόγος ὃν εἶπεν",
+    "titulo": "a palavra de Jesus se cumpre",
+    "texto": "A fórmula de cumprimento, usada para as Escrituras (12:38; 13:18; 17:12), é aplicada aqui a uma palavra do próprio Jesus (6:39; 17:12; cf. 10:28): a sua palavra tem a mesma autoridade da Escritura (2:22; 18:32). A proteção física dos discípulos naquela noite é sinal da proteção maior que Jesus prometeu. “Isso aconteceu” foi acrescentado para completar a frase elíptica (ver nota em 15:25)."
+   }
+  ]
+ },
+ "Jhn.18.10": {
+  "t": "Então Simão Pedro, que tinha uma espada, desembainhou-a, feriu o servo do sumo sacerdote e lhe cortou a orelha direita. O nome do servo era Malco.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Simão Pedro",
+    "termo": "Σίμων Πέτρος (Simōn Petros)",
+    "titulo": "só João dá os nomes",
+    "texto": "Os outros Evangelhos contam o episódio sem dizer quem feriu nem quem foi ferido (Mt 26:51; Mc 14:47; Lc 22:50-51, onde Jesus cura a orelha). João nomeia Pedro e Malco, um detalhe de quem conhecia a casa do sumo sacerdote (vv. 15-16, 26). Pedro age com coragem, mas contra a vontade de Jesus (v. 11), como em 13:8."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "o servo",
+    "termo": "δοῦλον (doulon)",
+    "titulo": "doulos",
+    "texto": "Doulos, lit. “escravo” (ver nota em 4:51). Aqui é um servidor da casa do sumo sacerdote, e a condição de propriedade não está em foco; por isso “servo”. A palavra para orelha, ōtarion, é diminutivo, mas no grego da época já tinha perdido o sentido de “orelhinha”; o TR e o Texto Bizantino trazem ōtion, outra forma da mesma palavra (v. 26)."
+   }
+  ]
+ },
+ "Jhn.18.11": {
+  "t": "Jesus disse a Pedro: “Ponha a espada na bainha. Não hei de beber o cálice que o Pai me deu?”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "o cálice que o Pai me deu",
+    "termo": "τὸ ποτήριον ὃ δέδωκέν μοι ὁ πατὴρ",
+    "titulo": "o cálice",
+    "texto": "No AT, o “cálice” na mão do Senhor é muitas vezes o da sua ira contra o pecado (Sl 75:8; Is 51:17, 22; Jr 25:15). Nos outros Evangelhos Jesus ora no Getsêmani para que o cálice passe, mas se submete (Mc 14:36). João não narra essa oração, mas a frase mostra a mesma submissão. A pergunta, com a dupla negação ou mē, espera resposta enfática: “é claro que vou beber”. Thēkē (“bainha”) só aparece aqui. O TR e o Texto Bizantino trazem “a tua espada”."
+   }
+  ]
+ },
+ "Jhn.18.12": {
+  "t": "Então a tropa, o comandante e os guardas dos judeus prenderam Jesus e o amarraram",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "o comandante",
+    "termo": "ὁ χιλίαρχος (ho chiliarchos)",
+    "titulo": "chiliarchos",
+    "texto": "Lit. “chefe de mil”: o tribuno militar romano, comandante de uma coorte (At 21:31-33). Ver nota no v. 3 sobre “tropa”. “Os guardas dos judeus” são os guardas do templo, a serviço das autoridades judaicas (7:32)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "prenderam Jesus e o amarraram",
+    "termo": "συνέλαβον τὸν Ἰησοῦν καὶ ἔδησαν αὐτὸν",
+    "titulo": "o amarrado",
+    "texto": "Jesus é amarrado como um criminoso (cf. v. 24). Há ironia em amarrar quem acabou de fazê-los cair por terra; mas ele se deixa amarrar. Alguns lembram Isaque, amarrado por Abraão no monte (Gn 22:9), associação comum na interpretação cristã antiga, mas o texto não a faz."
+   }
+  ]
+ },
+ "Jhn.18.13": {
+  "t": "e o levaram primeiro a Anás, pois ele era sogro de Caifás, que era sumo sacerdote naquele ano.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Anás",
+    "termo": "Ἅνναν (Hannan)",
+    "titulo": "Anás",
+    "texto": "Anás foi sumo sacerdote de 6 a 15 d.C., quando os romanos o depuseram; mas continuou a ser a figura mais influente das famílias sacerdotais: cinco filhos seus e o genro Caifás ocuparam o cargo depois dele, segundo Flávio Josefo. Por isso os Evangelhos e Atos ainda o chamam “sumo sacerdote” (Lc 3:2; At 4:6) e João o chama assim nos vv. 19 e 22. Só João relata esse interrogatório preliminar diante de Anás. Pentheros (“sogro”) só aparece aqui. Sobre “naquele ano”, ver nota em 11:49. O TR e o Texto Bizantino trazem “o levaram embora”."
+   }
+  ]
+ },
+ "Jhn.18.14": {
+  "t": "Caifás era quem tinha aconselhado os judeus de que era melhor que um só homem morresse pelo povo.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "era melhor que um só homem morresse pelo povo",
+    "termo": "συμφέρει ἕνα ἄνθρωπον ἀποθανεῖν ὑπὲρ τοῦ λαοῦ",
+    "titulo": "a profecia de Caifás",
+    "texto": "Retoma 11:49-52: Caifás falou por cálculo político, mas, sem saber, profetizou a morte de Jesus “pelo povo”, isto é, em favor dele e no lugar dele. O narrador lembra isso antes do julgamento para que o leitor saiba o resultado e o seu sentido. O TR e o Texto Bizantino trazem apolesthai (“perecesse”) em vez de apothanein (“morresse”)."
+   }
+  ]
+ },
+ "Jhn.18.15": {
+  "t": "Simão Pedro e outro discípulo seguiam Jesus. Esse discípulo era conhecido do sumo sacerdote e entrou com Jesus no pátio do sumo sacerdote.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "outro discípulo",
+    "termo": "ἄλλος μαθητής (allos mathētēs)",
+    "titulo": "quem é?",
+    "texto": "O discípulo não é nomeado. Muitos o identificam com o “discípulo a quem Jesus amava” (ver nota em 13:23), que em 20:2-8 é chamado “o outro discípulo” e aparece ao lado de Pedro; outros acham difícil que um pescador da Galileia fosse “conhecido” (gnōstos, que pode significar até parente ou membro do círculo) do sumo sacerdote, e propõem outro discípulo de Jerusalém, como Nicodemos ou José de Arimateia. Tregelles, o TR e o Texto Bizantino trazem o artigo (“o outro discípulo”), o que favorece a identificação com o discípulo amado; o texto-base segue Westcott-Hort e o NA28."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "pátio",
+    "termo": "αὐλὴν (aulēn)",
+    "titulo": "aulē",
+    "texto": "O pátio interno, a céu aberto, de uma casa grande (ver nota em 10:1). Era ali que estavam os servos e os guardas (v. 18)."
+   }
+  ]
+ },
+ "Jhn.18.16": {
+  "t": "Pedro, porém, ficou do lado de fora, junto à porta. Então o outro discípulo, o conhecido do sumo sacerdote, saiu, falou com a porteira e fez Pedro entrar.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "a porteira",
+    "termo": "τῇ θυρωρῷ (tē thyrōrō)",
+    "titulo": "feminino",
+    "texto": "Thyrōros (“porteiro”) está aqui no feminino: era comum que uma criada guardasse a porta (cf. At 12:13). O TR e o Texto Bizantino trazem hos ēn gnōstos tō archierei (“que era conhecido do sumo sacerdote”), sem mudar o sentido."
+   }
+  ]
+ },
+ "Jhn.18.17": {
+  "t": "A criada que guardava a porta disse então a Pedro: “Por acaso você também é um dos discípulos desse homem?” Ele respondeu: “Não sou.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Por acaso você também é",
+    "termo": "μὴ καὶ σὺ ... εἶ (mē kai sy ... ei)",
+    "titulo": "pergunta com mē",
+    "texto": "Perguntas com mē esperam resposta negativa: “Você não é também..., é?”. A criada parece fazer a pergunta de modo a facilitar a negação, o que torna a queda de Pedro ainda mais triste. “Também” talvez se refira ao outro discípulo, conhecido da casa."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Não sou",
+    "termo": "Οὐκ εἰμί (Ouk eimi)",
+    "titulo": "“Eu Sou” e “Não sou”",
+    "texto": "No jardim, Jesus disse “Eu Sou” (egō eimi, vv. 5, 6, 8); no pátio, Pedro diz “Não sou” (ouk eimi), aqui e no v. 25. João monta as cenas lado a lado: Jesus confessa diante dos que vieram prendê-lo, enquanto Pedro nega diante de uma criada (13:37-38)."
+   }
+  ]
+ },
+ "Jhn.18.18": {
+  "t": "Os servos e os guardas tinham acendido um braseiro, porque fazia frio, e estavam ali de pé, aquecendo-se. Pedro também estava com eles, de pé, aquecendo-se.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "um braseiro",
+    "termo": "ἀνθρακιὰν (anthrakian)",
+    "titulo": "anthrakia, raro",
+    "texto": "Anthrakia é um fogo de brasas, de carvão. A palavra só aparece aqui e em 21:9, quando Jesus ressuscitado prepara peixe sobre brasas para os discípulos, antes de perguntar três vezes a Pedro se o ama (21:15-17). Junto de um braseiro, Pedro nega três vezes; junto de outro, é restaurado três vezes. Psychos (“frio”) é raro no NT (At 28:2; 2Co 11:27); em Jerusalém, as noites de primavera podem ser frias."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Pedro também estava com eles",
+    "termo": "ἦν δὲ καὶ ὁ Πέτρος μετ᾽ αὐτῶν",
+    "titulo": "“com eles”",
+    "texto": "Como Judas no v. 5, Pedro está “com eles”, ao lado dos que prenderam Jesus. O TR e o Texto Bizantino não trazem kai (“também”) e mudam a ordem; sem efeito."
+   }
+  ]
+ },
+ "Jhn.18.19": {
+  "t": "Então o sumo sacerdote interrogou Jesus a respeito dos seus discípulos e do seu ensino.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "o sumo sacerdote",
+    "termo": "ὁ ἀρχιερεὺς (ho archiereus)",
+    "titulo": "Anás ou Caifás?",
+    "texto": "Pelo v. 13 e pelo v. 24, o interrogatório parece ser diante de Anás, que é chamado “sumo sacerdote” por cortesia e pela sua posição (ver nota no v. 13). Alguns intérpretes pensam que é Caifás, interrogando na casa de Anás; nesse caso o v. 24 seria lido como mais-que-perfeito (ver nota ali). O interesse pelos discípulos e pelo ensino sugere que se buscava acusar Jesus de formar um grupo subversivo ou de ser falso profeta (Dt 13:1-5)."
+   }
+  ]
+ },
+ "Jhn.18.20": {
+  "t": "Jesus lhe respondeu: “Eu tenho falado abertamente ao mundo. Sempre ensinei nas sinagogas e no templo, onde todos os judeus se reúnem, e nada disse em segredo.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "nada disse em segredo",
+    "termo": "ἐν κρυπτῷ ἐλάλησα οὐδέν (en kryptō elalēsa ouden)",
+    "titulo": "nada às escondidas",
+    "texto": "Jesus ensinou em particular aos discípulos (caps. 13-17), mas não tem uma doutrina secreta diferente da pública, nem conspira às escondidas. As palavras lembram Is 45:19 e 48:16, onde Deus diz: “não falei em segredo”. “Nas sinagogas” traduz en synagōgē, sem artigo (“em sinagoga”), que indica o lugar de costume (6:59)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "onde todos os judeus se reúnem",
+    "termo": "ὅπου πάντες οἱ Ἰουδαῖοι συνέρχονται",
+    "titulo": "pantes ou pantote",
+    "texto": "O texto-base, com Westcott-Hort, Tregelles e o NA28, traz pantes (“todos os judeus”); o TR e o Texto Bizantino, pantote (“onde os judeus sempre se reúnem”). Trazem também elalēsa (“falei”) em vez de lelalēka (“tenho falado”). Sem diferença importante."
+   }
+  ]
+ },
+ "Jhn.18.21": {
+  "t": "Por que você me interroga? Pergunte aos que ouviram o que eu lhes falei; eles sabem o que eu disse.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Por que você me interroga?",
+    "termo": "τί με ἐρωτᾷς; (ti me erōtas?)",
+    "titulo": "o procedimento",
+    "texto": "Jesus não se recusa a responder, mas pede o procedimento devido: o caso deve ser julgado por testemunhas (Dt 17:6; 19:15), e não por perguntas ao acusado para que se incrimine. “Eles sabem” traduz ide houtoi oidasin (“vejam, estes sabem”). O TR e o Texto Bizantino trazem eperōtas, eperōtēson, formas compostas do mesmo verbo."
+   }
+  ]
+ },
+ "Jhn.18.22": {
+  "t": "Quando ele disse isso, um dos guardas que estava ali deu uma bofetada em Jesus, dizendo: “É assim que você responde ao sumo sacerdote?”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "deu uma bofetada",
+    "termo": "ἔδωκεν ῥάπισμα (edōken rhapisma)",
+    "titulo": "rhapisma, raro",
+    "texto": "Rhapisma (aqui, 19:3 e Mc 14:65) pode ser um tapa com a mão aberta ou um golpe com vara. “Bofetada” é o sentido mais comum. A pergunta do guarda talvez evoque Êx 22:28: “não amaldiçoe o chefe do seu povo” (cf. At 23:4-5)."
+   }
+  ]
+ },
+ "Jhn.18.23": {
+  "t": "Jesus lhe respondeu: “Se falei mal, prove o que eu disse de errado; mas, se falei bem, por que você me bate?”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "prove o que eu disse de errado",
+    "termo": "μαρτύρησον περὶ τοῦ κακοῦ (martyrēson peri tou kakou)",
+    "titulo": "“testemunhe sobre o mal”",
+    "texto": "Lit. “dê testemunho a respeito do mal”: linguagem de tribunal. Se há erro, que seja provado com testemunho; agressão não é prova."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "por que você me bate?",
+    "termo": "τί με δέρεις; (ti me dereis?)",
+    "titulo": "a outra face",
+    "texto": "Jesus não revida, mas também não se cala diante da injustiça. Alguns leitores perguntam como isso combina com “ofereça também a outra face” (Mt 5:39). A não retaliação não exclui o protesto pela verdade e pela justiça; Paulo faz o mesmo em At 23:3 e 16:37."
+   }
+  ]
+ },
+ "Jhn.18.24": {
+  "t": "Então Anás o enviou amarrado a Caifás, o sumo sacerdote.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "Então Anás o enviou",
+    "termo": "ἀπέστειλεν οὖν αὐτὸν ὁ Ἅννας (apesteilen oun auton ho Hannas)",
+    "titulo": "com ou sem oun",
+    "texto": "O texto-base, com Westcott-Hort, Tregelles e o NA28, traz oun (“então”): depois do interrogatório (vv. 19-23), Anás manda Jesus a Caifás. O Texto Bizantino não traz oun, e por isso alguns leem o aoristo como mais-que-perfeito (“Anás o tinha enviado”), fazendo do interrogatório dos vv. 19-23 uma cena diante de Caifás. A tradução segue o texto-base. João não narra o julgamento diante de Caifás e do Sinédrio que os outros Evangelhos contam (Mc 14:53-65)."
+   }
+  ]
+ },
+ "Jhn.18.25": {
+  "t": "Simão Pedro continuava ali, de pé, aquecendo-se. Disseram-lhe então: “Por acaso você também é um dos discípulos dele?” Ele negou e disse: “Não sou.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Simão Pedro continuava ali",
+    "termo": "ἦν δὲ Σίμων Πέτρος ἑστὼς καὶ θερμαινόμενος",
+    "titulo": "a cena paralela",
+    "texto": "Lit. “Simão Pedro estava de pé e aquecendo-se”: a frase retoma o v. 18 e mostra que as duas cenas acontecem ao mesmo tempo. A pergunta é a mesma do v. 17, com mē, à espera de um “não”. O Texto Bizantino traz oun (“negou então”), sem efeito."
+   }
+  ]
+ },
+ "Jhn.18.26": {
+  "t": "Um dos servos do sumo sacerdote, parente daquele cuja orelha Pedro tinha cortado, disse: “Eu não vi você no jardim com ele?”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Eu não vi você no jardim com ele?",
+    "termo": "οὐκ ἐγώ σε εἶδον ἐν τῷ κήπῳ μετ᾽ αὐτοῦ;",
+    "titulo": "pergunta com ouk",
+    "texto": "Agora a pergunta tem ouk e espera resposta afirmativa: “Eu vi você, não vi?”. A terceira acusação é a mais perigosa, porque vem de uma testemunha ocular e parente da vítima da espada de Pedro (v. 10). Ōtion é forma da mesma palavra para “orelha” (ver nota no v. 10)."
+   }
+  ]
+ },
+ "Jhn.18.27": {
+  "t": "Pedro negou outra vez, e imediatamente um galo cantou.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "um galo cantou",
+    "termo": "ἀλέκτωρ ἐφώνησεν (alektōr ephōnēsen)",
+    "titulo": "a predição cumprida",
+    "texto": "Cumpre-se a palavra de 13:38. João não fala do choro de Pedro (Lc 22:61-62); a história dele fica em suspenso até 21:15-19, onde a tríplice negação é respondida por uma tríplice confissão de amor. O canto do galo marca também a hora: o fim da noite. O TR e o Texto Bizantino trazem o artigo (“o Pedro”), sem efeito."
+   }
+  ]
+ },
+ "Jhn.18.28": {
+  "t": "Levaram então Jesus da casa de Caifás para o pretório. Era de madrugada. Eles mesmos não entraram no pretório, para não se contaminarem, mas poderem comer a Páscoa.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "pretório",
+    "termo": "πραιτώριον (praitōrion)",
+    "titulo": "praitōrion",
+    "texto": "A residência oficial do governador romano em Jerusalém, onde ele julgava: provavelmente o antigo palácio de Herodes, na parte oeste da cidade, ou a fortaleza Antônia, junto ao templo. “Da casa de Caifás” traduz apo tou Kaiapha (lit. “de Caifás”). “De madrugada” traduz prōi, o último período da noite, antes do nascer do sol."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "para não se contaminarem",
+    "termo": "ἵνα μὴ μιανθῶσιν (hina mē mianthōsin)",
+    "titulo": "a ironia",
+    "texto": "Entrar na casa de um gentio podia tornar um judeu ritualmente impuro (cf. At 10:28; 11:3) e impedi-lo de comer a Páscoa. A ironia é forte: os acusadores cuidam da pureza ritual enquanto entregam um inocente à morte. Por isso Pilatos entra e sai várias vezes (vv. 29, 33, 38; 19:1, 4, 9, 13)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "poderem comer a Páscoa",
+    "termo": "φάγωσιν τὸ πάσχα (phagōsin to pascha)",
+    "titulo": "a cronologia da Paixão",
+    "texto": "Segundo João, na manhã do julgamento a ceia pascal ainda não tinha sido comida (cf. 13:1; 19:14, 31), e Jesus morre na tarde em que se imolavam os cordeiros. Nos outros Evangelhos, a última ceia é a ceia pascal (Mc 14:12-16). As principais explicações são: (1) João segue a cronologia histórica, e a última ceia foi uma refeição de despedida com traços pascais; (2) “comer a Páscoa” aqui significa participar das refeições da festa, que durava sete dias, e não só da ceia da primeira noite, de modo que João concorda com os outros; (3) grupos judeus diferentes seguiam calendários diferentes. Cada posição tem defensores sérios. Em todo caso, João mostra Jesus como o verdadeiro Cordeiro pascal (1:29; 19:36)."
+   }
+  ]
+ },
+ "Jhn.18.29": {
+  "t": "Então Pilatos saiu para falar com eles e perguntou: “Que acusação vocês trazem contra este homem?”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Pilatos",
+    "termo": "ὁ Πιλᾶτος (ho Pilatos)",
+    "titulo": "Pôncio Pilatos",
+    "texto": "Pôncio Pilatos foi o governador romano da Judeia de cerca de 26 a 36 d.C. Uma inscrição encontrada em Cesareia o chama “prefeito da Judeia”. Os escritores judeus Fílon e Flávio Josefo o descrevem como duro e sem respeito pelos costumes judaicos (cf. Lc 13:1). Residia em Cesareia e vinha a Jerusalém nas festas para manter a ordem. João o introduz sem apresentação, supondo que o leitor o conhece."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Que acusação",
+    "termo": "τίνα κατηγορίαν (tina katēgorian)",
+    "titulo": "katēgoria",
+    "texto": "Termo jurídico: a acusação formal apresentada ao juiz (1Tm 5:19; Tt 1:6). Pilatos abre o processo segundo a forma romana. O TR e o Texto Bizantino não trazem “para fora” (exō) e trazem eipen em vez de phēsin, sem efeito."
+   }
+  ]
+ },
+ "Jhn.18.30": {
+  "t": "Eles lhe responderam: “Se ele não fosse um malfeitor, não o teríamos entregado a você.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "um malfeitor",
+    "termo": "κακὸν ποιῶν (kakon poiōn)",
+    "titulo": "“fazendo o mal”",
+    "texto": "Lit. “se este não estivesse fazendo o mal”. O TR e o Texto Bizantino trazem kakopoios (“malfeitor”), com o mesmo sentido. A resposta é evasiva: não dizem qual é a acusação, e esperam que Pilatos confirme a sentença deles."
+   }
+  ]
+ },
+ "Jhn.18.31": {
+  "t": "Pilatos lhes disse: “Levem-no vocês mesmos e julguem-no segundo a lei de vocês.” Os judeus lhe disseram: “Não nos é permitido executar ninguém.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Não nos é permitido executar ninguém",
+    "termo": "ἡμῖν οὐκ ἔξεστιν ἀποκτεῖναι οὐδένα",
+    "titulo": "o direito de executar",
+    "texto": "Lit. “não nos é lícito matar ninguém”. A maioria dos historiadores entende que, sob o governo romano, o direito de aplicar a pena de morte era reservado ao governador. Há casos que parecem exceções (o apedrejamento de Estêvão, At 7:58; a advertência no templo contra a entrada de gentios), e o tema é debatido. Em João, a frase mostra que as autoridades queriam a morte de Jesus, e não apenas um castigo, e prepara o v. 32. Sobre “os judeus” em João, ver nota em 1:19."
+   }
+  ]
+ },
+ "Jhn.18.32": {
+  "t": "Isso aconteceu para que se cumprisse a palavra que Jesus tinha dito, indicando de que morte havia de morrer.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "de que morte havia de morrer",
+    "termo": "ποίῳ θανάτῳ ἤμελλεν ἀποθνῄσκειν",
+    "titulo": "levantado da terra",
+    "texto": "Retoma 12:32-33 (ver nota ali; cf. 3:14; 8:28). Se os judeus o executassem, a pena para blasfêmia seria o apedrejamento (Lv 24:16; cf. 8:59; 10:31); entregue aos romanos, Jesus morre crucificado, “levantado da terra”, como tinha anunciado. O narrador vê nisso o cumprimento da palavra de Jesus, não um acaso."
+   }
+  ]
+ },
+ "Jhn.18.33": {
+  "t": "Pilatos entrou de novo no pretório, chamou Jesus e lhe perguntou: “Você é o rei dos judeus?”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Você é o rei dos judeus?",
+    "termo": "Σὺ εἶ ὁ βασιλεὺς τῶν Ἰουδαίων;",
+    "titulo": "a pergunta dos quatro Evangelhos",
+    "texto": "A pergunta tem as mesmas palavras nos quatro Evangelhos (Mt 27:11; Mc 15:2; Lc 23:3). Para um governador romano, “rei dos judeus” era acusação política: alguém que se fizesse rei sem a nomeação de Roma era rebelde contra César (19:12, 15). O “Você” (sy), na frente, pode soar como espanto ou desprezo diante do prisioneiro amarrado."
+   }
+  ]
+ },
+ "Jhn.18.34": {
+  "t": "Jesus respondeu: “Você diz isso por sua conta, ou outros lhe falaram a meu respeito?”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "por sua conta",
+    "termo": "ἀπὸ σεαυτοῦ (apo seautou)",
+    "titulo": "a pergunta de volta",
+    "texto": "Lit. “de si mesmo”. Jesus pergunta em que sentido Pilatos usa “rei”: se no sentido romano, de um rebelde político, que Jesus não é, ou no sentido que lhe deram os acusadores, o do Messias, que Jesus é, mas não como pensam. O TR e o Texto Bizantino trazem aph’ heautou, com o mesmo sentido."
+   }
+  ]
+ },
+ "Jhn.18.35": {
+  "t": "Pilatos respondeu: “Por acaso eu sou judeu? A sua nação e os chefes dos sacerdotes o entregaram a mim. Que foi que você fez?”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Por acaso eu sou judeu?",
+    "termo": "μήτι ἐγὼ Ἰουδαῖός εἰμι; (mēti egō Ioudaios eimi?)",
+    "titulo": "desprezo",
+    "texto": "Mēti espera resposta negativa e dá tom de desdém: “Eu não sou judeu, sou?”. Pilatos se recusa a entrar em questões judaicas. A frase seguinte mostra a ironia do Evangelho: a nação do Messias o entrega ao estrangeiro (1:11)."
+   }
+  ]
+ },
+ "Jhn.18.36": {
+  "t": "Jesus respondeu: “O meu Reino não é deste mundo. Se o meu Reino fosse deste mundo, os meus servidores lutariam para que eu não fosse entregue aos judeus. Mas agora o meu Reino não é daqui.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "O meu Reino não é deste mundo",
+    "termo": "ἡ βασιλεία ἡ ἐμὴ οὐκ ἔστιν ἐκ τοῦ κόσμου τούτου",
+    "titulo": "ek: origem",
+    "texto": "Basileia pode ser “reino” ou “realeza”, o poder de reinar. A preposição ek indica origem, como em 15:19 e 17:14, 16: o Reino de Jesus não vem deste mundo nem funciona segundo os seus métodos, e por isso não se impõe pela força. Não quer dizer que o Reino seja só interior, ou que não tenha nada a ver com este mundo: ele vem de Deus para o mundo. “Daqui” (enteuthen), no fim, repete a ideia de origem."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "os meus servidores",
+    "termo": "οἱ ὑπηρέται οἱ ἐμοὶ (hoi hypēretai hoi emoi)",
+    "titulo": "hypēretēs",
+    "texto": "É a mesma palavra traduzida “guardas” nos vv. 3, 12, 18 e 22. As autoridades têm os seus guardas armados; Jesus diz que, se o seu Reino fosse como os deste mundo, também ele teria os seus, e eles lutariam. A palavra pode incluir os discípulos (Pedro tentou lutar, v. 10) ou, segundo alguns, as legiões de anjos (Mt 26:53)."
+   }
+  ]
+ },
+ "Jhn.18.37": {
+  "t": "Pilatos lhe disse então: “Então você é rei?” Jesus respondeu: “Você diz que eu sou rei. Eu para isto nasci e para isto vim ao mundo: para dar testemunho da verdade. Todo aquele que é da verdade ouve a minha voz.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Você diz que eu sou rei",
+    "termo": "σὺ λέγεις ὅτι βασιλεύς εἰμι (sy legeis hoti basileus eimi)",
+    "titulo": "afirmação com reserva",
+    "texto": "Lit. “tu dizes que sou rei”. A resposta é afirmativa, mas com reserva: “a palavra é sua”, ou “é você quem o diz”. Jesus não nega ser rei, mas não aceita o sentido que Pilatos dá à palavra, e explica logo a sua realeza pelo testemunho da verdade. O TR e o Texto Bizantino acrescentam egō no fim (basileus eimi egō), o que permite ler: “Você o diz, porque eu sou rei”. Oukoun (“então”), no início da pergunta de Pilatos, só aparece aqui no NT."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "para dar testemunho da verdade",
+    "termo": "ἵνα μαρτυρήσω τῇ ἀληθείᾳ",
+    "titulo": "o rei testemunha",
+    "texto": "Jesus resume a sua missão em termos de testemunho e de verdade, temas centrais do Evangelho (1:7, 14, 17; 3:11, 32; 8:14; 14:6). “Nasci” e “vim ao mundo” podem aludir, juntos, à encarnação de quem já existia (1:9; 16:28). “Ouve a minha voz” retoma a imagem do pastor cujas ovelhas ouvem a sua voz (10:3-4, 16, 27): os súditos deste rei são os que ouvem."
+   }
+  ]
+ },
+ "Jhn.18.38": {
+  "t": "Pilatos lhe perguntou: “Que é a verdade?” E, tendo dito isso, saiu de novo para ir ter com os judeus e lhes disse: “Eu não acho nele nenhum motivo de condenação.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Que é a verdade?",
+    "termo": "Τί ἐστιν ἀλήθεια; (Ti estin alētheia?)",
+    "titulo": "a pergunta de Pilatos",
+    "texto": "A pergunta é célebre e o seu tom é discutido: ceticismo cansado, ironia, desprezo pelo que lhe parecia especulação de filósofos, ou impaciência de político. Pilatos não espera resposta, e sai. A ironia joanina está em que a Verdade em pessoa está diante dele (14:6). “Verdade” não tem artigo em grego; o português pede o artigo."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "nenhum motivo de condenação",
+    "termo": "οὐδεμίαν ... αἰτίαν (oudemian ... aitian)",
+    "titulo": "aitia",
+    "texto": "Aitia é aqui o fundamento jurídico de uma acusação, a culpa que justificaria a condenação. Pilatos declara Jesus inocente três vezes (aqui, 19:4 e 19:6)."
+   }
+  ]
+ },
+ "Jhn.18.39": {
+  "t": "Mas é costume entre vocês que eu lhes solte alguém na Páscoa. Querem, então, que eu lhes solte o rei dos judeus?”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "é costume entre vocês",
+    "termo": "ἔστιν δὲ συνήθεια ὑμῖν (estin de synētheia hymin)",
+    "titulo": "a anistia da Páscoa",
+    "texto": "Synētheia (“costume”) é rara no NT (1Co 8:7; 11:16). O costume de soltar um preso na Páscoa é mencionado nos quatro Evangelhos (Mt 27:15; Mc 15:6), mas não aparece em fontes fora deles; alguns historiadores duvidam dele, outros lembram que governadores romanos às vezes concediam anistias e que a Páscoa celebrava a libertação do Egito. Ao chamar Jesus “o rei dos judeus”, Pilatos provoca os acusadores."
+   }
+  ]
+ },
+ "Jhn.18.40": {
+  "t": "Então eles gritaram de novo: “Esse não, mas Barrabás!” Ora, Barrabás era um assaltante.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "assaltante",
+    "termo": "λῃστής (lēstēs)",
+    "titulo": "lēstēs",
+    "texto": "A mesma palavra de 10:1, 8 (“assaltante”; ver nota ali). Lēstēs é o que rouba com violência, e designava também os rebeldes armados contra Roma; Marcos e Lucas dizem que Barrabás estava preso por uma revolta com homicídio (Mc 15:7; Lc 23:19). A frase curta do narrador faz o contraste: escolhem o violento contra aquele cujo Reino não luta (v. 36)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Barrabás",
+    "termo": "Βαραββᾶν (Barabban)",
+    "titulo": "o nome",
+    "texto": "Barrabás é aramaico e significa “filho do pai” (bar abba). Muitos leitores notam a ironia: o povo prefere um “filho do pai” rebelde ao Filho do Pai."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "gritaram de novo",
+    "termo": "ἐκραύγασαν οὖν πάλιν (ekraugasan oun palin)",
+    "titulo": "“de novo” e “todos”",
+    "texto": "Em João, ainda não se tinha dito que eles gritaram; “de novo” supõe gritos anteriores não narrados, ou se refere às respostas anteriores. Tregelles, o TR e o Texto Bizantino trazem também pantes (“gritaram todos de novo”); o texto-base segue Westcott-Hort e o NA28."
+   }
+  ]
+ },
+ "Jhn.19.1": {
+  "t": "Então Pilatos tomou Jesus e mandou açoitá-lo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "mandou açoitá-lo",
+    "termo": "ἐμαστίγωσεν (emastigōsen)",
+    "titulo": "“açoitou”",
+    "texto": "Lit. “e açoitou”: Pilatos não o fez com as próprias mãos, mas mandou fazer, como é comum nesse tipo de frase. O açoite romano era feito com chicotes de tiras de couro, às vezes com pedaços de osso ou de metal, e podia matar. Em Marcos e Mateus, o açoite vem depois da sentença, como preparação para a cruz (Mc 15:15); em João ele acontece no meio do processo, talvez como castigo menor com o qual Pilatos esperava satisfazer os acusadores e soltar Jesus (cf. Lc 23:16, 22; Jo 19:4-6)."
+   }
+  ]
+ },
+ "Jhn.19.2": {
+  "t": "Os soldados teceram uma coroa de espinhos, puseram-na na cabeça dele e o vestiram com um manto de púrpura.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "uma coroa de espinhos",
+    "termo": "στέφανον ἐξ ἀκανθῶν (stephanon ex akanthōn)",
+    "titulo": "o rei em zombaria",
+    "texto": "A coroa, o manto e a saudação (v. 3) são uma paródia de coroação: os soldados zombam do “rei dos judeus” como de um rei fracassado. A púrpura era a cor dos reis e dos imperadores; provavelmente era a capa vermelha de um soldado, que Mateus chama “escarlate” (Mt 27:28). Para o leitor do Evangelho, a zombaria diz sem saber a verdade: este homem é rei (18:37). Plekō (“tecer, trançar”) só aparece aqui e nas passagens paralelas (Mt 27:29; Mc 15:17)."
+   }
+  ]
+ },
+ "Jhn.19.3": {
+  "t": "Iam até ele e diziam: “Salve, rei dos judeus!” E lhe davam bofetadas.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Salve, rei dos judeus!",
+    "termo": "χαῖρε, ὁ βασιλεὺς τῶν Ἰουδαίων",
+    "titulo": "chaire",
+    "texto": "Chaire (lit. “alegra-te”) era a saudação comum, e aqui imita a saudação ao imperador (“Ave, César!”). Os imperfeitos (“iam”, “diziam”, “davam”) descrevem a cena repetida, um após o outro. O TR e o Texto Bizantino não trazem “iam até ele e”, sem mudar o sentido. Sobre rhapisma (“bofetada”), ver nota em 18:22."
+   }
+  ]
+ },
+ "Jhn.19.4": {
+  "t": "Pilatos saiu outra vez e lhes disse: “Vejam, eu o trago para fora, até vocês, para que saibam que não acho nele nenhum motivo de condenação.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "não acho nele nenhum motivo de condenação",
+    "termo": "οὐδεμίαν αἰτίαν εὑρίσκω ἐν αὐτῷ",
+    "titulo": "a segunda declaração",
+    "texto": "Segunda das três declarações de inocência (18:38; 19:6). O juiz romano reconhece a inocência do acusado e, ainda assim, o entrega. O TR e o Texto Bizantino trazem “saiu, pois” e mudam a ordem das últimas palavras, sem efeito."
+   }
+  ]
+ },
+ "Jhn.19.5": {
+  "t": "Jesus saiu, então, usando a coroa de espinhos e o manto de púrpura. E Pilatos lhes disse: “Eis o homem!”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "E Pilatos lhes disse",
+    "termo": "καὶ λέγει αὐτοῖς (kai legei autois)",
+    "titulo": "o sujeito",
+    "texto": "Lit. “e lhes diz”, sem sujeito expresso. Pelo contexto, quem fala é Pilatos (cf. v. 14); a tradução o explicita. O presente histórico (“diz”) foi passado para o pretérito, como em toda a narrativa."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Eis o homem!",
+    "termo": "Ἰδοὺ ὁ ἄνθρωπος (Idou ho anthrōpos)",
+    "titulo": "Ecce homo",
+    "texto": "Em latim, Ecce homo. Pilatos talvez queira despertar pena (“vejam este pobre homem”) ou mostrar que o prisioneiro é inofensivo e ridículo. No Evangelho, as palavras dizem mais do que ele sabe: Jesus é “o homem”, a Palavra feita carne (1:14), o Filho do Homem que é glorificado na humilhação (12:23). Alguns intérpretes lembram 1Sm 9:17, onde, na Septuaginta, Deus apresenta Saul, o rei escolhido, com as mesmas palavras. O TR e o Texto Bizantino trazem Ide em vez de Idou, sem efeito."
+   }
+  ]
+ },
+ "Jhn.19.6": {
+  "t": "Quando os chefes dos sacerdotes e os guardas o viram, gritaram: “Crucifique! Crucifique!” Pilatos lhes disse: “Levem-no vocês mesmos e crucifiquem-no, pois eu não acho nele motivo de condenação.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Crucifique! Crucifique!",
+    "termo": "Σταύρωσον σταύρωσον (Staurōson staurōson)",
+    "titulo": "o imperativo",
+    "texto": "Imperativo singular dirigido a Pilatos. A tradição em português diz “Crucifica-o!”; a APV usa o tratamento “você”, que vale entre as pessoas nas narrativas. O Texto Bizantino acrescenta auton (“crucifique-o”)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Levem-no vocês mesmos e crucifiquem-no",
+    "termo": "Λάβετε αὐτὸν ὑμεῖς καὶ σταυρώσατε",
+    "titulo": "uma provocação",
+    "texto": "Não é uma autorização real: Pilatos sabe que eles não podem executar ninguém (18:31), e muito menos crucificar, que era castigo romano. A frase é uma recusa irritada, ou uma provocação, e é acompanhada da terceira declaração de inocência (18:38; 19:4)."
+   }
+  ]
+ },
+ "Jhn.19.7": {
+  "t": "Os judeus lhe responderam: “Nós temos uma lei, e, segundo essa lei, ele deve morrer, porque se fez Filho de Deus.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "porque se fez Filho de Deus",
+    "termo": "ὅτι υἱὸν θεοῦ ἑαυτὸν ἐποίησεν",
+    "titulo": "a verdadeira acusação",
+    "texto": "Até aqui a acusação era política (“rei dos judeus”); agora aparece o motivo religioso, que o Evangelho já mostrou (5:18; 10:33, 36). A lei invocada é provavelmente Lv 24:16, contra quem blasfema o nome do Senhor. Para os acusadores, a pretensão de Jesus era blasfêmia; para o Evangelho, é a verdade (20:31). O TR e o Texto Bizantino trazem “segundo a nossa lei”."
+   }
+  ]
+ },
+ "Jhn.19.8": {
+  "t": "Quando Pilatos ouviu essas palavras, ficou ainda mais amedrontado.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "ficou ainda mais amedrontado",
+    "termo": "μᾶλλον ἐφοβήθη (mallon ephobēthē)",
+    "titulo": "mallon",
+    "texto": "Lit. “temeu mais”. João não disse antes que Pilatos tinha medo, e por isso alguns entendem mallon como intensivo: “ficou muito amedrontado”. Mas o comportamento hesitante de Pilatos já mostrava inquietação. Para um romano, a ideia de um “filho de deus” podia evocar homens divinos das lendas pagãs, e o receio de ofender os deuses (cf. Mt 27:19)."
+   }
+  ]
+ },
+ "Jhn.19.9": {
+  "t": "Entrou de novo no pretório e perguntou a Jesus: “De onde você é?” Mas Jesus não lhe deu resposta.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "De onde você é?",
+    "termo": "Πόθεν εἶ σύ; (Pothen ei sy?)",
+    "titulo": "a pergunta pela origem",
+    "texto": "A origem de Jesus é uma das perguntas centrais de João (7:27-28; 8:14; 9:29-30). Pilatos não pergunta só pela terra natal (Lc 23:6-7), mas, depois do v. 7, pela origem verdadeira. Jesus não responde: já tinha dito que veio “ao mundo” para testemunhar da verdade (18:37), e Pilatos não quis ouvir. O silêncio lembra o do servo sofredor (Is 53:7; Mc 14:61; 15:5)."
+   }
+  ]
+ },
+ "Jhn.19.10": {
+  "t": "Pilatos lhe disse então: “Você não fala comigo? Não sabe que eu tenho autoridade para soltá-lo e autoridade para crucificá-lo?”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "autoridade",
+    "termo": "ἐξουσίαν (exousian)",
+    "titulo": "exousia",
+    "texto": "Exousia é o poder legítimo, a autoridade de decidir. Pilatos fala como quem tem a vida do prisioneiro nas mãos; o “comigo” (emoi), em posição de ênfase, mostra a irritação de quem não está acostumado a ficar sem resposta. O Texto Bizantino inverte a ordem (“crucificar ... soltar”), sem efeito."
+   }
+  ]
+ },
+ "Jhn.19.11": {
+  "t": "Jesus respondeu: “Você não teria nenhuma autoridade sobre mim, se ela não lhe tivesse sido dada do alto. Por isso, aquele que me entregou a você tem maior pecado.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "se ela não lhe tivesse sido dada do alto",
+    "termo": "εἰ μὴ ἦν δεδομένον σοι ἄνωθεν",
+    "titulo": "“do alto”",
+    "texto": "Anōthen é a mesma palavra de 3:3, 31 (“do alto”): de Deus. A autoridade de Pilatos não vem só de César, mas de Deus, que a permite (cf. Rm 13:1). O particípio “dada” (dedomenon) está no neutro, e não concorda com “autoridade” (feminino); por isso alguns entendem “se isso não lhe tivesse sido dado”, isto é, toda a situação, o poder sobre Jesus nesta hora. O sentido final é o mesmo: nem Pilatos nem ninguém age fora do plano de Deus (10:18)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "aquele que me entregou a você tem maior pecado",
+    "termo": "ὁ παραδούς μέ σοι μείζονα ἁμαρτίαν ἔχει",
+    "titulo": "quem é?",
+    "texto": "O mais provável é Caifás, que como sumo sacerdote entregou Jesus a Pilatos (18:28-30, 35), representando as autoridades judaicas; outros pensam em Judas, que é chamado várias vezes “o que o entregou” (18:2, 5). Pilatos não é inocente, mas a culpa de quem entregou é maior porque agiu com mais conhecimento da revelação (cf. 9:41; 15:22). Tregelles, o TR e o Texto Bizantino trazem o presente paradidous (“o que me entrega”)."
+   }
+  ]
+ },
+ "Jhn.19.12": {
+  "t": "Desde então, Pilatos procurava soltá-lo; mas os judeus gritaram: “Se você soltar este homem, não é amigo de César! Todo aquele que se faz rei se opõe a César.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Desde então",
+    "termo": "ἐκ τούτου (ek toutou)",
+    "titulo": "tempo ou causa",
+    "texto": "Ek toutou pode ser temporal (“desde então”) ou causal (“por isso”); talvez as duas coisas. Pilatos já procurava soltar Jesus; a resposta do v. 11 reforça essa decisão. “Gritaram” traduz o aoristo ekraugasan; o TR e o Texto Bizantino trazem o imperfeito ekrazon (“gritavam”)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "não é amigo de César",
+    "termo": "οὐκ εἶ φίλος τοῦ Καίσαρος",
+    "titulo": "amigo de César",
+    "texto": "“Amigo de César” (amicus Caesaris) era também um título honorífico dado a pessoas leais ao imperador; não se sabe com certeza se Pilatos o tinha. Em todo caso, a ameaça é clara: se Pilatos soltar um homem acusado de se fazer rei, poderá ser denunciado em Roma como desleal a Tibério. É o argumento que o faz ceder."
+   }
+  ]
+ },
+ "Jhn.19.13": {
+  "t": "Ao ouvir essas palavras, Pilatos levou Jesus para fora e sentou-se no tribunal, no lugar chamado Pavimento de Pedra, em hebraico Gabatá.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "sentou-se no tribunal",
+    "termo": "ἐκάθισεν ἐπὶ βήματος (ekathisen epi bēmatos)",
+    "titulo": "quem se senta?",
+    "texto": "Bēma é a plataforma onde o juiz se sentava para dar a sentença (Mt 27:19; At 18:12). O verbo kathizō pode ser intransitivo (“sentou-se”) ou transitivo (“fez sentar”). A maioria entende que Pilatos se sentou para julgar. Alguns propõem que Pilatos fez Jesus sentar-se no tribunal, como mais uma zombaria (“Eis o seu rei!”, v. 14); essa leitura aparece em escritos cristãos do século II (Justino Mártir e o Evangelho de Pedro). A ironia joanina seria então completa: o verdadeiro Juiz (5:22, 27) sentado no tribunal de quem o julga. A gramática permite as duas; o contexto favorece levemente a primeira.",
+    "revisar": true
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Pavimento de Pedra, em hebraico Gabatá",
+    "termo": "Λιθόστρωτον, Ἑβραϊστὶ δὲ Γαββαθα",
+    "titulo": "Lithostrōtos e Gabbatha",
+    "texto": "Lithostrōtos é “calçado de pedras”, um pátio pavimentado. Gabbatha é aramaico (João chama “hebraico” a língua falada pelos judeus, como em 5:2) e não é tradução de Lithostrōtos: parece significar “elevação”, “lugar alto”. O local exato é desconhecido."
+   }
+  ]
+ },
+ "Jhn.19.14": {
+  "t": "Era o dia da preparação da Páscoa, por volta da hora sexta. Pilatos disse aos judeus: “Eis o seu rei!”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "o dia da preparação da Páscoa",
+    "termo": "παρασκευὴ τοῦ πάσχα (paraskeuē tou pascha)",
+    "titulo": "que dia?",
+    "texto": "Paraskeuē (“preparação”) era o nome da sexta-feira, dia de preparar o sábado (Mc 15:42), e é o sentido de “dia da preparação” nos vv. 31 e 42. “Preparação da Páscoa” pode ser a véspera da Páscoa, quando se imolavam os cordeiros, o que combina com 18:28; ou “a sexta-feira da semana da Páscoa”. Ver a nota sobre a cronologia em 18:28."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "por volta da hora sexta",
+    "termo": "ὥρα ἦν ὡς ἕκτη (hōra ēn hōs hektē)",
+    "titulo": "meio-dia",
+    "texto": "Contando do nascer do sol, é por volta do meio-dia (ver nota em 4:6), hora em que, no templo, começava a preparação dos cordeiros pascais. Mc 15:25 diz que Jesus foi crucificado na “hora terceira” (cerca de nove da manhã). Foram propostas várias explicações: as horas eram contadas de modo aproximado, por blocos de três horas, e um evento no meio da manhã podia ser associado tanto à terceira como à sexta; João teria dado ao horário um sentido teológico (a hora dos cordeiros); ou um dos números teria sido alterado na cópia. A explicação de que João contaria as horas a partir da meia-noite, à romana, tem pouco apoio."
+   }
+  ]
+ },
+ "Jhn.19.15": {
+  "t": "Eles, porém, gritaram: “Fora! Fora! Crucifique-o!” Pilatos lhes disse: “Vou crucificar o rei de vocês?” Os chefes dos sacerdotes responderam: “Não temos rei, senão César.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Fora! Fora!",
+    "termo": "Ἆρον ἆρον (Aron aron)",
+    "titulo": "“tira, tira”",
+    "texto": "Lit. “tira! tira!”, isto é, “leva-o daqui”, “acaba com ele” (cf. Lc 23:18; At 21:36; 22:22). É o mesmo verbo airō de 1:29, onde Jesus é o Cordeiro que “tira” o pecado do mundo."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Não temos rei, senão César",
+    "termo": "Οὐκ ἔχομεν βασιλέα εἰ μὴ Καίσαρα",
+    "titulo": "uma confissão terrível",
+    "texto": "Na fé de Israel, o rei do povo é o próprio Deus (Jz 8:23; 1Sm 8:7; Is 33:22), e o povo esperava o Rei messiânico, filho de Davi. Os chefes dos sacerdotes, para conseguir a morte de Jesus, declaram não ter outro rei senão o imperador pagão. João registra a frase sem comentário, como o ponto mais baixo do julgamento. São os chefes, e não o povo inteiro, que a pronunciam."
+   }
+  ]
+ },
+ "Jhn.19.16": {
+  "t": "Então Pilatos o entregou a eles para ser crucificado. Eles tomaram Jesus;",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "o entregou a eles",
+    "termo": "παρέδωκεν αὐτὸν αὐτοῖς (paredōken auton autois)",
+    "titulo": "a quem?",
+    "texto": "Gramaticalmente, “a eles” são os chefes dos sacerdotes do v. 15. Mas quem executa a crucificação são os soldados romanos (vv. 23, 32). João mostra que Pilatos entregou Jesus à vontade dos acusadores (cf. Lc 23:25), embora a execução fosse romana. O TR e o Texto Bizantino trazem “e o levaram embora” no fim, sem efeito."
+   }
+  ]
+ },
+ "Jhn.19.17": {
+  "t": "e ele, carregando a sua própria cruz, saiu para o chamado Lugar da Caveira, que em hebraico se chama Gólgota.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "carregando a sua própria cruz",
+    "termo": "βαστάζων αὑτῷ τὸν σταυρὸν (bastazōn hautō ton stauron)",
+    "titulo": "a cruz e Simão de Cirene",
+    "texto": "O condenado costumava carregar a trave horizontal da cruz até o lugar da execução. Os outros Evangelhos dizem que Simão de Cirene foi obrigado a carregá-la (Mc 15:21); João não menciona Simão e enfatiza que Jesus a carregou “por si mesmo” (hautō). As duas coisas podem ser verdadeiras: Jesus começou a carregá-la, e Simão continuou. Desde a igreja antiga, alguns lembraram Isaque, que carregou a lenha do próprio sacrifício (Gn 22:6). Westcott-Hort e Tregelles trazem a forma hautō; o NA28, heautō; o TR e o Texto Bizantino, “a sua cruz”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Lugar da Caveira",
+    "termo": "Κρανίου Τόπον (Kraniou Topon)",
+    "titulo": "Gólgota",
+    "texto": "Gólgota vem do aramaico gulgultā, “caveira”, talvez pela forma do lugar. A tradução latina, Calvariae locus, deu origem a “Calvário”. O lugar ficava fora da cidade, mas perto dela (v. 20; Hb 13:12). A tradição o localiza onde hoje está a Igreja do Santo Sepulcro."
+   }
+  ]
+ },
+ "Jhn.19.18": {
+  "t": "Ali o crucificaram, e com ele outros dois, um de cada lado, e Jesus no meio.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "e Jesus no meio",
+    "termo": "μέσον δὲ τὸν Ἰησοῦν",
+    "titulo": "contado com os transgressores",
+    "texto": "Lit. “daqui e dali, e no meio Jesus”. Os outros Evangelhos chamam os dois de “assaltantes” (lēstai, Mc 15:27) ou “malfeitores” (Lc 23:32-33). A cena lembra Is 53:12: “foi contado com os transgressores” (citado em Lc 22:37). João não descreve os sofrimentos da crucificação; a palavra “crucificar” bastava para o leitor antigo."
+   }
+  ]
+ },
+ "Jhn.19.19": {
+  "t": "Pilatos também mandou escrever um letreiro e colocá-lo na cruz. Nele estava escrito: “Jesus, o Nazareno, o rei dos judeus.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "um letreiro",
+    "termo": "τίτλον (titlon)",
+    "titulo": "titlos",
+    "texto": "Do latim titulus: a tabuleta com o motivo da condenação, levada à frente do condenado ou fixada na cruz. Só aparece aqui e no v. 20. A forma latina abreviada, INRI (Iesus Nazarenus Rex Iudaeorum), segue o texto de João. “Mandou escrever” traduz egrapsen (“escreveu”), como no v. 1."
+   }
+  ]
+ },
+ "Jhn.19.20": {
+  "t": "Muitos dos judeus leram esse letreiro, porque o lugar onde Jesus foi crucificado ficava perto da cidade; e estava escrito em hebraico, em latim e em grego.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "em hebraico, em latim e em grego",
+    "termo": "Ἑβραϊστί, Ῥωμαϊστί, Ἑλληνιστί",
+    "titulo": "três línguas",
+    "texto": "As três línguas da região: o aramaico do povo (chamado “hebraico”), o latim do poder romano e o grego, língua comum do comércio e da cultura. Sem querer, Pilatos proclama a realeza de Jesus a todo o mundo (cf. 12:32). O TR e o Texto Bizantino põem o grego antes do latim, sem efeito."
+   }
+  ]
+ },
+ "Jhn.19.21": {
+  "t": "Os chefes dos sacerdotes dos judeus diziam então a Pilatos: “Não escreva ‘O rei dos judeus’, mas sim que ele disse: ‘Eu sou o rei dos judeus’.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Os chefes dos sacerdotes dos judeus",
+    "termo": "οἱ ἀρχιερεῖς τῶν Ἰουδαίων",
+    "titulo": "uma expressão única",
+    "texto": "A expressão só aparece aqui. Talvez contraste com “o rei dos judeus”: os chefes dos judeus recusam o rei dos judeus. O imperfeito (“diziam”) sugere insistência. O NA28 e o Texto Bizantino trazem eimi antes de “dos judeus”, sem efeito."
+   }
+  ]
+ },
+ "Jhn.19.22": {
+  "t": "Pilatos respondeu: “O que escrevi, escrevi.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "O que escrevi, escrevi",
+    "termo": "Ὃ γέγραφα, γέγραφα (Ho gegrapha, gegrapha)",
+    "titulo": "perfeitos",
+    "texto": "Os dois perfeitos indicam algo feito e que permanece: o que está escrito fica. Pilatos talvez só queira mostrar firmeza depois de ter cedido; mas, para o evangelista, o que ficou escrito é a verdade sobre Jesus, como a “Escritura” que se cumpre nos versículos seguintes (vv. 24, 28, 36-37)."
+   }
+  ]
+ },
+ "Jhn.19.23": {
+  "t": "Os soldados, depois de crucificarem Jesus, pegaram as roupas dele e fizeram quatro partes, uma para cada soldado; e pegaram também a túnica. A túnica não tinha costura, sendo tecida de alto a baixo numa só peça.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "A túnica não tinha costura",
+    "termo": "ἦν δὲ ὁ χιτὼν ἄραφος (ēn de ho chitōn araphos)",
+    "titulo": "dois hápax",
+    "texto": "Araphos (“sem costura”) e hyphantos (“tecido”) só aparecem aqui. Ta himatia (“as roupas”) são as peças de cima (manto, cinto, sandálias); o chitōn é a túnica de baixo, usada junto ao corpo. As roupas do condenado ficavam para os executores. “De alto a baixo” traduz ek tōn anōthen, com a mesma palavra anōthen (“do alto”) de 3:3, 31 e 19:11."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "tecida de alto a baixo numa só peça",
+    "termo": "ἐκ τῶν ἄνωθεν ὑφαντὸς δι᾽ ὅλου",
+    "titulo": "um sentido simbólico?",
+    "texto": "João dá atenção especial à túnica, o que levou a leituras simbólicas. (1) Flávio Josefo descreve a veste longa do sumo sacerdote como tecida inteira, sem ser composta de duas partes; daí a ideia de Jesus como sumo sacerdote (cf. 17:19). (2) Desde Cipriano (século III), a túnica não rasgada foi vista como imagem da unidade da igreja (cf. 17:21). O texto mesmo destaca sobretudo o cumprimento do Salmo (v. 24)."
+   }
+  ]
+ },
+ "Jhn.19.24": {
+  "t": "Por isso disseram uns aos outros: “Não vamos rasgá-la; vamos tirar a sorte para ver de quem será.” Isso aconteceu para que se cumprisse a Escritura que diz: “Repartiram entre si as minhas roupas, e sobre a minha veste lançaram sorte.” Foi isso o que os soldados fizeram.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Repartiram entre si as minhas roupas",
+    "termo": "Διεμερίσαντο τὰ ἱμάτιά μου ἑαυτοῖς",
+    "titulo": "Salmo 22:18",
+    "texto": "Citação exata do Sl 22:18 (21:19 na Septuaginta). No Salmo, as duas linhas são um paralelismo poético que descreve um só ato; João vê o cumprimento em dois atos distintos: a divisão das roupas e o sorteio da túnica. O Sl 22 é o salmo do justo sofredor, que começa com “Meu Deus, meu Deus, por que me abandonaste?” (Mc 15:34). “Isso aconteceu” foi acrescentado para completar a frase com hina (ver nota em 15:25). Westcott-Hort não traz hē legousa (“que diz”), sem efeito."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Foi isso o que os soldados fizeram",
+    "termo": "Οἱ μὲν οὖν στρατιῶται ταῦτα ἐποίησαν",
+    "titulo": "men ... de",
+    "texto": "A partícula men prepara o contraste com o v. 25 (de): de um lado, os soldados fizeram isso; de outro, junto à cruz estavam as mulheres. Os executores e os fiéis aparecem lado a lado."
+   }
+  ]
+ },
+ "Jhn.19.25": {
+  "t": "Junto à cruz de Jesus estavam a mãe dele, a irmã de sua mãe, Maria de Clopas e Maria Madalena.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "a irmã de sua mãe, Maria de Clopas",
+    "termo": "ἡ ἀδελφὴ τῆς μητρὸς αὐτοῦ, Μαρία ἡ τοῦ Κλωπᾶ",
+    "titulo": "três ou quatro mulheres?",
+    "texto": "A frase pode ser lida como três mulheres (a mãe; a irmã da mãe, que seria Maria de Clopas; e Maria Madalena) ou como quatro (a mãe e a sua irmã, sem nome; Maria de Clopas e Maria Madalena), em dois pares. É pouco provável que duas irmãs tivessem o mesmo nome, Maria, e por isso muitos preferem quatro. Comparando com Mc 15:40 e Mt 27:56, alguns identificam a irmã de Maria com Salomé, a mãe dos filhos de Zebedeu; nesse caso João, filho de Zebedeu, seria primo de Jesus. “Maria de Clopas” (lit. “Maria, a de Clopas”) pode ser esposa, filha ou mãe de Clopas; a APV deixa a relação aberta. Segundo Hegesipo, citado por Eusébio, Clopas era irmão de José."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Maria Madalena",
+    "termo": "Μαρία ἡ Μαγδαληνή (Maria hē Magdalēnē)",
+    "titulo": "Madalena",
+    "texto": "Primeira menção em João. “Madalena” indica a sua origem: Magdala, na margem ocidental do mar da Galileia. Segundo Lc 8:2, Jesus a libertou de sete demônios, e ela o seguia e o sustentava. Nada no NT a identifica com a mulher pecadora de Lc 7:36-50. Será a primeira testemunha da ressurreição (20:1-18)."
+   }
+  ]
+ },
+ "Jhn.19.26": {
+  "t": "Jesus, vendo a mãe e, junto dela, o discípulo a quem amava, disse à mãe: “Mulher, eis aí o seu filho.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Mulher",
+    "termo": "γύναι (gynai)",
+    "titulo": "o tratamento",
+    "texto": "Ver nota em 2:4. É a segunda e última vez que a mãe de Jesus aparece em João, e nas duas Jesus a chama “mulher”. Em Caná, a “hora” ainda não tinha chegado; agora chegou."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "eis aí o seu filho",
+    "termo": "ἴδε ὁ υἱός σου (ide ho huios sou)",
+    "titulo": "o sentido da cena",
+    "texto": "No nível mais simples, Jesus cumpre o dever de filho, confiando a mãe, provavelmente viúva, ao discípulo amado (cf. o mandamento de honrar pai e mãe, Êx 20:12). Muitos intérpretes veem também um sentido mais amplo: nasce ao pé da cruz uma nova família, a dos discípulos, unida por Jesus (cf. 20:17, “meus irmãos”). Na tradição católica, a cena é lida também como entrega de Maria como mãe dos discípulos e figura da igreja; leitores protestantes costumam ficar no sentido familiar e na nova comunidade. O texto não detalha mais. O TR e o Texto Bizantino trazem “à sua mãe” e idou em vez de ide."
+   }
+  ]
+ },
+ "Jhn.19.27": {
+  "t": "Depois disse ao discípulo: “Eis aí a sua mãe.” E, a partir daquela hora, o discípulo a recebeu em sua casa.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "em sua casa",
+    "termo": "εἰς τὰ ἴδια (eis ta idia)",
+    "titulo": "“para as coisas próprias”",
+    "texto": "Lit. “para as coisas próprias”: para a sua casa, ou para o que era seu, isto é, como da família (cf. 1:11; 16:32). “Daquela hora” pode significar “a partir daquele momento” e ecoar a “hora” de Jesus."
+   }
+  ]
+ },
+ "Jhn.19.28": {
+  "t": "Depois disso, Jesus, sabendo que tudo já estava consumado, para que se cumprisse plenamente a Escritura, disse: “Tenho sede.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "para que se cumprisse plenamente a Escritura",
+    "termo": "ἵνα τελειωθῇ ἡ γραφή (hina teleiōthē hē graphē)",
+    "titulo": "a que se liga?",
+    "texto": "A frase com hina pode ligar-se ao que vem antes (“tudo estava consumado, para que a Escritura se cumprisse”) ou, como a maioria entende, ao que vem depois (“para que a Escritura se cumprisse, disse: Tenho sede”). João usa aqui teleioō (“completar, levar ao fim”), e não o habitual plēroō: é o último cumprimento, que leva a Escritura à sua plenitude. Por isso “plenamente”. “Consumado” traduz tetelestai, a mesma palavra do v. 30."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Tenho sede",
+    "termo": "Διψῶ (Dipsō)",
+    "titulo": "Salmos 69 e 22",
+    "texto": "A Escritura em vista é provavelmente o Sl 69:21: “na minha sede me deram vinagre para beber” (cf. 15:25; 2:17, também do Sl 69), e talvez o Sl 22:15 (“a minha língua se apega ao céu da boca”). A sede é real: a Palavra feita carne sofre como homem (4:6-7). Há também ironia: quem dá a água viva (4:14; 7:37-38) tem sede. O Texto Bizantino traz idōn (“vendo”) em vez de eidōs (“sabendo”)."
+   }
+  ]
+ },
+ "Jhn.19.29": {
+  "t": "Havia ali um vaso cheio de vinagre. Então puseram numa vara de hissopo uma esponja embebida no vinagre e a levaram à boca de Jesus.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "vinagre",
+    "termo": "ὄξους (oxous)",
+    "titulo": "oxos",
+    "texto": "Oxos é o vinho azedo, misturado com água, bebida barata e comum dos soldados e trabalhadores; não é o vinagre de tempero. A APV mantém “vinagre”, palavra tradicional que guarda a ligação com o Sl 69:21 nas Bíblias em português. Aqui não parece ser zombaria, mas alívio."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "hissopo",
+    "termo": "ὑσσώπῳ (hyssōpō)",
+    "titulo": "a planta da Páscoa",
+    "texto": "O hissopo é uma planta pequena, de ramos finos, usada para aspergir o sangue do cordeiro pascal nas portas (Êx 12:22) e nas purificações (Lv 14:4-7; Sl 51:7; Hb 9:19). Por ser frágil, alguns estranham que sustentasse uma esponja, e uma conjectura antiga propôs ler hyssō (“lança”) em vez de hyssōpō; mas essa leitura não tem apoio nas edições críticas. Um ramo de hissopo poderia bastar, já que a cruz não era muito alta. Para João, a menção lembra a Páscoa: Jesus morre como o cordeiro pascal (1:29; 19:36). O TR e o Texto Bizantino trazem “eles, enchendo uma esponja de vinagre e pondo-a num hissopo”, com o mesmo sentido."
+   }
+  ]
+ },
+ "Jhn.19.30": {
+  "t": "Quando Jesus tomou o vinagre, disse: “Está consumado.” E, inclinando a cabeça, entregou o espírito.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Está consumado",
+    "termo": "Τετέλεσται (Tetelestai)",
+    "titulo": "teleō",
+    "texto": "Uma só palavra em grego: o perfeito passivo de teleō, “completar, levar a termo, cumprir”. Indica algo concluído cujo resultado permanece. Não é grito de derrota, mas de vitória e de obediência: a obra que o Pai deu ao Filho está terminada (4:34; 17:4), o amor “até o fim” (13:1, eis telos) chegou ao seu termo, e a Escritura se cumpriu (v. 28)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "entregou o espírito",
+    "termo": "παρέδωκεν τὸ πνεῦμα (paredōken to pneuma)",
+    "titulo": "a morte de Jesus",
+    "texto": "Expressão para a morte, que destaca o caráter voluntário: Jesus “entrega” a vida, ninguém a tira dele (10:17-18); cf. Lc 23:46. “Inclinando a cabeça” mostra a mesma calma soberana. Alguns intérpretes veem um duplo sentido: na morte, Jesus “entrega o Espírito” prometido (7:39), antecipando 20:22; mas a maioria entende a frase, em primeiro lugar, como referência à morte, e “espírito” aqui com minúscula, o espírito humano de Jesus."
+   }
+  ]
+ },
+ "Jhn.19.31": {
+  "t": "Era o dia da preparação. Para que os corpos não ficassem na cruz durante o sábado, pois aquele sábado era um dia muito solene, os judeus pediram a Pilatos que lhes quebrassem as pernas e os tirassem dali.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Para que os corpos não ficassem na cruz",
+    "termo": "ἵνα μὴ μείνῃ ἐπὶ τοῦ σταυροῦ τὰ σώματα",
+    "titulo": "a lei de Deuteronômio",
+    "texto": "Dt 21:22-23 manda que o corpo de um executado “pendurado num madeiro” não fique ali durante a noite. No sábado a exigência era ainda mais séria. Quebrar as pernas (o crurifragium dos romanos) apressava a morte, porque o crucificado já não podia se apoiar para respirar. Skelos (“perna”) aparece só aqui e nos vv. 32-33."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "aquele sábado era um dia muito solene",
+    "termo": "ἦν γὰρ μεγάλη ἡ ἡμέρα ἐκείνου τοῦ σαββάτου",
+    "titulo": "“grande”",
+    "texto": "Lit. “grande era o dia daquele sábado”. Na cronologia de João, o sábado coincidia com o primeiro dia da festa (15 de Nisã), e por isso era especialmente solene. O Texto Bizantino muda a ordem das orações do versículo, sem efeito."
+   }
+  ]
+ },
+ "Jhn.19.32": {
+  "t": "Vieram, então, os soldados e quebraram as pernas do primeiro e depois do outro que tinha sido crucificado com ele.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "do outro que tinha sido crucificado com ele",
+    "termo": "τοῦ ἄλλου τοῦ συσταυρωθέντος αὐτῷ",
+    "titulo": "a cena",
+    "texto": "Os soldados vão de uma cruz à outra; Jesus estava no meio (v. 18). Synstauroō (“crucificar com”) é o verbo que Paulo usa em sentido figurado em Gl 2:19 e Rm 6:6."
+   }
+  ]
+ },
+ "Jhn.19.33": {
+  "t": "Mas, chegando a Jesus e vendo que já estava morto, não lhe quebraram as pernas;",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "já estava morto",
+    "termo": "ἤδη αὐτὸν τεθνηκότα (ēdē auton tethnēkota)",
+    "titulo": "uma morte rápida",
+    "texto": "A crucificação podia durar dias; a morte de Jesus em poucas horas surpreendeu também Pilatos (Mc 15:44). O açoite (v. 1) pode ter contribuído. O perfeito tethnēkota afirma o estado de morte: Jesus morreu de fato."
+   }
+  ]
+ },
+ "Jhn.19.34": {
+  "t": "em vez disso, um dos soldados lhe furou o lado com uma lança, e logo saiu sangue e água.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "furou o lado com uma lança",
+    "termo": "λόγχῃ αὐτοῦ τὴν πλευρὰν ἔνυξεν (lonchē autou tēn pleuran enyxen)",
+    "titulo": "dois hápax",
+    "texto": "Lonchē (“lança”) e nyssō (“furar, espetar”) só aparecem aqui. O golpe era para confirmar a morte. Pleura é o lado, a região das costelas; o NT não diz qual lado."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "sangue e água",
+    "termo": "αἷμα καὶ ὕδωρ (haima kai hydōr)",
+    "titulo": "o que significa?",
+    "texto": "O narrador insiste no fato (v. 35). Há várias leituras, que não se excluem. (1) Prova de que Jesus morreu de verdade e tinha um corpo real, contra os que mais tarde negariam a sua humanidade (cf. 1Jo 4:2; 5:6-8). Explicações médicas foram propostas, mas são incertas. (2) Sentido simbólico: a água lembra os “rios de água viva” do Espírito que correriam quando Jesus fosse glorificado (7:38-39; cf. Ez 47:1; Zc 14:8), e o sangue, a vida dada (6:53-56). (3) Desde os Pais da Igreja (Agostinho, João Crisóstomo), muitos viram no sangue e na água uma imagem da ceia do Senhor e do batismo, e da igreja que nasce do lado de Cristo como Eva do lado de Adão. O texto não explica; a leitura (1) é a mais segura, e as outras são antigas e difundidas."
+   }
+  ]
+ },
+ "Jhn.19.35": {
+  "t": "Aquele que viu isso deu testemunho, e o seu testemunho é verdadeiro; ele sabe que diz a verdade, para que vocês também creiam.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Aquele que viu isso deu testemunho",
+    "termo": "ὁ ἑωρακὼς μεμαρτύρηκεν (ho heōrakōs memartyrēken)",
+    "titulo": "a testemunha",
+    "texto": "Quase todos entendem que a testemunha é o discípulo amado, que estava junto à cruz (v. 26; cf. 21:24). “Ele sabe” traduz ekeinos oiden: ekeinos pode retomar a própria testemunha (“ele mesmo sabe”) ou, segundo alguns, apontar para Jesus ou Deus como garantia do testemunho (cf. 1Jo 2:6; 3:5, onde ekeinos é Jesus). O narrador interrompe a história e se dirige ao leitor (“vocês”), como em 20:31. Os perfeitos (“viu”, “deu testemunho”) indicam um testemunho que continua válido."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "para que vocês também creiam",
+    "termo": "ἵνα καὶ ὑμεῖς πιστεύητε (hina kai hymeis pisteuēte)",
+    "titulo": "presente ou aoristo",
+    "texto": "O texto-base, com Westcott-Hort e Tregelles, traz o presente pisteuēte (“continuem crendo”); o NA28 e o Texto Bizantino, o aoristo pisteusēte (“venham a crer”). A mesma variante aparece em 20:31, onde é discutida com o propósito do Evangelho. O Texto Bizantino não traz kai (“também”)."
+   }
+  ]
+ },
+ "Jhn.19.36": {
+  "t": "Pois essas coisas aconteceram para que se cumprisse a Escritura: “Nenhum dos seus ossos será quebrado.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Nenhum dos seus ossos será quebrado",
+    "termo": "ὀστοῦν οὐ συντριβήσεται αὐτοῦ",
+    "titulo": "o cordeiro e o justo",
+    "texto": "A citação combina dois textos. (1) A lei da Páscoa: não se devia quebrar nenhum osso do cordeiro pascal (Êx 12:46; Nm 9:12). Jesus morre como o verdadeiro Cordeiro pascal (1:29, 36; 1Co 5:7). (2) O Sl 34:20 (33:21 na Septuaginta): o Senhor guarda todos os ossos do justo, e “nenhum deles será quebrado”; a forma passiva do verbo segue o Salmo. O Texto Bizantino traz ap’ autou (“dele”)."
+   }
+  ]
+ },
+ "Jhn.19.37": {
+  "t": "E outra Escritura diz ainda: “Olharão para aquele a quem traspassaram.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Olharão para aquele a quem traspassaram",
+    "termo": "ὄψονται εἰς ὃν ἐξεκέντησαν",
+    "titulo": "Zacarias 12:10",
+    "texto": "Citação de Zc 12:10, onde Deus anuncia que derramará sobre Jerusalém “espírito de graça e de súplicas”, e “olharão para mim, a quem traspassaram, e chorarão por ele”. A forma de João segue o hebraico, e não a Septuaginta, que traz outro verbo (“insultaram”). Ekkenteō (“traspassar”) só aparece aqui e em Ap 1:7, que cita o mesmo texto para a volta de Cristo. No profeta, quem é traspassado é o próprio Deus, na pessoa do seu representante."
+   }
+  ]
+ },
+ "Jhn.19.38": {
+  "t": "Depois disso, José de Arimateia, que era discípulo de Jesus, mas em segredo, por medo dos judeus, pediu a Pilatos que o deixasse retirar o corpo de Jesus. E Pilatos o permitiu. Ele veio, então, e retirou o corpo.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "José de Arimateia",
+    "termo": "Ἰωσὴφ ἀπὸ Ἁριμαθαίας (Iōsēph apo Harimathaias)",
+    "titulo": "o discípulo oculto",
+    "texto": "Os outros Evangelhos dizem que era membro respeitado do Sinédrio, rico, e que esperava o Reino de Deus (Mc 15:43; Mt 27:57; Lc 23:50-51). Arimateia é provavelmente Ramataim, terra de Samuel (1Sm 1:1). Era um dos discípulos que, “por medo”, não confessavam publicamente a fé (12:42; cf. 7:13; 9:22). Agora, quando os Doze fugiram, ele se expõe ao pedir o corpo de um condenado por sedição. Normalmente, os crucificados eram deixados sem sepultura ou jogados em vala comum; o pedido de um homem influente explica a exceção."
+   }
+  ]
+ },
+ "Jhn.19.39": {
+  "t": "Veio também Nicodemos, aquele que antes tinha ido de noite ter com Jesus, trazendo uma mistura de mirra e aloés, de cerca de cem libras.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "uma mistura de mirra e aloés",
+    "termo": "μίγμα σμύρνης καὶ ἀλόης (migma smyrnēs kai aloēs)",
+    "titulo": "migma, hápax",
+    "texto": "Migma (“mistura”) só aparece aqui; Westcott-Hort traz heligma (“rolo, embrulho”). A mirra é uma resina aromática; o aloés, uma madeira perfumada em pó (Sl 45:8; Pv 7:17). Eram postos entre as faixas para perfumar e conservar o corpo; não se trata de embalsamar à maneira egípcia."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "de cerca de cem libras",
+    "termo": "ὡς λίτρας ἑκατόν (hōs litras hekaton)",
+    "titulo": "uma quantidade de rei",
+    "texto": "A libra romana (litra) tinha cerca de 327 gramas (ver 12:3): cem libras são mais de trinta quilos. É uma quantidade enorme, digna de um sepultamento real (cf. 2Cr 16:14). Nicodemos (3:1-2; 7:50-51), que tinha vindo “de noite”, aparece agora à luz do dia, com José, para honrar Jesus como rei."
+   }
+  ]
+ },
+ "Jhn.19.40": {
+  "t": "Tomaram, então, o corpo de Jesus e o envolveram em faixas de linho, com os aromas, como é costume dos judeus sepultar.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "faixas de linho",
+    "termo": "ὀθονίοις (othoniois)",
+    "titulo": "othonia",
+    "texto": "Othonia são faixas ou panos de linho. Os outros Evangelhos falam de um “lençol” (sindōn, Mc 15:46); as duas descrições podem combinar (um lençol e faixas para prendê-lo e para os aromas). As faixas reaparecem no túmulo vazio (20:5-7). Entaphiazō (“sepultar, preparar para o sepultamento”) só aparece aqui e em Mt 26:12."
+   }
+  ]
+ },
+ "Jhn.19.41": {
+  "t": "No lugar onde Jesus foi crucificado havia um jardim, e no jardim um túmulo novo, no qual ninguém ainda tinha sido posto.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "um túmulo novo",
+    "termo": "μνημεῖον καινὸν (mnēmeion kainon)",
+    "titulo": "o túmulo",
+    "texto": "Um túmulo escavado na rocha (Mc 15:46), ainda não usado (cf. Lc 23:53), o que exclui confusão com outros mortos. Mateus diz que era do próprio José (Mt 27:60), o que lembra Is 53:9 (“com o rico na sua morte”). Sobre o “jardim”, ver nota em 18:1. Tregelles, o TR e o Texto Bizantino trazem etethē (“foi posto”) em vez de ēn tetheimenos, sem efeito."
+   }
+  ]
+ },
+ "Jhn.19.42": {
+  "t": "Ali, então, por causa do dia da preparação dos judeus, visto que o túmulo estava perto, puseram Jesus.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "puseram Jesus",
+    "termo": "ἔθηκαν τὸν Ἰησοῦν (ethēkan ton Iēsoun)",
+    "titulo": "a ordem das palavras",
+    "texto": "A frase grega termina com “puseram Jesus”, e a tradução mantém essa ordem, que deixa o leitor diante do túmulo à espera do capítulo seguinte. O sepultamento foi feito às pressas, antes do pôr do sol, quando começava o sábado; por isso as mulheres voltarão depois do sábado (20:1; Lc 23:56)."
    }
   ]
  }

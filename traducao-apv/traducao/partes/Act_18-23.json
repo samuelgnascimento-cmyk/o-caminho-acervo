@@ -1,0 +1,1227 @@
+{
+ "Act.18.1": {
+  "t": "Depois disso, Paulo deixou Atenas e foi para Corinto.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Paulo deixou Atenas",
+    "termo": "χωρισθεὶς ἐκ τῶν Ἀθηνῶν (chōristheis ek tōn Athēnōn)",
+    "titulo": "o sujeito",
+    "texto": "Lit. “tendo-se separado de Atenas, foi”. O grego não nomeia o sujeito; a tradução põe “Paulo”, porque o último nome do capítulo anterior é Dionísio (17:34). O Textus Receptus e o Texto Bizantino trazem de fato ho Paulos (“Paulo”) e acrescentam de (“e”) no início; o texto crítico não traz essas palavras."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Corinto",
+    "termo": "Κόρινθον (Korinthon)",
+    "titulo": "Corinto",
+    "texto": "Corinto ficava no istmo que liga o Peloponeso ao continente grego, entre dois portos: Lequeu, a oeste, e Cencreia, a leste (v. 18). Destruída pelos romanos em 146 a.C., foi refundada como colônia romana por Júlio César em 44 a.C. e era a capital da província da Acaia (v. 12). Cidade rica, comercial, de população misturada, com fama antiga de imoralidade. Paulo fundou ali a igreja a quem escreveu 1 e 2 Coríntios, e é a cidade em que Atos o mostra mais tempo parado até então (v. 11)."
+   }
+  ]
+ },
+ "Act.18.2": {
+  "t": "Ali encontrou um judeu chamado Áquila, natural do Ponto, que tinha chegado havia pouco da Itália com Priscila, sua mulher, porque Cláudio tinha ordenado que todos os judeus saíssem de Roma. Paulo foi ter com eles",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Áquila",
+    "termo": "Ἀκύλαν ... καὶ Πρίσκιλλαν (Akylan ... kai Priskillan)",
+    "titulo": "Áquila e Priscila",
+    "texto": "Casal de colaboradores próximos de Paulo, mencionado em Rm 16:3-5, 1Co 16:19 e 2Tm 4:19. Paulo a chama de Prisca; Lucas usa o diminutivo, Priscila. Moraram em Corinto, em Éfeso (v. 18-19, 26) e de novo em Roma (Rm 16:3), e em mais de uma cidade a igreja se reunia na casa deles. Lucas não narra a conversão do casal: é provável que já fossem cristãos quando chegaram de Roma. O Ponto era a região da costa sul do mar Negro, no norte da Ásia Menor (2:9; 1Pe 1:1)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Cláudio tinha ordenado que todos os judeus saíssem de Roma",
+    "termo": "διὰ τὸ διατεταχέναι Κλαύδιον χωρίζεσθαι πάντας τοὺς Ἰουδαίους ἀπὸ τῆς Ῥώμης",
+    "titulo": "o decreto de Cláudio",
+    "texto": "O historiador romano Suetônio (Vida de Cláudio 25) conta que Cláudio “expulsou de Roma os judeus, que provocavam contínuos tumultos por instigação de Cresto”. Muitos estudiosos entendem que “Cresto” é uma forma errada de Christus e que os tumultos eram disputas nas sinagogas de Roma sobre Jesus; outros pensam num agitador desconhecido com esse nome. Orósio, historiador cristão do século V, data a expulsão no nono ano de Cláudio, isto é, 49 d.C., data que se ajusta bem a Atos. “Todos” pode ser um modo de falar: a medida dificilmente atingiu toda a grande comunidade judaica de Roma, e anos depois havia de novo judeus na cidade (28:17). Cláudio governou de 41 a 54 d.C. (ver 11:28)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "havia pouco",
+    "termo": "προσφάτως (prosphatōs)",
+    "titulo": "prosphatōs, hápax",
+    "texto": "Hápax, isto é, palavra que só aparece uma vez no NT: “recentemente, há pouco tempo”. O Texto Bizantino traz tetachenai em vez de diatetachenai, e o Textus Receptus e o Texto Bizantino, ek em vez de apo (“de Roma”): o sentido não muda."
+   }
+  ]
+ },
+ "Act.18.3": {
+  "t": "e, como era do mesmo ofício, ficou morando com eles e trabalhava; pois eram fabricantes de tendas de profissão.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "fabricantes de tendas",
+    "termo": "σκηνοποιοί (skēnopoioi)",
+    "titulo": "skēnopoios, hápax",
+    "texto": "Única ocorrência no NT. O sentido literal é “fabricante de tendas”. As tendas eram feitas de couro ou de tecido de pelo de cabra, produto pelo qual a Cilícia, terra de Paulo, era conhecida; por isso alguns escritores cristãos antigos entenderam o ofício de modo mais amplo, como “trabalhador em couro”. “Fabricantes de tendas” fica com o sentido básico da palavra. Homotechnos (“do mesmo ofício”) também é hápax."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "trabalhava",
+    "termo": "ἠργάζετο (ērgazeto)",
+    "titulo": "Paulo trabalha com as mãos",
+    "texto": "Paulo sustentava-se com o próprio trabalho para não ser pesado às igrejas nem confundido com os pregadores ambulantes que viviam de cobrar dos ouvintes (20:34; 1Ts 2:9; 1Co 4:12; 9:6-18; 2Co 11:7-9). Entre os mestres judeus era comum unir o estudo da Lei a um ofício; a Mishná (Avot 2) elogia essa união. O imperfeito indica atividade contínua. Westcott-Hort traz o plural ērgazonto (“trabalhavam”); o Textus Receptus e o Texto Bizantino trazem o acusativo tēn technēn (“de profissão”), sem efeito na tradução."
+   }
+  ]
+ },
+ "Act.18.4": {
+  "t": "Todos os sábados ele discutia na sinagoga e procurava convencer judeus e gregos.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "procurava convencer",
+    "termo": "ἔπειθεν (epeithen)",
+    "titulo": "imperfeito de tentativa",
+    "texto": "Peithō é “persuadir, convencer”. O imperfeito pode indicar ação repetida (“convencia”) ou tentativa (“procurava convencer”). A segunda leitura combina com a resistência descrita no v. 6. Sobre dialegomai (“discutir”), ver 17:2. Os “gregos” são, como em 14:1, gentios que frequentavam a sinagoga."
+   }
+  ]
+ },
+ "Act.18.5": {
+  "t": "Quando Silas e Timóteo desceram da Macedônia, Paulo passou a dedicar-se inteiramente à palavra, testemunhando aos judeus que o Cristo é Jesus.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "passou a dedicar-se inteiramente à palavra",
+    "termo": "συνείχετο τῷ λόγῳ (syneicheto tō logō)",
+    "titulo": "synechō",
+    "texto": "Synechō é “manter apertado, ocupar inteiramente”. A frase pode significar “estava absorvido pela palavra” ou “era pressionado pela palavra”. O imperfeito, depois da chegada dos companheiros, sugere uma mudança: Paulo, que trabalhava durante a semana e pregava aos sábados (v. 3-4), passa a dedicar-se só à pregação. A razão provável é a ajuda que Silas e Timóteo trouxeram da Macedônia (2Co 11:9; Fp 4:15). Timóteo trouxe também boas notícias de Tessalônica (1Ts 3:6)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "à palavra",
+    "termo": "τῷ λόγῳ (tō logō)",
+    "titulo": "“à palavra” ou “no espírito”",
+    "texto": "O texto crítico (SBLGNT, NA28, Westcott-Hort, Tregelles) traz tō logō (“à palavra”). O Textus Receptus e o Texto Bizantino trazem tō pneumati: “Paulo estava constrangido no espírito”, forma conhecida pelas traduções antigas em português. O Textus Receptus e o Texto Bizantino omitem também einai (“ser”), sem efeito na tradução."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "que o Cristo é Jesus",
+    "termo": "εἶναι τὸν χριστὸν Ἰησοῦν (einai ton christon Iēsoun)",
+    "titulo": "a ordem da frase",
+    "texto": "Lit. “ser o Cristo Jesus”. Com o artigo em “o Cristo”, a frase pode ser lida “que o Cristo é Jesus”: o Messias esperado pelos judeus é aquele homem, Jesus. A tradução mantém essa ordem, que é a do argumento na sinagoga (17:3; 18:28)."
+   }
+  ]
+ },
+ "Act.18.6": {
+  "t": "Mas, como eles se opunham e blasfemavam, Paulo sacudiu as roupas e lhes disse: “Que o sangue de vocês recaia sobre a cabeça de vocês! Eu estou limpo. De agora em diante irei para os gentios.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "sacudiu as roupas",
+    "termo": "ἐκτιναξάμενος τὰ ἱμάτια (ektinaxamenos ta himatia)",
+    "titulo": "um gesto de rompimento",
+    "texto": "Gesto parecido com o de sacudir o pó dos pés (13:51): Paulo se separa de quem rejeita a mensagem e declara que não tem mais responsabilidade por eles. Em Ne 5:13, Neemias sacode a dobra da roupa como sinal de que Deus sacudirá quem não cumprir o juramento. “Blasfemavam”: ver 13:45."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Que o sangue de vocês recaia sobre a cabeça de vocês! Eu estou limpo",
+    "termo": "Τὸ αἷμα ὑμῶν ἐπὶ τὴν κεφαλὴν ὑμῶν· καθαρὸς ἐγώ",
+    "titulo": "a responsabilidade",
+    "texto": "O grego não tem verbo: “o sangue de vocês sobre a cabeça de vocês; limpo eu”. A frase vem do AT: o sentinela que avisa o povo fica livre de culpa, e o sangue de quem não ouviu cai sobre a própria cabeça (Ez 33:4-9; cf. 2Sm 1:16). Não é maldição, mas declaração de responsabilidade: Paulo cumpriu o dever de anunciar. Ele dirá o mesmo aos anciãos de Éfeso (20:26)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "irei para os gentios",
+    "termo": "εἰς τὰ ἔθνη πορεύσομαι (eis ta ethnē poreusomai)",
+    "titulo": "uma decisão local",
+    "texto": "Como em Antioquia da Pisídia (13:46) e em Roma (28:28). A decisão vale para Corinto: logo depois, em Éfeso, Paulo vai de novo à sinagoga (v. 19; 19:8), e mesmo em Corinto o chefe da sinagoga crê (v. 8)."
+   }
+  ]
+ },
+ "Act.18.7": {
+  "t": "Saindo dali, entrou na casa de um homem chamado Tício Justo, temente a Deus, cuja casa ficava ao lado da sinagoga.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Saindo dali",
+    "termo": "μεταβὰς ἐκεῖθεν (metabas ekeithen)",
+    "titulo": "de onde Paulo saiu?",
+    "texto": "Paulo sai da sinagoga, e não da casa de Áquila e Priscila: muda o lugar do ensino, não necessariamente o lugar onde morava. A casa de Tício Justo passa a ser o ponto de reunião, ao lado da sinagoga. Synomoreō (“ser vizinho, ter divisa com”) é hápax. O NA28 e o SBLGNT trazem eisēlthen (“entrou”); Westcott-Hort, Tregelles, o THGNT, o Textus Receptus e o Texto Bizantino trazem ēlthen (“foi”), com o mesmo sentido."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Tício Justo",
+    "termo": "Τιτίου Ἰούστου (Titiou Ioustou)",
+    "titulo": "quem era?",
+    "texto": "Um gentio “temente a Deus” (sebomenos ton theon; ver 13:16; 16:14), com casa própria grande o bastante para reuniões. Tício é nome romano. E. J. Goodspeed propôs identificá-lo com Gaio, que Paulo batizou em Corinto e em cuja casa a igreja se reunia (1Co 1:14; Rm 16:23): um mesmo homem chamado Gaio Tício Justo. É hipótese possível, mas não comprovada."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Tício",
+    "termo": "Τιτίου (Titiou)",
+    "titulo": "o nome",
+    "texto": "O SBLGNT, Westcott-Hort, Tregelles e o NA28 trazem Titiou Ioustou (“Tício Justo”). O Texto Bizantino e o Textus Receptus omitem Titiou e trazem só “Justo”. Alguns manuscritos trazem Titou (“Tito”), mas não se trata do Tito das cartas de Paulo."
+   }
+  ]
+ },
+ "Act.18.8": {
+  "t": "Crispo, o chefe da sinagoga, creu no Senhor com toda a sua casa; e muitos dos coríntios, ouvindo, criam e eram batizados.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Crispo, o chefe da sinagoga",
+    "termo": "Κρίσπος ... ὁ ἀρχισυνάγωγος (Krispos ... ho archisynagōgos)",
+    "titulo": "um líder da sinagoga crê",
+    "texto": "O chefe da sinagoga organizava o culto e cuidava do edifício (13:15). A conversão de um homem nessa posição era um golpe para os opositores. Crispo é um dos poucos que Paulo batizou pessoalmente em Corinto (1Co 1:14). Como Lídia e o carcereiro de Filipos, ele crê “com toda a sua casa” (ver a nota em 16:15)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "ouvindo, criam e eram batizados",
+    "termo": "ἀκούοντες ἐπίστευον καὶ ἐβαπτίζοντο",
+    "titulo": "imperfeitos",
+    "texto": "Os imperfeitos descrevem um movimento contínuo: um após outro, os coríntios ouviam, criam e eram batizados. A sequência é a de 2:41 e 8:12. Paulo diz que em Corinto não batizou quase ninguém pessoalmente (1Co 1:14-17): os batismos eram feitos também por outros."
+   }
+  ]
+ },
+ "Act.18.9": {
+  "t": "Certa noite, o Senhor disse a Paulo numa visão: “Não tenha medo; continue falando e não se cale,",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Não tenha medo",
+    "termo": "Μὴ φοβοῦ (Mē phobou)",
+    "titulo": "uma palavra de encorajamento",
+    "texto": "O imperativo presente pode ter o sentido de “pare de ter medo”: Paulo talvez estivesse com medo, depois da violência em Filipos, Tessalônica e Bereia. Ele lembra que chegou a Corinto “em fraqueza, temor e muito tremor” (1Co 2:3). A fórmula “não tenha medo ... porque eu estou com você” é a das palavras de Deus a Josué, a Jeremias e ao povo (Js 1:9; Jr 1:8; Is 41:10; 43:5). “O Senhor” é Jesus, como em 23:11; ele fala a Paulo com “você”."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "continue falando e não se cale",
+    "termo": "λάλει καὶ μὴ σιωπήσῃς (lalei kai mē siōpēsēs)",
+    "titulo": "presente e aoristo",
+    "texto": "O imperativo presente lalei indica continuidade (“continue falando”); o subjuntivo aoristo com mē proíbe começar algo (“não passe a calar-se”). O Texto Bizantino põe “numa visão” antes de “de noite”, sem efeito na tradução."
+   }
+  ]
+ },
+ "Act.18.10": {
+  "t": "porque eu estou com você, e ninguém porá as mãos em você para lhe fazer mal, pois tenho um povo numeroso nesta cidade.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "ninguém porá as mãos em você",
+    "termo": "οὐδεὶς ἐπιθήσεταί σοι (oudeis epithēsetai soi)",
+    "titulo": "epitithēmi",
+    "texto": "Epitithēmi na voz média é “lançar-se sobre, atacar”. A promessa não é de que não haverá oposição, mas de que ninguém conseguirá fazer-lhe mal; e de fato o ataque do v. 12 fracassa. Kakoō é “maltratar”, como em 12:1."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "tenho um povo numeroso nesta cidade",
+    "termo": "λαός ἐστί μοι πολὺς ἐν τῇ πόλει ταύτῃ",
+    "titulo": "o povo do Senhor em Corinto",
+    "texto": "Laos (“povo”) é a palavra que a Septuaginta usa para Israel como povo de Deus; aqui, como em 15:14, inclui gentios. O Senhor fala dos que ainda vão crer como se já fossem seus. A tradição reformada vê aqui a eleição: Deus já tem os seus em Corinto, e a pregação os reúne; outras tradições entendem que Deus, que conhece de antemão os que vão responder, anima o pregador com essa certeza. Para as duas leituras, a certeza de Deus é motivo para continuar pregando, não para parar (v. 9). Ver 13:48.",
+    "revisar": true
+   }
+  ]
+ },
+ "Act.18.11": {
+  "t": "Assim, Paulo ficou ali um ano e seis meses, ensinando entre eles a palavra de Deus.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "um ano e seis meses",
+    "termo": "ἐνιαυτὸν καὶ μῆνας ἕξ (eniauton kai mēnas hex)",
+    "titulo": "a estada em Corinto",
+    "texto": "Kathizō é “sentar-se”, aqui “estabelecer-se, permanecer”. Pela data de Gálio (v. 12), a estada se situa por volta de 50 a 52 d.C. É provável que Paulo tenha escrito daqui 1 e 2 Tessalonicenses, pois Silas e Timóteo estão com ele (1Ts 1:1; 2Ts 1:1). Não está claro se o ano e meio inclui o episódio dos v. 12-17 ou se vem antes dele (cf. v. 18). O Textus Receptus e o Texto Bizantino trazem te em vez de de, sem efeito na tradução."
+   }
+  ]
+ },
+ "Act.18.12": {
+  "t": "Quando Gálio era procônsul da Acaia, os judeus se levantaram de comum acordo contra Paulo e o levaram ao tribunal,",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Gálio era procônsul da Acaia",
+    "termo": "Γαλλίωνος δὲ ἀνθυπάτου ὄντος τῆς Ἀχαΐας",
+    "titulo": "Gálio e a data",
+    "texto": "Lúcio Júnio Gálio era irmão do filósofo Sêneca, preceptor de Nero. Uma inscrição encontrada em Delfos, com uma carta do imperador Cláudio que menciona “Júnio Gálio, meu amigo e procônsul”, data o seu governo por volta de 51-52 d.C. (o mandato do procônsul durava em geral um ano). É um dos pontos fixos para a cronologia da vida de Paulo. A Acaia era a província do sul da Grécia, com capital em Corinto; desde 44 d.C. era governada pelo senado, e por isso por um procônsul, título que Lucas usa com exatidão (cf. 13:7). O Textus Receptus e o Texto Bizantino trazem o verbo anthypateuontos (“sendo procônsul”), com o mesmo sentido."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "se levantaram de comum acordo contra Paulo",
+    "termo": "κατεπέστησαν ὁμοθυμαδὸν οἱ Ἰουδαῖοι τῷ Παύλῳ",
+    "titulo": "katephistēmi, hápax",
+    "texto": "Única ocorrência no NT: “levantar-se contra, insurgir-se”. Homothymadon (“de comum acordo”), que em 1:14 e 2:46 descreve a unidade da igreja, aqui descreve a unidade dos opositores (cf. 7:57; 19:29). Westcott-Hort muda a ordem das palavras."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "tribunal",
+    "termo": "τὸ βῆμα (to bēma)",
+    "titulo": "bēma",
+    "texto": "Bēma é a plataforma elevada de onde o magistrado julgava (25:6, 10, 17; Mt 27:19). Em 12:21 foi traduzido “tribuna”, porque ali o rei discursava; aqui, numa causa judicial, é o tribunal. Na praça central de Corinto foi escavada uma grande plataforma de pedra que muitos identificam com esse bēma."
+   }
+  ]
+ },
+ "Act.18.13": {
+  "t": "dizendo: “Este homem está persuadindo as pessoas a adorar a Deus de modo contrário à lei.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "contrário à lei",
+    "termo": "παρὰ τὸν νόμον (para ton nomon)",
+    "titulo": "qual lei?",
+    "texto": "A acusação é ambígua. Pode ser a lei judaica: Paulo ensinaria um culto a Deus que não respeita a Lei de Moisés. Ou pode ser a lei romana: a pregação de Paulo não seria a religião judaica, tolerada pelos romanos como costume antigo de um povo, mas um culto novo e não autorizado. Diante de um procônsul, a segunda leitura daria força à queixa; mas Gálio a entende como questão da lei judaica (v. 15)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "está persuadindo",
+    "termo": "ἀναπείθει (anapeithei)",
+    "titulo": "anapeithō, hápax",
+    "texto": "Única ocorrência no NT: “persuadir, induzir”, às vezes com a ideia de levar alguém a mudar de opinião por argumentos enganosos. “Adorar” traduz sebesthai, o verbo de que vem sebomenos (“temente a Deus”, v. 7). O Textus Receptus e o Texto Bizantino mudam a ordem das palavras."
+   }
+  ]
+ },
+ "Act.18.14": {
+  "t": "Quando Paulo ia abrir a boca, Gálio disse aos judeus: “Se de fato se tratasse de algum crime ou de alguma fraude grave, judeus, seria razoável que eu os ouvisse com paciência.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "algum crime ou de alguma fraude grave",
+    "termo": "ἀδίκημά τι ἢ ῥᾳδιούργημα πονηρόν",
+    "titulo": "termos jurídicos",
+    "texto": "Adikēma é “delito, injustiça” (24:20); rhadiourgēma (hápax) é “velhacaria, fraude”, da mesma família de rhadiourgia (13:10). Gálio separa os crimes, que são da competência de Roma, das questões religiosas internas de um povo. Paulo nem precisa se defender."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "seria razoável que eu os ouvisse com paciência",
+    "termo": "κατὰ λόγον ἂν ἀνεσχόμην ὑμῶν",
+    "titulo": "“com razão eu os suportaria”",
+    "texto": "Lit. “segundo a razão eu os suportaria”: anechomai é “suportar, ter paciência com”, também termo para aceitar uma queixa em juízo. O Textus Receptus e o Texto Bizantino acrescentam oun (“pois”); o Textus Receptus traz a forma ēneschomēn sem an, sem efeito na tradução."
+   }
+  ]
+ },
+ "Act.18.15": {
+  "t": "Mas, se são questões de palavras, de nomes e da lei de vocês, resolvam vocês mesmos; eu não quero ser juiz dessas coisas.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "questões de palavras, de nomes e da lei de vocês",
+    "termo": "ζητήματά ... περὶ λόγου καὶ ὀνομάτων καὶ νόμου τοῦ καθ᾽ ὑμᾶς",
+    "titulo": "a decisão de Gálio",
+    "texto": "Para Gálio, a disputa é sobre doutrina, títulos (talvez se Jesus podia ser chamado “Cristo”) e interpretação da Lei judaica: um assunto interno dos judeus. A decisão tinha consequências práticas: por ora, a pregação cristã não era tratada como crime pelas autoridades romanas. Lucas registra uma série de autoridades romanas que não acham culpa em Paulo (13:12; 18:14-15; 23:29; 25:25; 26:31-32). O Textus Receptus e o Texto Bizantino trazem o singular zētēma (“questão”) e acrescentam gar (“pois”) antes de “juiz”."
+   }
+  ]
+ },
+ "Act.18.16": {
+  "t": "E os expulsou do tribunal.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "os expulsou",
+    "termo": "ἀπήλασεν (apēlasen)",
+    "titulo": "apelaunō, hápax",
+    "texto": "Única ocorrência no NT: “expulsar, enxotar”. Gálio encerra a audiência e manda retirar os acusadores, provavelmente por meio dos lictores que acompanhavam o procônsul."
+   }
+  ]
+ },
+ "Act.18.17": {
+  "t": "Então todos agarraram Sóstenes, o chefe da sinagoga, e o espancavam diante do tribunal; e Gálio não se importava com nada disso.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "todos",
+    "termo": "πάντες (pantes)",
+    "titulo": "quem espancou Sóstenes?",
+    "texto": "O texto crítico (SBLGNT, NA28, Westcott-Hort, Tregelles) diz só “todos”. O Textus Receptus e o Texto Bizantino trazem “todos os gregos” (pantes hoi Hellēnes), o que faz da cena uma explosão de hostilidade dos gentios contra os judeus, aproveitando o desfecho. Sem o acréscimo, “todos” podem ser os presentes em geral, com o mesmo sentido, ou até os próprios judeus, descontentes com o seu líder por ter perdido a causa. A primeira leitura é a mais comum. O Texto Bizantino traz emellen, com dois lambdas, em vez de emelen (“importava”), diferença de cópia sem efeito na tradução."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Sóstenes, o chefe da sinagoga",
+    "termo": "Σωσθένην τὸν ἀρχισυνάγωγον",
+    "titulo": "o mesmo Sóstenes de 1 Coríntios?",
+    "texto": "Sóstenes parece ter sucedido Crispo (v. 8) como chefe da sinagoga, ou havia mais de um chefe. Em 1Co 1:1, Paulo escreve com “o irmão Sóstenes”. Se for o mesmo homem, ele se converteu mais tarde; é possível, mas o nome era comum, e não há como confirmar."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "Gálio não se importava com nada disso",
+    "termo": "οὐδὲν τούτων τῷ Γαλλίωνι ἔμελεν",
+    "titulo": "indiferença",
+    "texto": "Lit. “nada disso era preocupação para Gálio”. Não se trata de indiferença religiosa, mas da recusa do magistrado em intervir num tumulto que considerava fora da sua alçada. Lucas mostra que o governo romano deixou a igreja livre em Corinto."
+   }
+  ]
+ },
+ "Act.18.18": {
+  "t": "Paulo ainda ficou ali muitos dias. Depois se despediu dos irmãos e partiu de navio para a Síria, e com ele Priscila e Áquila. Em Cencreia, ele tinha cortado o cabelo, porque tinha feito um voto.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "cortado o cabelo",
+    "termo": "κειράμενος ... τὴν κεφαλήν (keiramenos ... tēn kephalēn)",
+    "titulo": "keirō: cortar ou raspar?",
+    "texto": "Keirō é “cortar o cabelo, tosquiar”, distinto de xyraō, “raspar” (21:24; 1Co 11:6, onde os dois verbos aparecem lado a lado). Por isso “cortou o cabelo”, e não “rapou a cabeça”. O particípio pode referir-se a Paulo, sujeito da frase, ou a Áquila, o nome mais próximo; a maioria entende que é Paulo. O Textus Receptus e o Texto Bizantino mudam a ordem de “em Cencreia” e “a cabeça”."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "porque tinha feito um voto",
+    "termo": "εἶχεν γὰρ εὐχήν (eichen gar euchēn)",
+    "titulo": "que voto?",
+    "texto": "Lucas não diz que voto era. O mais próximo na Lei é o voto de nazireu (Nm 6:1-21), em que o cabelo não se cortava durante o tempo do voto e era raspado no fim, no templo de Jerusalém. Como Paulo corta o cabelo em Cencreia, longe do templo, muitos pensam num voto particular de gratidão ou de consagração, talvez pela proteção prometida em Corinto (v. 9-10), cumprido com o corte do cabelo e completado depois em Jerusalém. O episódio mostra Paulo ainda praticando costumes judaicos de piedade (cf. 21:23-26; 1Co 9:20). Cencreia era o porto oriental de Corinto, onde havia uma igreja (Rm 16:1)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Priscila e Áquila",
+    "termo": "Πρίσκιλλα καὶ Ἀκύλας (Priskilla kai Akylas)",
+    "titulo": "a ordem dos nomes",
+    "texto": "Das seis vezes em que o casal é mencionado no NT, quatro põem Priscila primeiro (aqui; v. 26; Rm 16:3; 2Tm 4:19). Num tempo em que o marido costumava ser nomeado antes, isso sugere que ela tinha destaque, talvez social, talvez no serviço da igreja."
+   }
+  ]
+ },
+ "Act.18.19": {
+  "t": "Chegaram a Éfeso, e ali Paulo os deixou. Ele, porém, entrou na sinagoga e discutiu com os judeus.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Éfeso",
+    "termo": "Ἔφεσον (Epheson)",
+    "titulo": "Éfeso",
+    "texto": "Grande porto do mar Egeu e principal cidade da província da Ásia, sede do procônsul, famosa pelo templo de Ártemis (19:27, 35). Era o destino que o Espírito tinha fechado antes (16:6); agora Paulo faz só uma visita breve, mas voltará para ficar quase três anos (19:8-10; 20:31)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "ali Paulo os deixou. Ele, porém, entrou na sinagoga",
+    "termo": "κἀκείνους κατέλιπεν αὐτοῦ, αὐτὸς δὲ εἰσελθὼν εἰς τὴν συναγωγήν",
+    "titulo": "uma ordem estranha",
+    "texto": "Lucas diz que Paulo deixou Priscila e Áquila em Éfeso antes de contar a visita à sinagoga, que aconteceu enquanto estava na cidade. O contraste “eles ... ele, porém” separa o casal, que fica e trabalhará em Éfeso (v. 26), de Paulo, que segue viagem. O Textus Receptus e o Texto Bizantino trazem o singular katēntēsen (“chegou”) e dielechthē, outra forma de “discutiu”, sem efeito na tradução."
+   }
+  ]
+ },
+ "Act.18.20": {
+  "t": "Quando lhe pediram que ficasse mais tempo, ele não consentiu;",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "não consentiu",
+    "termo": "οὐκ ἐπένευσεν (ouk epeneusen)",
+    "titulo": "epineuō, hápax",
+    "texto": "Única ocorrência no NT: lit. “acenar com a cabeça”, isto é, consentir. A boa acolhida na sinagoga de Éfeso contrasta com as cidades anteriores. O Textus Receptus e o Texto Bizantino acrescentam par’ autois (“com eles”), que a tradução já supõe."
+   }
+  ]
+ },
+ "Act.18.21": {
+  "t": "mas, ao despedir-se, disse: “Voltarei a vocês outra vez, se Deus quiser.” E partiu de Éfeso por mar.",
+  "n": [
+   {
+    "tipo": "tc",
+    "ancora": "disse",
+    "termo": "εἰπών (eipōn)",
+    "titulo": "o acréscimo sobre a festa",
+    "texto": "O Textus Receptus e o Texto Bizantino acrescentam depois de “disse”: “É absolutamente necessário que eu celebre em Jerusalém a festa que se aproxima”, e depois “mas” (de) antes de “voltarei”. O texto crítico (SBLGNT, NA28, Westcott-Hort, Tregelles) não traz essas palavras, que parecem explicar por que Paulo não podia ficar e por que vai a Jerusalém (v. 22). A estrutura da frase também muda: “despediu-se deles, dizendo”."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "se Deus quiser",
+    "termo": "τοῦ θεοῦ θέλοντος (tou theou thelontos)",
+    "titulo": "a vontade de Deus nos planos",
+    "texto": "Expressão de dependência de Deus nos planos de viagem, comum também entre pagãos piedosos, que Paulo usa em 1Co 4:19 e 16:7 (cf. Rm 1:10; Tg 4:15). A promessa se cumpre em 19:1. Anagō na voz passiva é “fazer-se ao mar, zarpar”."
+   }
+  ]
+ },
+ "Act.18.22": {
+  "t": "Desembarcando em Cesareia, subiu e saudou a igreja, e depois desceu para Antioquia.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "subiu e saudou a igreja",
+    "termo": "ἀναβὰς καὶ ἀσπασάμενος τὴν ἐκκλησίαν",
+    "titulo": "subiu aonde?",
+    "texto": "Lit. “tendo subido e saudado a igreja, desceu a Antioquia”. “Subir” e “descer” são os verbos usados para ir a Jerusalém e sair de lá (11:2, 27; 15:2); por isso a maioria entende que Paulo foi a Jerusalém e saudou a igreja de lá, como o acréscimo do v. 21 também supõe. Alguns entendem que subiu de Cesareia, do porto à cidade, e saudou a igreja de Cesareia; mas “descer para Antioquia”, que fica ao norte, só faz sentido partindo de Jerusalém. A visita é contada em poucas palavras."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "desceu para Antioquia",
+    "termo": "κατέβη εἰς Ἀντιόχειαν",
+    "titulo": "o fim da segunda viagem",
+    "texto": "Paulo volta à igreja que o tinha enviado (15:40). Aqui termina a chamada segunda viagem missionária (15:36-18:22), e no v. 23 começa a terceira."
+   }
+  ]
+ },
+ "Act.18.23": {
+  "t": "Depois de passar algum tempo ali, partiu e percorreu, uma após outra, a região da Galácia e a Frígia, fortalecendo todos os discípulos.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "uma após outra, a região da Galácia e a Frígia",
+    "termo": "καθεξῆς τὴν Γαλατικὴν χώραν καὶ Φρυγίαν",
+    "titulo": "as regiões",
+    "texto": "Kathexēs é “em ordem, sucessivamente” (Lc 1:3): Paulo visita as igrejas uma a uma. A ordem dos nomes é inversa à de 16:6. Como lá, discute-se se a “região gálata” é a parte sul da província da Galácia (Derbe, Listra, Icônio, Antioquia) ou o território do norte; ver a nota em 16:6. Começa a chamada terceira viagem missionária."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "fortalecendo",
+    "termo": "στηρίζων (stērizōn)",
+    "titulo": "stērizō ou epistērizō",
+    "texto": "O SBLGNT, Westcott-Hort e Tregelles trazem stērizōn; o NA28, o Textus Receptus e o Texto Bizantino, o composto epistērizōn, o verbo de 14:22 e 15:32, 41. O sentido é o mesmo: “fortalecer, firmar”."
+   }
+  ]
+ },
+ "Act.18.24": {
+  "t": "Chegou a Éfeso um judeu chamado Apolo, natural de Alexandria, homem eloquente e versado nas Escrituras.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Apolo, natural de Alexandria",
+    "termo": "Ἀπολλῶς ... Ἀλεξανδρεὺς τῷ γένει",
+    "titulo": "Apolo",
+    "texto": "Alexandria, no Egito, tinha a maior comunidade judaica fora da Judeia, e foi ali que se traduziram as Escrituras para o grego (a Septuaginta) e que viveu o filósofo judeu Fílon, contemporâneo de Jesus. Apolo será um mestre importante em Corinto (1Co 1:12; 3:4-6, 22; 4:6; 16:12; Tt 3:13). Lutero sugeriu que ele teria escrito a carta aos Hebreus; é uma hipótese entre outras, sem apoio na tradição antiga. Apollōs é forma abreviada de Apolônio."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "eloquente",
+    "termo": "λόγιος (logios)",
+    "titulo": "logios, hápax",
+    "texto": "Única ocorrência no NT. Logios pode ser “eloquente, bom orador” ou “erudito, culto”. Os dois sentidos eram correntes, e um não exclui o outro; “eloquente” combina com a fala pública dos v. 25-28 e com a comparação, em Corinto, entre a pregação de Apolo e a de Paulo (1Co 1:17; 2:1-4). “Versado nas Escrituras” traduz dynatos en tais graphais, lit. “poderoso nas Escrituras”."
+   }
+  ]
+ },
+ "Act.18.25": {
+  "t": "Ele tinha sido instruído no caminho do Senhor e, fervoroso de espírito, falava e ensinava com exatidão o que se referia a Jesus, embora conhecesse apenas o batismo de João.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "instruído",
+    "termo": "κατηχημένος (katēchēmenos)",
+    "titulo": "katēcheō",
+    "texto": "“Ensinado oralmente, informado” (Lc 1:4; Gl 6:6). Daí vêm “catequese” e “catecúmeno”. Não se diz onde nem por quem Apolo foi instruído. “O caminho do Senhor” lembra Is 40:3 e o nome “o Caminho” dado ao movimento cristão (ver 9:2)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "fervoroso de espírito",
+    "termo": "ζέων τῷ πνεύματι (zeōn tō pneumati)",
+    "titulo": "espírito ou Espírito?",
+    "texto": "Lit. “fervendo no espírito”, a mesma expressão de Rm 12:11. Pode ser o espírito de Apolo, isto é, o seu entusiasmo (“fervoroso”), ou o Espírito Santo (“ardendo no Espírito”). A minúscula segue a leitura mais comum, porque a frase descreve o modo como ele falava; mas a outra leitura tem defensores, e combina com o fato de que Apolo não é rebatizado, ao contrário dos discípulos de 19:1-7. A questão de se Apolo já tinha recebido o Espírito fica em aberto no texto.",
+    "revisar": true
+   },
+   {
+    "tipo": "sn",
+    "ancora": "embora conhecesse apenas o batismo de João",
+    "termo": "ἐπιστάμενος μόνον τὸ βάπτισμα Ἰωάννου",
+    "titulo": "um conhecimento incompleto",
+    "texto": "Apolo conhecia os fatos sobre Jesus e os ensinava “com exatidão”, mas só conhecia o batismo de João, isto é, o batismo de arrependimento que preparava para a vinda do Messias (13:24; 19:4). Talvez não conhecesse o batismo em nome de Jesus nem o derramamento do Espírito em Pentecostes. Havia seguidores de João Batista fora da Judeia, e a pregação dele tinha chegado longe (19:3). O Textus Receptus e o Texto Bizantino trazem “as coisas referentes ao Senhor” em vez de “a Jesus”."
+   }
+  ]
+ },
+ "Act.18.26": {
+  "t": "Ele começou a falar com ousadia na sinagoga. Quando Priscila e Áquila o ouviram, levaram-no consigo e lhe explicaram com mais exatidão o caminho de Deus.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "levaram-no consigo",
+    "termo": "προσελάβοντο αὐτόν (proselabonto auton)",
+    "titulo": "proslambanō",
+    "texto": "“Tomar à parte, receber consigo”, talvez em casa. A correção é feita em particular, não diante da sinagoga, e com respeito: Apolo não é desmentido, mas completado (“com mais exatidão”, retomando o “com exatidão” do v. 25). Parrēsiazomai é “falar com ousadia, francamente” (9:27; 14:3)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Priscila e Áquila",
+    "termo": "Πρίσκιλλα καὶ Ἀκύλας (Priskilla kai Akylas)",
+    "titulo": "uma mulher que ensina",
+    "texto": "Priscila participa com o marido do ensino a um homem culto. Ver a nota sobre a ordem dos nomes no v. 18. O texto entra no debate sobre o papel das mulheres no ensino da igreja: muitos o veem como exemplo de mulher que ensina a doutrina a um homem e pregador; outros notam que o ensino é privado, feito pelo casal em casa, e não na reunião da igreja, e o leem junto com 1Tm 2:12. O texto descreve o fato sem tirar dele uma regra."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Priscila e Áquila",
+    "termo": "Πρίσκιλλα καὶ Ἀκύλας",
+    "titulo": "a ordem dos nomes",
+    "texto": "O SBLGNT, Westcott-Hort, Tregelles e o NA28 trazem “Priscila e Áquila”; o Texto Bizantino, “Áquila e Priscila”, com o marido primeiro, e também muda a ordem de “o caminho de Deus”."
+   }
+  ]
+ },
+ "Act.18.27": {
+  "t": "Como ele queria passar à Acaia, os irmãos o encorajaram e escreveram aos discípulos para que o recebessem. Ao chegar lá, ele ajudou muito os que, pela graça, tinham crido;",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "os irmãos o encorajaram e escreveram aos discípulos",
+    "termo": "προτρεψάμενοι οἱ ἀδελφοὶ ἔγραψαν τοῖς μαθηταῖς",
+    "titulo": "protrepō, hápax",
+    "texto": "Única ocorrência no NT: “encorajar, exortar”. O objeto não é dito: os irmãos de Éfeso podem ter encorajado Apolo a ir ou exortado os discípulos da Acaia a recebê-lo. A tradução segue a primeira leitura, a mais natural com o particípio antes de “escreveram”. É uma carta de recomendação, prática comum entre as igrejas (Rm 16:1-2; 2Co 3:1). “Os irmãos” de Éfeso mostram que já havia ali um grupo de crentes."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "os que, pela graça, tinham crido",
+    "termo": "τοῖς πεπιστευκόσιν διὰ τῆς χάριτος",
+    "titulo": "a que se liga “pela graça”?",
+    "texto": "“Pela graça” pode ligar-se a “tinham crido” (os que creram pela graça de Deus; cf. Ef 2:8) ou a “ajudou muito” (pela graça que Deus lhe dera, Apolo ajudou os crentes). A ordem das palavras favorece um pouco a primeira leitura; as duas dizem algo verdadeiro."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "Como ele queria passar à Acaia",
+    "termo": "βουλομένου δὲ αὐτοῦ διελθεῖν εἰς τὴν Ἀχαΐαν",
+    "titulo": "o texto ocidental",
+    "texto": "O Códice de Beza (D), principal testemunha do chamado texto ocidental de Atos, traz aqui uma forma mais longa: alguns coríntios que estavam em Éfeso, depois de ouvir Apolo, pediram-lhe que fosse com eles à sua terra. O texto das edições críticas, do Textus Receptus e do Texto Bizantino é o mais curto, traduzido aqui."
+   }
+  ]
+ },
+ "Act.18.28": {
+  "t": "pois refutava vigorosamente os judeus em público, demonstrando pelas Escrituras que o Cristo é Jesus.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "refutava vigorosamente",
+    "termo": "εὐτόνως ... διακατηλέγχετο (eutonōs ... diakatēlencheto)",
+    "titulo": "diakatelenchomai, hápax",
+    "texto": "Diakatelenchomai (hápax) é forma reforçada de elenchō, “refutar”: “refutar por completo, confutar”. Eutonōs, “com vigor”, só aparece aqui e em Lc 23:10. O imperfeito indica debates repetidos. O conteúdo é o mesmo da pregação de Paulo (v. 5; 9:22; 17:3). Sobre a ordem “que o Cristo é Jesus”, ver o v. 5."
+   }
+  ]
+ },
+ "Act.19.1": {
+  "t": "Enquanto Apolo estava em Corinto, Paulo atravessou as regiões do interior e chegou a Éfeso. Ali encontrou alguns discípulos",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "as regiões do interior",
+    "termo": "τὰ ἀνωτερικὰ μέρη (ta anōterika merē)",
+    "titulo": "anōterikos, hápax",
+    "texto": "Lit. “as partes mais altas”: o planalto do interior da Ásia Menor, por onde Paulo vinha da Galácia e da Frígia (18:23). Talvez a expressão indique a estrada mais alta, pelas montanhas, e não a da planície do vale do Lico. Paulo cumpre a promessa de 18:21. O NA28 traz katelthein (“desceu”), e o SBLGNT, Westcott-Hort, Tregelles e o Texto Bizantino, elthein (“chegou”); o Textus Receptus e o Texto Bizantino trazem o particípio heurōn (“encontrando”), sem efeito na tradução."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "alguns discípulos",
+    "termo": "τινας μαθητάς (tinas mathētas)",
+    "titulo": "que discípulos eram estes?",
+    "texto": "Em Atos, “discípulos” sem outro qualificativo designa quase sempre os cristãos (6:1; 9:1; 11:26). Mas a conversa que segue mostra que estes conheciam só o batismo de João (v. 3). Para uns, eram cristãos com uma fé ainda incompleta, como Apolo (18:24-26); para outros, eram discípulos de João Batista, que Lucas chama “discípulos” pela aparência ou porque esperavam o Messias anunciado por João, e que só se tornam cristãos nos v. 5-6. A pergunta está ligada ao debate sobre o Espírito nos v. 2-6."
+   }
+  ]
+ },
+ "Act.19.2": {
+  "t": "e lhes perguntou: “Vocês receberam o Espírito Santo quando creram?” Eles responderam: “Não, nem sequer ouvimos dizer que há Espírito Santo.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "quando creram",
+    "termo": "πιστεύσαντες (pisteusantes)",
+    "titulo": "“quando” ou “depois que”?",
+    "texto": "Lit. “tendo crido”. O particípio aoristo junto de um verbo também no aoristo (elabete, “receberam”) indica, em geral, ações simultâneas: “ao crer, quando creram”. A versão inglesa King James traduziu “since ye believed” (“desde que crestes”), e algumas traduções antigas fazem o mesmo, o que sugere um recebimento posterior à fé. A gramática não exclui de todo a ideia de anterioridade, mas a simultaneidade é a leitura mais natural. O ponto da pergunta de Paulo, em todo caso, é que crer e receber o Espírito andam juntos: a falta do Espírito indica que algo falta à iniciação cristã deles.",
+    "revisar": true
+   },
+   {
+    "tipo": "tn",
+    "ancora": "nem sequer ouvimos dizer que há Espírito Santo",
+    "termo": "οὐδ᾽ εἰ πνεῦμα ἅγιον ἔστιν ἠκούσαμεν",
+    "titulo": "não sabiam que o Espírito existe?",
+    "texto": "Lit. “nem ouvimos se Espírito Santo há”. Discípulos de João conheciam o anúncio de que o Messias batizaria com o Espírito Santo (Lc 3:16), e o AT fala do Espírito de Deus. Por isso o sentido mais provável é: “nem ouvimos dizer que o Espírito Santo já foi dado”, como em Jo 7:39, onde o grego diz lit. “ainda não havia Espírito”, isto é, ainda não tinha sido derramado. O Textus Receptus e o Texto Bizantino omitem te e acrescentam eipon (“disseram”), sem efeito na tradução."
+   }
+  ]
+ },
+ "Act.19.3": {
+  "t": "Paulo perguntou: “Então, em que vocês foram batizados?” Eles responderam: “No batismo de João.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "em que vocês foram batizados",
+    "termo": "Εἰς τί οὖν ἐβαπτίσθητε (Eis ti oun ebaptisthēte)",
+    "titulo": "batizados “para dentro de”",
+    "texto": "A preposição eis (“para, em direção a, para dentro de”) é a das fórmulas de batismo: “em nome de” (v. 5; Mt 28:19), “em Cristo” (Rm 6:3; Gl 3:27). A pergunta é: a que batismo, ou a quem, vocês se uniram? Paulo liga a falta do Espírito ao tipo de batismo recebido. O Textus Receptus e o Texto Bizantino acrescentam pros autous (“perguntou-lhes”)."
+   }
+  ]
+ },
+ "Act.19.4": {
+  "t": "Paulo disse: “João batizou com um batismo de arrependimento, dizendo ao povo que cressem naquele que viria depois dele, isto é, em Jesus.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "João batizou com um batismo de arrependimento",
+    "termo": "Ἰωάννης ἐβάπτισεν βάπτισμα μετανοίας",
+    "titulo": "João aponta para Jesus",
+    "texto": "Paulo não despreza o batismo de João: foi de Deus (Lc 7:29-30; 20:4) e preparava o povo. Mas era provisório, porque apontava para “aquele que viria depois dele” (Lc 3:16; At 13:24-25). No grego, “naquele que viria depois dele” vem antes de “que cressem”, em destaque: o batismo de João só se completa na fé em Jesus. O Textus Receptus e o Texto Bizantino acrescentam men e trazem “em Cristo Jesus”."
+   }
+  ]
+ },
+ "Act.19.5": {
+  "t": "Ao ouvirem isso, foram batizados em nome do Senhor Jesus.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "foram batizados em nome do Senhor Jesus",
+    "termo": "ἐβαπτίσθησαν εἰς τὸ ὄνομα τοῦ κυρίου Ἰησοῦ",
+    "titulo": "o único caso de novo batismo no NT",
+    "texto": "É o único caso no NT de pessoas batizadas de novo. Apolo, que também só conhecia o batismo de João, não é rebatizado (18:24-28), e os apóstolos, alguns dos quais vinham dos discípulos de João (Jo 1:35-40), também não. As explicações mais comuns: o batismo de João recebido depois de Pentecostes, sem a fé em Jesus, já não tinha o mesmo valor; ou estes doze não tinham chegado a crer em Jesus como Apolo, e o batismo de agora é o primeiro batismo cristão deles. Alguns intérpretes da época da Reforma, preocupados com a repetição do batismo, leram o v. 5 como continuação da fala de Paulo, referindo-se aos que ouviram João; mas a sequência “ao ouvirem isso ... foram batizados ... e quando Paulo lhes impôs as mãos” torna essa leitura improvável. Sobre “em nome de”, ver 2:38 e 8:16."
+   }
+  ]
+ },
+ "Act.19.6": {
+  "t": "Quando Paulo lhes impôs as mãos, o Espírito Santo veio sobre eles, e falavam em línguas e profetizavam.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "o Espírito Santo veio sobre eles",
+    "termo": "ἦλθε τὸ πνεῦμα τὸ ἅγιον ἐπ᾽ αὐτούς",
+    "titulo": "o Espírito em Éfeso: o debate",
+    "texto": "O episódio tem traços comuns com Pentecostes (2:4), Samaria (8:14-17) e a casa de Cornélio (10:44-46): o Espírito vem sobre um grupo novo, com sinais visíveis. As principais leituras: (1) a tradição pentecostal clássica vê aqui, como em 8:16-17, o batismo no Espírito como experiência distinta da conversão e posterior a ela, acompanhada de línguas como sinal inicial; estudiosos de linha pentecostal, como R. Stronstad e R. P. Menzies, entendem que, em Lucas, o Espírito é sobretudo o poder profético para o testemunho, distinto da obra que dá a salvação; (2) muitos intérpretes de outras tradições evangélicas, como J. D. G. Dunn e J. Stott, entendem que estes homens só se tornam cristãos aqui: fé em Jesus, batismo em seu nome e dom do Espírito formam uma única iniciação, e o que faltava era a própria fé cristã, não uma segunda experiência; (3) as tradições católica, ortodoxa e anglicana ligam a imposição das mãos depois do batismo, aqui e em 8:17, ao rito da confirmação (ou crisma). Lucas, em todo caso, mostra que o Espírito é dado por Deus e não controlado por um rito, e que a ordem dos acontecimentos varia (2:38; 8:16-17; 9:17-18; 10:44-48)."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "falavam em línguas e profetizavam",
+    "termo": "ἐλάλουν τε γλώσσαις καὶ ἐπροφήτευον",
+    "titulo": "línguas e profecia",
+    "texto": "Os imperfeitos podem indicar o início da ação (“começaram a falar”) ou a sua repetição. As línguas aparecem aqui ao lado da profecia, como no cumprimento de Joel em Pentecostes (2:4, 17-18). Para a tradição pentecostal clássica, é o terceiro texto (com 2:4 e 10:46) que mostra as línguas como sinal inicial do batismo no Espírito; outros veem nas línguas um sinal dado em momentos decisivos da expansão da igreja, sem fazer delas regra para todos. Ver as notas em 2:4 e 10:46. O NA28, o Textus Receptus e o Texto Bizantino trazem o artigo tas antes de “mãos”, sem efeito na tradução."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Quando Paulo lhes impôs as mãos",
+    "termo": "ἐπιθέντος αὐτοῖς τοῦ Παύλου χεῖρας",
+    "titulo": "Paulo e Pedro",
+    "texto": "Como Pedro e João em Samaria (8:17), Paulo impõe as mãos e o Espírito vem. Lucas mostra Paulo agindo com a mesma autoridade dos primeiros apóstolos (cf. 14:8-10 e 3:1-10; 19:11-12 e 5:15). Sobre a imposição de mãos, ver 6:6 e 8:17."
+   }
+  ]
+ },
+ "Act.19.7": {
+  "t": "Eram ao todo cerca de doze homens.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "cerca de doze homens",
+    "termo": "ἄνδρες ὡσεὶ δώδεκα (andres hōsei dōdeka)",
+    "titulo": "doze",
+    "texto": "Alguns veem no número uma alusão aos Doze e ao Israel restaurado; o “cerca de” sugere, porém, um número aproximado e não simbólico. Andres (“homens”) pode indicar que só os homens foram contados, como em 4:4. O Textus Receptus e o Texto Bizantino trazem dekadyo, outra forma de “doze”."
+   }
+  ]
+ },
+ "Act.19.8": {
+  "t": "Paulo entrou na sinagoga e, durante três meses, falou ali com ousadia, discutindo e procurando convencer as pessoas a respeito do Reino de Deus.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "a respeito do Reino de Deus",
+    "termo": "περὶ τῆς βασιλείας τοῦ θεοῦ",
+    "titulo": "o Reino de Deus em Atos",
+    "texto": "Atos resume a pregação dos apóstolos como anúncio do Reino de Deus (1:3; 8:12; 14:22; 20:25; 28:23, 31): o reinado de Deus que chegou em Jesus, o Messias, e que será plenamente manifestado na sua vinda. Três meses na sinagoga é o período mais longo registrado em Atos. O NA28, o THGNT, o Textus Receptus e o Texto Bizantino trazem ta (“as coisas referentes ao Reino”), sem efeito na tradução."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "procurando convencer",
+    "termo": "πείθων (peithōn)",
+    "titulo": "conativo",
+    "texto": "Como em 18:4, o presente pode indicar tentativa: “procurando persuadir”. Parrēsiazomai (“falar com ousadia”): ver 18:26."
+   }
+  ]
+ },
+ "Act.19.9": {
+  "t": "Mas, como alguns se endureciam e se recusavam a crer, falando mal do Caminho diante da multidão, Paulo se afastou deles, separou os discípulos e passou a discutir todos os dias na escola de Tirano.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "se endureciam e se recusavam a crer",
+    "termo": "ἐσκληρύνοντο καὶ ἠπείθουν (esklērynonto kai ēpeithoun)",
+    "titulo": "sklērynō e apeitheō",
+    "texto": "Sklērynō (“endurecer”) é o verbo do coração do faraó na Septuaginta (Êx 7:22; 8:15) e da advertência de Hb 3:8, 15. Apeitheō é a recusa de crer vista como desobediência (14:2). “O Caminho” é o nome do movimento cristão (ver 9:2); kakologeō é “falar mal, difamar”."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "na escola de Tirano",
+    "termo": "ἐν τῇ σχολῇ Τυράννου (en tē scholē Tyrannou)",
+    "titulo": "a escola de Tirano",
+    "texto": "Scholē (hápax) era originalmente o “tempo livre”, depois o lugar onde se ocupava o tempo livre com aulas e debates: sala de conferências. Tirano era talvez o dono da sala ou um professor que a usava. O Códice de Beza (D) acrescenta “da quinta à décima hora”, isto é, das onze da manhã às quatro da tarde, horas do descanso no calor, em que a sala estaria livre e Paulo, depois de trabalhar de manhã (20:34), poderia ensinar; o acréscimo não está nas edições, mas descreve uma situação plausível. O Textus Receptus e o Texto Bizantino acrescentam tinos (“de um certo Tirano”)."
+   }
+  ]
+ },
+ "Act.19.10": {
+  "t": "Isso continuou por dois anos, de modo que todos os habitantes da Ásia, judeus e gregos, ouviram a palavra do Senhor.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "todos os habitantes da Ásia",
+    "termo": "πάντας τοὺς κατοικοῦντας τὴν Ἀσίαν",
+    "titulo": "a palavra se espalha pela Ásia",
+    "texto": "Hipérbole que mostra o alcance da obra. Com Éfeso como centro, colaboradores de Paulo levaram a mensagem a outras cidades da província: Epafras a Colossos, Laodiceia e Hierápolis (Cl 1:7; 4:12-13), que Paulo não visitou pessoalmente (Cl 2:1). É provável que várias das sete igrejas de Ap 2-3 tenham surgido nesse período. Com os três meses do v. 8 e outros períodos, a estada em Éfeso chega a cerca de três anos (20:31). O Textus Receptus e o Texto Bizantino trazem “a palavra do Senhor Jesus”."
+   }
+  ]
+ },
+ "Act.19.11": {
+  "t": "Deus fazia milagres extraordinários por meio das mãos de Paulo,",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "milagres extraordinários",
+    "termo": "Δυνάμεις ... οὐ τὰς τυχούσας (Dynameis ... ou tas tychousas)",
+    "titulo": "lítotes",
+    "texto": "Lit. “poderes não dos que acontecem por acaso”, isto é, nada comuns. É uma lítotes, afirmação pela negação do contrário (como em 12:18; 28:2). O sujeito é Deus: Paulo é o instrumento. O Texto Bizantino muda a ordem das palavras."
+   }
+  ]
+ },
+ "Act.19.12": {
+  "t": "a ponto de se levarem aos doentes lenços ou aventais que tinham tocado o corpo dele; as doenças os deixavam, e os espíritos malignos saíam.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "lenços ou aventais",
+    "termo": "σουδάρια ἢ σιμικίνθια (soudaria ē simikinthia)",
+    "titulo": "palavras latinas",
+    "texto": "As duas palavras vêm do latim. Soudarion (sudarium) é o pano para o suor, lenço (Lc 19:20; Jo 11:44). Simikinthion (semicinctium, hápax) é o avental usado por artesãos: talvez os aventais e panos que Paulo usava no seu ofício (18:3; 20:34). Chrōs (“pele, corpo”) também é hápax. O Textus Receptus e o Texto Bizantino trazem epipheresthai (“serem levados sobre”) e exerchesthai ap’ autōn (“saíam deles”), com o mesmo sentido."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "as doenças os deixavam",
+    "termo": "ἀπαλλάσσεσθαι ἀπ᾽ αὐτῶν τὰς νόσους",
+    "titulo": "milagres e objetos",
+    "texto": "Lucas registra fenômenos parecidos com a sombra de Pedro (5:15) e a orla do manto de Jesus (Lc 8:44). Ele não descreve um método a ser repetido, mas o poder de Deus agindo de modo extraordinário numa cidade famosa pela magia; e logo em seguida mostra que o nome de Jesus não funciona como fórmula mágica (v. 13-16). Na tradição católica e ortodoxa, o texto foi lembrado em favor da veneração de relíquias; intérpretes protestantes destacam que o poder não está nos objetos, mas em Deus, que “fazia” os milagres (v. 11)."
+   }
+  ]
+ },
+ "Act.19.13": {
+  "t": "Alguns exorcistas judeus que andavam de lugar em lugar também tentaram invocar o nome do Senhor Jesus sobre os que tinham espíritos malignos, dizendo: “Eu os conjuro por Jesus, a quem Paulo prega!”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "exorcistas",
+    "termo": "ἐξορκιστῶν (exorkistōn)",
+    "titulo": "exorkistēs, hápax",
+    "texto": "Única ocorrência no NT: quem expulsa espíritos com fórmulas de juramento (horkizō, “conjurar, fazer jurar”, Mc 5:7). Havia exorcistas judeus conhecidos no mundo antigo (cf. Lc 11:19), e o nome do Deus de Israel e de figuras como Salomão eram muito usados em fórmulas mágicas. Éfeso era famosa pelas “letras efésias”, palavras mágicas usadas como amuletos."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Eu os conjuro por Jesus, a quem Paulo prega",
+    "termo": "Ὁρκίζω ὑμᾶς τὸν Ἰησοῦν ὃν Παῦλος κηρύσσει",
+    "titulo": "o nome usado como fórmula",
+    "texto": "Os exorcistas tratam o nome de Jesus como palavra de poder que se pode usar sem relação pessoal com ele: “o Jesus que Paulo prega”, não “o nosso Senhor”. Um papiro mágico grego conservado em Paris (PGM IV) mostra o nome de Jesus usado assim em conjurações. O Textus Receptus e o Texto Bizantino trazem apo em vez de kai (“alguns dos exorcistas”), o plural horkizomen (“conjuramos”) e o artigo antes de “Paulo”."
+   }
+  ]
+ },
+ "Act.19.14": {
+  "t": "Os que faziam isso eram sete filhos de um certo Ceva, sumo sacerdote judeu.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Ceva, sumo sacerdote judeu",
+    "termo": "Σκευᾶ Ἰουδαίου ἀρχιερέως (Skeua Ioudaiou archiereōs)",
+    "titulo": "um sumo sacerdote desconhecido",
+    "texto": "Nenhum sumo sacerdote chamado Ceva aparece nas listas conhecidas dos sumos sacerdotes de Jerusalém, e Ceva (Sceva) parece nome latino. As explicações: era membro de uma das famílias sumo-sacerdotais (archiereis, no plural, designa também esse grupo; ver 4:6); ou o título era usado pelos próprios exorcistas para impressionar os clientes, já que a ligação com o sumo sacerdote, o único que pronunciava o Nome divino, daria prestígio às fórmulas. Lucas talvez o repita com ironia."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "eram sete filhos de um certo Ceva",
+    "termo": "ἦσαν δέ τινος Σκευᾶ ... ἑπτὰ υἱοί",
+    "titulo": "a forma do versículo",
+    "texto": "O SBLGNT, Westcott-Hort e Tregelles trazem tinos Skeua ... hepta huioi (“sete filhos de um certo Ceva”). O Textus Receptus e o Texto Bizantino trazem tines huioi Skeua ... hepta hoi touto poiountes (“havia alguns filhos de Ceva, sete, que faziam isso”). O texto ocidental traz uma forma bem diferente do versículo. O sentido geral é o mesmo."
+   }
+  ]
+ },
+ "Act.19.15": {
+  "t": "Mas o espírito maligno lhes respondeu: “Jesus eu conheço, e Paulo eu sei quem é; mas vocês, quem são?”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "Jesus eu conheço, e Paulo eu sei quem é",
+    "termo": "Τὸν Ἰησοῦν γινώσκω καὶ τὸν Παῦλον ἐπίσταμαι",
+    "titulo": "dois verbos de conhecer",
+    "texto": "O espírito usa dois verbos: ginōskō para Jesus e epistamai para Paulo. Alguns veem uma nuance (conhecer Jesus, reconhecer a sua autoridade; saber quem é Paulo); outros, simples variação de estilo. Os nomes vêm antes dos verbos, em destaque, e “vocês” (hymeis) é enfático: o espírito reconhece a autoridade de Jesus e do seu servo, mas não a dos que usam o nome sem pertencer a ele (cf. Mt 7:22-23). Westcott-Hort traz men depois de “Jesus”; o Textus Receptus e o Texto Bizantino omitem autois (“lhes”)."
+   }
+  ]
+ },
+ "Act.19.16": {
+  "t": "E o homem que tinha o espírito maligno saltou sobre eles, dominou todos e prevaleceu contra eles, de modo que fugiram daquela casa nus e feridos.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "dominou todos",
+    "termo": "κατακυριεύσας ἀμφοτέρων (katakyrieusas amphoterōn)",
+    "titulo": "amphoteroi: “ambos” ou “todos”?",
+    "texto": "Amphoteroi é normalmente “ambos”, o que surpreende depois de “sete filhos” (v. 14). Talvez só dois estivessem presentes nesta ocasião; mas em papiros da época amphoteroi também aparece com o sentido de “todos”, e é assim que a maioria o entende aqui. O Textus Receptus e o Texto Bizantino trazem autōn (“dominou-os”), que evita a dificuldade e por isso parece correção posterior. Ephallomai (“saltar sobre”) é hápax."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "nus e feridos",
+    "termo": "γυμνοὺς καὶ τετραυματισμένους",
+    "titulo": "o nome não é magia",
+    "texto": "Os que quiseram usar o nome de Jesus como fórmula fogem humilhados. A cena é quase cômica, mas o ponto é sério: o poder está em Jesus, não na palavra pronunciada. O resultado é o temor e o louvor ao nome do Senhor Jesus (v. 17)."
+   }
+  ]
+ },
+ "Act.19.17": {
+  "t": "Isso se tornou conhecido de todos os judeus e gregos que moravam em Éfeso; o temor caiu sobre todos eles, e o nome do Senhor Jesus era engrandecido.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "o nome do Senhor Jesus era engrandecido",
+    "termo": "ἐμεγαλύνετο τὸ ὄνομα τοῦ κυρίου Ἰησοῦ",
+    "titulo": "o temor e o louvor",
+    "texto": "O temor diante do poder de Deus aparece também depois do juízo sobre Ananias e Safira (5:5, 11) e das curas dos apóstolos (2:43). O nome que os exorcistas tentaram manipular é agora honrado. Megalynō é “engrandecer, exaltar” (5:13; 10:46). Tregelles traz epesen em vez de epepesen (“caiu sobre”), sem efeito na tradução."
+   }
+  ]
+ },
+ "Act.19.18": {
+  "t": "Muitos dos que tinham crido vinham confessar e declarar abertamente as suas práticas.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "as suas práticas",
+    "termo": "τὰς πράξεις αὐτῶν (tas praxeis autōn)",
+    "titulo": "praxeis",
+    "texto": "Praxis é “ação, prática”, mas nos textos mágicos gregos a palavra designa também os feitiços e fórmulas. O v. 19 confirma que se trata de magia. Os que confessam são “os que tinham crido”: crentes que, depois de convertidos, continuavam a recorrer à magia e agora a abandonam publicamente. O perfeito pepisteukotōn pode indicar uma fé já estabelecida. Exomologeomai é confessar publicamente (Mt 3:6; Tg 5:16)."
+   }
+  ]
+ },
+ "Act.19.19": {
+  "t": "E muitos dos que tinham praticado artes mágicas juntaram os seus livros e os queimaram diante de todos. Calcularam o valor deles e chegaram a cinquenta mil moedas de prata.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "artes mágicas",
+    "termo": "τὰ περίεργα (ta perierga)",
+    "titulo": "periergos",
+    "texto": "Lit. “as coisas curiosas”, termo técnico para a magia e as práticas ocultas; em 1Tm 5:13 a palavra descreve pessoas “intrometidas”. Os “livros” eram rolos ou folhas com fórmulas mágicas, como os papiros mágicos gregos que se conservaram do Egito."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "cinquenta mil moedas de prata",
+    "termo": "ἀργυρίου μυριάδας πέντε (argyriou myriadas pente)",
+    "titulo": "um valor enorme",
+    "texto": "Lit. “cinco miríades de prata”. A moeda não é dita; provavelmente a dracma, de valor próximo ao do denário, que era o salário de um dia de trabalhador (Mt 20:2). Seriam cinquenta mil dias de trabalho: o sacrifício mostra a seriedade da conversão. Os livros foram queimados, e não vendidos, para que ninguém mais os usasse. Symphēphizō (“calcular, somar”) é hápax."
+   }
+  ]
+ },
+ "Act.19.20": {
+  "t": "Assim, pelo poder do Senhor, a palavra crescia e se fortalecia.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "pelo poder do Senhor, a palavra",
+    "termo": "κατὰ κράτος τοῦ κυρίου ὁ λόγος",
+    "titulo": "duas leituras",
+    "texto": "A ordem das palavras no texto crítico (“segundo o poder do Senhor a palavra”) permite ligar “do Senhor” a “poder” (“pelo poder do Senhor, a palavra crescia”) ou a “palavra”, entendendo kata kratos como advérbio (“a palavra do Senhor crescia poderosamente”). O Textus Receptus e o Texto Bizantino trazem ho logos tou kyriou (“a palavra do Senhor”), que favorece a segunda. A tradução segue a ordem do texto crítico; o sentido geral é o mesmo."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "a palavra crescia e se fortalecia",
+    "termo": "ὁ λόγος ηὔξανεν καὶ ἴσχυεν",
+    "titulo": "um resumo de progresso",
+    "texto": "Mais um dos resumos que marcam as etapas de Atos (6:7; 9:31; 12:24; 16:5). Fecha o relato da obra em Éfeso: a palavra vence a magia. A seguir começa a última grande parte do livro, a caminho de Jerusalém e de Roma (v. 21)."
+   }
+  ]
+ },
+ "Act.19.21": {
+  "t": "Depois desses acontecimentos, Paulo decidiu no espírito ir a Jerusalém, passando pela Macedônia e pela Acaia, e disse: “Depois de estar lá, preciso ver também Roma.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "decidiu no espírito",
+    "termo": "ἔθετο ... ἐν τῷ πνεύματι (etheto ... en tō pneumati)",
+    "titulo": "espírito ou Espírito?",
+    "texto": "Lit. “pôs no espírito”. Pode ser uma decisão interior de Paulo (“resolveu consigo mesmo”) ou uma decisão tomada sob a direção do Espírito Santo (“resolveu no Espírito”). Em 20:22 Paulo diz ir a Jerusalém “constrangido pelo Espírito”, e em 20:23 e 21:4, 11 o Espírito fala sobre essa viagem; por isso muitos preferem a maiúscula. A tradução usa a minúscula porque a frase descreve antes de tudo uma decisão de Paulo, mas a outra leitura é muito possível.",
+    "revisar": true
+   },
+   {
+    "tipo": "sn",
+    "ancora": "preciso ver também Roma",
+    "termo": "δεῖ με καὶ Ῥώμην ἰδεῖν",
+    "titulo": "o caminho para Roma",
+    "texto": "Dei (“é necessário”) expressa em Lucas o plano de Deus (cf. 23:11; 27:24). A viagem segue o padrão da de Jesus, que “firmou o rosto para ir a Jerusalém” (Lc 9:51). Paulo escreve em Rm 1:13 e 15:22-28 do seu desejo de ir a Roma e de lá à Espanha, depois de levar a Jerusalém a coleta das igrejas da Macedônia e da Acaia (Rm 15:25-26; 1Co 16:1-4), que Lucas só menciona em 24:17. O Texto Bizantino traz Ierousalēm, outra forma do nome."
+   }
+  ]
+ },
+ "Act.19.22": {
+  "t": "Enviou à Macedônia dois dos seus auxiliares, Timóteo e Erasto, e ele mesmo ficou mais algum tempo na Ásia.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Timóteo e Erasto",
+    "termo": "Τιμόθεον καὶ Ἔραστον (Timotheon kai Eraston)",
+    "titulo": "os enviados",
+    "texto": "Timóteo foi enviado à Macedônia e depois a Corinto (1Co 4:17; 16:10). Um Erasto aparece em Rm 16:23 como “tesoureiro da cidade” de Corinto e em 2Tm 4:20, que diz que ele “ficou em Corinto”. Em Corinto foi encontrada uma inscrição num calçamento que menciona um Erasto, edil, que o pagou com o próprio dinheiro; a identificação com o Erasto do NT é discutida. “Auxiliares” traduz tōn diakonountōn autō, lit. “dos que o serviam”."
+   }
+  ]
+ },
+ "Act.19.23": {
+  "t": "Por esse tempo, houve um tumulto não pequeno por causa do Caminho.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "um tumulto não pequeno",
+    "termo": "τάραχος οὐκ ὀλίγος (tarachos ouk oligos)",
+    "titulo": "lítotes",
+    "texto": "A mesma expressão de 12:18: “um grande tumulto”. “O Caminho”: ver 9:2 e 19:9. Paulo fala de perigos mortais na Ásia em 2Co 1:8-10 e de ter lutado “com feras em Éfeso” (1Co 15:32), talvez em sentido figurado; não se sabe se se referem a este episódio."
+   }
+  ]
+ },
+ "Act.19.24": {
+  "t": "Um ourives chamado Demétrio, que fazia miniaturas de prata do templo de Ártemis, proporcionava aos artesãos um lucro não pequeno.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "miniaturas de prata do templo",
+    "termo": "ναοὺς ἀργυροῦς (naous argyrous)",
+    "titulo": "naoi de prata",
+    "texto": "Lit. “templos de prata”: pequenas réplicas do santuário com a imagem da deusa, vendidas aos peregrinos como lembrança ou oferenda. Foram encontradas réplicas desse tipo em barro e em mármore; em prata não se conservou nenhuma, talvez porque o metal era reaproveitado. Uma inscrição de Éfeso do início do século II registra a doação de estatuetas de prata de Ártemis por um cidadão, Víbio Salutar. Argyrokopos (“ourives, trabalhador em prata”) é hápax."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Ártemis",
+    "termo": "Ἀρτέμιδος (Artemidos)",
+    "titulo": "a Ártemis de Éfeso",
+    "texto": "As traduções antigas, como Almeida, usam o nome latino, Diana; a APV mantém o nome grego do texto, como fez com Zeus e Hermes (14:12). A Ártemis de Éfeso não era a caçadora virgem da mitologia grega, mas uma deusa-mãe da Ásia Menor, protetora da cidade e da fertilidade, representada com muitas saliências no peito, interpretadas como seios, ovos ou outros símbolos. O seu templo, o Artemísion, era uma das sete maravilhas do mundo antigo, muito maior que o Partenon, e funcionava também como banco e centro econômico."
+   }
+  ]
+ },
+ "Act.19.25": {
+  "t": "Ele os reuniu, junto com os trabalhadores de ofícios semelhantes, e disse: “Homens, vocês sabem que é deste negócio que vem a nossa prosperidade.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "prosperidade",
+    "termo": "εὐπορία (euporia)",
+    "titulo": "euporia, hápax",
+    "texto": "Única ocorrência no NT: “abundância, bem-estar, riqueza”. Demétrio começa pelo dinheiro e só depois fala da deusa (v. 27). Ergasia é “negócio, lucro”, como em 16:16, 19: de novo, o evangelho ameaça quem lucra com a religião. “Homens” traduz andres, forma comum de dirigir-se a um grupo (14:15). O Textus Receptus e o Texto Bizantino trazem hēmōn em vez de hēmin, sem efeito na tradução."
+   }
+  ]
+ },
+ "Act.19.26": {
+  "t": "E vocês veem e ouvem que, não só em Éfeso, mas em quase toda a Ásia, esse Paulo persuadiu e desviou muita gente, dizendo que não são deuses os que são feitos por mãos humanas.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "não são deuses os que são feitos por mãos humanas",
+    "termo": "οὐκ εἰσὶν θεοὶ οἱ διὰ χειρῶν γινόμενοι",
+    "titulo": "um testemunho involuntário",
+    "texto": "Demétrio confirma, sem querer, o alcance da pregação (v. 10) e o seu conteúdo: a crítica bíblica aos ídolos (Is 44:9-20; Sl 115:4-8; At 17:24, 29). Cerca de sessenta anos depois, Plínio, o Moço, governador da Bitínia, escreveu ao imperador Trajano que, por causa dos cristãos, os templos tinham ficado quase desertos e a carne dos sacrifícios quase não encontrava compradores (Cartas 10.96). “Esse Paulo” (ho Paulos houtos) soa depreciativo."
+   }
+  ]
+ },
+ "Act.19.27": {
+  "t": "Há o perigo não só de que o nosso ofício caia em descrédito, mas também de que o templo da grande deusa Ártemis seja tido em nada, e de que ela mesma, a quem toda a Ásia e o mundo inteiro adoram, venha a ser despojada da sua majestade.”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "caia em descrédito",
+    "termo": "εἰς ἀπελεγμὸν ἐλθεῖν (eis apelegmon elthein)",
+    "titulo": "apelegmos, hápax",
+    "texto": "Única ocorrência no NT: “desprestígio, descrédito”. Thea (“deusa”) também é hápax no NT. Lit. “esta parte corre perigo de cair em descrédito”: meros (“parte”) é aqui o ramo de negócio, o ofício."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "venha a ser despojada da sua majestade",
+    "termo": "μέλλειν τε καὶ καθαιρεῖσθαι τῆς μεγαλειότητος αὐτῆς",
+    "titulo": "genitivo ou acusativo",
+    "texto": "O texto crítico traz o genitivo tēs megaleiotētos: “ela ser despojada da sua majestade”. O Textus Receptus e o Texto Bizantino trazem o acusativo tēn megaleiotēta e de em vez de te: “e a sua majestade estar para ser destruída”. O sentido é próximo. O Texto Bizantino muda também a ordem de “templo de Ártemis”."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "a quem toda a Ásia e o mundo inteiro adoram",
+    "termo": "ἣν ὅλη ἡ Ἀσία καὶ ἡ οἰκουμένη σέβεται",
+    "titulo": "um culto difundido",
+    "texto": "Há algum exagero, mas o culto da Ártemis de Éfeso estava de fato espalhado por muitas cidades do mundo mediterrâneo, e o escritor Pausânias, no século II, diz que nenhuma divindade era mais venerada em particular. Megaleiotēs (“grandeza, majestade”) é a palavra de Lc 9:43 para a grandeza de Deus."
+   }
+  ]
+ },
+ "Act.19.28": {
+  "t": "Ao ouvir isso, ficaram cheios de fúria e começaram a gritar: “Grande é a Ártemis dos efésios!”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "Grande é a Ártemis dos efésios!",
+    "termo": "Μεγάλη ἡ Ἄρτεμις Ἐφεσίων (Megalē hē Artemis Ephesiōn)",
+    "titulo": "uma aclamação",
+    "texto": "Aclamação ritual do culto da deusa; “grande” era o título dela em inscrições de Éfeso. O imperfeito ekrazon indica gritos repetidos. Thymos é “fúria, ira”."
+   }
+  ]
+ },
+ "Act.19.29": {
+  "t": "A cidade se encheu de confusão, e todos correram juntos para o teatro, arrastando consigo Gaio e Aristarco, macedônios que eram companheiros de viagem de Paulo.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "o teatro",
+    "termo": "τὸ θέατρον (to theatron)",
+    "titulo": "o teatro de Éfeso",
+    "texto": "O teatro de Éfeso, cujas ruínas ainda existem, era usado também para as assembleias do povo. Os arqueólogos estimam a sua capacidade em cerca de 24 mil pessoas. Synchysis (“confusão”) é hápax. O Textus Receptus e o Texto Bizantino trazem “toda a cidade”."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Gaio e Aristarco",
+    "termo": "Γάϊον καὶ Ἀρίσταρχον (Gaion kai Aristarchon)",
+    "titulo": "os companheiros de Paulo",
+    "texto": "Aristarco era de Tessalônica e acompanhará Paulo até Roma (20:4; 27:2; Cl 4:10; Fm 24). Gaio era nome muito comum; em 20:4 aparece um Gaio de Derbe, que seria outra pessoa, já que este é macedônio. Synekdēmos é o “companheiro de viagem” (2Co 8:19)."
+   }
+  ]
+ },
+ "Act.19.30": {
+  "t": "Paulo queria apresentar-se ao povo, mas os discípulos não o deixaram.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "apresentar-se ao povo",
+    "termo": "εἰσελθεῖν εἰς τὸν δῆμον (eiselthein eis ton dēmon)",
+    "titulo": "dēmos",
+    "texto": "Lit. “entrar no povo”: o dēmos é o povo reunido em assembleia no teatro (17:5; 19:33). Paulo queria defender os companheiros ou falar à multidão; os discípulos sabiam do perigo. O Textus Receptus e o Texto Bizantino trazem o artigo antes de “Paulo”."
+   }
+  ]
+ },
+ "Act.19.31": {
+  "t": "Também alguns dos asiarcas, que eram amigos dele, mandaram-lhe recado, pedindo que não se arriscasse a ir ao teatro.",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "asiarcas",
+    "termo": "τῶν Ἀσιαρχῶν (tōn Asiarchōn)",
+    "titulo": "os asiarcas",
+    "texto": "Título atestado em muitas inscrições da província da Ásia: homens ricos e influentes, ligados ao conselho da província e ao culto do imperador, que custeavam festas e jogos. A sua função exata é discutida. Que alguns deles fossem “amigos” de Paulo mostra que ele tinha boas relações com membros da elite local, e que a mensagem cristã não era vista por todos como ameaça política. Lit. “que não se desse ao teatro”, isto é, não se expusesse ali."
+   }
+  ]
+ },
+ "Act.19.32": {
+  "t": "Uns gritavam uma coisa, outros, outra, pois a assembleia estava em confusão, e a maioria nem sabia por que se tinha reunido.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "a assembleia",
+    "termo": "ἡ ἐκκλησία (hē ekklēsia)",
+    "titulo": "ekklēsia no sentido comum",
+    "texto": "Ekklēsia, a palavra que no NT designa a igreja, tinha no grego o sentido comum de assembleia dos cidadãos de uma cidade (v. 39, 41). Aqui é essa assembleia, reunida de modo irregular. Lucas descreve com ironia: a multidão grita sem saber por quê."
+   }
+  ]
+ },
+ "Act.19.33": {
+  "t": "Alguns da multidão instruíram Alexandre, a quem os judeus empurravam para a frente; e Alexandre, fazendo sinal com a mão, queria apresentar uma defesa diante do povo.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "instruíram",
+    "termo": "συνεβίβασαν (synebibasan)",
+    "titulo": "um verbo difícil",
+    "texto": "Symbibazō é “juntar, concluir, instruir” (9:22; 16:10; 1Co 2:16). Aqui o sentido é incerto: “alguns da multidão instruíram Alexandre” (lhe explicaram o que se passava), ou “concluíram que era Alexandre” (o responsável), ou “fizeram Alexandre avançar”. O Textus Receptus e o Texto Bizantino trazem proebibasan, “empurraram para a frente”, que parece uma tentativa de tornar a frase mais clara. A tradução segue o sentido mais comum do verbo.",
+    "revisar": true
+   },
+   {
+    "tipo": "sn",
+    "ancora": "Alexandre, a quem os judeus empurravam para a frente",
+    "termo": "Ἀλέξανδρον προβαλόντων αὐτὸν τῶν Ἰουδαίων",
+    "titulo": "por que os judeus intervêm?",
+    "texto": "Os judeus de Éfeso, que também rejeitavam os ídolos, queriam provavelmente mostrar que nada tinham a ver com Paulo e com os cristãos, para não serem alvo da fúria da multidão. Não se sabe se este Alexandre é o “Alexandre, o ferreiro” que fez mal a Paulo (2Tm 4:14). “Fazer sinal com a mão”: ver 12:17."
+   }
+  ]
+ },
+ "Act.19.34": {
+  "t": "Mas, quando perceberam que ele era judeu, todos gritaram a uma só voz, durante cerca de duas horas: “Grande é a Ártemis dos efésios!”",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "quando perceberam que ele era judeu",
+    "termo": "ἐπιγνόντες δὲ ὅτι Ἰουδαῖός ἐστιν",
+    "titulo": "uma frase quebrada",
+    "texto": "O particípio no nominativo (“percebendo”) não concorda com o resto da frase (“houve uma só voz de todos”): é uma construção quebrada, que reflete a confusão da cena. Bastou saber que Alexandre era judeu, isto é, inimigo das imagens, para que a multidão não o deixasse falar. O Textus Receptus traz o genitivo epignontōn, que regulariza a frase; Westcott-Hort traz hōsei em vez de hōs (“cerca de”)."
+   }
+  ]
+ },
+ "Act.19.35": {
+  "t": "Então o escrivão da cidade, depois de acalmar a multidão, disse: “Efésios, quem há que não saiba que a cidade de Éfeso é a guardiã do templo da grande Ártemis e da imagem que caiu do céu?",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "o escrivão da cidade",
+    "termo": "ὁ γραμματεύς (ho grammateus)",
+    "titulo": "o grammateus",
+    "texto": "Não um simples secretário, mas o principal magistrado da cidade, que redigia os decretos da assembleia e fazia a ligação com as autoridades romanas; o título aparece em muitas inscrições de Éfeso. Por isso ele teme as consequências do tumulto (v. 40). “Efésios” traduz andres Ephesioi, lit. “homens efésios”, a forma solene de se dirigir à assembleia (cf. 17:22)."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "guardiã do templo",
+    "termo": "νεωκόρον (neōkoron)",
+    "titulo": "neōkoros, hápax",
+    "texto": "Lit. “varredor do templo”, depois “guardião do templo”: título honorífico que as cidades recebiam por manter um grande santuário. Éfeso o usava com orgulho em moedas e inscrições, para Ártemis e, mais tarde, para os templos do culto imperial. O Textus Receptus e o Texto Bizantino trazem “da grande deusa Ártemis” e anthrōpos em vez de anthrōpōn, sem efeito na tradução."
+   },
+   {
+    "tipo": "tn",
+    "ancora": "da imagem que caiu do céu",
+    "termo": "τοῦ διοπετοῦς (tou diopetous)",
+    "titulo": "diopetēs, hápax",
+    "texto": "Lit. “do que caiu de Zeus”, isto é, do céu. Uma imagem ou pedra sagrada que, segundo a crença, tinha vindo do céu; alguns pensam num meteorito. O substantivo não é expresso; “imagem” é o mais provável."
+   }
+  ]
+ },
+ "Act.19.36": {
+  "t": "Visto que essas coisas são incontestáveis, vocês devem ficar calmos e não fazer nada precipitado.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "incontestáveis",
+    "termo": "ἀναντιρρήτων (anantirrētōn)",
+    "titulo": "anantirrētos, hápax",
+    "texto": "Única ocorrência no NT: “que não pode ser contestado”. O escrivão usa o argumento para acalmar a multidão: se ninguém pode negar a grandeza de Ártemis, não há motivo para tumulto. Katastellō é “acalmar” (v. 35); propetēs é “precipitado, imprudente” (2Tm 3:4)."
+   }
+  ]
+ },
+ "Act.19.37": {
+  "t": "Pois vocês trouxeram aqui estes homens, que não são ladrões de templos nem blasfemaram contra a nossa deusa.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "ladrões de templos",
+    "termo": "ἱεροσύλους (hierosylous)",
+    "titulo": "hierosylos, hápax",
+    "texto": "Única ocorrência no NT: quem rouba ou profana templos, crime grave no mundo antigo (cf. Rm 2:22). O escrivão atesta que os cristãos não tinham cometido sacrilégio nem insultado a deusa: a pregação contra os ídolos (v. 26) não incluía ataques ao templo nem ofensas. “Nossa deusa” traduz tēn theon hēmōn, com o substantivo masculino theos e artigo feminino."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "a nossa deusa",
+    "termo": "τὴν θεὸν ἡμῶν (tēn theon hēmōn)",
+    "titulo": "“nossa” ou “vossa”",
+    "texto": "O texto crítico traz hēmōn (“nossa”); o Textus Receptus e o Texto Bizantino, hymōn (“vossa”), e o Textus Receptus traz a forma feminina thean. Na boca do escrivão, “nossa deusa” é o mais natural."
+   }
+  ]
+ },
+ "Act.19.38": {
+  "t": "Portanto, se Demétrio e os artesãos que estão com ele têm alguma queixa contra alguém, os tribunais estão funcionando e há procônsules: que apresentem acusações uns contra os outros.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "os tribunais estão funcionando",
+    "termo": "ἀγοραῖοι ἄγονται (agoraioi agontai)",
+    "titulo": "dias de audiência",
+    "texto": "Lit. “os dias de audiência (agoraioi) são realizados”: há sessões judiciais regulares. Agoraios, que em 17:5 designa os desocupados da praça, aqui se refere aos dias de tribunal. O escrivão lembra que existem os caminhos legais."
+   },
+   {
+    "tipo": "sn",
+    "ancora": "há procônsules",
+    "termo": "ἀνθύπατοί εἰσιν (anthypatoi eisin)",
+    "titulo": "o plural",
+    "texto": "A Ásia tinha um só procônsul de cada vez. O plural pode ser genérico (“há autoridades romanas”). Alguns relacionam o plural com o ano de 54 d.C., quando o procônsul da Ásia, Júnio Silano, foi envenenado a mando de Agripina, mãe de Nero (Tácito, Anais 13.1), e a província ficou por um tempo sob outros responsáveis; é hipótese."
+   }
+  ]
+ },
+ "Act.19.39": {
+  "t": "E, se vocês querem alguma coisa além disso, será resolvido na assembleia legal.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "assembleia legal",
+    "termo": "τῇ ἐννόμῳ ἐκκλησίᾳ (tē ennomō ekklēsia)",
+    "titulo": "a assembleia regular",
+    "texto": "A assembleia convocada pelas autoridades nos dias fixados pela lei, em oposição à reunião desordenada que acontecia no teatro (v. 32). Epilyō é “resolver, decidir”."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "alguma coisa além disso",
+    "termo": "τι περαιτέρω (ti peraiterō)",
+    "titulo": "peraiterō ou peri heterōn",
+    "texto": "O texto crítico traz peraiterō (“além disso, mais adiante”, hápax). O Textus Receptus e o Texto Bizantino trazem peri heterōn (“a respeito de outras coisas”). O sentido é próximo."
+   }
+  ]
+ },
+ "Act.19.40": {
+  "t": "Pois corremos o risco de ser acusados de rebelião pelo que aconteceu hoje, já que não há motivo algum com que possamos justificar esta aglomeração.”",
+  "n": [
+   {
+    "tipo": "sn",
+    "ancora": "acusados de rebelião",
+    "termo": "ἐγκαλεῖσθαι στάσεως (enkaleisthai staseōs)",
+    "titulo": "o medo de Roma",
+    "texto": "Stasis é “sedição, revolta”, a acusação que mais preocupava as cidades sob o domínio romano: uma assembleia tumultuosa podia levar Roma a punir a cidade e a retirar-lhe privilégios. O escrivão se preocupa mais com a cidade do que com Paulo, mas o resultado protege os cristãos. Systrophē é “aglomeração, ajuntamento” (23:12)."
+   },
+   {
+    "tipo": "tc",
+    "ancora": "justificar",
+    "termo": "ἀποδοῦναι λόγον (apodounai logon)",
+    "titulo": "pequenas variantes",
+    "texto": "O Texto Bizantino traz dounai (“dar”) em vez de apodounai (“prestar”) e, com o Textus Receptus, omite peri (“a respeito de”) antes de “esta aglomeração”; o Textus Receptus omite também hou. A frase do texto crítico é um pouco irregular; o sentido é o mesmo."
+   }
+  ]
+ },
+ "Act.19.41": {
+  "t": "E, dito isso, dissolveu a assembleia.",
+  "n": [
+   {
+    "tipo": "tn",
+    "ancora": "dissolveu a assembleia",
+    "termo": "ἀπέλυσεν τὴν ἐκκλησίαν (apelysen tēn ekklēsian)",
+    "titulo": "a numeração do versículo",
+    "texto": "No SBLGNT, estas palavras pertencem ao v. 40, e o capítulo não tem v. 41. A APV segue a numeração tradicional. Ekklēsia é de novo a assembleia da cidade (v. 32)."
+   }
+  ]
+ }
+}

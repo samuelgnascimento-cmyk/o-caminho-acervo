@@ -60,3 +60,6 @@ Rev Mrk_14-16 (13) → decisão a1bbce93fda8de14d.
 Final: Act_12-17 (27/3/0).
 Onda 4: Act_18-23 a65d73a74f7f22479.
 Final: Mrk_14-16 (11/2/0). MARCOS COMPLETO: juntado+montado, na página (versão 4). Onda 4: Rom_9-16 a92e23dfe9590a855.
+Luk_13-18 traduzido (213, 305 notas) → rev a7987d10a388dd673. Template revisor: /tmp/claude-0/prompt_revisor2.txt
+# PAUSA 4: Samuel escreveu "Pause" em 2026-11-18 03:00 UTC (lido em 2026-11-22 15:02; agentes já parados pelo limite semanal desde 2026-11-17 08:15).
+Ao retomar: Luk_13-18 traduzido, revisor a7987d10a388dd673 interrompido (respawnar com /tmp/claude-0/prompt_revisor2.txt); tradutores parciais: Mat_24-28 a961b6a980bae0260, Jhn_15-21 a92e3f1b73fe57b8e, Act_18-23 a65d73a74f7f22479, Rom_9-16 a92e23dfe9590a855.
